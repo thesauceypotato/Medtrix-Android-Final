@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "id": "test4",
+    "title": "Basics_of_Radiology-Radiation_Exposure__Hazards__Protection_Guidelines__and_Contrast_Media",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A patient exposed to radiation presents with severe nausea, vomiting, and diarrhoea within a few days. Based on these symptoms, what is the expected radiation dose that has likely caused this Gastrointestinal Syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-5 Gy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5-20 Gy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "20-30 Gy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": ">30 Gy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 5-20 Gy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:665px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Time Post-Exposure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms/Outcomes</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prodromal Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0\u20132 days</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nausea, vomiting, anorexia, fever, headache, early skin <span class=\"customMeta\" data-dictid=\"f0f3e105661692777187df507b1f26\">erythema</span> (suggesting significant exposure<strong> >2 Gy</strong>)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Latent Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2\u201320 days</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Temporary symptom improvement; <span class=\"customMeta\" data-dictid=\"458e050fdc16927771809854c9fd53\">abnormal</span> lab results (lymphopenia, granulocytopenia) despite feeling well</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Manifest Illness Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>21\u201360 days</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Symptoms vary by syndrome:</p>\n<ul>\n<li><strong>Hematopoietic syndrome </strong>(<strong>1-8 Gy</strong>, death in months):</li>\n<li><strong>Gastrointestinal syndrome</strong> (<strong>>5 Gy</strong>, death in 2 weeks)</li>\n<li><strong>Neurovascular syndrome</strong> (<strong>>20 Gy</strong>, death within 48 hours)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Final Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Recovery or Death</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The outcome depends on the absorbed dose, dose rate, and exposure heterogeneity.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bx0EJN3kGzm0sjRC1s851745859605.mp3",
+      "video": "",
+      "uid": "71a4a5a9"
+    },
+    {
+      "text": "A 55-year-old male presents to the emergency department with acute abdominal pain and altered bowel habits. The physician suspects abdominal pathology and considers various imaging studies, weighing concerns about radiation exposure. Which imaging modality would expose the patient to the highest level of radiation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CT scan of the abdomen",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Barium enema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lumbar spine X-ray",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Micturating cystourethrogram (MCU)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. CT scan of the abdomen",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hazard Level</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Modality</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Investigation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Effective Dose (mSv)</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>DANGER</strong></p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>PET/CT/Radionuclide Studies</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CT Abdomen</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>10</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CT Thorax</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>8</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>PET</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>5</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bone Scan</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>4</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CT Head</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2 - 3.5</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>WARNING</strong></p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic procedures\u2013 multiple views</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Enema</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>7</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Meal follow-through</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>3</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Meal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2.6</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Swallow</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1.5</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Micturating <span class=\"customMeta\" data-dictid=\"7d3833cfbf1692777185c44c246cf4\">Cystourethrogram</span> (MCU)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1.2</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"6\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SAFE</strong></p>\n</td>\n<td rowspan=\"6\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Spot radiographs: Only 1 or 2 <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> exposures to the patient</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>X-ray <span class=\"customMeta\" data-dictid=\"683192f6b21692777191ae16feee76\">Lumbar</span> Spine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1 - 1.5</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>X-ray Abdomen</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>0.7 - 1.2</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hip Joint</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>0.4</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skull</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>0.06</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CXR (PA View)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>0.02</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Limb & Joint (Except Hip)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong><0.01</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Fb3y31GfMweqHnYDQquf1745893658.mp3",
+      "video": "",
+      "uid": "05004f55"
+    },
+    {
+      "text": "A 20-year-old female has recently started working in the radiology department and is concerned about radiation exposure. She seeks advice from the occupational health department. According to AERB guidelines, what is the maximum dose limit for occupational workers exposed to whole-body radiation in a year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 mSv",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "20 mSv",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "30 mSv",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "15 mSv",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 30 mSv",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:663px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Part of the body </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Occupational Exposure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Public Exposure</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Whole body</strong></p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>20 mSv per year (averaged over 5 years) <strong>(Option B)</strong></p>\n<p>30 mSV in a year (maximum) <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1mSv per year</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lens of the eyes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>150 mSv per year</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>15 mSv per year <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skin and Extremities (hand and feet)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>500 mSv in a year</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>50 mSv per year <strong>(Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pregnant radiation workers (once pregnancy is declared) </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1 mSv (for the embryo/fetus)</p>\n<p>2 mSv (for the pregnant women)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/UyCcuOTl6MFTRnwmwmRY1745854251.mp3",
+      "video": "",
+      "uid": "1e884ce6"
+    },
+    {
+      "text": "A 25-year-old male who recently joined the radiology department was instructed to wear the device shown in the image. Which of the following statements about this device is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assess the amount of radiation exposure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Comprise of thermoluminescent phosphors",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Should be sent for dose monitoring every 3 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is worn over the lead apron",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. It is worn over the lead apron",
+      "question_images": [
+        "https://image.prepladder.com/notes/R8hUsNnKKI1sdoq6d6Sy1743783977.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/svWGPpQFpjIQGMPaJfqb1743784018.png",
+        "https://image.prepladder.com/notes/R8hUsNnKKI1sdoq6d6Sy1743783977.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:691px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TLD (Thermoluminescent Dosimeter) Badge</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purpose </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is worn by individuals in radiation-exposed environments, such as medical <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> or nuclear facilities, to track their radiation dose and ensure it stays within safe limits.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Worn<strong> beneath </strong>the lead apron (as lead apron cuts off some radiation)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Duration </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>According to the <span class=\"customMeta\" data-dictid=\"d07ff57c3f1692777182594c5f75ba\">Atomic Energy</span> Regulatory Board (AERB) of India, TLD badges are generally replaced and analyzed <strong>every 3 months</strong> to assess <span class=\"customMeta\" data-dictid=\"fa914a0d95169277718542753b513d\">cumulative</span> radiation exposure. <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Composition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thermoluminescent phosphor crystals</strong>: <strong>(Option B)</strong></p>\n<ul>\n<li>Calcium <span class=\"customMeta\" data-dictid=\"535af9a2181692777199309af44d24\">sulfate</span> dysprosium</li>\n<li>Lithium fluoride</li>\n<li>Lithium borate</li>\n<li>Berrylium oxide</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Principle </strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RA026\" data-author=\"\" data-hash=\"7540\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/svWGPpQFpjIQGMPaJfqb1743784018.png\"/></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/17n9UlLYtEyM3ZBIvaeX1748959854.mp3",
+      "video": "",
+      "uid": "fdfdf402"
+    },
+    {
+      "text": "A 50-year-old female patient with a history of breast cancer is scheduled for a follow-up PET scan. During the consultation, she expresses concern about the long-term effects of radiation exposure. Which of the following statements regarding the stochastic effects of radiation exposure is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The severity of the effects is dose-dependent",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It can also result in radiation-induced cataracts",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No threshold dose is required for the occurrence",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. No threshold dose is required for the occurrence",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/zYDI6C7kaeU7iFAD9kqn1743784140.png",
+        "https://image.prepladder.com/notes/T3MqeRoIZZdDMSOmqrkt1743784202.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:683px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Deterministic Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stochastic Effects</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Threshold dose</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Required</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not required (occur by chance, at any dose) <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severity </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dose-dependent</strong> <strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dose-independent</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Dose increased</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severity increases</p>\n<p><img alt=\"RA028\" data-author=\"\" data-hash=\"7541\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/zYDI6C7kaeU7iFAD9kqn1743784140.png\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>The <span class=\"customMeta\" data-dictid=\"f52ac1410416927771969ba21fcb63\">probability</span> of occurrence increases</strong></p>\n<p><img alt=\"RA029\" data-author=\"\" data-hash=\"7542\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/T3MqeRoIZZdDMSOmqrkt1743784202.png\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:124px\">\n<p style=\"text-align:center\"><strong>Examples\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:268px\">\n<ul>\n<li><strong>Radiation-induced <span class=\"customMeta\" data-dictid=\"781e6a5a991692777183252720baad\">cataract</span> </strong><strong>(Option B)</strong></li>\n<li>Skin <span class=\"customMeta\" data-dictid=\"f0f3e105661692777187df507b1f26\">erythema</span> (most common side effect)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<ul>\n<li>Radiation-induced cancer (most common is Leukemia)</li>\n<li>Congenital malformations</li>\n<li>Mutations</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/DAGmviiKqzQmjtp329vg1745859353.mp3",
+      "video": "",
+      "uid": "e6659894"
+    },
+    {
+      "text": "In the context of the ALARA (As Low As Reasonably Achievable) principle, which of the following strategies is not aligned with minimising radiation exposure for healthcare workers during interventional procedures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the distance between the operator and the radiation source.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Continuous fluoroscopy instead of Pulsed fluoroscopy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Implementing lead shielding and personal protective equipment (PPE).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Reducing the duration of time the patient is exposed to radiation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Continuous fluoroscopy instead of Pulsed fluoroscopy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/9J7Vx4k9H2775F80B5sd1745860029.mp3",
+      "video": "",
+      "uid": "56b13ab1"
+    },
+    {
+      "text": "A 28-year-old woman arrives at the emergency department with acute abdominal pain. The attending physician is considering an abdominal X-ray. What does the \"10-day rule\" advise regarding X-ray exposure for women of childbearing age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A gap of at least 10 days between two successive X-rays.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Avoid non-urgent X-rays within 10 days post-menstruation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Perform X-rays during the first 10 days of the menstrual cycle.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "X-rays should be avoided 10 days before menstruation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Perform X-rays during the first 10 days of the menstrual cycle.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/lDTRMKZfjTwcYo29G7sW1745893414.mp3",
+      "video": "",
+      "uid": "fb9e3184"
+    },
+    {
+      "text": "A 45-year-old patient is scheduled for a CT scan to evaluate abdominal pain. The radiologist aims to ensure adequate visualization of the bowel without creating significant contrast between the bowel contents and surrounding tissues. Which of the following is a neutral contrast agent appropriate for this procedure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Barium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iodinated contrast medium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Water",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Air",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Water",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type of Contrast Media</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Examples</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Positive contrast media</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Appear<strong> white </strong>on <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> images due to greater <span class=\"customMeta\" data-dictid=\"22818451b71692777182237914a233\">attenuation</span> of <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-rays</span> than surrounding tissues.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Barium <strong>(Option A),</strong></li>\n<li>Iodinated solutions <strong>(Option B)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Negative contrast media</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Appear <strong>black</strong> due to less <span class=\"customMeta\" data-dictid=\"22818451b71692777182237914a233\">attenuation</span> of <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-rays</span> than surrounding tissues.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Air <strong>(Option C)</strong></li>\n<li>Carbon dioxide</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neutral contrast media</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Do not significantly alter <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> attenuation, providing balanced contrast without adding brightness or darkness to the images.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Water</li>\n<li>Mannitol (draws water into <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> loop)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PyoVZYDrDZbfoZMgvrhS1746124076.mp3",
+      "video": "",
+      "uid": "cc1f680a"
+    },
+    {
+      "text": "A 35-year-old female is scheduled for an ERCP using the contrast mentioned below. Which type of contrast agent is it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ionic Dimer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Non-ionic Dimer",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ionic Monomer",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Non-ionic Monomer",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Non-ionic Monomer",
+      "question_images": [
+        "https://image.prepladder.com/notes/WRaAaR5rzlK6xYjndyo61743784485.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/bUZZB6sgZGCeUb37I4hJ1743784552.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<thead>\n<tr>\n<th colspan=\"4\" scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Iodine Particle Ratio</strong></p>\n</th>\n</tr>\n<tr>\n<th colspan=\"4\" rowspan=\"2\" scope=\"col\" style=\"vertical-align:top\">\n<ul>\n<li style=\"text-align:left\">Ionic = 2 particles</li>\n<li style=\"text-align:left\">Non-ionic = 1 particle</li>\n<li style=\"text-align:left\">Monomer = 3 iodine</li>\n<li style=\"text-align:left\">Dimer = 6 iodine</li>\n</ul>\n</th>\n</tr>\n<tr>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ionic Monomer</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ionic Dimer</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-ionic Monomer</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-ionic Dimer</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3:2</p>\n<p>(High osmolality)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3:1</p>\n<p>(Low osmolality)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3:1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6:1</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Iodine Contrast</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Routes of administration</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intravenous and Intra-arterial</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><br/>\n<br/>\n\t\t\t\u00a0\n\t\t\t<p><strong>Indications</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Commonly used for contrast in CECT (3D X-ray), Interventional Radiology, and <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-rays</span> like as in</p>\n<ul>\n<li>Intravenous pyelogram</li>\n<li>Micturating cystourethrogram</li>\n<li>Hysterosalpingography</li>\n<li>Retrograde pyelography</li>\n<li>ERCP- <span class=\"customMeta\" data-dictid=\"35ca8c2d5f16927771879351e8f97e\">Endoscopic</span> <span class=\"customMeta\" data-dictid=\"e38ca8e6931692777197ee6a68ac56\">retrograde</span> cholangiopancreatography</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Adverse Reactions</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Physiological Reactions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Allergic Reactions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Post-contrast <span class=\"customMeta\" data-dictid=\"f3063c1d8b169277719018bf869980\">induced</span> nephropathy</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Nausea</li>\n<li>Vomiting</li>\n<li>Flushing</li>\n<li>Headaches</li>\n<li>Vasovagal reaction</li>\n<li>Arrhythmias</li>\n<li>Seizures</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mild reactions:</strong></p>\n<ul>\n<li>Hives (Urticaria)</li>\n<li>Erythema (Redness of skin)</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>Moderate to severe reactions:</strong></p>\n<ul>\n<li><strong>Wheezing</strong></li>\n<li><strong>Anaphylactoid reactions (Non-IgE mediated)</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Also known as <strong>Contrast-Induced <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">Kidney</span> Injury (AKI)</strong>.</li>\n<li>It is defined as an increase in <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> by <strong>> 0.5 mg/dL</strong> or a <strong>> 25% rise</strong> from the <span class=\"customMeta\" data-dictid=\"3c8a051a89169277718256c92278c5\">baseline</span> within <strong>3 days</strong> of contrast administration, without any other clear cause.</li>\n<li><strong>Risk factors:</strong>\n<ul>\n<li>Patients with pre-existing <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> disease.</li>\n<li><strong>Pre-contrast eGFR < 60 mL/min/1.73 m\u00b2</strong> indicates higher risk.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management:</strong></p>\n<p>Observation for mild reactions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management:</strong></p>\n<ul>\n<li><strong>Mild reactions: </strong>Antihistamines (e.g., Diphenhydramine)</li>\n<li><strong>Severe reactions: </strong>Requires <span class=\"customMeta\" data-dictid=\"76baf6616a169277718738f8790ab9\">epinephrine</span> and advanced <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> management as needed.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management:</strong></p>\n<p><strong>Intravenous hydration</strong> (e.g., normal saline)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/KBgLemt2nxN5hdK1J6Cl1746124360.mp3",
+      "video": "",
+      "uid": "d40f26b1"
+    },
+    {
+      "text": "A 42-year-old female with a history of ulcerative colitis presents with severe abdominal pain and diarrhoea. The gastroenterologist is considering performing a barium study to assess her condition. Which of the following conditions would contraindicate using a barium study in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Malabsorption syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Colon carcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ileocecal Tuberculosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inflammatory bowel disease (IBD) exacerbation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Inflammatory bowel disease (IBD) exacerbation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:638px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Conditions</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Swallow</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>To evaluate normal <span class=\"customMeta\" data-dictid=\"1788e0d4301692777199d457616bd4\">swallowing</span> function.</li>\n<li>Suspected oesophagal disorders (e.g., strictures, tumours)</li>\n<li>Achalasia cardia</li>\n<li>Zenkers diverticulum</li>\n<li>Hiatus hernia</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Meal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>To evaluate normal <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> emptying</li>\n<li>Evaluation of <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> and duodenal conditions (e.g., ulcers, carcinoma, pyloric stenosis)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Meal Follow-Through</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Assessment of small <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> disorders</li>\n<li>Malabsorption syndrome <strong>(Option A)</strong></li>\n<li>Ileocecal TB <strong>(Option C)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Barium Enema</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Assessment of lower <span class=\"customMeta\" data-dictid=\"b3a647ce2516927771881427f56c1d\">gastrointestinal</span> <span class=\"customMeta\" data-dictid=\"1a1307223f16927772017a994bfc39\">tract</span> (e.g. <span class=\"customMeta\" data-dictid=\"566fcef0991692777184068f36db82\">Colonic</span> carcinoma) <strong>(Option B)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Iam9YcjUtdyZZ0hCuE9O1746124505.mp3",
+      "video": "",
+      "uid": "06d75011"
+    },
+    {
+      "text": "A 35-year-old pregnant woman is being assessed for suspected appendicitis. An abdominal ultrasound shows inflammation but in limited detail. What is the best contrast agent to enhance USG?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Barium sulfate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iodinated contrast agents",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Saline solution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sulfur Hexafluoride microbubbles",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Sulfur Hexafluoride microbubbles",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:665px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Contrast agents for USG</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Sonovue</strong> (sulfur hexafluoride)</li>\n<li><strong>Lumason</strong> (sulfur hexafluoride)</li>\n<li><strong>Definity</strong> (perflutren)</li>\n<li><strong>Sonozoid</strong> (perflubutane)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Preferred route</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intravenous</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Eliminated by</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lungs</strong> <strong>(hence safe in <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> conditions)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Liver lesions</li>\n<li>Micturating cystosonography</li>\n<li>Renal lesions</li>\n<li>Obstruction in Crohn's disease</li>\n<li>Evaluation of Aortic <span class=\"customMeta\" data-dictid=\"f2c92eaffe16927771819978aa5666\">aneurysm</span> repair</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Adverse Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is the safest contrast media and rarely causes mild <span class=\"customMeta\" data-dictid=\"245b6a0cc91692777181d63c66b3a3\">anaphylactoid</span> reactions.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/w89DSU4QQH9fnHD1S7Qt1746125231.mp3",
+      "video": "",
+      "uid": "252b5357"
+    },
+    {
+      "text": "A 70-year-old patient with multiple comorbidities is being evaluated for contrast-enhanced imaging. The healthcare team is assessing risk factors for contrast-induced nephropathy (CIN). Which of the following is NOT considered a risk factor for CIN?",
+      "options": [
+        {
+          "label": "A",
+          "text": "History of diabetes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Use of metformin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Use of nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "History of asthma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. History of asthma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bx7i3uLCAQK8ycDl9At41746125548.mp3",
+      "video": "",
+      "uid": "aa034c2c"
+    }
+  ]
+}

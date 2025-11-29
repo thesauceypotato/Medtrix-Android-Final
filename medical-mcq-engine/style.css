@@ -1,0 +1,281 @@
+/* --- MEDTRIX PRO THEME (Unified Blue) --- */
+:root {
+    /* LIGHT MODE */
+    --bg-body: #f4f7f6;
+    --bg-grad: linear-gradient(135deg, #f4f7f6 0%, #eef2f3 100%);
+    --glass-bg: rgba(255, 255, 255, 0.95);
+    --glass-border: 1px solid rgba(0, 0, 0, 0.05);
+    --glass-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    
+    --text-main: #1f2937;
+    --text-sub: #6b7280;
+    
+    /* The "Medtrix Blue" */
+    --accent: #007bff; 
+    --accent-light: rgba(0, 123, 255, 0.1);
+    --accent-grad: linear-gradient(135deg, #007bff, #0056b3);
+    
+    --success: #10b981; 
+    --danger: #ef4444; 
+    --radius: 16px;
+}
+
+[data-theme="dark"] {
+    /* DARK MODE */
+    --bg-body: #0b0f19;
+    --bg-grad: linear-gradient(135deg, #0b0f19 0%, #111827 100%);
+    --glass-bg: rgba(31, 41, 55, 0.85);
+    --glass-border: 1px solid rgba(255, 255, 255, 0.08);
+    --glass-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
+    
+    --text-main: #f9fafb;
+    --text-sub: #9ca3af;
+    
+    --accent: #3b82f6; 
+    --accent-light: rgba(59, 130, 246, 0.15);
+    --accent-grad: linear-gradient(135deg, #3b82f6, #2563eb);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--bg-body); background-image: var(--bg-grad);
+    background-attachment: fixed; color: var(--text-main);
+    min-height: 100vh; padding: 20px;
+    transition: background 0.3s ease, color 0.3s ease;
+    padding-bottom: 80px; /* Space for footer */
+}
+
+/* --- SEARCH BAR --- */
+.search-wrapper { max-width: 600px; margin: 25px auto 0; position: relative; }
+
+.search-wrapper input {
+    width: 100%; padding: 16px 20px 16px 50px;
+    border-radius: 50px; 
+    border: 2px solid transparent; 
+    background: var(--glass-bg); 
+    color: var(--text-main); 
+    caret-color: var(--accent); 
+    backdrop-filter: blur(10px); outline: none; font-size: 1rem; font-weight: 500;
+    box-shadow: var(--glass-shadow); transition: 0.3s;
+}
+
+[data-theme="dark"] .search-wrapper input {
+    background: rgba(31, 41, 55, 0.95);
+    color: #ffffff;
+}
+
+.search-wrapper input:focus { 
+    border-color: var(--accent); 
+    box-shadow: 0 0 0 4px var(--accent-light); 
+}
+
+.search-wrapper i { 
+    position: absolute; left: 20px; top: 50%; transform: translateY(-50%); 
+    color: var(--text-sub); pointer-events: none;
+}
+
+/* --- HEADER --- */
+header { text-align: center; margin-bottom: 40px; }
+h1 { 
+    font-family: 'Orbitron', sans-serif; font-size: 2rem; margin: 10px 0; 
+    background: var(--accent-grad); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.version-tag { 
+    font-size: 0.5em; opacity: 0.8; letter-spacing: 2px; 
+    color: var(--text-sub); -webkit-text-fill-color: var(--text-sub); 
+}
+
+.logo-box {
+    width: 64px; height: 64px; margin: 0 auto;
+    background: var(--glass-bg); border-radius: 20px; 
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2rem; color: var(--accent); border: var(--glass-border);
+    box-shadow: var(--glass-shadow); cursor: pointer; transition: 0.3s;
+}
+.logo-box:hover { transform: scale(1.05); box-shadow: 0 10px 40px rgba(0, 123, 255, 0.2); }
+
+/* --- THEME TOGGLE BTN --- */
+.theme-btn {
+    position: absolute; top: 20px; right: 20px;
+    width: 40px; height: 40px; border-radius: 50%;
+    background: var(--glass-bg); border: var(--glass-border);
+    color: var(--text-main); cursor: pointer;
+    box-shadow: var(--glass-shadow); z-index: 100;
+}
+
+/* --- GRID SYSTEM --- */
+.grid-view { 
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+    gap: 20px; max-width: 1000px; margin: 0 auto 80px; 
+}
+
+.card {
+    background: var(--glass-bg); border: var(--glass-border);
+    border-radius: var(--radius); padding: 25px 15px;
+    text-align: center; cursor: pointer;
+    box-shadow: var(--glass-shadow); transition: 0.3s;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 15px;
+    min-height: 160px;
+}
+.card:hover { transform: translateY(-5px); border-color: var(--accent); }
+
+.card i { 
+    font-size: 2.5rem; color: var(--text-sub); 
+    transition: 0.3s; background: var(--accent-light);
+    width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;
+    border-radius: 50%;
+}
+.card:hover i { color: #fff; background: var(--accent); transform: scale(1.1); }
+.card h3 { font-size: 0.95rem; font-weight: 600; margin: 0; color: var(--text-main); }
+
+/* --- LIST VIEW --- */
+.list-view { display: flex; flex-direction: column; gap: 15px; max-width: 800px; margin: 0 auto; }
+.list-item {
+    display: flex; justify-content: space-between; align-items: center;
+    background: var(--glass-bg); padding: 20px; border-radius: 15px;
+    border: var(--glass-border); cursor: pointer; transition: 0.2s;
+}
+.list-item:hover { background: var(--accent-light); border-color: var(--accent); }
+.badge { background: var(--accent); color: #fff; padding: 4px 12px; border-radius: 20px; font-weight: 700; font-size: 0.8rem; }
+
+/* --- QUIZ UI --- */
+.quiz-header {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 20px; font-family: 'Orbitron'; color: var(--text-sub);
+}
+
+.q-box {
+    background: var(--glass-bg); border: var(--glass-border);
+    border-radius: var(--radius); padding: 30px;
+    box-shadow: var(--glass-shadow); margin-bottom: 100px;
+    backdrop-filter: blur(15px);
+}
+.q-text { font-size: 1.15rem; font-weight: 600; margin-bottom: 25px; line-height: 1.6; }
+
+/* Images */
+/* --- SMART IMAGE GALLERY --- */
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;       /* Allow wrapping */
+    justify-content: center;
+    gap: 2px;              /* 2px gap: Looks like a grid line for slices, a separator for distinct imgs */
+    
+    margin: 15px auto;
+    max-width: 100%;
+    width: fit-content;    /* Shrink to fit content */
+    
+    border-radius: 12px;   /* Round the container corners */
+    overflow: hidden;      /* Clip images that stick out */
+    border: 1px solid var(--glass-border);
+    background: rgba(0,0,0,0.1); /* Subtle background for the gaps */
+}
+
+.q-img { 
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;      /* Remove individual corners */
+    
+    /* Smart Sizing */
+    max-width: 100%;
+    height: auto;
+    max-height: 400px;     /* Prevent super tall images taking over */
+    
+    /* This makes them share space but not get too tiny */
+    flex: 1 1 45%;         /* Try to take up 45% width (2 per row) */
+    min-width: 150px;      /* But don't get smaller than 150px */
+    object-fit: contain;   /* Ensure full image is visible */
+    
+    cursor: zoom-in;
+    transition: opacity 0.2s;
+}
+
+.q-img:hover { opacity: 0.9; }
+
+/* If there is only ONE image, let it be full size */
+.image-gallery.single-img .q-img {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+}
+
+.option {
+    padding: 18px; border: 2px solid transparent; border-radius: 14px;
+    cursor: pointer; transition: 0.2s; margin-bottom: 12px;
+    background: rgba(0,0,0,0.03); display: flex; gap: 15px; font-weight: 500;
+    color: var(--text-main);
+}
+[data-theme="dark"] .option { background: rgba(255,255,255,0.05); }
+
+.option:hover { border-color: var(--accent); background: var(--accent-light); }
+
+.option.correct { border-color: var(--success); background: rgba(16, 185, 129, 0.15); color: var(--success); }
+.option.wrong { border-color: var(--danger); background: rgba(239, 68, 68, 0.15); color: var(--danger); }
+.option.disabled { pointer-events: none; opacity: 0.7; }
+
+/* Explanation Box */
+.exp-box {
+    margin-top: 25px;
+    padding: 20px;
+    background: var(--accent-light);
+    border: 1px solid var(--accent);
+    border-radius: 12px;
+    animation: fadeIn 0.4s ease;
+}
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+/* --- RESULTS PAGE --- */
+.result-card {
+    background: var(--glass-bg); border: var(--glass-border);
+    border-radius: var(--radius); padding: 40px 20px;
+    text-align: center; box-shadow: var(--glass-shadow);
+}
+.chart-container {
+    position: relative; width: 200px; height: 200px; margin: 0 auto 30px;
+}
+.chart-center-text {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    font-size: 2rem; font-weight: bold; font-family: 'Orbitron';
+}
+.stat-row {
+    display: flex; justify-content: space-around; margin-top: 30px;
+    border-top: 1px solid var(--glass-border); padding-top: 20px;
+}
+.stat-item { text-align: center; font-weight: bold; }
+.stat-item div:first-child { font-size: 1.5rem; margin-bottom: 5px; }
+
+/* --- FOOTER & MISC --- */
+.footer-bar {
+    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    width: 90%; max-width: 500px; background: var(--glass-bg);
+    padding: 10px; border-radius: 40px; border: var(--glass-border);
+    display: flex; gap: 10px; box-shadow: 0 20px 50px rgba(0,0,0,0.2);
+    backdrop-filter: blur(20px); z-index: 50;
+}
+.btn { flex: 1; padding: 12px; border-radius: 30px; border: none; font-weight: 700; cursor: pointer; transition: 0.2s; }
+.btn:hover { transform: scale(1.02); }
+.btn-nav { background: transparent; color: var(--text-main); }
+.btn-action { background: var(--accent); color: #fff; box-shadow: 0 4px 15px var(--accent-light); }
+
+.medtrix-home-btn {
+    position: absolute; top: 20px; left: 20px; z-index: 100;
+    background: var(--glass-bg); border: 1px solid var(--glass-border);
+    color: var(--text-main); box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(10px); cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    padding: 4px 12px; border-radius: 15px; font-size: 12px; font-weight: 600; 
+    gap: 4px; text-decoration: none; 
+}
+
+/* Lightbox */
+.lightbox {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.9); z-index: 2000;
+    display: flex; align-items: center; justify-content: center;
+    cursor: zoom-out;
+}
+.lightbox img { max-width: 95%; max-height: 95%; border-radius: 8px; }
+.hidden { display: none !important; }

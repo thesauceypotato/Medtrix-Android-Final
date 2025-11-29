@@ -1,0 +1,463 @@
+{
+  "meta": {
+    "id": "test11",
+    "title": "Carbohydrate_Chemistry-Fructose_and_galactose_metabolism___HMP_pathway",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which enzyme is considered the rate-limiting step in galactose metabolism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galactokinase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Galactose-1-phosphate uridyltransferase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "UDP-hexose-4-epimerase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Aldolase Reductase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Galactose-1-phosphate uridyltransferase",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/6nUXSWei0BUti8bA1Y3S1736443409.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:622px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dietary Source </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lactose in milk and milk products.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Structure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Aldohexose and it is the 4th <span class=\"customMeta\" data-dictid=\"faaa40433e1692777187ba6f8a15ee\">epimer</span> of glucose.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Metabolism Site</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Metabolized exclusively by the <strong>liver</strong>. Therefore, <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> tolerance tests can assess liver function.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Galactose <span class=\"customMeta\" data-dictid=\"5b1a045f5f169277719210c0ac7a1e\">Metabolism</span> :</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"NA\" data-hash=\"\" data-license=\"NA\" data-source=\"NA\" data-tags=\"\" height=\"503\" src=\"https://image.prepladder.com/content/6nUXSWei0BUti8bA1Y3S1736443409.png\" width=\"500\"/></p>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1) Phosphorylation</strong></p>\n<ul>\n<li>Galactose is phosphorylated by <span class=\"customMeta\" data-dictid=\"0657553117169277718887935b6a43\">galactokinase</span> to <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> galactose-1-phosphate.<strong>(Option A ruled out)</strong></li>\n<li>ATP is the <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> donor.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2) <span class=\"customMeta\" data-dictid=\"ed5cfd29b51692777201e511edd848\">Uridine</span> diphosphate-galactose (UDP-galactose) formation</strong></p>\n<ul>\n<li>Galactose-1-phosphate converts to <span class=\"customMeta\" data-dictid=\"680ef8f5eb1692777201aa5784e6b0\">UDP-galactose</span> and glucose-1-phosphate via an exchange reaction with UDP-glucose</li>\n<li>The reaction is catalyzed by <strong>Galactose-1-phosphate uridyl transferase</strong> (GALT : rate-limiting <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> in <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> metabolism) <strong>(Option B ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>3) <span class=\"customMeta\" data-dictid=\"680ef8f5eb1692777201aa5784e6b0\">UDP-galactose</span> conversion to UDP-glucose</strong></p>\n<ul>\n<li>UDP-galactose is isomerized to <span class=\"customMeta\" data-dictid=\"a280bbf29d169277720191ef9ddbb1\">UDP-glucose</span> by UDP-hexose-4-epimerase. <strong>(Option C ruled out)</strong></li>\n<li>The new <span class=\"customMeta\" data-dictid=\"a280bbf29d169277720191ef9ddbb1\">UDP-glucose</span> can enter biosynthetic reactions (e.g., glycogenesis) and the <span class=\"customMeta\" data-dictid=\"c6e368ee6b169277718891cd4af5a4\">GALT</span> reaction.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>4) <span class=\"customMeta\" data-dictid=\"680ef8f5eb1692777201aa5784e6b0\">UDP-galactose</span> in biosynthetic reactions</strong></p>\n<ul>\n<li>UDP-galactose serves as an active donor of <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> for synthesizing lactose, glycoproteins, glycolipids and glycosaminoglycans.</li>\n<li>If dietary <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> is unavailable, <span class=\"customMeta\" data-dictid=\"680ef8f5eb1692777201aa5784e6b0\">UDP-galactose</span> can be synthesized from <span class=\"customMeta\" data-dictid=\"a280bbf29d169277720191ef9ddbb1\">UDP-glucose</span> via UDP-hexose-4-epimerase.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jk2q6XuWVo0cSPH89fc51743091952.mp3",
+      "video": "",
+      "uid": "8d4c4a22"
+    },
+    {
+      "text": "An infant is diagnosed with classic galactosemia. Which enzyme deficiency is responsible for this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galactokinase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Galactose-1-phosphate uridyltransferase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "UDP-galactose 4-epimerase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Aldose reductase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Galactose-1-phosphate uridyltransferase",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/jQcEeONQCdy19rr47frU1736443511.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:647px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Galactose-1-phosphate Uridyl <span class=\"customMeta\" data-dictid=\"2288cbf3741692777200318d2f5b39\">transferase</span> (GALT) Deficiency</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Severely deficient in individuals with <strong>Classic Galactosemia</strong> in which galactose-1-phosphate and, therefore, <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> accumulate. <strong>(Option B)</strong></li>\n<li>It Is an <span class=\"customMeta\" data-dictid=\"22a6157d6316927771903de900ec5e\">inborn</span> error of metabolism</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Accumulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Accumulated <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> is shunted into side pathways like <strong>galactitol </strong>production. <strong>Aldose reductase</strong> catalyzes it.</li>\n<li>Galactose-1-phosphate accumulates in the liver, <strong>inhibiting <span class=\"customMeta\" data-dictid=\"0657553117169277718887935b6a43\">galactokinase</span> and <span class=\"customMeta\" data-dictid=\"2e2aa646ab1692777188e3eb8286d8\">glycogen</span> phosphorylase, </strong>leading to <strong>hypoglycemia.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bilirubin </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced <span class=\"customMeta\" data-dictid=\"2d60c5a677169277718325a811dcf1\">bilirubin</span> <span class=\"customMeta\" data-dictid=\"cc20d2d7111692777201fb0caeb3f2\">uptake</span> and conjugation, increasing <strong>unconjugated bilirubin</strong> in blood</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li><strong>Hypoglycemia, hypophosphatemia, </strong>hyperuricemia, <span class=\"customMeta\" data-dictid=\"b82539c9ae1692777191a3f7ddd7bb\">lactic</span> acidosis</li>\n<li>Hepatomegaly, jaundice,</li>\n<li>Severe <strong>mental retardation</strong></li>\n<li>Galactosuria (galactose excreted in urine)</li>\n<li><strong>Cataracts </strong>due to\u00a0<strong>dulcitol accumulation </strong>in the lens</li>\n<li>Tubular damage and generalized aminoaciduria</li>\n</ol>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Clinical manifestations (e.g., <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">congenital</span> cataract), presence of <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> in <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> and elevated blood <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> levels</li>\n<li>Prenatal diagnosis via amniocentesis</li>\n<li>Detection of heterozygous parents by elevated <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> levels after a <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> load</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complications in untreated cases </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>E. <span class=\"customMeta\" data-dictid=\"cd0a7121a516927771846d8f5248bb\">coli</span> sepsis,</strong></li>\n<li><strong>Fanconi syndrome</strong></li>\n<li>Feeding problems,</li>\n<li>Failure to thrive,</li>\n<li>Hepatocellular damage,</li>\n<li>Bleeding</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Withdrawal of <strong>galactose and lactose</strong> from the diet.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GALT <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> is a part of the <span class=\"customMeta\" data-dictid=\"04df903fe8169277719383126b1b02\">newborn</span> screening panel</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Noslro5Yqku4b0hxcaPV1743092169.mp3",
+      "video": "",
+      "uid": "c50a856f"
+    },
+    {
+      "text": "A child is diagnosed with essential fructosuria during a routine health check. Name the enzyme A responsible for this condition",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aldolase B",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hexokinase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fructokinase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glucokinase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Fructokinase",
+      "question_images": [
+        "https://image.prepladder.com/content/i7XWo9XtCnyy0Dw9whvj1736490052.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/i2XEPoqf0hEuD6wEb7sM1736490179.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:652px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dietary Source</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Found in fruits, honey, and high-fructose corn syrup</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Structure </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ketohexose</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Metabolism Site</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Primarily metabolized by the <strong>liver</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fructose <span class=\"customMeta\" data-dictid=\"5b1a045f5f169277719210c0ac7a1e\">Metabolism</span> : </strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1) Phosphorylation:</strong></p>\n<ul>\n<li><strong>Fructokinase</strong> is the primary <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> for <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> phosphorylation. It has a high <span class=\"customMeta\" data-dictid=\"227269f3ec1692777180d76a7898dd\">affinity</span> (low Km) and a high Vmax for fructose. It converts <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> to fructose-1-phosphate using ATP. It is found in the liver, kidneys, and small intestine<strong>.</strong></li>\n</ul>\n<p><img alt=\"\" data-author=\"NA\" data-hash=\"\" data-license=\"NA\" data-source=\"NA\" data-tags=\"\" height=\"208\" src=\"https://image.prepladder.com/content/i2XEPoqf0hEuD6wEb7sM1736490179.png\" width=\"500\"/></p>\n<p>\u00a0</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2) <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">Fructose</span> 1-Phosphate Cleavage:</strong></p>\n<ul>\n<li><strong>Aldolase B c</strong>leaves <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> 1-phosphate to <span class=\"customMeta\" data-dictid=\"3c4000871916927771864242b8df69\">dihydroxyacetone</span> <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> (DHAP) and glyceraldehyde. It is present in the liver, kidneys, and small intestine.\u00a0</li>\n<li>DHAP enters <span class=\"customMeta\" data-dictid=\"185a500ee91692777188b3044db06d\">glycolysis</span> or gluconeogenesis.</li>\n<li>Glyceraldehyde is metabolized through various pathways.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Disorders of <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">Fructose</span> Metabolism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1) Essential Fructosuria:</strong></p>\n<ul>\n<li>Benign <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> disorder</li>\n<li>Caused by <strong>fructokinase deficiency</strong></li>\n<li>Excretion of <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> in urine</li>\n<li>Low risk of cataracts as <span class=\"customMeta\" data-dictid=\"1aa22161b81692777181c0879642e3\">aldose</span> <span class=\"customMeta\" data-dictid=\"6afb2667fe16927771975a8db1378b\">reductase</span> does not act on fructose, and <span class=\"customMeta\" data-dictid=\"09b11c18721692777198957d597ccc\">sorbitol</span> <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">dehydrogenase</span> has low <span class=\"customMeta\" data-dictid=\"227269f3ec1692777180d76a7898dd\">affinity</span> for it.</li>\n</ul>\n<p><strong>2) <span class=\"customMeta\" data-dictid=\"ee5175c06116927771880846d1cbe0\">Hereditary</span> <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">Fructose</span> <span class=\"customMeta\" data-dictid=\"7794e5fd7a1692777190ee626ede62\">Intolerance</span> (HFI):</strong></p>\n<ul>\n<li>Caused by <strong>aldolase B deficiency.\u00a0(Option A ruled out)</strong></li>\n<li>Symptoms appear when infants consume <span class=\"customMeta\" data-dictid=\"8a90a1b8ed16927771997b65c1558b\">sucrose</span> or fructose.</li>\n<li>Effects are due to <strong>accumulation of <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> 1-phosphate.</strong></li>\n<li>Symptoms: Vomiting, <span class=\"customMeta\" data-dictid=\"d4a253810c1692777181f708ba3dc6\">appetite</span> loss, failure to thrive, hepatomegaly, jaundice, potential liver damage and death</li>\n<li>Diagnosis: <span class=\"customMeta\" data-dictid=\"723fdec66b1692777186e92f0c6fdf\">Detection</span> of <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> in urine, <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> <span class=\"customMeta\" data-dictid=\"fc026ff6d81692777182835f6de6df\">assay</span> using liver cells or DNA-based testing.</li>\n<li>Treatment: Remove <strong>sucrose, <span class=\"customMeta\" data-dictid=\"09b11c18721692777198957d597ccc\">sorbitol</span> and fructose</strong> from the diet.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/G5fMLMMCTHu1BTUEuyRh1743092393.mp3",
+      "video": "",
+      "uid": "f1f55088"
+    },
+    {
+      "text": "Which of the following statements is true regarding Hereditary Fructose Intolerance (HFI) and Classical Galactosemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both present with hyperglycemia.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Both require lifelong avoidance of lactose.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both present with hypophosphatemia.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both have symptoms that appear at birth.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Both present with hypophosphatemia.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"width:709px\">\n<tbody>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Hereditary <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">Fructose</span> Intolerance</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Classical Galactosemia</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Enzyme Deficiency</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Aldolase B</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Galactose-1-phosphate uridyltransferase (GALT)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Onset</strong> <strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Symptoms appear when sucrose/ <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> is introduced into the diet <strong>(around 6 months of age)</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Initial signs usually present in the <strong>first few weeks of life </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Accumulated Metabolite</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Fructose-1-phosphate<strong> </strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Galactose-1-phosphate and galactose</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Symptoms </strong><br/>\n<strong>(Option A ruled out) </strong><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li><strong>Hypoglycemia, h</strong><strong>ypophosphatemia, </strong>hyperuricemia, <span class=\"customMeta\" data-dictid=\"b82539c9ae1692777191a3f7ddd7bb\">lactic</span> acidosis</li>\n<li>Hepatomegaly, jaundice,</li>\n<li>Vomiting,</li>\n<li>Loss of appetite,</li>\n<li>Failure to thrive.</li>\n<li>Aldose <span class=\"customMeta\" data-dictid=\"6afb2667fe16927771975a8db1378b\">reductase</span> cannot act on <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> (very low risk of cataract)</li>\n</ul>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li><strong>Hypoglycemia, </strong><strong>hypophosphatemia, </strong>hyperuricemia, <span class=\"customMeta\" data-dictid=\"b82539c9ae1692777191a3f7ddd7bb\">lactic</span> acidosis,</li>\n<li>Hepatomegaly, jaundice,</li>\n<li>Severe mental retardation,</li>\n<li>Galactosuria,</li>\n<li>Cataracts</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Presence of <span class=\"customMeta\" data-dictid=\"d5bac53d50169277720363f48a6b3a\">fructose</span> in urine, <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> <span class=\"customMeta\" data-dictid=\"fc026ff6d81692777182835f6de6df\">assay</span> or by DNA-based testing</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Clinical manifestations, elevated blood <span class=\"customMeta\" data-dictid=\"99e53092e01692777188465c49d9b8\">galactose</span> levels; <span class=\"customMeta\" data-dictid=\"6de3eedab116927771817273944174\">amniocentesis</span> for <span class=\"customMeta\" data-dictid=\"d554413593169277719693b8e38638\">prenatal</span> diagnosis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Urinary Findings </strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Positive Benedict\u2019s test</strong> for fructose</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Positive Benedict\u2019s test</strong><strong> </strong>for galactose</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Dietary Management</strong><br/>\n<strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Sucrose, <span class=\"customMeta\" data-dictid=\"09b11c18721692777198957d597ccc\">sorbitol</span> and fructose</strong> must be removed from the diet</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Galactose and lactose</strong> must be removed from the diet</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Complication in untreated cases</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Renal failure,</li>\n<li>Hepatic failure,</li>\n<li>Seizures,</li>\n<li>Progressive coma</li>\n</ul>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>E. <span class=\"customMeta\" data-dictid=\"cd0a7121a516927771846d8f5248bb\">coli</span> sepsis,</li>\n<li>Feeding problems,</li>\n<li>Failure to thrive,</li>\n<li>Hepatocellular damage.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jvoTECsKOFNqBwKRa3rt1743092516.mp3",
+      "video": "",
+      "uid": "82c34920"
+    },
+    {
+      "text": "A 45-year-old male presents with fatigue and pallor. Blood tests reveal hemolytic anemia. On further investigation, it is found that his erythrocytes are susceptible to oxidative damage. What is the primary role of the pentose phosphate pathway (PPP) that is deficient in this patient\u2019s RBCs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To produce ATP for energy metabolism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To generate ribose-5-phosphate for nucleotide synthesis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "To provide NADPH for maintaining reduced glutathione levels",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "To synthesize hemoglobin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. To provide NADPH for maintaining reduced glutathione levels",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/hS6MFQdqE7iIlj6kC8UX1736490413.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:706px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pentose <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">Phosphate</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">Pathway</span> (PPP)</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>The <span class=\"customMeta\" data-dictid=\"c3c136dcc11692777195ab0efa5549\">Pentose</span> <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">Phosphate</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">Pathway</span> (PPP), also known as the <span class=\"customMeta\" data-dictid=\"809e2689ec1692777189e2b846c7e7\">hexose</span> <span class=\"customMeta\" data-dictid=\"8dcffccac016927771927605248b59\">monophosphate</span> <span class=\"customMeta\" data-dictid=\"950826ab361692777198366a25dfbf\">shunt</span> (HMP shunt), is an alternative <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> for <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> that doesn't generate ATP.</p>\n<p>Location: <strong>Cytosol</strong><br/>\n\t\t\tIt serves two primary functions:</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>NADPH Production</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>The PPP is a major source of NADPH, vital for <span class=\"customMeta\" data-dictid=\"859a34e1061692777183872a5e4441\">biosynthesis</span> (fatty acids and steroids).</li>\n<li><strong>NADPH Production:</strong> RBCs rely on <span class=\"customMeta\" data-dictid=\"185a500ee91692777188b3044db06d\">glycolysis</span> for <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> due to the lack of <span class=\"customMeta\" data-dictid=\"18c9e7b9721692777192bd042528cc\">mitochondria</span> and depend solely on the PPP for NADPH, as they lack mitochondrial dehydrogenases.</li>\n<li><strong>Glutathione Maintenance:</strong> <span class=\"customMeta\" data-dictid=\"7c9e482521169277719313219f1bbe\">NADPH</span> keeps <span class=\"customMeta\" data-dictid=\"f945849e691692777188ad7ce5b5e2\">glutathione</span> reduced, enabling <span class=\"customMeta\" data-dictid=\"f945849e691692777188ad7ce5b5e2\">glutathione</span> <span class=\"customMeta\" data-dictid=\"b3434346d71692777195b113bbab37\">peroxidase</span> to neutralise <span class=\"customMeta\" data-dictid=\"11f7bcb8da16927771898e93932195\">hydrogen</span> <span class=\"customMeta\" data-dictid=\"7e35dc67351692777195c0be6eee0b\">peroxide</span> and prevent <span class=\"customMeta\" data-dictid=\"60d563fe241692777194203742bf5b\">oxidative</span> damage.</li>\n<li><strong>Impact of <span class=\"customMeta\" data-dictid=\"7c9e482521169277719313219f1bbe\">NADPH</span> Deficiency</strong>: Low <span class=\"customMeta\" data-dictid=\"7c9e482521169277719313219f1bbe\">NADPH</span> impairs <span class=\"customMeta\" data-dictid=\"f945849e691692777188ad7ce5b5e2\">glutathione</span> peroxidase, increases<strong> <span class=\"customMeta\" data-dictid=\"60d563fe241692777194203742bf5b\">oxidative</span> damage</strong>, and leads to <strong>hemolysis</strong>.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Ribose-5-Phosphate (R-5-P) Synthesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Ribose-5-phosphate is essential for <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> needed for <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> and DNA.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Homeostasis between <span class=\"customMeta\" data-dictid=\"7c9e482521169277719313219f1bbe\">NADPH</span> and R-5-P production.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>When <span class=\"customMeta\" data-dictid=\"7c9e482521169277719313219f1bbe\">NADPH</span> demand exceeds R-5-P's need, the non-oxidative phase converts R-5-P to <span class=\"customMeta\" data-dictid=\"e55eb31d591692777188cb1fad1f5e\">glycolytic</span> intermediates (fructose-6-phosphate and glyceraldehyde-3-phosphate).</li>\n<li>If the demand for R-5-P is higher than for NADPH, the non-oxidative phase generates R-5-P from fructose-6-phosphate and glyceraldehyde-3-phosphate, bypassing the <span class=\"customMeta\" data-dictid=\"60d563fe241692777194203742bf5b\">oxidative</span> steps.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Differences from Glycolysis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Uses <strong>NADP+ </strong>instead of NAD+ and <strong>generates CO2, not ATP.</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/84fxDjKCNzZZ2GMvxqf31743092879.mp3",
+      "video": "",
+      "uid": "b8f3936d"
+    },
+    {
+      "text": "Which sequence correctly represents the steps of the oxidative phase of the pentose phosphate pathway (PPP)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6-Phosphogluconolactone \u2192 Glucose-6-phosphate \u2192 6-Phosphogluconate \u2192 Ribulose-5-phosphate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-phosphate \u2192 6-Phosphogluconate \u2192 6-Phosphogluconolactone \u2192 Ribulose-5-phosphate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate \u2192 6-Phosphogluconolactone \u2192 6-Phosphogluconate \u2192 Ribulose-5-phosphate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "6-Phosphogluconate \u2192 6-Phosphogluconolactone \u2192 Glucose-6-phosphate \u2192 Ribulose-5-phosphate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Glucose-6-phosphate \u2192 6-Phosphogluconolactone \u2192 6-Phosphogluconate \u2192 Ribulose-5-phosphate",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/MBOYtOAy6SdpsaRhyRpT1736490545.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Step</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Substrates</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Enzyme</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Products</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Glucose-6-phosphate <strong>+</strong> NADP+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Glucose-6-phosphate dehydrogenase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>6-Phosphogluconolactone <strong>+</strong> NADPH</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>6-Phosphogluconolactone</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Gluconolactone hydrolase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>6-Phosphogluconate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>6-Phosphogluconate <strong>+</strong> NADP+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>6-Phosphogluconate dehydrogenase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ribulose-5-phosphate <strong>+ </strong>NADPH <strong>+</strong> CO2</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mqOZf1dVaZ3HROAuuewV1743093022.mp3",
+      "video": "",
+      "uid": "5af87139"
+    },
+    {
+      "text": "Which statement is true regarding NADH and NADPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both are produced in the Pentose Phosphate Pathway.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "NADH is used in lipid biosynthesis, while NADPH is not.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NADPH is used for anabolic reactions, while NADH is primarily for catabolic reactions.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both serve the same functions in the cell.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. NADPH is used for anabolic reactions, while NADH is primarily for catabolic reactions.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NADH</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NADPH</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Full Name</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nicotinamide <span class=\"customMeta\" data-dictid=\"701cef29c216927771801e7d1a7c0f\">Adenine</span> <span class=\"customMeta\" data-dictid=\"419082b5c61692777186e04b66aafb\">Dinucleotide</span> (reduced).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nicotinamide <span class=\"customMeta\" data-dictid=\"701cef29c216927771801e7d1a7c0f\">Adenine</span> <span class=\"customMeta\" data-dictid=\"419082b5c61692777186e04b66aafb\">Dinucleotide</span> <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">Phosphate</span> (reduced).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Role</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Energy production, <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> transport.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reductive biosynthesis, maintaining <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> states.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathways</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Primarily<strong> </strong><strong>generated in catabolic pathways: </strong></p>\n<ul>\n<li>Citric Acid Cycle,</li>\n<li>Glycolysis,</li>\n<li>Fatty Acid oxidation.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Primarily <strong>generated in <span class=\"customMeta\" data-dictid=\"3e0d247aa916927771812684526ac0\">anabolic</span> pathways:</strong></p>\n<ul>\n<li>Pentose <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">Phosphate</span> Pathway,</li>\n<li>Malic <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">Enzyme</span> Reaction,</li>\n<li>Oxidative <span class=\"customMeta\" data-dictid=\"52adc3ebf01692777185395a8b1e8c\">Decarboxylation</span> - Isoforms of <span class=\"customMeta\" data-dictid=\"92640ea87f1692777190c4947649dc\">Isocitrate</span> Dehydrogenase.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Functions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Donates electrons to the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">Electron</span> Transport Chain (ETC) for <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> production.</p>\n<p>The <strong>ETC uses <span class=\"customMeta\" data-dictid=\"70e624dfd41692777193efc364d5b4\">NADH</span> for <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> production, yielding 2.5 ATPs.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Donates electrons & provides reducing power for biosynthetic reactions <strong>(reductive biosynthesis) </strong>like <strong>lipid and <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> synthesis.</strong></li>\n<li>Maintains <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"f945849e691692777188ad7ce5b5e2\">glutathione</span> (G-SH) in RBCs, preventing <span class=\"customMeta\" data-dictid=\"60d563fe241692777194203742bf5b\">oxidative</span> damage.</li>\n<li>Regenerates <strong>reduced <span class=\"customMeta\" data-dictid=\"f945849e691692777188ad7ce5b5e2\">glutathione</span> </strong>(G-SH) from its oxidized form.</li>\n<li>It is<strong> </strong><strong>not involved in <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> generation</strong> <strong>via the ETC.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Production Site</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mitochondria (mainly), Cytosol</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cytosol (mainly), some in <span class=\"customMeta\" data-dictid=\"18c9e7b9721692777192bd042528cc\">mitochondria</span> and plastids</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/XTkvU3aiG1waWfFwWUR11743180382.mp3",
+      "video": "",
+      "uid": "75732e76"
+    },
+    {
+      "text": "All the following enzymes catalyze oxidative decarboxylation reactions except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u03b1-Ketoglutarate dehydrogenase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Malate dehydrogenase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "6-Phosphogluconate dehydrogenase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Isocitrate dehydrogenase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Malate dehydrogenase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:692px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Enzyme</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Reaction (Oxidative <span class=\"customMeta\" data-dictid=\"52adc3ebf01692777185395a8b1e8c\">decarboxylation</span> of)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cofactors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pyruvate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">Dehydrogenase</span> (PDH)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pyruvate to acetyl-CoA</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Thiamin diphosphate, lipoate, NAD+, FAD, CoA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Converts <span class=\"customMeta\" data-dictid=\"f9129e152d16927771960c4ccc40bc\">pyruvate</span> to acetyl-CoA in mitochondria</li>\n<li>Similar to the \u03b1-ketoglutarate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">dehydrogenase</span> complex</li>\n<li>Regulated by end-product <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> and <span class=\"customMeta\" data-dictid=\"d7f598a3db1692777185bf93a6e6fa\">covalent</span> modification.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>\u03b1-Ketoglutarate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">Dehydrogenase</span> (\u03b1KGDH) (Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>\u03b1-ketoglutarate to succinyl-CoA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Similar to the PDH complex; <span class=\"customMeta\" data-dictid=\"d52b8551541692777187be85e4bb2f\">Equilibrium</span> favors succinyl-CoA formation;</li>\n<li>Inhibited by arsenite.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Isocitrate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">Dehydrogenase</span> (IDH)\u00a0(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Isocitrate to \u03b1-ketoglutarate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Mg<sup>2+</sup> or Mn<sup>2+ </sup>ions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Forms oxalosuccinate, which then decarboxylates;</li>\n<li>Part of the<strong> <span class=\"customMeta\" data-dictid=\"16e9bd9e7316927771848e824cf71e\">citric acid</span> cycle.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>6-Phosphogluconate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">Dehydrogenase</span> (6-PGDH)\u00a0(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>6-phosphogluconate to ribulose-5-phosphate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>NADP<sup>+</sup></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Catalyzes a reaction in the <strong>pentose <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> pathway.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Branched-Chain Ketoacid <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">Dehydrogenase</span> (BCKADH)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Decarboxylation of branched-chain keto acids</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Thiamin <span class=\"customMeta\" data-dictid=\"53da8f40b5169277719620504e0cb9\">pyrophosphate</span> (TPP), lipoate, NAD<sup>+</sup>, FAD, CoA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Similar to the PDH complex;</li>\n<li>Defects cause<strong> <span class=\"customMeta\" data-dictid=\"a9a61e4f3e1692777191eb2e65c38c\">maple</span> <span class=\"customMeta\" data-dictid=\"7cab9109cd16927771994c3125bd23\">syrup</span> <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> disease (MSUD).</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/fdW6cinsJcLJfcSykkAa1743180614.mp3",
+      "video": "",
+      "uid": "baaf3b5b"
+    },
+    {
+      "text": "Which of the following enzymes is not involved in the reversible phase of the pentose phosphate pathway?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epimerase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Transketolase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6-phosphogluconate dehydrogenase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Transaldolase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 6-phosphogluconate dehydrogenase",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/aAj8IsYmpl4BEbZfVIrC1736490680.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:591px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Substrate</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Enzyme</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Products</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ribulose-5-phosphate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ribulose-5-phosphate 3-<strong>Epimerase\u00a0(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Xylulose-5-phosphate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ribulose-5-phosphate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ribose-5-phosphate <strong>ketoisomerase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ribose-5-phosphate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Xylulose-5-phosphate + Ribose-5-phosphate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Transketolase\u00a0(Option B ruled out)</strong><br/>\n<strong>Cofactor: Mg\u00b2\u207a, <span class=\"customMeta\" data-dictid=\"abb75725a216927772000e5263aaf5\">Thiamin</span> <span class=\"customMeta\" data-dictid=\"e85b7f998a1692777186537b5aeefa\">diphosphate</span> (Vitamin B1)\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sedoheptulose-7-phosphate + Glyceraldehyde-3-phosphate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sedoheptulose-7-phosphate + Glyceraldehyde-3-phosphate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Transaldolase\u00a0(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fructose-6-phosphate + Erythrose-4-phosphate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Xylulose-5-phosphate + Erythrose-4-phosphate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Transketolase (second reaction)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fructose-6-phosphate + Glyceraldehyde-3-phosphate</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qNJbcwISnHiOMItnewMN1743180845.mp3",
+      "video": "",
+      "uid": "970d1c0f"
+    },
+    {
+      "text": "A 30-year-old woman with glucose-6-phosphate dehydrogenase (G6PD) deficiency, living in a malaria-prone area, presents with fatigue, jaundice, dark urine, and recent consumption of fava beans. Lab tests show hemolytic anemia. How does glucose-6-phosphate dehydrogenase (G6PD) deficiency lead to the observed symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced NADPH impairs glutathione regeneration, causing hemolytic anemia.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Increased ribulose-5-phosphate overloads nucleotides, leading to renal failure.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Impaired glucose-6-phosphate conversion disrupts glycolysis, causing hypoglycemia.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreased ATP production affects muscle function, causing myopathy.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Reduced NADPH impairs glutathione regeneration, causing hemolytic anemia.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/p9Ob6gHdHB2SLEirUAK31736490785.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/VcboJGKEV2eH4RnNvKg31743181036.mp3",
+      "video": "",
+      "uid": "c5669c1e"
+    },
+    {
+      "text": "What is the role of inosine monophosphate in stored blood?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases plasma Na and K levels.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It stimulates 2,3-DPG synthesis.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It prevents lactic acid buildup.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It stabilizes hemoglobin concentration.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It stimulates 2,3-DPG synthesis.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ThcSNbi4fgo5JYKU13d01736490908.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/x0WiA1k4smte85IpaLbD1743181203.mp3",
+      "video": "",
+      "uid": "52b7dc3f"
+    },
+    {
+      "text": "A patient with diabetes presents with vision impairment. Upon examination, snowflake cataracts are observed. The absence of which enzyme in certain tissues leads to sorbitol accumulation, resulting in conditions such as snowflake cataracts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aldose Reductase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glucose-6-Phosphate Dehydrogenase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sorbitol Dehydrogenase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hexokinase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sorbitol Dehydrogenase",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/pFDaKW7SwRLsxTGo6EBA1736490998.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NBsvL2yNriwK5Y7ocOkw1743181648.mp3",
+      "video": "",
+      "uid": "e8e83fd0"
+    },
+    {
+      "text": "A newborn presents with bilateral lens opacities and decreased visual acuity. On examination, the characteristic \"oil droplet\" appearance is noted in the lens on retro illumination. Which metabolic disorder is primarily associated with developing oil-drop cataracts in newborns?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenylketonuria",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Galactosemia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Maple Syrup Urine Disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Homocystinuria",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Galactosemia",
+      "question_images": [
+        "https://image.prepladder.com/content/5nLdZQqNnsqqQ6HJLCAv1736491095.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/5kyxQupOzjajRkVDZL4K1736491193.png",
+        "https://image.prepladder.com/content/UrfKL0zlRXnYujhrHt4y1736491273.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cXhSPSaEMRlOqpQ3XtY71743181887.mp3",
+      "video": "",
+      "uid": "56b3f2cf"
+    }
+  ]
+}

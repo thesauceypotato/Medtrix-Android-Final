@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "test53",
+    "title": "ECG - Ventricular Hypertrophies & Axis (Part 4)",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 50 yrs male came to the hospital with a known case of hypertension after ten years of treatment. His ECG is shown below: What is your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left ventricular hypertrophy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular hypertrophy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both a and b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Left ventricular hypertrophy",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686747713834-QTDM012001IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Left ventricular hypertrophy Option A. Left ventricular hypertrophy: in the above ECG, the s wave in v1 plus the r wave in v5 or v6 is greater than 35 mm, lvh is present. Hence, the above ECG shows left ventricular hypertrophy.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B . Right ventricular hypertrophy: in the case of right ventricular hypertrophy In the presence of an r/s ratio of greater than 1 in lead v1 in the absence of other causes, or if the r wave in lead v1 is greater than 7 millimeters tall. This is absent in the above case, hence it is not a case of right ventricular hypertrophy.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "85da3461",
+      "audio": ""
+    },
+    {
+      "text": "A 35 yrs female with a known case of primary pulmonary hypertension, she underwent ECG, which is shown below: What is your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left ventricular hypertrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular hypertrophy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Both a and b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Right ventricular hypertrophy",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686747713878-QTDM012002IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Right ventricular hypertrophy Right ventricular hypertrophy: in the above case there is the presence of a R/S ratio of greater than 1 in lead V1 and the R wave in lead V1 is greater than 7 millimeters tall. Hence, the above ECG is of right ventricular tachycardia.</p>\n<p><strong>Highyeild:</strong></p><p>CRITERION FOR RIGHT VENTRICULAR HYPERTROPHY: RVH is diagnosed on ECG in the presence of a R/S ratio of greater than 1 in lead V1 in the absence of other causes, or if the R wave in lead V1 is greater than 7 millimeters tall . The strain pattern occurs when the right ventricular wall is quite thick, and the pressure is high, as well. Strain causes ST segment depression and asymmetric T wave inversions in leads V1 to V3.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A . Left ventricular hypertrophy: in the case of left ventricular hypertrophy, the S wave in V1 plus the R wave in V5 or V6 is greater than 35 mm, this is absent in the above ECG, hence it is not the case of left ventricular hypertrophy.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aa8a5620",
+      "audio": ""
+    }
+  ]
+}

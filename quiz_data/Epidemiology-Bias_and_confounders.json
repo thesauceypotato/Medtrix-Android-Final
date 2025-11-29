@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "id": "test30",
+    "title": "Epidemiology-Bias_and_confounders",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following best describes a bias?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Random variation in data collection between exposure and disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Systematic error in determining an association between exposure and disease",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Measure of strength of association between exposure and disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Direct estimation of frequency of exposure between disease and non-disease groups",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Systematic error in determining an association between exposure and disease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Types of Bias</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subject Bias</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Investigator Bias </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Analysis Bias</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Recall bias</li>\n<li>Hawthorne bias</li>\n<li>Reporting bias</li>\n<li>Non-response bias</li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Selection bias\n\t\t\t\t<ol>\n<li>Berksonian</li>\n<li>Neyman</li>\n<li>Reporting</li>\n</ol>\n</li>\n<li>Publication bias</li>\n<li>Misclassification bias</li>\n<li>Interviewer bias</li>\n<li>Pygmalion bias</li>\n<li>Golem bias (blunting of response due to demotivated observer)</li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Statistical bias</li>\n</ol>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/z9azoOgc0Wft7BPxGtmX1745949341.mp3",
+      "video": "",
+      "uid": "31370f9e"
+    },
+    {
+      "text": "A case-control study is being conducted by researchers to investigate the association between the onset of cardiovascular disease (CVD) and a high-calorie diet. Which of the following scenarios best reflects a form of Neyman bias?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asking participants to recall and report their dietary habits over the past five years.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Excluding cases who had CVD in the past but have since died or fully recovered.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Including cases as patients admitted with CVD and controls as patients admitted for non-CVD causes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Publishing findings with a strong association, while those with inconclusive associations are unpublished.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Excluding cases who had CVD in the past but have since died or fully recovered.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neyman bias</strong><br/>\n<strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Known as prevalence-incidence bias occurs when a study excludes individuals who have died or recovered from the disease.</li>\n<li>Missing cases lead to an underestimation of the true association.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Berksonian bias</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A <span class=\"customMeta\" data-dictid=\"88261f221b169277719869abab319a\">selection bias</span> by choosing hospitalised patients with multiple comorbidities as the study population</li>\n<li>Leads to a distorted association between exposure and outcome.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reporting bias</strong><br/>\n<strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Information reporting is influenced by the knowledge of the desired outcome or the interest of the researchers.</li>\n<li>E.g., CVD patients may attribute their condition to past dietary habits leading to high-fat consumption, while those without CVD may underreport unhealthy eating habits.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Publication bias</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Studies with positive or significant results are more likely to be published than studies with negative or non-significant results.</li>\n<li>This leads to an overrepresentation of studies showing a strong association between high-fat diets and CVD, potentially misleading readers.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/HPClEmAruNS5v76uI9kN1745949826.mp3",
+      "video": "",
+      "uid": "941dc12a"
+    },
+    {
+      "text": "A researcher is investigating the association between a new dietary supplement and the development of a rare type of cancer. The study includes 100 patients with the cancer and 100 healthy individuals. All of the following biases can occur in this type of study except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recall Bias",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Selection Bias",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ascertainment Bias",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pygmalion Bias",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pygmalion Bias",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/X43IGk3DWqZZCM5FKMIO1745950039.mp3",
+      "video": "",
+      "uid": "7f452411"
+    },
+    {
+      "text": "A research study monitors smoking cessation among participants using daily self-reporting. Despite being heavy smokers outside the study, participants consistently report reduced cigarette consumption during the study period. What phenomenon is likely influencing these findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hawthorne effect",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ascertainment bias",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Interviewer bias",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Recall bias",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hawthorne effect",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/SBor06juM59ZA6ViEq5V1745950215.mp3",
+      "video": "",
+      "uid": "0b674db4"
+    },
+    {
+      "text": "Which of the following statements best describes the purpose of double blinding in clinical trials",
+      "options": [
+        {
+          "label": "A",
+          "text": "It fails to avoid performance bias",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It avoids both subject and observer bias",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Patients and the control group are unaware of their enrollment in a research trial.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It avoids selection bias",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It avoids both subject and observer bias",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Blinding levels in Clinical trials</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. Single-blinded blinding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Participants are unaware of the intervention</li>\n<li>Prevent biases that arise from knowledge of the treatment.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. Double-blinded blinding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Both the researchers and participants are unaware of the intervention given <strong>(prevents observer and subject bias)</strong> <strong>(</strong><strong>Option </strong><strong> B and C)</strong></li>\n<li>Most <strong>common</strong> <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> of blinding</li>\n<li>Avoids <strong>performance bias</strong> (associated with knowledge of treatment) <strong>(</strong><strong>Option </strong><strong> A)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. Triple-blinded blinding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Researchers, participants, and analysers are unaware of the intervention.</li>\n<li>The <strong>best</strong> <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> of blinding.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/fhSqDF9o5RCjHzfwWYT81746271518.mp3",
+      "video": "",
+      "uid": "033ca7a4"
+    },
+    {
+      "text": "Researchers found a significant correlation in a study examining the association between coffee drinking and heart disease. However, further analysis revealed that smoking might be influencing this relationship. In this context, smoking is considered as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Causal variable",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Random error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Confounding factor",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Spurious correlation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Confounding factor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/60EBPVxwZRsMNp7YnnL91746271631.mp3",
+      "video": "",
+      "uid": "1e3f29c4"
+    },
+    {
+      "text": "Q. Match the following: 1. Randomisation a. Eliminates only the known confounders. 2. Standardisation b. Eliminate the effect of age and gender. 3. Restriction c. Eliminates both known and unknown confounders. 4. Matching d. Limits the participation in the study to individuals who are similar concerning confounders.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-a, 2-b, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-b, 2-a, 3-d, 4-c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-c, 2-b, 3-d, 4-a",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-d, 2-c, 3-a, 4-b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-c, 2-b, 3-d, 4-a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:741px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Techniques To Eliminate Confounders</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Method</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Examples</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Matching</strong></p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cases are matched with the control and should be similar to the control in every possible variable that can affect the study's outcome except the disease in question.</li>\n<li>Done in a case-control study.</li>\n<li><strong>Eliminates only the known confounders.</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In a study on the effect of a new teaching method, students are matched based on their prior academic performance and then assigned to different groups.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Restriction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Limits participation in the study to individuals who are similar in terms of confounders.</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In a study, Restricting the study to only non-smokers will eliminate the effect of smoking.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Randomisation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The technique where every participant will get an equal and known chance of being allocated to either the treatment group or the control group.</li>\n<li><strong>Eliminates both known and unknown confounders.</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In a clinical trial, patients are randomly assigned to receive either a new drug or a placebo, balancing out <span class=\"customMeta\" data-dictid=\"fe39bb8df416927771849b06e48169\">confounding</span> variables.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stratification (Segregate)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Stratify the participants of the study or segregate them.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In a clinical trial, to eliminate the effect of smoking as a confounder, one can further stratify or segregate participants into smokers and non-smokers.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Standardisation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Adjusting the results to a standard population to control for <span class=\"customMeta\" data-dictid=\"fe39bb8df416927771849b06e48169\">confounding</span> variables often used in rate comparisons</li>\n<li><strong>Eliminate or control the effect of age and gender.</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In a study comparing mortality rates between two countries, rates are standardised to a common age distribution to control for age differences.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Multivariate <span class=\"customMeta\" data-dictid=\"f30740eaeb16927771978fc4c375eb\">regression</span> models</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Used when there are multiple confounders.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In an observational diet and heart disease study, a <span class=\"customMeta\" data-dictid=\"f30740eaeb16927771978fc4c375eb\">regression</span> model is used to adjust for age, gender, and physical activity.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NpE1NdgjXHdKyhfSRWwK1746271749.mp3",
+      "video": "",
+      "uid": "59473df9"
+    },
+    {
+      "text": "A study investigating the relationship between smoking and lung cancer found that the association was stronger in individuals who exercised less and weaker in those who exercised more. In this context, what role does exercise play?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confounding Variable",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Effect Modifier",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Spurious Association",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Effect Modifier",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/K6PZlCQmVIKqSagGUGlJ1745950515.mp3",
+      "video": "",
+      "uid": "3e73adb9"
+    },
+    {
+      "text": "In a mountainous region, many residents suffer from endemic goitre. What type of association best describes the relationship between living at high altitudes and the prevalence of goitre in these residents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spurious Association",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Indirect Association",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "One-to-One Causal Association",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multifactorial Causation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Indirect Association",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:659px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Type of Association</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1. <span class=\"customMeta\" data-dictid=\"8700db0ae4169277719988f170583c\">Spurious</span> (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An association that appears to be present but is actually due to chance or an error in data.</p>\n<ul>\n<li><strong>Ice cream sales and <span class=\"customMeta\" data-dictid=\"5031a7245c1692777186f7e7aabc06\">drowning</span> incidents</strong>:\n\n\t\t\t\t<ul>\n<li>Higher ice cream sales are associated with more <span class=\"customMeta\" data-dictid=\"5031a7245c1692777186f7e7aabc06\">drowning</span> incidents, but this is spurious. The real factor is summer, which increases both swimming activity and ice cream sales.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2. <span class=\"customMeta\" data-dictid=\"2f73e160ba1692777190d65065c95b\">Indirect</span> (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An association in which a third variable (known as the <span class=\"customMeta\" data-dictid=\"fe39bb8df416927771849b06e48169\">confounding</span> variable) causes both the predictor and the outcome.</p>\n<ul>\n<li><strong>Coffee consumption and heart disease</strong>:\n\n\t\t\t\t<ul>\n<li>Initial studies suggested coffee consumption is <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to heart disease.</li>\n<li>However, smoking (a confounder) was later found to be more prevalent among coffee drinkers and the real cause of the observed association.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>3. Direct (Causal)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An association where the predictor directly influences the outcome.</p>\n<ul>\n<li><strong>Smoking and lung cancer</strong>:\n\n\t\t\t\t<ul>\n<li>Smoking directly increases the risk of lung cancer through the <span class=\"customMeta\" data-dictid=\"0b1500fcd816927771900b59d16bde\">inhalation</span> of carcinogens.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>\u00a0 \u00a0 \u00a0 \u00a0a. One-to-One causal\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A direct causal link between a single predictor and a single outcome.</p>\n<ul>\n<li><strong>Vitamin C <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> and scurvy</strong>:\n\n\t\t\t\t<ul>\n<li>Lack of <span class=\"customMeta\" data-dictid=\"964b8993a1169277720279c9c96cd1\">vitamin C</span> (predictor) directly causes <span class=\"customMeta\" data-dictid=\"0eff347651169277719862eb775130\">scurvy</span> (outcome).</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>\u00a0 \u00a0 \u00a0 \u00a0b. Multifactorial</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An association involving multiple factors contributing to the outcome.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/zZn5bUs5kr2YKRdaXID01746271395.mp3",
+      "video": "",
+      "uid": "a2179874"
+    }
+  ]
+}

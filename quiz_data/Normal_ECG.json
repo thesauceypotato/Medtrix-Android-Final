@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "id": "test36",
+    "title": "Normal ECG",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "In the given normal ECG, in which phase does the left ventricular subendocardium receive blood supply through the coronary arteries:-",
+      "options": [
+        {
+          "label": "A",
+          "text": "PR interval",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "QRS duration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "QT interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "After T wave",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. After T wave",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683533788560-QTDY037001IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>After T wave The coronary circulation to the left ventricular subendocardial takes place only during the ventricular diastole . So, the left ventricular subendocardial receives blood supply after the T wave.</p>\n<p><strong>Highyeild:</strong></p><p>The coronary circulation takes place during the Ventricular diastole. In ECG: P wave represents Atrial depolarisation O wave represents septal depolarisation of the interventricular septum R wave represents Ventricular repolarization S wave represents basal depolarisation T wave represents Ventricular repolarization ECG intervals: PR interval: Atrial depolarisation and conduction through A V nodes QRS duration: Ventricular depolarisation and Atrial repolarization QT interval: Ventricular repolarization.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Rest options do not sit appropriately.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c9933672",
+      "audio": ""
+    },
+    {
+      "text": "A 72-year-old man with an atrial rate of 80 beats/min develops a third-degree (complete) AV block. A pacemaker site located in the AV node below the region of the block triggers ventricular activity, but at a rate of only 40 beats/min. What would be observed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One P wave for each QRS complex",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "An inverted T wave",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A shortened PR interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A normal QRS complex",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. A normal QRS complex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A normal QRS complex When conduction from the atria to the ventricles is completely interrupted, complete (third-degree) heart block results , and the ventricles beat at a low rate (idioventricular rhythm) independently of the atria. A form of QRS will be normal because electrical excitation of the ventricles occurs over essentially the normal pathway (i.e., AV node to bundle branches to Purkinje system to myocardium).</p>\n<p><strong>Highyeild:</strong></p><p>The T-wave will be normal as well. With a complete heart block, the P wave and QRS complex are independent of each other. Some PR intervals could be shortened by chance, others will be very long, that is there is a predictable PR interval. There will not be a consistent ratio of P waves to QRS complex, because the two are disassociated, but the average ratio would be 80/40.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A. 1:1 relationship between P waves and QRS complexes (for every P wave, a QRS complex is conducted). Option B . Inverted T waves are associated with myocardial ischemia. Option C. The presence of a short PR interval, frequently with a delta wave, defines the preexcitation syndrome.</p>\n<p><strong>Extraedge:</strong></p><p>Sick sinus syndrome (bradycardia-tachycardia syndrome; sinus node dysfunction) is a collection of heart rhythm disorders that include sinus bradycardia (slow heart rates from the natural pacemaker of the heart), tachycardias (fast heart rates), and bradycardia-tachycardia (alternating slow and fast heart rhythms). Sick sinus syndrome is relatively uncommon and is usually found in people older than 50. In patients with AV nodal block, the remaining nodal tissue becomes the pacemaker and the rate of the idioventricular rhythm is approximately 45 beats/min. In patients with infranodal block due to disease in the bundle of His, the ventricular pacemaker is located more peripherally in the conduction system and the ventricular rate is lower; it averages 35 beats/min, but in individual cases, it can be as low as 15 beats/min. In such individuals, there may also be periods of asystole lasting a minute or more. The resultant cerebral ischemia causes dizziness and fainting (Stokes\u2013Adams syndrome). Causes of third-degree heart block include septal myocardial infarction and damage to the bundle of His during surgical correction of congenital interventricular septal defects. When conduction between the atria and ventricles is slowed but not completely interrupted, incomplete heart block is present. In the form called first-degree heart block, all the atrial impulses reach the ventricles but the PR interval is abnormally long. In the form called second-degree heart block, not all atrial impulses are conducted to the ventricles. For example, a ventricular beat may follow every second or every third atrial beat (2:1 block, 3:1 block, etc). In another form of incomplete heart block, there are repeated sequences of beats in which the PR interval lengthens progressively until a ventricular beat is dropped (Wenckebach phenomenon). The PR interval of the cardiac cycle that follows each dropped beat is usually normal or only slightly prolonged.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f9a535db",
+      "audio": ""
+    },
+    {
+      "text": "A normal electrocardiogram (ECG) trace of one cardiac cycle, and a normal recording of one ventricular action potential, are shown. The wave on the ECG trace marked with a star most closely corresponds to which phase of the ventricular action potential?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase O",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase 1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase 2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The event is not visible.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The event is not visible.",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1719205806373-photos-1613643975446-ibqt5img1.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>The event is not visible. The wave on the ECG trace marked with a star is the P wave and is produced by atrial depolarization. Since the action potential recording shown is for ventricular myocyte depolarization, atrial depolarization is not visible on this recording.</p>\n<p><strong>Highyeild:</strong></p><p>Phases 0 and 1 most closely correspond with the QRS complex. Phase 2 most closely corresponds with the ST segment. Phase 3 most closely corresponds with the T wave. Phase 4 most closely corresponds with the TP segment between the end of the T-wave and the start of the next P-wave.</p>\n<p><strong>Extraedge:</strong></p><p>A long QT interval is defined as a prolongation of the QT interval based on an ECG. LQTS can lead to irregular heartbeats and subsequent fainting, seizure, cardiac arrest, or even death. Occurs due to mutations in cardiac expressed voltage-gated K+ channel genes and Na+ channel genes. Patients with LQTS should avoid drugs that prolong the QT interval or reduce serum K+ or Mg In general, Beta Blockers have been used for LQTS to reduce the risk of cardiac arrhythmias.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4cdf408e",
+      "audio": ""
+    },
+    {
+      "text": "During a semi-annual exam, the electrocardiogram (ECG) recording of a trained athlete reveals a cardiac arrhythmia shown in the following trace. The abnormality seen in this lead II trace is due to a change in which of the following electrical event(s) in the heart?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial depolarization",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atrial repolarization",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atrioventricular (AV) conduction time",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ventricular depolarization",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Atrioventricular (AV) conduction time",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683533788613-QTDY037004IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atrioventricular (AV) conduction time This ECG trace shows a first-degree heart block, which is indicated by long PR intervals without any missing QRS complexes.</p>\n<p><strong>Highyeild:</strong></p><p>The PR interval includes the recording of the depolarizations of the conduction tissue from the sinoatrial (SA) node to the Purkinje fibers and indicates how long it takes the conduction cells (not myocytes) to depolarize. The typical duration is 0.12\u20130.20 seconds, and trained athletes may have a long PR interval due to increased vagal tone to the heart. The QRS complex is dominated by ventricular depolarization T wave by ventricular repolarization. The U wave is an inconstant finding that may be due to ventricular myocytes with long action potentials.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A. The P wave is primarily produced by atrial depolarization , Option B. There is no distinctly visible wave representing atrial repolarization in the ECG because it occurs during ventricular depolarization. Because the wave of atrial repolarization is relatively small in amplitude (i.e., has low voltage), it is masked by the much larger ventricular-generated QRS complex. Option D. Ventricular depolarization (activation) is depicted by the QRS complex, whereas ventricular repolarization is defined by the interval from the beginning of the QRS complex to the end of the T- or U-wave.</p>\n<p><strong>Extraedge:</strong></p><p>CARDIAC EVENTS</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d8142df",
+      "audio": ""
+    },
+    {
+      "text": "In a healthy person with a heart rate of 60 beats per minute, which of the following periods in the electrocardiogram (ECG) would be the longest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P wave",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "P-R interval",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "QRS complex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Q-T interval",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Q-T interval",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Q-T interval In an ECG of a healthy person with a heartbeat of 60 beats per minute, the longest part of the cardiac cycle is ventricular depolarization and repolarization, represented by the Q-T interval.</p>\n<p><strong>Highyeild:</strong></p><p>The P wave is caused by electrical potentials generated when the atria depolarize before an atrial contraction begins. The QRS complex is caused by potentials generated when the ventricles depolarize before contraction, that is, as the depolarization wave spreads through the ventricles. Therefore, both the P wave and the components of the QRS complex are depolarization waves. The T wave is caused by potentials generated as the ventricles recover from the state of depolarization. This process normally occurs in ventricular muscle 0.25 to 0.35 seconds after depolarization. The T wave is known as a repolarization wave.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A. The P wave in an electrocardiogram (ECG) represents the depolarization of the atria of the heart. It is the first wave in the ECG and is usually a small, smooth upward deflection that occurs before the QRS complex. Option B. The P-R interval in an electrocardiogram (ECG) represents the time it takes for the electrical signal to travel from the atria to the ventricles of the heart. It is measured from the beginning of the P wave to the beginning of the QRS complex. Option C. The QRS complex in an electrocardiogram (ECG) represents the depolarization of the ventricles of the heart. It is typically the largest wave in the ECG and is measured from the beginning of the Q wave to the end of the S wave or to the end of the R wave if there is no S wave.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a385c35d",
+      "audio": ""
+    },
+    {
+      "text": "A 61-year-old man with a previous myocardial infarction presents with shortness of breath and fatigue. An electrocardiogram is ordered. The trace reveals wide QRS complexes in all leads. Which of the following changes to cardiac innervation or conduction is most likely responsible for the wide QRS complexes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased parasympathetic innervation to the heart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased conduction rate along the bundle branches",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Decreased conduction rate from the SA node to the AV node",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sinus bradycardia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Decreased conduction rate along the bundle branches",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreased conduction rate along the bundle branches If it takes longer for the cells in the bundle branches to depolarize (e.g., due to damage), then there is a delay in the depolarization of myocytes in th e ventricular septum. Since the QRS complex is recorded when ventricular myocytes are depolarizing, any delay will increase the duration of the QRS complex and widen it.</p>\n<p><strong>Highyeild:</strong></p><p>The QRS complex represents the depolarization of ventricles. It shows the beginning of systole and ventricular contraction. The QRS complex or wave starts with a small deflection downwards, represented by the point Q. It follows the P wave.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option: A. FALSE- Decreased parasympathetic innervation to the heart will increase heart rate and increase conduction rate. Option: C. FALSE- Decreased conduction time from the SA node to the AV node will impact the duration of the P wave. Option: D. FALSE- Sinus bradycardia and tachycardia will primarily alter the length of the T-P interval and have little effect on the QRS.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e8f01d92",
+      "audio": ""
+    },
+    {
+      "text": "A 58-year-old woman complains of shortness of breath on exertion. An electrocardiogram (ECG) is ordered and her lead I trace is shown. Which of the following waves, segments, or intervals on her ECG trace is outside of the normal range?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P wave",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "P-R interval",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "QRS complex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ST segment",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. P-R interval",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683533788677-QTDY037007IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>P-R interval The P-R interval is measured from the beginning of the P wave to the beginning of the QRS complex and should be between 0.12 and 0.20 seconds in duration, which is 3\u20135 small boxes on the ECG paper (each small box is 0.04 seconds). This patient\u2019s P-R interval is 0.36 seconds (9 small boxes), which is abnormally long, indicating a first-degree atrioventricular block.</p>\n<p><strong>Highyeild:</strong></p><p>The normal duration of the P wave is shorter than 0.12 seconds (3 small boxes) and is normal for this patient. The normal duration of the QRS complex is less than 0.10 seconds (2.5 small boxes) and is normal for this patient. The normal duration of the S-T segment is 0.8 to 0.12 seconds (2\u20133 small boxes) and is normal for this patient.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "95abe8db",
+      "audio": ""
+    },
+    {
+      "text": "The wife of an elderly man, who is recovering normally in the hospital from surgery, nervously shouts for help. She reports that she just looked at the cardiac monitor for the first time and saw that the electrocardiogram (ECG) looks tiny and almost flat. The responding resident does not see any signs of patient distress. The ECG shows sinus rhythm. When the ECG is switched from the currently displayed lead I to leads II or III, the R wave amplitudes increase and are both about the same height. When the ECG is switched to aVF, the R waves are taller than in leads I, lI, and III. Which of the following will the resident physician most likely do next?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ask the family member to continue watching",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Call emergency code blue",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Consult a cardiologist",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Explain that the patient's heart is beating normally",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Explain that the patient's heart is beating normally",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Explain that the patient's heart is beating normally The equal R wave amplitudes of leads II and III and the largest R wave amplitude in aVF indicate that the patient\u2019s mean QRS electrical axis is close to +90\u00b0.</p>\n<p><strong>Highyeild:</strong></p><p>The flat ECG appearance in lead I indicates that it is the isoelectric lead axis, with the QRS vector perpendicular to the lead and hence causing only very small deflections. The sinus rhythm and the absence of any other clinical signs indicate that the heart is beating normally. </p</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options: Option: A. Asking a family member to monitor THE ECG is inappropriate. Option: B. Code blue initiates an emergency response for a patient in cardiac arrest. Option: C. An expert cardiologist does not need to be consulted, since every hospital physician understands the basics of a 12-lead ECG.</p>\n<p><strong>Extraedge:</strong></p><p>NORMAL SINUS RHYTHM In the normal human heart, each beat originates in the SA node (normal sinus rhythm, NSR). The heart beats about 70 times a minute at rest. The rate is slowed (bradycardia) during sleep and accelerated (tachycardia) by emotion, exercise, fever, and many other stimuli. In healthy young individuals breathing at a normal rate, the heart rate varies with the phases of respiration; it accelerates during inspiration and decelerates during expiration, especially if the depth of breathing is increased. CLINICAL INTEGRATION EDGE-SICK SINUS SYNDROME Sick sinus syndrome (bradycardia-tachycardia syndrome; sinus node dysfunction) is a collection of heart rhythm disorders that include sinus bradycardia (slow heart rates from the natural pacemaker of the heart), tachycardias (fast heart rates), and bradycardia-tachycardia (alternating slow and fast heart rhythms).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e7b31fc1",
+      "audio": ""
+    },
+    {
+      "text": "A 13-year-old girl presents with recurrent episodes of syncope, which are induced by bending over (e.g., to tie her shoes). Her electrocardiogram (ECG) reveals a short P-R interval and a delta wave. Based on her presentation, her symptoms are most likely caused by abnormal accessory conduction pathways through which structure of the heart?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial septum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atrioventricular node",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atrioventricular ring",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Heart valves",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Atrioventricular ring",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atrioventricular ring The syncope and ECG findings are characteristic of Wolff-Parkinson-White (WPW) syndrome. In this syndrome, the heart has abnormal conduction pathways between the atria and ventricles through the atrioventricular (AV) ring, which normally does not conduct an electrical current; these pathways disrupt the normal conduction pathway and electrical activity of the heart.</p>\n<p><strong>Highyeild:</strong></p><p>WPW pattern is a constellation of electrocardiographic findings, so initial evaluation relies on a surface electrocardiogram. The ECG will show a short PR interval (<120 ms), prolonged QRS complex (>120 ms), and a QRS morphology consisting of a slurred delta wave.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option: A. FALSE- The atrial and ventricular septa have normal conduction pathways and are not disrupted by WPW. Option: B. FALSE- The AV node is the normal conduction pathway from the atria to the ventricles. Option: D. FALSE- The heart valves do not conduct electrical currents.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3f2b3b2f",
+      "audio": ""
+    },
+    {
+      "text": "A patient with an inferior MI develops a stable bradycardia of 50/min. The cardiologist orders an ECG to evaluate whether there is sinus node dysfunction or an atrioventricular conduction disturbance. The diagnosis of a first-degree heart block is made in which of the following cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The PR interval of the ECG is increased.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The P wave of the ECG is never followed by a QRS complex.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The P wave of the ECG is sometimes followed by a QRS complex.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The T wave of the ECG is inverted.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The PR interval of the ECG is increased.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>The PR interval of the ECG is increased. The diagnosis of a first-degree heart block is made when the PR interval of the ECG is increased. The PR interval represents the time it takes for the cardiac action potential to propagate from the SA node to the ventricular muscle . A delay in this interval, normally produced by a slowing in the conduction velocity through the AV node, is called a first-degree heart block. A second-degree heart block occurs when the action potential does not always propagate through the SA node. This produces an uneven heartbeat. A third-degree block occurs when the action potential never reaches the ventricle. Under these conditions, pacemakers within the ventricle produce ventricular contraction but the rate is very slow. Inversion of the T wave and elevation of the ECG are indicators of membrane potential defects within the ventricular muscle.</p>\n<p><strong>Highyeild:</strong></p><p>First-degree heart block: When conduction between the atria and ventricles is slowed but not completely interrupted, incomplete heart block is present. In the form called first-degree heart block, all the atrial impulses reach the ventricles but the PR interval is abnormally long. In second-degree heart block: not all atrial impulses are conducted to the ventricles. For example, a ventricular beat may follow every second or every third atrial beat (2:1 block, 3:1 block, etc). In another form of incomplete heart block, there are repeated sequences of beats in which the PR interval lengthens progressively until a ventricular beat is dropped (Wenckebach phenomenon). The PR interval of the cardiac cycle that follows each dropped beat is usually normal or only slightly prolonged. Sometimes one branch of the bundle of His is interrupted, causing a right or left bundle branch block. In a bundle branch block, excitation passes normally down the bundle on the intact side and then sweeps back through the muscle to activate the ventricle on the blocked side. The ventricular rate is therefore normal, but the QRS complexes are prolonged and deformed. Block can also occur in the anterior or posterior fascicle of the left bundle branch, producing the condition called hemiblock or a fascicular block. The left anterior hemiblock produces abnormal left axis deviation in the ECG, whereas the left posterior hemiblock produces abnormal right axis deviation.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- If  the P wave of the ECG is never followed by a QRS complex, this is likely indicative of a complete heart block, which is a more severe conduction abnormality. Similarly, if the P wave of the ECG is sometimes followed by a QRS complex, this may be indicative of a second-degree heart block, in which some P waves are conducted to the ventricles and others are not. The T wave of the ECG being inverted may be indicative of various cardiac conditions, but is not related to the diagnosis of heart block.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3314807d",
+      "audio": ""
+    },
+    {
+      "text": "Which part of the ECG corresponds to ventricular repolarization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The P wave",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The QRS duration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The T wave",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The U wave",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The T wave",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>The T wave The T wave is caused by potentials generated as the ventricles recover from the state of depolarization. This process normally occurs in ventricular muscle 0.25 to 0.35 seconds after depolarization. The T wave is known as a repolarization wave.</p>\n<p><strong>Highyeild:</strong></p><p>The P wave is caused by electrical potentials generated when the atria depolarize before an atrial contraction begins. The QRS complex is caused by potentials generated when the ventricles depolarize before contraction, that is, as the depolarization wave spreads through the ventricles. Therefore, both the P wave and the components of the QRS complex are depolarization waves.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A. The P wave is caused by electrical potentials generated when the atria depolarize before an atrial contraction begins. Option B. The QRS complex is caused by potentials generated when the ventricles depolarize before contraction, that is, as the depolarization wave spreads through the ventricles. Therefore, both the P wave and the components of the QRS complex are depolarization waves. Option C. U waves represent the last phase of ventricular repolarization. Prominent U waves are characteristic of hypokalemia.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c0b2f048",
+      "audio": ""
+    },
+    {
+      "text": "Produced by depolarization of atrial fibers in ECG is_______ :",
+      "options": [
+        {
+          "label": "A",
+          "text": "P wave",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Prolonged PR interval",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "QRS complex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ST segment",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. P wave",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683533788707-QTDY037012IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>P wave The P wave is produced by atrial depolarization.</p>\n<p><strong>Highyeild:</strong></p><p>The P wave is slower and shorter than the QRS complex because the atria lack a fast conducting system corresponding to the bundle of the His-Purkinje fiber system to synchronize the depolarization of the atrial working fibers.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option B. The PR interval is prolonged because conduction through the AV node is slowed significantly during first-degree heart block. Option C. The QRS complex represents the depolarization of ventricles. It shows the beginning of systole and ventricular contraction. Option D. The ST segment represents the interval between depolarization and repolarization of the ventricles.</p>\n<p><strong>Extraedge:</strong></p><p>First-degree heart block: Prolongation of the time taken for action potentials to propagate through the AV node (abnormally long PR interval). Second-degree heart block: Failure of some but not all action potentials to propagate through the AV node (greater number of P waves than QRS complexes). Third-degree heart block: Failure of all action potentials to propagate through the AV node (no correlation between P waves and QRS complexes).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b6ea6101",
+      "audio": ""
+    },
+    {
+      "text": "The patient's ECG shows that in the second lead from the extremities, the P waves are positive. Their amplitude is 0.1 mV (norm is 0.05-0.25 mV), and duration \u2013 0.1 sec (norm is 0.07-0.10 sec). It can be concluded that which of the following process occurs normally in the cardiac atria:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Activation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Relaxation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Depolarization",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Repolarization",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Depolarization",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Depolarization The P wave is the first deflection and is normally a positive (upward) waveform. It indicates atrial depolarization.</p>\n<p><strong>Highyeild:</strong></p><p>The P wave on the ECG represents atrial depolarization, which results in atrial contraction, or atrial systole. Peaked P waves (> 0.25 mV) suggest right atrial enlargement, cor pulmonale, (P pulmonale rhythm) P waves with increased amplitude can indicate hypokalemia. P waves with decreased amplitude can indicate hyperkalemia. Bifid P waves (known as P mitrale) indicate left-atrial abnormality - e.g., dilatation or hypertrophy. The absence of the P wave with a flat baseline may indicate atrial fibrillation and Sinoatrial arrest (with a secondary escape rhythm).</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A. Ventricular activation time (VAT) is the time between the beginnings of the QRS deflection to the peak R. Option B. Atrial diastole: lasting about 0.7 seconds - relaxation of the atria, during which the atria fills with blood from the large veins (the vena cavae). Ventricular diastole: lasts about 0.5 seconds - begins before atrial systole, allowing the ventricles to fill passively with blood from the atria. Option D. Ventricular repolarization is a complex electrical phenomenon that represents a crucial stage in electrical cardiac activity. It is expressed on the surface electrocardiogram by the interval between the start of the QRS complex and the end of the T wave or U wave (QT).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4c7f5ea3",
+      "audio": ""
+    }
+  ]
+}

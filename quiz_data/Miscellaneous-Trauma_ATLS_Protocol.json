@@ -1,0 +1,514 @@
+{
+  "meta": {
+    "id": "test48",
+    "title": "Miscellaneous-Trauma_ATLS_Protocol",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A road traffic accident has occurred, and the first response team has arrived at the scene. Which of the following is not a key priority in prehospital care?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaluate the scene",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Perform an initial assessment",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Make triage-transport decision",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Transport immediately and delay interventions",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Transport immediately and delay interventions",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mDGvMXtCMnQmCQZANQTO1747230914.mp3",
+      "video": "",
+      "uid": "95108d3e"
+    },
+    {
+      "text": "After a high-speed road traffic accident, a trauma team arrives to find multiple critically injured patients. According to the trimodal mortality model, which statement is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate deaths occur days after the injury",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Early deaths occur within hours of reaching the hospital",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Majority of deaths are due to cardiac causes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Late deaths are mostly due to internal hemorrhage",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Early deaths occur within hours of reaching the hospital",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:699px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Immediate death</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Early death</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Late death</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>This peak occurs seconds to minutes after the injury. (Option A) </strong></li>\n<li>Due to the extreme nature of these injuries, very few patients in this category can be saved, and prevention remains the most effective way to address this peak.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>This peak occurs within minutes to several hours post-injury.</strong></li>\n<li>The \"golden hour\" of trauma care, characterized by a need for rapid assessment and resuscitation, is crucial in managing these patients.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>This peak emerges days to weeks after the initial injury.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Severe and nonsurvivable injury</li>\n<li>Irreversible brain injury</li>\n<li>Hemorrhages of organs like:</li>\n<li>Heart</li>\n<li>Aorta</li>\n<li>Liver</li>\n<li>Lungs</li>\n<li>Pelvic fracture</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Intracranial hemorrhage/ brain lacerations/ contusions</li>\n<li>Hemorrhage of <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> or <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> organs.</li>\n<li>Multiple small injuries causing major blood loss.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Infection/sepsis or Multiorgan failure (MODS) (80% cases) <strong>(Option D)</strong></li>\n<li>Brain injury</li>\n<li>Hemorrhage</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/4BNnYM6vEJBYRYC47wfw1747154916.mp3",
+      "video": "",
+      "uid": "5e4d6dc2"
+    },
+    {
+      "text": "After a major earthquake, a patient presents with a compound fracture and spinal injuries. Considering the severity of these injuries and the urgency of treatment, which triage color code is most appropriate for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Black",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Green",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Yellow",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Yellow",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:638px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Colour </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Priority </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Medical Need </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Status </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Red (Option B)</strong></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>First</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Immediate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Critical, but likely to survive if treatment given early</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Severe <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">facial</span> trauma</li>\n<li>Tension pneumothorax</li>\n<li>Profuse external bleeding</li>\n<li>Haemothorax</li>\n<li>Flail chest</li>\n<li>Major <span class=\"customMeta\" data-dictid=\"b02812a466169277719090c2d27868\">intra-abdominal</span> bleed</li>\n<li>Extradural haematomas</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Yellow (Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Second</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Urgent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Critical, but likely to survive if treatment given within hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Compound fractures</li>\n<li>Degloving injuries</li>\n<li>Ruptured <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> viscus</li>\n<li>Pelvic fracture</li>\n<li>Spinal injuries</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Green (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Third</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-Urgent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stable, likely to survive even if treatment is delayed for hours to days</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Simple fractures</li>\n<li>Sprains</li>\n<li>Minor lacerations</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Black (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Last</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Unsalvageable</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not breathing, pulseless, so severely injured that no medical care is likely to help</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Severe brain damage</li>\n<li>Very extensive burns</li>\n<li>Major disruption/ loss of chest or <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> wall structures</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ZTrMCMFCHo5MzQfMdG1v1747231143.mp3",
+      "video": "",
+      "uid": "24710d6e"
+    },
+    {
+      "text": "In an emergency situation in the casualty, the ATLS protocol is followed after a patient who was in a road traffic accident is brought to the hospital. Which of the following is not a component in the primary evaluation of the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Detailed history of the patient",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Airway assessment",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rule out shock",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Check for neurological disability",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Detailed history of the patient",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/KrdNWPMoEOWgkh8pnlK71740027233.png",
+        "https://image.prepladder.com/content/8VU8rNGxwLqznc5lGEGz1740027299.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bDuGOivKIenqR202OvNd1747231272.mp3",
+      "video": "",
+      "uid": "4c814a55"
+    },
+    {
+      "text": "A 34-year-old patient arrives at the emergency department after a motor vehicle collision. The ED physician is assessing whether to order spinal imaging. Which of the following findings does not indicate that spinal imaging is necessary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No focal neurological deficit",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Patient is intoxicated",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Altered level of consciousness",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Presence of midline spinal tenderness",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. No focal neurological deficit",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/aRLtLOySgRZjEtAf23Ax1740027346.png",
+        "https://image.prepladder.com/content/MxfyEW9fHrr2tHzZPrhx1740027406.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/BUuvcmONyK1UVbHMBszi1747231458.mp3",
+      "video": "",
+      "uid": "809c8759"
+    },
+    {
+      "text": "A critically injured patient is brought to the emergency department. The primary assessment is started. In the following algorithm identify the missing step (a) and action (b).",
+      "options": [
+        {
+          "label": "A",
+          "text": "a- Assess airway, b- Establish stable airway",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "a- Assess circulation, b- Prevent shock",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "a- Establish airway, b- Assess circulation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a- Assess airway, b- Assess circulation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. a- Assess airway, b- Establish stable airway",
+      "question_images": [
+        "https://image.prepladder.com/content/kHJXtiA0XLXbpHMeTJs51740027444.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/rAOVENH8QM9fC48Fnin81740027467.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/fdBHOykDR8m8B2v57SYg1747231618.mp3",
+      "video": "",
+      "uid": "22d89115"
+    },
+    {
+      "text": "A road accident patient, stabilized with no severe external injuries, suddenly develops tachycardia, weak pulses, hypotension, and tachypnoea. Which ATLS primary assessment component is most likely causing these symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Airway",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Circulation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Neurological",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hypothermia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Circulation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/If7DoHrbZhMwo492Jp2O1747231792.mp3",
+      "video": "",
+      "uid": "38a66558"
+    },
+    {
+      "text": "A 35-year-old male is brought in after a fall from height and is found to be in hypovolemic shock. According to ATLS protocol, which of the following investigations is not recommended during the primary survey to identify the cause of the life-threatening bleed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "FAST scan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chest X-Ray",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pelvic radiograph",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CT scan",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CT scan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Keq3qpocMogEShzzyUtb1747231927.mp3",
+      "video": "",
+      "uid": "33b23f2f"
+    },
+    {
+      "text": "Which of the following statements is true regarding the CRASH-2 trial in trauma? (TXA= Tranexamic acid)",
+      "options": [
+        {
+          "label": "A",
+          "text": "TXA is more effective when given after 3 hours of trauma.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "TXA reduced all-cause mortality versus placebo.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "TXA in children worsens pulmonary and neurological outcomes.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CRASH-2 showed TXA is ineffective in trauma.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. TXA reduced all-cause mortality versus placebo.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PGDZFfEiDXJVAXmCWHbG1747232200.mp3",
+      "video": "",
+      "uid": "334eff1e"
+    },
+    {
+      "text": "During the primary survey of a trauma patient in the emergency department, which of the following injuries is not classified as life-threatening under the category of \u201cbreathing\u201d problems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flail chest",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hemothorax",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bronchial rupture",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Expanding hematoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Expanding hematoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1bzj3Mz18yv0qh1GqffT1747232438.mp3",
+      "video": "",
+      "uid": "7ce7203b"
+    },
+    {
+      "text": "A 45-year-old man is found unconscious after a fall from a ladder. In the emergency department, his eyes do not open even in response to pain; he is making incomprehensible sounds, and he exhibits abnormal flexion in response to painful stimuli. What is his Glasgow Coma Scale (GCS) score?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "7",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 6",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:426px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Response</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Score</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Eye Opening (E)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Spontaneous</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>To speech</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>To pain</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Verbal Response (V)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Oriented</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Confused conversation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inappropriate words</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Incomprehensible sounds</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"6\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Motor Response (M)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Obeys commands</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Localizes to pain</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Withdraws from pain</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Abnormal <span class=\"customMeta\" data-dictid=\"85ff8a7ff81692777202a827961a5c\">flexion</span> (decorticate)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Abnormal extension (decerebrate)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No response</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Head Injury Severity: Clinical Classification</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Minor head injury</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GCS 15 with no LOC (loss of consciousness)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mild head injury</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GCS 14 or 15 with LOC</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moderate head injury</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GCS 9 - 13</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe head injury</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GCS 3 - 8</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:297px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pupils Unreactive to Light</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pupil <span class=\"customMeta\" data-dictid=\"d4b70f945316927771972d75389cf0\">Reactivity</span> Score</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Both Pupils</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>One Pupil</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neither Pupil</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/KdqwuoAXFuPsZSKWGhRG1747232562.mp3",
+      "video": "",
+      "uid": "7e718aaf"
+    },
+    {
+      "text": "A 25-year-old male involved in a high-speed motor vehicle accident is brought to the emergency department. After completing the primary survey and stabilizing the patient, the trauma team begins the secondary survey. Which of the following steps is not a part of the secondary survey?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Identifying external hemorrhage",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Full neurological examination",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thorough head-to-toe examination",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Obtaining a detailed patient history",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Identifying external hemorrhage",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:0px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Survey: </strong> Focuses on immediate life-saving interventions.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Secondary Survey: </strong> Conducted after the patient is stabilized.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Airway with <span class=\"customMeta\" data-dictid=\"25c6ce766c1692777184ab9a40305c\">cervical</span> spine protection</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Complete head-to-toe physical examination</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breathing and ventilation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Full neurological examination (e.g., GCS)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Circulation with <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> control</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>History taking using the AMPLE mnemonic</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Disability (neurological status)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examination for fractures, soft tissue injuries</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Exposure and environmental control (e.g., prevent hypothermia)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detailed examination of all systems</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ERDtphfCGGFzSnwETasU1747232709.mp3",
+      "video": "",
+      "uid": "cada4b31"
+    },
+    {
+      "text": "A 30-year-old woman with mid-facial trauma from a car accident is stabilized and the secondary survey begins. Which of the following is not an appropriate step in the secondary survey?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Obtaining a detailed history",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Digital rectal examination for spinal injury",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nasogastric tube in a patient with mid-facial fractures",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Repeat FAST examination for abdominal injury",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nasogastric tube in a patient with mid-facial fractures",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:681px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prerequisites</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Primary survey must be completed.</li>\n<li>Resuscitation initiated.</li>\n<li>All life-threatening conditions identified and addressed.</li>\n<li>Normalization of vital signs should have begun.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Obtain AMPLE History</strong><strong> </strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A focused history covering: <strong>A</strong>llergies, <strong>M</strong>edications, <strong>P</strong>revious medical history/illness or Pregnancy, <strong>L</strong>ast meal, <strong>E</strong>vents/environment related to the injury. This guides ongoing care and anticipates complications.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complete Physical Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Systematic head-to-toe exam including front, back, sides, and hidden areas (scalp, axillae, perineum).</li>\n<li>Reassess <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> and lung function.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Vital Signs Assessment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Monitor vital signs regularly.</li>\n<li>Narrow <span class=\"customMeta\" data-dictid=\"2181cd88c916927771965490f0a73c\">pulse pressure</span> and <span class=\"customMeta\" data-dictid=\"af1cd978a41692777200da2f67bf22\">tachycardia</span> suggest hypovolemic shock.</li>\n<li>Be cautious with delayed <span class=\"customMeta\" data-dictid=\"cdf4a197dd16927771881a652c8328\">hemodynamic</span> changes in the elderly.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Head and Face Examination</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Check for <span class=\"customMeta\" data-dictid=\"038a2a2fd4169277719894dc7db4bb\">scalp</span> hematomas, skull depression, <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">facial</span> fractures, septal hematomas, raccoon eyes, or Battle\u2019s sign.</li>\n<li>Avoid <span class=\"customMeta\" data-dictid=\"de300f68ca16927771938f9572d888\">nasogastric</span> tube <span class=\"customMeta\" data-dictid=\"c88a7c1a0116927771909b2463968d\">insertion</span> if <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">facial</span> trauma is present.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neck Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Immobilize and <span class=\"customMeta\" data-dictid=\"5aabcb1ee8169277719447f2dd6c2c\">palpate</span> the neck.</li>\n<li>Rule out <span class=\"customMeta\" data-dictid=\"25c6ce766c1692777184ab9a40305c\">cervical</span> spine injury with <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> or clinical criteria..</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chest Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Palpate for tenderness, crepitus, and fractures.</li>\n<li>Inspect for seatbelt bruising and assess <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> and heart sounds.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Abdomen Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Look for distension, bruising, tenderness, and marks.</li>\n<li>Assess for peritoneal injury.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pelvic and Rectal Examination </strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Check for <span class=\"customMeta\" data-dictid=\"7cd6eb19341692777195d83aafdcb3\">pelvic</span> <span class=\"customMeta\" data-dictid=\"acb259200b16927771908888d1377c\">instability</span> and <span class=\"customMeta\" data-dictid=\"befda305051692777195a95ee0695a\">perineal</span> injury.</li>\n<li>Perform digital rectal exam if there is suspicion of rectal or urethral injury, especially in <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord injury, <span class=\"customMeta\" data-dictid=\"7cd6eb19341692777195d83aafdcb3\">pelvic</span> fractures or gunshot wounds to the pelvis.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Genital Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Vaginal examination in women with <span class=\"customMeta\" data-dictid=\"7cd6eb19341692777195d83aafdcb3\">pelvic</span> fractures or lacerations.</li>\n<li>Assess for signs of <span class=\"customMeta\" data-dictid=\"9a1e50b8221692777201b95b66c9de\">vaginal</span> trauma or pregnancy-related complications.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Extremities Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Evaluate for fractures, tenderness, deformities, <span class=\"customMeta\" data-dictid=\"d100eb4ed81692777193b7f47b5cba\">neurovascular</span> status, and signs of <span class=\"customMeta\" data-dictid=\"ce3edddb5116927771844c030f3c1e\">compartment</span> syndrome.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurological Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Reassess Glasgow <span class=\"customMeta\" data-dictid=\"e39842f67b1692777184171cd1852a\">Coma</span> Scale</li>\n<li>Evaluate <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> and motor functions, pupillary response, and signs of head injury.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>FAST </strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Use Focused <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">Abdominal</span> <span class=\"customMeta\" data-dictid=\"2f728bd574169277719835f6456848\">Sonography</span> for Trauma (FAST) to check for internal <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> in <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> injury or unexplained blood loss.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Special Considerations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Update <span class=\"customMeta\" data-dictid=\"64dfe4fca51692777200a7ffbc44bb\">tetanus</span> status.</li>\n<li>Assess <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> output.</li>\n<li>Remove dressings to reassess injuries.</li>\n<li>Remove <span class=\"customMeta\" data-dictid=\"25c6ce766c1692777184ab9a40305c\">cervical</span> collar briefly to evaluate the neck while maintaining immobilization.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic Tests and Consultations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Obtain additional <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> or lab tests as needed and request specialist consultations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tertiary Survey</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Conducted within 24 hours for multisystem trauma patients to identify missed injuries from primary and secondary surveys.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1wQBlajYtRzCc0Lof7CS1747232850.mp3",
+      "video": "",
+      "uid": "7bdd9e94"
+    },
+    {
+      "text": "A 35-year-old male arrives in the emergency department after a motor vehicle collision with unstable vitals and multiple injuries. Which trauma severity score is most appropriate for predicting his likelihood of survival?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Injury Severity Score (ISS)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Revised Trauma Score (RTS)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trauma and Injury Severity Score (TRISS)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mangled Extremity Severity Score (MESS)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Trauma and Injury Severity Score (TRISS)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:526px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Score</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Parameters</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Application</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ISS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anatomical injury in body regions (AIS system)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures overall injury severity</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RTS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GCS, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">Respiratory</span> Rate, <span class=\"customMeta\" data-dictid=\"cf69f5256416927771991c21f264ae\">Systolic</span> BP</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Physiological response to trauma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TRISS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Combination of ISS, RTS, and Age</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Predicts survival <span class=\"customMeta\" data-dictid=\"f52ac1410416927771969ba21fcb63\">probability</span> in trauma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MESS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Limb ischemia, shock, age, and energy of injury</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Predicts need for <span class=\"customMeta\" data-dictid=\"9dfe4d42641692777181673eb73924\">amputation</span> in limb trauma</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/l2omOdB7mJMzZvKnRQor1747233145.mp3",
+      "video": "",
+      "uid": "24a2ea02"
+    },
+    {
+      "text": "A 40-year-old male is admitted to the hospital after a major traumatic injury. On the third day post-trauma, his oxygen consumption and metabolic rate have increased significantly, and he exhibits elevated catecholamine levels. Which phase of the metabolic response is this patient most likely in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ebb phase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Flow phase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Anabolic phase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Recovery phase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Flow phase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:607px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Timing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Features</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ebb Phase (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>First 24\u201348 hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>\u2193 <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">Metabolic</span> rate,</li>\n<li>\u2193 Energy expenditure,</li>\n<li>\u2193 <span class=\"customMeta\" data-dictid=\"391d32291016927771932bab695579\">Nitrogen</span> excretion, <span class=\"customMeta\" data-dictid=\"cdf4a197dd16927771881a652c8328\">Hemodynamic</span> stability</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Flow Phase </strong><strong>or Catabolic phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2\u20137 days post-trauma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>\u2191 <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">Metabolic</span> rate,</li>\n<li>\u2191 Oxygen consumption, Catabolism,</li>\n<li>\u2191 Catecholamines</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anabolic Phase (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weeks post-trauma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Positive <span class=\"customMeta\" data-dictid=\"391d32291016927771932bab695579\">nitrogen</span> balance,</li>\n<li>Protein synthesis,</li>\n<li>Restoration of tissue mass</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/liLUfS2RWBGRf4l1fB9k1747233304.mp3",
+      "video": "",
+      "uid": "385ba4c9"
+    }
+  ]
+}

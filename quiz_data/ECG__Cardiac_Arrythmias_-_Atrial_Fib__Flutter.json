@@ -1,0 +1,446 @@
+{
+  "meta": {
+    "id": "test47",
+    "title": "ECG & Cardiac Arrythmias - Atrial Fib & Flutter",
+    "category": "Prepladder / RR"
+  },
+  "questions": [
+    {
+      "text": "A 45-year-old male, with a known case of hypertension for 10 years, presented with a history of palpitations. On examination, he is found to have an irregularly irregular pulse. In the JVP, 'a' waves are absent. What is your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial fibrillation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mitral stenosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tricuspid atresia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sick sinus syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Atrial fibrillation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atrial fibrillation Absent a wave: atrial fibrillation</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - So, Options B, C and D are not the correct choices.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b20b1b9e",
+      "audio": ""
+    },
+    {
+      "text": "A 46 year COPD patient presented with a history of palpitations. ECG done Is shown below. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial fibrillation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1st degree AV block",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Multifocal atrial tachycardia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sinus tachycardia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Multifocal atrial tachycardia",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748871971-QTDM015002IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Multifocal atrial tachycardia The given ECG shows HR ~108 bpm with irregular rhythm 3 different p wave morphologies Hence it is a case of multifocal atrial tachycardia.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A - AF will have absent p waves with irregular rhythm Option B -It will have a prolonged fixed PR interval with a regular rhythm Option D - It will have a regular rhythm with normal p waves</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "93e12e82",
+      "audio": ""
+    },
+    {
+      "text": "A patient is admitted to the Intensive Care Unit for acute ischemic stroke and atrial fibrillation. Which of the following is incorrect regarding atrial fibrillation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases the risk of dementia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Most common sustained arrhythmia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ventricular rate never exceeds 120 beats/min",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both A and C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ventricular rate never exceeds 120 beats/min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ventricular rate never exceeds 120 beats/min In an untreated patient of atrial fibrillation (AF), the ventricular rate tends to be rapid and variable, between 120 and 160 beats/min , but in some patients, it may exceed 200 beats/m. Patients with high vagal tone or AV nodal conduction disease may have slow ventricular rates.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A - Atrial fibrillation increases the risk of dementia and silent strokes as detected by MRI. Option B - AF is the most common sustained arrhythmia and is a major public health problem whose prevalence increases with age and >95% of AF patients are >60 years of age.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b1ab5459",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents to the emergency department with palpitations. On ECG, it was atrial fibrillation. He is diagnosed with paroxysmal atrial fibrillation based on his past medical records. Which is most unlikely in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapidly firing foci in sleeves of atrial muscle extending into pulmonary veins",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stops within 7 days of onset",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Catheter ablation abolishes the arrhythmia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Facilitated by atrial fibrosis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Facilitated by atrial fibrosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Facilitated by atrial fibrosis Structural and electrophysiologic atrial abnormalities, particularly fibrosis that uncouples atrial fibres, promoting reentry and focal automaticity facilitates persistence of the AF and not paroxysmal AF.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options: A and C. Paroxysmal AF is often initiated by small reentrant or rapidly firing foci in sleeves of atrial muscle that extend into the pulmonary veins (PV). Catheter ablation that isolates these foci usually abolishes paroxysmal AF. Some patients also have to initiate foci in other locations. These non-PV triggers tend to occur in older patients and those with more severe underlying cardiac disease. Option: B. Paroxysmal AF is defined by episodes that start spontaneously and stop within 7 days of onset. In contrast, persistent AF has a longer duration, exceeding 7 days.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b03d4fd0",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents to the Emergency department with increased breathlessness and dizziness. He is a significant past history of myocardial ischemia. His latest ECHO showed a left ventricular ejection fraction of 48%. His current vitals are pulse 98 beats/ min, BP -98/60, temperature - 98.7\u00b0 F. An ECG is taken and shows the following findings. What is the reason behind the exacerbation of his heart disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial flutter",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ventricular tachycardia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ventricular fibrillation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Atrial fibrillation",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748871987-QTDM015005IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atrial fibrillation The findings in this given ECG are irregularly irregular rhythm , absence of P waves, and absence of an isoelectric baseline and these are seen in Atrial fibrillation.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - O ption: A- Positive P waves in lead V1 and negative sawtooth pattern in leads II, III, and aVF is seen in atrial flutter. Option: B- Ventricular tachycardia is characterized by regular, broad and uniform QRS complex tachycardia. Option: D- Ventricular fibrillation is characterised by chaotic irregular deflections of varying amplitude with no identifiable P waves, QRS complexes, or T waves.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a79ac9fc",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents to the Emergency department with increased breathlessness, dizziness and palpitations for the past 2 hours. He is a significant past history of myocardial ischemia 2 years back. His vitals are pulse 112 beats/ min BP - 90/50 mm hg and temp 98\u00b0F. An ECG is taken and a diagnosis of atrial fibrillation is made. Which of the following treatment modalities is used for the initial management of the patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DC cardioversion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Beta blocker",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both B and C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. DC cardioversion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DC cardioversion This is a case of atrial fibrillation and the patient is unstable. In hemodynamically unstable patients, cardioversion is the treatment of choice provided that it has been less than 48 hours since onset of atrial fibrillation.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options: B and C. rate control drugs like beta blockers and calcium channel blockers, and rhythm control drugs like amiodarone, and flecainide can be used in stable patients.</p>\n<p><strong>Extraedge:</strong></p><p>Evaluation of bleeding risk: score HAS-BLED Letter Clinical characteristic Points awarded H Hypertension A Abnormal renal and liver function (1) point each) 1 or 2 S Stroke 1 B Bleeding 1 L Labile INRS 1 E Elderly (e.g. age > 65 years) 1 D Drugs or alcohol (1 point each) 1 or 2 Maximum 9 points</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9c1fb20e",
+      "audio": ""
+    },
+    {
+      "text": "A 45 year old female patient presents to the Emergency department with breathlessness and palpitations. She is a past history of myocardial ischemia 5 years ago and is a known diabetic for 5 years on medications. An ECG is taken which is shown in the image. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myocardial infarction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ventricular tachycardia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atrial flutter",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Atrial fibrillation",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748872006-QTDM015007IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atrial fibrillation The findings is this given ECG are irregularly irregular rhythm, absence of P waves, and absence of an isoelectric baseline and these are seen in Atrial fibrillation</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Myocardial infarction can either be with ST-segment elevation or ECG may even be normal in NSTEMI with raised troponin. Since ECG shows features of atrial fibrillation, therefore the diagnosis is clear. Option: B. Ventricular tachycardia is characterized by regular, broad and uniform QRS complex tachycardia. Option: D. Positive P waves in lead V1 and negative sawtooth pattern in leads II, III, and aVF is seen in atrial flutter.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bf84602e",
+      "audio": ""
+    },
+    {
+      "text": "A patient with atrial fibrillation is being considered for catheter ablation of the foci. Which of the following is incorrect regarding catheter ablation in atrial fibrillation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long-term control of AF is achieved in persistent AF",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sinus rhythm is maintained for >1 year in 60% of patients with paroxysmal AF after one ablation procedure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Patients become more responsive to antiarrhythmic drugs after procedure",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stroke is a complication",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Long-term control of AF is achieved in persistent AF",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Long-term control of AF is achieved in persistent AF AF is more difficult to achieve in patients with persistent AF because of more extensive atrial abnormality and associated greater co-morbidities in these patients.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. In patients with paroxysmal AF, sinus rhythm is maintained for >1 year after one ablation procedure in ~60% of patients; and is achieved in 70\u201380% of patients after multiple procedures. Option: C. Patients become more responsive to antiarrhythmic drugs after the procedure. Option: D. Catheter ablation has a 2\u20137% risk of major procedure-related complications, including stroke (0.5\u20131%), cardiac tamponade (1%), phrenic nerve paralysis, bleeding from femoral access sites, and fluid overload with heart failure, that can emerge 1\u20133 days after the procedure.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0e9022ae",
+      "audio": ""
+    },
+    {
+      "text": "A 62 year old male patient presents with weakness in the right upper and lower limbs for the past few hours. After stabilization of vitals, a CT scan is conducted which is normal. On ECG, atrial fibrillation is seen and from past medical records, he has chronic atrial fibrillation. Which of the following is incorrect regarding rate control in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta blockers and calcium channel blockers are used in combination",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Goal is a resting heart rate of <80 beats/min",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Exertion-related symptoms may be normal",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Permanent pacemaker helps achieves rate control",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Exertion-related symptoms may be normal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Exertion-related symptoms may be normal Exertion-related symptoms are often an indication of inadequate rate control. The rate should be assessed with exertion and medications adjusted accordingly. The initial goal is a resting heart rate of <80 beats/min that increases to <100 beats/min with light exertion, such as walking.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. In patients who remain in AF chronically, \u03b2-Adrenergic blockers and calcium channel blockers are often used in combination. Digoxin is added selectively when these are not sufficient. Option: B. The initial goal is a resting heart rate of <80 beats/min that increases to <100 beats/min with light exertion, such as walking. If it is difficult to slow the ventricular rate to that degree, allowing a resting rate of up to 110 beats/min is acceptable, provided it does not cause symptoms and ventricular function is normal. Option: D. Implantation of a permanent pacemaker and catheter ablation of the AV junction to create a heart block helps achieve rate control without the need for AV nodal blocking agents .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7f978e10",
+      "audio": ""
+    },
+    {
+      "text": "A 45 year old male patient comes to the OPD with palpitations for 3 days. He said he was busy with work due to which he could not present earlier. He has no comorbidities. Which of the following is incorrect regarding cardioversion in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chances of thromboembolism decrease after cardioversion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Anticoagulation is needed continuously for 3 weeks before and a minimum of 4 weeks after cardioversion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "In the absence of a thrombus on transesophageal echocardiogram, cardioversion can be performed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cardioversion is associated with risk of recurrence",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Chances of thromboembolism decrease after cardioversion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Chances of thromboembolism decrease after cardioversion This is a case in which the duration of AF exceeds 48 h and in these cases, there is a greater risk for thromboembolism after cardioversion, even in patients considered low risk for stroke.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. One option to mitigate the risk related to cardioversion is to anticoagulant continuously for 3 weeks before and a minimum of 4 weeks after cardioversion. Option: C. Another approach for patients with > 48 h duration of atrial fibrillation is to start anticoagulation and perform a transesophageal echocardiogram to determine if a thrombus is present in the left atrial appendage. If thrombus is absent, cardioversion can be performed and anticoagulation continued for a minimum of 4 weeks to allow time for recovery of atrial mechanical function. Option: D. Cardioversion of AF is associated with a substantial risk of recurrence which may not be symptomatic.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "76cce270",
+      "audio": ""
+    },
+    {
+      "text": "A patient with the diagnosis of atrial fibrillation is being discharged from the hospital on oral medications. Warfarin is also started and he is counselled about the risks of bleeding and to report to the hospital in case of any bleeding episodes. At what level should this patient's INR be maintained while on warfarin therapy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, - 2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2, - 3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "3, - 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Needs to be adjusted based on patient's needs",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2, - 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2, - 3 While on warfarin, a patient's INR should be between 2-3 for the drug to be effective without significant risk of side effects.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. INR of 1-2 is the normal level and needs to be increased to prevent clot formation Option: C. Risk of bleeding increases with INR >3.5 Option: D. INR level must be maintained at 2-3 and warfarin dose may need to be adjusted to achieve this level.</p>\n<p><strong>Extraedge:</strong></p><p>What is the normal INR range? The activity of warfarin is expressed using the international normalised ratio (INR). For an individual not taking warfarin a normal coagulation profile is an INR of 1.0. Pulmonary embolus (PE) 2.5 2.0-3.0 Deep vein thrombosis (DVT 2.5 2.0-3.0 Atrial fibrillation 2.5 2.0-3.0 Recurrence of embolism- no longer on warfarin 2.5 2.0-3.0 Recurrence of embolism on warfarin 3.5 3.0-4.0 Mechanical prosthetic heart valves 3.5 3.0-4.0 Antiphospholipid syndrome 3.5 3.0-4.0</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "81450238",
+      "audio": ""
+    },
+    {
+      "text": "A 72 year old patient with previous history of stroke currently admitted for a UTI infection. He complains of palpitations and ECG is done which is shown in the image. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial fibrillation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atrial flutter",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ventricular tachycardia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ventricular fibrillation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Atrial flutter",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748872010-QTDM015012IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atrial flutter Positive P waves in lead V1 and negative \u201csawtooth\u201d pattern in leads II, III, and aVF are seen in this case making a diagnosis of atrial flutter.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. ECG shows irregularly irregular rhythm, absence of P waves, and absence of an isoelectric baseline in atrial fibrillation Option: C. Ventricular tachycardia is characterized by regular, broad and uniform QRS complex tachycardia. Option: D. Ventricular fibrillation is characterised by chaotic irregular deflections of varying amplitude with no identifiable P waves, QRS complexes, or T waves.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ecc91cf6",
+      "audio": ""
+    },
+    {
+      "text": "A 34 year old patient presents to the emergency department with palpitations and dizziness. He is no significant past history. Ecg shows sawtooth waves in leads II, III, and avf. Which of the following is incorrect regarding the treatment of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Catheter ablation of the cavotricuspid isthmus for recurrent episodes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cardioversion in hemodynamically unstable patients",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anticoagulation for episodes more than 48 hours in duration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Antiarrhythmic drug therapy started with first episode",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Antiarrhythmic drug therapy started with first episode",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Antiarrhythmic drug therapy started with first episode Sawtooth flutter waves in ECG are seen in atrial flutter. Initial management of atrial flutter includes electrical cardioversion or rate control drugs. For a first episode, no antiarrhythmic drug is needed for rhythm control (i.e. conversion to sinus rhythm) For recurrent episodes, antiarrhythmic drug therapy with sotalol, dofetilide, disopyramide, and amiodarone may be used.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. For recurrent episodes of common atrial flutter, catheter ablation of the cavotricuspid isthmus abolishes the arrhythmia in >90% of patients sawtooth flutter waves in leads II, III, and aVF and positive P waves in lead V1. Option: B. Electrical cardioversion is warranted for hemodynamic instability or severe symptoms. Option: C. Anticoagulation is warranted prior to conversion for episodes more than 48 h in duration and chronically for patients at increased risk of thromboembolic stroke based on the CHA2DS2-VASc scoring system.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0813eb24",
+      "audio": ""
+    }
+  ]
+}

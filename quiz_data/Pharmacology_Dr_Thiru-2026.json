@@ -1,0 +1,6687 @@
+{
+  "meta": {
+    "id": "test18",
+    "title": "Pharmacology_Dr_Thiru-2026",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following statements best distinguishes primary active transport from facilitated diffusion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary active transport can occur in the absence of ATP.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Facilitated diffusion moves substances against a concentration gradient.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Primary active transport exhibits saturability and requires direct ATP hydrolysis.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Facilitated diffusion is non-saturable and energy-dependent.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Primary active transport exhibits saturability and requires direct ATP hydrolysis.",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/69692711.png"
+      ],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 \u2022 A. Primary active transport can occur in the absence of ATP</li><li>\u2022 Incorrect.</li><li>\u2022 Primary active transport depends directly on ATP (or another energy source like GTP). No ATP = No primary active transport.</li><li>\u2022 (Example: Na\u207a/K\u207a-ATPase pump needs ATP to function.)</li><li>\u2022 ________________________________________</li><li>\u2022 \u2022 B. Facilitated diffusion moves substances against a concentration gradient</li><li>\u2022 Incorrect.</li><li>\u2022 Facilitated diffusion only moves substances down their concentration gradient, never against it.</li><li>\u2022 (Example: GLUT4 glucose transporter moves glucose into cells down its gradient.)</li><li>\u2022 ________________________________________</li><li>\u2022 \u2022 C. Primary active transport exhibits saturability and requires direct ATP hydrolysis</li><li>\u2022 Correct!</li><li>\u2022 Primary active transport uses carrier proteins that show saturable kinetics (like Michaelis-Menten behavior) and requires direct hydrolysis of ATP to function.</li><li>\u2022 (Example: Na\u207a/K\u207a-ATPase actively transports 3 Na\u207a out and 2 K\u207a into the cell by using one ATP.)</li><li>\u2022 ________________________________________</li><li>\u2022 \u2022 D. Facilitated diffusion is non-saturable and energy-dependent</li><li>\u2022 Incorrect.</li><li>\u2022 Facilitated diffusion is saturable (because it uses specific carrier proteins), but does not require energy \u2014 it's passive!</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8e24c3bb",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements regarding P-glycoprotein modulation by drugs is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenytoin enhances P-gp function and increases substrate drug plasma levels.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "St. John\u2019s Wort inhibits P-gp, thereby increasing oral drug absorption.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Clarithromycin inhibits P-gp, possibly increasing substrate toxicity risk.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Carbamazepine inhibits P-gp-mediated drug efflux in the liver.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Clarithromycin inhibits P-gp, possibly increasing substrate toxicity risk.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "51768f8a",
+      "audio": ""
+    },
+    {
+      "text": "In an emergency requiring rapid therapeutic action (e.g., status epilepticus, acute MI), based on the graph, which of the following characteristics is MOST important for selecting a drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Short Tmax and high Cmax",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Long Tmax and low Cmax",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "High AUC and long half-life",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Low AUC and long Tmax",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Short Tmax and high Cmax",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/32632552.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ac80b8db",
+      "audio": ""
+    },
+    {
+      "text": "If the clearance (CL) of a drug is 50 mL/min and its volume of distribution (Vd) is 5 L, what is the approximate half-life (t\u00bd) of the drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.2 hours",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "0.7 hours",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2.3 hours",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4.6 hours",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1.2 hours",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3ed457c0",
+      "audio": ""
+    },
+    {
+      "text": "A critically ill patient is receiving phenytoin (which has non-linear kinetics and a large Vd). Which statement about loading dose is MOST accurate in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loading dose depends only on clearance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Loading dose must be reduced in renal failure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Loading dose should be based on target plasma concentration and Vd",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Loading dose is unnecessary for phenytoin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Loading dose should be based on target plasma concentration and Vd",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bb4de957",
+      "audio": ""
+    },
+    {
+      "text": "In a patient with advanced liver disease, what is the expected effect on the pharmacokinetics of warfarin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased total plasma drug concentration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased free (active) drug fraction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased free drug fraction and enhanced effects",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Decreased volume of distribution (Vd)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Increased free drug fraction and enhanced effects",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3e4cb19f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following poisonings is dialysis most helpful for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amphetamine overdose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Methanol poisoning",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Verapamil overdose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Organophosphate poisoning",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Methanol poisoning",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4318353.png"
+      ],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Detailed\r\nExplanation:</li><li>\u2022 To decide whether dialysis is helpful , remember:</li><li>\u2022 whether dialysis is helpful</li><li>\u2022 Dialysis\r\n     works best for toxins that are: Small\r\n      molecular size Water-soluble Low\r\n      protein binding Low\r\n      volume of distribution (Vd)</li><li>\u2022 Dialysis\r\n     works best for toxins that are:</li><li>\u2022 Small\r\n      molecular size Water-soluble Low\r\n      protein binding Low\r\n      volume of distribution (Vd)</li><li>\u2022 Small\r\n      molecular size</li><li>\u2022 Small\r\n      molecular size</li><li>\u2022 Water-soluble</li><li>\u2022 Water-soluble</li><li>\u2022 Low\r\n      protein binding</li><li>\u2022 Low\r\n      protein binding</li><li>\u2022 Low\r\n      volume of distribution (Vd)</li><li>\u2022 Low\r\n      volume of distribution (Vd)</li><li>\u2022 Why Methanol is\r\nDialyzable:</li><li>\u2022 Why Methanol is\r\nDialyzable:</li><li>\u2022 Small\r\n     molecule Highly\r\n     water-soluble Minimal\r\n     protein binding Primarily\r\n     stays in extracellular space Causes severe metabolic acidosis and optic nerve toxicity , so hemodialysis\r\n     is life-saving !</li><li>\u2022 Small\r\n     molecule</li><li>\u2022 Small\r\n     molecule</li><li>\u2022 Highly\r\n     water-soluble</li><li>\u2022 Highly\r\n     water-soluble</li><li>\u2022 Minimal\r\n     protein binding</li><li>\u2022 Minimal\r\n     protein binding</li><li>\u2022 Primarily\r\n     stays in extracellular space</li><li>\u2022 Primarily\r\n     stays in extracellular space</li><li>\u2022 Causes severe metabolic acidosis and optic nerve toxicity , so hemodialysis\r\n     is life-saving !</li><li>\u2022 severe metabolic acidosis and optic nerve toxicity</li><li>\u2022 hemodialysis\r\n     is life-saving</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d628e008",
+      "audio": ""
+    },
+    {
+      "text": "All of the following drugs undergo mainly Phase I reactions except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diazepam",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Theophylline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Warfarin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paracetamol",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Paracetamol",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/69317164.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8d97e029",
+      "audio": ""
+    },
+    {
+      "text": "OCP failure is unlikely to occur with which of the following drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Griseofulvin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Valproate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ampicillin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rifampicin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Valproate",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/74374915.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bf356bc6",
+      "audio": ""
+    },
+    {
+      "text": "A drug with a half-life of 6 hours is administered. How long will it approximately take for the plasma concentration to decrease to 12.5% of its original value?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 hours",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "12 hours",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "18 hours",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "24 hours",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 18 hours",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/11762236.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3053ca62",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is correctly matched to its receptor type?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nicotinic acetylcholine receptor \u2014 GPCR",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Insulin receptor \u2014 Ligand-gated ion channel",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "\u03b21-adrenergic receptor \u2014 Gs-protein coupled receptor",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glucocorticoid receptor \u2014 Enzyme-linked receptor",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. \u03b21-adrenergic receptor \u2014 Gs-protein coupled receptor",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/38520557.png"
+      ],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 \u2022 \u03b21-receptors are Gs-linked GPCRs \u2192 \u2191 cAMP \u2192 increased heart rate/contractility.</li><li>\u2022 \u2022 Nicotinic receptors are ligand-gated ion channels.</li><li>\u2022 \u2022 Insulin receptor = enzyme-linked tyrosine kinase.</li><li>\u2022 \u2022 Glucocorticoid receptor = nuclear receptor.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f708e90a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following best describes the action of a non-competitive antagonist?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreases the affinity of the agonist for its receptor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreases the maximal response (Emax) achievable by the agonist",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Increases the potency of the agonist",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Causes reversible inhibition overcome by increasing agonist concentration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Decreases the maximal response (Emax) achievable by the agonist",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "29965a4f",
+      "audio": ""
+    },
+    {
+      "text": "A patient develops Stevens-Johnson syndrome (SJS) after taking carbamazepine, even at therapeutic doses. What best describes this ADR?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Type B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Type C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Type B",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c9dc704a",
+      "audio": ""
+    },
+    {
+      "text": "Which is the MOST teratogenic drug in all trimesters among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isotretinoin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Valproate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Warfarin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Captopril",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Isotretinoin",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/71636828.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "96e834be",
+      "audio": ""
+    },
+    {
+      "text": "A randomized, double-blind clinical trial enrolls 2,500 patients with hypertension. Half receive the new antihypertensive drug; the other half receive an established treatment. The aim is to determine whether the new drug is superior in reducing stroke risk. Which phase is this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase III",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Phase IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Phase III",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ae52ede3",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old man is recovering from abdominal surgery. On postoperative day 2, he complains of abdominal distension and inability to pass flatus. Physical examination reveals decreased bowel sounds. Additionally, he has not been able to void urine despite adequate hydration. The surgical team suspects postoperative paralytic ileus and bladder atony. Which of the following medications would be the most appropriate to manage this patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rivastigmine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Neostigmine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pralidoxime",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Physostigmine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Neostigmine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "762019b9",
+      "audio": ""
+    },
+    {
+      "text": "A 68-year-old man with Alzheimer's disease is brought to the clinic by his daughter because of worsening memory loss. She reports that he often forgets recent conversations and misplaces objects. The physician decides to initiate a topical cholinesterase inhibitor to slow cognitive decline. Which of the following medications is most appropriate for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rivastigmine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Galantamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pralidoxime",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Physostigmine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Rivastigmine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "64fb12db",
+      "audio": ""
+    },
+    {
+      "text": "A farmer presents with salivation, miosis, bradycardia, and muscle fasciculations after exposure to a pesticide. Which drug is most appropriate to reverse both muscarinic and nicotinic symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atropine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pralidoxime",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Physostigmine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diazepam",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pralidoxime",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1b4bd223",
+      "audio": ""
+    },
+    {
+      "text": "26-year-old man is brought to the emergency department after ingesting an unknown quantity of atropine-containing plant material. He is confused, flushed, hyperthermic, and has dilated pupils. Which of the following drugs should be administered to reverse his symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rivastigmine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Neostigmine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pralidoxime",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Physostigmine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Physostigmine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "53011cca",
+      "audio": ""
+    },
+    {
+      "text": "A 58-year-old man with a 40-pack-year smoking history presents with progressive muscle weakness, especially in his proximal lower limbs. He reports difficulty climbing stairs and rising from a seated position. Examination reveals reduced deep tendon reflexes that improve after brief muscle activation. A chest CT shows a mass suspicious for small-cell lung carcinoma. Which of the following medications is most appropriate to enhance neuromuscular transmission in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyridostigmine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Edrophonium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amifampridine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Prednisone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Amifampridine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a95d1db",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drug undergoes rapid ageing makes it more resistant to reactivation by oximes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ecothiophate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Malathion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Parathione",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Soman",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Soman",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "717fc013",
+      "audio": ""
+    },
+    {
+      "text": "A 42-year-old man presents with involuntary, purposeless movements of the limbs and face (chorea), mood swings, and mild cognitive decline. His father had a similar illness that progressed to dementia and death in his 50s. Genetic testing confirms Huntington\u2019s disease. Which of the following drugs is most appropriate for managing his chorea symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reserpine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Valbenazine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tetrabenazine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Riluzole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tetrabenazine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b233ac05",
+      "audio": ""
+    },
+    {
+      "text": "A 70-year-old ICU patient on mechanical ventilation is started on a sedative that provides analgesia, anxiolysis, and sedation without significant respiratory depression. Which alpha-2 agonist is most likely used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lofexidine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Midazolam",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dexmedetomidine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ketamine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ketamine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "22e19c86",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old man with multiple sclerosis reports disabling muscle spasticity. He is prescribed a centrally acting muscle relaxant that works via alpha-2 adrenergic agonism in the spinal cord. Which drug was prescribed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baclofen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diazepam",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tizanidine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cyclobenzaprine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tizanidine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d178952c",
+      "audio": ""
+    },
+    {
+      "text": "A 38-year-old man visits a wellness clinic complaining of reduced sexual desire, mild erectile dysfunction, and low energy despite normal labs and no identifiable medical or psychiatric cause. He is interested in a herbal supplement promoted online for enhancing libido, arousal, and mood. The supplement is said to work by disinhibiting central noradrenergic tone through blockade of presynaptic alpha-2 adrenergic autoreceptors, Which of the following drugs fits this description?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trazodone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sildenafil",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Yohimbine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Apomorphine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Yohimbine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "039b3e03",
+      "audio": ""
+    },
+    {
+      "text": "A 10-year-old child is admitted to the emergency department with profuse sweating, vomiting, salivation, severe pain, tachycardia, and hypertension after a scorpion sting. He is treated with an alpha-1 adrenergic antagonist that is also known to Have a favorable effect on lipid profile. Which of the following drugs was most likely administered?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenoxybenzamine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tamsulosin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prazosin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Phentolamine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Prazosin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "70bda1b2",
+      "audio": ""
+    },
+    {
+      "text": "A 68-year-old male with a history of ischemic cardiomyopathy presents with acute-onset dyspnea, hypotension (BP 82/50 mmHg), cold extremities, and elevated jugular venous pressure. ECG shows ST depression in anterior leads, and echocardiogram reveals severely reduced ejection fraction (25%) with poor left ventricular contractility. Which short-acting inotropic agent is preferred for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Norepinephrine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dopamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dobutamine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dobutamine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d164ce2f",
+      "audio": ""
+    },
+    {
+      "text": "A patient with right ventricular infarction and cardiogenic shock has low cardiac output and is on beta-blockers. Which inotrope is best suited to improve contractility without relying on beta-receptor stimulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dobutamine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dopamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Milrinone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Milrinone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "77967e3a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following antianginal agents is not suitable for treating angina in patients with Parkinson's disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trimetazidine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nitroglycerin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amlodipine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bisoprolol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Trimetazidine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d3e6af7e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following calcium channel blockers (CCBs) is considered safe for use in patients with congestive cardiac failure (CCF)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verapamil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diltiazem",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nifedipine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amlodipine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Amlodipine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fae0cb9b",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following adverse effects is commonly associated with nicorandil therapy and may require drug discontinuation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gingival hyperplasia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Aphthous (oral) ulcers",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Constipation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Aphthous (oral) ulcers",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a946e05a",
+      "audio": ""
+    },
+    {
+      "text": "A 62-year-old male with a history of chronic stable angina and type 2 diabetes mellitus is started on a new antianginal medication. He reports improvement in exercise tolerance without significant changes in heart rate or blood pressure. On follow-up, his HbA1c has decreased by 0.5%. However, a routine ECG shows a modest prolongation of the QT interval, though he remains asymptomatic. Which of the following medications is most likely responsible for these findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amlodipine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ranolazine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Bisoprolol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nitroglycerin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ranolazine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "47fcea8f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is true regarding landiolol, used in acute cardiovascular settings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a non-selective beta-blocker with long duration of action",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It is primarily used in chronic hypertension management",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is a ultrashort acting cardio selective \u03b2 suitable for rate control in acute settings",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "It is contraindicated in SVT due to risk of QT prolongation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. It is a ultrashort acting cardio selective \u03b2 suitable for rate control in acute settings",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "538da341",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following antianginal agents is contraindicated in a patient with acute severe inferior wall myocardial infarction with suspected right ventricular involvement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitroglycerin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Aspirin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Clopidogrel",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Nitroglycerin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "961e3300",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a recognized adverse effect of quinidine therapy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypokalemia and bradycardia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tinnitus and QT prolongation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hyperglycemia and visual halos",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dry cough and angioedema",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tinnitus and QT prolongation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b62276d3",
+      "audio": ""
+    },
+    {
+      "text": "A 70-year-old man with a history of paroxysmal atrial fibrillation is prescribed an antiarrhythmic agent for rhythm control. A few days later, he presents with acute urinary retention, abdominal discomfort, and difficulty initiating urination. His medical history is also notable for benign prostatic hyperplasia (BPH). Which of the following medications is the most likely cause of his urinary symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amiodarone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sotalol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Disopyramide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Flecainide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Disopyramide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7dc1b6ed",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old man with a history of myotonia congenita and recent episodes of ventricular tachycardia (VT) is started on an oral antiarrhythmic agent that also helps relieve his muscle stiffness. Two weeks later, he presents with epigastric pain, nausea, and a burning sensation worsened by meals. An upper GI endoscopy confirms gastritis. Which of the following medications is most likely responsible for both the therapeutic benefit and the gastrointestinal symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amiodarone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sotalol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mexiletine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Diltiazem",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mexiletine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6a9c5808",
+      "audio": ""
+    },
+    {
+      "text": "A 68-year-old man with a history of chronic atrial fibrillation is on digoxin for rate control. He is brought to the emergency department with complaints of palpitations, dizziness, and blurred vision. ECG reveals ventricular tachycardia with bidirectional QRS complexes, and labs show an elevated digoxin level. The patient is also known to have a history of epilepsy, for which he takes a certain antiepileptic drug. Which of the following medications, also used as an antiepileptic, is most appropriate for treating this patient\u2019s digoxin-induced VT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valproic acid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phenytoin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Carbamazepine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Levetiracetam",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Phenytoin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4dc5c197",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old woman is admitted with syncope. ECG reveals polymorphic ventricular tachycardia with a prolonged QT interval, consistent with torsades de pointes. She is immediately treated with intravenous magnesium sulfate. Which of the following parameters should be monitored closely during magnesium sulfate infusion to avoid serious toxicity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum calcium and blood glucose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ECG and complete blood count",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Respiratory rate and deep tendon reflexes",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Liver enzymes and platelet count",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Respiratory rate and deep tendon reflexes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dd203349",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following best explains the mechanism of Omecamtiv mecarbil, a newer drug being evaluated for systolic heart failure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta-1 receptor agonist",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inhibitor of phosphodiesterase-3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Myosin activator increasing systolic duration",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Enhancer of calcium influx via L-type channels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Myosin activator increasing systolic duration",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eccdfe50",
+      "audio": ""
+    },
+    {
+      "text": "A 65-year-old male with HFrEF (EF 30%) is on ACE inhibitors, beta-blockers, and loop diuretics. Despite optimal therapy, his symptoms persist. Which of the following drugs reduces hospitalization and mortality when added?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digoxin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Amrinone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Spironolactone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Verapamil",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Spironolactone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "303fbddb",
+      "audio": ""
+    },
+    {
+      "text": "Which heart failure medication is known to decrease heart rate by selectively inhibiting the funny current (If) in the SA node?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carvedilol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ivabradine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Digoxin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ivabradine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "147c38a6",
+      "audio": ""
+    },
+    {
+      "text": "Which beta-blocker has proven mortality benefit in heart failure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atenolol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Propranolol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bisoprolol",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Esmolol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Bisoprolol",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4ecb3ea8",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old diabetic hypertensive patient is started on antihypertensive therapy. Which class offers renal protection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium channel blockers",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thiazide diuretics",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Beta-blockers",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ACE inhibitors",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. ACE inhibitors",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c361c6d8",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with hypertension and frequent episodes of orthostatic hypotension. Which agent is best avoided?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amlodipine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydrochlorothiazide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prazosin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atenolol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Prazosin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4e3b6f86",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a soluble guanylate cyclase stimulator approved for pulmonary arterial hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sildenafil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bosentan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Riociguat",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Epoprostenol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Riociguat",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d96af9e3",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drugs used in PAH carries a risk of hepatotoxicity and requires LFT monitoring?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sildenafil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bosentan",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Riociguat",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Selexipag",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bosentan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e5212815",
+      "audio": ""
+    },
+    {
+      "text": "A patient with advanced pulmonary hypertension is admitted for severe right heart failure. Continuous IV infusion of which prostacyclin analog is life-saving?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iloprost",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Selexipag",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Treprostinil",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Epoprostenol",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Epoprostenol",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4419189.png"
+      ],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Clinical Context:</li><li>\u2022 Advanced\r\n     pulmonary arterial hypertension (PAH) often leads to right ventricular\r\n     failure, which is the main cause of death in these patients. In\r\n     severe cases, particularly WHO Functional Class III\u2013IV, aggressive\r\n     vasodilator therapy is needed. Prostacyclin\r\n     analogs are the most potent agents for vasodilation and antiproliferative\r\n     effects in pulmonary vasculature.</li><li>\u2022 Advanced\r\n     pulmonary arterial hypertension (PAH) often leads to right ventricular\r\n     failure, which is the main cause of death in these patients.</li><li>\u2022 In\r\n     severe cases, particularly WHO Functional Class III\u2013IV, aggressive\r\n     vasodilator therapy is needed.</li><li>\u2022 Prostacyclin\r\n     analogs are the most potent agents for vasodilation and antiproliferative\r\n     effects in pulmonary vasculature.</li><li>\u2022 Why Epoprostenol? Epoprostenol\r\n     is a synthetic analog of prostacyclin (PGI\u2082). It\r\n     acts as a powerful vasodilator, inhibits platelet aggregation, and has\r\n     anti-inflammatory and antiproliferative effects. It\r\n     is administered as a continuous IV infusion via a central line due to its\r\n     extremely short half-life (~3\u20135 minutes). In\r\n     patients with severe right heart failure from PAH, epoprostenol is\r\n     life-saving and has shown survival benefit in long-term studies. Why not the other\r\noptions? A) Iloprost Also\r\n     a prostacyclin analog, but delivered via inhalation. Used\r\n     in less severe PAH or as add-on therapy. Not\r\n     suitable for unstable, critically ill patients due to short duration of\r\n     action and need for frequent dosing. B) Selexipag An\r\n     oral prostacyclin receptor (IP receptor) agonist. Used\r\n     in stable outpatients with PAH. Not\r\n     suitable for acute decompensated heart failure due to slow onset and less\r\n     potent effect. C) Treprostinil A\r\n     prostacyclin analog that can be given via IV, subcutaneous, or inhaled\r\n     routes. Longer\r\n     half-life than epoprostenol, but not as rapid-acting. Epoprostenol\r\n     remains the first-line IV option in acute severe PAH with RV failure.</li><li>\u2022 Why Epoprostenol?</li><li>\u2022 Epoprostenol\r\n     is a synthetic analog of prostacyclin (PGI\u2082). It\r\n     acts as a powerful vasodilator, inhibits platelet aggregation, and has\r\n     anti-inflammatory and antiproliferative effects. It\r\n     is administered as a continuous IV infusion via a central line due to its\r\n     extremely short half-life (~3\u20135 minutes). In\r\n     patients with severe right heart failure from PAH, epoprostenol is\r\n     life-saving and has shown survival benefit in long-term studies.</li><li>\u2022 Epoprostenol\r\n     is a synthetic analog of prostacyclin (PGI\u2082).</li><li>\u2022 It\r\n     acts as a powerful vasodilator, inhibits platelet aggregation, and has\r\n     anti-inflammatory and antiproliferative effects.</li><li>\u2022 It\r\n     is administered as a continuous IV infusion via a central line due to its\r\n     extremely short half-life (~3\u20135 minutes).</li><li>\u2022 In\r\n     patients with severe right heart failure from PAH, epoprostenol is\r\n     life-saving and has shown survival benefit in long-term studies.</li><li>\u2022 Why not the other\r\noptions?</li><li>\u2022 A) Iloprost</li><li>\u2022 Also\r\n     a prostacyclin analog, but delivered via inhalation. Used\r\n     in less severe PAH or as add-on therapy. Not\r\n     suitable for unstable, critically ill patients due to short duration of\r\n     action and need for frequent dosing.</li><li>\u2022 Also\r\n     a prostacyclin analog, but delivered via inhalation.</li><li>\u2022 Used\r\n     in less severe PAH or as add-on therapy.</li><li>\u2022 Not\r\n     suitable for unstable, critically ill patients due to short duration of\r\n     action and need for frequent dosing.</li><li>\u2022 B) Selexipag</li><li>\u2022 An\r\n     oral prostacyclin receptor (IP receptor) agonist. Used\r\n     in stable outpatients with PAH. Not\r\n     suitable for acute decompensated heart failure due to slow onset and less\r\n     potent effect.</li><li>\u2022 An\r\n     oral prostacyclin receptor (IP receptor) agonist.</li><li>\u2022 Used\r\n     in stable outpatients with PAH.</li><li>\u2022 Not\r\n     suitable for acute decompensated heart failure due to slow onset and less\r\n     potent effect.</li><li>\u2022 C) Treprostinil</li><li>\u2022 A\r\n     prostacyclin analog that can be given via IV, subcutaneous, or inhaled\r\n     routes. Longer\r\n     half-life than epoprostenol, but not as rapid-acting. Epoprostenol\r\n     remains the first-line IV option in acute severe PAH with RV failure.</li><li>\u2022 A\r\n     prostacyclin analog that can be given via IV, subcutaneous, or inhaled\r\n     routes.</li><li>\u2022 Longer\r\n     half-life than epoprostenol, but not as rapid-acting.</li><li>\u2022 Epoprostenol\r\n     remains the first-line IV option in acute severe PAH with RV failure.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bb6cfba1",
+      "audio": ""
+    },
+    {
+      "text": "A patient develops major bleeding on dabigatran. What is the most appropriate specific reversal agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andexanet alfa",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Idarucizumab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Protamine sulfate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Idarucizumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7788a0f8",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following anticoagulants typically requires laboratory monitoring to assess anticoagulant effect in clinical practice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dabigatran",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lepirudin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Apixaban",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Enoxaparin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lepirudin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1b494032",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following best describes the mechanism of action of alteplase, a commonly used thrombolytic agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibits thrombin-mediated fibrin clot formation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Directly activates platelets at the GP IIb/IIIa receptor",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Converts plasminogen to plasmin, which degrades fibrin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Inhibits factor Xa and prevents clot propagation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Converts plasminogen to plasmin, which degrades fibrin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a5557a35",
+      "audio": ""
+    },
+    {
+      "text": "Which parenteral anticoagulant would be most suitable in a patient with heparin-induced thrombocytopenia and renal failure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enoxaparin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bivalirudin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Argatroban",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fondaparinux",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Argatroban",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b297c2e2",
+      "audio": ""
+    },
+    {
+      "text": "Which antiplatelet agent is a oral reversible P2Y12 inhibitor, and causes dyspnea?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clopidogrel",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prasugrel",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ticagrelor",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cangrelor",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ticagrelor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8461e25a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following cholesterol-lowering agents decreases LDL-C by increasing LDL receptor expression via inhibition of intracellular cholesterol synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evolocumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Colesevelam",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rosuvastatin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Niacin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Rosuvastatin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ccd4c138",
+      "audio": ""
+    },
+    {
+      "text": "Which lipid-lowering agent requires baseline and periodic liver function tests due to a black-box warning for hepatotoxicity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ezetimibe",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Evolocumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mipomersen",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atorvastatin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mipomersen",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aca615cb",
+      "audio": ""
+    },
+    {
+      "text": "5A 68-year-old man with stage 4 chronic kidney disease (eGFR 23 mL/min/1.73 m\u00b2) and non-alcoholic fatty liver disease (normal transaminases) requires statin therapy for secondary prevention after a recent NSTEMI. Which of the following statins is the MOST appropriate choice in this clinical context?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simvastatin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atorvastatin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Rosuvastatin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fluvastatin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Atorvastatin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cd5110ac",
+      "audio": ""
+    },
+    {
+      "text": "Which transporter abnormality is most likely responsible for his increased risk of statin-induced myopathy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Overexpression of BSEP (ABCB11)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mutation in SLCO1B1 (OATP1B1)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Enhanced expression of MRP2 (ABCC2)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Deletion of MDR1 (ABCB1)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mutation in SLCO1B1 (OATP1B1)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6c4e7608",
+      "audio": ""
+    },
+    {
+      "text": "52-year-old man on high-intensity atorvastatin develops myopathy. His CK is elevated. Which agent is MOST appropriate as an alternative LDL-C lowering therapy with minimal muscle toxicity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rosuvastatin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Evolocumab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fenofibrate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Niacin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Evolocumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3582cabd",
+      "audio": ""
+    },
+    {
+      "text": "In a patient with homozygous familial hypercholesterolemia (HoFH), which agent is LEAST likely to be effective?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atorvastatin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lomitapide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mipomersen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alirocumab",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Alirocumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6b03b905",
+      "audio": ""
+    },
+    {
+      "text": "Which drug lowers cholesterol by inhibiting microsomal triglyceride transfer protein (MTP), thereby reducing chylomicron and VLDL assembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anacetrapib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lomitapide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Niacin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bempedoic acid",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lomitapide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "62b69e0d",
+      "audio": ""
+    },
+    {
+      "text": "A 47-year-old woman with statin intolerance presents with LDL-C of 180 mg/dL. Which two-drug combination is MOST effective at reducing LDL-C without statin use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Niacin + fibrate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ezetimibe + PCSK9 inhibitor",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ezetimibe + fish oil",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lomitapide + niacin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ezetimibe + PCSK9 inhibitor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "20f43d1b",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old obese woman presents with headache, transient visual obscurations, and papilledema on fundus exam. MRI brain is normal, but lumbar puncture shows elevated opening pressure with normal CSF composition. She is started on a drug that reduces CSF production. Which of the following drugs was most likely prescribed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mannitol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acetazolamide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Furosemide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Acetazolamide",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/499468210.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fc70778a",
+      "audio": ""
+    },
+    {
+      "text": "Acetazolamide can exacerbate which condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Epilepsy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hepatic encephalopathy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Alkalosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hepatic encephalopathy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f404d6be",
+      "audio": ""
+    },
+    {
+      "text": "A 76-year-old woman with long-standing heart failure and atrial fibrillation is being treated with digoxin and furosemide. She presents with nausea, visual disturbances (yellow vision), and occasional palpitations. ECG shows frequent premature ventricular contractions (PVCs) and signs of digoxin toxicity. What is the most likely cause of her digoxin toxicity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibition of CYP3A4 by digoxin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition of renal tubular digoxin secretion by furosemide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypokalemia from furosemide enhances digoxin binding to Na\u207a/K\u207a-ATPase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Furosemide reduces digoxin clearance through hepatic metabolism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hypokalemia from furosemide enhances digoxin binding to Na\u207a/K\u207a-ATPase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cf55a5f1",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old man presents with recurrent calcium-containing renal stones. Work-up reveals idiopathic hypercalciuria. Which of the following drugs is used to reduce stone recurrence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Furosemide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydrochlorothiazide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acetazolamide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hydrochlorothiazide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5c960ffc",
+      "audio": ""
+    },
+    {
+      "text": "A 72-year-old woman with osteoporosis and mild hypertension is being considered for antihypertensive therapy. Which drug would provide dual benefit in managing both conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Losartan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydrochlorothiazide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Amlodipine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hydrochlorothiazide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "05e32057",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is true regarding thiazide use in patients with renal impairment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thiazides are effective in eGFR <15 ml/min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thiazides lose efficacy when GFR <30 ml/min",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Thiazides are preferred over loop diuretics in advanced CKD",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thiazides cause hyperkalemia in renal failure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Thiazides lose efficacy when GFR <30 ml/min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7f55b1ad",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old man with chronic kidney disease and diabetes has resistant hypertension, uncontrolled despite optimal doses of an ACE inhibitor, calcium channel blocker, and thiazide diuretic. Which of the following is most appropriate to add next?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amlodipine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Beta-blocker",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Spironolactone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Loop diuretic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Spironolactone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f94b334d",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old male being treated with spironolactone for heart failure reports breast tenderness and loss of libido. Which of the following explains this side effect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct prolactin stimulation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Estrogen receptor agonism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anti-androgenic effects due to steroid receptor cross-reactivity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increased testosterone synthesis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Anti-androgenic effects due to steroid receptor cross-reactivity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9b4befe2",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old man with type 2 diabetes and CKD (eGFR 40) is started on finerenone to slow disease progression. What is the main therapeutic benefit of finerenone in this setting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Improves insulin sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Blocks sympathetic outflow",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reduces renal fibrosis and albuminuria",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increases bicarbonate reabsorption",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Reduces renal fibrosis and albuminuria",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a308bde9",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a shared adverse effect of both eplerenone and finerenone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypokalemia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gynecomastia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Nephrolithiasis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hyperkalemia",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/60784741.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3dd24787",
+      "audio": ""
+    },
+    {
+      "text": "A patient with bipolar disorder on lithium therapy develops polyuria and polydipsia. He is diagnosed with nephrogenic diabetes insipidus (NDI). Which drug can be used to reduce urinary water loss?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desmopressin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Amiloride",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hydrochlorothiazide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tolvaptan",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Amiloride",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "41a656b0",
+      "audio": ""
+    },
+    {
+      "text": "During neurosurgery, the neurosurgeon requests brain relaxation to reduce pressure and improve visualization. Which of the following is administered preoperatively to achieve this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Propofol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mannitol",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Midazolam",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mannitol",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c53e8f4f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a contraindication to mannitol use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Idiopathic intracranial hypertension",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acute ischemic stroke",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary edema",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Acute glaucoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pulmonary edema",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/736440111.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a4cf7f5",
+      "audio": ""
+    },
+    {
+      "text": "A 62-year-old man with small cell lung cancer presents with fatigue, confusion, and a serum sodium of 118 mEq/L. He is euvolemic on exam, and labs suggest SIADH as the cause of dilutional hyponatremia. He is initially managed with fluid restriction but remains symptomatic. Which of the following drugs is most appropriate to correct his sodium imbalance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desmopressin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tolvaptan",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hydrochlorothiazide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tolvaptan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "61a0118d",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is true regarding Conivaptan compared to Tolvaptan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conivaptan is administered orally and used in ADPKD",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Conivaptan is selective for V2 receptors only",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Conivaptan is given intravenously and blocks both V1a and V2 receptors",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Conivaptan is more effective than Tolvaptan in treating polycystic kidney disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Conivaptan is given intravenously and blocks both V1a and V2 receptors",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2b35bf2d",
+      "audio": ""
+    },
+    {
+      "text": "Which drug is not associated with causing SIADH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbamazepine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tolvaptan",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Vincristine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tolvaptan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "138bc7e2",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drugs provides the fastest symptomatic relief in acute acid peptic ulcer pain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Omeprazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Misoprostol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Magnesium hydroxide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sucralfate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Magnesium hydroxide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "762564ac",
+      "audio": ""
+    },
+    {
+      "text": "A patient on cisplatin chemotherapy develops intractable nausea. Which of the following agents would best target the mechanism involved in the acute phase of chemotherapy-induced emesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aprepitant",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ondansetron",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Promethazine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Scopolamine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ondansetron",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8bb73259",
+      "audio": ""
+    },
+    {
+      "text": "A patient on loperamide experiences CNS effects when quinidine is co-administered. Which best explains this interaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhanced loperamide metabolism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased loperamide absorption",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of P-glycoprotein at BBB",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Enhanced renal secretion of quinidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Inhibition of P-glycoprotein at BBB",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "384c0782",
+      "audio": ""
+    },
+    {
+      "text": "Which prokinetic agent enhances upper GI motility by acting as both a D2 receptor antagonist and a 5HT4 receptor agonist?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Domperidone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metoclopramide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cisapride",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prucalopride",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Metoclopramide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "991993ea",
+      "audio": ""
+    },
+    {
+      "text": "Which antiemetic is safest for preventing delayed chemotherapy-induced nausea and vomiting due to its long half-life and high receptor affinity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Granisetron",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ondansetron",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Palonosetron",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Dolasetron",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Palonosetron",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6dda01f9",
+      "audio": ""
+    },
+    {
+      "text": "In bile acid metabolism, which agent works by activating the farnesoid X receptor to suppress bile acid synthesis and treat primary biliary cholangitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ursodiol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cholestyramine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Obeticholic acid",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ezetimibe",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Obeticholic acid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5d81943f",
+      "audio": ""
+    },
+    {
+      "text": "Which agent approved for IBS-D is a mixed \u03bc-opioid receptor agonist and \u03b4-opioid receptor antagonist with low CNS penetration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loperamide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Eluxadoline",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Alosetron",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Methylnaltrexone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Eluxadoline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "514c48dc",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is NOT used for constipation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tenapanor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lubiprostone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Linaclotide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Racecadotril",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Racecadotril",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d4a62da6",
+      "audio": ""
+    },
+    {
+      "text": "Which antiemetic is relatively safe in pregnancy for morning sickness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ondansetron",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metoclopramide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Doxylamine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Aprepitant",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Doxylamine",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/205898912.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "de5ace4f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following recently approved drug is a novel potassium-competitive acid blocker (P-CAB) for the treatment of GERD?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vonoprazan",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Iafutidine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dexlansoprazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rifaximin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Vonoprazan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "269f5a1d",
+      "audio": ""
+    },
+    {
+      "text": "Which newly approved monoclonal antibody targets integrin \u03b14\u03b27 and is specifically indicated for moderate-to-severe ulcerative colitis and Crohn\u2019s disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ustekinumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vedolizumab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Risankizumab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Upadacitinib",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Vedolizumab",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/11303413.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5b53fd8a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following newly approved drugs is a JAK1-selective inhibitor used in moderate to severe ulcerative colitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tofacitinib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Upadacitinib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Filgotinib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ozanimod",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Upadacitinib",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/301189114.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7af023c1",
+      "audio": ""
+    },
+    {
+      "text": "Which oral sphingosine-1-phosphate (S1P) receptor modulator has been recently approved for ulcerative colitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fingolimod",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Siponimod",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ozanimod",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Natalizumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ozanimod",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/268019115.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "66b7d340",
+      "audio": ""
+    },
+    {
+      "text": "Rifaximin, a minimally absorbed antibiotic, has been recently expanded for which of the following GI indications apart from hepatic encephalopathy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute pancreatitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Irritable bowel syndrome with diarrhea (IBS-D)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Crohn\u2019s disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Portal hypertension",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Irritable bowel syndrome with diarrhea (IBS-D)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9ec624c0",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old male with severe eosinophilic asthma is started on a biologic therapy. His blood eosinophil count was >300 cells/\u03bcL. Two months later, he reports improvement. Which of the following biologics works by blocking IL-5 receptor was he MOST LIKELY started on?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Benralizumab",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dupilumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Omalizumab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tezepelumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Benralizumab",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/370955716.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "63a59616",
+      "audio": ""
+    },
+    {
+      "text": "A patient develops oral candidiasis while on asthma therapy. Which of the following is most likely responsible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Montelukast",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inhaled Budesonide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Salbutamol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tiotropium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inhaled Budesonide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "865a88f3",
+      "audio": ""
+    },
+    {
+      "text": "Which statement regarding Theophylline pharmacokinetics is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is metabolized mainly by renal excretion.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It follows zero-order kinetics throughout the therapeutic range.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is affected by smoking and liver disease.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "It has a very short half-life (<2 hours).",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. It is affected by smoking and liver disease.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5e800d38",
+      "audio": ""
+    },
+    {
+      "text": "Which leukotriene-modifying drug inhibits leukotriene synthesis rather than receptor binding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Montelukast",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Zileuton",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Zafirlukast",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pranlukast",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Zileuton",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3cb6f8fb",
+      "audio": ""
+    },
+    {
+      "text": "Which asthma drug requires caution due to significant interaction with fluoroquinolone antibiotics (e.g., ciprofloxacin)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salbutamol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Montelukast",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Theophylline",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tiotropium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Theophylline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ee7c9769",
+      "audio": ""
+    },
+    {
+      "text": "Which drug acts as a mucolytic by breaking disulfide bonds in mucus, thus decreasing viscosity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dextromethorphan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "N-acetylcysteine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Codeine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Salbutamol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. N-acetylcysteine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "60ed647b",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following cough suppressants acts partly through NMDA receptor antagonism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Codeine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dextromethorphan",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Guaifenesin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Benzonatate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Dextromethorphan",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/234143417.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cf3862e4",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with benzodiazepine overdose (lethargy, confusion). Which antidote should be given cautiously due to risk of precipitating seizures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flumazenil",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Naloxone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Physostigmine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fomepizole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Flumazenil",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4e6c33bd",
+      "audio": ""
+    },
+    {
+      "text": "Which sedative-hypnotic agent bypasses CYP metabolism, undergoes rapid hydrolysis by plasma esterases, and is therefore less prone to drug interactions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Midazolam",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thiopental",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Propofol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Etomidate",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Etomidate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "149115cd",
+      "audio": ""
+    },
+    {
+      "text": "A patient on chronic phenytoin develops gum hypertrophy and megaloblastic anemia. Which molecular mechanism links the antiepileptic effect and these side effects?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhanced folate metabolism through CYP induction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Voltage-gated Na\u207a channel inactivation and folate depletion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "NMDA receptor antagonism causing DNA synthesis inhibition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "GABA-A receptor potentiation and impaired erythropoiesis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Voltage-gated Na\u207a channel inactivation and folate depletion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "80fae665",
+      "audio": ""
+    },
+    {
+      "text": "A child with absence seizures is prescribed ethosuximide. What is its primary mechanism of action?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibition of Na\u207a channels",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Enhancement of GABA activity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of T-type Ca\u00b2\u207a channels in thalamic neurons",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "NMDA receptor antagonism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Inhibition of T-type Ca\u00b2\u207a channels in thalamic neurons",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a440d784",
+      "audio": ""
+    },
+    {
+      "text": "Which antiepileptic is associated with hyponatremia due to SIADH (syndrome of inappropriate ADH secretion)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbamazepine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Valproic acid",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phenytoin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lamotrigine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Carbamazepine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "75d088ec",
+      "audio": ""
+    },
+    {
+      "text": "An epileptic patient has weight loss, renal stones, and cognitive slowing as side effects. Which AED is most likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valproic acid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phenytoin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Topiramate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Levetiracetam",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Topiramate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "087654a3",
+      "audio": ""
+    },
+    {
+      "text": "A patient receiving treatment for Parkinson\u2019s disease develops hallucinations and confusion. Which of the following drugs is most likely responsible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbidopa",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pramipexole",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Entacapone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Selegiline",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pramipexole",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/44368921.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3f0a13fa",
+      "audio": ""
+    },
+    {
+      "text": "Which is the antiparkinson drugs also useful for restless legs syndrome (RLS)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amantadine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Selegiline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pramipexole",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Trihexyphenidyl",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pramipexole",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6f5cae27",
+      "audio": ""
+    },
+    {
+      "text": "Find out the RIGHT choice regarding antidepressant and associated condition:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bupropion preferred for patient with seizure disorder",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mirtazapine preferred for patient with obesity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Citalopram preferred for patient with delayed orgasm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Imipramine preferred for patient with diarrhea-predominant IBS (D-IBS)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Imipramine preferred for patient with diarrhea-predominant IBS (D-IBS)",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6996032.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ab9be517",
+      "audio": ""
+    },
+    {
+      "text": "Which antidepressant is most preferred for treating depression associated with neuropathic pain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paroxetine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Venlafaxine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Duloxetine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sertraline",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Duloxetine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d1c905a",
+      "audio": ""
+    },
+    {
+      "text": "Which atypical antidepressant acts as a norepinephrine-dopamine reuptake inhibitor (NDRI), has minimal sexual side effects, and is contraindicated in patients with a history of seizures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mirtazapine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bupropion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Vilazodone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vortioxetine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bupropion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "48b99b6a",
+      "audio": ""
+    },
+    {
+      "text": "Which newer antidepressant is both a serotonin partial agonist and reuptake inhibitor (SPARI), combining SSRI effects with 5-HT1A partial agonism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desvenlafaxine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vilazodone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Vortioxetine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Agomelatine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Vilazodone",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/55331993.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e8be08b0",
+      "audio": ""
+    },
+    {
+      "text": "Which novel antidepressant was specifically approved for postpartum depression and acts as a positive allosteric modulator of GABA-A receptors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Esketamine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Brexanolone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Vortioxetine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dexmedetomidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Brexanolone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d9ce3025",
+      "audio": ""
+    },
+    {
+      "text": "A patient started on an SSRI develops agitation, confusion, myoclonus, and hyperreflexia. Which drug interaction most likely caused this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NSAIDs",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Linezolid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hydrochlorothiazide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Propranolol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Linezolid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3ec97c18",
+      "audio": ""
+    },
+    {
+      "text": "A patient with schizophrenia is started on clozapine. Which of the following tests must be monitored weekly during the first 6 months?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum lithium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ECG",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Complete blood count with differential",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Creatine phosphokinase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Complete blood count with differential",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f2ed5aaf",
+      "audio": ""
+    },
+    {
+      "text": "A novel antipsychotic demonstrates partial agonist activity at D2 receptors and antagonism at 5HT2A receptors. Which of the following best describes its clinical advantage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased risk of extrapyramidal side effects",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Reduced prolactin elevation and preserved cognition",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Higher sedation and anticholinergic burden",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Profound suppression of negative symptoms",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Reduced prolactin elevation and preserved cognition",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b452c996",
+      "audio": ""
+    },
+    {
+      "text": "A 25-year-old woman presents with first-episode schizophrenia. She is started on an atypical antipsychotic with minimal extrapyramidal side effects but significant risk of weight gain and metabolic syndrome. Which drug was most likely started?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haloperidol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Risperidone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Olanzapine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Aripiprazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Olanzapine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c992f55d",
+      "audio": ""
+    },
+    {
+      "text": "Which antipsychotic is most associated with causing prolonged QT interval and sudden cardiac death?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quetiapine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ziprasidone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Risperidone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Aripiprazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ziprasidone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "747d95cf",
+      "audio": ""
+    },
+    {
+      "text": "A 32-year-old woman with panic disorder is prescribed a medication that rapidly relieves anxiety but has significant abuse potential. Which drug class was prescribed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SSRI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Benzodiazepine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Beta-blocker",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Azapirone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Benzodiazepine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f6166c8d",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old patient with chronic pain develops pinpoint pupils, respiratory depression, and unconsciousness. Which opioid antagonist should be administered immediately?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Naltrexone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Flumazenil",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Methylnaltrexone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Naloxone",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Naloxone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3366647e",
+      "audio": ""
+    },
+    {
+      "text": "Which partial opioid agonist is used in maintenance therapy for opioid dependence and has a ceiling effect for respiratory depression?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methadone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Morphine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Buprenorphine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fentanyl",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Buprenorphine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5830d1cf",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a biased \u03bc-opioid receptor agonist designed to provide analgesia with reduced \u03b2-arrestin pathway activation, potentially lowering the risk of respiratory depression?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tapentadol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oliceridine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Methadone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Buprenorphine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Oliceridine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "31c8761a",
+      "audio": ""
+    },
+    {
+      "text": "Which dual-action analgesic combines \u03bc-opioid receptor agonism with norepinephrine reuptake inhibition, offering synergistic pain relief particularly for neuropathic pain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tramadol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tapentadol",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nalbuphine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Naldemedine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tapentadol",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/41322114.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "428cdf2c",
+      "audio": ""
+    },
+    {
+      "text": "Which peripherally acting \u03bc-opioid receptor antagonist (PAMORA) is approved to treat opioid-induced constipation without reversing central analgesia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Naltrexone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Naloxone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Naldemedine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Methadone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Naldemedine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "00068be0",
+      "audio": ""
+    },
+    {
+      "text": "Which opioid antagonist has a much longer half-life than naloxone and is used primarily in the maintenance treatment of opioid and alcohol dependence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Naloxone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Naldemedine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Naltrexone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Methylnaltrexone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Naltrexone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "03828a06",
+      "audio": ""
+    },
+    {
+      "text": "Which drug is used in alcohol dependence to reduce cravings by modulating glutamate and GABA balance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disulfiram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acamprosate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Naltrexone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lorazepam",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Acamprosate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a6d89b3",
+      "audio": ""
+    },
+    {
+      "text": "A chronic alcoholic presents with confusion, ataxia, and ophthalmoplegia. Which vitamin deficiency is most likely and must be corrected before glucose administration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin B6",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Folic acid",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B1 (thiamine)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Vitamin B1 (thiamine)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aa77b75c",
+      "audio": ""
+    },
+    {
+      "text": "A patient with chronic kidney disease (eGFR 28 mL/min/1.73 m\u00b2) is prescribed metformin. What is the most appropriate next step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continue metformin with close monitoring",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Discontinue metformin due to risk of hypoglycemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reduce metformin dose and continue",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Discontinue metformin to avoid lactic acidosis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Discontinue metformin to avoid lactic acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eb326790",
+      "audio": ""
+    },
+    {
+      "text": "Which agent should be avoided in a patient with a history of medullary thyroid carcinoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sitagliptin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metformin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Liraglutide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pioglitazone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Liraglutide",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/47762755.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c1798e16",
+      "audio": ""
+    },
+    {
+      "text": "Which oral antidiabetic agent is safest to use in a patient with type 2 diabetes and advanced chronic kidney disease (CKD Stage 4)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metformin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Linagliptin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Empagliflozin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Glipizide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Linagliptin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a0667e4d",
+      "audio": ""
+    },
+    {
+      "text": "Which oral antidiabetic agent is most suitable for a newly diagnosed obese patient with type 2 diabetes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pioglitazone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Empagliflozin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Glipizide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Meglitinide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Empagliflozin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e7908107",
+      "audio": ""
+    },
+    {
+      "text": "Which antidiabetic agent is typically avoided in patients with known congestive heart failure (CHF)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Linagliptin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pioglitazone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Metformin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dapagliflozin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pioglitazone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fadf455a",
+      "audio": ""
+    },
+    {
+      "text": "Which oral antidiabetic agent would potentially worsen osteoporosis and should be avoided in high-fracture-risk patients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metformin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pioglitazone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sitagliptin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Empagliflozin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pioglitazone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b62402ae",
+      "audio": ""
+    },
+    {
+      "text": "A 58-year-old man with chronic HFrEF and T2DM has elevated potassium (5.7 mEq/L) and decreased GFR (30 mL/min). Which antidiabetic agent would provide cardiorenal protection without worsening hyperkalemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spironolactone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Canagliflozin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Liraglutide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pioglitazone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Canagliflozin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d6828cc0",
+      "audio": ""
+    },
+    {
+      "text": "Which drug is a GH receptor antagonist used in acromegaly resistant to somatostatin analogs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lanreotide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pegvisomant",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Bromocriptine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pasireotide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pegvisomant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c7913045",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drugs can be used to stimulate growth in children with GH deficiency (dwarfism)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Somatropin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mecasermin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pasireotide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tasamorelin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Somatropin",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/58300706.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3ed9801f",
+      "audio": ""
+    },
+    {
+      "text": "Drug of choice for hyperthyroidism in first trimester pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Propylthiouracil (PTU)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Methimazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Carbimazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Radioiodine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Propylthiouracil (PTU)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "356c3562",
+      "audio": ""
+    },
+    {
+      "text": "Drug used in Cushing\u2019s syndrome acting as a glucocorticoid receptor antagonist:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ketoconazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mifepristone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cabergoline",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mifepristone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f8f0051a",
+      "audio": ""
+    },
+    {
+      "text": "Drug of choice for Nelson\u2019s syndrome after bilateral adrenalectomy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cabergoline",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Octreotide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ketoconazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metyrapone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cabergoline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "75ec8d7a",
+      "audio": ""
+    },
+    {
+      "text": "Drug of choice for Addison\u2019s disease hormone replacement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dexamethasone + fludrocortisone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydrocortisone + fludrocortisone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Prednisolone + aldosterone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mifepristone alone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hydrocortisone + fludrocortisone",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/32606887.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "680f14c9",
+      "audio": ""
+    },
+    {
+      "text": "Which SERM is primarily used for prevention and treatment of osteoporosis in postmenopausal women?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamoxifen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Raloxifene",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fulvestrant",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Letrozole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Raloxifene",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "64720540",
+      "audio": ""
+    },
+    {
+      "text": "Fulvestrant, used in metastatic breast cancer, belongs to which class of drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SERM",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Aromatase inhibitor",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "SERD",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "GnRH antagonist",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. SERD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5624fa20",
+      "audio": ""
+    },
+    {
+      "text": "Which aromatase inhibitor is commonly used in postmenopausal women with ER-positive breast cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamoxifen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fulvestrant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Letrozole",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Raloxifene",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Letrozole",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5a792137",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a GnRH receptor antagonist used in advanced prostate cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leuprolide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Goserelin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Degarelix",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Bicalutamide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Degarelix",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "50da6513",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old postmenopausal woman with ER-positive breast cancer is started on an oral drug that inhibits estrogen synthesis. She complains of arthralgia. Which drug was most likely prescribed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamoxifen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fulvestrant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Letrozole",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Raloxifene",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Letrozole",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5a9c8ad9",
+      "audio": ""
+    },
+    {
+      "text": "A patient with metastatic prostate cancer is started on leuprolide. Two weeks later, he develops severe bone pain due to tumor flare. What strategy could have prevented this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Concurrent bicalutamide",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Start with higher leuprolide dose",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Add finasteride",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delay therapy by a month",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Concurrent bicalutamide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0a2c1932",
+      "audio": ""
+    },
+    {
+      "text": "A 65-year-old man with advanced prostate cancer needs immediate testosterone suppression without initial surge. Which drug is preferred?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leuprolide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Goserelin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Degarelix",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Finasteride",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Degarelix",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "650770df",
+      "audio": ""
+    },
+    {
+      "text": "A 48-year-old woman with ER+ metastatic breast cancer progresses despite tamoxifen. Which agent that degrades estrogen receptors is next best?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Letrozole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fulvestrant",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Raloxifene",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Leuprolide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Fulvestrant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2cd4ec52",
+      "audio": ""
+    },
+    {
+      "text": "Raloxifene differs from tamoxifen in that it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases risk of endometrial cancer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Reduces risk of endometrial cancer",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Aggravates osteoporosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreases risk of breast cancer but increases cardiovascular risk",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Reduces risk of endometrial cancer",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a7b398b6",
+      "audio": ""
+    },
+    {
+      "text": "A 72-year-old woman with severe osteoporosis presents after a femoral shaft fracture. She has been on long-term bisphosphonates. Which next step is most appropriate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continue bisphosphonates",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start denosumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Switch to teriparatide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increase calcium and vitamin D only",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Switch to teriparatide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e907ed5a",
+      "audio": ""
+    },
+    {
+      "text": "A 70-year-old man with osteoporosis is found to have severe chronic kidney disease (eGFR < 25 mL/min). Which is the most appropriate agent for his bone health?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alendronate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Denosumab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Teriparatide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Zoledronic acid",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Denosumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9963ee89",
+      "audio": ""
+    },
+    {
+      "text": "A patient with prostate cancer on leuprolide develops severe osteoporosis. What is the most appropriate bone-protective agent to add?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teriparatide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Zoledronic acid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Raloxifene",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Finasteride",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Zoledronic acid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8c266407",
+      "audio": ""
+    },
+    {
+      "text": "Which kinase inhibitor is approved for chronic myeloid leukemia and specifically targets the BCR-ABL fusion protein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erlotinib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Imatinib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Crizotinib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sorafenib",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Imatinib",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/60376371.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e4b4f616",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following kinase inhibitors is a CDK4/6 inhibitor used to halt cell cycle progression in HR+ breast cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sunitinib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Abemaciclib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Afatinib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pazopanib",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Abemaciclib",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/66405532.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "728d6314",
+      "audio": ""
+    },
+    {
+      "text": "LEUOVORIN reverses all of the following side effects of MTX except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bone marrow toxicity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "GI toxicity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nephrotoxicity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Neurotoxicity",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Neurotoxicity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "102b311e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following anticancer drug is acting on S phase of cell cycle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vinorelbine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paclitaxel",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Eribulin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Azacitidine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Azacitidine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "afc4bbab",
+      "audio": ""
+    },
+    {
+      "text": "A young woman with metastatic breast cancer is started on an albumin-bound formulation of a agent acting on M phase. Which drug was likely given?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Docetaxel",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nab-paclitaxel",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Vinorelbine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Eribulin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Nab-paclitaxel",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2a9614b8",
+      "audio": ""
+    },
+    {
+      "text": "A patient with myelodysplastic syndrome (MDS) is treated with a hypomethylating agent. He develops myelosuppression. Which S-phase agent is responsible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decitabine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Fludarabine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cytarabine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Decitabine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "290fcd67",
+      "audio": ""
+    },
+    {
+      "text": "What is administered to reverse severe 5-fluorouracil (5-FU) toxicity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leucovorin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vitamin K",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Uridine triacetate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glucarpidase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Uridine triacetate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6b05e96c",
+      "audio": ""
+    },
+    {
+      "text": "What is a common side effect associated with the use of aromatase inhibitors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased risk of endometrial cancer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Osteoporosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Gynecomastia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyperkalemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Osteoporosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a5ef956c",
+      "audio": ""
+    },
+    {
+      "text": "Irinotecan is primarily used in the treatment of which type of cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Breast cancer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Colorectal cancer",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Prostate cancer",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lung cancer",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Colorectal cancer",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/73419503.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3239d3eb",
+      "audio": ""
+    },
+    {
+      "text": "Which monoclonal antibody causes cardiotoxicity and should be avoided with anthracyclines due to HER2 inhibition in cardiac tissue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bevacizumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cetuximab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trastuzumab",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Rituximab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Trastuzumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5bfaa4d8",
+      "audio": ""
+    },
+    {
+      "text": "Which class of antibiotics requires maintenance of drug levels above the MIC for the greatest proportion of the dosing interval to be effective?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fluoroquinolones",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "\u03b2-Lactams",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Rifamycins",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. \u03b2-Lactams",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/42196824.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b43dde4c",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old diabetic patient presents with osteomyelitis due to MRSA. Initial drug of choice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cefepime",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vancomycin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ciprofloxacin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Piperacillin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Vancomycin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4f4aa960",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drug is not useful for vancomycin resistant pneumonia(VRSA)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Linezolid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Daptomycin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ceftaroline",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Streptogramin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Daptomycin",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/10585625.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9de31ad0",
+      "audio": ""
+    },
+    {
+      "text": "Which antibiotic must be avoided in a patient with myasthenia gravis due to neuromuscular blockade risk?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Azithromycin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vancomycin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gentamicin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Gentamicin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a4ed5e12",
+      "audio": ""
+    },
+    {
+      "text": "Which macrolide is preferred in community-acquired pneumonia due to atypical pathogen coverage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Azithromycin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Erythromycin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Clarithromycin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fidaxomicin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Azithromycin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cd003921",
+      "audio": ""
+    },
+    {
+      "text": "Which beta-lactam is safe for penicillin-allergic patients due to minimal cross-reactivity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cefazolin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Imipenem",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Aztreonam",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Piperacillin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Aztreonam",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d09c5d9b",
+      "audio": ""
+    },
+    {
+      "text": "Which combination of antimicrobials exemplifies pharmacokinetic synergism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillin + probenecid",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim + sulfamethoxazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vancomycin + gentamicin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Azithromycin + doxycycline",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Penicillin + probenecid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cd41eb59",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following antibiotics should be avoided in children due to risk of cartilage damage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Azithromycin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cefuroxime",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ciprofloxacin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Amoxicillin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ciprofloxacin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bb5cdc15",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old man with pyelonephritis is treated with an intravenous antibiotic. He later complains of vertigo and tinnitus. Which antibiotic is MOST likely responsible, and what is its primary mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gentamicin; Inhibits 30S ribosomal subunit",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Vancomycin; Inhibits cell wall synthesis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Linezolid; Inhibits 50S ribosomal subunit",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ciprofloxacin; Inhibits DNA gyrase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Gentamicin; Inhibits 30S ribosomal subunit",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b9c3c581",
+      "audio": ""
+    },
+    {
+      "text": "A 30-year-old female is treated empirically with an oral antibiotic for atypical pneumonia caused by Mycoplasma pneumoniae. She later develops mild elevations in liver enzymes and complains of right upper quadrant pain. Which drug is most likely responsible, and how does it act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Azithromycin; inhibits 50S ribosomal subunit",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ciprofloxacin; inhibits topoisomerase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gentamicin; inhibits 30S ribosomal subunit",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone; inhibits cell wall cross-linking",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Azithromycin; inhibits 50S ribosomal subunit",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9750e4d4",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old man is diagnosed with uncomplicated gonorrhea. Which is the currently recommended first-line antimicrobial therapy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cefixime oral",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ceftriaxone IM single dose",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline alone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Azithromycin alone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ceftriaxone IM single dose",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/29973246.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fc21076e",
+      "audio": ""
+    },
+    {
+      "text": "A 19-year-old sexually active woman is diagnosed with Chlamydia trachomatis cervicitis. She has a severe allergy to doxycycline. Best alternative antibiotic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erythromycin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Azithromycin single dose",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Azithromycin single dose",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d1d30b0",
+      "audio": ""
+    },
+    {
+      "text": "A 27-year-old MSM (men who have sex with men) presents with rectal pain and bloody discharge. LGV (lymphogranuloma venereum) is suspected. Best treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Azithromycin single dose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline for 21 days",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ceftriaxone single dose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metronidazole for 7 days",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Doxycycline for 21 days",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6c5eb9e7",
+      "audio": ""
+    },
+    {
+      "text": "A patient receiving antiretroviral therapy presents with symptoms of lipodystrophy, hyperglycemia, and insulin resistance. Which protease inhibitor is most notably associated with these metabolic disturbances?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atazanavir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Darunavir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Indinavir",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lopinavir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Indinavir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a06dace1",
+      "audio": ""
+    },
+    {
+      "text": "Which integrase inhibitor is widely used in first-line HIV therapy due to its potency, favorable resistance profile, and high genetic barrier to resistance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raltegravir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Elvitegravir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dolutegravir",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Bictegravir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dolutegravir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0bf1eab3",
+      "audio": ""
+    },
+    {
+      "text": "Which antiretroviral agent is associated with a risk of hypersensitivity reactions in patients carrying the HLA-B*5701 allele, necessitating prior genetic screening?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tenofovir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Abacavir",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Lamivudine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Emtricitabine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Abacavir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0c6bfbb8",
+      "audio": ""
+    },
+    {
+      "text": "A patient on zidovudine develops anemia and myopathy. What is the likely mechanism underlying these toxicities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CYP3A4 inhibition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial DNA polymerase \u03b3 inhibition",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptase overactivation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "G6PD deficiency",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mitochondrial DNA polymerase \u03b3 inhibition",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "364cfa12",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following antifungal is approved for treatment of vulvovaginal candidiasis and belongs to the triterpenoid class?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posaconazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ibrexafungerp",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Voriconazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ibrexafungerp",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/16665017.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "df451e42",
+      "audio": ""
+    },
+    {
+      "text": "Which azole antifungal has the broadest spectrum and is approved for both mucormycosis and aspergillosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voriconazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Posaconazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fluconazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Isavuconazole",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Isavuconazole",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/66271358.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f6417981",
+      "audio": ""
+    },
+    {
+      "text": "Which antifungal agent is preferred for initial treatment of cryptococcal meningitis in HIV-positive patients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluconazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Voriconazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B + Flucytosine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Caspofungin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Amphotericin B + Flucytosine",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/8472891.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "67641feb",
+      "audio": ""
+    },
+    {
+      "text": "Which new antifungal is a long-acting echinocandin approved for once-weekly dosing in candidemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ibrexafungerp",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Isavuconazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rezafungin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Anidulafungin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Rezafungin",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/70515382.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "124fba93",
+      "audio": ""
+    },
+    {
+      "text": "Which oral agent is FDA-approved for the treatment of visceral leishmaniasis and acts by affecting membrane integrity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Miltefosine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pentamidine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paramomycin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Miltefosine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "02dfd162",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old man presents with sleep disturbances and lymphadenopathy after returning from Central Africa. Blood smear confirms Trypanosoma brucei gambiense infection. Best initial drug for early-stage (hemolymphatic) African trypanosomiasis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Melarsoprol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nifurtimox",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pentamidine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Benznidazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pentamidine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7d8f885d",
+      "audio": ""
+    },
+    {
+      "text": "A patient being treated for echinococcosis is advised to take their medication with a high-fat meal. Which anthelmintic requires this co-administration to enhance absorption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mebendazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Albendazole",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Niclosamide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Albendazole",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b1b0930d",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following agents induces spastic paralysis in trematodes by causing calcium influx through activation of schistosome transient receptor potential ion channels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ivermectin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Albendazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mebendazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Praziquantel",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/25090663.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f771489a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drugs increases the risk of uric acid nephrolithiasis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allopurinol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Probenecid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Colchicine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rasburicase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Probenecid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1a5644fd",
+      "audio": ""
+    },
+    {
+      "text": "Allopurinol toxicity increases when combined with which of the following drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Colchicine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Azathioprine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Febuxostat",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "NSAIDs",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Azathioprine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "25250d93",
+      "audio": ""
+    },
+    {
+      "text": "A 42-year-old African-American man is being considered for rasburicase therapy for tumor lysis syndrome. What pharmacogenetic condition must be ruled out before administering the drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dihydropyrimidine dehydrogenase deficiency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "G6PD deficiency",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "UGT1A1 polymorphism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CYP2C9 poor metabolism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. G6PD deficiency",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c32910ad",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old female with rheumatoid arthritis refractory to methotrexate is started on a biologic agent. Two months later, she presents with worsening dyspnea, and CXR shows bilateral interstitial infiltrates. Which biologic agent most likely caused this complication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adalimumab",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Abatacept",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rituximab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tocilizumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Adalimumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4ed8c519",
+      "audio": ""
+    },
+    {
+      "text": "A patient receiving a bDMARD for psoriatic arthritis develops new-onset inflammatory bowel symptoms. Which of the following agents could worsen IBD?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adalimumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Etanercept",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ustekinumab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Infliximab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Etanercept",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "56ad8154",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following biologics does NOT act directly on a cytokine or cytokine receptor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tocilizumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Infliximab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Abatacept",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Anakinra",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Abatacept",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5fb172f9",
+      "audio": ""
+    },
+    {
+      "text": "A patient develops Herpes Zoster reactivation while on a bDMARD. Which agent is most strongly associated with this complication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adalimumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rituximab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Baricitinib",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Secukinumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Baricitinib",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/25280824.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4fba0384",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following agents is a fully human monoclonal antibody targeting IL-17A?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ixekizumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Secukinumab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Brodalumab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Adalimumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Secukinumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4340e501",
+      "audio": ""
+    },
+    {
+      "text": "A renal transplant recipient develops nephrotoxicity while on immunosuppressive therapy. A switch is made to sirolimus. Which statement best explains the reason for this switch?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sirolimus is less nephrotoxic because it acts upstream of calcineurin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sirolimus inhibits T-cell proliferation by blocking CD28 co-stimulation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sirolimus inhibits mTOR, avoiding calcineurin-induced renal vasoconstriction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sirolimus is rapidly cleared by the kidneys, reducing exposure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sirolimus inhibits mTOR, avoiding calcineurin-induced renal vasoconstriction",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "16668df2",
+      "audio": ""
+    },
+    {
+      "text": "Teplizumab is being trialed in early type 1 diabetes. What is its primary mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depletes B cells by anti-CD20 binding",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inhibits calcineurin and IL-2 production",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Binds CD3 on T cells and induces anergy without cytokine release",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Blocks IL-6 receptor to reduce inflammation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Binds CD3 on T cells and induces anergy without cytokine release",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7fd7f135",
+      "audio": ""
+    },
+    {
+      "text": "Which immunosuppressive drug selectively inhibits inosine monophosphate dehydrogenase and is teratogenic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sirolimus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mycophenolate mofetil",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Leflunomide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Azathioprine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mycophenolate mofetil",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/33102855.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ee85a24d",
+      "audio": ""
+    },
+    {
+      "text": "Which monoclonal antibody is used to treat antibody-mediated rejection by depleting CD20+ B cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basiliximab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rituximab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Muromonab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alemtuzumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Rituximab",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/13257686.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a2f75301",
+      "audio": ""
+    },
+    {
+      "text": "Which drug lowers intraocular pressure by increasing uveoscleral outflow and is typically used as first-line therapy in open-angle glaucoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Timolol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Brimonidine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Latanoprost",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Dorzolamide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Latanoprost",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "63d65f53",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following antidotes is correctly matched with its corresponding poisoning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fomepizole \u2013 Organophosphates",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Physostigmine \u2013 Benzodiazepines",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pralidoxime \u2013 Organophosphate pesticides",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Deferoxamine \u2013 Lead poisoning",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pralidoxime \u2013 Organophosphate pesticides",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "613179ae",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following oral anticoagulants requires renal dose adjustment and is contraindicated in patients with CrCl <30 mL/min?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rivaroxaban",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Apixaban",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Edoxaban",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dabigatran",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Dabigatran",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5051aea1",
+      "audio": ""
+    }
+  ]
+}

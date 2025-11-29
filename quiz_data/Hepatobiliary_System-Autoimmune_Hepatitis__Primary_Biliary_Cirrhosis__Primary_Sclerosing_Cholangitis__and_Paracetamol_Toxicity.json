@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "id": "test40",
+    "title": "Hepatobiliary_System-Autoimmune_Hepatitis__Primary_Biliary_Cirrhosis__Primary_Sclerosing_Cholangitis__and_Paracetamol_Toxicity",
+    "category": "Prepladder / RR"
+  },
+  "questions": [
+    {
+      "text": "A 30-year-old woman presents to the clinic with fatigue, jaundice, and abdominal discomfort. Lab tests show elevated liver enzymes (AST and ALT). Further testing reveals positive antinuclear antibodies (ANA) and anti-smooth muscle antibodies (ASMA). A liver biopsy demonstrates interface hepatitis with plasma cell infiltration . Given the specific autoantibody profile and the histological findings, which of the following options is associated with the condition and is most relevant to consider in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 1 Autoimmune Hepatitis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type 2 Autoimmune Hepatitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Primary Biliary Cholangitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Drug-Induced Liver Injury",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type 1 Autoimmune Hepatitis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Type 1 <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">Autoimmune</span> <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">Hepatitis</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Type 2 <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">Autoimmune</span> Hepatitis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More common in females (2nd-3rd decade)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More common in children</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated with:</p>\n<ul>\n<li>ANA (also seen in SLE) - hence, <span class=\"customMeta\" data-dictid=\"a8c10a0344169277719165bdcc4700\">lupoid</span> hepatitis</li>\n<li><strong>Anti SMA (Anti smooth muscle antibody) - against <span class=\"customMeta\" data-dictid=\"8e023fb81e16927771802d21820404\">actin</span> </strong></li>\n<li>Anti-soluble liver antigen</li>\n<li>Atypical p-ANCA (x-ANCA)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated with:</p>\n<ul>\n<li>ANA absent</li>\n<li><strong>Anti LKM1 (Liver <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> <span class=\"customMeta\" data-dictid=\"e073bd96e1169277719284ef3452ee\">microsome</span> type 1)</strong></li>\n<li>Anti-liver <span class=\"customMeta\" data-dictid=\"436b14255b16927771852beb42f2e1\">cytosol</span> - 1 antibody</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dbe6fc98"
+    },
+    {
+      "text": "A 45-year-old woman presents with fatigue, jaundice, abdominal discomfort, and significant weight loss for three months. She reports itchy skin. Laboratory tests show elevated liver enzymes and positive antinuclear antibodies (ANA) and anti-smooth muscle antibodies (ASMA). She has a family history of autoimmune diseases. Which of the following clinical features is most commonly associated with the above scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Splenomegaly",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Weight gain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Presence of anti-mitochondrial antibodies (AMA)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Elevated alkaline phosphatase levels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Splenomegaly",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "734b8f4a"
+    },
+    {
+      "text": "Which of the following statements regarding Autoimmune Hepatitis is False?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SGPT is significantly raised",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Albumin \u2193 and \u03b3-globulin \u2191\u2191",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is a diagnosis of exclusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "RA factor is negative",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. RA factor is negative",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:675px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Factors supporting diagnosis:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Factors against diagnosis:</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Female gender.</li>\n<li>Predominant <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> of aminotransferases.</li>\n<li>Level of <span class=\"customMeta\" data-dictid=\"1a8bcc07ca16927771882f63452d6e\">globulin</span> elevation.</li>\n<li>Presence of other <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> diseases.</li>\n<li>HLA-DR3 or DR4 markers.</li>\n<li>Positive response to treatment.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Predominant <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> of <span class=\"customMeta\" data-dictid=\"b95c7f7b821692777181df660ee7ff\">alkaline</span> phosphatase.</li>\n<li>Presence of mitochondrial antibodies.</li>\n<li>Positive markers for <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> hepatitis.</li>\n<li>History of <span class=\"customMeta\" data-dictid=\"aad52f4a541692777188bfd2c5830b\">hepatotoxic</span> drug use or excessive alcohol consumption.</li>\n<li>Histological evidence of <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> <span class=\"customMeta\" data-dictid=\"6198b5f22b16927771867e4ef8108f\">duct</span> injury or <span class=\"customMeta\" data-dictid=\"06123ff61a1692777182e19b790ebc\">atypical</span> features (e.g., <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> infiltration, iron overload).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "232e56ad"
+    },
+    {
+      "text": "Which of the following best describes the primary underlying mechanism of injury in Primary Biliary Cholangitis (PBC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autoimmune-mediated destruction of bile ducts",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Genetic mutation affecting bile acid metabolism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Viral infection leading to bile duct inflammation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cholestasis due to gallstone obstruction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Autoimmune-mediated destruction of bile ducts",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "92e48a2b"
+    },
+    {
+      "text": "A 50-year-old woman presents with fatigue and pruritus. Laboratory tests show elevated alkaline phosphatase and positive antimitochondrial antibodies (AMAs). Which of the following is the most appropriate next step in the management of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initiate ursodeoxycholic acid therapy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Schedule for liver transplantation evaluation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Start antiviral therapy for hepatitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for endoscopic retrograde cholangiopancreatography (ERCP)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Initiate ursodeoxycholic acid therapy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "74d8efe9"
+    },
+    {
+      "text": "A 40-year-old male presents with a 6-month history of progressive fatigue and pruritus. He reports a recent onset of jaundice. His past medical history is significant for ulcerative colitis. Laboratory tests reveal elevated serum alkaline phosphatase and bilirubin, and atypical pANCA are positive. An MRCP is given below. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary Biliary Cholangitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Primary Sclerosing Cholangitis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chronic Pancreatitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Primary Sclerosing Cholangitis",
+      "question_images": [
+        "https://image.prepladder.com/notes/gLfrkRiXTULcEjkVn4Es1744716097.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Primary <span class=\"customMeta\" data-dictid=\"0aa16e71201692777198c4c07e2392\">Sclerosing</span> <span class=\"customMeta\" data-dictid=\"dd9fbecbed1692777184ab44e1624c\">Cholangitis</span> (PSC)</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PSC is characterized by <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> and obliterative <span class=\"customMeta\" data-dictid=\"21e2d5a70616927772021fcdec0ca9\">fibrosis</span> of <span class=\"customMeta\" data-dictid=\"85d0636fae1692777187fc93c80934\">extrahepatic</span> and large <span class=\"customMeta\" data-dictid=\"98421c7e5e1692777190d261d75f8a\">intrahepatic</span> <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> ducts, with <span class=\"customMeta\" data-dictid=\"d141b433d2169277718681e3ff6bc3\">dilation</span> of preserved segments.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Demographics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Commonly occurs in individuals aged 30-50 years.</li>\n<li>Has a male predominance of 2:1.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Suggests an <strong>immunologically mediated process</strong> supported by circulating autoantibodies, <span class=\"customMeta\" data-dictid=\"9f1d97eb2b1692777200b3926afd54\">T lymphocytes</span> in the <span class=\"customMeta\" data-dictid=\"b7e71e2acf1692777195087acd2271\">periductal</span> stroma, and associations with<strong> HLA-B8</strong> and <strong>ulcerative colitis</strong>.</li>\n<li>A mix of <strong>environmental </strong>& genetic factors may trigger <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> <span class=\"customMeta\" data-dictid=\"6198b5f22b16927771867e4ef8108f\">duct</span> injury.</li>\n<li>Increased risk of PSC in first-degree relatives indicates a genetic component.</li>\n<li>Activated T cells from <span class=\"customMeta\" data-dictid=\"b118cf61a016927772018a179057ef\">ulcerative</span> <span class=\"customMeta\" data-dictid=\"e6955110f21692777184d2090a400c\">colitis</span> <span class=\"customMeta\" data-dictid=\"31ae8f4dc51692777193069d92be37\">mucosa</span> may migrate to the liver, <span class=\"customMeta\" data-dictid=\"e4865847fa169277720044d7b530b0\">targeting</span> <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> <span class=\"customMeta\" data-dictid=\"6198b5f22b16927771867e4ef8108f\">duct</span> antigens.</li>\n<li>Changes in the intestinal microbiome or infections may alter cholangiocytes, causing inflammation.</li>\n<li>Atypical <span class=\"customMeta\" data-dictid=\"2da8fc47cf169277719576cea1851f\">perinuclear</span> antineutrophil cytoplasmic antibodies (pANCA) are</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Common symptoms include fatigue, pruritus, and jaundice.</li>\n<li>Nearly 50% of patients are <span class=\"customMeta\" data-dictid=\"d1a9a79f701692777182066af09044\">asymptomatic</span> at diagnosis, often identified through elevated <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"b95c7f7b821692777181df660ee7ff\">alkaline</span> phosphatase.</li>\n<li>Ascending cholangitis, chronic pancreatitis, and chronic <span class=\"customMeta\" data-dictid=\"180ce1a7c416927771844825c616f4\">cholecystitis</span> may also occur.</li>\n<li>Fibrosis can progress to <span class=\"customMeta\" data-dictid=\"3e6e56aa3b1692777184226d2104e4\">cirrhosis</span> over 10-15 years.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lifetime risk of developing <strong>cholangiocarcinoma</strong> is about 20%.</p>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary <span class=\"customMeta\" data-dictid=\"7dd6eda7ce169277718325f22de9e8\">Biliary</span> Cholangitis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h4><strong>Primary <span class=\"customMeta\" data-dictid=\"0aa16e71201692777198c4c07e2392\">Sclerosing</span> Cholangitis</strong></h4>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Site involved</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intrahepatic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intrahepatic & Extrahepatic</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gender predominance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Female > male</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Male > female</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cause</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoimmune</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Multifactorial (can be <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> also)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Clinical features</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fatigue, pruritus, jaundice, hepatomegaly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Can be asymptomatic; pruritus, fatigue, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, jaundice.</li>\n<li>Can also develop <span class=\"customMeta\" data-dictid=\"dd9fbecbed1692777184ab44e1624c\">cholangitis</span> <span class=\"customMeta\" data-dictid=\"98ea94d2c01692777194cc5ffee153\">pancreatitis</span> and cholecystitis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Characteristic findings</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>AMA antibodies are commonly found</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>ERCP/MRCP shows <span class=\"customMeta\" data-dictid=\"db8c3d4b9e1692777182a03a530a28\">beaded</span> appearance of <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> ducts</li>\n<li>Biopsy shows onion skin fibrosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated conditions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sj\u00f6gren's syndrome, <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> diseases</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ulcerative colitis, risk of developing cholangiocarcinoma</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4e8b23d2"
+    },
+    {
+      "text": "A 30-year-old woman presents with progressive jaundice and pruritus. She has a past medical history of ulcerative colitis. Her LFT revealed an elevated alkaline phosphatase & gamma-glutamyl transferase (GGT) and a prolonged prothrombin time. The liver biopsy is shown below. Which of the following serologic findings is most likely to be present in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anti-liver kidney microsomal-1 antibodies (Anti-LKM-1)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anti-mitochondrial antibody (AMA)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Perinuclear anti-neutrophil cytoplasmic antibody (pANCA)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Anti-centromere antibody",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Perinuclear anti-neutrophil cytoplasmic antibody (pANCA)",
+      "question_images": [
+        "https://image.prepladder.com/notes/U4n0sZ5CRPd53mA8QbQf1744716191.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Workup of Primary <span class=\"customMeta\" data-dictid=\"0aa16e71201692777198c4c07e2392\">Sclerosing</span> Cholangitis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Liver Function Tests </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Serum <span class=\"customMeta\" data-dictid=\"4228218c971692777181ed18105c0d\">ALP</span> is elevated up to 3-4 times.</li>\n<li>ALT & <span class=\"customMeta\" data-dictid=\"b53d9f77801692777182738019ba62\">AST</span> increased.</li>\n<li>Gamma-glutamyl <span class=\"customMeta\" data-dictid=\"2288cbf3741692777200318d2f5b39\">transferase</span> elevated.</li>\n<li>Hypergammaglobulinemia (IgM) is elevated.</li>\n<li>Prothrombin Time is increased.</li>\n<li>Albumin is reduced.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>P-ANCA +ve </strong>in about 65% of patients.</p>\n<p>ANA +ve</p>\n<p><strong>AMA -ve </strong>(Anti mitochondrial antibody)</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Imaging</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<figure class=\"caption_element\"><img alt=\"Primary <span class=\" custommeta\"=\"\" data-dictid=\"0aa16e71201692777198c4c07e2392\"/>Sclerosing <span class=\"customMeta\" data-dictid=\"dd9fbecbed1692777184ab44e1624c\">Cholangitis</span> <span class=\"customMeta\" data-dictid=\"e70450a3981692777193c65a0c79f1\">MRCP</span> 2\" data-author=\"Pegah Khoshpouri, Roya Rezvani Habibabadi, Bita Hazhirkarzar, Sanaz Ameli, Maryam Ghadimi, Mounes Aliyari Ghasabeh, Christine O. Menias, Amy Kim, Zhiping Li, Ihab R. Kamel\" data-hash=\"10386\" data-license=\"\" data-source=\"https://pubs.rsna.org/doi/10.1148/rg.2019180213\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/7520MoFLAaPhGooAOpbV1744716327.png\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>MRCP:</strong></li>\n</ul>\n<p>Key <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">diagnostic</span> investigation</p>\n<p>Reveals <strong>(beading)</strong> multiple <span class=\"customMeta\" data-dictid=\"863f5457381692777190f05632a8b2\">irregular</span> stricturing and dilatations.</p>\n<ul>\n<li><strong>ERCP:</strong></li>\n</ul>\n<p>Reserved for <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> intervention</p>\n<p>Conducted after MRCP</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Liver biopsy</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<figure class=\"caption_element\"><img alt=\"Primary <span class=\" custommeta\"=\"\" data-dictid=\"0aa16e71201692777198c4c07e2392\"/>Sclerosing <span class=\"customMeta\" data-dictid=\"dd9fbecbed1692777184ab44e1624c\">Cholangitis</span> Onion skin\" data-author=\"Oliveira, Elze & Oliveira, Patricia & Becker, Vitoria & Dellavance, Alessandra & Andrade, Lu\u00eds & Lanzoni, Valeria & Silva, Antonio & Ferraz, Maria Lucia.\" data-hash=\"10387\" data-license=\"CC BY 2.0\" data-source=\"https://www.researchgate.net/figure/Small-bile-duct-showing-an-onion-skin-type-of-periductal-fibrosis-H-and-E-40-x_fig3_233888792\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/IApTa5XStC1SQjZ2783U1744716356.png\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Early features:</p>\n<ul>\n<li>Periductal<strong> \"onion skin\" fibrosis</strong> & inflammation</li>\n<li>Portal <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> & <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> ductular proliferation</li>\n</ul>\n<p>Later stages show progressive <span class=\"customMeta\" data-dictid=\"21e2d5a70616927772021fcdec0ca9\">fibrosis</span> leading to <span class=\"customMeta\" data-dictid=\"7dd6eda7ce169277718325f22de9e8\">biliary</span> <span class=\"customMeta\" data-dictid=\"3e6e56aa3b1692777184226d2104e4\">cirrhosis</span> and obliterative cholangitis, resulting in <strong>\"vanishing <span class=\"customMeta\" data-dictid=\"cf978047b61692777183c0569f21f2\">bile</span> <span class=\"customMeta\" data-dictid=\"6198b5f22b16927771867e4ef8108f\">duct</span> syndrome\"</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e4487dd5"
+    },
+    {
+      "text": "A 26-year-old patient is treated with a combination of oxycodone and acetaminophen (325 mg per tablet). The patient has a history of opioid tolerance. What is a potential risk associated with this combination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased risk of renal toxicity.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased effectiveness of acetaminophen.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Greater likelihood of unintentional acetaminophen overdose.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Development of opioid dependency.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Greater likelihood of unintentional acetaminophen overdose.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/YYDT8Bpa5s1XeYWPwTCZ1744716493.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"Paracetamol poisoning\" data-author=\"\" data-hash=\"10388\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/YYDT8Bpa5s1XeYWPwTCZ1744716493.png\"/></p>\n<p>The <strong>Rumack-Matthew nomogram</strong> is used to assess the risk of <span class=\"customMeta\" data-dictid=\"cbc7c810ce1692777188e6eaf3eba2\">hepatotoxicity</span> by interpreting <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"95b7c54ee116927771809963c4ee14\">acetaminophen</span> levels in relation to the time since ingestion.</p>\n<p><strong>Purpose of the Nomogram</strong>:</p>\n<ul>\n<li>Predicts the risk of <span class=\"customMeta\" data-dictid=\"cbc7c810ce1692777188e6eaf3eba2\">hepatotoxicity</span> based on a single <span class=\"customMeta\" data-dictid=\"95b7c54ee116927771809963c4ee14\">acetaminophen</span> concentration at a specific time.</li>\n<li>Not a <span class=\"customMeta\" data-dictid=\"cfb6c738351692777196f69788a66e\">prognostic</span> tool; it does not predict <span class=\"customMeta\" data-dictid=\"104c254ce81692777203458937f730\">fulminant</span> liver failure or death.</li>\n<li>Best used for <span class=\"customMeta\" data-dictid=\"95b7c54ee116927771809963c4ee14\">acetaminophen</span> concentrations measured<strong> 4\u201324 hours </strong>after ingestion.</li>\n</ul>\n<p><strong>Lines on the Nomogram</strong>:</p>\n<ul>\n<li><strong>Probable (Rumack-Matthew) Line</strong>:\n\n\t\t\t\t<ul>\n<li>Represents the threshold above which 60% of patients are likely to develop hepatotoxicity.</li>\n</ul>\n</li>\n<li><strong>Possible (Treatment) Line</strong>:\n\t\t\t\t<ul>\n<li>Added later by the FDA, incorporating a 25% margin of error for measurement variations or uncertainty about the <span class=\"customMeta\" data-dictid=\"eba893313f16927771906290ce7e79\">ingestion</span> time.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Limitations of the Nomogram</strong>:</p>\n<ul>\n<li>Cannot be used for patients presenting more than 24 hours after <span class=\"customMeta\" data-dictid=\"eba893313f16927771906290ce7e79\">ingestion</span> or those with multiple ingestions.</li>\n<li>Less reliable for <span class=\"customMeta\" data-dictid=\"bc4d5a606b1692777187ebf7376d9b\">extended-release</span> <span class=\"customMeta\" data-dictid=\"95b7c54ee116927771809963c4ee14\">acetaminophen</span> or co-ingestion with agents that delay <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> <span class=\"customMeta\" data-dictid=\"397f16a7a71692777187ffffefa7e6\">emptying</span> (e.g., anticholinergics, opioids).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Safe dose of paracetamol: <strong>3 grams</strong> per day</li>\n<li>Safe dose in the <span class=\"customMeta\" data-dictid=\"0751b802aa169277718100e38a1276\">alcoholic</span> patient: <strong>2 grams </strong>per day</li>\n<li>Opioid-PCM combinations are dangerous, as <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> tolerance can lead to increased <span class=\"customMeta\" data-dictid=\"95b7c54ee116927771809963c4ee14\">acetaminophen</span> intake. <strong>(Option C)</strong></li>\n<li>Acetaminophen in <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> combination products is limited to 325 mg per tablet.</li>\n<li><strong>Toxic Doses</strong>:\n\t\t\t\t<ul>\n<li>8 g/day over several days can lead to liver failure.</li>\n<li>A single dose of 10\u201315 g may cause liver injury.</li>\n<li>\u226525 g often results in fatal <span class=\"customMeta\" data-dictid=\"104c254ce81692777203458937f730\">fulminant</span> liver failure.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "51bec72f"
+    },
+    {
+      "text": "A 28-year-old woman presents with a 2-day history of fatigue, jaundice, and dark urine after taking high doses of acetaminophen for headaches over the past week. Laboratory tests reveal elevated aminotransferases (>10,000 IU/L) and an INR of 2.5. What is the most likely underlying cause of her clinical presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glutathione depletion with NAPQI buildup",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Enhanced glucuronidation of acetaminophen",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased glutathione levels leading to liver injury",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of CYP2E1 by acetaminophen",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Glutathione depletion with NAPQI buildup",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Metabolism of Acetaminophen</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Acetaminophen is mainly metabolized via <strong>phase II</strong> reactions into harmless<strong> sulfate</strong> and <strong>glucuronide</strong> metabolites.<strong>(Option B)</strong></li>\n<li>A small portion undergoes<strong> phase I </strong>metabolism by<strong> CYP2E1 </strong><strong>(Option D)</strong>, forming the <span class=\"customMeta\" data-dictid=\"aad52f4a541692777188bfd2c5830b\">hepatotoxic</span> <span class=\"customMeta\" data-dictid=\"fceb6bf8d01692777192b8b179f554\">metabolite</span> <strong>N-acetyl-p-benzoquinone-imine (NAPQI)</strong>.</li>\n</ul>\n<p><strong>Detoxification of NAPQI</strong></p>\n<ul>\n<li>NAPQI is neutralized by binding to glutathione, forming water-soluble mercapturic acid, which is excreted via the kidneys.</li>\n</ul>\n<p><strong>Glutathione <span class=\"customMeta\" data-dictid=\"7061e0e0051692777186ba9c5f27df\">Depletion</span> </strong><strong>(Option C)</strong></p>\n<ul>\n<li>When excessive NAPQI is produced, or <span class=\"customMeta\" data-dictid=\"f945849e691692777188ad7ce5b5e2\">glutathione</span> is depleted <strong>(Option A)</strong>, NAPQI binds to <span class=\"customMeta\" data-dictid=\"d92a2c1a2f1692777188848354f32b\">hepatocyte</span> macromolecules, forming acetaminophen-protein adducts, causing <span class=\"customMeta\" data-dictid=\"d92a2c1a2f1692777188848354f32b\">hepatocyte</span> necrosis.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Risk Factors</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Chronic alcohol use (induces CYP2E1, depletes glutathione).</li>\n<li>Starvation.</li>\n<li>Prior use of mixed-function oxidase-inducing drugs (e.g.,<strong> phenobarbital</strong>, <strong>INH</strong>).</li>\n<li><strong>Hepatitis C</strong> infection increases the risk of liver injury in overdose.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Clinical features</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Early Symptoms (4-12 hrs)</strong>:</p>\n<ul>\n<li>Nausea, vomiting, diarrhea, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, shock.</li>\n</ul>\n<p><strong>Delayed Symptoms (24-48 hrs)</strong>:</p>\n<ul>\n<li>Hepatic injury becomes apparent.</li>\n<li>Coagulopathy and encephalopathy.</li>\n<li>Maximal damage seen 3\u20135 days post-ingestion with <span class=\"customMeta\" data-dictid=\"c011dc417616927771816fef085ce1\">aminotransferase</span> levels >10,000 IU/L.</li>\n<li>Renal failure and myocardial injury may occur.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Stages of <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"95b7c54ee116927771809963c4ee14\">acetaminophen</span> poisoning</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Stage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Time Post-Ingestion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>I</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0\u201324 hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nausea, vomiting, and anorexia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>II</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>24\u201372 hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Right upper <span class=\"customMeta\" data-dictid=\"3a757d7c1216927771968223be411d\">quadrant</span> <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain; elevated liver enzymes (AST, ALT), and sometimes increased <span class=\"customMeta\" data-dictid=\"2d60c5a677169277718325a811dcf1\">bilirubin</span> and INR if <span class=\"customMeta\" data-dictid=\"072b8af16e1692777196f21b086f92\">poisoning</span> is severe.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>72\u201396 hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vomiting, signs of liver failure; peak levels of AST, ALT, bilirubin, and INR. Possible <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> failure and pancreatitis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>> 5 days</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Recovery of liver function or <span class=\"customMeta\" data-dictid=\"3c305b384216927771969ca4166493\">progression</span> to multiple organ failure.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dfdbd04a"
+    },
+    {
+      "text": "A 35-year-old man presents with complaints of nausea and abdominal pain after ingesting 20 paracetamol tablets approximately 8 hours ago. His vital signs are stable, but he has mild jaundice. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer activated charcoal orally.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start intravenous N-acetylcysteine therapy.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Perform a liver biopsy to assess damage.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Refer for liver transplantation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Start intravenous N-acetylcysteine therapy.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Management of <span class=\"customMeta\" data-dictid=\"fcdd3383341692777194cf2cd4e400\">Paracetamol</span> poisoning</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Management Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Initial Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Gastric Lavage</strong></li>\n<li>Administer <span class=\"customMeta\" data-dictid=\"5dd23480451692777180e299cc38bc\">activated charcoal</span> or <span class=\"customMeta\" data-dictid=\"8cbc9195731692777184663e492746\">cholestyramine</span> (effective within 30 minutes of ingestion) <strong>(Option A)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>N-acetylcysteine (NAC) Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Initiate within <strong>8 hours</strong> of ingestion; may be partially effective up to <strong>24\u201336 hours</strong> post-overdose. <strong>(Option B)</strong></li>\n<li><strong>Administration</strong>:\n\t\t\t\t<ul>\n<li>IV: 140 mg/kg <span class=\"customMeta\" data-dictid=\"00a5dcc74b16927771913b344e36a3\">loading</span> dose over 1 hour, followed by 70 mg/kg every 4 hours for 15\u201320 doses.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism of Action</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>NAC acts as a <span class=\"customMeta\" data-dictid=\"1a1b98a5d7169277719914104ae697\">sulfhydryl</span> donor, replenishing glutathione.</li>\n<li>Neutralizes toxic metabolites and prevents binding to cell proteins, reducing the severity of <span class=\"customMeta\" data-dictid=\"3268e86ce01692777188f249c64d6e\">hepatic</span> necrosis.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Liver <span class=\"customMeta\" data-dictid=\"ee9f07b0a81692777200e416e4e5d7\">Transplantation</span> </strong><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Considered in cases of <strong>hepatic failure</strong> (jaundice, coagulopathy, confusion).</li>\n<li><strong>King's College Criteria</strong> is used to predict the need for a liver transplant in patients with paracetamol-induced <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> liver failure :</li>\n<li>Arterial blood pH < 7.30</li>\n</ul>\n<p>Or all of the following:</p>\n<ul>\n<li>Prothrombin time (PT) > 100 seconds (INR > 6.5)</li>\n<li>Serum <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> > 300 \u03bcmol/L</li>\n<li>Grade III or IV <span class=\"customMeta\" data-dictid=\"3268e86ce01692777188f249c64d6e\">hepatic</span> encephalopathy.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f6078314"
+    },
+    {
+      "text": "A 7-year-old girl presents 20 hours after accidentally ingesting a large amount of iron supplements. Initially, she had abdominal pain, vomiting, and diarrhea, but these symptoms have resolved. Her vital signs are stable. What stage of iron toxicity is she experiencing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stage I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stage II",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Stage III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stage IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Stage II",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:723px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Stage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Time Frame</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Clinical Features</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage I </strong><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gastrointestinal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>30 mins to 6 hrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Primarily <span class=\"customMeta\" data-dictid=\"b3a647ce2516927771881427f56c1d\">gastrointestinal</span> (GI) symptoms such as <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, vomiting, diarrhea, hematemesis, and hematochezia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage II </strong><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Latent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6 to 24 hrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Apparent recovery phase where GI symptoms</strong> may resolve despite significant iron absorption.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage III </strong><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Metabolic <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">Acidosis</span> & Shock</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6 to 72 hrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Recurrence of GI symptoms, shock, <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> acidosis, and complications like cardiomyopathy, and <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> failure.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage IV </strong><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hepatotoxicity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>12 to 96 hrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Development of <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> liver failure.</p>\n<p>Coma & coagulopathy.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage V</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bowel Obstruction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2 to 8 weeks</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Consequences of healing, including <span class=\"customMeta\" data-dictid=\"e9dcc3d4241692777198c7030bf313\">scarring</span> and <span class=\"customMeta\" data-dictid=\"39f44b27bf169277719416f29a74ee\">obstruction</span> of the <span class=\"customMeta\" data-dictid=\"8e56d9271316927771965c8ad6e48d\">pylorus</span> or <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> bowel.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Management of Iron Toxicity</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Treatment Aspect</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Activated Charcoal</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ineffective for iron toxicity.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Magnesium Hydroxide</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>1% oral solution may reduce iron <span class=\"customMeta\" data-dictid=\"5fcb9396d1169277718069dd7fa788\">absorption</span> by forming <span class=\"customMeta\" data-dictid=\"ffb2e30f4b1692777202053635c365\">ferrous</span> hydroxide.</li>\n<li>Therapeutic doses of <span class=\"customMeta\" data-dictid=\"4d7ed0baae169277719199f6e9ab7b\">magnesium</span> <span class=\"customMeta\" data-dictid=\"0a57b1bc5916927771895a4f4e60b4\">hydroxide</span> and <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> <span class=\"customMeta\" data-dictid=\"fdae4d6e3a1692777183b5745d0c02\">carbonate</span> antacids are safe for use.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Laboratory Tests</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Obtain <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> iron, creatinine, electrolytes, hemoglobin, <span class=\"customMeta\" data-dictid=\"94b02f097916927771962072dbeeac\">prothrombin</span> time, liver function tests, and <span class=\"customMeta\" data-dictid=\"b905d8d51416927771821f9cceb3a3\">arterial blood</span> gas in severely poisoned patients.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Corrective Measures</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Correct <span class=\"customMeta\" data-dictid=\"b93b1c964f16927771894edc409f80\">hypovolemia</span> and <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> acidosis.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chelation Therapy</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Agents: <span class=\"customMeta\" data-dictid=\"e02014314f1692777186904f0f9565\">Desferrioxamine</span> (IV)</strong> or <span class=\"customMeta\" data-dictid=\"82daa1d68b1692777185d611dc0e63\">deferiprone</span> (oral).</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications:</strong></p>\n<ul>\n<li>Multiple <span class=\"customMeta\" data-dictid=\"998fb41ebc1692777202e46891c4a7\">vomiting</span> episodes, significant <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, hypovolemia, acidosis.</li>\n<li>Multiple radiopacities on X-ray.</li>\n<li>Serum iron > 350 mcg/100 ml.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dosage (Desferrioxamine):</strong></p>\n<ul>\n<li>IV: Continuous <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">infusion</span> up to <strong>15 mg/kg/hr</strong> (up to 35 mg/kg/hr for severe cases in children)</li>\n<li>Total Daily Dose: Do not exceed <strong>6 grams.</strong></li>\n<li>Infusion Duration: 8-12 hours for moderate toxicity; > 24 hours for severe toxicity.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Therapy Endpoint</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Monitor <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> for \"vin rose\" color indicating chelated iron excretion.</li>\n<li>Therapy can stop when <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> color normalizes and the patient is asymptomatic.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Adverse Effects of Desferrioxamine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Risk of <span class=\"customMeta\" data-dictid=\"fe9ab8afe416927771980091186846\">sepsis</span> (Yersinia enterocolitica, mucormycosis)</li>\n<li>visual <span class=\"customMeta\" data-dictid=\"d3323d4b271692777200122ea879e5\">toxicity</span> (low iron stores)</li>\n<li>ototoxicity (abnormal audiograms),</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Pulmonary <span class=\"customMeta\" data-dictid=\"d3323d4b271692777200122ea879e5\">toxicity</span> (high doses)</li>\n<li>Hypotension (rate-related)</li>\n<li>Renal <span class=\"customMeta\" data-dictid=\"d3323d4b271692777200122ea879e5\">toxicity</span> (elevated creatinine).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Additional Treatments</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Continuous <span class=\"customMeta\" data-dictid=\"3c19af349e16927771825f314a4a84\">arteriovenous</span> <span class=\"customMeta\" data-dictid=\"b1ee0dbe9016927771880b6c428ffc\">hemofiltration</span> (CAVH) for severe poisoning.</li>\n<li>Liver <span class=\"customMeta\" data-dictid=\"ee9f07b0a81692777200e416e4e5d7\">transplantation</span> for <span class=\"customMeta\" data-dictid=\"104c254ce81692777203458937f730\">fulminant</span> <span class=\"customMeta\" data-dictid=\"3268e86ce01692777188f249c64d6e\">hepatic</span> failure.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ba085756"
+    }
+  ]
+}

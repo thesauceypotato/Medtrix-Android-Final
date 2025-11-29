@@ -1,0 +1,574 @@
+{
+  "meta": {
+    "id": "test92",
+    "title": "Lung Physiology (Part 1)",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 30-year-old male presents with diarrhea, confusion, high-grade fever, bilateral pneumonitis, and increasing shortness of breath. He returned from a cruise two days ago. Which pathogenic agent is suspected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Legionella",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pneumocystis jiroveci",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Legionella",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Legionella The clinical scenario suggests ATYPICAL PNEUMONIA caused by legionella. It is associated with high-grade fever, confusion, and diarrhea .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Pneumocystis jiroveci- It is HIV/AIDS-defining opportunistic infection. The clinical manifestations include profound weight loss, fever, dyspnea, non-productive cough, and other features of atypical pneumonia. Atypical manifestations include nodular lesions, cavitary lesions, etc. Option: C. Pseudomonas aeruginosa is the most common cause of ventilator-acquired pneumonia in patients hospitalized for prolonged periods. Option: D. Streptococcus pneumonia presents with high fever and pleuritic chest pain. The patient may complain of rusty sputum . The patient usually does not present with diarrhea or neurological abnormalities.</p>\n<p><strong>Extraedge:</strong></p><p>Legionnaire\u2019s disease presents as atypical pneumonia. Diarrhea is reported in 25-50% of the cases. The most common neurological abnormalities are confusion or change in mental status.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a17ef741",
+      "audio": ""
+    },
+    {
+      "text": "An 18-year-old girl was brought to the casualty with complaints of shortness of breath, chest tightness, tachycardia, dizziness, and numbness in her hands. She gives a history of a breakup with her boyfriend recently. She complained of anxiety and nervousness, and difficulty sleeping. On examination, her breathing is rapid and profound .systemic examination is within normal limits. Which of the following finding is seen in this patient? (paco2:alveolar co2,pAco2:arterial co2,pao2:alveolar oxygen)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased paco2, decreased pAco2, and decreased pao2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased paco2, increased pAco2, and increased pao2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreased paco2, decreased pAco2, and increased pao2",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increased paco2, increased pAco2, and decreased pao2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Decreased paco2, decreased pAco2, and increased pao2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreased paco2, decreased pAco2, and increased pao2 The clinical history above suggests hyperventilation due to anxiety or panic attacks. During hyperventilation, breathing is fast and rapid, eliminating more carbon dioxide from the body, which decreases arterial and alveolar co2.</p>\n<p><strong>Highyeild:</strong></p><p>Since pao2(alveolar oxygen)=pio2(inspired oxygen)-paco2(alveolar co2) In this case, paco2 is decreased, and applying it to the above equation, pao2 increases</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Increased paco2, decreased pAco2, and decreased pao2 is a wrong statement as in hyperventilation, there will be reduced paco2 and increased pao2; Option: B. Decreased paco2, increased pAco2, and increased pao2 is a wrong statement as in hyperventilation; there will be decreased paco2 and decreased pAco2, Option: D. Increased paco2, increased pAco2, and decreased pao2 is a wrong statement as in hyperventilation, there will be reduced paco2 and increased pao2,</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "61fecdca",
+      "audio": ""
+    },
+    {
+      "text": "A 72-year-old woman was admitted to the ICU with lobar pneumonia. Her oxygen saturation is 84%with oxygen and 62% in room air.the ventilator is set in assisted control mode with respiratory rate24,tidal volume of 5ml/kg,fio2 1 and peep 12 cmh2o. An ABG is performed; the results are ph:7.2,pco2;32, and po2:52. the alveoli-arteriolar gradient is also increased in this patient. What is the cause of hypoxemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypoventilation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Shunt",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ventilation-perfusion mismatch",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hypoventilation and ventilation-perfusion mismatch",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Shunt",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Shunt Alveolo-arteriolar gradient=pao2-pao2 As the alveoli-arteriolar gradient is increased , in this case, hypoventilation can be ruled out. Because in hypoventilation, the patient cannot breathe in, therefore and adequately, pao2 decreases, further decreasing the gradient .</p>\n<p><strong>Highyeild:</strong></p><p>Therefore, in the above-given question cause can be a shunt or a v/q mismatch. In this case, po2 is not improved despite increasing the fio2.this is suggestive of the Causes of a shunt include atelectasis, intra-alveolar filling process, intrapulmonary vascular malformation, or cardiac disease leading to the right to left shunt . In this case, the patient has lobar pneumonia leading to alveoli that are being perfused but cannot participate in gas exchange since they are filled with pus. V/q mismatch is the most common cause of hypoxemia, but in v/q mismatch, po2 improves by giving 100% oxygen.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Hypoventilation is a wrong answer because, in hypoventilation, the patient cannot breathe properly. Therefore, pao2 decreases, which further decreases the gradient Option: C. Ventilation-perfusion mismatch is a wrong answer, as V/q mismatch is the most common cause of hypoxemia. Still, in v/q mismatch, po2 improves on giving 100% oxygen. Option: D. Hypoventilation and ventilation-perfusion mismatch is a wrong answer, as explained above. It doesn't satisfy the above condition.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "95d44b34",
+      "audio": ""
+    },
+    {
+      "text": "A 27-year-old male patient is brought to the casualty in a passive state. On examination pr:120, bp:80/50,rr:32.on physical examination, the patient is grossly dehydrated.grbs:475mg/dl. He exhibits a specific pattern of breathing: rapid and shallow breaths. Which of the following will be the change seen in this patient's oxygen-hemoglobin dissociation curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shift to the right",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Shift to the left",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No change in the curve",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Shift to left at low po2 and shift to the right at high po2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Shift to the right",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Shift to the right The given clinical scenario points towards diabetic ketoacidosis, evidenced by the high blood sugar levels and clinical features, including the deep and shallow breaths known as Kussmauls breathing.</p>\n<p><strong>Highyeild:</strong></p><p>The right shift of the o2-dissociation curve: Increase in temperature Decreased ph Anemia Fever Left shift of the o2-dissociation curve Meth-hemoglobinemia Co poisoning Alkaline ph</p>\n<p><strong>Extraedge:</strong></p><p>Dka is a type of metabolic acidosis that causes a decrease in ph. In acidosis, there is an increase in the h+ ion concentration. Increasing h+ decreases the affinity of hb for o2, and therefore, the curve shifts to the On-shift to the right, affinity decreases, and more oxygen is delivered to tissues. On-shift to left association increases and less oxygen is delivered to tissues.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "003149ca",
+      "audio": ""
+    },
+    {
+      "text": "A 32-year-old man with muscular dystrophy is evaluated for hypoxemia. On physical examination, spo2 was 86% on room air. Chest is clear on auscultation. Chest radiograph shows low lung volumes. Which of the following is the most likely source of low oxygen saturation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mucous plug",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atelectasis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Elevated paco2",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pneumonia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Elevated paco2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Elevated paco2 Look at - Muscular dystrophy Spo2 decreased Chest clear Low lung volumes</p>\n<p><strong>Highyeild:</strong></p><p>The patient has muscular dystrophy and is at risk for the development of hypoventilation. Therefore co2 cannot be adequately eliminated, and this causes a rise in pco2.v/q mismatch and shunt are likely to be present with infiltrates. Thus atelectasis, mucous plug, and pneumonia are not correct answers.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Mucous plug is not the correct answer as v/q mismatch and shunt are unlikely to be present without infiltrates. Option: B. Atelectasis is the wrong answer v/q mismatch and shunt are unlikely to be present without infiltrates, and in atelectasis, there is lung collapse. Option: D. Pneumonia is highly unlikely as v/q mismatch and shunt are unlikely to be present without infiltrates, and in pneumonia, it is mainly about lobe consolidation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9058ebf9",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements regarding ventilation and perfusion is true? A) ventilation and perfusion are higher at the base of the lung B) ventilation and perfusion are higher at the apex of the lung C) from base to apex v/q ratio decreases D) ventilation is more at the base because compliance is more at the base E) midpoint of lungs has best v/q ratio and is equal to 1 Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A and c is true",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A, c, and d is true",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A, d and e are true",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A, b, c, d and e is true",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A, d and e are true",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A, d and e are true Ventilation and perfusion are more in the lower part of the lungs, and v/q ratio is low in the base of the lungs.</p>\n<p><strong>Highyeild:</strong></p><p>From the base to the apex V/q ratio increases. Ventilation and perfusion decrease As we know, compliance =v/p Since we know ventilation is more at the base of the lung, compliance is also more at the base of the lung. V/q ratio is best at the midpoint of lungs, and it equals 1</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5e436fc2",
+      "audio": ""
+    },
+    {
+      "text": "A 52-year-old male patient presents with a cough of 1-month duration, occasional shortness of breath, hemoptysis, and mild chest discomfort. She had periodic night sweats. She also recently noticed weight loss. On examination, bp 140/90,pr:82,rr:18,temperature:37.9.few small 2-3 mm non-tender freely movable lymph nodes in the left anterior cervical and axillary area. On chest examination, normal breath sounds and air entry. a few rules are noted occasionally. On a chest x-ray, cavitations were seen. What is the most likely site of infection and site the reason behind it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Base of the lung because ventilation/perfusion ratio is low in the base",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Base of the lungs because ventilation/perfusion ratio is high in the base",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Apex of the lungs because ventilation/perfusion ratio is low in the apex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Apex of the lungs because ventilation/perfusion ratio is high in the apex",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Apex of the lungs because ventilation/perfusion ratio is high in the apex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Apex of the lungs because ventilation/perfusion ratio is high in the apex The given clinical scenario is a case of secondary tb which is evident by the clinical features and the cavitations</p>\n<p><strong>Highyeild:</strong></p><p>Primary tb Usually affects the base of the lungs Presents with minimal symptoms Associated with hilar lymph node enlargement Secondary tb Usually affects apex of the lungs Highly symptomatic and highly infectious Associated with cavitations in the lungs Tb proliferates more in the apex because v/q ratio increase in the apex and there is increased o2 tension in the apex. In the apex, since the perfusion is less, less o2 goes to circulation, and hence the o2 tension is high in the apex. In the base, since the perfusion is more, more oxygen goes to circulation, and therefore, o2 tension is low in the base</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. base of the lung because ventilation/perfusion ratio is low in the base is an incorrect statement and is a factual error as the site of infection in the apex and not in the base Option: B. base of the lungs because ventilation/perfusion ratio is high in the base is an incorrect statement and is a factual error as the site of infection in the apex and not in the base Option: C. apex of the lungs because ventilation/perfusion ratio is low in the apex is an incorrect statement and is a factual error as the site of infection in the apex and ventilation/perfusion ratio is high in the apex</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cbf50518",
+      "audio": ""
+    },
+    {
+      "text": "A 92-year-old bedridden female was brought to the emergency department with a history of chest pain, shortness of breath, fever, foul smelling sputum. On examination, the patient is tachycardic. On respiratory system examination, wheeze was present, and air entry was reduced. Which of the following is the most common site involved",
+      "options": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "18",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "19",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 6",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683855953514-QTDM149009IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>6 The given clinical features in a bedridden old age female are suggestive of aspiration pneumonia. Bronchopulmonary segments of lung</p>\n<p><strong>Extraedge:</strong></p><p>Right lung(upper lobe) left lung (upper lobe) 1-apical 11-apical 12-anterior 3-anterior 13-superior singular Middle lobe 14-inferior singular 4-lateral 20-posterior 5-medial lower lobe Lower lobe 15-medial basal 6-superior 16-anterior basal 7. medial basal 17-lateral basal 8-anterior basal 18-posterior basal 9-lateral basal 19-superior 10-posterior basal In erect position: aspiration is mainly involved in right lower lobe posterobasal segment In supine position: aspiration is mainly involved in the right lower lobe superior segment 2nd most common involved is right upper lobe posterior segment It is due to right bronchial angle, there is more tendency to involve right lung than left lung in aspiration.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7f2dd1dc",
+      "audio": ""
+    },
+    {
+      "text": "A 10-year-old boy presents with intermittent wheezing and cough. His mother reports that these episodes are precipitated by physical exercise. There is a history of atopic dermatitis in his mother. Pft is done. Which of the following is least likely to be found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased fev1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased rv",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreased mefr",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreased diffusion capacity",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Decreased diffusion capacity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreased diffusion capacity The given clinical scenario is suggestive of asthma. Diffusion capacity of lungs for co tends to be normal or high in these patients. Causes of decreased dico causes of increased dico \u25cf       Ards \u25cf       Fibrosis/ild \u25cf       Severe emphysema \u25cf       Anemia \u25cf       Pulmonary hypertension \u25cf       Pulmonary thromboembolism polycythemia exercise asthma alveolar hemorrhage Asthma has obstructive pattern .therefore fev1 is decreased. Mefr is also decreased</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Decreased fev1 is the wrong answer is usually seen in asthma as it is an obstructive lung disease Option: B. Increased rv is the wrong answer because it is seen in asthma Option: C. Decreased mefr is the wrong answer as it is seen in asthma as it has an obstructive pattern</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b68c938c",
+      "audio": ""
+    },
+    {
+      "text": "A 35-year-old male is evaluated for infertility. He has never fathered any children, and after two years of unprotected intercourse, his wife has not achieved pregnancy. Sperm analysis shows a normal number of sperms, but they are immotile. His past medical history is notable for recurrent sinopulmonary infections, and the patient was recently told that he has bronchiectasis. Chest radiography is likely to show which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hilar lymphadenopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bilateral upper lobe infiltrates",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Normal findings",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Situs inversus",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Situs inversus",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Situs inversus Explanation-the combination of infertility and recurrent sinopulmonary infection prone to an underlying disorder of ciliary dysfunction that is termed as primary ciliary dyskinesias. All organ systems that require ciliary functions are affected. The lungs rely on cilia to beat respiratory secretions proximally and remove bacteria. In the absence of this normal defense, recurrent bacterial infections occur and lead to bronchiectasis. Sperm requires cilia to provide motility.</p>\n<p><strong>Highyeild:</strong></p><p>Kartagener\u2019s syndrome combines sinusitis, bronchiectasis, and situs inversus. Cystic fibrosis is associated with infertility and bilateral upper lobe infiltrates . It causes a decreased number of sperms due to the congenital absence of vas deferens</p>\n<p><strong>Extraedge:</strong></p><p>Sarcoidosis is associated with bilateral lymphadenopathy but not infertility.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d749378e",
+      "audio": ""
+    },
+    {
+      "text": "A 32-week preterm newborn baby is born with severe respiratory distress. On examination, the child is tachypneic and cyanosed. X-ray shows bilateral white-out lung fields and reticulonodular shadows .which of the following is likely to be seen in this infant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surfactant deficiency, decreased surface tension and increased compliance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Surfactant deficiency, increased surface tension and decreased compliance",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Surfactant deficiency, decreased surface tension and decreased compliance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Surfactant deficiency, increased surface tension, and increased compliance",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Surfactant deficiency, increased surface tension and decreased compliance",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Surfactant deficiency, increased surface tension and decreased compliance The above clinical picture represents respiratory distress syndrome or hyaline membrane disease. It is seen in preterm infants born < 35 weeks due to a surfactant deficiency. Surfactant production starts at 20 weeks and peaks at 35 weeks</p>\n<p><strong>Extraedge:</strong></p><p>Main function of surfactant is to decrease the surface tension and prevent alveolar collapse and increase the compliance of the lung In other words, surfactant \u03b1 1/surface tension surfactant \u03b1 compliance surface tension \u03b1 1/compliance</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "01280ee4",
+      "audio": ""
+    },
+    {
+      "text": "Given below are some of the statements regarding pulmonary surfactants. Which of the following statements is true? A) surfactant is produced by type 1 pneumocyte B) major component of surfactant is dipalmitoyl phosphatidylcholine C) glucocorticoids help in increasing the production of surfactant D) thyroid hormone decrease the production of surfactant E) babies born to diabetic mother are more likely to develop rds Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A,b,c, and e is correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A,c and e is correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "B,c, and e is correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "B,c,d and e is correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. B,c, and e is correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>B,c, and e is correct Surfactants are produced by the type 2 pneumocytes. Its production starts at 20 weeks and peaks at around 35 weeks. therefore, preterm babies develop rds due to surfactant deficiency.</p>\n<p><strong>Extraedge:</strong></p><p>Thyroid hormone increases type 2 pneumocyte activity. therefore patients of hypothyroidism are more prone to develop rds Insulin decreases type 2 pneumocyte activity. therefore babies born to diabetic mothers are more likely to develop rds Glucocorticoids increase type 2 cell maturation. therefore preterm babies are given steroids</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a9732a5c",
+      "audio": ""
+    },
+    {
+      "text": "A 53-year-old female presents with progressive dyspnoea on exertion, low-grade fevers, and weight loss over six months. she also complains of a dry cough with occasional thick mucoid sputum. there is no past medical history. on physical examination, the patient appears dyspneic with minimal exertion. the patient's temperature is 37.9 degree Celsius,spo2 91% room air. faint basilar crackles are heard at the base. act scan reveals bilateral alveolar infiltrates that are perihilar with a mosaic pattern. the patient undergoes bronchoscopy with bronchoalveolar lavage. the effluent appears milky. the cytopathology shows amorphous debris with PAS-positive macrophages. what is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bronchiolitis obliterans organizing pneumonia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Desquamative interstitial pneumonitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary alveolar proteinosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pneumocystis carinii pneumonia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pulmonary alveolar proteinosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Pulmonary alveolar proteinosis Pulmonary alveolar proteinosis is a rare disorder .3 distinct subtypes have been described: congenital, acquired, and secondary(associated with silicosis or hematological malignancies). the pathogenesis is due to antibodies to granulocyte\u2013macrophage colony-stimulating factor(gm-csf)in acquired disease. There is the failure of clearance of surfactant. These patients typically present with subacute dyspnoea on exertion with fatigue and low-grade fevers. Classical ct appearance is described as\u201d crazy pavement \u201c with ground glass infiltrates in a perihilar distribution and intervening areas of normal lung. BAL is diagnostic with large amounts of amorphous proteinaceous materials seen. macrophages filled with past positive materials seen. treatment of choice is whole lung lavage.</p>\n<p><strong>Highyeild:</strong></p><p>Bronchiolitis obliterans occurs due to obstruction of small airways in the lung, which is caused by respiratory infections such as rsv. ct is characterized by bronchial dilatation and air trapping on expiratory images. Desquamative interstitial pneumonia is a smoking-related ild.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. Bronchiolitis is obliterans organizing pneumonia is the wrong answer since Bronchiolitis obliterans occurs due to obstruction of small airways in the lung caused by respiratory infections such as respiratory infections such as rsv. ct is characterized by bronchial dilatation and air trapping on expiratory images. Option: B. Desquamative interstitial pneumonitis is the wrong answer since It causes respiratory symptoms, including indolent cough and dyspnea. Characteristic findings on computed tomography include bilateral ground-glass opacities, septal thickening, and preserved structure. Option: D. Pneumocystis carinii pneumonia is the wrong answer since Pneumocystis carinii pneumonia is seen in immunocompromised like HIV. It is a type of interstitial pneumonia.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "caee6df9",
+      "audio": ""
+    },
+    {
+      "text": "An elderly woman presents with breathlessness on exertion. On auscultation, bilateral basal rales are heard. the chest cut shows a honeycomb appearance. all of the following are decreased in her except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-a gradient",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "lung compliance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "total vital capacity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "forced vital capacity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. A-a gradient",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A-a gradient The above-given clinical features and ct findings suggest interstitial lung disease(ild). the alveolar-arterial gradient (pao2-pao2) is increased in ild as there is a decrease in diffusion capacity .therefore, while pao2 (alveolar oxygen)remains normal, the pao2(arterial)decreases, and the gradient increases</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. lung compliance is the incorrect answer since lung compliance is highly decreased in ILD Option: C. total vital capacity is the wrong answer since VC is reduced in ild which is of restrictive lung disease pattern Option: D. forced vital capacity is the wrong answer since FVC is reduced in restrictive lung diseases</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6be66b2e",
+      "audio": ""
+    },
+    {
+      "text": "The respiratory system is diagrammed with a transparent lung to emphasize airflow into and out of the system. The enlargement of the boxed area from A shows the transition from conducting airway to respiratory airway in B, emphasizing the anatomy of the alveoli. Red and blue represent oxygenated and deoxygenated blood, respectively. Identify the correct match for 1,2,3, and 4 from the following.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1= alveoli, 2= respiratory bronchiole, 3= branches of the pulmonary vein, 4= branches of pulmonary artery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1= respiratory bronchiole, 2= alveoli, 3= branches of the pulmonary vein, 4= branches of pulmonary artery",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1= alveoli, 2= respiratory bronchiole, 3= branches of the pulmonary artery, 4= branches of pulmonary vein",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1= respiratory bronchiole, 2= alveoli, 3= branches of pulmonary artery, 4= branches of pulmonary vein",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1= alveoli, 2= respiratory bronchiole, 3= branches of the pulmonary artery, 4= branches of pulmonary vein",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683855953632-QTDM149017IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1= alveoli, 2= respiratory bronchiole, 3= branches of the pulmonary artery, 4= branches of pulmonary vein Pulmonary artery transport deoxygenated blood from heart to lungs. Pulmonary vein carry oxygenated blood from lungs to heart. These pulmonary veins drain oxygenated blood into left atrium. Alveoli are the smallest unit of gas exchange, they are the terminal most globular part of lungs. Respiratory bronchiole is first part of respiratory zone of lungs.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. 1= alveoli , 2= respiratory bronchiole , 3= branches of pulmonary vein , 4= branches of pulmonary artery is an incorrect answer as 3 should be pulmonary artery and not pulmonary vein  as it contains deoxygenated blood as seen in the diagram Option: B . 1= respiratory bronchiole , 2= alveoli , 3= branches of pulmonary vein , 4= branches of pulmonary artery is an incorrect answer as 3 should be pulmonary artery and not pulmonary vein as it contains deoxygenated blood as seen in the diagram Option: D. 1= respiratory bronchiole , 2= alveoli , 3= branches of pulmonary artery , 4= branches of pulmonary vein is an incorrect answer as 1 should be alveoli and not respiratory bronchioles as it is the most terminal part of lungs.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "59bb6c02",
+      "audio": ""
+    },
+    {
+      "text": "Two types of epithelial cells line the alveoli. \u2019A\u2019 are flat cells with large cytoplasmic extensions and are the primary lining cells of the alveoli, covering approximately 95% of the alveolar epithelial surface area. \u2018B\u2019 is thicker and contains numerous lamellar inclusion bodies. A primary function of these cells is to secrete surfactant; however, they are also important in alveolar repair and other cellular physiology. Identify cell types \u2018A\u2019 and \u2018B.\u2019",
+      "options": [
+        {
+          "label": "A",
+          "text": "A= type 2 pneumocytes, B= type 1 pneumocyte",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A= type 1 pneumocytes, B= pulmonary alveolar macrophages",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A= type 1 pneumocyte, B= granular pneumocytes",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A= type 1 pneumocytes, B= mast cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A= type 1 pneumocyte, B= granular pneumocytes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A= type 1 pneumocyte, B= granular pneumocytes Two types of epithelial cells line the alveoli. Type I cells are flat cells with large cytoplasmic extensions and are the primary lining cells of the alveoli, covering approximately 95% of the alveolar epithelial surface area. These type I cells are mainly involved in gaseous exchange across alveoli. Type II cells (granular pneumocytes) are thicker and contain numerous lamellar inclusion bodies. A primary function of these cells is to secrete surfactant; however, they are also crucial in alveolar repair and other cellular physiology. Although these cells comprise approximately 5% of the surface area, they represent about 60% of the epithelial cells in the alveoli. The alveoli also contain other specialized cells, including pulmonary alveolar macrophages (option B) (PAMs, or AMS), lymphocytes, plasma cells, neuroendocrine cells, and mast cells. The mast cells (option D) contain heparin, various lipids, histamine, and various proteases that participate in allergic reactions. (Option A) Type 2 pneumocytes are not involved in the gaseous exchange and are involved in the secretion of surfactant; hence this is the wrong answer</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "64c78640",
+      "audio": ""
+    },
+    {
+      "text": "The patient is a 60-year-old white female presenting to the emergency department with acute onset shortness of breath. She was managed with oxygen therapy and started on antibiotics. The consultant suspected COPD when looking at the barrel-shaped chest of this patient and the associated history. Which of the following is the main factor causing this barrel shape chest in a patient with chronic obstructive pulmonary disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Air trapping and loss of elasticity of lungs cause expansion of the chest",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The tissue that connects the breastbone to the ribs grows too much, causing the appearance of the chest protruding outwards",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Obstruction of the lung airway is the only reason for barreling off the chest in COPD",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Air trapping and loss of elasticity of lungs cause expansion of the chest",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Air trapping and loss of elasticity of lungs cause expansion of the chest The lungs are stretched when they expand at birth, and at the end of quiet expiration, their tendency to recoil from the chest wall is balanced by the movement of the chest wall to recoil in the opposite direction. If the chest wall is opened, the lungs collapse; if they lose their elasticity, the chest expands and becomes barrel-shaped. So, emphysema is associated with a barrel-shaped chest and shows pursed lip breathing as their lungs remain filled with gases and they have less effective gaseous exchange area. Increased compliance of the lungs(decreased elasticity) leads to the accumulation of air pockets inside the thoracic cavity, which increases the intrathoracic pressure. This increase in pressure allows the chest wall to expand outward naturally. Barrel chest generally refers to a broad, deep chest found on a patient. A barrel-chested person will usually have a naturally large ribcage, a very round (i.e., vertically cylindrical) torso, large lung capacity, and can potentially have great upper body strength. So trapping of air due to obstruction and loss of elasticity of the lungs due to cigarette smoking are the causes of barreling of the chest in COPD.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. The tissue that connects the breastbone to the ribs grows too much, causing the appearance of the chest protruding outwards. This is the cause of the pectus excavatum. Option: C. it is not true, obstruction of the airway can lead to air trapping, but it is not the only cause of barreling in COPD. The main reason is the destruction of the elastic tissue of the lung and loss of lung recoil. NOTE - loss of elasticity - causes increased lung compliance - increased lung volume - but this loss of elasticity prevents full expansion of the lung, or airway restriction, during breathing</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1395cf9f",
+      "audio": ""
+    }
+  ]
+}

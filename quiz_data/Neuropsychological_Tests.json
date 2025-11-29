@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "id": "test19",
+    "title": "Neuropsychological Tests",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match the following (with respect to patients with Schizophrenia). Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1=c, 2=b, 3=d, 4=a",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1=d, 2=b, 3=c, 4=a",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1=b, 2=c, 3=a, 4=d",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1=d, 2=c, 3=a, 4=b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1=c, 2=b, 3=d, 4=a",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1689445749898-QTDI023001IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1=c, 2=b, 3=d, 4=a</p>\n<p><strong>Random:</strong></p><p>Explanation of Points:- Point-1 Group therapy, mainly for persons with schizophrenia generally focuses on real-life plans, problems, and Groups may be behaviorally oriented, psychodynamically or insight-oriented, or supportive. Point 2. Cognitive behavioral therapy has been used in schizophrenia patients to improve cognitive distortions, reduce distractibility, and correct errors. Point 3. Personal therapy is a flexible type of psychotherapy whose objective is to enhance personal and social adjustment and forestall relapse. Point 4. Vocational Therapy uses a variety of methods and settings to help patients regain old skills or develop new skills. These include sheltered workshops, job clubs, and part-time or transitional employment programs.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8ac08de6",
+      "audio": ""
+    },
+    {
+      "text": "After showing this image, the patient is asked to describe what he thinks is happening in this photo and describes that story. Identify the test shown below",
+      "options": [
+        {
+          "label": "A",
+          "text": "Projective personality test - Thematic apperception test",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Projective personality test - Rorschach test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Personality assessment inventory",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Personality test - Holtzman inkblot technique",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Projective personality test - Thematic apperception test",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1682887764163-QTDI023002IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Projective personality test - Thematic apperception test In this, the stories that the patient makes up concerning the pictures, according to the projective hypothesis, and the patient's own needs, thoughts, feelings, stresses, wishes, desires, and views of the future are analyzed.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option: B. The Rorschach test is the most frequently used projective personality instrument. The test consists of ten ambiguous symmetrical inkblots. The inkblot card appears as if a blot of ink were poured onto a piece of paper and folded over hence, the symmetrical appearance. Option: C. Personality assessment inventories, the Minnesota Multiphasic Personality Inventory, often give abnormal results in schizophrenia, but the contribution to diagnosis and treatment planning is an objective test. Option: D. Holtzman\u2019s inkblot technique is also a projective personality test.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "006b0573",
+      "audio": ""
+    }
+  ]
+}

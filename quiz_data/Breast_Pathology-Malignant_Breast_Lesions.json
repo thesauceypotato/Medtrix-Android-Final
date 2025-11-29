@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "id": "test6",
+    "title": "Breast_Pathology-Malignant_Breast_Lesions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 35-year-old woman comes to the clinic presenting with swelling in the upper quadrant of her left breast. She reports changes in the skin and surrounding nipple areola complex as well. All of the following are risk factors for this condition except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alcohol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Early menarche",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Age",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multiparity",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Multiparity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Relative risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Female gender.</li>\n<li>Increasing age. (Option C)</li>\n<li>Germline mutations of high penetrance.</li>\n<li>Strong family history (>1 first-degree relative, young age, multiple cancers).</li>\n<li>Personal history of breast cancer.</li>\n<li>High breast density.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>>4.0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Germline mutations of moderate penetrance.</li>\n<li>High-dose radiation to the chest at a young age.</li>\n<li>Family history (1 first-degree relative).</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2.1-4.0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Early <span class=\"customMeta\" data-dictid=\"642d0c7609169277719265439d8047\">menarche</span> (age <12 years). (Option B)</li>\n<li>Late <span class=\"customMeta\" data-dictid=\"516cc2e77d169277719213e7926b59\">menopause</span> (age >55 years).</li>\n<li>Late first pregnancy (age >35 years).</li>\n<li>Nulliparity.</li>\n<li>Absence of breastfeeding.</li>\n<li>Exogenous hormone therapy.</li>\n<li>Postmenopausal obesity.</li>\n<li>Physical inactivity.</li>\n<li>High alcohol consumption. (Option A)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1.1-2.0</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Relative risk is the likelihood of developing <span class=\"customMeta\" data-dictid=\"1c5272ad3d1692777190e71409d07a\">invasive</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> compared to women without any risk factors.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Protective factors </strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Early full term pregnancy</li>\n<li>Multiparity</li>\n<li>Lactation and breastfeeding</li>\n<li>Late <span class=\"customMeta\" data-dictid=\"642d0c7609169277719265439d8047\">menarche</span> and early menopause</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "217c069d"
+    },
+    {
+      "text": "Mutations in which of the following genes is not associated with breast cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BRCA1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "STK11",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CDH1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CHEK1",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CHEK1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:610px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High <span class=\"customMeta\" data-dictid=\"cd2e83c3ad1692777195dad2ab75ec\">penetrance</span> mutations (>4-fold risk, 3-7% of breast cancers)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gene</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>% of single-cell cancers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Associated tumors</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BRCA1 <strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>55%</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast, ovarian (~20%\u201340%), <span class=\"customMeta\" data-dictid=\"efc83dab2c1692777202b5d1d06c4f\">fallopian</span> tube, pancreas, and prostate.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BRCA2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>35%</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Breast, ovarian (~10%\u201320%), pancreas, and prostate.</li>\n<li>Associated with male breast cancer.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>TP53</p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p><1%</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast, sarcoma, leukemia, and brain tumors.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PTEN</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast, thyroid, and endometrium.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>STK11 <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast, ovarian, colon, and pancreas.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CDH1<strong> (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast, <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> <span class=\"customMeta\" data-dictid=\"3ed98cf4b71692777198c4a2ea968a\">signet ring</span> cell carcinoma, and colon.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PALPB2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast, pancreas, and prostate.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate <span class=\"customMeta\" data-dictid=\"cd2e83c3ad1692777195dad2ab75ec\">penetrance</span> <span class=\"customMeta\" data-dictid=\"7fdc76e59a169277718826b9b9806d\">germline</span> mutations (2- to 4-fold increased risk; 5-10% of breast cancers)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>ATM</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p>5%</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CHEK2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Prostate, thyroid, colon, and kidney.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7b7a5671"
+    },
+    {
+      "text": "A 52-year-old woman presents for her routine mammogram, which reveals microcalcifications in the right breast. She has no significant family history of breast cancer and is asymptomatic. A core needle biopsy is performed, and the histopathological image is shown below. Based on histopathology, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Invasive Ductal Carcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lobular Carcinoma in Situ",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ductal Carcinoma in Situ",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fibroadenoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ductal Carcinoma in Situ",
+      "question_images": [
+        "https://image.prepladder.com/notes/Yb6cwBEYVwkjnjq9a7Ef1731553874.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/JhrUxAkeXC9u3fmjozfz1737601909.png",
+        "https://image.prepladder.com/content/5XkVU3LhpPpLSaP7xWIK1737601960.png",
+        "https://image.prepladder.com/content/JZuYI0Kn6ncBdDap3eeD1737602052.png",
+        "https://image.prepladder.com/content/HnvNLP5DMmJG4ukGDGi31737602116.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:576px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Comedo</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It may occasionally produce a vague nodularity but is often detected as clustered or <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> and branching areas of calcification.</li>\n<li>Two features define it:\n\t\t\t\t<ul>\n<li>Tumor cells with pleomorphic, <span class=\"customMeta\" data-dictid=\"ffb779b5ad1692777189091a0aef76\">high-grade</span> nuclei.</li>\n<li>Areas of central necrosis.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cribriform</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It has rounded (cookie cutter\u2013like) spaces, often filled with calcified <span class=\"customMeta\" data-dictid=\"9e7aec9ff416927771984a1e3100b7\">secretory</span> material.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Micropapillary</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It produces complex <span class=\"customMeta\" data-dictid=\"fe824aa5561692777183e979333339\">bulbous</span> protrusions without <span class=\"customMeta\" data-dictid=\"a415391b321692777202ff36543c1c\">fibrovascular</span> cores.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Papillary</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It produces true <span class=\"customMeta\" data-dictid=\"c948d4dca7169277719474a468ff5e\">papillae</span> with <span class=\"customMeta\" data-dictid=\"a415391b321692777202ff36543c1c\">fibrovascular</span> cores that lack a <span class=\"customMeta\" data-dictid=\"3014a71dee1692777193ddfcad6aa3\">myoepithelial</span> cell layer.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Solid</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The <span class=\"customMeta\" data-dictid=\"6198b5f22b16927771867e4ef8108f\">duct</span> is full of cells and becomes solid.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Im4dedRY4BgS8XJ6cMLu1745562956.mp3",
+      "video": "",
+      "uid": "1c6cc4ef"
+    },
+    {
+      "text": "A 45-year-old woman presented with a palpable breast lump detected during a routine self-examination. A biopsy confirmed the diagnosis of infiltrating ductal carcinoma (IDC). Which of the following is not a subtype of IDC? 1. Tubular carcinoma 2. Medullary carcinoma 3. Colloid carcinoma 4. Lobular carcinoma 5. Papillary carcinoma 6. Apocrine carcinoma 7. Secretory carcinoma 8. Myofibroblastoma 9. Angiosarcoma",
+      "options": [
+        {
+          "label": "A",
+          "text": "3, 4, 8, 9",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4, 6, 8",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 4, 7, 9",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4, 8, 9",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 4, 8, 9",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "97d310a9"
+    },
+    {
+      "text": "A 50-year-old woman presents with discomfort in her left breast. Mammography reveals a suspicious mass. Ultrasound-guided core needle biopsy is performed. Based on the histopathological findings, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lobular carcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ductal carcinoma in situ",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Medullary carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mucinous carcinoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Mucinous carcinoma",
+      "question_images": [
+        "https://image.prepladder.com/content/6dxeLt1EgSxOo7nwG1OK1737602657.png",
+        "https://image.prepladder.com/content/CPiorWS0fUeIa3bz6muV1737602712.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/L8egjnvNHwRBt2rKznan1737603060.png",
+        "https://image.prepladder.com/content/PGnr47ErKqziebRYSMNU1737602582.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:670px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Gross <span class=\"customMeta\" data-dictid=\"54e0888a6616927771945a99208287\">pathology</span> (upper left) of biopsies of <span class=\"customMeta\" data-dictid=\"2f72b35d711692777193801d8e084d\">mucinous</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> shows <span class=\"customMeta\" data-dictid=\"be6fe9c6c316927771889dbaaf2b89\">gelatinous</span> areas (which are <span class=\"customMeta\" data-dictid=\"fb59d538e21692777200b3702d4802\">transparent</span> compared to normal yellow <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> tissue). <span class=\"customMeta\" data-dictid=\"d69566338f1692777189ff10521054\">Histopathology</span> shows clusters or nests of tumor cells floating in pools of <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> mucin.</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mc86vbVmazoEm30sDWXP1747671769.mp3",
+      "video": "",
+      "uid": "4f87396e"
+    },
+    {
+      "text": "Which of the following is associated with the worst prognosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paget\u2019s disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metaplastic carcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Medullary carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inflammatory carcinoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Inflammatory carcinoma",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/WrfVOG9tl7ai1ubklSCy1731555544.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ece80e87"
+    },
+    {
+      "text": "A 60-year-old woman presents with a newly diagnosed left-sided breast mass on routine mammography. Core needle biopsy shows the following findings. Further molecular study revealed the involvement of the CDH1 gene. Which of the following statements are incorrect concerning this type of breast cancer? 1) Increased E-cadherin expression is observed in tumor cells. 2) Minimal desmoplasia and fibrosis were observed on microscopy. 3) A contralateral breast examination is usually required due to bilateral involvement. 4) It is associated with a poor prognosis compared to other types of breast cancer. 5) Metastatic spread affects leptomeninges and retroperitoneum.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3, 4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 2, 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 4",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 4, 5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1, 4",
+      "question_images": [
+        "https://image.prepladder.com/notes/AAq5qS0As37dtxU0EHf41731555907.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/AAq5qS0As37dtxU0EHf41731555907.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4115a243"
+    },
+    {
+      "text": "Consider the following statements about Paget's disease of the breast? 1. It is an in-situ cancer. 2. Presence of Paget cells is needed for diagnosis. 3. Underlying carcinoma is usually LCIS. 4. Immunostaining is positive for carcinoembryonic antigen (CEA). Which of the above are true statements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,3, and 4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1,2, and 4",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1,2, and 3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1,2, and 4",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/FEhOs0fIQdWacPqgG8zL1737603671.png",
+        "https://image.prepladder.com/content/LCBcY7V2wefXa0hKsgJD1737603576.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Paget\u2019s Disease of Bone (Osteitis Deformans) </strong>is a chronic disorder of <span class=\"customMeta\" data-dictid=\"f8406817f21692777183176660cf3d\">bone remodeling</span> characterized by excessive <span class=\"customMeta\" data-dictid=\"17d9369c3f1692777183b01f1dc72f\">bone resorption</span> followed by disorganized bone formation.</p>\n<ul>\n<li>Presents with Bone pain, deformities (e.g., bowed legs, enlarged skull), <span class=\"customMeta\" data-dictid=\"c0c247b89916927771948bc5e6d39c\">pathological</span> fractures and <span class=\"customMeta\" data-dictid=\"f3f80e5bee1692777188f6eb1c4005\">hearing loss</span> (if skull is affected- <span class=\"customMeta\" data-dictid=\"6b7b5460171692777185e6e2475f8c\">cranial</span> nerve compression)</li>\n<li>X-ray - Mixed <span class=\"customMeta\" data-dictid=\"d54da38aaa1692777191560f60c0f9\">lytic</span> and <span class=\"customMeta\" data-dictid=\"934e9f88af169277719847f1a0728f\">sclerotic</span> lesions \"Cotton wool\" appearance in skull and thickened <span class=\"customMeta\" data-dictid=\"721937292f1692777185048f04ce29\">cortical</span> bone</li>\n<li>Complications: <span class=\"customMeta\" data-dictid=\"720567fecd169277719411dda3d1a2\">Osteoarthritis</span> Fractures Sarcomatous transformation (osteosarcoma)</li>\n<li>Treatment: Bisphosphonates and <span class=\"customMeta\" data-dictid=\"cc4b4052651692777183edb479e5b9\">Calcitonin</span> for pain relief</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Paget\u2019s</strong> <strong>Disease of the Vulva</strong> is a rare <span class=\"customMeta\" data-dictid=\"74b2ee426f169277719000793323ba\">intraepithelial</span> <span class=\"customMeta\" data-dictid=\"362992dbb11692777180f9017fc04d\">adenocarcinoma</span> of the vulva, often associated with underlying malignancy.</p>\n<ul>\n<li>Presents with <strong>pruritus</strong> (persistent itching), <strong>erythematous</strong>, <strong>scaly</strong>, or <strong>velvety</strong> <strong>lesions</strong> on the vulva, burning sensation or discomfort</li>\n<li>Histopathology: Large cells with abundant pale <span class=\"customMeta\" data-dictid=\"728bb228361692777185b98c34534b\">cytoplasm</span> (<strong>Paget</strong> <strong>cells</strong>) within the <span class=\"customMeta\" data-dictid=\"e4c62a77731692777187b9c7ded25d\">epidermis</span> Diagnosis: <span class=\"customMeta\" data-dictid=\"754ab07a2e1692777183ed178c883d\">Biopsy</span> + Immunohistochemistry: <strong>Positive</strong> for <strong>CK7</strong> and <strong>CEA</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "25bc6af8"
+    },
+    {
+      "text": "You are provided with results of receptor status from the biopsy obtained from a patient\u2019s breast lump. You realize that her molecular subtype carries a low proliferative rate and a better prognosis. Which of the following will not be the likely histological subtype in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tubular carcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Medullary carcinoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Papillary carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mucinous carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Medullary carcinoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Classification</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hormone receptor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>HER2/Neu</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Others</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Luminal A</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Positive (either or both ER/PR)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ki-67 low</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Luminal B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Positive (either or both ER/PR)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative / Positive</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ki-67 high</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Basal type (triple -ve)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ki-67 usually high</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HER2/neu enriched</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Positive</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ki-67 high</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Claudin low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Claudin low</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Luminal A (Low <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">proliferation</span> rate)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Tubular <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> <strong>(Option A ruled out).</strong></li>\n<li>Papillary <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> (<strong>Option C ruled out).</strong></li>\n<li>Mucinous <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> <strong>(Option D ruled out).</strong></li>\n<li>Low-grade ILC.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Luminal B (High <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">proliferation</span> rate)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High-grade ILC.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HER2/Neu rich</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Apocrine carcinoma.</li>\n<li>Micropapillary carcinoma.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Triple-negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Medullary carcinoma.\u00a0<strong>(Option B)</strong></li>\n<li>Metaplastic carcinoma.</li>\n<li>Secretory carcinoma.</li>\n<li>Adenoid <span class=\"customMeta\" data-dictid=\"38c41e122116927771859b63deb0ed\">cystic</span> carcinoma.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4c9fcb24"
+    },
+    {
+      "text": "A patient with a lump in her left breast is subjected to a biopsy. Subsequent immunohistochemistry was done and the image is given below. After an MDT discussion, a decision was made to prescribe Trastuzumab as the appropriate management for this patient. What would have been the diagnosis based on the above clinical scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Apocrine carcinoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Medullary carcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tubular carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Papillary carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Apocrine carcinoma",
+      "question_images": [
+        "https://image.prepladder.com/notes/xd3EA7847vzsv3OZcTV41731556745.jpg"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/IrT65ljUbUFYXDqGQtD11737604182.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "138da8fa"
+    },
+    {
+      "text": "A biopsy taken from a patient's breast lump is subjected to histopathological examination. Upon staining, it is found to be a luminal breast carcinoma with a high proliferative rate. Overexpression of which of the following cellular proteins has led to this interpretation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha catenin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Arp-2/3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ki-67",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Vimentin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ki-67",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/kA286S6bm7w3iNE2rgmF1737604345.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5a5c3c05"
+    },
+    {
+      "text": "Which of the following parameters is not assessed in the Bloom-Richardson scoring system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nuclear size",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tubule formation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Size of the tumor",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mitotic count",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Size of the tumor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:348px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Score</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Grade</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3-5</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>I</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6 or 7</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>II</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>8 or 9</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7176bd6c"
+    }
+  ]
+}

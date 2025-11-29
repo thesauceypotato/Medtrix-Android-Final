@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "id": "test23",
+    "title": "Endocrinology-Thyroid_Gland",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which system is widely used for reporting thyroid cytopathology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TIRADS",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gleason System",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bethesda System",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Duke Classification",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Bethesda System",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:688px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk of <span class=\"customMeta\" data-dictid=\"0c7efd2b8716927771914c8cb19e54\">malignancy</span> (%)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Usual management</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-diagnostic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5-20</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Repeat FNAC with <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> guidance</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Benign</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2-7</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Clinical and <span class=\"customMeta\" data-dictid=\"250ea353d2169277719853a4313f1b\">sonographic</span> follow-up</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Atypia of undetermined significance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>13-30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Repeat FNAC, molecular testing, <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">diagnostic</span> lobectomy, or surveillance</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Follicular neoplasm</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>23-34</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Molecular testing, <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">diagnostic</span> lobectomy</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suspicious for malignancy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>67-83</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Molecular testing, lobectomy, or near-total thyroidectomy</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Malignant</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>97-100</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lobectomy or near-total thyroidectomy</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "335121a3"
+    },
+    {
+      "text": "You are examining a high-resolution microscopic image of thyroid tissue. Which of the following depicts cells responsible for the secretion of calcitonin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B",
+      "question_images": [
+        "https://image.prepladder.com/content/RLENqWCCCzPnHzuIN5w91737648349.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "edf6edcc"
+    },
+    {
+      "text": "A 35-year-old female presents with fatigue, weight gain, and cold intolerance. On physical examination, she has diffuse goitre and dry skin. Histopathological examination shows lymphoid infiltration, atrophic thyroid follicles lined in many areas by epithelial cells with abundant eosinophilic, granular cytoplasm as shown below. What is the likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grave\u2019s disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thyroid nodule",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Papillary carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hashimoto thyroiditis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Hashimoto thyroiditis",
+      "question_images": [
+        "https://image.prepladder.com/content/TakzYugrf48PKtcJAPz81737648666.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/zDdgS6nBz37rG0HAIRKY1737648632.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/e94Ecg2pNJlGvXQz02q81747818824.mp3",
+      "video": "",
+      "uid": "b520203d"
+    },
+    {
+      "text": "Which of the following antibodies are elevated in a patient of Hashimoto's thyroiditis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroid-stimulating immunoglobulins (TSI)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anti-thyroid peroxidase antibodies (Anti-TPO)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Anti-thyroid stimulating hormone receptor antibodies (Anti-TSHR)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anti-thyroid hormone antibodies (Anti-T3/T4)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Anti-thyroid peroxidase antibodies (Anti-TPO)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e8af1af7"
+    },
+    {
+      "text": "A 29-year-old lady has been experiencing loss of appetite, profuse sweating, and palpitations for the past three months. Laboratory tests conclude increased T3 and T4 levels with decreased TSH levels. A representative HPE of this condition is shown below. The most common antibodies in this condition target which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TSH receptor",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thyroid peroxidase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thyroglobulin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dermal fibroblasts",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. TSH receptor",
+      "question_images": [
+        "https://image.prepladder.com/content/ves93AJTU1oJOSgRArhe1737648844.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/AUMVGJsxvcoKxCnD6L5M1736909746.png",
+        "https://image.prepladder.com/content/BUsDbUwkVUuce6FAppSv1737648801.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5696a5b8"
+    },
+    {
+      "text": "A 28-year-old woman comes to the office due to progressively worsening eye irritation and double vision over the last two months. She also reports unintentional weight loss, mood swings, diarrhoea, and palpitations. Physical examination shows tachycardia and bilateral proptosis. What is the pathophysiology causing proptosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased activity of orbital fibroblasts",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Increased breakdown of hyaluronic acid",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased synthesis of thyroid hormones",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increase in sympathetic activity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Increased activity of orbital fibroblasts",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "bbf8ccaa"
+    },
+    {
+      "text": "Which of the following best describes the gross morphology of Riedel\u2019s thyroiditis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Localised nodule within the gland",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diffusely enlarged thyroid gland",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mobile and well-circumcised mass",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stony and hard consistency",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Stony and hard consistency",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f015541e"
+    },
+    {
+      "text": "Which of the following is not a feature of subacute lymphocytic thyroiditis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Also called postpartum thyroiditis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Usually presents as a painful enlargement of the thyroid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Self-limiting condition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lymphocytic inflammation in the thyroid",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Usually presents as a painful enlargement of the thyroid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e7cfafb6"
+    },
+    {
+      "text": "What is the finding in the histopathological examination of a biopsy specimen from a patient with De Quervain Thyroiditis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Extensive stromal fibrosis extending beyond the thyroid capsule",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Follicular hyperplasia with scalloping colloid",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mononuclear infiltration with well-developed germinal centres",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mixed cellular infiltration with occasional multinucleated giant cells",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Mixed cellular infiltration with occasional multinucleated giant cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ovW2RVtu8Yu4wPiAWyl61736910129.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "206c55a0"
+    },
+    {
+      "text": "A 55-year-old patient presents with a solitary thyroid nodule. The patient also reports difficulty swallowing, with no complaints of weight loss, fatigue, or heat intolerance. An excisional biopsy reveals >75% of the following characteristic cells. Which genetic mutation is most commonly associated with this type of thyroid tumour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BRAF",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "GNAS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "RAS",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "PTEN",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. RAS",
+      "question_images": [
+        "https://image.prepladder.com/content/U3EnhIsnSi1HEQywquYW1737649171.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/f8myyNv4DtIzPOiwNnTF1737649160.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:652px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Thyroid Malignancy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Mutations/Genetic Alterations</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Follicular <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> Adenoma</p>\n<p>(<em><u>Benign</u></em> Condition)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>RAS</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Papillary <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (PTC)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>BRAF V600E</li>\n<li>RET/PTC rearrangements</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Follicular <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (FTC)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>RAS</li>\n<li>PAX8-PPAR\u03b3 rearrangements</li>\n<li>PIK3CA</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Medullary <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (MTC)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>RET</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Anaplastic <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (ATC)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>TP53</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0bb0d3c8"
+    },
+    {
+      "text": "Match each type of thyroid tumour with its most commonly associated risk factor: Thyroid Carcinoma Risk Factors: 1. Papillary thyroid carcinoma A. Iodine deficiency 2. Follicular thyroid carcinoma B. RET proto-oncogene mutations 3. Medullary thyroid carcinoma C. Radiation exposure 4. Anaplastic thyroid carcinoma D. History of a well-differentiated follicular neoplasm",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-C, 2-A, 3-B, 4-D",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-B, 2-C, 3-D, 4-A",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-A, 2-D, 3-C, 4-B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-D, 2-B, 3-A, 4-C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-C, 2-A, 3-B, 4-D",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:637px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Thyroid Cancer Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Risk Factors</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Papillary <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> Carcinoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Radiation exposure (especially in childhood)</li>\n<li>Family history of <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> cancer</li>\n<li>Hashimoto thyroiditis</li>\n<li>Thyroglossal cyst</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Follicular <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> Carcinoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Iodine deficiency</li>\n<li>Long-standing Goiter.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Medullary <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> Carcinoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>RET <span class=\"customMeta\" data-dictid=\"07aa4138b11692777196389334280a\">proto-oncogene</span> mutations.</li>\n<li>Family history (e.g., MEN2 syndrome)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Anaplastic <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">Thyroid</span> Carcinoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Older age</li>\n<li>\u00bc th of patients have a past history of a well-differentiated <span class=\"customMeta\" data-dictid=\"031a38f17a16927772036476ede2ae\">follicular</span> neoplasm</li>\n<li>Previous radiation exposure</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/rmlQ8iJL9xtn4Zytm9S01746478150.mp3",
+      "video": "",
+      "uid": "342c5e15"
+    },
+    {
+      "text": "A 40-year-old patient presents with a nodule in the anterior neck and lymphadenopathy. The tumour is found to have spread to the lymphatics. Histopathological examination shows characteristic findings. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicular thyroid carcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Medullary thyroid carcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Papillary thyroid carcinoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Anaplastic thyroid carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Papillary thyroid carcinoma",
+      "question_images": [
+        "https://image.prepladder.com/content/wmEoeVsTwSzgKKbSCsxr1737649369.png",
+        "https://image.prepladder.com/content/MYE45Omjld2YH9hxDgow1737649414.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/c6IRoZ9xoz4KADhFFOoz1737649355.png",
+        "https://image.prepladder.com/content/3Tn0ruHdiINWzqUjWBnJ1737649390.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "58aba72d"
+    },
+    {
+      "text": "Which of the following is not a common feature of follicular carcinoma of thyroid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Second most common thyroid malignancy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Has a Hurthle cell variant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Commonly spreads by lymphatic route",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "FNAC is not helpful in diagnosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Commonly spreads by lymphatic route",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "bfa87082"
+    },
+    {
+      "text": "A 45-year-old patient presents with a painless lump on the front of the neck, bone pain, fatigue, and episodes of flushed skin. Genetic studies reveal a mutation in the RET gene. Which type of amyloid is typically deposited in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-\u03b2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-CAL",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A-L",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A-TTR",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. A-CAL",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "86a7ef26"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "Basics_of_Radiology-Basics_of_MRI_and_Interventional_Radiology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 45-year-old patient is scheduled for an MRI of the brain to assess potential lesions. Which of the following best describes the fundamental principle of MRI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaluate changes in magnetic field strength around tissues",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Alignment and relaxation of hydrogen nuclei",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Detection of thermal radiation emitted by tissues.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Measurement of varying ionizing radiation absorption.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Alignment and relaxation of hydrogen nuclei",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GtpUCR2tlebHX3lBluQF1745761280.mp3",
+      "video": "",
+      "uid": "9b023c2f"
+    },
+    {
+      "text": "Which of the following accurately describes the stages of MRI image acquisition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Protons align uniformly, get excited, and relax, emitting radiation.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Protons align randomly and emit radiation upon excitation.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Protons rest and emit radiation continuously without excitation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Excited protons emit radiation before aligning with the magnetic field.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Protons align uniformly, get excited, and relax, emitting radiation.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/m3RFq6FhbfDO8cnbxEQy1743785612.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/BcgPzWWQ0Tgr3uhOqHwV1745761437.mp3",
+      "video": "",
+      "uid": "a746a7be"
+    },
+    {
+      "text": "Which statements correctly describe the differences between T1 and T2 relaxation in MRI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T1 measures transverse decay; T2 measures longitudinal recovery.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "T1 involves energy exchange; T2 involves loss of phase coherence.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "T1 relaxation is typically shorter in duration than T2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Longer T1 appears Brighter & Longer T2 appears Darker",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. T1 involves energy exchange; T2 involves loss of phase coherence.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/MFrIL3Zopxoq0OlZwAiJ1743785699.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:654px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Parameter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T1-Weighted MRI</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T2-Weighted MRI</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is time for <strong>longitudinal magnetisation to recover</strong> to its <span class=\"customMeta\" data-dictid=\"d52b8551541692777187be85e4bb2f\">equilibrium</span> after excitation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is time for <strong>transverse magnetisation to decay.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involves <strong>energy exchange</strong> between spins and surrounding environment (spin-lattice interaction)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involves <strong>loss of phase coherence</strong> among spins (spin-spin interaction)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tissue Assessment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Useful for assessing<strong> fat</strong> content in tissues (e.g., <strong>brain white matter</strong>)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Useful for assessing <strong>water</strong> content in tissues (e.g., <strong>cerebrospinal fluid</strong>)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tissue Appearance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Darker for longer T1, brighter for shorter T1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Brighter for longer T2, darker for shorter T2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bright Area Significance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright areas indicate tissues with <strong>shorter T1 times</strong> (e.g., fat-rich tissues)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright areas indicate tissues with <strong>longer T2 times</strong> (e.g., fluid-rich tissues)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Time Range</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Microseconds to seconds</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Typically shorter than T1</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/lXxNQJ4Hu9idqte5w04J1745850885.mp3",
+      "video": "",
+      "uid": "d28bc874"
+    },
+    {
+      "text": "Match the following: 1) a) FLAIR 2) b) Diffusion-weighted MRI 3) c) T1-Weighted MRI 4) d) T2-Weighted MRI",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-b, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-b, 2-c, 3-d, 4-a",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-d, 2-a, 3-b, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-c, 2-d, 3-a, 4-b",
+      "question_images": [
+        "https://image.prepladder.com/notes/5hssM2XlIhNM7jPTCVRe1743786652.png",
+        "https://image.prepladder.com/notes/bKZABmBFsCLHa2G3FiR71743786686.png",
+        "https://image.prepladder.com/notes/0f2nrwTopswwJ7YLQFLj1743786723.png",
+        "https://image.prepladder.com/notes/QzgOLuMs5sj8vLYsb7ly1743786764.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/DoR8yxmM9Dbe0Cv2MGao1743786817.png",
+        "https://image.prepladder.com/notes/MKUHnBoSmGYlw9qCly1H1743786869.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:695px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tissue</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T1-Weighted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T2-Weighted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>FLAIR</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CSF</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>White matter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark gray</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark gray</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cortex</strong></p>\n<p><strong>(Gray matter)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gray</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light gray</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light gray</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fat</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inflammation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Bm7PJ7sMyu8IpWk2TmyH1745851116.mp3",
+      "video": "",
+      "uid": "f780df56"
+    },
+    {
+      "text": "A 65-year-old patient presents with cognitive decline and movement difficulties. Imaging studies reveal iron deposition in the basal ganglia. The neurologist wants to confirm the extent of iron accumulation and assess for any associated microbleeds. Which MRI technique is preferred for evaluating iron deposition in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Susceptibility-Weighted Imaging (SWI)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Diffusion-Weighted Imaging (DWI)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Functional MRI (fMRI)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "MR Spectroscopy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Susceptibility-Weighted Imaging (SWI)",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/oGumhXsWEcFu2IyBdMmC1743786958.png",
+        "https://image.prepladder.com/notes/g8FWZcbfHjGYmNat4Rz51743786991.png",
+        "https://image.prepladder.com/notes/HJSCD6vmHkmt3y5E6dzO1743787138.png",
+        "https://image.prepladder.com/notes/hfai9YryLPqGCl5BlGdL1743787178.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/SNeYkaOEiZf7GbnBVHzf1745851369.mp3",
+      "video": "",
+      "uid": "522de779"
+    },
+    {
+      "text": "A 60-year-old patient is scheduled for an MRI to evaluate cognitive changes. Which of the following systems is specifically designed to provide shielding against radio frequency interference during the scan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gradient coils",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Helmholtz coils",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Shim coils",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Faraday\u2019s cage",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Faraday\u2019s cage",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/nY25SbxoX8OEMTq3ewhw1743787443.png",
+        "https://image.prepladder.com/notes/u1Bwh6mwj1JHN3MqNtJH1743787472.png",
+        "https://image.prepladder.com/notes/eINgcwgeFNYQitrd1tEq1743787505.png",
+        "https://image.prepladder.com/notes/phTkWi6J948l93Yl6j4M1743787552.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cy3Y4mnkbENnH4xq4Krn1745851781.mp3",
+      "video": "",
+      "uid": "2c8b04c1"
+    },
+    {
+      "text": "A 70-year-old patient requires arterial access via the femoral artery using the Seldinger technique. After sterilizing the area, the physician successfully punctures the artery with a needle. What is the next step in the Seldinger technique?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secure the catheter",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Insert a dilator through the needle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Insert a guide wire through the needle",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Remove the needle and insert a dilator",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Insert a guide wire through the needle",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ddXfU4dmPKsfsy8Kpcht1745577524.png",
+        "https://image.prepladder.com/notes/bZzpZeZjWOKGBtzvT8hz1745577449.png",
+        "https://image.prepladder.com/notes/FCdjqkr3TRA6W8VZsVQN1745577367.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/TRQoGi0SJMuRrlWb24mE1745851977.mp3",
+      "video": "",
+      "uid": "86fc91d2"
+    },
+    {
+      "text": "A 55-year-old female presents with 6 months of heavy menstrual bleeding, pelvic pressure, and frequent urination due to multiple uterine fibroids. After failed conservative treatments and a history of hypertension and obesity, uterine fibroid embolisation (UFE) is planned, and the risks have been explained. Which of the following is not an advantage of the single wall puncture technique?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fewer complications at the arterial puncture site",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Beneficial for patients with coagulopathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Less risk of arterial dissection",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A favored technique for ultrasound-guided access",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Less risk of arterial dissection",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/6Sv9RwzGlQEoj6EYgxwf1743788162.png",
+        "https://image.prepladder.com/notes/fMYlv6qcVkttDi4gCleF1743788212.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:752px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Single-wall <span class=\"customMeta\" data-dictid=\"9af4bb5919169277719688aaf3f8e7\">Puncture</span> Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Double-wall <span class=\"customMeta\" data-dictid=\"9af4bb5919169277719688aaf3f8e7\">Puncture</span> Technique</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Description</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Puncturing only one layer (tunica intima) of the arterial wall.</p>\n<p><img alt=\"RA021\" data-author=\"\" data-hash=\"7566\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/6Sv9RwzGlQEoj6EYgxwf1743788162.png\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u00a0</p>\n<p><img alt=\"RA023\" data-author=\"\" data-hash=\"7567\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/fMYlv6qcVkttDi4gCleF1743788212.png\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:121px\">\n<p style=\"text-align:center\"><strong>Advantages\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:300px\">\n<ul>\n<li>Fewer complications at the arterial <span class=\"customMeta\" data-dictid=\"9af4bb5919169277719688aaf3f8e7\">puncture</span> site. <strong>(Option A)</strong></li>\n<li>Beneficial for patients with coagulopathy. <strong>(Option B)</strong></li>\n<li>A favored technique for ultrasound-guided access. <strong>(Option D)</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:331px\">\n<ul>\n<li>Decreases the time required for arterial access.</li>\n<li>Decreases the number of attempts needed.</li>\n<li><strong>Decreased risk of arterial dissection.</strong></li>\n<li>It can strike the bony landmark located behind the vessels (such as the <span class=\"customMeta\" data-dictid=\"ab8a987431169277720229e09c01d7\">femoral</span> head).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:121px\">\n<p style=\"text-align:center\"><strong>Disadvantages\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:300px\">\n<p>The <strong>risk of arterial <span class=\"customMeta\" data-dictid=\"e42da316b916927771860f0ba81c19\">dissection</span> may increase</strong> due to <span class=\"customMeta\" data-dictid=\"e2da83abd61692777188616dd64e87\">guidewire</span> <span class=\"customMeta\" data-dictid=\"2cdd3187321692777183fb22d77cfb\">buckling</span> if it is only partially within the lumen.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:331px\">\n<p>Prone to complications such as:</p>\n<ul>\n<li>Hematoma</li>\n<li>Arteriovenous fistula</li>\n<li>Retroperitoneal hemorrhage</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/t4kqK2rkIBifCsurPH8B1745852639.mp3",
+      "video": "",
+      "uid": "7be7d6a9"
+    },
+    {
+      "text": "A 55-year-old male with chronic bronchitis and smoking presents with persistent hemoptysis. After consulting a specialist, he is advised to undergo bronchial artery embolization (BAE), and the risks are explained. He wants more details about the procedure, specifically regarding the types of embolic agents used. Which of the following is not a permanent type of embolic agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Injectable coil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Onyx",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Polyvinyl alcohol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Gelfoam",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Gelfoam",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/VApixx07EezKEG4Gpo9f1743788347.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/8SyWGLrF56S8sYq07s3l1745853276.mp3",
+      "video": "",
+      "uid": "d410690a"
+    },
+    {
+      "text": "Match the following imaging modalities with their corresponding terms. Imaging Modality Terms 1. X-ray a) Hypoechoic / Hyperechoic 2. CT (Computed Tomography) b) Hypointense / Hyperintense 3. MRI (Magnetic Resonance Imaging) c) Radiolucent / Opaque 4. USG (Ultrasound) d) Hypodense / Hyperdense",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-b, 2-d, 3-c, 4-a",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-c, 2-d, 3-b, 4-a",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1-a, 2-b, 3-d, 4-c",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1-c, 2-d, 3-b, 4-a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/v6PQ3v1CrC9FhyuTsXso1745853980.mp3",
+      "video": "",
+      "uid": "6751b039"
+    }
+  ]
+}

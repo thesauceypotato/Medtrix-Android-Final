@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "id": "test9",
+    "title": "Carbohydrate_Chemistry-Citric_Acid_cycle_and_Gluconeogenesis",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which enzyme is the rate-limiting enzyme of gluconeogenesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PEP Carboxykinase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pyruvate Carboxylase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphatase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fructose 1,6-bisphosphatase",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Fructose 1,6-bisphosphatase",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/8TJjri1oP9qson9zwiJc1736355292.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/j6eYV2BITqPt0zqrBu8z1743697103.mp3",
+      "video": "",
+      "uid": "f4336573"
+    },
+    {
+      "text": "In patients with uncontrolled diabetes, which of the following intermediates is depleted, suppressing the TCA cycle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetyl CoA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oxaloacetate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Succinyl-CoA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Malate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Oxaloacetate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Function</strong></th>\n<th><strong>Effect in Uncontrolled Diabetes</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Combines with acetyl-CoA to <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> citrate</td>\n<td><strong>Depleted due to increased gluconeogenesis</strong></td>\n</tr>\n<tr>\n<td>Essential for <span class=\"customMeta\" data-dictid=\"a0c0c687e11692777200047d93f43e\">TCA</span> cycle continuation</td>\n<td><strong>Suppression of the <span class=\"customMeta\" data-dictid=\"a0c0c687e11692777200047d93f43e\">TCA</span> cycle</strong></td>\n</tr>\n<tr>\n<td>Deficiency leads to <span class=\"customMeta\" data-dictid=\"296c955ad216927771900bf1905f13\">ketone</span> body formation</td>\n<td><strong>Ketogenesis \u2192 Ketoacidosis</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/iNc9qf37vfrc4nFvsPRz1743694881.mp3",
+      "video": "",
+      "uid": "fee87ba3"
+    },
+    {
+      "text": "Which of the following factors regulates the expression of PEPCK in liver cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Insulin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Citrate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acetyl-CoA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Glucagon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Regulator</strong></th>\n<th><strong>Effect on PEPCK</strong></th>\n<th><strong>Mechanism</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Glucagon</strong></td>\n<td><strong>Increases</strong></td>\n<td>\u2191 cAMP \u2192 \u2191 PKA \u2192 \u2191 PEPCK transcription</td>\n</tr>\n<tr>\n<td><strong>Insulin</strong></td>\n<td><strong>Decreases</strong></td>\n<td>\u2193 cAMP \u2192 \u2193 PKA \u2192 \u2193 PEPCK transcription</td>\n</tr>\n<tr>\n<td><strong>Cortisol</strong></td>\n<td><strong>Increases</strong></td>\n<td>Activates PEPCK gene transcription</td>\n</tr>\n<tr>\n<td><strong>Glucose</strong></td>\n<td><strong>Decreases</strong></td>\n<td>Inhibits gluconeogenic enzymes</td>\n</tr>\n<tr>\n<td><strong>Acetyl-CoA</strong></td>\n<td><strong>Activates <span class=\"customMeta\" data-dictid=\"f9129e152d16927771960c4ccc40bc\">pyruvate</span> carboxylase</strong></td>\n<td>Does not directly regulate PEPCK</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/7l3bAusKEJvn1IQEkaPJ1743694994.mp3",
+      "video": "",
+      "uid": "0f7484a4"
+    },
+    {
+      "text": "A 45-year-old woman presents with fatigue and muscle weakness. Laboratory tests reveal hypoglycemia and elevated lactate levels. The physician suspects a deficiency in a coenzyme essential for gluconeogenesis. Which coenzyme is most likely deficient in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnesium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thiamine Pyrophosphate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Biotin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fluoride",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Biotin",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/tapxMAmBo3jEoSSPuZKx1736355530.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Step</strong></th>\n<th><strong>Enzyme</strong></th>\n<th><strong>Required Coenzyme</strong></th>\n<th><strong>Location</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Pyruvate \u2192 Oxaloacetate</strong></td>\n<td><strong>Pyruvate carboxylase</strong></td>\n<td><strong>Biotin</strong></td>\n<td><strong>Mitochondria</strong></td>\n</tr>\n<tr>\n<td><strong>Oxaloacetate \u2192 PEP</strong></td>\n<td><strong>PEPCK</strong></td>\n<td><strong>GTP</strong></td>\n<td><strong>Cytoplasm/Mitochondria</strong></td>\n</tr>\n<tr>\n<td><strong>F-1,6-BP \u2192 F-6-P</strong></td>\n<td><strong>Fructose-1,6-bisphosphatase</strong></td>\n<td><strong>Mg\u00b2\u207a</strong></td>\n<td><strong>Cytoplasm</strong></td>\n</tr>\n<tr>\n<td><strong>G-6-P \u2192 Glucose</strong></td>\n<td><strong>Glucose-6-phosphatase</strong></td>\n<td><strong>Mg\u00b2\u207a</strong></td>\n<td><strong>Endoplasmic Reticulum</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qr1hwvBZn7WU1XPgkHaW1743695400.mp3",
+      "video": "",
+      "uid": "50906fb1"
+    },
+    {
+      "text": "Which of the following enzymes in gluconeogenesis is considered a \"tandem enzyme\" with fructose-2,6-bisphosphatase, functioning in the opposite direction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyruvate carboxylase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phosphoenolpyruvate carboxykinase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phosphofructokinase I",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phosphofructokinase-2",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Phosphofructokinase-2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Tandem <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">Enzyme</span> Pair</strong></th>\n<th><strong>Glycolysis Enzyme</strong></th>\n<th><strong>Gluconeogenesis Enzyme</strong></th>\n<th><strong>Function & Regulation</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>PFK-2 / FBPase-2</strong></td>\n<td><strong>Phosphofructokinase-2 (PFK-2)</strong></td>\n<td><strong>Fructose-2,6-bisphosphatase (FBPase-2)</strong></td>\n<td><strong>Regulates fructose-2,6-bisphosphate levels</strong>, controlling <span class=\"customMeta\" data-dictid=\"185a500ee91692777188b3044db06d\">glycolysis</span> & gluconeogenesis.</td>\n</tr>\n<tr>\n<td><strong>Hexokinase / Glucose-6-phosphatase</strong></td>\n<td><strong>Hexokinase/Glucokinase</strong></td>\n<td><strong>Glucose-6-phosphatase</strong></td>\n<td>Controls <span class=\"customMeta\" data-dictid=\"619ba5e99c16927771958308fb8687\">phosphorylation</span> and <span class=\"customMeta\" data-dictid=\"faadc77f171692777186b7a2721322\">dephosphorylation</span> of glucose.</td>\n</tr>\n<tr>\n<td><strong>Pyruvate <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> / PEPCK</strong></td>\n<td><strong>Pyruvate kinase</strong></td>\n<td><strong>Phosphoenolpyruvate carboxykinase (PEPCK)</strong></td>\n<td>Controls conversion between <span class=\"customMeta\" data-dictid=\"624ee3cb8d1692777195f4dce9b626\">PEP</span> and pyruvate, linking <span class=\"customMeta\" data-dictid=\"185a500ee91692777188b3044db06d\">glycolysis</span> and gluconeogenesis.</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th><strong>Condition</strong></th>\n<th><strong>PFK-2 Activity</strong></th>\n<th><strong>FBPase-2 Activity</strong></th>\n<th><strong>Metabolic Effect</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Fed state (Insulin \u2191)</strong></td>\n<td><strong>Active</strong></td>\n<td>Inhibited</td>\n<td>\u2191 Fructose-2,6-bisphosphate \u2192 \u2191 Glycolysis</td>\n</tr>\n<tr>\n<td><strong>Fasting state (Glucagon \u2191, cAMP \u2191, PKA \u2191)</strong></td>\n<td>Inhibited</td>\n<td><strong>Active</strong></td>\n<td>\u2193 Fructose-2,6-bisphosphate \u2192 \u2191 Gluconeogenesis</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>\n<p><strong>Regulatory Factor</strong></p>\n</th>\n<th>\n<p><strong>Effect on PFK-2/FBPase-2</strong></p>\n</th>\n<th>\n<p><strong>Metabolic Outcome</strong></p>\n</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>\n<p><strong>Insulin (Fed State)</strong></p>\n</td>\n<td>\n<p>Activates <strong>PFK-2</strong></p>\n</td>\n<td>\n<p>\u2191 Glycolysis, \u2193 Gluconeogenesis</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Glucagon (Fasting State)</strong></p>\n</td>\n<td>\n<p>Activates <strong>FBPase-2</strong></p>\n</td>\n<td>\n<p>\u2193 Glycolysis, \u2191 Gluconeogenesis</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Fructose-2,6-bisphosphate</strong></p>\n</td>\n<td>\n<p>Stimulates <strong>PFK-1</strong>, inhibits <strong>FBPase-1</strong></p>\n</td>\n<td>\n<p>\u2191 Glycolysis, \u2193 Gluconeogenesis</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>cAMP / PKA Activation</strong></p>\n</td>\n<td>\n<p>Phosphorylates <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> \u2192 Activates <strong>FBPase-2</strong></p>\n</td>\n<td>\n<p>Promotes gluconeogenesis</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/BkbAW5igjlWOznumz0qL1743696234.mp3",
+      "video": "",
+      "uid": "16fe54e2"
+    },
+    {
+      "text": "A patient presents with symptoms of hypoglycemia shortly after consuming a high-carbohydrate meal. Laboratory tests reveal elevated insulin levels. Which of the following enzymes in the gluconeogenesis pathway is most likely to be strongly inhibited in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyruvate carboxylase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phosphoenolpyruvate carboxykinase (PEPCK)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fructose-1,6-bisphosphatase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glucose-6-phosphatase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Fructose-1,6-bisphosphatase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Regulatory Mechanism</strong></th>\n<th><strong>Effect on Gluconeogenesis</strong></th>\n<th><strong>Key Enzymes Affected</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td colspan=\"3\"><strong>Hormonal Regulation</strong></td>\n</tr>\n<tr>\n<td><strong>Insulin (Fed State)</strong></td>\n<td>Inhibits <span class=\"customMeta\" data-dictid=\"724a9faafe1692777188ca8840ec5c\">gluconeogenesis</span> by increasing <strong>fructose-2,6-bisphosphate</strong>, which inhibits fructose-1,6-bisphosphatase.</td>\n<td><strong>Fructose-1,6-bisphosphatase</strong>, <strong>PEPCK</strong>, <strong>Glucose-6-phosphatase</strong></td>\n</tr>\n<tr>\n<td><strong>Glucagon (Fasting State)</strong></td>\n<td>Stimulates <span class=\"customMeta\" data-dictid=\"724a9faafe1692777188ca8840ec5c\">gluconeogenesis</span> by decreasing <strong>fructose-2,6-bisphosphate</strong>.</td>\n<td><strong>Fructose-1,6-bisphosphatase</strong>, <strong>PEPCK</strong>, <strong>Glucose-6-phosphatase</strong></td>\n</tr>\n<tr>\n<td colspan=\"3\"><strong>Allosteric Regulation</strong></td>\n</tr>\n<tr>\n<td><strong>Fructose-2,6-bisphosphate</strong></td>\n<td>Strongly inhibits <strong>fructose-1,6-bisphosphatase</strong>, suppressing gluconeogenesis.</td>\n<td><strong>Fructose-1,6-bisphosphatase</strong></td>\n</tr>\n<tr>\n<td><strong>AMP (Low Energy State)</strong></td>\n<td>Inhibits gluconeogenesis, <span class=\"customMeta\" data-dictid=\"f9016f36fd1692777198b0fd5e9c6d\">signaling</span> low <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> levels.</td>\n<td><strong>Fructose-1,6-bisphosphatase</strong></td>\n</tr>\n<tr>\n<td><strong>Acetyl-CoA (High Energy State)</strong></td>\n<td>Activates <strong>pyruvate carboxylase</strong>, promoting gluconeogenesis.</td>\n<td><strong>Pyruvate carboxylase</strong></td>\n</tr>\n<tr>\n<td colspan=\"3\"><strong>Substrate Availability</strong></td>\n</tr>\n<tr>\n<td><strong>Lactate</strong></td>\n<td>Enters <span class=\"customMeta\" data-dictid=\"724a9faafe1692777188ca8840ec5c\">gluconeogenesis</span> via pyruvate.</td>\n<td><strong>Pyruvate carboxylase</strong>, <strong>PEPCK</strong></td>\n</tr>\n<tr>\n<td><strong>Glycerol</strong></td>\n<td>Converted to <strong>DHAP</strong>, <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> into gluconeogenesis.</td>\n<td><strong>Glycerol kinase</strong>, <strong>G3P dehydrogenase</strong></td>\n</tr>\n<tr>\n<td><strong>Alanine</strong></td>\n<td>Converted to <span class=\"customMeta\" data-dictid=\"f9129e152d16927771960c4ccc40bc\">pyruvate</span> for gluconeogenesis.</td>\n<td><strong>Alanine aminotransferase</strong>, <strong>PEPCK</strong></td>\n</tr>\n<tr>\n<td colspan=\"3\"><strong>Energy Status</strong></td>\n</tr>\n<tr>\n<td><strong>High ATP/Low AMP</strong></td>\n<td>Promotes gluconeogenesis.</td>\n<td><strong>Fructose-1,6-bisphosphatase</strong>, <strong>PEPCK</strong></td>\n</tr>\n<tr>\n<td><strong>Low ATP/High AMP</strong></td>\n<td>Inhibits gluconeogenesis.</td>\n<td><strong>Fructose-1,6-bisphosphatase</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Fj9DiJYpH5TC1txa4M0O1743696803.mp3",
+      "video": "",
+      "uid": "736c4b4a"
+    },
+    {
+      "text": "Which of the following statements about the malate shuttle in gluconeogenesis is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helps transfer reducing equivalents from the cytoplasm to mitochondria",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Involves the interconversion of oxaloacetate and malate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Requires the enzyme malate dehydrogenase in both mitochondria and cytosol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Directly transports NADH across the mitochondrial membrane",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Directly transports NADH across the mitochondrial membrane",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/7uofOB9soGwx0hipbSDa1736355422.png",
+        "https://image.prepladder.com/content/DbejkFDatrwnVDkxttU51736355442.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Step</strong></th>\n<th><strong>Process</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Cytosol</strong></td>\n<td>Oxaloacetate \u2192 <span class=\"customMeta\" data-dictid=\"4864ab36e7169277719104321f281f\">Malate</span> (via cytosolic <span class=\"customMeta\" data-dictid=\"4864ab36e7169277719104321f281f\">malate</span> dehydrogenase, using NADH)</td>\n</tr>\n<tr>\n<td><strong>Transport</strong></td>\n<td>Malate crosses mitochondrial <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> via malate-\u03b1-ketoglutarate antiporter</td>\n</tr>\n<tr>\n<td><strong>Mitochondria</strong></td>\n<td>Malate \u2192 <span class=\"customMeta\" data-dictid=\"0aa20d5343169277719438bfdae95f\">Oxaloacetate</span> (via mitochondrial <span class=\"customMeta\" data-dictid=\"4864ab36e7169277719104321f281f\">malate</span> dehydrogenase, regenerating NADH)</td>\n</tr>\n<tr>\n<td><strong>Return Pathway</strong></td>\n<td>Oxaloacetate \u2192 <span class=\"customMeta\" data-dictid=\"3d988dbcc816927771821e9a2544f7\">Aspartate</span> (via transamination), which exits <span class=\"customMeta\" data-dictid=\"18c9e7b9721692777192bd042528cc\">mitochondria</span> via the glutamate-aspartate antiporter</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/2enCaOgN58SIJfN73jWm1743697056.mp3",
+      "video": "",
+      "uid": "85ef1d4b"
+    },
+    {
+      "text": "Which of the following enzymes involved in gluconeogenesis is located in the endoplasmic reticulum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyruvate carboxylase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phosphoenolpyruvate carboxykinase (PEPCK)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fructose-1,6-bisphosphatase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Glucose-6-phosphatase",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Glucose-6-phosphatase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Enzyme</strong></th>\n<th><strong>Location</strong></th>\n<th><strong>Function</strong></th>\n<th><strong>Cofactors</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Pyruvate <span class=\"customMeta\" data-dictid=\"0991be8b0016927771839a46b6bbd3\">Carboxylase</span> (Option A ruled out)</strong></td>\n<td>Mitochondria</td>\n<td>Converts <strong>pyruvate to oxaloacetate</strong></td>\n<td><strong>Biotin, ATP, CO\u2082</strong></td>\n</tr>\n<tr>\n<td><strong>Phosphoenolpyruvate Carboxykinase (PEPCK)\u00a0(Option B\u00a0ruled out)</strong></td>\n<td>Cytoplasm & Mitochondria</td>\n<td>Converts <strong>oxaloacetate to PEP</strong></td>\n<td><strong>GTP (as a <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> donor)</strong></td>\n</tr>\n<tr>\n<td><strong>Fructose-1,6-bisphosphatase\u00a0(Option C\u00a0ruled out)</strong></td>\n<td>Cytoplasm</td>\n<td>Converts <strong>F-1,6-BP to F-6-P</strong></td>\n<td><strong>Mg\u00b2\u207a</strong></td>\n</tr>\n<tr>\n<td><strong>Glucose-6-phosphatase</strong></td>\n<td><strong>Endoplasmic Reticulum</strong></td>\n<td>Converts <strong>G-6-P to free glucose</strong></td>\n<td><strong>Mg\u00b2</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/FBoalDwsQEBF82kdr0oS1743697221.mp3",
+      "video": "",
+      "uid": "453f0d27"
+    },
+    {
+      "text": "Which of the following is NOT a substrate for gluconeogenesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lactate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glycerol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alanine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acetyl-CoA",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Acetyl-CoA",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/sJWfPDwD3rNHArorWvgt1744019109.png",
+        "https://image.prepladder.com/content/BUb6E7OATZ9jN772ZqBi1739777878.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Substrate</strong></th>\n<th><strong>Source</strong></th>\n<th><strong>Entry Point in Gluconeogenesis</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lactate</td>\n<td>Anaerobic <span class=\"customMeta\" data-dictid=\"185a500ee91692777188b3044db06d\">glycolysis</span> (muscles, RBCs)</td>\n<td>Converted to <span class=\"customMeta\" data-dictid=\"f9129e152d16927771960c4ccc40bc\">pyruvate</span> via the Cori cycle</td>\n</tr>\n<tr>\n<td>Glycerol</td>\n<td>Lipolysis (adipose tissue)</td>\n<td>Converted to DHAP</td>\n</tr>\n<tr>\n<td>Alanine</td>\n<td>Muscle protein breakdown</td>\n<td>Converted to <span class=\"customMeta\" data-dictid=\"f9129e152d16927771960c4ccc40bc\">pyruvate</span> via transamination</td>\n</tr>\n<tr>\n<td>Propionate</td>\n<td>Odd-chain <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acid oxidation</td>\n<td>Converted to succinyl-CoA (TCA cycle)</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/DRwvZquDRd7PlHYioPkc1743697165.mp3",
+      "video": "",
+      "uid": "9df6e11c"
+    },
+    {
+      "text": "All of the following metabolic pathways occur in the cytoplasm except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycolysis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pentose Phosphate Pathway",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fatty Acid Synthesis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Citric Acid Cycle",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Citric Acid Cycle",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cytoplasm</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mitochondria</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Glycolysis <strong>(Option A ruled out)</strong></li>\n<li>Pentose <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">Phosphate</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">Pathway</span> <strong>(Option B ruled out)</strong></li>\n<li>Fatty Acid <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">Synthesis</span> <strong>(Option C ruled out)</strong></li>\n<li>Urea Cycle (partial- <span class=\"customMeta\" data-dictid=\"728bb228361692777185b98c34534b\">Cytoplasm</span> & Mitochondria)</li>\n<li>HMP Shunt</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Krebs Cycle (Citric Acid Cycle)</li>\n<li>Electron Transport Chain</li>\n<li>Fatty Acid Oxidation</li>\n<li>Ketogenesis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Gluconeogenesis </strong>occurs in the <strong>cytoplasm, mitochondria, and endoplasmic reticulum.</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/aICwrWev4w9ToZuhghkf1743694484.mp3",
+      "video": "",
+      "uid": "5528642d"
+    },
+    {
+      "text": "Which of the following best describes the amphibolic nature of the citric acid cycle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It generates ATP and produces citrate for fatty acid synthesis.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It exclusively produces NADH for oxidative phosphorylation.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It breaks down fatty acids and synthesises only cholesterol.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It provides intermediates solely for glucose synthesis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. It generates ATP and produces citrate for fatty acid synthesis.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bH1evgumZcCK9KaGUYum1743696480.mp3",
+      "video": "",
+      "uid": "910aa1f4"
+    },
+    {
+      "text": "Which of the following is correct regarding anaplerotic reactions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Produce ATP",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Replenish TCA intermediates",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reduction of NAD+ to NADH",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Breakdown of fatty acids",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Replenish TCA intermediates",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/TdpJp8ioPggDbdd3kPzJ1736355209.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Reaction</strong></th>\n<th><strong>Enzyme</strong></th>\n<th><strong>Intermediate Replenished</strong></th>\n<th><strong>Source</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Pyruvate \u2192 Oxaloacetate</strong></td>\n<td>Pyruvate carboxylase</td>\n<td>Oxaloacetate</td>\n<td>Pyruvate (from glycolysis)</td>\n</tr>\n<tr>\n<td><strong>Glutamate \u2192 \u03b1-Ketoglutarate</strong></td>\n<td>Glutamate dehydrogenase</td>\n<td>\u03b1-Ketoglutarate</td>\n<td>Glutamate (from <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid metabolism)</td>\n</tr>\n<tr>\n<td><strong>Propionyl-CoA \u2192 Succinyl-CoA</strong></td>\n<td>Propionyl-CoA carboxylase</td>\n<td>Succinyl-CoA</td>\n<td>Odd-chain <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acids, Valine, Isoleucine, Methionine</td>\n</tr>\n<tr>\n<td><strong>Aspartate \u2192 Oxaloacetate</strong></td>\n<td>Aspartate transaminase</td>\n<td>Oxaloacetate</td>\n<td>Aspartate (from protein metabolism)</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ObHi7VD8gDQq4uD6uIjj1743695922.mp3",
+      "video": "",
+      "uid": "56ff41a4"
+    },
+    {
+      "text": "ATP inhibits all of the following enzymes in the citric acid cycle except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Citrate synthase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Isocitrate dehydrogenase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "\u03b1-Ketoglutarate dehydrogenase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Succinate dehydrogenase",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Succinate dehydrogenase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Enzyme</strong></th>\n<th><strong>Activators</strong></th>\n<th><strong>Inhibitors</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Citrate <span class=\"customMeta\" data-dictid=\"d2bd91ccac169277719941254e1795\">Synthase</span> (Option A ruled out)</strong></td>\n<td>ADP</td>\n<td>ATP, Citrate, NADH, Succinyl-CoA</td>\n</tr>\n<tr>\n<td><strong>Isocitrate Dehydrogenase\u00a0(Option B\u00a0ruled out)</strong></td>\n<td>ADP, NAD+, Ca\u00b2\u207a</td>\n<td>ATP, NADH</td>\n</tr>\n<tr>\n<td><strong>\u03b1-Ketoglutarate Dehydrogenase\u00a0(Option C\u00a0ruled out)</strong></td>\n<td>ADP, Ca\u00b2\u207a</td>\n<td>ATP, NADH, Succinyl-CoA</td>\n</tr>\n<tr>\n<td><strong>Succinate Dehydrogenase</strong></td>\n<td>Succinate availability</td>\n<td>Oxaloacetate</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/V3nBv6I2xpMn5zJYco3A1743695666.mp3",
+      "video": "",
+      "uid": "aff09a40"
+    },
+    {
+      "text": "Which of the following toxins directly inhibits the activity of the enzyme aconitase in the Citric Acid Cycle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyanide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fluoroacetate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Rotenone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Antimycin A",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Fluoroacetate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inhibitor </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Enzyme </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Result </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fluoroacetate </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Aconitase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Accumulation of citrate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Arsenite </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alpha-ketoglutarate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">dehydrogenase</span> complex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Accumulation of alpha-ketoglutarate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Malonate </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Succinate dehydrogenase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Accumulation of succinate</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/M8APLBg5bsG8ZTHJsSH71743695248.mp3",
+      "video": "",
+      "uid": "03cc2ddf"
+    },
+    {
+      "text": "Calculate the total amount of ATP produced from the Citric Acid Cycle alone for one glucose molecule.",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 ATP",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "9 ATP",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "18 ATP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20 ATP",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 20 ATP",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Molecule Produced</strong></th>\n<th><strong>ATP Yield per Molecule</strong></th>\n<th><strong>Total <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> for 2 Cycles</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>NADH</strong> (3 per cycle)</td>\n<td>2.5 ATP</td>\n<td>3 \u00d7 2.5 \u00d7 2 = <strong>15 ATP</strong></td>\n</tr>\n<tr>\n<td><strong>FADH\u2082</strong> (1 per cycle)</td>\n<td>1.5 ATP</td>\n<td>1 \u00d7 1.5 \u00d7 2 = <strong>3 ATP</strong></td>\n</tr>\n<tr>\n<td><strong>GTP (Direct ATP)</strong> (1 per cycle)</td>\n<td>1 ATP</td>\n<td>1 \u00d7 2 = <strong>2 ATP</strong></td>\n</tr>\n<tr>\n<td><strong>Total ATP</strong></td>\n<td>\u00a0</td>\n<td><strong>20 ATP</strong></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th><strong>Feature</strong></th>\n<th><strong>Details</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Location</strong></td>\n<td>Mitochondrial matrix</td>\n</tr>\n<tr>\n<td><strong>Purpose</strong></td>\n<td>Oxidation of Acetyl-CoA to generate ATP, NADH, and FADH\u2082</td>\n</tr>\n<tr>\n<td><strong>Entry Molecule</strong></td>\n<td>Acetyl-CoA (from glycolysis, <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acid oxidation, or <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid metabolism)</td>\n</tr>\n<tr>\n<td><strong>End Products per Cycle</strong></td>\n<td><strong>3 NADH</strong> (Produces 7.5 ATP)<br/>\n<strong>1 FADH\u2082</strong> (Produces 1.5 ATP)<br/>\n<strong>1 <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> (GTP)</strong><br/>\n<strong>2 CO\u2082</strong> (Byproduct)</td>\n</tr>\n<tr>\n<td><strong>ATP Yield per Glucose</strong></td>\n<td><strong>20 <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> (from 2 Acetyl-CoA)</strong></td>\n</tr>\n<tr>\n<td><strong>Regulatory Enzymes</strong></td>\n<td><strong>Citrate Synthase</strong> (Inhibited by ATP, NADH, and Succinyl-CoA)<br/>\n<strong>Isocitrate Dehydrogenase</strong> (Rate-limiting step, inhibited by <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> and NADH)<br/>\n<strong>\u03b1-Ketoglutarate Dehydrogenase</strong> (Inhibited by ATP, NADH, and Succinyl-CoA)</td>\n</tr>\n<tr>\n<td><strong>Significance</strong></td>\n<td>Provides intermediates for <span class=\"customMeta\" data-dictid=\"859a34e1061692777183872a5e4441\">biosynthesis</span> (e.g., <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acids, heme, <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acids)<br/>\n\t\t\tGenerates reducing equivalents (NADH, FADH\u2082) for the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> transport chain<br/>\n\t\t\tIntegrates carbohydrate, lipid, and protein metabolism</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th><strong>Step</strong></th>\n<th><strong>Reaction</strong></th>\n<th><strong>Enzyme</strong></th>\n<th><strong>ATP/NADH/FADH\u2082 Produced</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Acetyl-CoA + <span class=\"customMeta\" data-dictid=\"0aa20d5343169277719438bfdae95f\">Oxaloacetate</span> \u2192 Citrate</td>\n<td><strong>Citrate Synthase</strong></td>\n<td>-</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Citrate \u2192 Isocitrate</td>\n<td><strong>Aconitase</strong></td>\n<td>-</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Isocitrate \u2192 \u03b1-Ketoglutarate + CO\u2082</td>\n<td><strong>Isocitrate Dehydrogenase</strong></td>\n<td><strong>1 <span class=\"customMeta\" data-dictid=\"70e624dfd41692777193efc364d5b4\">NADH</span> (2.5 ATP)</strong></td>\n</tr>\n<tr>\n<td>4</td>\n<td>\u03b1-Ketoglutarate \u2192 Succinyl-CoA + CO\u2082</td>\n<td><strong>\u03b1-Ketoglutarate Dehydrogenase</strong></td>\n<td><strong>1 <span class=\"customMeta\" data-dictid=\"70e624dfd41692777193efc364d5b4\">NADH</span> (2.5 ATP)</strong></td>\n</tr>\n<tr>\n<td>5</td>\n<td>Succinyl-CoA \u2192 Succinate</td>\n<td><strong>Succinyl-CoA Synthetase</strong></td>\n<td><strong>1 <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> (GTP)</strong></td>\n</tr>\n<tr>\n<td>6</td>\n<td>Succinate \u2192 Fumarate</td>\n<td><strong>Succinate Dehydrogenase</strong></td>\n<td><strong>1 FADH\u2082 (1.5 ATP)</strong></td>\n</tr>\n<tr>\n<td>7</td>\n<td>Fumarate \u2192 Malate</td>\n<td><strong>Fumarase</strong></td>\n<td>-</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Malate \u2192 Oxaloacetate</td>\n<td><strong>Malate Dehydrogenase</strong></td>\n<td><strong>1 <span class=\"customMeta\" data-dictid=\"70e624dfd41692777193efc364d5b4\">NADH</span> (2.5 ATP)</strong></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th><strong>Regulator</strong></th>\n<th><strong>Effect on <span class=\"customMeta\" data-dictid=\"a0c0c687e11692777200047d93f43e\">TCA</span> Cycle</strong></th>\n<th><strong>Mechanism</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>ATP</strong></td>\n<td>Inhibits</td>\n<td>High energy status</td>\n</tr>\n<tr>\n<td><strong>NADH</strong></td>\n<td>Inhibits</td>\n<td>High reducing equivalents</td>\n</tr>\n<tr>\n<td><strong>ADP</strong></td>\n<td>Activates</td>\n<td>Low energy status</td>\n</tr>\n<tr>\n<td><strong>Ca\u00b2\u207a</strong></td>\n<td>Activates</td>\n<td>Stimulates muscle <span class=\"customMeta\" data-dictid=\"ca2289e348169277718516017eb2ba\">contraction</span> and energy demand</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/KiRHxiSNOYLWiuHMPZMx1743695144.mp3",
+      "video": "",
+      "uid": "bfe35dd5"
+    },
+    {
+      "text": "Which of the following by-products from the Krebs Cycle is involved in heme synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Citrate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "\u03b1-Ketoglutarate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Succinyl-CoA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Malate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Succinyl-CoA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/9V9I7b4as9EtbRq92huN1743695088.mp3",
+      "video": "",
+      "uid": "d154e2b1"
+    },
+    {
+      "text": "Which of the following steps in the Citric acid cycle involves oxidative phosphorylation and decarboxylation? Isocitrate \u2192 \u03b1-Ketoglutarate Succinate \u2192 Fumarate Malate \u2192 Oxaloacetate \u03b1-Ketoglutarate \u2192 Succinyl-CoA",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 4 are correct",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2 and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1 and 4 are correct",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/H1XIbWhioarB0e6cDp9s1736355140.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Reaction Type</strong></th>\n<th><strong>Enzyme</strong></th>\n<th><strong>Reaction</strong></th>\n<th><strong>Product Formed</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td colspan=\"1\" rowspan=\"2\"><strong>Oxidative Decarboxylation</strong></td>\n<td>Isocitrate Dehydrogenase</td>\n<td>Isocitrate \u2192 \u03b1-Ketoglutarate</td>\n<td>CO\u2082 + NADH</td>\n</tr>\n<tr>\n<td>\u03b1-Ketoglutarate Dehydrogenase</td>\n<td>\u03b1-Ketoglutarate \u2192 Succinyl-CoA</td>\n<td>CO\u2082 + NADH</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"4\"><strong>Oxidation (Production of NADH/FADH\u2082)</strong></td>\n<td>Isocitrate Dehydrogenase</td>\n<td>Isocitrate \u2192 \u03b1-Ketoglutarate</td>\n<td>NADH</td>\n</tr>\n<tr>\n<td>\u03b1-Ketoglutarate Dehydrogenase</td>\n<td>\u03b1-Ketoglutarate \u2192 Succinyl-CoA</td>\n<td>NADH</td>\n</tr>\n<tr>\n<td>Succinate Dehydrogenase</td>\n<td>Succinate \u2192 Fumarate</td>\n<td>FADH\u2082</td>\n</tr>\n<tr>\n<td>Malate Dehydrogenase</td>\n<td>Malate \u2192 Oxaloacetate</td>\n<td>NADH</td>\n</tr>\n<tr>\n<td><strong>Substrate-Level Phosphorylation</strong></td>\n<td>Succinyl-CoA Synthetase</td>\n<td>Succinyl-CoA \u2192 Succinate</td>\n<td>GTP (or ATP)</td>\n</tr>\n<tr>\n<td><strong>Hydration</strong></td>\n<td>Fumarase</td>\n<td>Fumarate \u2192 Malate</td>\n<td>H\u2082O Addition</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PMITSp454T0iWuQkR1Yt1743694710.mp3",
+      "video": "",
+      "uid": "aa6528fb"
+    },
+    {
+      "text": "Which of the following is not a cofactor for the enzyme catalysing \u03b1-Ketoglutarate \u2192 Succinyl-CoA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fe2+",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thiamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lipoic Acid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pantothenic acid",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fe2+",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/pMpl8vMuiMZ0PhN5qrfm1743694579.mp3",
+      "video": "",
+      "uid": "76a12bcf"
+    }
+  ]
+}

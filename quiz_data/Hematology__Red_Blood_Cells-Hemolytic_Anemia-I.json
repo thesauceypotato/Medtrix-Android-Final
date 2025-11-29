@@ -1,0 +1,540 @@
+{
+  "meta": {
+    "id": "test37",
+    "title": "Hematology__Red_Blood_Cells-Hemolytic_Anemia-I",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following sequences correctly represents the progression of hemoglobin handling in the body during intravascular hemolysis (IVH)? A. Hemoglobin binds to albumin, forming meth albuminemia B. Hemoglobin combines with haptoglobin C. Haptoglobin saturation and hemoglobin binding to hemopexin. D. RBC lysis causes hemoglobin to leak out.",
+      "options": [
+        {
+          "label": "A",
+          "text": "D \u2192 B \u2192 C\u2192 A",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "D \u2192 B \u2192 A \u2192 C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "D \u2192 C \u2192 A \u2192 B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D \u2192 C \u2192 B \u2192 A",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. D \u2192 B \u2192 C\u2192 A",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/itdspiFXL5IHuh2FAWyM1737694764.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c51419ea"
+    },
+    {
+      "text": "Which of the following conditions can cause intravascular hemolysis (IVH)? Select all that apply. a. Paroxysmal Nocturnal Hemoglobinuria (PNH) b. Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency c. Hereditary spherocytosis d. Paroxysmal Cold Hemoglobinuria (PCH) e. Hemolytic Uremic Syndrome (HUS) f. Thrombotic Thrombocytopenic Purpura (TTP)",
+      "options": [
+        {
+          "label": "A",
+          "text": "b, c, d, e and f",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a, b, d, e, and f",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "a, b, c, e, and f",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a, b, c, d, and f",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. a, b, d, e, and f",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intravascular hemolysis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Extravascular hemolysis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hemolysis occurs inside a vessel</li>\n<li>Hepatomegaly or <span class=\"customMeta\" data-dictid=\"b3eb52fe3b1692777199de8465eea8\">splenomegaly</span> are usually absent</li>\n<li>Serum <span class=\"customMeta\" data-dictid=\"8d8151fa671692777188a59bbec61f\">haptoglobin</span> is reduced</li>\n<li>Hemoglobinuria and <span class=\"customMeta\" data-dictid=\"d255f5eb7916927771885bd197ec11\">hemosiderinuria</span> are seen</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hemolysis occurs outside a vessel.</li>\n<li>Example: Liver, spleen</li>\n<li>Hepatomegaly or <span class=\"customMeta\" data-dictid=\"b3eb52fe3b1692777199de8465eea8\">splenomegaly</span> are usually present</li>\n<li>Serum <span class=\"customMeta\" data-dictid=\"8d8151fa671692777188a59bbec61f\">haptoglobin</span> is usually not decreased</li>\n<li>Hemoglobinuria and <span class=\"customMeta\" data-dictid=\"d255f5eb7916927771885bd197ec11\">hemosiderinuria</span> are absent</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Extravascular Hemolysis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intravascular hemolysis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hereditary spherocytosis</li>\n<li>Sickle cell anemia</li>\n<li>Thalassemia</li>\n<li><strong>G6PD deficiency</strong></li>\n<li>Warm <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> (AIHA)</li>\n<li>Cold <span class=\"customMeta\" data-dictid=\"793dda05ac1692777180345347d49c\">agglutinin</span> type AIHA</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Paroxysmal <span class=\"customMeta\" data-dictid=\"d51601f2c41692777193ddfa55d163\">Nocturnal</span> <span class=\"customMeta\" data-dictid=\"ddeb334a351692777188795bb090ef\">Hemoglobinuria</span> (PNH)</li>\n<li>Microangiopathic <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">Hemolytic</span> <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">Anemia</span> (MAHA)- HUS, TTP, DIC</li>\n<li>Paroxysmal cold hemoglobinuria/Cold <span class=\"customMeta\" data-dictid=\"9fea3db5bb16927771885315f60b70\">hemolysin</span> type AIHA</li>\n<li><strong>G6PD deficiency</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b21f3156"
+    },
+    {
+      "text": "Match the following causes of hemolysis with their corresponding categories. Categories Causes of hemolysis a. Intracorpuscular defect b. Extracorpuscular defect 1. Hereditary Spherocytosis (HS) 2. G6PD Deficiency 3. Thrombotic Thrombocytopenic Purpura (TTP) 4. Hemoglobin C Disease 5. Hemolytic Uremic Syndrome (HUS) 6. Sickle Cell Anemia",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-a, 2-b, 3-b, 4-a, 5-a, 6-b",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-b, 2-a, 3-b, 4-a, 5-a, 6-a",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-a, 2-a, 3-b, 4-a, 5-b, 6-a",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-a, 2-b, 3-a, 4-b, 5-a, 6-a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-a, 2-a, 3-b, 4-a, 5-b, 6-a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intracorpuscular defect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Extracorpuscular defect</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Inherited</strong>: membrane, enzymes or <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">hemoglobin</span> defects\n\t\t\t\t<ul>\n<li><strong>Membrane defects:</strong> Hereditary <span class=\"customMeta\" data-dictid=\"d30f4533661692777199385959bd9f\">spherocytosis</span> (HS), Hereditary elliptocytosis</li>\n<li><strong>Enzyme defects:</strong> G6PD deficiency, Pyruvate <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> deficiency, Hexokinase deficiency</li>\n<li><strong>Hemoglobinopathies:</strong> Sickle cell anemias, Thalassemias, HbC disease, and HbD disease.</li>\n</ul>\n</li>\n<li><strong>Acquired</strong>: PNH (Paroxysmal Nocturnal Hemoglobinuria)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>AIHA (Autoimmune <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anemia)</li>\n<li>MAHA (Microangiopathic <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anemia)-HUS, TTP, DIC (leads to clotting)</li>\n<li>Malaria (Blackwater fever)</li>\n<li>March Hemoglobinuria (capillaries present in the heels of soldiers break down)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0a1de5bc"
+    },
+    {
+      "text": "Examine the provided histopathology image of a blood smear containing two types of abnormal red blood cells. Identify the diseases associated with each cell type.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a: Pyruvate kinase deficiency, burns, and uremia; b: Abetalipoproteinemia, liver disease, and vitamin E deficiency.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "a: Abetalipoproteinemia, liver disease, and vitamin E deficiency; b: Pyruvate kinase deficiency, burns, and uremia.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "a: Abetalipoproteinemia and burns; b: Pyruvate kinase deficiency and uremia.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a: Pyruvate kinase deficiency and liver disease; b: Abetalipoproteinemia and vitamin E deficiency.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. a: Pyruvate kinase deficiency, burns, and uremia; b: Abetalipoproteinemia, liver disease, and vitamin E deficiency.",
+      "question_images": [
+        "https://image.prepladder.com/content/VmRl77NfWoWZY4IcKblw1736864395.png",
+        "https://image.prepladder.com/content/ym8Mpi3qMeA77HaUWMcd1736864286.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/h1q1FKBFQNyFVVFU1sfi1736864602.png",
+        "https://image.prepladder.com/content/R4f9dk2tukkCQk8ju6HZ1736864524.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:667px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Echinocytes </strong></p>\n<p><strong>(aka <span class=\"customMeta\" data-dictid=\"424dfa19a216927771833dc4f65079\">Burr</span> cells)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acanthocytes </strong></p>\n<p><strong>(aka <span class=\"customMeta\" data-dictid=\"77dc1bdd7416927771991cd9877b25\">Spur</span> cells)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Echinocytes are red blood cells with <strong>uniformly spaced</strong>, <strong>short</strong> projections over the cell surface</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acanthocytes are red blood cells with <strong>irregularly spaced</strong>, <strong>spiky</strong> projections of varying lengths</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Associated conditions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Pyruvate <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> deficiency</li>\n<li>Burns</li>\n<li>Liver disease</li>\n<li>Uremia</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Abetalipoproteinemia</li>\n<li>Liver Disease</li>\n<li>Vitamin E Deficiency</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "529ea0bf"
+    },
+    {
+      "text": "A 28-year-old male presents with fatigue, jaundice, splenomegaly, and anemia with elevated MCHC. A peripheral smear is done which is shown below. What is the most common protein defect in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spectrin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Band 3 protein",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ankyrin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glycophorin A",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ankyrin",
+      "question_images": [
+        "https://image.prepladder.com/content/Ipopnao1KAwiLQrEjdmS1736865013.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/cpg4JYKUmBpu3DFt1uCN1736865165.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b6ccf80d"
+    },
+    {
+      "text": "A 10-year-old child presents with a history of recurrent episodes of jaundice, fatigue, and abdominal pain. Physical examination reveals splenomegaly, and peripheral blood smear shows the following picture. Coomb's test is negative. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hereditary spherocytosis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hemolytic anemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thalassemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hereditary spherocytosis",
+      "question_images": [
+        "https://image.prepladder.com/content/Txy9FEZ3M9BMac5HZVjj1736865291.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/cp0aOckl8jUcqHav47aw1737695025.png",
+        "https://image.prepladder.com/content/8jdX3WKKn863ypuvcTdu1736865358.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dec8f744"
+    },
+    {
+      "text": "Which of the following is not a typical change in blood indices in patients with hereditary spherocytosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MCV decreases",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MCHC increases",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "RDW decreases",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hemoglobin decreases",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. RDW decreases",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4b0dc0fa"
+    },
+    {
+      "text": "A 6-year-old child presents with a history of recurrent episodes of jaundice, fatigue, and abdominal pain. Physical examination reveals splenomegaly. The child's blood work shows the presence of spherocytes on the peripheral blood smear. An osmotic fragility test is performed. Identify the correct statement about this test.",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a diagnostic test.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "In thalassemia patients, low osmotic fragility leads to a right shift on the graph.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "In HS patients, high osmotic fragility leads to a right shift on the graph.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Normally, RBC lysis begins at 0.7% NaCl.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. In HS patients, high osmotic fragility leads to a right shift on the graph.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/1isjv5alXJiTaq27605Y1736863463.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "88ff9d31"
+    },
+    {
+      "text": "A 30-year-old male presents with severe fatigue, shortness of breath, and dark urine after eating fava beans. He has a history of recurrent hemolytic anemia. On examination, he appears pale and jaundiced. Which statement correctly describes the pathogenesis of his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deficiency in an enzyme leads to oxidative stress-induced hemolysis.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Excessive production of glutathione leads to the destruction of red blood cells.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreased levels of reactive oxygen species (ROS) lead to decreased oxidative damage.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The severity is not influenced by environmental factors or dietary triggers like fava beans.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Deficiency in an enzyme leads to oxidative stress-induced hemolysis.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/hTWw0o2plPLpgcdIQP9u1736863806.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f81c1775"
+    },
+    {
+      "text": "A 45-year-old male presents to the emergency department with symptoms of acute hemolytic anemia. A methemoglobin reduction test is performed, revealing a delayed rate of methemoglobin reduction. What is the underlying principle of the above-mentioned screening test used to diagnose G6PD deficiency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measures the levels of methemoglobin in red blood cells.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Evaluates the ability of red blood cells to reduce methemoglobin back to haemoglobin.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Detects G6PD activity by measuring the rate of reduction of a fluorescent dye.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Measures the actual activity levels of the G6PD enzyme.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Evaluates the ability of red blood cells to reduce methemoglobin back to haemoglobin.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/FnP7XAROT6ccOZhGAyI11736864003.png",
+        "https://image.prepladder.com/content/0nIdGIjn0eyTqHrXUQvK1736865676.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d0f16463"
+    },
+    {
+      "text": "Which of the following statements regarding Paroxysmal Nocturnal Hemoglobinuria (PNH) is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Causes extravascular hemolysis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Splenectomy would be beneficial",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Causes hemolysis only at night",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acquired intracorpuscular defect",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Acquired intracorpuscular defect",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "81af4ef1"
+    },
+    {
+      "text": "Which of the following defects is seen in paroxysmal nocturnal hemoglobinuria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spectrin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CD 45 and CD 95",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "G6PD enzyme",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "PIGA gene",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. PIGA gene",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/z9gnQ3csQnv8ZEfhyVhU1737695129.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "514de51e"
+    },
+    {
+      "text": "Which of the following is the most common cause of death in Paroxysmal Nocturnal Hemoglobinuria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pancytopenia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acute Myeloid Leukemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hepatic vein thrombosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Myelodysplastic syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hepatic vein thrombosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:564px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Complications of PNH</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Bone <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> failure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Pancytopenia<strong> (Option A)</strong></li>\n<li>Aplastic anemia</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Thrombosis</strong> (Most common <span class=\"customMeta\" data-dictid=\"254dc5106d1692777183ba9ab1b3e5\">cause of death</span> in PNH)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Cerebral <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> thrombosis</li>\n<li>Hepatic and <span class=\"customMeta\" data-dictid=\"a74252404f1692777196d3f24bde2d\">portal</span> <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> <span class=\"customMeta\" data-dictid=\"3e745919391692777200fae21b7251\">thrombosis</span> - Budd Chiari Syndrome</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Clonal expansion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Acute <span class=\"customMeta\" data-dictid=\"da88d7f2211692777193037caba514\">Myeloid</span> Leukemia(AML). <strong>(Option B)</strong></li>\n<li>Myelodysplastic syndrome<strong> (Option D)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "25f18e56"
+    },
+    {
+      "text": "Which of the following treatments is commonly used for Paroxysmal Nocturnal Hemoglobinuria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rituximab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bevacizumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Eculizumab",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Trastuzumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Eculizumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:736px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Monoclonal Antibody</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Disorders</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Mechanism of Action</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Eculizumab</strong></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Paroxysmal <span class=\"customMeta\" data-dictid=\"d51601f2c41692777193ddfa55d163\">Nocturnal</span> <span class=\"customMeta\" data-dictid=\"ddeb334a351692777188795bb090ef\">Hemoglobinuria</span> (PNH)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Inhibits <span class=\"customMeta\" data-dictid=\"f0ff39a3fa1692777184cf743ca1e7\">complement</span> protein C5, preventing <span class=\"customMeta\" data-dictid=\"16b76d1d1c1692777200240efcb0e2\">terminal</span> <span class=\"customMeta\" data-dictid=\"f0ff39a3fa1692777184cf743ca1e7\">complement</span> <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> and reducing hemolysis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Rituximab (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Non-Hodgkin lymphoma</li>\n<li>Chronic lymphocytic <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">leukemia</span> (CLL)</li>\n<li>Rheumatoid arthritis</li>\n<li>Idiopathic thrombocytopenic <span class=\"customMeta\" data-dictid=\"0acd34c758169277719644923511e5\">purpura</span> (ITP)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Targets CD20 <span class=\"customMeta\" data-dictid=\"782b31281a1692777181708484c1d1\">antigen</span> on B cells, leading to B cell <span class=\"customMeta\" data-dictid=\"7061e0e0051692777186ba9c5f27df\">depletion</span> and <span class=\"customMeta\" data-dictid=\"6c0c4e41b31692777192be0fbfce62\">modulation</span> of immune response.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Bevacizumab (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Colorectal cancer</li>\n<li>Lung cancer</li>\n<li>Renal cell carcinoma</li>\n<li>Age-related <span class=\"customMeta\" data-dictid=\"ebad8eb48c1692777191b5de5d04a1\">macular</span> degeneration</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Targets <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> endothelial growth factor (VEGF), inhibiting <span class=\"customMeta\" data-dictid=\"2c25c78eca1692777181c8c8fdae31\">angiogenesis</span> and tumor growth.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Trastuzumab (Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Breast cancer</li>\n<li>Gastric cancer</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Targets HER2/neu <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> on cancer cells, inhibiting cell <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">proliferation</span> and promoting antibody-dependent <span class=\"customMeta\" data-dictid=\"12a6f23332169277718402ca6703e2\">cellular</span> cytotoxicity.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f59de3da"
+    },
+    {
+      "text": "Match the following histopathological findings with their correct diagnosis: 1. A. Sickle Cell Anemia 2. B. Hereditary Spherocytosis 3. C. G6PD deficiency 4. D. Thalassemia",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-C, 2-D, 3-A, 4-B",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-D, 2-C, 3-B, 4-A",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-B, 2-A, 3-D, 4-C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-A, 2-B, 3-C, 4-D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-C, 2-D, 3-A, 4-B",
+      "question_images": [
+        "https://image.prepladder.com/content/7iZ2TdqB63DWN8gLbSad1736872233.png",
+        "https://image.prepladder.com/content/sKMh1Owlt3i1laJlLPUs1736872297.png",
+        "https://image.prepladder.com/content/RDJASHPv96yEqGt27MFJ1736872032.png",
+        "https://image.prepladder.com/content/EBkx3VI6IrGhNxF7HKmg1736872122.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/A4lItju6PzBsUMU0MfzP1736872424.png",
+        "https://image.prepladder.com/content/IM7fScVvtFAOUCEaRaou1736872484.png",
+        "https://image.prepladder.com/content/IB6hbmCCuEisFbcq7lha1736872537.png",
+        "https://image.prepladder.com/content/H0SD16ds25bieswr74q01736872596.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:783px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Red Blood Cell Abnormality</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Reason</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>1. Bite cells</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author='\"Joan-Lluis Vives-Corrons Elena Krishnevskaya\"' data-hash=\"\" data-license=\"CC BY 4.0\" data-source=\"https://www.researchgate.net/figure/Peripheral-blood-smear-stained-with-MGG-of-a-hemolytic-crisis-due-G6PD-deficiency_fig6_349926118\" data-tags=\"\" height=\"152\" src=\"https://image.prepladder.com/content/A4lItju6PzBsUMU0MfzP1736872424.png\" width=\"200\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C. <span class=\"customMeta\" data-dictid=\"96985248371692777188cfb38ca861\">G6PD</span> deficiency</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Oxidative stress leads to <span class=\"customMeta\" data-dictid=\"4b8ccd7c3516927771851fdaee3f80\">denaturation</span> of <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">hemoglobin</span> \u2192 Heinz bodies</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>2. Target cells</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Prof. Osaro Erhabor\" data-hash=\"\" data-license=\"CC BY-SA 4.0\" data-source=\"https://en.wikipedia.org/wiki/Thalassemia#/media/File:Delta_Beta_Thalassemia.jpg\" data-tags=\"\" height=\"241\" src=\"https://image.prepladder.com/content/IM7fScVvtFAOUCEaRaou1736872484.png\" width=\"300\"/></p>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>D. Thalassemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>\u2193 <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">Hemoglobin</span> content in RBCs \u2192 \u2193 <span class=\"customMeta\" data-dictid=\"8790b4667016927771979066e8958c\">RBC</span> volume \u2192 Surface area relatively unchanged \u2192 \u2191 Surface area to volume ratio\u2192 Altered <span class=\"customMeta\" data-dictid=\"a99114a6c216927771916f45ffc66c\">lipid</span> composition \u2192 \u2191 Formation of <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> protrusions\u2192 \u2191 <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">Membrane</span> <span class=\"customMeta\" data-dictid=\"acb259200b16927771908888d1377c\">instability</span> \u2192 \u2193 <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">Hemoglobin</span> accumulation in certain <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> areas \u2192 Central area with hemoglobin, clear zone, outer ring</p>\n\t\t\t\u00a0\n\n\t\t\t<p>Uneven distribution of <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">hemoglobin</span> and lipids \u2192 Characteristic \"bull's-eye\" appearance of <strong>Target cells</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>3. Sickle-shaped red blood cells</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"S. ArunanS. Hariharan\" data-hash=\"\" data-license=\"NA\" data-source=\"https://www.semanticscholar.org/paper/Edge-Detection-of-Sickle-Cells-in-Red-Blood-Cells-Arunan-Hariharan/6809d2a77d118ba6bed38ac74b6ed1b9a975ea16/figure/0\" data-tags=\"\" height=\"199\" src=\"https://image.prepladder.com/content/IB6hbmCCuEisFbcq7lha1736872537.png\" width=\"300\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A. Sickle Cell Anemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Abnormal <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">Hemoglobin</span> (HbS) \u2192HbS molecules <span class=\"customMeta\" data-dictid=\"8fb5d5a87a1692777196e95cd3c0dc\">polymerize</span> under low oxygen\u2192RBCs become rigid and assume a <strong>sickle shape.</strong></p>\n<p>\u00a0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>4. Spherocytes</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Paulo Henrique Orlandi Mourao \" data-hash=\"\" data-license=\"CC BY-SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Hereditary_spherocytosis#/media/File:Hereditary_Spherocytosis_smear_2010-03-17.JPG\" data-tags=\"\" height=\"226\" src=\"https://image.prepladder.com/content/H0SD16ds25bieswr74q01736872596.png\" width=\"300\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>B. <span class=\"customMeta\" data-dictid=\"ee5175c06116927771880846d1cbe0\">Hereditary</span> Spherocytosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Genetic <span class=\"customMeta\" data-dictid=\"359a8718a61692777185568ac80abb\">defect</span> in <span class=\"customMeta\" data-dictid=\"8790b4667016927771979066e8958c\">RBC</span> <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> protein(spectrin) \u27f6 Loss of <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> surface area \u27f6 RBCs become <strong>spherical</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6f5be852"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "test5",
+    "title": "CT_Scan-Previous_Year_Questions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "IOC for Ureteric calculi is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USG",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "NC-CT",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "CE-CT",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ureteroscopy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. NC-CT",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "cea12d1c"
+    },
+    {
+      "text": "In which of the following scans does maximum radiation exposure occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "X-ray abdomen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chest X ray",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IV pyelography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CT",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CT",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/DG1sjU3rsTT3XISrCXwx1748158843.png"
+      ],
+      "explanation": "<p>Correct Answer D- CT\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5e19abad"
+    }
+  ]
+}

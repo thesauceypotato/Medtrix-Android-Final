@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "id": "test9",
+    "title": "Ophthalmology_Image_Based_Question",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "The fundoscopy findings of a known case of HIV with low CD4 counts in shown below. What is the treatment of choice for this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acyclovir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ganciclovir",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Valacyclovir",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tryflurothymidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ganciclovir",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(832).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "67b991f4",
+      "audio": ""
+    },
+    {
+      "text": "A hypertensive patient comes to the OPD with complaints of visual disturbances. On fundoscopy, multiple flame-shaped hemorrhages, cotton wool spots, and disc edema were found. What is the grade of hypertensive retinopathy in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grade I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Grade II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Grade III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Grade IV",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Grade IV",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(731).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c2c9baca",
+      "audio": ""
+    },
+    {
+      "text": "A child presented to the OPD with a characteristic type of cataract as seen in the image below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diabetes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Galactosemia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Wilson\u2019s disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Myotonic dystrophy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Galactosemia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/3(648).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "82cf6015",
+      "audio": ""
+    },
+    {
+      "text": "An 86-year-old man is posted for cataract surgery. The given lens is chosen to be used for implantation. Identify the lens.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior chamber IOL",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Posterior chamber IOL",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Iris claw lens",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Scleral fixated IOL",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Posterior chamber IOL",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4(598).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "12178f64",
+      "audio": ""
+    },
+    {
+      "text": "A 68-year-old diabetic woman presents with painless loss of vision. The ocular findings are shown in the image below. What is the likely diagnosis and management for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zonular cataract and lensectomy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rosette cataract and sugar control",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sunflower cataract and lesion extraction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Immature senile cataract and phacoemulsification with IOL",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Immature senile cataract and phacoemulsification with IOL",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/5(573).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f65b3e45",
+      "audio": ""
+    },
+    {
+      "text": "The following finding is found on the ophthalmologic examination of a 19-year-old boy. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 1 Diabetes mellitus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Alport\u2019s syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lowe\u2019s syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Myotonic dystrophy",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Myotonic dystrophy",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6(461).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "661eeb64",
+      "audio": ""
+    },
+    {
+      "text": "At a routine ophthalmological check-up, a patient was found to have bilateral, Y-shaped lens opacities as shown below. He was diagnosed with suture cataracts. Which zone of the lens nucleus is not involved here?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fetal nucleus",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Embryonic nucleus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Infantile nucleus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Adult nucleus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fetal nucleus",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/7(414).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6028ea6f",
+      "audio": ""
+    },
+    {
+      "text": "What does the given fundoscopic picture suggest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary optic atrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Secondary optic atrophy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glaucomatous optic atrophy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Consecutive optic atrophy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Glaucomatous optic atrophy",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/8(391).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ac7cf0c7",
+      "audio": ""
+    },
+    {
+      "text": "A 36-year-old male comes to you with the complaints of foreign body sensation, irritation, and lacrimation in the right eye. During the evaluation, you notice the following findings with normal lid margins. This condition is known as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Distichiasis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trichiasis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pseudotrichiasis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pseudodistichiasis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Trichiasis",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/9(350).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "de157d9e",
+      "audio": ""
+    },
+    {
+      "text": "Corneal ulcer in the given picture is stained with a dye. Which is false for the dye used here?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blue light comes from slit lamp",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Green is normal area",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The same dye is used in Goldmann applnation tonometry",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dye used is orange coloured dye",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Green is normal area",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/WhatsApp%20Image%202025-02-12%20at%205_45_12%20PM.jpeg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "50af7dd3",
+      "audio": ""
+    },
+    {
+      "text": "A 14-year-old girl you examine in an outreach camp is found to have this abnormality. What is the most common site of the condition seen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Superonasal",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inferonasal",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Superotemporal",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inferotemporal",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inferonasal",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/11(277).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e364da71",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a feature of shown instrument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15 times magnification in emmetropia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Image is erect and virtual",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Binocular vision",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Smaller field of vision",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Binocular vision",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/12(266).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7d5c918b",
+      "audio": ""
+    },
+    {
+      "text": "Identify the chart given in the picture below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hess chart",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Snellen chart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pelli-Robson chart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ETDRS chart",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hess chart",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/13(230).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b3d013da",
+      "audio": ""
+    },
+    {
+      "text": "A neonate is brought with complaints of photophobia and watering. Clinical examination shows normal tear passages and clear but large cornea. Investigation reveals Haab\u2019s striae seen in the eye. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buphthalmos",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Keratoconus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trachoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Keratoglobus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Buphthalmos",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/14(210).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0d17e349",
+      "audio": ""
+    },
+    {
+      "text": "Deposition of which of the following is responsible for band-shaped keratopathy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amyloid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Calcium",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Monopolysaccharide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cholesterol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Calcium",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/15(223).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fe761081",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents to you with anhidrosis and enophthalmos. Examination reveals miosis along with mild ptosis as shown in the below image. You decide to correct the ptosis by performing Fasanella-Servat operation, by resecting which of the following muscles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Levator palpebrae superioris muscle",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Frontalis muscle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Superior rectus muscle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Muller\u2019s muscle",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Muller\u2019s muscle",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/16(194).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fc1d624f",
+      "audio": ""
+    },
+    {
+      "text": "A 2-month-old girl child was brought to the hospital by her parents with the following presentation. What is the appropriate management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate surgery",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Wait until 4 months of age",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Wait until 2 years of age",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Trial of medical therapy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Immediate surgery",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/17(161).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "da71c743",
+      "audio": ""
+    },
+    {
+      "text": "Identify the defect shown in the image:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herbert pits",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Horner tranta spots",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gelatinous papillae",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pannus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Herbert pits",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/18(156).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e25f1a61",
+      "audio": ""
+    },
+    {
+      "text": "An 12-year-old presented with the following growth in the eye as shown below. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Papilloma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Myxoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pyogenic granuloma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Limbal dermoid",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Limbal dermoid",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/19(150).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "04ad8be4",
+      "audio": ""
+    },
+    {
+      "text": "Identify the visual field defect in the given image:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Altitudinal hemianopia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Complete binasal hemianopia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bitemporal hemianopia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Homonymous hemianopia",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Homonymous hemianopia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/20(154).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2fa8baf1",
+      "audio": ""
+    }
+  ]
+}

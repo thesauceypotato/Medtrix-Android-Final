@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Anesthesia - AIIMS JUNE 2020",
+    "category": "AIIMS PYQ"
+  },
+  "questions": [
+    {
+      "text": "Chest trauma patient, which is not the initial ventilator setting:",
+      "options": [
+        {
+          "label": "A",
+          "text": "FiO2 = 60%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tidal volume 10-15 ml /kg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "PEEP 0-5 cm H2O",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inspiratory flow 60-100 liter",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tidal volume 10-15 ml /kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tidal volume 10-15 ml /kg One of the most important components of lung protective strategy is th e low tidal volume of 4-6 ml/kg.</p>\n<p><strong>Highyeild:</strong></p><p>Lung protective strategy is meant to prevent barotrauma therefore other components of lung protective strategy are: Plateau pressure less than 30 cmH20. Starting PEEP of 0- 5 cmH20 and then titrate based on pO2 and plateau pressure.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A- One more component of lung protective strategy is to prevent oxygen-related toxicity, therefore, FIO2 should be kept below 60%. Option C- As PPEP can cause barotrauma, therefore, minimum PEEP should be used. Option D - A flow of 60-70 liter is optimal for the majority of the patients.</p>\n<p><strong>Extraedge:</strong></p><p>Inspiratory flow is the velocity with which the breathing gas is supplied to the patient. If the inspiratory flow is less than the patient demand then the patient will try to increase his inspiratory effort and this will increase the work of breathing which is not desirable. If the inspiratory flow is high there will be increased airway pressure which can cause barotrauma and increase dead space which is again not desirable. Therefore, a flow of 60-70 liters/minute is adequate (in COPD patients a higher flow rate of 80-100 liters/min is required to increase the expiratory time). Modern-day ventilators automatically adjust the flows based on patient demands.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dc6c6fde",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "meta": {
+    "id": "test15",
+    "title": "Antimicrobials-Antiviral_Drugs",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 45-year-old male patient presents to the clinic with fatigue, jaundice, and abdominal discomfort. Laboratory tests reveal elevated liver enzymes and positive Hepatitis B surface antigen (HBsAg). Further evaluation shows HBsAg +ve, Anti- HBC IgG +ve, HBeAg +ve and evidence of liver inflammation on biopsy. What should be the drug of choice for the treatment of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lamivudine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Interferon-alpha",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tenofovir",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Adefovir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tenofovir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "806327ce"
+    },
+    {
+      "text": "A 65-year-old male patient with a history of hypertension and type 2 DM presents with significant shortness of breath, a persistent cough, and a high fever. His oxygen saturation is 85% on room air. After a thorough examination and necessary tests, he is diagnosed with COVID-19 pneumonia. Which of the following treatment measures has been shown to offer the maximum reduction in mortality for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydroxychloroquine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Convalescent Plasma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dexamethasone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Remdesivir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dexamethasone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Remdesevir (Option D)</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Inhibits RNA-dependent <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> polymerase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Favipiravir</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Molnupiravir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Causes errors in the <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> during replication</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nirmatrelvir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Protease inhibitor</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bebtelovimab</p>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Monoclonal antibodies against <span class=\"customMeta\" data-dictid=\"1931730fd41692777199bf164f574c\">spike</span> protein of SARS-CoV2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bamlanivimab</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sotrovimab</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tocilizumab</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IL-6 inhibitor</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Baricitinib</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Janus <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> inhibitor</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Corticosteroids</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Methylprednisolone/dexamethasone.</p>\n<p>Reduction of mortality and inflammation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Heparin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anti-coagulation and prevention of thrombotic complications.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a70b65f5"
+    },
+    {
+      "text": "Which of the following drugs is generally not used for topical HSV infections?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acyclovir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trifluridine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ganciclovir",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Docosanol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ganciclovir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Drug</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MOA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Use</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nucleoside analogues</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>V</strong>idarabine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Viral <span class=\"customMeta\" data-dictid=\"59b270e4eb1692777186cf05589eda\">DNA polymerase</span> Inhibition.</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Topical treatment of <span class=\"customMeta\" data-dictid=\"17df0c44e116927771897deca1bbf4\">HSV</span> infections</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>I</strong>doxuridine</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> DNA <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> by competing with <span class=\"customMeta\" data-dictid=\"e32083bfa81692777200f1407487aa\">thymidine</span> triphosphate.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Trifluridine (OptionB)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Herpes simplex keratitis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acyclovir (DOC) (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Viral <span class=\"customMeta\" data-dictid=\"59b270e4eb1692777186cf05589eda\">DNA polymerase</span> Inhibition.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Genital herpes, cold sores (HSV-1, HSV-2)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>C</strong>idofovir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Viral <span class=\"customMeta\" data-dictid=\"59b270e4eb1692777186cf05589eda\">DNA polymerase</span> Inhibition.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Off-label <span class=\"customMeta\" data-dictid=\"9c5b45e3b916927772000167f2669a\">topical</span> use for certain <span class=\"customMeta\" data-dictid=\"17df0c44e116927771897deca1bbf4\">HSV</span> infections</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alcohol</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Docosanol (Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits <span class=\"customMeta\" data-dictid=\"a7dfeb385e1692777203302bcf142d\">fusion</span> between the <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> and the <span class=\"customMeta\" data-dictid=\"e502fd2a6816927771880ae17fc163\">herpes</span> simplex virus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cold sores (HSV-1)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "594b3a8a"
+    },
+    {
+      "text": "Choose the correct statements regarding cidofovir. 1. It is primarily used in the treatment of CMV retinitis. 2. It can be administered orally. 3. It is commonly used as a first-line treatment for influenza infections. 4. Requires probenecid co-administration.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2 and 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 and 2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 and 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1 and 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid\">\n<p style=\"text-align:center\"><strong>Cidofovir</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid\">\n<p>It is a <span class=\"customMeta\" data-dictid=\"8dcffccac016927771927605248b59\">monophosphate</span> <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> <span class=\"customMeta\" data-dictid=\"22e0051a181692777181872183edb2\">analogue</span> of cytidine.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Pharmacokinetics</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li><strong>Administered intravenously (Statement 2- Ruled Out)</strong></li>\n<li>Excreted unchanged by kidneys</li>\n<li>A long <span class=\"customMeta\" data-dictid=\"082d1526db1692777188311b6eef04\">half-life</span> allows for once-weekly dosing</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Mechanism of Action</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Penetrates into infected cells \u27f6 Converted to active <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> \u27f6 <strong>Inhibits</strong> <strong>viral</strong> <strong>DNA</strong> <strong>polymerase</strong> \u27f6 <span class=\"customMeta\" data-dictid=\"7bc107ea09169277719095466ee864\">Incorporation</span> into <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> DNA \u27f6 Terminates DNA chain elongation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Uses</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li><strong>Treatment of <span class=\"customMeta\" data-dictid=\"ee831318721692777185479e65655e\">cytomegalovirus</span> (CMV) <span class=\"customMeta\" data-dictid=\"4f1a033cae1692777197a3a6937a0c\">retinitis</span> in <span class=\"customMeta\" data-dictid=\"a3cc9f976916927771895692a1a8a0\">immunocompromised</span> patients (Statement 1).</strong></li>\n<li>Off-label use in treating other <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> infections, such as adenovirus, herpesviruses (HSV, VZV), and <span class=\"customMeta\" data-dictid=\"70ae0d8a1f1692777194515e8836a4\">papillomavirus</span> infections <strong>(Statement 3- Ruled Out)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Side Effects</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li><strong>Nephrotoxicity (Administer with <span class=\"customMeta\" data-dictid=\"2ee374b25c16927771963eae834a26\">Probenecid</span> to reduce toxicity) (Statement 4).</strong></li>\n<li>Neutropenia.</li>\n<li>Hypotension.</li>\n<li>Ocular effects (including <span class=\"customMeta\" data-dictid=\"b07d6fd6ef1692777201015472cd79\">uveitis</span> and iritis).</li>\n<li>Gastrointestinal disturbances (nausea, diarrhoea).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "52c803f4"
+    },
+    {
+      "text": "A 60-year-old male with a history of HIV infection presents to the clinic with complaints of blurred vision, floaters, and pain in his left eye. On fundus examination, following appearance is seen. Which of the following drugs is most appropriate to manage this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acyclovir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Valganciclovir",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Oseltamivir",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ribavirin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Valganciclovir",
+      "question_images": [
+        "https://image.prepladder.com/content/qLwcelOJRunDdFIuoIrr1736482910.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Valganciclovir</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nucleoside analogue</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pharmacokinetics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Oral administration.</li>\n<li>Converted to <span class=\"customMeta\" data-dictid=\"c6784934931692777188d5bd75988f\">ganciclovir</span> (Prodrug).</li>\n<li>Renal clearance.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MOA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Conversion to <span class=\"customMeta\" data-dictid=\"c6784934931692777188d5bd75988f\">Ganciclovir</span> \u27f6 <span class=\"customMeta\" data-dictid=\"7bc107ea09169277719095466ee864\">Incorporation</span> into <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">Viral</span> DNA \u27f6 <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">Inhibition</span> of <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">Viral</span> <span class=\"customMeta\" data-dictid=\"59b270e4eb1692777186cf05589eda\">DNA Polymerase</span> \u27f6 Prevention of <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">Viral</span> DNA <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">Synthesis</span> \u27f6 Decreased <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">Viral</span> Replication</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Uses</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>CMV retinitis</li>\n<li>CMV <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> in transplant patients</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Side Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Neutropenia</li>\n<li>Thrombocytopenia</li>\n<li>Anemia</li>\n<li>Fever</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ad26641a"
+    },
+    {
+      "text": "A 45-year-old male presents with painful vesicular lesions on his lips and genital area. He has been on acyclovir therapy for HSV infection, but there has been no improvement in his symptoms. Given the concern for acyclovir-resistant HSV, which of the following drugs is most appropriate to manage this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valacyclovir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Famciclovir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Foscarnet",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Oseltamivir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Foscarnet",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:645px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Foscarnet</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Cidofovir</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Antiviral</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Antiviral</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pharmacokinetics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>IV administration</li>\n<li>Renal clearance</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>IV administration</li>\n<li>Renal clearance</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MOA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Inhibits<strong> <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> <span class=\"customMeta\" data-dictid=\"59b270e4eb1692777186cf05589eda\">DNA polymerase</span> </strong>directly</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Inhibits <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> DNA polymerase</li>\n<li>Incorporates into <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> DNA</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Uses</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HSV infections resistant to acyclovir</li>\n<li>CMV retinitis</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Acyclovir-resistant <span class=\"customMeta\" data-dictid=\"17df0c44e116927771897deca1bbf4\">HSV</span> infections</li>\n<li>CMV retinitis</li>\n<li>Respiratory papillomatosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Side Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Nephrotoxicity</li>\n<li>Electrolyte imbalances</li>\n<li>Seizures</li>\n<li>Anemia</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Nephrotoxicity</li>\n<li>Ocular hypotony</li>\n<li>Neutropenia</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3c03fa4f"
+    },
+    {
+      "text": "A 22-year-old male presents to the physician with painful ulcers and a burning sensation over his genital area. Physical examination reveals a fluid-filled vesicular lesion with a red erythematous base (image). All of the following are true regarding the drug of choice (DOC) for this condition, except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an antiviral drug that works as a nucleotide analogue, preventing viral replication.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It is applied topically, intravenously, or orally.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It should be taken with plenty of water.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is also used to treat Ebstein Barr virus (EBV) and varicella-zoster virus (VZV)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. It is an antiviral drug that works as a nucleotide analogue, preventing viral replication.",
+      "question_images": [
+        "https://image.prepladder.com/content/Fu8cu4FgMlsvEhUo1Pxa1736482798.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/eTRfCMYkqI3ZTgLkvNIF1736482853.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "93f625f5"
+    },
+    {
+      "text": "A 30-year-old woman arrives at the clinic with a high-grade fever, myalgia, and a dry cough that has persisted for the last 36 hours. Her family doctor diagnosed her with a flu infection and recommended baloxavir. Which of the following correctly describes the drug's mechanism of action?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibits neuraminidase, preventing the release of new viral particles",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inhibits viral RNA polymerase, preventing viral replication",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Inhibits M2 ion channels, preventing viral uncoating",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inhibits viral protease, preventing viral maturation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inhibits viral RNA polymerase, preventing viral replication",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Drug</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Target/Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Virus</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Baloxavir</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> <span class=\"customMeta\" data-dictid=\"d419920a6616927771969805c3d65d\">polymerase</span> (endonuclease activity)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Influenza A & B</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Oseltamivir/Zanamivir</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits <span class=\"customMeta\" data-dictid=\"257d9cb9fb1692777193840b7918f6\">neuraminidase</span> \u2192 prevents <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> release</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Influenza A & B</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Amantadine/Rimantadine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits M2 <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> channel \u2192 blocks uncoating</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Influenza A only</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Protease Inhibitors (e.g. Ritonavir)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibit <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> <span class=\"customMeta\" data-dictid=\"fe13bbded1169277719694883c6ba4\">protease</span> \u2192 prevent maturation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HIV, HCV</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/as81UhM1vbnSY3akxrJi1747294807.mp3",
+      "video": "",
+      "uid": "7216f694"
+    },
+    {
+      "text": "A 23-year-old male presents to the hospital with a high-grade fever, chest pain and dry cough for the last two days. A rapid influenza test confirmed the diagnosis. Which of the following is the treatment of choice for this patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reassurance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oseltamivir",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Amantidine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Zanamivir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Oseltamivir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td colspan=\"8\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Management of <span class=\"customMeta\" data-dictid=\"c3817918b816927771902d2176d0c8\">Influenza</span> (flu virus)</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Class</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>M-Protein inhibitors</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neuraminidase inhibitors</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MOA</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Blocks protein <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> and <span class=\"customMeta\" data-dictid=\"3a8a6dc85b1692777202f2db609ebb\">virion</span> assembly</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Blocks <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> release</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drug and Uses</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. <strong>Amantadine\u00a0(Option C)</strong></p>\n<ul>\n<li>DOC in <span class=\"customMeta\" data-dictid=\"c3817918b816927771902d2176d0c8\">influenza</span> + parkinsons disease</li>\n</ul>\n<p>2. Rimantidine</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. Oseltamavir (Tamiflu)</p>\n<ul>\n<li>Oral</li>\n<li>DOC: <span class=\"customMeta\" data-dictid=\"c3817918b816927771902d2176d0c8\">Influenza</span> A and B</li>\n</ul>\n<p>2. <strong>Zanamavir\u00a0(Option D):</strong></p>\n<ul>\n<li>Inhalational</li>\n<li>DOC: Resistant <span class=\"customMeta\" data-dictid=\"c3817918b816927771902d2176d0c8\">influenza</span> A and B</li>\n<li>C/I in <span class=\"customMeta\" data-dictid=\"76891bb6e91692777182cda16e1db6\">asthma</span> and COPD</li>\n</ul>\n<p>3. IV Peramavir</p>\n<p>4. Lanimavir</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Side effects</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High resistance</li>\n<li>Ankle oedema</li>\n<li>Livedo reticularis</li>\n</ul>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Nausea/vomiting</li>\n<li>Bronchospasm (zanamavir)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0a8d8ae1"
+    },
+    {
+      "text": "A 2-year-old child presents to the hospital with persistent cough, wheezing, and difficulty breathing. A viral panel is conducted, and the child is diagnosed with respiratory syncytial virus (RSV). What is the drug of choice for this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lenecapavir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ribavirin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Interferon-alpha",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Palivizumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ribavirin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "67f63d38"
+    },
+    {
+      "text": "A 47-year-old female with chronic hepatitis C, who is currently on sofosbuvir, presents with a persistent cough, weight loss, and fever. Chest X-ray revealed a cavitatory lesion with hilar lymphadenopathy in the right lower lobe. The patient was started on an appropriate treatment regimen. Which of the following complications is likely to be seen in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased efficacy of sofosbuvir",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Increased risk of hepatotoxicity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased risk of peripheral neuropathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased risk of fatal cardiac arrest",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Decreased efficacy of sofosbuvir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ce4042c7"
+    },
+    {
+      "text": "A 38-year-old man with a history of drug abuse presents to the clinic with jaundice and right upper quadrant pain. Laboratory tests confirm the presence of anti-HCV antibodies. The gastroenterologist advises starting NS5A and NS5B inhibitor combination therapy. Which of the following correctly describes the mechanism of action of the drugs used in this patient? Inhibits viral protease, preventing the cleavage of viral polyproteins Inhibits viral RNA polymerase, halting viral RNA synthesis Inhibits the viral protein essential for viral RNA replication and assembly Inhibits viral exit through degradation of viral RNA",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 and 3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "3 and 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 and 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2 and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td colspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Management of Hepatitis C</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Directly acting antivirals (DAA): Drug of choice</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Interferon alpha</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Type</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>NS3/4A Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>NS5A Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>NS5B Inhibitor</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MOA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Functions as a <span class=\"customMeta\" data-dictid=\"fe13bbded1169277719694883c6ba4\">protease</span> inhibitor, cleave functional protein</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibit <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> <span class=\"customMeta\" data-dictid=\"3e05409f651692777197645882d8a2\">replication</span> and assembly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>RNA <span class=\"customMeta\" data-dictid=\"d419920a6616927771969805c3d65d\">polymerase</span> inhibitor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Produce <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> RNA degrading <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> and inhibits exit of the virus</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ends with -previr-<br/>\n\t\t\t\u00a0</p>\n<p>1. Simeprevir</p>\n<p>2. Boceprevir</p>\n<p>3. Voxilaprevir</p>\n<p>4. Telaprevir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ends with -Asvir-<br/>\n\t\t\t\u00a0</p>\n<p>1. Ledipasvir</p>\n<p>2. Ombitasvir</p>\n<p>3. <strong>Velpatasvir</strong></p>\n<p>4. Elbasvir</p>\n<p>5. Daclatasvir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ends with -bruvir-</p>\n\t\t\t\u00a0\n\n\t\t\t<p>1. Dasabuvir</p>\n<p><strong>2. Sofosbuvir</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pegylated <span class=\"customMeta\" data-dictid=\"e25285958816927771903175f9633f\">interferon</span> \u03b1</p>\n<ul>\n<li>Used in Hepatitis C, B and D</li>\n<li>DOC for Hepatitis B & D coinfection</li>\n<li>Kaposi Sarcoma</li>\n<li>CML</li>\n<li>Hepatitis <span class=\"customMeta\" data-dictid=\"f3063c1d8b169277719018bf869980\">induced</span> thrombocytopenia</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adverse events</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Avoid use with <span class=\"customMeta\" data-dictid=\"e4bcd9fe2c1692777187df0dbb0ddc\">ethinyl</span> <span class=\"customMeta\" data-dictid=\"d8cc09346f16927771878d48ba1ce8\">estradiol</span> (hepatotoxicity)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Avoid with antacids and potent P-gp inducers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Avoid use with amiodarone (severe bradycardia)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. BM suppression</p>\n<p>2. Hypo/ hyperthyroidism</p>\n<p>3. Flu-like syndrome</p>\n<p>4. Nephrotoxicity</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c313977b"
+    },
+    {
+      "text": "A 32-year-old man presents to the clinic with persistent fatigue, weight loss, and recurrent infections. After testing, he is diagnosed with HIV. The physician discusses initiating antiretroviral therapy (ART) with drugs that inhibit nucleoside reverse transcriptase enzyme. Which of the following drugs does not belong to that class?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abacavir.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tenofovir.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Stavudine.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Didanosine.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tenofovir.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:688px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Nucleoside <span class=\"customMeta\" data-dictid=\"2c764fcf7316927771978d26033b04\">reverse transcriptase</span> inhibitors (NRTIs)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MOA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Requires phosphorylation</strong> to convert into fake active nucleotides</li>\n<li>Competitive <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of <span class=\"customMeta\" data-dictid=\"2c764fcf7316927771978d26033b04\">reverse transcriptase</span> (RNA-dependent DNA polymerase) enzyme</li>\n<li>Incorporated into the <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> DNA chain during replication, leading to chain termination</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Use</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Active against HIV1 and HIV2</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pharmacokinetics</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>All excreted by the <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> except <strong>Zidovudine</strong> and <strong>Abacavir</strong></li>\n<li>Metabolised by non-microsomal enzymes</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mnemonic: <strong>DAZZELS</strong></p>\n<ul>\n<li>D - Didanosine\u00a0<strong>(Option D ruled out)</strong></li>\n<li>A - Abacavir\u00a0<strong>(Option A ruled out)</strong></li>\n<li>Z - Zidovudine</li>\n<li>Z - Zalcitabine</li>\n<li>E - Emtricitabine\u00a0</li>\n<li>L - Lamivudine\u00a0</li>\n<li>S - Stavudine\u00a0<strong>(Option C ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "308d587e"
+    },
+    {
+      "text": "A 35-year-old male patient who is HIV-positive presents with a persistent cough, night sweats, weight loss, and fever. Sputum samples confirm the diagnosis of tuberculosis. His CD4 count is 150 cells/mm\u00b3, and he is not currently on antiretroviral therapy. What should be the next step in the management of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start antiretroviral therapy (ART) immediately",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Initiate anti-tuberculosis treatment first and defer ART",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Start both anti-tuberculosis treatment and ART simultaneously",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Administer prophylactic treatment for opportunistic infections before starting any TB or HIV treatment",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Initiate anti-tuberculosis treatment first and defer ART",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7b1d38ba"
+    },
+    {
+      "text": "An intern presents to the occupational health department after sustaining a needle stick injury from a suspected HIV-positive patient. In this case, what is the regimen of choice for post-exposure prophylaxis (PEP)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zidovudine + Lamivudine + Ritonavir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Emtricitabine + Tenofovir + Atazanavir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tenofovir + Emtricitabine + Raltegravir",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tenofovir + Lamivudine + Dolutegravir",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Tenofovir + Lamivudine + Dolutegravir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/45AiXFQ62hqtlOpooGGd1746257726.mp3",
+      "video": "",
+      "uid": "1267fb70"
+    },
+    {
+      "text": "A 30-year-old patient presents to the clinic with symptoms suggestive of HIV infection. Upon testing, the diagnosis of HIV is confirmed. What is the regimen of choice for initiating antiretroviral therapy for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abacavir + Lamivudine + Dolutegravir.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tenofovir + Lamivudine + Efavirenz.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tenofovir + Lamivudine + Dolutegravir.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Abacavir + Lamivudine + Lopinavir.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tenofovir + Lamivudine + Dolutegravir.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/QuNhOQfOg1mb1qallbMO1747294922.mp3",
+      "video": "",
+      "uid": "e6bf98f3"
+    },
+    {
+      "text": "Which of the following is a CCR5 inhibitor used in the treatment of HIV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enfuvirtide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fostemsavir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ibalizumab",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Maraviroc",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Maraviroc",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Drugs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Mechanism of Action</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Entry Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Block the <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> virus from entering the host cell.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CCR5 <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">Inhibitor</span> (<strong>Maraviroc</strong>)</p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bind to the CCR5 co-receptor on the host cell membrane.</p>\n<p>Only <span class=\"customMeta\" data-dictid=\"ccd357daaf16927771825777ea6a0d\">attachment</span> inhibitors active against both <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> 1&2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fusion Inhibitors (<strong>Enfuvirtide</strong>)</p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Prevent the <span class=\"customMeta\" data-dictid=\"a7dfeb385e1692777203302bcf142d\">fusion</span> of the <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> virus with the host cell membrane.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Attachment Inhibitors</strong></p>\n<p><strong>(Fostemsavir)</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bind to the gp120 subunit of the <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> envelope, preventing <span class=\"customMeta\" data-dictid=\"ccd357daaf16927771825777ea6a0d\">attachment</span> to the CD4 receptor.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Post-Attachment Inhibitors</strong></p>\n<p><strong>(Ibalizumab)</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bind to CD4 receptors, preventing conformational changes needed for <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> entry.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "21a6b1c8"
+    },
+    {
+      "text": "A 42-year-old patient with HIV is being treated with darunavir as part of their antiretroviral therapy. To enhance the effectiveness of darunavir, the physician adds another medication. Which of the following drugs can be used for this purpose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atazanavir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Efavirenz",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cobicistat",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lamivudine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cobicistat",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8c7c3e59"
+    },
+    {
+      "text": "A 35-year-old patient on anti-HIV therapy presents to the emergency department with complaints of severe flank pain, nausea, and vomiting. Laboratory tests reveal hematuria, and a CT scan shows evidence of nephrolithiasis. Which of the following protease inhibitors is most likely responsible for these symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indinavir",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ritonavir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atazanavir",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Darunavir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Indinavir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ritonavir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Gastrointestinal disturbances.</li>\n<li>Hyperlipidemia.</li>\n<li>Hepatotoxicity.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Atazanavir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Indirect <span class=\"customMeta\" data-dictid=\"cab274fa4f1692777189f9b6dad514\">hyperbilirubinemia</span> (jaundice).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Darunavir</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rash.</li>\n<li>Liver function abnormalities.</li>\n<li>Gastrointestinal disturbances.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "17fa45bb"
+    },
+    {
+      "text": "Which of the following statements regarding the properties of protease inhibitors are true? Nelfinavir is an aspartyl protease inhibitor that prevents viral protein assembly in the cell. Lipodystrophy is a common side effect seen with the majority of protease inhibitors. Ritonavir boosts plasma levels of lopinavir by inhibiting the CYP2C9 enzyme. Ritonavir is associated with a higher risk of intracranial haemorrhage. Cross-resistance among other protease inhibitors is rare.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Statements 1 and 3 are correct.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Statements 1 and 2 are correct.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Statements 1, 3, and 4 are correct.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All statements are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Statements 1 and 2 are correct.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Protease inhibitors (PI): (-navir-)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MOA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Inhibits the assembly/packaging of <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> proteins</li>\n<li>Competitively inhibits the action of <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> <span class=\"customMeta\" data-dictid=\"d8b501495a16927771829f9857080b\">aspartyl</span> protease</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pharmacokinetics</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>All are CYP3A4 inhibitors: Except Nelfinavir (CYP2C9)</p>\n<ul>\n<li>Increases <span class=\"customMeta\" data-dictid=\"d3323d4b271692777200122ea879e5\">toxicity</span> of other drugs</li>\n<li>Simvastatin: Risk of myopathy</li>\n<li>Midazolam: Causes <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> depression</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Uses</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HIV treatment and 2nd line Post-exposure prophylaxis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs: <strong>RAFT ISLAND</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ritonavir\n\t\t\t\t<ul>\n<li><strong>Maximum CYP inhibition</strong> \u2192 inhibits <span class=\"customMeta\" data-dictid=\"5b1a045f5f169277719210c0ac7a1e\">metabolism</span> of other PI</li>\n<li>Low-dose <span class=\"customMeta\" data-dictid=\"dea585d18816927771975072308534\">ritonavir</span> boosts other <span class=\"customMeta\" data-dictid=\"fe13bbded1169277719694883c6ba4\">protease</span> inhibitors (Lopinavir)</li>\n</ul>\n</li>\n<li>Amprenavir</li>\n<li>Fos-amprenavir</li>\n<li>Tipranavir</li>\n<li>Indinavir</li>\n<li>Saquinavir (least CYP inhibitor)</li>\n<li>Lopinavir</li>\n<li>Atazanavir (no dyslipidemia)</li>\n<li>Nelfinavir</li>\n<li>Darunavir (maximum bioavailability, taken with food)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Resistance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>P-glycoprotein efflux transporter</li>\n<li>Cross-resistance with other <span class=\"customMeta\" data-dictid=\"fe13bbded1169277719694883c6ba4\">protease</span> inhibitors.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1ae7e6d8"
+    },
+    {
+      "text": "Match the following integrase inhibitors with their unique characteristics: 1. Cabotegravir a. Associated with rhabdomyolysis 2. Dolutegravir b. Intramuscular administered every 3 months 3. Raltegravir c. Safe in pregnancy and widely used in India 4. Elvitegravir d. Used in combination with Cobicistat",
+      "options": [
+        {
+          "label": "A",
+          "text": "1:b, 2:c, 3:a, 4:d",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1:c, 2:b, 3:a, 4:d",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1:c, 2:b, 3:d, 4:a",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1:b, 2:c, 3:d, 4:a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1:b, 2:c, 3:a, 4:d",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MOA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Prevent the formation of <span class=\"customMeta\" data-dictid=\"d7f598a3db1692777185bf93a6e6fa\">covalent</span> bonds between host and <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> DNA.</li>\n<li>Inhibit DNA called<strong> <span class=\"customMeta\" data-dictid=\"cf25c7ba04169277719946f465928b\">strand</span> transfer.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>(ends with the word -gravir): <strong>BCDER</strong></p>\n<ul>\n<li>Bictegravir</li>\n<li>Cabotegravir</li>\n<li>Dolutegravir (most used in India and safe during pregnancy)</li>\n<li><strong>Elvitegravir</strong> (used in combination with cobicistat)</li>\n<li>Raltegravir</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Route</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>All oral drugs except <strong>Cabotegravir</strong> (IM, once every 3 months)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Metabolism</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>CYP3A4 substrates</li>\n<li>Rifampicin reduces the effect, hence increasing the dose of the integrase inhibitor</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Uses</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Treatment and post-exposure <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> of HIV</li>\n<li>Dolutegravir and Lamivudine: First line in treatment-naive <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> patients</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Side effects</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rashes</li>\n<li>Steven Johnson syndrome: <span class=\"customMeta\" data-dictid=\"e4c62a77731692777187b9c7ded25d\">Epidermis</span> of the skin is damaged</li>\n<li>Raltegravir: Rhabdomyolysis, DRESS</li>\n<li>Bictegravir: Increase metformin concentration, hepatoxicity</li>\n<li>Avoid administration with <span class=\"customMeta\" data-dictid=\"9c9c29820b169277718670a8b16a3b\">divalent</span> cations (magnesium- or aluminium-containing antacids, iron supplements)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "cbcbdbb7"
+    },
+    {
+      "text": "A 30-year-old HIV-1 positive primigravida who has been adherent to her antiretroviral therapy with a consistently low viral load delivers a full-term baby boy. What is the most appropriate drug of choice to reduce the risk of HIV transmission in this neonate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zidovudine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Efavirenz",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nevirapine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Nevirapine + Zidovudine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nevirapine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\">\n<tbody>\n<tr>\n<td colspan=\"4\" style=\"border-color:#000000; border-style:solid\">\n<p style=\"text-align:center\"><strong>Non-nucleoside <span class=\"customMeta\" data-dictid=\"2c764fcf7316927771978d26033b04\">reverse transcriptase</span> <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> (NNRTI)- Safe in pregnancy</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Drug</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Zidovudine</strong> <strong>(Option\u00a0A)</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Nevirapine (NVP)</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Efavirenz</strong> <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Metabolism</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>No CYP enzyme</p>\n<p>interaction</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>CYP3A4 inducer</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Mixed (inducer and inhibitor)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Use</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>1. Used for <span class=\"customMeta\" data-dictid=\"77493a5b781692777193df12530299\">neonatal</span> <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> in:</p>\n<ul>\n<li>Mother with <strong>HIV-2 </strong>or HIV-1+HIV-2 co-infection (viral load <1000 copies/ml)</li>\n<li>Mother <strong>received NVP</strong> during past pregnancy</li>\n<li>Mother on<strong> PI-based ART</strong> regimen.</li>\n</ul>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>1. First line for HIV-1 <span class=\"customMeta\" data-dictid=\"77493a5b781692777193df12530299\">neonatal</span> <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> in low-risk infants (viral load <strong><1000 </strong>copies/ml)</p>\n\t\t\t\u00a0\n\n\t\t\t<p>2. Treatment in adults and children</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Treatment of HIV-1 in adults & children > 3 months</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Side effects</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Erythrocytic macrocytosis</li>\n<li>Insomnia</li>\n<li>Nail hyperpigmentation</li>\n<li>Skeletal myopathy</li>\n<li>Hepatotoxicity</li>\n</ul>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Hepatotoxicity,</li>\n<li>Rash, pruritus</li>\n<li>Steven-Johnson syndrome</li>\n<li>Lower <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> levels of coadministered CYP3A4 substrates\n\t\t\t\t<ul>\n<li>Methadone withdrawal</li>\n<li>Contraceptive failure</li>\n</ul>\n</li>\n</ul>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>CNS effects\n\t\t\t\t<ul>\n<li>Insomnia, Depression</li>\n<li>Psychosis, dysphoria</li>\n<li>Peripheral neuropathy</li>\n</ul>\n</li>\n<li>Increase cholesterol</li>\n<li>Lower levels of <span class=\"customMeta\" data-dictid=\"3314c4671d1692777186457b78ae76\">efavirenz</span> with phenobarbital, phenytoin, and carbamazepine.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "89558fdc"
+    },
+    {
+      "text": "All of the following are true about tenofovir except",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an NRTI (nucleotide reverse transcriptase inhibitor) that requires phosphorylation activation.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Tenofovir disoproxil is a shorter-acting salt with a high risk of acute renal failure.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is used in the treatment of both HIV and Hepatitis B.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is not recommended for children under 10 years or those with pre-existing renal disease.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. It is an NRTI (nucleotide reverse transcriptase inhibitor) that requires phosphorylation activation.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid\">\n<p style=\"text-align:center\"><strong>Tenofovir (Nucleotide <span class=\"customMeta\" data-dictid=\"22e0051a181692777181872183edb2\">analogue</span> RTI)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>MOA</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li><strong>No <span class=\"customMeta\" data-dictid=\"619ba5e99c16927771958308fb8687\">phosphorylation</span> required (Option A)</strong></li>\n<li>Competitively inhibits <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> reverse transcriptase</li>\n<li>Incorporates into <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> DNA, causing chain <span class=\"customMeta\" data-dictid=\"a35c217ec416927772009a7f3b20f4\">termination</span> (due to incomplete <span class=\"customMeta\" data-dictid=\"387285772b16927771979217d6cd30\">ribose</span> ring)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Types</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Tenofovir disoproxil: short-acting, more side effects <strong>(Option B)</strong></li>\n<li>Tenofovir alafenamide: long-acting</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Uses</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>DOC for HIV</li>\n<li>DOC for <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">Hepatitis</span> B virus + <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> <strong>(Option C)</strong></li>\n<li>HIV preexposure <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> (in combination with emtricitabine)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Side effect</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Nephrotoxic (Acute <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> failure)\n\t\t\t\t<ul>\n<li>Regular <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> and <span class=\"customMeta\" data-dictid=\"bfea0730ac16927771959eb551740f\">phosphorus</span> monitoring.</li>\n<li>Avoid with NSAIDs</li>\n</ul>\n</li>\n<li>Fanconi syndrome (causes damage to <span class=\"customMeta\" data-dictid=\"406aede9e21692777194b4cefe9958\">PCT</span> of nephron)\n\t\t\t\t<ul>\n<li>Leads to <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> loss</li>\n<li>Hypophosphatemic rickets, osteoporosis</li>\n</ul>\n</li>\n<li>Hepatitis B <span class=\"customMeta\" data-dictid=\"b5a5dcf4021692777187e3c0d2d47d\">exacerbation</span> with abrupt discontinuation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Contraindication<strong>(Option D)</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Renal disease (High creatinine)\n\t\t\t\t<ul>\n<li>Replace <span class=\"customMeta\" data-dictid=\"8ed4f962f416927772008ece0f551e\">tenofovir</span> with <span class=\"customMeta\" data-dictid=\"929423b7711692777202c3adc5f32c\">Zidovudine</span> or Abacavir</li>\n</ul>\n</li>\n<li>Child < 10 years</li>\n<li>Weight < 30 kg</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ded03c8e"
+    },
+    {
+      "text": "A 5-year-old child diagnosed with HIV is scheduled to begin therapy with nucleoside reverse transcriptase inhibitors (NRTIs). His baseline laboratory tests reveal a haemoglobin level of 8.8 g/dL. Which of the following drugs should be avoided in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abacavir",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lamivudine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Zidovudine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Emtricitabine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Zidovudine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Side Effects of NRTIs</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Common side effect</p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Bone <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> suppression</li>\n<li>Alopecia</li>\n<li>Myopathy</li>\n<li>Pancreatitis</li>\n<li>Peripheral neuropathy</li>\n<li>Hepatic steatosis</li>\n<li>Lipodystrophy: Obese, <span class=\"customMeta\" data-dictid=\"05e8c1df0d1692777201c9acee8b1f\">type 2</span> DM</li>\n<li>Lactic acidosis: <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">Inhibition</span> of human mitochondrial respiration</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Zidovudine</strong><br/>\n<strong>(Option\u00a0C)</strong></p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Bone <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> suppression</strong> (maximum risk): anaemia, leukopenia\n\t\t\t\t<ul>\n<li><strong>Contraindicated: Severe anaemia if Hb <9 gm/dl</strong></li>\n<li>Treatment: <span class=\"customMeta\" data-dictid=\"ec50ec51401692777187009530441d\">Erythropoietin</span> injections</li>\n</ul>\n</li>\n<li>Erythrocytic macrocytosis</li>\n<li>Nail hyperpigmentation</li>\n<li>Alopecia, <span class=\"customMeta\" data-dictid=\"2bed7a5c011692777193cf17eb29b3\">myopathy</span> (due to <span class=\"customMeta\" data-dictid=\"7061e0e0051692777186ba9c5f27df\">depletion</span> of mitochondrial DNA)</li>\n<li>Hepatotoxicity and steatosis</li>\n<li>Insomnia</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Didanosine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pancreatitis</strong> (maximum risk)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stavudine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Maximum risk for:</p>\n<ul>\n<li><strong>Peripheral neuropathy</strong></li>\n<li>Hepatic steatosis</li>\n<li><strong>Lipodystrophy</strong></li>\n<li>Lactic acidosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Abacavir</strong><br/>\n<strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Steven-Johnson syndrome</strong> (fatal hypersensitivity) with HLAB 5701 (Contraindicated if tested positive)\n\t\t\t\t<ul>\n<li>Fever, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, and <span class=\"customMeta\" data-dictid=\"dc75edd604169277719735ac5b4d5b\">rash</span> within 6 weeks of starting abacavir necessitates immediate discontinuation</li>\n</ul>\n</li>\n<li>Myocardial infarction</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Emtricitabine</strong><br/>\n<strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Skin <span class=\"customMeta\" data-dictid=\"30261213bf16927771898b5d2f245d\">hyperpigmentation</span> in sun-exposed areas</li>\n<li>Exacerbation of <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">hepatitis</span> B with abrupt discontinuation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lamivudine</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Exacerbation of <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">hepatitis</span> B with abrupt discontinuation (Safest NRTI)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Never combined NRTIs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increased toxicity: Stavudine, <span class=\"customMeta\" data-dictid=\"d31039ed501692777186b2bbdfdec8\">Didanosine</span> and Zalcitabine</li>\n<li>Cross-resistance:\n\t\t\t\t<ul>\n<li>Lamivudine and Emtricitabine</li>\n<li>Zidovudine and Stavudine</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b191dd6a"
+    }
+  ]
+}

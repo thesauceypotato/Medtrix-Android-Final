@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "id": "test10",
+    "title": "Demonstration-Previous_Year_Questions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Steps of intubation sequence are: a. Flexion of lower cervical spine and extension of Atlanto-occipital joint b. Inflate cuff of endotracheal tube c. Introduce a laryngoscope from the right side of mouth d. Confirm the position of tube",
+      "options": [
+        {
+          "label": "A",
+          "text": "a, b, c, d",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a, b, d, c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "b, a, c, d",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a, c, b, d",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. a, c, b, d",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "00fc88c8"
+    }
+  ]
+}

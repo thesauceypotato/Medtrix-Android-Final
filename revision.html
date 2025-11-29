@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MEDTRIX | Active Recall</title>
+    
+    <!-- Core Engine -->
+    <script src="config.js"></script>
+    <script src="medtrix_core.js"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        /* --- PREMIUM THEME --- */
+        :root {
+            --bg-body: #f0f4f8; --bg-gradient: radial-gradient(circle at top left, #e0f7fa, #f0f4f8);
+            --glass-bg: rgba(255, 255, 255, 0.95); --glass-border: rgba(255, 255, 255, 0.9);
+            --glass-shadow: 0 8px 32px rgba(31, 38, 135, 0.1);
+            --text-main: #1a202c; --accent: #007bff;
+            --success: #10b981; --danger: #ef4444;
+        }
+
+        [data-theme="dark"] {
+            --bg-body: #0f1115; --bg-gradient: radial-gradient(circle at top center, #1a202c, #0f1115);
+            --glass-bg: rgba(20, 22, 27, 0.95); --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            --text-main: #f7fafc; --accent: #00e5ff;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Poppins', sans-serif; transition: background 0.4s ease, color 0.3s ease; }
+
+        body {
+            background: var(--bg-body); background-image: var(--bg-gradient);
+            background-attachment: fixed; color: var(--text-main);
+            height: 100vh; height: 100dvh; /* Mobile Fix */
+            display: flex; flex-direction: column; overflow: hidden;
+            touch-action: pan-y;
+        }
+
+        /* HEADER */
+        header {
+            padding: 15px 20px; text-align: center; position: relative; z-index: 10;
+            flex-shrink: 0; backdrop-filter: blur(5px); height: 110px;
+        }
+        .back-icon {
+            position: absolute; left: 20px; top: 15px; 
+            text-decoration: none; font-size: 1.2rem; color: var(--text-main);
+            background: var(--glass-bg); width: 40px; height: 40px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 50%; border: 1px solid var(--glass-border);
+            box-shadow: var(--glass-shadow);
+        }
+        
+        h2 { font-family: 'Orbitron', sans-serif; letter-spacing: 1px; color: var(--accent); margin-bottom: 5px; font-size: 1.2rem; }
+        
+        .progress-container { width: 80%; max-width: 400px; height: 6px; background: rgba(128,128,128,0.2); border-radius: 10px; margin: 8px auto; overflow: hidden; }
+        .progress-bar { height: 100%; background: linear-gradient(90deg, var(--accent), var(--success)); width: 0%; transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1); }
+        .counter { font-size: 0.75rem; opacity: 0.7; margin-top: 5px; }
+
+        /* SCENE & CARD */
+        .scene {
+            flex: 1; display: flex; flex-direction: column;
+            justify-content: center; align-items: center;
+            perspective: 1000px; padding: 10px 20px; width: 100%; position: relative;
+            /* Ensure space for bottom controls */
+            padding-bottom: 100px; 
+        }
+
+        .card {
+            width: 100%; max-width: 600px; 
+            /* DYNAMIC HEIGHT FIX: Fits perfectly between header and buttons */
+            height: 100%; max-height: 55vh; min-height: 300px;
+            position: relative; transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            transform-style: preserve-3d; cursor: pointer;
+        }
+        .card.flipped { transform: rotateY(180deg); }
+
+        .card-face {
+            position: absolute; width: 100%; height: 100%;
+            backface-visibility: hidden; border-radius: 20px; padding: 25px;
+            background: var(--glass-bg); border: 1px solid var(--glass-border);
+            box-shadow: var(--glass-shadow); backdrop-filter: blur(15px);
+            display: flex; flex-direction: column; overflow: hidden;
+        }
+
+        /* FRONT */
+        .card-face.front { z-index: 2; align-items: center; justify-content: center; text-align: center; }
+        .subject-tag {
+            position: absolute; top: 20px; left: 20px;
+            background: var(--accent); color: white; padding: 4px 10px;
+            border-radius: 12px; font-size: 0.7rem; font-weight: bold;
+        }
+        .q-text { font-size: 1.15rem; font-weight: 600; line-height: 1.5; overflow-y: auto; width: 100%; max-height: 100%; display:flex; align-items:center; justify-content:center; }
+        .tap-hint { position: absolute; bottom: 15px; font-size: 0.75rem; opacity: 0.5; animation: bounce 2s infinite; }
+
+        /* BACK */
+        .card-face.back { transform: rotateY(180deg); align-items: flex-start; text-align: left; padding: 0; }
+        /* Scrollable content inside Back face */
+        .scroll-content { 
+            overflow-y: auto; width: 100%; height: 100%; padding: 25px; 
+            padding-bottom: 40px; /* Space for scroll */
+        }
+        
+        .ans-label { color: var(--success); font-weight: bold; font-family: 'Orbitron'; font-size: 0.8rem; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center; }
+        .ans-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 15px; border-bottom: 1px solid rgba(128,128,128,0.2); padding-bottom: 10px; }
+        .exp-box { font-size: 0.95rem; line-height: 1.6; opacity: 0.9; }
+
+        /* TTS Button */
+        .tts-btn { 
+            background: rgba(0,0,0,0.05); border: 1px solid rgba(0,0,0,0.1); border-radius: 50%;
+            width: 30px; height: 30px; display: flex; align-items: center; justify-content: center;
+            color: var(--text-main); cursor: pointer; opacity: 0.8;
+        }
+        
+        /* CONTROLS (FIXED BOTTOM) */
+        .controls {
+            position: fixed; bottom: 0; left: 0; width: 100%; 
+            padding: 15px 20px;
+            padding-bottom: calc(15px + env(safe-area-inset-bottom));
+            display: flex; justify-content: center; gap: 15px; z-index: 100;
+            opacity: 0; pointer-events: none; transition: 0.3s;
+            background: var(--glass-bg); border-top: 1px solid var(--glass-border);
+            backdrop-filter: blur(10px);
+        }
+        .controls.visible { opacity: 1; pointer-events: all; }
+
+        .btn {
+            border: none; padding: 12px 0; width: 45%; max-width: 150px; border-radius: 12px;
+            font-size: 1rem; font-weight: bold; cursor: pointer;
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: transform 0.1s;
+        }
+        .btn:active { transform: scale(0.95); }
+        .btn-hard { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 1px solid var(--danger); }
+        .btn-easy { background: var(--success); color: white; }
+
+        /* SETUP SCREEN (Topic Selection) */
+        #setup-screen {
+            position: fixed; inset: 0; background: var(--bg-body); z-index: 200;
+            display: flex; flex-direction: column; align-items: center; padding: 20px;
+            overflow-y: auto;
+        }
+        .setup-container { width: 100%; max-width: 500px; display: flex; flex-direction: column; gap: 15px; }
+        
+        .mode-btn {
+            padding: 18px; background: var(--glass-bg); border: 1px solid var(--glass-border);
+            border-radius: 16px; text-align: left; cursor: pointer;
+            display: flex; align-items: center; gap: 15px;
+            box-shadow: var(--glass-shadow); transition: 0.2s;
+        }
+        .mode-btn:hover { border-color: var(--accent); transform: translateY(-2px); }
+        
+        /* SEARCH BAR */
+        .search-box {
+            width: 100%; padding: 12px 15px; border-radius: 10px; border: 1px solid var(--glass-border);
+            background: rgba(255,255,255,0.5); font-size: 1rem; color: var(--text-main);
+            margin-bottom: 10px; display: none;
+        }
+
+        #topic-list { display: none; width: 100%; max-height: 50vh; overflow-y: auto; background: var(--glass-bg); border-radius: 12px; }
+        .topic-item { padding: 12px; border-bottom: 1px solid rgba(0,0,0,0.05); cursor: pointer; display: flex; justify-content: space-between; }
+        .topic-item:last-child { border-bottom: none; }
+        .topic-item:hover { background: rgba(0,0,0,0.03); color: var(--accent); }
+
+        /* EMPTY STATE */
+        #empty-state { text-align: center; display: none; margin-top: 10vh; }
+        .trophy { font-size: 4rem; margin-bottom: 15px; animation: float 3s infinite ease-in-out; }
+
+        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+        @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    </style>
+</head>
+<body>
+
+    <!-- SETUP SCREEN -->
+    <div id="setup-screen">
+        <h1 style="font-family:'Orbitron'; margin-bottom:20px; color:var(--accent); text-align:center;">FLASHCARD SETUP</h1>
+        
+        <div class="setup-container">
+            <div class="mode-btn" onclick="startMistakesReview()">
+                <i class="fas fa-brain fa-2x" style="color:var(--accent);"></i>
+                <div>
+                    <h3 style="margin-bottom:4px;">Mistakes Review</h3>
+                    <p style="font-size:0.8rem; opacity:0.7;">Revise incorrect answers from Analytics.</p>
+                </div>
+            </div>
+
+            <div class="mode-btn" onclick="toggleTopicUI()">
+                <i class="fas fa-book-medical fa-2x" style="color:var(--success);"></i>
+                <div>
+                    <h3 style="margin-bottom:4px;">Topic Study</h3>
+                    <p style="font-size:0.8rem; opacity:0.7;">Select specific downloaded topics.</p>
+                </div>
+            </div>
+            
+            <!-- SEARCH INPUT -->
+            <input type="text" id="topic-search" class="search-box" placeholder="Search topics (e.g. Surg, Anat)..." onkeyup="filterTopics()">
+            
+            <!-- LIST -->
+            <div id="topic-list"></div>
+
+            <button onclick="goBack()" style="background:none; border:none; color:var(--text-main); margin-top:10px; text-decoration:underline; cursor:pointer;">Cancel & Exit</button>
+        </div>
+    </div>
+
+    <!-- MAIN UI -->
+    <header>
+        <a href="#" onclick="goBack()" class="back-icon"><i class="fas fa-arrow-left"></i></a>
+        <h2 id="deck-title">Active Recall</h2>
+        <div class="progress-container">
+            <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <div class="counter">
+            Card <span id="current-idx">1</span> of <span id="total-count">0</span>
+        </div>
+    </header>
+
+    <div class="scene">
+        <div class="card" id="card" onclick="flipCard()">
+            <!-- Front -->
+            <div class="card-face front">
+                <div class="subject-tag" id="card-tag">Topic</div>
+                <div class="q-text" id="card-question">Loading...</div>
+                <div class="tap-hint">Tap to flip</div>
+            </div>
+            <!-- Back -->
+            <div class="card-face back">
+                <div class="scroll-content">
+                    <div class="ans-label">
+                        CORRECT ANSWER
+                        <button class="tts-btn" onclick="event.stopPropagation(); speakText()"><i class="fas fa-volume-up"></i></button>
+                    </div>
+                    <div class="ans-text" id="card-answer">...</div>
+                    <div class="ans-label">EXPLANATION</div>
+                    <div class="exp-box" id="card-exp">...</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EMPTY STATE -->
+        <div id="empty-state">
+            <div class="trophy">🏆</div>
+            <h2 style="color: var(--accent);">Deck Complete!</h2>
+            <p style="margin: 15px 0; opacity: 0.7;">Excellent work. Repetition is key.</p>
+            <button class="btn btn-easy" style="width: 200px; margin: 0 auto;" onclick="location.reload()">Review Another</button>
+        </div>
+    </div>
+
+    <!-- CONTROLS -->
+    <div class="controls" id="controls">
+        <button class="btn btn-hard" onclick="handleCard(false)">
+            <i class="fas fa-times"></i> Hard
+        </button>
+        <button class="btn btn-easy" onclick="handleCard(true)">
+            <i class="fas fa-check"></i> Easy
+        </button>
+    </div>
+
+    <script>
+        // --- THEME ---
+        if(localStorage.getItem('medtrix-theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+
+        let deck = [];
+        let currentIndex = 0;
+        let isFlipped = false;
+        let totalCards = 0;
+        let availableTopics = [];
+
+        // --- 1. SETUP LOGIC ---
+        
+        function startMistakesReview() {
+            const raw = JSON.parse(localStorage.getItem("medtrix_analytics") || "[]");
+            deck = raw.filter(q => q.isCorrect === false).map(q => {
+                const correctOpt = q.options ? q.options.find(o => o.correct) : null;
+                return {
+                    id: q.uid, tag: "Mistake",
+                    question: q.text,
+                    answer: correctOpt ? correctOpt.text : "See explanation",
+                    explanation: q.explanation || "No explanation."
+                };
+            });
+            initDeck("Mistakes Review");
+        }
+
+        async function toggleTopicUI() {
+            const searchBox = document.getElementById('topic-search');
+            const listDiv = document.getElementById('topic-list');
+            
+            if(listDiv.style.display === 'block') {
+                listDiv.style.display = 'none';
+                searchBox.style.display = 'none';
+                return;
+            }
+
+            // Load and Show
+            searchBox.style.display = 'block';
+            listDiv.style.display = 'block';
+            listDiv.innerHTML = "<div style='padding:15px; text-align:center;'>Loading...</div>";
+
+            availableTopics = await MEDTRIX.data.getManifest();
+            
+            if(availableTopics.length === 0) {
+                listDiv.innerHTML = "<div style='padding:15px; color:var(--danger);'>No Q-Banks found.</div>";
+            } else {
+                renderTopicList(availableTopics);
+            }
+        }
+
+        function filterTopics() {
+            const term = document.getElementById('topic-search').value.toLowerCase();
+            const filtered = availableTopics.filter(t => t.title.toLowerCase().includes(term));
+            renderTopicList(filtered);
+        }
+
+        function renderTopicList(list) {
+            const div = document.getElementById('topic-list');
+            if(list.length === 0) { div.innerHTML = "<div style='padding:10px;'>No matches.</div>"; return; }
+            
+            div.innerHTML = list.map(m => `
+                <div class="topic-item" onclick="loadTopicDeck('${m.file}', '${m.title}')">
+                    <span>${m.title}</span>
+                    <span style="font-size:0.8em; opacity:0.6; background:rgba(128,128,128,0.1); padding:2px 6px; border-radius:4px;">${m.count || '?'} Qs</span>
+                </div>
+            `).join('');
+        }
+
+        async function loadTopicDeck(filename, title) {
+            const data = await MEDTRIX.data.getQuiz(filename);
+            if(!data || !data.questions) return alert("Could not load data. Download the test first.");
+
+            deck = data.questions.map(q => {
+                const correctOpt = q.options.find(o => o.correct);
+                return {
+                    id: q.uid, tag: title.substring(0, 15),
+                    question: q.text,
+                    answer: correctOpt ? correctOpt.text : "Answer not found",
+                    explanation: q.explanation || "No explanation."
+                };
+            });
+            initDeck(title);
+        }
+
+        function initDeck(title) {
+            if(deck.length === 0) return alert("No cards available.");
+            deck = deck.sort(() => 0.5 - Math.random());
+            totalCards = deck.length;
+            document.getElementById('deck-title').innerText = title;
+            document.getElementById('setup-screen').style.display = 'none';
+            updateUI();
+        }
+
+        // --- 2. CORE FLASHCARD LOGIC ---
+
+        function updateUI() {
+            stopAudio(); // Ensure audio stops on card change
+
+            if (currentIndex >= deck.length) {
+                document.getElementById('card').style.display = 'none';
+                document.getElementById('controls').classList.remove('visible');
+                document.getElementById('empty-state').style.display = 'block';
+                return;
+            }
+
+            const cardData = deck[currentIndex];
+            document.getElementById('card-tag').innerText = cardData.tag;
+            document.getElementById('card-question').innerHTML = cardData.question;
+            document.getElementById('card-answer').innerHTML = cardData.answer;
+            document.getElementById('card-exp').innerHTML = cardData.explanation;
+
+            document.getElementById('current-idx').innerText = currentIndex + 1;
+            document.getElementById('total-count').innerText = totalCards;
+            document.getElementById('progress-bar').style.width = `${((currentIndex)/totalCards)*100}%`;
+        }
+
+        function flipCard() {
+            const card = document.getElementById('card');
+            if(!isFlipped) {
+                card.classList.add('flipped');
+                document.getElementById('controls').classList.add('visible');
+                isFlipped = true;
+            } else {
+                stopAudio(); // Stop audio if they flip back
+                card.classList.remove('flipped');
+                document.getElementById('controls').classList.remove('visible');
+                isFlipped = false;
+            }
+        }
+
+        function handleCard(easy) {
+            if(navigator.vibrate) navigator.vibrate(20);
+            stopAudio();
+
+            const card = document.getElementById('card');
+            card.classList.remove('flipped');
+            document.getElementById('controls').classList.remove('visible');
+            isFlipped = false;
+
+            setTimeout(() => {
+                if (easy) currentIndex++; 
+                else {
+                    const item = deck.splice(currentIndex, 1)[0];
+                    deck.push(item);
+                }
+                updateUI();
+            }, 600);
+        }
+
+        // --- 3. AUDIO & NAVIGATION FIX ---
+
+        function speakText() {
+            stopAudio(); // Stop any previous speech
+            if ('speechSynthesis' in window) {
+                const text = document.getElementById('card-exp').innerText;
+                const utterance = new SpeechSynthesisUtterance(text);
+                speechSynthesis.speak(utterance);
+            }
+        }
+
+        function stopAudio() {
+            if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+        }
+
+        function goBack() {
+            stopAudio(); // Stop audio immediately
+            window.location.href = "index.html";
+        }
+
+        // Stop audio on page unload or visibility change
+        window.onbeforeunload = stopAudio;
+        document.addEventListener("visibilitychange", () => {
+            if (document.hidden) stopAudio();
+        });
+
+        // Swipe Logic
+        let touchStartX = 0;
+        document.getElementById('card').addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, {passive: true});
+        document.getElementById('card').addEventListener('touchend', e => {
+            if(!isFlipped) return;
+            const diff = e.changedTouches[0].screenX - touchStartX;
+            if (Math.abs(diff) > 60) {
+                if (diff > 0) handleCard(true); else handleCard(false);
+            }
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "id": "test14",
+    "title": "Anesthesia - INI CET NOV 2023",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following best represents the American Society of Anesthesiologists (ASA) physical status III?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild systemic disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Moderate systemic disease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Severe systemic disease",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Severe systemic disease with threat to life",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Severe systemic disease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Severe systemic disease Severe systemic disease best fits into grade 3 of the ASA classification. Grade III is also sometimes called as MODERATE SYSTEMIC ILLNESS WITH LIMITATION OF FUNCTION . American Society of Anesthesiologists classification is used to define relative risk prior to conscious sedation and surgical anesthesia . It is strongly correlates to perioperative risk . ASA Classification Definition of Patient  Status Examples ASA I ASA II ASA III ASA IV ASA V Normal health. Mild systemic disease. Severe systemic disease. Severe systemic disease that is constant threat to life. Moribund, not expected to survive without operation Healthy, non-smoking, no alcohol use. Current smoker, well-controlled DM and HTN Poorly controlled DM or HTN Recent MI, CVA, TIA, or CAD/stents Ruptured abdominal, thoracic aneurysm, massive trauma, intracranial bleed with mass effect ASA indicates American Society of Anesthesiology.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a5033e2a",
+      "audio": ""
+    },
+    {
+      "text": "A 5-year-old is on 3L/min O2 via a nasal cannula. What is the appropriate FiO2 level for this child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "30",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "45",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "60",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 30",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>30 The formula for calculating FiO2 for a child on oxygen supplementation through nasal cannula is FiO2= 21%+ (nasal cannula flow in L/min) \u00d7 4 Therefore, at 3L/min, FiO2 = 21+3x4 = 33% Hence, best answer is 30 %</p>\n<p><strong>Highyeild:</strong></p><p>Oxygen delivery devices have been classified as: Fixed performance devices or high flow system: In this category included are venturi masks, and high airflow blenders. These are fixed-performance devices because their output is not affected by changes in patient respiratory parameters. Variable performance devices or low flow system: The devices like a simple oxygen mask and nasal cannula are included in this category. These are variable performance devices because their performance is affected by changes in patient respiratory parameters. Oxygen delivery devices : Device Maximum flow (L/mt) Maximum FIO2 Type Nasal cannula 6 0.44 (40%) Variable performance 02 mask 10 0.6 Variable performance 02 mask with reservoir 15 0.8 Variable performance Air entrainment devices (venturi mask) 15 0.6 Fixed performance High flow nasal cannula 60 1.0 Fixed performance</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1e3beb20",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "id": "test6",
+    "title": "ECG",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is true regarding the placement of ECG leads?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The earth to all leads is in the right leg.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lead I: Positive pole to the right and negative pole towards the left",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lead III: Positive pole on the left and negative pole towards the right",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lead II: Positive pole on the right and negative pole towards the left",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The earth to all leads is in the right leg.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "abb5cd86",
+      "audio": ""
+    },
+    {
+      "text": "What does the given ECG show?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P-pulmonale",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ventricular bigeminy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Electrical alternans",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Improper calibration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. P-pulmonale",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/51(27).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e9b3af24",
+      "audio": ""
+    },
+    {
+      "text": "A 65-year-old female patient is brought to the emergency department in a state of unconsciousness. Her BP is 70/50 mm of Hg. Her ECG is shown below. What is the next best step in the management of her condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IV verapamil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "IV adenosine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Carotid massage",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "DC cardioversion",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. DC cardioversion",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/52(29).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "58788ecf",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old male patient came to ED with complaints of weakness, paresthesia, and breathing difficulty. Relevant investigations were done. The ECG obtained is suggestive of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypokalemia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypocalcemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hypercalcemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hypokalemia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/53(29).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3db86b5a",
+      "audio": ""
+    },
+    {
+      "text": "Osborn waves in ECG are seen in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypothyroidism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypothermia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hypocalcemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hypokalemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hypothermia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "faa279eb",
+      "audio": ""
+    },
+    {
+      "text": "What is the diagnosis of this patient from the ECG shown below?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal ECG",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ventricular fibrillation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ventricular tachycardia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Misplaced leads",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ventricular tachycardia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/54(35).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "584ed061",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old man presented with an episode of acute onset dizziness and loss of consciousness which lasted for a few seconds followed by a regain of full consciousness. There were no similar episodes in the past. Which of the following is a true statement regarding this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ECG to rule out atrial fibrillation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "If ECG is normal, CT scan should be done",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tilt-table testing",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vestibular neuritis is a possible condition that can cause these symptoms",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. ECG to rule out atrial fibrillation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "30ebf433",
+      "audio": ""
+    },
+    {
+      "text": "A 67-year-old patient with hypertension, diabetes, and asthma is found to have an irregularly irregular pulse during a routine physical examination. ECG findings are shown below. How is the risk of stroke determined in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CHA2DS2-VASC",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "NIH Stroke Score",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ABCD2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Modified GCS",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. CHA2DS2-VASC",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/55(22).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a5004ec3",
+      "audio": ""
+    },
+    {
+      "text": "A 47-year-old woman presents with complaints of numbness around the lips and a tingling sensation in her fingers. She underwent parathyroidectomy for hyperparathyroidism one year ago. An ECG was done and is given below. What will be your immediate management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta blockers",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Teriparatide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IV Bisphosphonates",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IV Calcium gluconate",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. IV Calcium gluconate",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/56(26).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4fd62601",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old heavy smoker presented to the Emergency Department with severe anterior chest pain. An electrocardiogram (ECG) on admission revealed no ST segment changes and he was started on aspirin and low molecular weight heparin pending troponin results. Six hours later he develops more severe pain and has ST 2.5 mm elevation in leads V3 to V6. What is the management of choice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start him on B-blockade",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Arrange urgent (immediate)angiography +/angioplasty and stenting",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Start a IIb-Illa receptor antagonist",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Start tenecteplase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Arrange urgent (immediate)angiography +/angioplasty and stenting",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "244bb32d",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old man presents for follow up after two episodes of collapse. The Cardiology Clinic arranged a 24-hour monitoring which reveals one episode of nocturnal paroxysmal atrial fibrillation with a maximal ventricular rate of 145 bpm. PR interval is 140 milliseconds and the QT interval is normal. Echocardiography is unremarkable. Thyroid function testing is unremarkable. Which of the following treatments is most appropriate in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bisoprolol",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Disapyramide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Digoxin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Bisoprolol",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f502275c",
+      "audio": ""
+    },
+    {
+      "text": "A 49 year old tall thin male smoker presents with dyspnoea and palpitations. in the blood there is low K+ and Mg+2. ECG was done that is showing in the image. what is the probable Diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multifocal atrial tachycardia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Atrial fibrillation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PSVT",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Atrial Flutter",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Multifocal atrial tachycardia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/57(23).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5017e968",
+      "audio": ""
+    },
+    {
+      "text": "A 30 year old patient of valvular heart is having fever for last 2 weeks. following ECG done for this patient .he was Unconscious. what will be treatment given to this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use of automated external defibrillator",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Injection of adrenaline",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Injection of vasopressin 40 mg iv",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Injection of atropine 0.5mg iv",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Injection of adrenaline",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/58(20).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8b8332ba",
+      "audio": ""
+    },
+    {
+      "text": "Given below is the ECG of a patient with breathlessness who is admitted to the emergency department. His BP is 90/56mm Hg. Which clinical finding is not seen in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muffled heart sounds",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pulsus paradoxus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pericardial knock",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Elevated jugular venous pulse",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pericardial knock",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/59(28).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b41fc8cc",
+      "audio": ""
+    },
+    {
+      "text": "A middle aged male patient came for routine check up. An electrocardiogram was done which is shown. What is the most probable finding in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First degree heart block",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type I Mobitz block",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type Il Mobitz block",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Complete heart block",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. First degree heart block",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/60(30).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b00b12e0",
+      "audio": ""
+    },
+    {
+      "text": "A 60yr old man with history of myocardial infarction 1 year back came with complaints of palpitations and syncope. The ECG strip obtained during admission is given. What is the long term treatment for this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amiodarone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Atropine only",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Permanent pacemaker",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atropine and isoproterenol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Permanent pacemaker",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/61(22).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f227a69a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following antiarrhythmics is ineffective for use in the following arrhythmia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Esmolol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lidocaine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sotalol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lidocaine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/62(27).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "901ba70d",
+      "audio": ""
+    },
+    {
+      "text": "An elderly woman is rushed to the emergency room following an episode of syncope. Her caretaker reports that the patient had multiple episodes of loose stools and vomiting for the past 2 days. Her blood investigations and ECG are given below. What is the next best step in the management of this patient? Serum sodium - 140mEq/L Serum potassium - 7.1mEq/L Serum chloride - 100mEq/L Blood urea nitrogen:creatinine ratio - 26.9",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patiromer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intravenous calcium gluconate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hemodialysis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Intravenous insulin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Intravenous calcium gluconate",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/63(17).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2b10968c",
+      "audio": ""
+    },
+    {
+      "text": "The parents of a 10-year-old boy noticed agonal respirations at 5 AM while the boy was asleep. He was rushed to the emergency department and an ECG revealed the following findings. What is the likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Early repolarization syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Brugada Syndrome",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic cardiomyopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Atrial fibrillation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Brugada Syndrome",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/65(21).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bc458483",
+      "audio": ""
+    },
+    {
+      "text": "Axis deviation shown in given ECG is consistent with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lying down position",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thin and tall",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Obese person",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "At the end of peak expiration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Thin and tall",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/64(23).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a909ce92",
+      "audio": ""
+    }
+  ]
+}

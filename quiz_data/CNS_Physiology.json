@@ -1,0 +1,826 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "CNS_Physiology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Nociceptors have their cell bodies located in which of the following structures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dorsal root ganglion",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ventral horn of the spinal cord",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lateral geniculate nucleus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic ganglion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Dorsal root ganglion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>References:</strong></p>\n<ul><li>\u21b3 Reference:</li><li>\u21b3 https://www.ncbi.nlm.nih.gov/books/NBK10965/</li><li>\u21b3 https://www.ncbi.nlm.nih.gov/books/NBK470255/</li><li>\u21b3 Ganong\u2019s Review of Medical Physiology, 26th Edition, Page 158</li></u\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GwSBehAYErTgpWpNWl1x1745687358.mp3",
+      "video": "",
+      "uid": "914e28d6"
+    },
+    {
+      "text": "Feedforward Inhibition is seen in",
+      "options": [
+        {
+          "label": "A",
+          "text": "Renshaw cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cerebellum",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Basal Ganglia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hippocampus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cerebellum",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/W4Ls1uq14IOPxagZ5Lhv1736321778.png",
+        "https://image.prepladder.com/content/Ytkn60BynJWnSCSK8u3O1736068794.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feedback Inhibition</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feedforward Inhibition</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition where the output of a process inhibits its own production.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition where an <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> directly inhibits another <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> in response to input.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong><strong> </strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"60b935ac461692777187dd721f3464\">end product</span> of a <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> inhibits an <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> involved in the pathway.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> activates an <span class=\"customMeta\" data-dictid=\"1b6bd49bf11692777190214aa47f99\">inhibitory</span> <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> and then inhibits a <span class=\"customMeta\" data-dictid=\"f5467ab59316927771863c852a23a6\">downstream</span> neuron.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong><strong> </strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It helps maintain <span class=\"customMeta\" data-dictid=\"50796581771692777189251fbe5ef1\">homeostasis</span> by regulating the production of substances.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anticipates and prevents excessive <span class=\"customMeta\" data-dictid=\"8265e091151692777187f264d73f3b\">excitation</span> in <span class=\"customMeta\" data-dictid=\"b00388be25169277719369b3ab059f\">neural</span> circuits.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Example</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of an <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> in a <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> by its <span class=\"customMeta\" data-dictid=\"60b935ac461692777187dd721f3464\">end product</span> (e.g., <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> inhibiting phosphofructokinase).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In the cerebellum, <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> inputs <span class=\"customMeta\" data-dictid=\"6b3de87b7c16927771901326efbcd2\">inhibit</span> output neurons to prevent overexcitation.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ZRK8391NRBa3bJkEj2kz1745600984.mp3",
+      "video": "",
+      "uid": "00f5edd3"
+    },
+    {
+      "text": "Which of the following is the correct sequence of events at the neuromuscular junction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ca2+ influx \u2192 ACh release \u2192 End-plate potential \u2192 Muscle contraction",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "ACh release \u2192 Ca2+ influx \u2192 End-plate potential \u2192 Muscle contraction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "End-plate potential \u2192 Ca2+ influx \u2192 ACh release \u2192 Muscle contraction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ACh release \u2192 End-plate potential \u2192 Ca2+ influx \u2192 Muscle contraction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ca2+ influx \u2192 ACh release \u2192 End-plate potential \u2192 Muscle contraction",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/7BI25iNl9nndOeNmUiEy1736068214.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ksWxsiiqSVukvTbn4dJW1745669920.mp3",
+      "video": "",
+      "uid": "e60d2fd2"
+    },
+    {
+      "text": "Slow Type inhibitory postsynaptic potential (IPSP) is generated by?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opening of K+ channels",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Closing of K+ channels",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Opening of Cl- channels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Opening of Na+ channels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Opening of K+ channels",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:649px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>IPSP Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Channel </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Region</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Slow <span class=\"customMeta\" data-dictid=\"8aeddf7d291692777190baca5b7dfc\">IPSP</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Opening of K+ Channel <strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autonomic ganglia, smooth muscles, <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> muscles.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fast IPSP</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Entry of Cl- Channel <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>All parts of the CNS.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3nbKS4Mj2KBrGqEnqbqR1745669423.mp3",
+      "video": "",
+      "uid": "105437bf"
+    },
+    {
+      "text": "During the generation of excitatory postsynaptic potential (EPSP), which of the following movements of ions occur at the postsynaptic membrane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Efflux of sodium ions",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Influx of calcium ions",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Influx of potassium ions",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Influx of chloride ions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Influx of calcium ions",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/I1Ac4lCBeypltG1M6Fro1745667409.mp3",
+      "video": "",
+      "uid": "48e6a17b"
+    },
+    {
+      "text": "Which subtype of GABA receptors mediate fast inhibitory postsynaptic potentials through the entry of Cl- into neurons? GABA-A GABA-B GABA-C",
+      "options": [
+        {
+          "label": "A",
+          "text": "Receptor 1 and 2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Receptor 2 and 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Receptor 1 and 3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Receptor 1 and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:660px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Receptor subtype </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subunit </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Distribution </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism </strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inotropic receptor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA- <strong>A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pentamers of various combinations: 6 \u03b1, 4 \u03b2, 4 \u03b3, 1 \u03b4, 1 \u03b5</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CNS</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activation allows <strong>Cl\u2013 entry</strong> into neurons, mediating fast <span class=\"customMeta\" data-dictid=\"1b6bd49bf11692777190214aa47f99\">inhibitory</span> <span class=\"customMeta\" data-dictid=\"978bd0e89f1692777196add72e1254\">postsynaptic</span> potentials (IPSP)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA- <strong>C</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pentamers of three \u03c1 subunits in various combinations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Almost exclusively in the retina.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G-protein coupled <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA- <strong>B</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No specific subunit composition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CNS</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Linked via <strong>G-proteins</strong>: Gi inhibits <span class=\"customMeta\" data-dictid=\"7112e9ca411692777180a7c10a13a6\">adenylyl</span> <span class=\"customMeta\" data-dictid=\"b638747a661692777185a6182d6e5f\">cyclase</span> to open the K+ channel, Go inhibits or delays Ca2+ influx.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/XEZHgQXF1fI4iVTTqLwX1745667147.mp3",
+      "video": "",
+      "uid": "f13cf82e"
+    },
+    {
+      "text": "Match the following neurotransmitters with their site of production in CNS. A. Acetylcholine (ACh) 1. Raphe nuclei B. Norepinephrine (NE) 2. Nucleus basalis of Meynert C. Dopamine 3. Locus ceruleus D. Serotonin 4. Substantia nigra",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-4, B-3, C-2, D-1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-3, B-2, C-4, D-1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A-2, B-3, C-4, D-1",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A-4, B-2, C-3, D-1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A-2, B-3, C-4, D-1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitters</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Source</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acetylcholine (ACh)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nucleus <span class=\"customMeta\" data-dictid=\"849623f7a71692777182fb29760194\">basalis</span> of Meynert</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Associated with Muscle contraction, Memory and <span class=\"customMeta\" data-dictid=\"7bdd34850816927771973c86f95b79\">REM</span> sleep</li>\n<li>NT* for Sweat glands</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Norepinephrine (NE)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Locus ceruleus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Regulates <span class=\"customMeta\" data-dictid=\"882ef330fb16927772022093f7518f\">wakefulness</span> and alertness.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dopamine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Substantia nigra</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Destruction causes Parkinson\u2019s disease.</li>\n<li>NT* of reward and addiction.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serotonin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Raphe nuclei</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Regulation of mood, sleep, and appetite.</li>\n<li>The highest concentration is in Platelets, <span class=\"customMeta\" data-dictid=\"6c13e383a01692777187ae85e093b6\">enterochromaffin</span> cells, and myenteric plexus.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/feoklxyD3yrLVilFv2W71745666161.mp3",
+      "video": "",
+      "uid": "9b2f8133"
+    },
+    {
+      "text": "Which neurotransmitter is primarily responsible for inhibiting motor neuron activity at the level of the spinal cord to regulate muscle tone and reflexes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GABA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glutamate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glycine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Acetylcholine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Glycine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qfREmedNizIxipU9EgiA1745665875.mp3",
+      "video": "",
+      "uid": "0d66c5cf"
+    },
+    {
+      "text": "Which protein, essential for regulating neurotransmitter release at the neuromuscular junction, prevents the premature fusion of synaptic vesicles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Synaptobrevin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SNAP-25",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Syntaxin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Complexin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Complexin",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/DMyqLA6iqAx4rseGimTt1736066265.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Lho9hUx6BNncsutE4W5h1745660783.mp3",
+      "video": "",
+      "uid": "320af772"
+    },
+    {
+      "text": "Which of the following types of vesicle at the synaptic terminal contain glutamate neurotransmitter ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small clear vesicles",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Large dense-core vesicles",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Small dense-core vesicles",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Endosomes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Small clear vesicles",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:501px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types of vesicles</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitters </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Small clear vesicles</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acetylcholine, GABA, glutamate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Small dense core vesicles (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Catecholamines(eg:dopamine,epinephrine and norepinephrine)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Large dense core vesicles (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neuropeptides</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/XD7glmGjgVEDCDhOHmQc1745660401.mp3",
+      "video": "",
+      "uid": "c3aa6d58"
+    },
+    {
+      "text": "Identify the correct statement about the neospinothalamic tract for pain:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It primarily carries slow pain sensations",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The first-order neurons terminate mainly in lamina II of the dorsal horn",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The neurotransmitter released by the A\u03b4 fiber is glutamate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All fibers terminate exclusively in the reticular formation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The neurotransmitter released by the A\u03b4 fiber is glutamate",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/c7te13JQv2YCd0ER4ldi1727421318.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:706px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b4 (A-delta) fibers</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Carries fast pain sensations, primarily mechanical and <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"e316517c941692777200eb2671128d\">thermal</span> pain <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>First-Order Neurons</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Terminate mainly in <span class=\"customMeta\" data-dictid=\"9864ad42b21692777191febeee1002\">lamina</span> I of the <span class=\"customMeta\" data-dictid=\"51b29c48291692777186b488ac8cd9\">dorsal</span> horn of the <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord <strong>(Option B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Second-Order Neurons</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cross to the opposite side of the <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord through the <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">anterior</span> commissure.</li>\n<li>Ascend in the <span class=\"customMeta\" data-dictid=\"5a5df583551692777181550518132c\">anterolateral</span> pathway.</li>\n<li>The fibers terminate mainly in the ventrobasal complex, and a few fibers also terminate in the <span class=\"customMeta\" data-dictid=\"a5c6cb079d16927771967e62ffee72\">posterior</span> nuclear complex of the thalamus.</li>\n<li>Sparse projections to <span class=\"customMeta\" data-dictid=\"d26464df7216927771923483619265\">midbrain</span> <span class=\"customMeta\" data-dictid=\"0b6b1f44cb1692777197afef785626\">reticular</span> formation, <span class=\"customMeta\" data-dictid=\"c51baf41771692777195b4b3432d4b\">periaqueductal</span> grey and hypothalamus<strong> (Option D ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Third-Order Neurons</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Originate from specific thalamic nuclei.</li>\n<li>The signals are then transmitted to other <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> areas of the brain as well as <span class=\"customMeta\" data-dictid=\"be46da176016927771984a269a5b2c\">somatosensory</span> cortex</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Localization of Pain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Fast pain is better localised than slow-chronic pain.</li>\n<li>Exact localisation requires simultaneous <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> of <span class=\"customMeta\" data-dictid=\"ff110f2cb71692777200a3483aa670\">tactile</span> receptors</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate (primary <span class=\"customMeta\" data-dictid=\"e28fd027b416927771932bc23ba0a5\">neurotransmitter</span> at A\u03b4 fiber endings) <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Topographic Organization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord:</p>\n<ul>\n<li>Lower body fibers placed laterally</li>\n<li>Upper body fibers placed medially</li>\n<li>Sacral segment fibers occupy most <span class=\"customMeta\" data-dictid=\"fc380e21321692777191739bd99191\">lateral</span> part</li>\n<li>Cervical segment fibers occupy most <span class=\"customMeta\" data-dictid=\"db46007ad21692777192dcc160a2e2\">medial</span> part</li>\n</ul>\n<br/>\n\t\t\t\u00a0</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Special Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pain perception persists despite removing <span class=\"customMeta\" data-dictid=\"3db910d8571692777198303e3bcb27\">somatic</span> <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> areas of the cerebral cortex, indicating that the brain stem, thalamus, and lower centers handle this function. The <span class=\"customMeta\" data-dictid=\"cab8787ce916927771852a7e72f34d\">cortex</span> only helps in interpreting pain quality, not perception.</p>\n</td>\n</tr>\n</tbody>\n\n<p><strong>References:</strong></p>\n<ul><li>\u21b3 Reference:</li><li>\u21b3 Guyton and Hall Textbook of Medical Physiology, 14th Edition, Page 615, 616</li><li>\u21b3 G. K Pal Comprehensive Textbook of Medical Physiology, 1st Edition, Page 1017, 1018</li></u\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ClHN7glbSTbr1QEcgDDA1745688509.mp3",
+      "video": "",
+      "uid": "da5c1e86"
+    },
+    {
+      "text": "Which of the following nuclei has a function of thermoregulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medial preoptic nuclei",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lateral nuclei",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Para-ventricle nuclei",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Arcuate nuclei",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Medial preoptic nuclei",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/QPithgoMDtsxiTfzsagU1736070986.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mzq9zrKTzMfQGgeV6du81745083401.mp3",
+      "video": "",
+      "uid": "218291d9"
+    },
+    {
+      "text": "Which of the following best explains why rods are more sensitive to low light than cones?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Individual connections to ganglion cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High convergence onto ganglion cells",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Lower density in the retina",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Larger size of photoreceptors",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High convergence onto ganglion cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Se4wjFkMeSfaslsYD2Rh1736233464.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/faZ3CzlnSUcJ43KUCaRs1745926640.mp3",
+      "video": "",
+      "uid": "36634d6a"
+    },
+    {
+      "text": "Which neurotransmitter is primarily involved in fast pain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Substance P",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glutamate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "GABA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Serotonin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Glutamate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:618px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fast pain (First Pain)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Slow pain (Second Pain)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b4 fiber</p>\n<ul>\n<li>Myelinated</li>\n<li>Large <span class=\"customMeta\" data-dictid=\"afb15e4a331692777186e495b370a1\">diameter</span> (2-5 \u00b5m)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>C fiber</p>\n<ul>\n<li>Unmyelinated</li>\n<li>Smaller <span class=\"customMeta\" data-dictid=\"afb15e4a331692777186e495b370a1\">diameter</span> (0.4 - 1.2 \u00b5m)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Body surface</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deeper tissues</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Conduction velocity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Very rapid (~12- 35 m/s)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Very slow (~ 0.5 - 2 m/s)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Substance P<strong> (Option A Ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rapid response</li>\n<li>Mediates the discriminative aspects of pain (localisation and intensity)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Delayed, dull, intense, <span class=\"customMeta\" data-dictid=\"89275101301692777186567d1912a0\">diffuse</span> and unpleasant feeling associated with <span class=\"customMeta\" data-dictid=\"31e5bff13d16927771936b61ba35b7\">noxious</span> stimulus</p>\n</td>\n</tr>\n</tbody>\n\n<p><strong>References:</strong></p>\n<ul><li>\u21b3 Reference:</li><li>\u21b3 Ganong\u2019s Review of Medical Physiology, 26th Edition, Page 158</li></u\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nmZqvEFuetSjboqoriVt1745687204.mp3",
+      "video": "",
+      "uid": "53f9c84b"
+    },
+    {
+      "text": "Which of the following statements about climbing and mossy fibers is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Climbing and mossy fibers provide the primary input to the cerebellar cortex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The Vestibulocerebellar serves as the pathway for climbing fibers.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mossy fibers are the terminal endings of the olivocerebellar tracts.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mossy fibers use aspartate to provide excitatory signals to the Purkinje cells.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Climbing and mossy fibers provide the primary input to the cerebellar cortex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Source/Tracts</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Olivocerebellar tracts</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Climbing Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Aspartate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proprioceptive input from the entire body</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vestibulocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the labyrinth.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Spinocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the Muscle spindle, the Golgi <span class=\"customMeta\" data-dictid=\"606c2acae5169277720052151cb04c\">Tendon</span> Organ.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cuneocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the Muscle spindle, Golgi <span class=\"customMeta\" data-dictid=\"606c2acae5169277720052151cb04c\">Tendon</span> Organ.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tectocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from visual & auditory.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pontocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the motor & other parts of the cerebral cortex.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/aCQHaotk2fJEhbXIdwkh1744998028.mp3",
+      "video": "",
+      "uid": "82906395"
+    },
+    {
+      "text": "Which statement correctly describes the effect of each basal ganglia pathway?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The direct pathway decreases inhibitory output from the internal segment of the globus pallidus.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The indirect pathway decreases inhibitory output from the internal segment of the globus pallidus.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The direct pathway increases inhibitory output from the external segment of the globus pallidus.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The indirect pathway increases inhibitory output from the external segment of the globus pallidus.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The direct pathway decreases inhibitory output from the internal segment of the globus pallidus.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:630px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Direct Pathway</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indirect Pathway</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Facilitates motor activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suppresses motor activity</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Input</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Excitatory input from the cerebral cortex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Excitatory input from the cerebral cortex</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Target</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Striatum (caudate <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> and putamen)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Striatum (caudate <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> and putamen)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Striatum Output</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits internal segment of <span class=\"customMeta\" data-dictid=\"86c230abe316927771889bbef8df5d\">globus</span> pallidus (GPi)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits external segment of <span class=\"customMeta\" data-dictid=\"86c230abe316927771889bbef8df5d\">globus</span> pallidus (GPe)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>GPi/SNr Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of thalamus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of thalamus</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thalamus Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased thalamic activation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreased thalamic activation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Motor <span class=\"customMeta\" data-dictid=\"cab8787ce916927771852a7e72f34d\">Cortex</span> Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enhanced motor activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced motor activity</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subthalamic <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">Nucleus</span> (STN)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not directly involved</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activated by <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> from GPe</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PLuuA84wLdefAeZutKAT1744996886.mp3",
+      "video": "",
+      "uid": "d6d3f961"
+    },
+    {
+      "text": "Which type of receptor is most likely responsible for detecting the rapid changes in pressure and vibrations in the patient's fingertips?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meissner Corpuscles",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pacinian Corpuscles",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hair End Organ",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Warmth Receptors",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pacinian Corpuscles",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/bjUTTDqTVc52v7DHrD5V1744016172.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:623px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Rapidly Adapting <span class=\"customMeta\" data-dictid=\"ff110f2cb71692777200a3483aa670\">Tactile</span> Receptors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Structure </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Adaptation </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pacinian Corpuscle</strong><br/>\n<strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Encapsulated nerve ending</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Detect tissue <span class=\"customMeta\" data-dictid=\"316ac15070169277720221407d1017\">vibration</span> or other rapid changes in the mechanical state of tissues</li>\n<li>Stimulated by rapid local <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> of the tissue</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Immediately beneath the skin and deep in the fascial tissues of the body</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adapts in a few hundredths of a second</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Meissner Corpuscle</strong><br/>\n<strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elongated, <span class=\"customMeta\" data-dictid=\"e26ba9a1d41692777187d0ad03a8c1\">encapsulated</span> nerve <span class=\"customMeta\" data-dictid=\"7ae760ae1b169277718794068316b8\">ending</span> of a large <span class=\"customMeta\" data-dictid=\"dd79d3db911692777193c60304ef85\">myelinated</span> <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> nerve fiber</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Sensitive to movement of objects over the skin and low-frequency vibrations</li>\n<li>crucial for <span class=\"customMeta\" data-dictid=\"6495ef882b169277719896942b51c3\">spatial</span> location discernment of touch sensations</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-hairy skin, particularly abundant in fingertips and lips.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adapts in a fraction of a second</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hair <span class=\"customMeta\" data-dictid=\"538cf74db7169277718733eae9f221\">End Organ</span> </strong><strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nerve fiber entwined at the base of each hair</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detects :</p>\n<ul>\n<li>Movement of objects on the body surface or</li>\n<li>Initial contact with the body</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hairy skin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adapts readily</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bvAvX0eyJLxgjzp4B7a01745754342.mp3",
+      "video": "",
+      "uid": "029d8fc1"
+    },
+    {
+      "text": "Which law explains the phenomenon of phantom limb pain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muller's Doctrine of Specific Nerve Energy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bell-Magendie Law",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Law of Projection",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Weber-Fechner Law",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Law of Projection",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GuFnLaMuTVLqegK7AoT71745858204.mp3",
+      "video": "",
+      "uid": "0cbf344e"
+    },
+    {
+      "text": "Which of the following statements regarding removal of each somatosensory area is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Somatosensory Area I: complete loss of pain and temperature sensations.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Somatosensory Area II: inability of precise localization of sensations",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Somatosensory Association Areas: inability to recognize two sides of an object",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Somatosensory Area I: enhance ability to judge the shape of an object",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Somatosensory Association Areas: inability to recognize two sides of an object",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/vZTGtzrJA2K5CFxus9LZ1736160167.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:711px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Somatosensory Area I</strong><br/>\n<strong>(SSA 1)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Somatosensory Area II (SSA 2)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Somatosensory Association Area</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Postcentral <span class=\"customMeta\" data-dictid=\"231fafb8e116927771888a0efe57f1\">gyrus</span> (Brodmann's areas 3, 1, and 2).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Superior wall of <span class=\"customMeta\" data-dictid=\"c76557c9e1169277719955ac4ecac7\">Sylvian</span> fissure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Brodmann's areas 5 and 7, located in <span class=\"customMeta\" data-dictid=\"51df38de3d1692777194ced4c4bab5\">parietal</span> <span class=\"customMeta\" data-dictid=\"cab8787ce916927771852a7e72f34d\">cortex</span> behind SSA I</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Representation and localisation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High <span class=\"customMeta\" data-dictid=\"e485bb67f81692777191dfee6366cc\">localization</span> of body parts.</li>\n<li>Nose, lips, mouth and face laterally; head, neck, shoulder and lower body part medially</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Poor <span class=\"customMeta\" data-dictid=\"e485bb67f81692777191dfee6366cc\">localization</span> <strong>(Option B)</strong></li>\n<li>Face is represented anteriorly, arms centrally and legs posteriorly</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Combines information from the primary <span class=\"customMeta\" data-dictid=\"be46da176016927771984a269a5b2c\">somatosensory</span> area, leading to complex sensations, such as feeling an object like a knife or ball.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Primary area for <span class=\"customMeta\" data-dictid=\"3db910d8571692777198303e3bcb27\">somatic</span> sensation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Less known functions; Relies on input from SSA I</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decipher deeper meanings of <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> information from SSA</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Sensory Information</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receive inputs from thalamic and <span class=\"customMeta\" data-dictid=\"721937292f1692777185048f04ce29\">cortical</span> areas</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Signals enter from brain stem, SSA I and from other <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> areas (visual and auditory)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives signals from SSA I, thalamus,visual <span class=\"customMeta\" data-dictid=\"cab8787ce916927771852a7e72f34d\">cortex</span> and <span class=\"customMeta\" data-dictid=\"f17057f75016927771829e70074368\">auditory</span> cortex</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effect of Excision</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>B/L excision</strong> of leads to:</p>\n<ol>\n<li>Loss of precise <span class=\"customMeta\" data-dictid=\"e485bb67f81692777191dfee6366cc\">localization</span> of sensations</li>\n<li>Inability to judge pressure against the body, weight, texture, or shape of the object (astereognosis) <strong>(Option D).</strong></li>\n<li>Pain and temperature senses preserved but poorly <span class=\"customMeta\" data-dictid=\"8fb8df140b1692777191702bbc9358\">localized</span> <strong>(Option A)</strong></li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Removal of parts of SSA II does not affect the response of neurons in SSA I</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>U/L removal</strong> leads to:</p>\n<ol>\n<li><strong>Amorphosynthesis</strong>: Difficulty recognizing objects on one side. <strong>(Option C)</strong></li>\n<li><strong>Hemineglect:</strong> Denial of the existence of the opposite side of the body.</li>\n<li><strong>Constructional apraxia:</strong> Difficulty in constructing a picture.</li>\n</ol>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/M34gRW0sYTKbriRqozv91745857004.mp3",
+      "video": "",
+      "uid": "55975903"
+    },
+    {
+      "text": "Which layer of the cerebral cortex is primarily responsible for receiving input sensory signals and sending them to other layers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Layer I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Layer III",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Layer IV",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Layer VI",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Layer IV",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/lnf8BFcrXVaXcq4q4iWS1736159445.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:654px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>I- Molecular layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Receives <span class=\"customMeta\" data-dictid=\"70d4f989c31692777193372189cfbb\">nonspecific</span> input signals from lower brain centers.<br/>\n\t\t\tControl the <span class=\"customMeta\" data-dictid=\"3892cfe03616927771872f834cf855\">excitability</span> of stimulated areas.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>II- External <span class=\"customMeta\" data-dictid=\"4f63eb15be169277718848d4b4978b\">granular</span> layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Receives <span class=\"customMeta\" data-dictid=\"70d4f989c31692777193372189cfbb\">nonspecific</span> input and sends axons to the opposite <span class=\"customMeta\" data-dictid=\"cab8787ce916927771852a7e72f34d\">cortex</span> through the <span class=\"customMeta\" data-dictid=\"7e902103fb16927771857729aade8b\">corpus</span> callosum.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>III- External <span class=\"customMeta\" data-dictid=\"d3b981dbf916927771961c29f24614\">pyramidal</span> layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Sends axons to related <span class=\"customMeta\" data-dictid=\"721937292f1692777185048f04ce29\">cortical</span> areas on the opposite side through the <span class=\"customMeta\" data-dictid=\"7e902103fb16927771857729aade8b\">corpus</span> callosum.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>IV- Internal <span class=\"customMeta\" data-dictid=\"4f63eb15be169277718848d4b4978b\">granular</span> layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>The primary layer for receiving input <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> signals, which then spread to the surface and deeper layers.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>V- Internal <span class=\"customMeta\" data-dictid=\"d3b981dbf916927771961c29f24614\">pyramidal</span> layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Sends large axons to distant nervous system parts like <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> ganglia, brain stem, and <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord.<br/>\n\t\t\tControls signal transmission.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>VI- Fusiform/ <span class=\"customMeta\" data-dictid=\"61bad3c5dc1692777196997698f068\">polymorphic</span> layer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Sends axons to the thalamus.</p>\n<p>Regulates <span class=\"customMeta\" data-dictid=\"3892cfe03616927771872f834cf855\">excitability</span> of incoming <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> signals.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Bs7f1NW3FzjNVTqJxQ6s1745841897.mp3",
+      "video": "",
+      "uid": "05fbb11b"
+    },
+    {
+      "text": "Which of the following parts of the brain is responsible for working memory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prefrontal cortex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Neocortex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ventral hippocampus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amygdala",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prefrontal cortex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/oyxhjnAC4x188HcHFkBa1745860463.mp3",
+      "video": "",
+      "uid": "59baed96"
+    },
+    {
+      "text": "Which of the following statements about EEG (Electroencephalogram) is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EEG measures the summated version of EPSP and IPSP generated in the brain.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "EEG records the dendritic potentials of pyramidal neurons.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Positive dendritic potentials are known as EPSP (Excitatory Postsynaptic Potential) and negative dendritic potentials are known as IPSP (Inhibitory Postsynaptic Potential).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D) Electrocorticography (ECOG) is the measurement of electrical activity specifically in the cerebral cortex by placing electrodes on the surface of scalp.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. D) Electrocorticography (ECOG) is the measurement of electrical activity specifically in the cerebral cortex by placing electrodes on the surface of scalp.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/TUgABEdcxQrqeeWyABVh1727327534.png"
+      ],
+      "explanation": "<p><strong>Educational Objective:</strong></p>\n<ul><li>\u27a4 EEG Function: Records electrical activity from the brain's surface, detecting dendritic potentials, not action potentials. EEG Components: Captures the summated EPSPs and IPSPs. Pyramidal Neurons: Major contributors to the signals detected by EEG.</li><li>\u27a4 EEG Function: Records electrical activity from the brain's surface, detecting dendritic potentials, not action potentials.</li><li>\u27a4 EEG Components: Captures the summated EPSPs and IPSPs.</li><li>\u27a4 Pyramidal Neurons: Major contributors to the signals detected by EEG.</li><li>\u27a4 Pyramidal Neurons:</li><li>\u27a4 Electrocorticography (ECOG): Involves placing electrodes directly on the cerebral cortex, not over the scalp, to measure electrical activity.</li><li>\u27a4 Electrocorticography (ECOG):</li></u\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1GJyiwgi5sdafEA47Ulr1745919073.mp3",
+      "video": "",
+      "uid": "c726119e"
+    },
+    {
+      "text": "Which of the following cells in the olfactory bulb lacks an axon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Periglomerular cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mitral cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tufted cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Granule cell",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Granule cell",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/b76zrvnGijhCG81xvukV1736092712.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/BCXPjeFePJrZVwYUuFE11745941148.mp3",
+      "video": "",
+      "uid": "4f3b9e11"
+    },
+    {
+      "text": "Arrange in order the mechanism of sound transmission i) Depolarization of hair cells ii) Bending of stereocilia iii) Production of neurotransmitter glutamate iv) K & Ca enter via the channel",
+      "options": [
+        {
+          "label": "A",
+          "text": "iv, iii, ii, i",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "iv, i, ii, iii",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ii, i, iii, iv",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ii, iv, i, iii",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. ii, iv, i, iii",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/UJn1iNAf3LBmt6J2kvhX1736091407.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/B2eFsDjW6SqMYO6eFwcu1745932532.mp3",
+      "video": "",
+      "uid": "bba2e0e8"
+    }
+  ]
+}

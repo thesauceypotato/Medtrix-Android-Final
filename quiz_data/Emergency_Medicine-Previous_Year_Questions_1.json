@@ -1,0 +1,584 @@
+{
+  "meta": {
+    "id": "test13",
+    "title": "Emergency_Medicine-Previous_Year_Questions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A patient with type 2 diabetes mellitus experiences hypoglycemia and sustains a fall. Due to incoherent speech, a CT scan is performed and reveals a substantial subdural hematoma (SDH) with a volume greater than 30 cc. What should be the immediate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer Mannitol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer Aspirin and Clopidogrel",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Perform a Craniotomy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Stabilize the patient and urgently seek a neurosurgical consultation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Perform a Craniotomy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Acute SDH</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Chronic SDH</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Timing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>0-72 hours</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>>3 weeks</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Rapid deterioration</li>\n<li>Loss of consciousness</li>\n<li>Focal deficits</li>\n<li>High mortality</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Gradual onset</li>\n<li>Confusion</li>\n<li>Headache</li>\n<li>Gait disturbance</li>\n<li>Better prognosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Risk Factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Severe trauma</li>\n<li>Young adults</li>\n<li>Coagulopathy</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Elderly</li>\n<li>Brain atrophy</li>\n<li>Anticoagulation</li>\n<li>Minor trauma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>CT Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Hyperdense crescent</li>\n<li>Immediate mass effect</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Hypodense/mixed density</li>\n<li>Bilateral in 20-30%</li>\n<li>Gradual mass effect</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Emergency craniotomy</li>\n<li>Reverse coagulopathy</li>\n<li>ICU care</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<ul>\n<li>Burr hole drainage</li>\n<li>Hold anticoagulation</li>\n<li>May observe small ones</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dbf8bccd"
+    },
+    {
+      "text": "A 47-year-old woman was brought to the casualty in an unconscious state after having suddenly collapsed. As there was no pulse, cardiopulmonary resuscitation was started and the monitor showed the following rhythm. What is the next step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Defibrillation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Synchronized cardioversion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1mg epinephrine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.5mg atropine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Defibrillation",
+      "question_images": [
+        "https://image.prepladder.com/content/SQVG35ZJVzgCX9F9bQKB1747046506.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/s0yqR7XTt3aA63EMQiD51747046549.png",
+        "https://image.prepladder.com/content/5kZT01pT9Y6Du480oTS31747046549.png",
+        "https://image.prepladder.com/content/miKvyzu6nbmxnv5q2eU21747046549.png",
+        "https://image.prepladder.com/content/QgOb89OfDwr8zGeQoCbt1747046549.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Shockable Conditions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Non-Shockable Conditions</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Ventricular Fibrillation</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"448\" src=\"https://image.prepladder.com/content/s0yqR7XTt3aA63EMQiD51747046549.png\" width=\"446\"/></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Asystole</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"138\" src=\"https://image.prepladder.com/content/5kZT01pT9Y6Du480oTS31747046549.png\" width=\"447\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Ventricular Tachycardia </strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"230\" src=\"https://image.prepladder.com/content/miKvyzu6nbmxnv5q2eU21747046549.png\" width=\"447\"/></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Pulseless Electrical Activity</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"128\" src=\"https://image.prepladder.com/content/QgOb89OfDwr8zGeQoCbt1747046549.png\" width=\"447\"/></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:640px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Shockable Conditions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Non-Shockable Conditions</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Immediate Recognition</strong></p>\n<p style=\"text-align:center\"><strong>Identify Shockable Rhythm:</strong> Recognize VF or <span class=\"customMeta\" data-dictid=\"b38826787e16927771969ff8eb6e09\">pulseless</span> VT.</p>\n<p style=\"text-align:center\"><strong>Activate Emergency Response: </strong>Call for advanced life support.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Initiate CPR</strong></p>\n<p style=\"text-align:center\"><strong>Start High-Quality CPR: </strong>Perform chest compressions at a rate of 100-120/min, with a depth of 5-6 cm. Continue CPR for 2 minutes.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Defibrillation (Option A)</strong></p>\n<p style=\"text-align:center\">After 2 minutes of CPR, deliver a Non-Synchronized DC Shock to restore normal rhythm.</p>\n<p style=\"text-align:center\">If no change, administer a second shock immediately.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Continue CPR</strong></p>\n<p style=\"text-align:center\">Resume CPR for 2 Minutes</p>\n<p style=\"text-align:center\">Place an <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> or <span class=\"customMeta\" data-dictid=\"6a346f84561692777190430904e7b3\">intraosseous</span> line for drug administration.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Administer Epinephrine</strong></p>\n<p style=\"text-align:center\"><strong>Epinephrine 1 mg (Option C)</strong> (1:10,000): Given IV/IO after 2 minutes of CPR to enhance <span class=\"customMeta\" data-dictid=\"bc8bc758371692777185eff2ccabb7\">coronary</span> <span class=\"customMeta\" data-dictid=\"33dfead74b1692777195931780bd9e\">perfusion</span> pressure.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Advanced <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">Airway</span> Management</strong></p>\n<p style=\"text-align:center\"><strong>Secure Airway: </strong>Perform <span class=\"customMeta\" data-dictid=\"cdccef317a1692777187a7bc217232\">endotracheal</span> <span class=\"customMeta\" data-dictid=\"83e66fab2f1692777190a43a6e300f\">intubation</span> if necessary.</p>\n<p style=\"text-align:center\"><strong>Capnography:</strong> Monitor <span class=\"customMeta\" data-dictid=\"959389429f1692777187a5fa1e94a9\">end-tidal</span> CO2 levels.</p>\n<p style=\"text-align:center\"><strong>Ventilation:</strong> Provide 1 breath every 6 seconds post-intubation.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Further Defibrillation</strong></p>\n<p style=\"text-align:center\"><strong>Third Shock:</strong> If VF or <span class=\"customMeta\" data-dictid=\"b38826787e16927771969ff8eb6e09\">pulseless</span> VT persists, deliver a third non-synchronized shock.</p>\n<p style=\"text-align:center\">Continue CPR for 2 More Minutes: Follow with additional CPR.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Administer Antiarrhythmic Medication</strong></p>\n<p style=\"text-align:center\"><strong>Amiodarone 300 mg IV: </strong>Administer for shock-refractory VT to stabilize heart rhythm.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Identify and Treat <span class=\"customMeta\" data-dictid=\"a4488d66fc16927771975d043c4ccc\">Reversible</span> Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Immediate Recognition</strong></p>\n<p style=\"text-align:center\"><strong>Identify Non-Shockable Rhythm:</strong> Recognize <span class=\"customMeta\" data-dictid=\"91769de9d4169277718220e09c463f\">asystole</span> or <span class=\"customMeta\" data-dictid=\"b38826787e16927771969ff8eb6e09\">pulseless</span> <span class=\"customMeta\" data-dictid=\"c34137b40a1692777187edcef44647\">electrical activity</span> (PEA).</p>\n<p style=\"text-align:center\"><strong>Activate Emergency Response:</strong> Call for advanced life support.</p>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Initiate CPR</strong></p>\n<p style=\"text-align:center\"><strong>Start High-Quality CPR: </strong>Perform chest compressions at a rate of 100-120/min, with a depth of 5-6 cm. Continue CPR for 2 minutes.</p>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Establish <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> or <span class=\"customMeta\" data-dictid=\"6a346f84561692777190430904e7b3\">intraosseous</span> lines for medication administration.</strong></p>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Administer Epinephrine</strong></p>\n<p style=\"text-align:center\"><strong>Epinephrine 1 mg (1:10,000):</strong> Administer IV/IO after the first 2 minutes of CPR.</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\"><strong>Identify Rhythm</strong></p>\n<ul>\n<li style=\"text-align:center\"><strong>Non-Shockable Rhythm: </strong>Continue CPR and administer <span class=\"customMeta\" data-dictid=\"76baf6616a169277718738f8790ab9\">epinephrine</span> every 3-5 minutes.</li>\n</ul>\n<p style=\"text-align:center\"><strong>Goal: </strong>To increase the likelihood of developing a shockable rhythm, such as <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> <span class=\"customMeta\" data-dictid=\"6ae0ac06031692777202699c4c75a0\">fibrillation</span> (VF), which is necessary for effective defibrillation.</p>\n<ul>\n<li style=\"text-align:center\"><strong>Shockable Rhythm:</strong> Administer a Non-Synchronized DC Shock to restore normal rhythm.</li>\n</ul>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Advanced <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">Airway</span> Management</strong></p>\n<p style=\"text-align:center\"><strong>Airway: </strong>Secure the <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> with <span class=\"customMeta\" data-dictid=\"cdccef317a1692777187a7bc217232\">endotracheal</span> <span class=\"customMeta\" data-dictid=\"83e66fab2f1692777190a43a6e300f\">intubation</span> if necessary.</p>\n<p style=\"text-align:center\"><strong>Capnography: </strong>Monitor <span class=\"customMeta\" data-dictid=\"959389429f1692777187a5fa1e94a9\">end-tidal</span> CO2 levels.</p>\n<p style=\"text-align:center\"><strong>Ventilation: </strong>Provide 1 breath every 6 seconds post-intubation for adequate oxygenation.</p>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Continue CPR</strong></p>\n<p style=\"text-align:center\">Resume chest compressions for 2 minutes.</p>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Identify and Treat <span class=\"customMeta\" data-dictid=\"a4488d66fc16927771975d043c4ccc\">Reversible</span> Causes</strong></p>\n<p style=\"text-align:center\"><strong>Primary Focus:</strong> Address <span class=\"customMeta\" data-dictid=\"a4488d66fc16927771975d043c4ccc\">reversible</span> causes, especially hypothermia.</p>\n<p style=\"text-align:center\">\u2193<br/>\n<strong>Repeat CPR and Epinephrine</strong></p>\n<p style=\"text-align:center\"><strong>Cycle: </strong>Continue repeating CPR and <span class=\"customMeta\" data-dictid=\"76baf6616a169277718738f8790ab9\">epinephrine</span> administration every 3-5 minutes.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "cb9569e4"
+    },
+    {
+      "text": "All of the following is used in the management of breathless patients at a high altitude of 3000 mts except.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intravenous digoxin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Oxygen supplementation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Immediate descent",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acetazolamide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Intravenous digoxin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5c4498f5"
+    },
+    {
+      "text": "The recommended temperature of a water bath for a patient with frostbite is",
+      "options": [
+        {
+          "label": "A",
+          "text": "37 degree C",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "42 degree C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "32 degree C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "30 degree C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 37 degree C",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e5974f0d"
+    },
+    {
+      "text": "According to the ABCD2 scoring, which factors indicate a greater likelihood of a patient with TIA experiencing a future stroke?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Age <60 years",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SBP>140 mm Hg and DBP <90 mmHg",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Duration of TIA >5 mins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diabetes",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Diabetes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:598px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Parameter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Points</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Age</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>> 60 years <strong>(Option A) </strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1 point</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Blood Pressure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>BP \u2265 140/90 <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1 point</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Speech <span class=\"customMeta\" data-dictid=\"4586eccbe71692777186e577e31829\">disturbance</span> without weakness</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1 point</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Unilateral leg weakness</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>2 points</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Duration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>10\u201359 minutes <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1 point</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>\u2265 60 minutes</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>2 points</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Diabetes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Presence of diabetes</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1 point</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:409px\">\n<tbody>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Score</strong></p>\n</td>\n<td colspan=\"3\" style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Stroke Risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Day 2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Day 7</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Day 90</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>0\u20133</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1%</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>1.2%</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>3.1%</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>4\u20135</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>4.1%</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>5.9%</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>9.8%</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>6\u20137</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>8.1%</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>11.7%</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>17.8%</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0f7b99ef"
+    },
+    {
+      "text": "During a scorching summer afternoon, a man, who had been toiling in a field, unexpectedly collapsed. Upon examination, there were no apparent physical indications of dehydration, although his radial pulse was detectable. The doctor determined that the man's serum electrolyte levels were within the normal range. Shockingly, the man's body temperature measured 106 degrees Fahrenheit. Considering these circumstances, which of the following should be administered as an initial form of immediate assistance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inject epinephrine immediately",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cover with hot damp sheets",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cover with cool damp sheets",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Start CPR",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cover with cool damp sheets",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:622px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Heat Exhaustion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Heat Stroke</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Prolonged strenuous activity with inadequate water/salt <span class=\"customMeta\" data-dictid=\"6cdcd39cf2169277719068e247e38d\">intake</span> in a hot environment.</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Failure of <span class=\"customMeta\" data-dictid=\"f36a7c49d116927772002856c83dc1\">thermoregulation</span> in extreme heat exposure (Option C ruled out).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Nausea, vomiting, malaise, myalgia</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Sudden collapse and loss of consciousness.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>CNS symptoms: dizziness, fatigue, impaired judgment, <span class=\"customMeta\" data-dictid=\"1cb2d1482916927771964c2890313e\">psychosis</span> (severe water depletion)</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Skin initially wet, then dry</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Moist skin, increased pulse</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Hyperventilation, tachycardia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Rectal temperature > 37.8\u00b0C</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Core temp > 40.5\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Other symptoms such as Constricted pupils, convulsions, unconsciousness, cerebral dysfunction, high fever, absence of sweating.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "00c322b5"
+    },
+    {
+      "text": "Which of the following statements regarding the management of frostbite is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amputation in severe cases",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rewarming is done",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Antibiotics and analgesics not used",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The area is dried and cleaned",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Antibiotics and analgesics not used",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/OdhawU4EViEdXB5wIZdm1745327336.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:661px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Exposure to extreme cold (-2.5\u00baC), causing tissue freezing and blood supply obstruction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Blue-black discoloration of fingers, toes, nose, ears, face.</p>\n<ul>\n<li>Mild cases: numbness, prickling.</li>\n<li>Severe cases: paresthesia, stiffness, necrosis, gangrene, edema, blisters.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rewarming:\n\t\t\t\t<ul>\n<li>For <span class=\"customMeta\" data-dictid=\"ebb480187d1692777199e233e9e356\">superficial</span> <span class=\"customMeta\" data-dictid=\"9db5c32d52169277720386478c79ac\">frostbite</span> (frostnip): Firm steady pressure is applied with a warm hand (without rubbing), by placing fingers in the armpits and for the feet, by covering with dry socks</li>\n<li>For deep frostbite: Frozen <span class=\"customMeta\" data-dictid=\"c8ed8e0fb61692777187c860f7056f\">extremity</span> is immersed for several minutes in a moving water bath, heated to 40\u201342\u00b0C, until the <span class=\"customMeta\" data-dictid=\"5ff25303a01692777186731f6a4f5c\">distal</span> tip of the part being thawed, flushes</li>\n</ul>\n</li>\n<li>Pressure or <span class=\"customMeta\" data-dictid=\"468709afe3169277720301878d09fd\">friction</span> is avoided</li>\n<li>Anti-infective measures: Tetanus <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> and antibiotics for deep infection</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9cbe9670"
+    },
+    {
+      "text": "A patient was being treated in ICU for sepsis. The initial ABG shows pH= 6.9, pO 2 = 80 mm Hg. pCO 2 = 55 mmHg, HCO 3 = 10 meq/L. A repeat ABG after 2 hours shows pH=7.1, pCO 2 = 20 mmHg, pO 2 = 140 mm Hg, and HCO 3 = 10 meq/L. Which is most plausible to explain the change seen in the ABG report?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excessive air and less heparin in the ABG sample",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Excess air and more heparin in the ABG sample",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Less air and more heparin in the ABG sample",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Less air and less heparin in the ABG sample",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Excess air and more heparin in the ABG sample",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f93a8f76"
+    },
+    {
+      "text": "What medication can be administered to a patient who experiences altered consciousness, sweating, rapid heartbeat, persistent erection, and increased saliva production, with a blood pressure reading of 150/90 mm Hg after visiting a temple with their grandmother?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ASV",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adrenaline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Steroid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prazosin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Prazosin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8c3002a5"
+    },
+    {
+      "text": "A patient presents to the ER with anaphylaxis; which of the following not a part of the clinical criteria to diagnose anaphylaxis? Urticaria, edema of the lips and tongue, and rashes within 2 minutes to 2 hours of contact. Wheeze and respiratory distress Abdominal cramps and vomiting Hypertension",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 and 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2 and 3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3 and 4",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 3 and 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option D - 3 and 4\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1c7b2561"
+    },
+    {
+      "text": "In a post-operative patient, after 2 hours of receiving FFP, sudden onset dyspnea, hypoxemia, tachypnea, hypotension, and bilateral pulmonary infiltrates on chest X-ray occur. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TRALI",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "TACO",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary edema",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ARDS",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Sepsis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. TRALI",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option A - <span class=\"customMeta\" data-dictid=\"fb60955dfd1692777200b373fe14cc\">TRALI</span> (Transfusion-related <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> lung injury)\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e550656a"
+    },
+    {
+      "text": "What is the lifelong treatment for individuals who have received a potent prosthetic mitral valve replacement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aspirin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Clopidogrel",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atorvastatin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Warfarin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Warfarin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option D - W\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7e461cca"
+    },
+    {
+      "text": "A farmer has come with symptoms of pinpoint pupils, excessive salivation, and increased secretion from the body. The most probable diagnosis is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opioid overdose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Organophosphate poisoning",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Stroke",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Heat stroke",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Organophosphate poisoning",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option B - <span class=\"customMeta\" data-dictid=\"505a21f8451692777194a113951c68\">Organophosphate</span> poisoning\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:576px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Muscarinic effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nicotinic effects</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>D</strong> \u2013 <span class=\"customMeta\" data-dictid=\"aaabe672c51692777186a829ebdc0c\">Diarrhea</span> (increased GI motility, <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">Bowel</span> sounds)</li>\n<li><strong>U</strong> - Increased frequency of Urination</li>\n<li><strong>M</strong> - <span class=\"customMeta\" data-dictid=\"cacca0f20e169277719222049c80a2\">Miosis</span> pupil</li>\n<li><strong>B</strong>-Bradycardia (by <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> of M2 receptors)</li>\n<li><strong>B</strong>-Bronchorrhea, Bronchospasm</li>\n<li><strong>E</strong> - Emesis</li>\n<li><strong>L</strong>-Increased Lacrimation</li>\n</ul>\n<ul>\n<li>Red <span class=\"customMeta\" data-dictid=\"1717bdb5d21692777200d45e31ceed\">tears</span> or <span class=\"customMeta\" data-dictid=\"99ba7175ec16927771844d79117f07\">chromodacryorrhea</span> is seen due to <span class=\"customMeta\" data-dictid=\"9b0ae3750916927771986c15d4ff4d\">secretion</span> of <span class=\"customMeta\" data-dictid=\"4a759c9f1016927771964b8325ac2f\">porphyrin</span> in tears</li>\n</ul>\n<ul>\n<li><strong>L</strong> - Lethargy</li>\n<li><strong>S</strong> \u2013 Salivation</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Headache, tremor, confusion slurred speech, coma, convulsions.</li>\n<li>Initially, it causes muscle fasciculations, areflexia.</li>\n<li>Later, muscle <span class=\"customMeta\" data-dictid=\"72fa9105b916927771945aef35e8ed\">paralysis</span> occurs (Type-1 or <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> syndrome).</li>\n<li>Death occurs due to <span class=\"customMeta\" data-dictid=\"72fa9105b916927771945aef35e8ed\">paralysis</span> of <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> muscles (i.e <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d48a2303"
+    },
+    {
+      "text": "A 55-year-old patient with necrotizing fascitis was admitted to the ER. The patient was tachycardic and hypotensive. He was treated for septic shock. Which of the following is the characteristic feature of refractory septic shock?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shock persisting > 1 hour after IVF administration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Shock persisting > 1 hour after IVF administration and high dose vasopressors",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Shock that is refractory to medical treatment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Shock that does not improve despite treatment for 24 hours",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Shock persisting > 1 hour after IVF administration and high dose vasopressors",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option B - Shock persisting > 1 hour after <span class=\"customMeta\" data-dictid=\"cf23a56e0916927771903ba7e75f72\">IVF</span> administration and high-dose v\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "530daf19"
+    },
+    {
+      "text": "Which test is the most sensitive for diagnosing Organophosphate poisoning among the following options?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plasma acetylcholinesterase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Organophosphate level in blood",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Organophosphate level in plasma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "RBC transaminase levels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Plasma acetylcholinesterase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct option A - <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">Plasma</span> acetylcholinesterase:\u00a0\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8794902d"
+    },
+    {
+      "text": "An elderly diabetic and hypertensive patient was carried to the emergency room in a comatose state. On examination, the blood pressure was 170/100 mmHg and pulse rate was >100/min. Plantar reflex was bilateral extensor. What is the next step to do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Check blood sugar level",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Give antihypertensive",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IV mannitol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CT brain",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Check blood sugar level",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option A - Check <span class=\"customMeta\" data-dictid=\"88b48cf7241692777183e5f5b8adf1\">blood sugar</span> lev\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7169eb00"
+    },
+    {
+      "text": "Which of the following is not done before drawing blood for arterial blood gas analysis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allen's test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rinse the syringe with heparin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Flexion of wrist",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Placing needle at 45 degree angle",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Flexion of wrist",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Option C - <span class=\"customMeta\" data-dictid=\"85ff8a7ff81692777202a827961a5c\">Flexion</span&g\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "47ed4a41"
+    }
+  ]
+}

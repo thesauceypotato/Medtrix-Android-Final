@@ -1,0 +1,669 @@
+{
+  "meta": {
+    "id": "test29",
+    "title": "Transcription, Ribozymes & Splicing",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Exonic DNA constitutes the coding region of DNA which can be translated into proteins. After the human genome sequencing was finished in 2004 when scientists analyzed the exonic DNA of the human genome it turned out to be which of the following percentage of the entire genome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.5%",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "0.5%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.1%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.02%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1.5%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1.5% Human genome: \u25cf        Size: 3 billion base pairs \u25cf        Number of genes: <25,000 \u25cf        At least 30% of the genome consists of repetitive sequences \u25cf Alu family constitutes ~10% of the human genome \u25cf Largest gene : DMD gene coding for dystrophin protein \u25cf        Only around 1.5 % of the human genome is made of protein-coding (exonic) DNA</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e8080436",
+      "audio": ""
+    },
+    {
+      "text": "Transcription is regulated by transcription factors that either enhance or restrict RNA polymerase access to the promoter. Which of the following prokaryotic transcription factor recognizes the promoter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rho",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pribnow box",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "TFIID",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sigma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Sigma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sigma Sigma factor (option D) Recognizes the Pribnow box in Prokaryotes. It forms a complex with RNA polymerase (Five polypeptides \u2013 ( 2 alpha , 1\u03b2 , 1\u03b2 \u2019, one sigma ) to form the holoenzyme. Different types of subunits recognize different promoters.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options- TFIID (option C) TFII is the transcription factor for RNA Polymerase II in eukaryotes. TFIID is required for initiation at promoters lacking the TATA box. Rho (option A) Help in transcription termination in prokaryotes can be either rho factor or rho GTPase. table,tr,th,td {border:1px solid black;} Rho factor Rho family of GTPases ATP-dependent hexameric helicase Involved in vesicular trafficking Pribnow box (option B) is the consensus sequence of six nucleotides (TATAAT) that forms the prokaryotic promoter.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1b5b4f10",
+      "audio": ""
+    },
+    {
+      "text": "A non-coding RNA (ncRNA) is an RNA molecule that is not translated into a protein but plays an important role in carrying out many cellular processes. Which of the following is/are non-coding RNAs? mRNA miRNA rRNA lncRNA snoRNA Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2, 3, 4, and 5 are correct",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1, 2, and 5 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 4, and 5 are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2, 3, 4, and 5 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2, 3, 4, and 5 are correct RNAs are divided into (protein) coding RNAs & non (protein) coding RNAs : Protein non-coding RNA \u25cf Large ncRNA o    Ribosomal RNA (rRNA) o    Long noncoding RNAs (lncRNAs) o    Linc (Long intervening non-coding RNA) \u25cf Small ncRNA o    piRNA (piwi interacting) o    Transfer RNA (tRNA) o    Small nuclear RNA (snRNA), o    Small nucleolar RNA (snoRNA), o    micro RNA (miRNA) o    Small interference RNA) (siRNA) piRNA is the most common non-coding RNA in the eukaryotic cell</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ea29abdd",
+      "audio": ""
+    },
+    {
+      "text": "RNA polymerases are the enzymes that generate a single-stranded RNA from a DNA template. In Eukaryotes, mRNA is produced by which of the following RNA polymerase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RNA Polymerase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RNA Polymerase II",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "RNA Polymerase III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "RNA Polymerase IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. RNA Polymerase II",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>RNA Polymerase II There is only 1 RNA polymerase in prokaryotes. There are 3 eukaryotic RNA polymerases Type Location RNA transcribed Effect of \u03b1-amanitin I Nucleolus 18, 5.8, 28 rRNA Insensitive II Nucleoplasm mRNA, miRNA, snRNA Highly sensitive III Nucleoplasm tRNA, 5s rRNA , U6 snRNA Less sensitive</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "615db2b4",
+      "audio": ""
+    },
+    {
+      "text": "The DNA segment from which the primary mRNA transcript is copied or transcribed is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coding strand",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Initiator methionine domain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Template strand",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Translation unit",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Template strand",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Template strand The DNA segment from which the primary mRNA transcript is copied or transcribed is called as Template strand Template strand : Strand which is being acted upon by RNA polymerase. mRNA produced resembles the sequence of the opposite strand (except U in place of T). The opposite strand is known as the coding, sense, or plus strand.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0a191d0b",
+      "audio": ""
+    },
+    {
+      "text": "Newly synthesized mRNA undergoes post-transcriptional processing to form mature mRNA. During this processing, the part of the transcribed gene which is retained in the mature mRNA is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Intron",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "hnRNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "miRNA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Exon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Exon Exons RNA sequences that appear in mature RNAs . Introns In mRNA encoding genes, exons are often interrupted by long sequences of DNA that neither appear in mature mRNA nor contribute to the genetic information ultimately translated into the amino acid sequence of a protein molecule. These Intervening sequences are called introns.</p>\n<p><strong>Extraedge:</strong></p><p>Intronless genes: Interferon genes Histone genes Many ribonuclease genes Heat shock protein genes Many G-protein coupled receptor</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "86974c5d",
+      "audio": ""
+    },
+    {
+      "text": "The ribosomes are made of RNA and proteins both of which perform separate functions in the translation process. The ribosomes are separated on the basis of how fast they sediment in ultracentrifugation in terms of Svedberg (S) units. When the components of the 50S subunit of prokaryotic ribosomes are centrifuged, which of the following will be seen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5S RNA, 5.8S & 28S RNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "16S RNA & 23S RNA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "23S RNA & 5.8S RNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "23S RNA & 5S RNA",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 23S RNA & 5S RNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>23S RNA & 5S RNA See attached mantra for Bacterial and eukaryotic ribosome composition.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "76f82803",
+      "audio": ""
+    },
+    {
+      "text": "In eukaryotes, the primary transcripts are processed, and intervening sequences are removed resulting in mRNA and the process is known as splicing. The complex of RNA and nucleoproteins are known as small nuclear ribonucleoprotein particles (snRNPs) perform which of the following function in splicing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To bind intronic sites",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Facilitate the looping of the two exons into the correct alignment for splicing",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "All of the above",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above In Spliceosomal intron splicing snRNA- small nuclear RNA \u2013 U1, U2, U4, U5, and U6 are involved. They remove introns by forming base pairs with the consensus sequences at each end of the intron.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3f0c154d",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not true regarding nucleic acids:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mRNA is synthesized from the template strand of DNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "mRNA is synthesized from the non-coding strand of DNA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "tRNA does not contain thymine as one of the pyrimidine bases",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Two strands of DNA are antiparallel",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. tRNA does not contain thymine as one of the pyrimidine bases",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>tRNA does not contain thymine as one of the pyrimidine bases The two strands of the double-helical molecule of DNA possesses Polarity Antiparallel;(one strand runs in the 5\u2032 to 3\u2032 direction and the other in the 3\u2032 to 5\u2032 direction). Genetic information resides in the sequence of nucleotides on DNA strands Template strand/noncoding strand Strand of DNA that is copied during ribonucleic acid (RNA) synthesis. Coding strand The opposite strand to one which is copied. Matches the sequence of the RNA transcript that encodes the protein. tRNA is the only RNA that contains thymine as one of the pyrimidine bases. because methylation by S-adenosylmethionine of an UMP of preformed tRNA forms TMP (thymidine monophosphate), which contains ribose rather than deoxyribose.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8ca9e4e1",
+      "audio": ""
+    },
+    {
+      "text": "A 5\u2019-cap is added post-transcriptionally to all eukaryotic mRNAs to provide stability against degradation and create a site for mRNA recognition by transnational machinery. Which of the following statements is not true regarding the 5\u2019 cap of mRNA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5\u2019 terminal of mRNA is capped by 7-methylguanosine triphosphate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5\u2019 cap contains 2\u2032-O-methyl ribonucleoside adjacent to it",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cap is attached to the 5\u2019 end of mRNA through 5\u2019 to 3\u2019 phosphodiester bond",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7-methylguanosine is attached to mRNA through three intervening phosphate groups",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cap is attached to the 5\u2019 end of mRNA through 5\u2019 to 3\u2019 phosphodiester bond",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cap is attached to the 5\u2019 end of mRNA through 5\u2019 to 3\u2019 phosphodiester bond Eukaryotic mRNA 5'-Cap The 5\u2032 terminal of eukaryotic mRNA is \u201c capped \u201d by a 7-methylguanosine triphosphate The cap is linked to an adjacent 2\u2032-O-methyl ribonucleoside at its 5\u2032-hydroxyl through the three phosphates. Contain internal 6-methyladenine and 2\u2032-O-ribose-methylated nucleotides. Post-transcriptional modification of mRNA includes the following: 5' \u201cCapping\u201d: This is the first of the processing reactions for pre-RNA. The cap is a 7-methylguanosine attached \u201cbackward\u201d to the 5'-terminal end of the mRNA, forming an unusual 5'\u21925' triphosphate linkage. The m ethyl group is donated by SAM (S-Adenosyl Methionine) reaction is catalyzed by the enzyme Guanine-7-Methyl Transferase, which is present in the cytoplasm (rest all post-transcriptional modifications occur in the nucleus). Poly-A tail is added after transcription by the nuclear enzyme, polyadenylate polymerase, using ATP as the substrate. These tails help stabilize the mRNA , facilitate its exit from the nucleus, and aid in translation. Maturation of eukaryotic mRNA usually involves the removal of introns & joining of exons together to form the mature mRNA. The process of removing introns and joining exons is called splicing . snRNA facilitates the removal of introns by forming base pairs with the consensus sequences at each end of the intron.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "251ca51d",
+      "audio": ""
+    },
+    {
+      "text": "DNA and RNA synthesis are unidirectional processes due to the unidirectional nature of DNA and RNA synthesizing enzymes. DNA replication and transcription occur in which direction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5\u2019\u2192 3\u2019",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "5\u2019\u2192 5\u2019",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3\u2019\u2192 5\u2019",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3\u2019\u2192 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 5\u2019\u2192 3\u2019",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>5\u2019\u2192 3\u2019 table,tr,th,td {border:1px solid black;} Function Direction Synthesis of DNA 5\u2019\u2192 3\u2019 DNA replication of both leading & lagging strand 5\u2019\u2192 3\u2019 Transcription 5' \u2192 3' Template strand is read in 3' \u2192 5'</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "07cfe01f",
+      "audio": ""
+    },
+    {
+      "text": "Promoter elements present upstream of the transcription start site bind to RNA polymerases and help in initiation. One such sequence in prokaryotes is the Pribnow box. The promoter element of eukaryotes which is the equivalent of the Pribnow box is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hogness box",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "GC box",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CAAT box",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hogness box",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hogness box</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "899fa1df",
+      "audio": ""
+    },
+    {
+      "text": "5' capping of RNA is a post-transcriptional modification in eukaryotes to provide stability to RNA against nuclease attack. Which of the following RNA does not require 5\u2019 capping?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tRNA",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Histone mRNA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "siRNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "U6 snRNA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. tRNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>tRNA No capping Capping tRNA Small nuclear RNAs e.g. U6 snRNA rRNA siRNA Prokaryotic mRNA mitochondrial mRNA chloroplast mRNA Eukaryotic mRNA The f unction of 5\u2019 cap: Recognize start codon AUG Stabilize mRNA Prevent attack from 5\u2019 exonuclease</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "96157842",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements about coding strands of DNA are true/false? A. Template strand B. Minus strand C. Runs in a 5\u2019 \u2192 3\u2019 direction D. Runs in a 3\u2019 \u2192 5\u2019 direction E. Plus strand Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-t, 2-F, 3-T, 4-F, 5-T",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-F, 2-t, 3-T, 4-F, 5-T",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-F, 2-F, 3-f, 4-F, 5-T",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-F, 2-F, 3-T, 4-F, 5-T",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1-F, 2-F, 3-T, 4-F, 5-T",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1-F, 2-F, 3-T, 4-F, 5-T Non-coding strand Coding strand 3\u2019 to 5\u2019 direction 5\u2019 to 3\u2019 direction Minus strand Plus strand Antisense strand Sense strand Template strand Non-template strand The direction, as well as codons of new RNA, matches with the non-template strand with U in place of T.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fc3081f8",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is/are CORRECT regarding examples of ribozymes? a. snRNA b. rRNA c. Ribonuclease P d. RNase H Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If only a is correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "If a, c, and d are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "If a, b, and c are correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "If all four (a, b, c, & d) are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. If a, b, and c are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>If a, b, and c are correct</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0f104c63",
+      "audio": ""
+    },
+    {
+      "text": "True about RNA Polymerase is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Requires primers",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RNA-dependent DNA Polymerase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No proof-reading activity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Recognizes Shine Dalgarno sequence",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. No proof-reading activity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>No proof-reading activity RNA Polymerase does not require primers (option a) RNA Polymerase has no proofreading activity It is DNA- dependent RNA Polymerase ( option b is wrong) Shine-Dalgarno sequence is recognized by protein synthesizing machinery i.e. Ribosome (option d), and not RNA Polymerase. RNA polymerase recognizes the TATA box. Prokaryotes have a single RNA Polymerase. But there are many types in Eukaryotes.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b2dea79a",
+      "audio": ""
+    },
+    {
+      "text": "A scientist has inserted a particular gene in a mouse model and thereafter analyzed the tissue expression of that gene by Northern blot analysis. She observed three positive bands in the lung sample but only one band in all other tissues examined. A possible explanation for this finding is which one of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RNA editing",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lungs contains three genes for this particular protein",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posttranslational modifications",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alternative splicing",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Alternative splicing",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Alternative splicing Certain primary transcripts have the capability to be spliced in an alternative fashion, depending on the composition of the spliceosome in the tissues. In this case, the lungs can splice in three ways, creating three different-sized transcripts, whereas all other tissues only splice in one way, creating just a single size of the</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options- Option: A. RNA editing will alter one base in a transcript but does not alter the overall size of the transcript. Option: B. Because the genome is constant for all tissues, if the lungs contained three genes for this transcript, the other tissues would also show three proteins. Option: C . Posttranslational modifications occur to proteins after they are synthesized but not to RNA molecules (that would be post-transcriptional modifications).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "166af1eb",
+      "audio": ""
+    },
+    {
+      "text": "The strand of DNA used as the template for transcription has the base sequence GATCTAC. What is the base sequence of RNA product?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CTAGATG",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "GTAGATC",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "GAUCUAC",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "GUAGAUC",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. GUAGAUC",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>GUAGAUC Remember when the polarity of a given DNA or RNA strand is not given in question always assume it as a 5' - 3' direction according to the convention. So the given DNA template strand is 5\u2019 GATCTAC 3\u2019. So, the complementary DNA strand will be 3\u2019 CTAGATG 5\u2019. The sequence of RNA formed will be exactly the same as this strand. So Now for RNA, change T to U. So, we get 3\u2019 CUAGAUG 5\u2019. Now in the options, polarity is not given so assume they are asking you for RNA sequence in a 5' - 3' direction. Now we have to arrange the RNA sequence from the 5\u2019 - 3\u2019 direction. So the answer is 5\u2019 GUAGAUC 3\u2019.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "24fd42e3",
+      "audio": ""
+    },
+    {
+      "text": "Which type of RNA has the highest percentage of modified base:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mRNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "tRNA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "rRNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "snRNA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. tRNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>tRNA Type Percentage Characteristic feature Synthesis rRNA 80% Most abundant Nucleous tRNA 15% Smallest, Maximum modified bases Nucleus mRNA 5% Most heterogeneous Nucleus</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2abf886a",
+      "audio": ""
+    },
+    {
+      "text": "RNA with catalytic activity are known as Ribozymes. Which of the following is not a feature of the ribozymes but is a feature protein enzyme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kinetic behavior",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ATP use",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Specificity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Able to get competitively inhibited",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. ATP use",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>ATP use Substrates of Ribozymes are mostly RNA.  They are mostly catalyzing the synthesis and breakage of phosphodiester bonds. No ATP is used in their reaction The s imilarity of Protein enzymes & Ribozymes Specificity Accelerate Rate of Reaction Kinetic Behavior Can be Competitively Inhibited</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ba3f6b74",
+      "audio": ""
+    }
+  ]
+}

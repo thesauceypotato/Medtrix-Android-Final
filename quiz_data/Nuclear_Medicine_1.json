@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "id": "test13",
+    "title": "Nuclear Medicine",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Principle of modality shown below is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Annihilation-coincidence circuit",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Piezoelectric effect",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NMR (Nuclear magnetic resources)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Law of Bergonie",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Annihilation-coincidence circuit",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689057727778-QTDR020001IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Annihilation-coincidence circuit The above image shows the PET Scan which uses 18FDG which enters the tissue and gets phosphorylated first and it produce positron that goes and bind to tumour cell where it get annihilated and releases 2 gamma rays each of 511kev opposite to each other which is detected by PET camera</p>\n<p><strong>Highyeild:</strong></p><p>Fluorodeoxyglucose, or fluorodeoxyglucose F 18, also commonly called fluorodeoxyglucose and abbreviated FDG, 2-FDG or FDG, is a radiopharmaceutical, specifically a radiotracer, used in the medical imaging modality positron emission tomography.</p>\n<p><strong>Random:</strong></p><p>Explanation for all options: - Option: A) Annihilation-coincidence circuit-principle of PET Scan. Option: B) Piezoelectric effect-Principle of USG Option: C) Nuclear magnetic resources-Principle of MRI Option: D) Law of Bergonie states that undifferentiated are radiosensitive whereas mature/well differentiated cells are radio resistant</p>\n<p><strong>Extraedge:</strong></p><p>FDG PET is a sensitive imaging modality for the detection, staging, re-staging as well as for assessment of therapy response in oncology [6, 17\u201325]. In contrast to PET, computed tomography (CT) uses an x-ray beam to generate tomographic images.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3caea11e",
+      "audio": ""
+    },
+    {
+      "text": "IOC for Hibernating myocardium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MUGA Scan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thallium scan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "18-FDG PET",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pyrophosphate scan",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 18-FDG PET",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>18-FDG PET The ideal imaging modality for detecting hibernating myocardium is C) 18-FDG PET. This technique, using fluorine-18 fluorodeoxyglucose (18F-FDG), is crucial for assessing myocardial viability by differentiating potentially functional tissue from non-functional tissue.</p>\n<p><strong>Highyeild:</strong></p><p>Radionuclide angiography is an area of nuclear medicine which specialises in imaging to show the functionality of the right and left ventricles of the heart, thus allowing informed diagnostic intervention in heart failure. It involves use of a radiopharmaceutical, injected into a patient, and a gamma camera for acquisition. A MUGA scan (multigated acquisition) involves an acquisition triggered (gated) at different points of the cardiac cycle. MUGA scanning is also called equilibrium radionuclide angiocardiography, radionuclide ventriculography (RNVG), or gated blood pool imaging, as well as SYMA scanning (synchronized multigated acquisition scanning)</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - MUGA Scan tells about ventricular function in terms of ejection function Pyrophosphate Scan tells about infarct tissue So ,both above options are ruled out Thallium Scan also tells about blood supply hence indicates ischemia (widely used but not accurate as the redistribution is slow or incomplete) Normally heart uses fatty acids for energy. But in ischemia energy source is glucose \u2026so 18-FDG PET becomes investigation of choice here for hibernating myocardium</p>\n<p><strong>Extraedge:</strong></p><p>Using sound waves, an echo allows the care team to see exactly how the patient's heart pumps blood. Using nuclear imaging via a radiotracer , a MUGA scan provides the care team with a precise reading of the patient's ejection fraction (EF), which measures how much blood is pumped out of the heart.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f68b95f0",
+      "audio": ""
+    },
+    {
+      "text": "A thin male who lives in cold region undergoes PET Scan and shows the below pattern of uptake. What will be the condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Malignancy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Infection",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Brown fat",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Normal image",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Brown fat",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689057728388-QTDR020003IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Brown fat Bilateral symmetrical uptake in supraclavicular region and history of cold areas suggests that uptake is due to brown fat which is usually present in neonates predominantly. Normally no uptake will seen in supraclavicular region\u2026 Hence option D is incorrect Here no history suggesting malignancy and infection hence both options ruled out.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6b572f91",
+      "audio": ""
+    },
+    {
+      "text": "A 32yr old female presented with cough, dyspnea, flushing, diarrhoea ,hypotension, and hematemesis for past 5 months. Large Intraductal mass is biopsied and H&E shown below. Tumour mass was chromogranin positive and they were showing mitotic figures >5/HPF. Which of the following statement is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atypical carcinoid will shows uptake in Ga 68 DOTANAC PET",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ga 68 DOTANOC PET scan is highly sensitive",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "t \u00bd of Ga 68 is 68 mins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "FDG PET is useful in atypical carcinoid as it is IOC for mets",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Atypical carcinoid will shows uptake in Ga 68 DOTANAC PET",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689057729319-QTDR020004IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atypical carcinoid will shows uptake in Ga 68 DOTANAC PET Here the diagnosis is Atypical carcinoid as mitotic figure is >5 /HPF and H&E shows necrosis and haemorrhage. Atypical carcinoid will not show Ga 68 DOTANAC PET uptake as it losses the SSTR ( Somatostatin surface transport receptor ) because it is poorly differentiated.so it is the false statement Other statements are true. Ga 68 DOTANAC is highly sensitive and specific scan and t1/2 is 68 mins FDG PET is useful is atypical carcinoid as it shows more mets than typical carcinoid where FDG is not useful</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8462a8f7",
+      "audio": ""
+    },
+    {
+      "text": "A patient came to OPD who is a known case of degenerative spine disease and to check area of active disease with region of bone stress he is indicated SPECT includes a----- for imaging.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gamma Camera",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Silver Halide Film",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phosphorus Sheet",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lead Sheet",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Gamma Camera",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Gamma Camera A gamma camera had detectors made of PMTs to help form an image. Since PET produces 2 photons/gamma rays, correlation of the image formed at the two ends is used to form a proper image. However, SPECT produces only 1 photon so if they need to be collected properly to form an image. Thus, a gamma camera, a camera specializing in capturing images by taking the impulses from the photons in used in SPECT.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "145bb30e",
+      "audio": ""
+    },
+    {
+      "text": "A patient 57 yrs old female came to OPD with known case of brain tumour Now to know progression of disease SPECT is indicated. What does the 'P\u2019 in SPECT stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positron",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Photon",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Proton",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "P- ortital",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Photon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Photon SPECT stands for Single Emission Photon Tomography. In this process, the radioactive dyes give out photons which are detected by the detector and forms an image The photon detector usually has Photo Multiplier Tubes (PMTs) that can amplify the received impulses from the photon and form an image.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7b858310",
+      "audio": ""
+    },
+    {
+      "text": "To know metabolic activity of cells and boy tissues, PET is done. The detector of PET is made of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gadolinium",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Tungsten",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lead",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Gadolinium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Gadolinium Bismuth germinate oxide (BGO), gadolinium oxyorthosilicate (GSO) or lutetium oxyorthosilicate detectors (LSO) are three materials that can be used to form the detectors for PET. They can record impulses from the gamma rays and convert them into electrical signals which are finally processed to form images.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3167e80b",
+      "audio": ""
+    },
+    {
+      "text": "A female patient of 67 yrs old came to oncology unit with known detected cancer. Physician advices Radioiodine scanning. What will be the primary cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liver Scanning",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bone Scanning",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thyroid Scanning",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lung Scanning",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Thyroid Scanning",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Thyroid Scanning Radio iodine therapy is a nuclear medicine treatment. Doctors use it to treat an overactive thyroid, a condition called hyperthyroidism. They also may use it to treat thyroid cancer. Tc99 is used more commonly than radio iodine for thyroid scans nowadays.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bc19179c",
+      "audio": ""
+    },
+    {
+      "text": "Which solution is most likely used to elute Tc-99m from a technetium generator for imaging the skeleton and heart muscle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weak HCI (0,2%)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Strong NaOH (0,2%)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Isotonic saline (0.9%)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Distilled water",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Isotonic saline (0.9%)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Isotonic saline (0.9%) A technetium-99m generator, or colloquially a technetium cow or moly cow, is a device used to extract the metastable isotope Tc 99m of technetium from a decaying sample of molybdenum-99. *Mo has a half-life of 66 hours where its decay product technetium-99m (with a half-life of only 6 hours, is extracted and used for a variety of nuclear medicine diagnostic procedures, where its short half-life is very useful Most commercial generators use column chromatography, in which 99Mo in the form of molybdate is adsorbed onto acid alumina. When the Mo-99 decays it forms pertechnetate which, because of its single charge, is less tightly bound to the alumina, Pouring normal saline solution through the column of immobilized Mo elutes the soluble Tc99 m resulting in a saline solution containing the Tc99 as pertechnetate.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2e7955a7",
+      "audio": ""
+    },
+    {
+      "text": "PET was done to asses primary cancer of a patient. What does the 'p' in PET stands for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positron",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Photon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Proton",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "P-orbital",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Positron",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Positron PET stands for Positron Emission Tomography. In a PET process, there is a nuclear reaction causing emission of a positron. This positron comes in contact with an electron , undergoes annihilation and gives out two gamma rays which are detected by the detector. On the gamma rays that are detected at th e opposite ends are used to form an image. Rest are discarded as noise.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6e7f5932",
+      "audio": ""
+    },
+    {
+      "text": "Radio iodine scanning is advised for patient of known thyroid cancer as Iodine decays by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electron Capture",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Isomeric transition",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Beta emission",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Alpha emission",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Beta emission",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Beta emission I-131 undergoes beta-minus decay and emits a o principle primary gamma photon of 364 kiloelectron volts (keV) (81% abundance) with an 8-day physical half-life to a stable Xe-131</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "acd61241",
+      "audio": ""
+    },
+    {
+      "text": "A Patient came to radiation oncology unit for PET scan. Which of the following radiations are used for imaging purposes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Beta",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gamma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Delta",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Gamma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Gamma Gamma rays are energy rays or photon rays and do not have a mass, since they have a greater penetration power, they can be used for imaging.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "36b07e6d",
+      "audio": ""
+    },
+    {
+      "text": "Tc-99 m is obtained from",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mo-99",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "67 Ga",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "111In",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "125I",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mo-99",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mo-99 Molybdenum-99, with a half-life of 66 hours, decays into technetium -99 through beta decay.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "629ddf7e",
+      "audio": ""
+    },
+    {
+      "text": "Which radionuclide is an ideal radionuclide and accounts for over 70% in nuclear imaging?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iodine 123",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mo-99",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tc-99m",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "T1-201",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tc-99m",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tc-99m The radioisotope most widely used in medicine is Tc-99, employed in some 80% of all nuclear medicine procedures . It is an isotope of the artificially-produced element technetium and it has almost ideal characteristics for a nuclear medicine scan.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "38bc5c8a",
+      "audio": ""
+    },
+    {
+      "text": "The most commonly used generator is reactor-produced molybdenum-99 that has a half-life of 67 h and decays to technetium-99m that has a half-life of",
+      "options": [
+        {
+          "label": "A",
+          "text": "128 days",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2.5 hours",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6 hours",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "2days",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 6 hours",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>6 hours Technetium-99m is a short-lived form of Te-99 that is used as a medical diagnostic tool. It has a short half-life (6 hours) and does not remain in the body or the environment for long</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "391a2570",
+      "audio": ""
+    },
+    {
+      "text": "Tc-99m is used to image the skeleton and heart muscle, Tc-99m release--- gamma rays",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.88",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "0.95",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.99",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 0.88",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>0.88 Technetium-99m has a photo-peak of gamma-ray emission of 140.5 keV, making it a very minimal risk of toxicity. The short six- hour half-life and rapid excretion from the body limit toxic effects and give enough time to perform its diagnostic imaging, all while limiting radiation exposure to the patient.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f373efe0",
+      "audio": ""
+    }
+  ]
+}

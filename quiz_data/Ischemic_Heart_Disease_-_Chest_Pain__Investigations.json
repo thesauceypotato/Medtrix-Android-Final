@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "id": "test87",
+    "title": "Ischemic Heart Disease - Chest Pain & Investigations",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "You are seeing Mr. Sunil in the urgent care clinic. He is a 53-year-old man complaining of occasional, pressure-like chest discomfort. The discomfort seems to worsen when he exerts himself, and he has to stop when climbing stairs to allow it to dissipate. You suspect coronary artery disease, and he is not amenable to any invasive testing such as coronary angiography. Which noninvasive test given here has the highest sensitivity currently for detecting >50\u201370% stenosis in major coronary arteries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cardiac magnetic resonance perfusion scan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Coronary CT angiography",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Dobutamine echocardiography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Exercise echocardiography",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Coronary CT angiography",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Coronary CT angiography Cardiac imaging modalities for the diagnosis of coronary artery disease. The highest sensitivity is of Coronary CT angiography (99%).</p>\n<p><strong>Highyeild:</strong></p><p>Comparative Diagnostic Accuracy of Cardiac Imaging Approaches to Coronary Artery Disease Imaging Modality Published Data Sensitivity (%) Specificity (%) Exercise echocardiography 15 studies (n = 1849 patients) 84 82 Dobutamine echocardiography 28 studies (n=2246 patients) 80 84 SPECT MPI 113 studies (n = 11,212 patients) 88 76 Myocardial perfusion PET 9 studies (n = 650 patients) 93 81 CMR perfusion 37 studies (n = 2841 patients) 91 81 CMR wall motion 14 studies (n = 754 patients) 83 86 Coronary CTA 18 studies (n = 1286 patients) 99 89</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A- CMR perfusion has a sensitivity of 91% Option C- Dobutamine echocardiography has a sensitivity of 80% Option D- Exercise echocardiography has a sensitivity of 84%</p>\n<p><strong>Extraedge:</strong></p><p>In these studies, the diagnosis of coronary artery disease was based on the presence of a >50% or >70% stenosis on invasive coronary angiography. Abbreviations: CMR, cardiac magnetic resonance; CTA, computed tomography angiography; MPI, myocardial perfusion imaging; PET, positron emission tomography; SPECT, single-photon emission computed tomography</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7bddc4d3",
+      "audio": ""
+    },
+    {
+      "text": "Mr. Avinash presents to the emergency department with several days of on-and-off chest pressure. Suspecting myocardial ischemia due to coronary artery disease, you refer him for stress and rest rubidium-82 myocardial perfusion positron emission tomography. The results are shown in the Figure with abnormalities noted by the arrows. This is most indicative of stenosis in which of the following coronary arteries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left anterior descending artery",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Left main coronary artery",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Left circumflex artery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Right coronary artery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Left anterior descending artery",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1684540504861-QTDM028002IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Left anterior descending artery Single-photon emission CT myocardial perfusion imaging is the most common form of stress imaging test for coronary artery disease evaluation. The presence of a reversible myocardial perfusion defect as seen here is indicative of ischemia. Here, there is a reversible defect in the anterior and anteroseptal walls (arrows), reflecting significant obstructive disease in the left anterior descending coronary artery, which was subsequently confirmed on angiography.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B - A lesion in the left main coronary artery would likely demonstrate more extensive left ventricular defects since it supplies both the left anterior descending and left circumflex coronary arteries. Option C - A lesion in the left circumflex would typically demonstrate defects in the lateral and posterior left ventricle walls. Option D - A defect in the right coronary artery would typically demonstrate defects in the right ventricle and the base of the left ventricle.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d69ca50b",
+      "audio": ""
+    },
+    {
+      "text": "Mr. Sunil is a 57-year-old oil rig worker with a history of hypertension, tobacco abuse, and diabetes mellitus. He presents to the emergency department with 30 minutes of crushing substernal chest pain, radiating to the jaw, and associated with profuse sweating and shortness of breath. His blood pressure is 115/90 and his heart rate is 95 beats/min. What diagnostic test will provide the most rapid method of altering therapeutic management for Mr. Sunil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12-lead electrocardiogram",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Coronary CT angiography",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Echocardiogram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Serum creatinine kinase-myocardial band level",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 12-lead electrocardiogram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>12-lead electrocardiogram This patient is presenting with classic ischemic chest pain by history. After obtaining this history, the clinical working diagnosis is an acute coronary syndrome (ACS). The next step is to determine whether the patient is having an ST-elevation myocardial infarction (STEMI) or non\u2013ST-elevation myocardial infarction, or unstable angina . This determination can only be accomplished by electrocardiogram (ECG) .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B . Coronary CT angiography is not warranted in a patient having active ischemic pain. Option C . While an echocardiogram may demonstrate wall motion abnormalities in areas of ischemia, it cannot differentiate between ST-elevation and non\u2013ST-elevation ACS. Option D . Serum biomarkers (troponin and CK-MB) take minutes to hours to return, andmay not be elevated in the initial several hours of an infarction provides a flowchart of the decision tree facing the clinician treating a patient with ischemic discomfort.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e598993b",
+      "audio": ""
+    },
+    {
+      "text": "You are performing a diagnostic coronary angiography on Mr. Virat. In the initial angiographic pictures, his arteries are clear from any obstructive disease. However, during a selective angiogram of the left anterior descending artery, you notice that a thrombus has formed on the tip of your catheter. During dye injection, the thrombus embolizes down the left anterior descending coronary artery causing complete obstruction to flow. You are fortunately able to remove the thrombus with suction thrombectomy almost immediately. If you had not been able to remove the thrombus, when would you first have expected detectable creatine kinase myocardial band isoform in a standard serum assay?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5\u201310 minutes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1\u20132 hours",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4\u20138 hours",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "12\u201324 hours",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 4\u20138 hours",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>4\u20138 hours Creatine kinase rises within 4\u20138 hours and generally returns to normal by 48\u201372 hours. The cardiac troponin assays have a similar time frame for the rise, but they generally last much longer, about 7\u201310 days after ST-elevation myocardial infarction. Early reperfusion will cause an earlier peak of biomarker measurements.</p>\n<p><strong>Highyeild:</strong></p><p>FIGURE IV-134 T op: Modified with permission from Antman EM: Decision-making with cardiac troponin tests. N Engl J Med 346:2079, 2002. Bottom: Reproduced with permission from Jaffe AS et al: Biomarkers in acute cardiac disease: the present and the future. J Am Coll Cardiol 48:1, 2006.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Options A, B, and D are incorrect options for CK-MB</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5997791f",
+      "audio": ""
+    },
+    {
+      "text": "A 58 yrs male known case of hypertension complain of sudden onset chest pain when he was gone for a morning walk, the pain was relieved as soon as he sat and took rest. What is your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stable angina",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Unstable angina",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ST elevated Myocardial infarction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Stable angina",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Stable angina</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. stable angina: in the above case , the symptoms are for a short time period and immediately relieved on rest, suggesting stable angina . Option B . unstable angina: in unstable angina, the symptoms are long-lasting and not relieved on rest. Hence, the above case is not of unstable angina. Option C . ST elevated Myocardial infarction: in the ST elevated myocardial infarction, the pain is not relieved by rest and is associated with anxiety and profuse sweating. Hence this is not the case with ST elevated myocardial infarction.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "245bd9d7",
+      "audio": ""
+    },
+    {
+      "text": "A 70 yrs male came to the casualty with a complaint of chest pain which has started 30 min and was not relieved by rest. His ECG and the cardiac enzyme are non-specific. What is your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stable angina",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unstable angina",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "ST elevated Myocardial infarction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Unstable angina",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Unstable angina ISCHEMIC HEART DISEASE: It results in an imbalance between myocardial oxygen supply and demand. The most common cause of myocardial ischemia is atherosclerotic disease of the epicardial coronary artery.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. stable angina: in the case of stable angina the symptoms are relieved quickly with rest which is not seen here. Hence, it is not the case of stable angina. Option B . unstable angina: in the above case, the symptoms were for a long duration and not relieved by rest but the ECG and cardiac enzymes are Hence , it is unstable angina. Option C . ST elevated Myocardial infarction: in the ST elevated myocardial infarction, the pain is not relieved by rest and is associated with anxiety and profuse sweating. Hence this is not the case with ST elevated myocardial infarction.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a723718b",
+      "audio": ""
+    }
+  ]
+}

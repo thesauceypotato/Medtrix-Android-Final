@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "test43",
+    "title": "Plague",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A previously healthy 23-year-old man comes to the office due to abrupt-onset high fever, chills, headache, and weakness that developed during a hiking and camping trip to Beed. His initial symptoms were quickly followed by intensely painful swellings in the groin. Physical examination shows tender and enlarged inguinal lymph nodes with overlying erythematous skin. Blood cultures and fluid aspirated from the lymph nodes grow gram-negative cocco-bacilli, which resemble a closed safety pin on special staining. Which of the following is the most likely source of this patient's infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bats",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Poultry",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rodents",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sheep",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Rodents",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Rodents This patient's acute febrile illness with tender, erythematous inguinal lymphadenopathy likely indicates bubonic plague, The causative pathogen is Yersinia pestis, a gram-negative coccobacillus that exhibits bipolar staining (resembling a safety pin) on Giemsa or Wright stain . Although many small mammals can harbour bacteria, rodents (eg, rats) are the primary environmental reservoir. Transmission to humans primarily occurs via rodent flea bite. Following cutaneous injection, the organism travels to regional lymph nodes and triggers a significant inflammatory reaction. Manifestations typically begin with acute fever, chills, weakness, and headache; buboes (painful, swollen, erythematous lymph nodes) develop shortly thereafter. Treatment with antibiotics (eg, aminoglycoside) is generally curative.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Bats transmit rabies , which is characterized by nonspecific symptoms (eg, fever, myalgias, malaise) followed by hydrophobia, pharyngeal spasms, hyperactivity, coma, and death. Rabies is caused by a virus (Lyssavirus), not a gram-negative coccobacillus. Option B. Non-typhoidal Salmonella, a motile gram-negative bacillus, is often transmitted via the ingestion of contaminated poultry. It causes febrile diarrhoea, not acute regional inflammatory lymphadenopathy. Option D. Sheep hides can transmit anthrax , which is typically characterized by a necrotic skin ulcer with extensive surrounding edema and regional lymphadenopathy. Bacillus anthracis, the causative agent, is a gram-positive, spore-forming rod.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "42177976",
+      "audio": ""
+    },
+    {
+      "text": "A notable virulence factor of pathogenic Yersinia is the ability to paralyze phagocytes and so prevent ingestion of bacteria. What mechanism enables Yersinia to do this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quorum-sensing system.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Two-component regulatory system.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type III secretion system.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Iron-acquisition system.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Type III secretion system.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Type III secretion system. Yersinia pestis, the causative agent of plague, utilizes a plasmid-encoded type III secretion system (T3SS) to aid it with its resistance to host defences. This system injects a set of effector proteins known as Yops (Yersinia outer proteins) into the cytosol of host cells that come into contact with the bacteria.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Quorum-sensing system. - not correct. It is used by bacteria to produce biofilm, develop resistance etc. Option B. Two-component regulatory system. - not correct Option D. Iron-acquisition system. - not correct Options A, B & D. Are not the correct options.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2c6b249a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following diseases are transmitted by the below-shown vector?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epidemic relapsing fever, epidemic typhus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Kala-azar, Scabies",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Plague, typhus fever",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chagas disease, Trench fever",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Plague, typhus fever",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689248447931-QTDV056003IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Plague, typhus fever This is an image of a flea. Plague is an infectious disease caused by Yersinia pestis bacteria, usually found in small mammals and their fleas . The disease is transmitted between animals via their fleas. Flea-borne (murine) typhus is a disease caused by a bacteria called Rickettsia typhi. Flea-borne typhus is spread to people through contact with infected fleas. Fleas become infected when they bite infected animals, such as rats, cats, or opossums.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. By body louse Option B. Scabies by mite and Kala-Azar by female phlebotomine sandfly. Option D. Chagas by kissing bugs and trench fever by the body louse</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "23973378",
+      "audio": ""
+    }
+  ]
+}

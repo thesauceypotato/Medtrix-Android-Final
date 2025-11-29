@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "id": "test4",
+    "title": "Glaucoma",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "What aspect of the anterior chamber does the Van Herick grading system evaluate during slit lamp examination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The curvature of the cornea",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The width of the anterior chamber angle",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The condition of the retina",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The intraocular pressure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The width of the anterior chamber angle",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:503px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Width of the empty space (LACD) as compared to the corneal thickness</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>VAN Herick Grade</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Angle status</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No black space observed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><\u00bc corneal thickness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extremely narrow</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u00bc of corneal thickness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Narrow</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>>\u00bc to \u00bd of corneal thickness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2265 1/2 of corneal thickness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Wide open</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/5QRvzDUxDg3Ze5pLppkW1746174658.mp3",
+      "video": "",
+      "uid": "ac9fcff2"
+    },
+    {
+      "text": "A 45-year-old male presents with unilateral eye pain, redness, and moderately elevated intraocular pressure (IOP) of 28 mmHg. On slit-lamp examination, you observe fine, pigmented deposits on the corneal endothelium in a vertical spindle pattern. The patient O/E has symmetric transillumination defects in the mid-peripheral iris. Based on these findings, which of the following is the most likely cause of this patient's secondary glaucoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pseudoexfoliation syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pigment dispersion syndrome",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Neovascular glaucoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lens-particle glaucoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pigment dispersion syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/dqif6ZfznBQfrrxo5eoT1746198017.mp3",
+      "video": "",
+      "uid": "a6ffb538"
+    },
+    {
+      "text": "A 58-y/o diabetic patient presents with decreased vision, eye pain, and redness in the right eye. Examination reveals iris neovascularization, elevated intraocular pressure, and proliferative diabetic retinopathy. What is the most appropriate management strategy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Topical beta-blockers and oral carbonic anhydrase inhibitors",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Panretinal photocoagulation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Systemic corticosteroids",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "VEGF inhibitors",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Panretinal photocoagulation",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/sC7A3IebevREdtgTroch1742975813.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3mYFh3G1qwx21FWgBrLw1748246573.mp3",
+      "video": "",
+      "uid": "5b419730"
+    },
+    {
+      "text": "A 65-year-old male presents to the ophthalmology clinic for a routine eye examination. During the examination, his intraocular pressure (IOP) is measured at 28 mmHg in both eyes. The ophthalmologist diagnoses him with primary open-angle glaucoma. Which of the following medications is primarily designed to lower intraocular pressure by reducing the production of aqueous humor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Travoprost",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pilocarpine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acetazolamide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Unoprostone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Acetazolamide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/0lVGMyV8Ctoa9OFtqVna1746261541.mp3",
+      "video": "",
+      "uid": "28c508d2"
+    },
+    {
+      "text": "A 1-month-old child presents with persistent eye watering and light sensitivity. Examination shows enlarged corneas with Haab\u2019s striae, cloudiness, a deep anterior chamber, and thin, blue sclera. The child has had ocular enlargement since birth. The ophthalmologist suspects congenital glaucoma. Which type of glaucoma best fits this presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Juvenile Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Infantile Glaucoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "True Congenital Glaucoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Secondary Congenital Glaucoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. True Congenital Glaucoma",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/zNl7UHVpeCrFtPnM1mdd1742980809.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">Congenital</span> Glaucoma</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1. <span class=\"customMeta\" data-dictid=\"04df903fe8169277719383126b1b02\">Newborn</span> glaucoma/ True <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">congenital</span> glaucoma</strong>: Elevated <span class=\"customMeta\" data-dictid=\"1ba26fe8171692777190a867ec47c7\">intraocular</span> pressure is present during <span class=\"customMeta\" data-dictid=\"1d5d2712dc169277719050154d38a1\">intrauterine</span> life, resulting in <strong>ocular <span class=\"customMeta\" data-dictid=\"41e56d9a54169277718724ff8c225f\">enlargement</span> at birth</strong>. (40% cases) <strong>(Option C)</strong></p>\n<p>Typically presents within the first month of life.</p>\n<p>Often associated with developmental anomalies of the <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">anterior</span> segment, such as primary <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">congenital</span> glaucoma, which can result from genetic mutations or other <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">congenital</span> conditions.</p>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>2. Infantile: \u2264 3 yrs of age</strong>- <strong>(Option B ruled out) </strong>Infantile <span class=\"customMeta\" data-dictid=\"61e49875801692777188ad5edea804\">glaucoma</span> is labelled when the disease manifests prior to the child's third birthday</p>\n<p>Affects infants older than 1 month and children up to 3 years.</p>\n<p>Can also result from genetic factors or be secondary to other conditions like <span class=\"customMeta\" data-dictid=\"abe60030c41692777199de7c76674a\">Sturge-Weber syndrome</span> or other <span class=\"customMeta\" data-dictid=\"87356352bc169277719923fcc93329\">syndromic</span> associations.</p>\n<p><strong>3. Juvenile: > 3 yrs of age</strong> <strong>(Option A ruled out) </strong>who develop pressure rise after 3 years but before adulthood. Also known as <span class=\"customMeta\" data-dictid=\"b5d5db1f591692777190869c6a7223\">Juvenile</span> primary open angle glaucoma(POAG) usually occurs between 10 to 35 years of age.</p>\n<p><strong>Buphthalmos</strong>, meaning \"bull-like eyes,\" is a condition characterized by the <span class=\"customMeta\" data-dictid=\"41e56d9a54169277718724ff8c225f\">enlargement</span> of the eyeball. It typically manifests before the age of 3 years and results from the accumulation and <span class=\"customMeta\" data-dictid=\"b668aed705169277719744b6db8f8e\">retention</span> of <span class=\"customMeta\" data-dictid=\"0f0067663b16927771818fe253b3b9\">aqueous</span> humor.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Trabeculodysgenesis:</strong> <span class=\"customMeta\" data-dictid=\"bc408d83e0169277719161fedb67af\">Maldevelopment</span> of the trabeculum and iridotrabecular <span class=\"customMeta\" data-dictid=\"9f0942c0b51692777190ee876713e5\">junction</span> from <span class=\"customMeta\" data-dictid=\"b00388be25169277719369b3ab059f\">neural</span> <span class=\"customMeta\" data-dictid=\"48528974ed1692777185cd29753db5\">crest</span> cells impairs <span class=\"customMeta\" data-dictid=\"0f0067663b16927771818fe253b3b9\">aqueous</span> outflow, causing elevated IOP.</li>\n<li><strong>Angle <span class=\"customMeta\" data-dictid=\"e50e29a57b16927771978b2f6cff3e\">Recess</span> Absence:</strong> The angle <span class=\"customMeta\" data-dictid=\"e50e29a57b16927771978b2f6cff3e\">recess</span> is absent, with the <span class=\"customMeta\" data-dictid=\"6e53fc929616927771900fbab3617f\">iris</span> inserting either flatly or concavely into the trabeculum.</li>\n<li><strong>Iris <span class=\"customMeta\" data-dictid=\"c88a7c1a0116927771909b2463968d\">Insertion</span> Types:</strong>\n<ul>\n<li><strong>Flat Insertion:</strong> Reveals the <span class=\"customMeta\" data-dictid=\"1be9f55b2d1692777184b9d813b17e\">ciliary</span> body and scleral spur.</li>\n<li><strong>Concave Insertion:</strong> Obscures the <span class=\"customMeta\" data-dictid=\"d523549f091692777198f5ec70ed9e\">scleral spur</span> and <span class=\"customMeta\" data-dictid=\"1be9f55b2d1692777184b9d813b17e\">ciliary</span> body.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong><u>Classic Triad:</u></strong> Lacrimation, photophobia, and blepharospasm; often accompanied by eye rubbing.</p>\n<p style=\"text-align:center\"><img alt=\"Congenital Glaucoma\" data-author=\"\" data-hash=\"1835\" data-license=\"\" data-source=\"\" data-tags=\"March2025\" src=\"https://image.prepladder.com/notes/zNl7UHVpeCrFtPnM1mdd1742980809.png\"/></p>\n<p><strong><u>Corneal Signs:</u></strong></p>\n<ul>\n<li><strong>Oedema:</strong> Early sign, may progress to permanent opacity.</li>\n<li><strong>Enlargement:</strong> Corneal <span class=\"customMeta\" data-dictid=\"afb15e4a331692777186e495b370a1\">diameter</span> >13 mm confirms enlargement; >16 mm indicates poor prognosis.</li>\n</ul>\n<p><strong>Haab\u2019s Striae:</strong> <span class=\"customMeta\" data-dictid=\"1717bdb5d21692777200d45e31ceed\">Tears</span> in Descemet's membrane, visible as <span class=\"customMeta\" data-dictid=\"1b8aa0db391692777194178f73c98c\">opaque</span> lines.</p>\n\t\t\t\u00a0\n\n\t\t\t<p><strong><u>Additional Features:</u></strong></p>\n<ul>\n<li><strong>Thin Sclera:</strong> Appears blue due to underlying uveal tissue.</li>\n<li><strong>Deep <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">Anterior</span> Chamber:</strong> Indicates elevated IOP.</li>\n<li><strong>Iris Changes:</strong> <span class=\"customMeta\" data-dictid=\"da889be4d116927771901330eaf85a\">Iridodonesis</span> and atrophic patches in late stages.</li>\n<li><strong>Lens Changes:</strong> Becomes flat and may subluxate.</li>\n<li><strong>Optic Disc Changes:</strong> Variable <span class=\"customMeta\" data-dictid=\"4d57ccd00f1692777185c371df0426\">cupping</span> and atrophy.</li>\n<li><strong>Raised IOP:</strong> Elevated but not acute.</li>\n<li><strong>Axial Myopia:</strong> Due to increased <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> length.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/55kH2LqHV6oGJqdyzHfY1746418507.mp3",
+      "video": "",
+      "uid": "22951bff"
+    },
+    {
+      "text": "Which of the following is not a recognized risk factor for Primary Open-Angle Glaucoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elevated intraocular pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diastolic perfusion pressure of more than 55 mm Hg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Family history of glaucoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High myopia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Diastolic perfusion pressure of more than 55 mm Hg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/UWeNKTFO5NomY3Cx7IDI1746878690.mp3",
+      "video": "",
+      "uid": "ca610349"
+    },
+    {
+      "text": "Match the following: 1) Perkins Tonometer a)  2) Tonopen b)  3) Pulsair tonometer c)  4) Rebound Tonometer d)",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-a, 2-c, 3-d, 4-b",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-c, 2-b, 3-d, 4-a",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-d, 2-a, 3-b, 4-c",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-d, 2-a, 3-b, 4-c",
+      "question_images": [
+        "https://image.prepladder.com/notes/nuGqqWqqXqF6dPF7rybu1743749764.png",
+        "https://image.prepladder.com/notes/8YU49ds4gAFMKKm8gkW41743749785.png",
+        "https://image.prepladder.com/notes/k6FoVpCDlpABq2EmBLAs1743749808.png",
+        "https://image.prepladder.com/notes/6pCgRtxvkzBxcE4bRtA61743749827.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/lEAXpFQ5UnlhokPTqpEF1743750349.png",
+        "https://image.prepladder.com/notes/S4FXA3IbZZ0qEOeNSrPr1743750367.png",
+        "https://image.prepladder.com/notes/tR99irb0LEpL7pIkDHtC1743750383.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Perkin's <span class=\"customMeta\" data-dictid=\"bae4a70e581692777181bcd2593bf6\">applanation</span> tonometer</strong></p>\n<ul>\n<li>It is portable and does not require a <span class=\"customMeta\" data-dictid=\"7fbb9ec5b716927771981c011f4299\">slit</span> lamp, but accurate readings need significant practice.</li>\n<li>Hand held version of Goldmann.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Perkin's <span class=\" custommeta\"=\"\" data-dictid=\"bae4a70e581692777181bcd2593bf6\"/>applanation <span class=\"customMeta\" data-dictid=\"483dec41891692777200500d008fb8\">tonometer</span> (labeled)\" data-author=\"Paolo Brusini ,Maria Letizia Salvetat and Marco Zeppieri \" data-hash=\"7268\" data-license=\"CC BY\" data-source=\"https://www.mdpi.com/2077-0383/10/17/3860\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/uAzZf1Uju74flT4VwbUm1743750272.png\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pulsair (non-contact tonometer)</strong></p>\n<ul>\n<li>A noncontact device that measures <span class=\"customMeta\" data-dictid=\"1ba26fe8171692777190a867ec47c7\">intraocular</span> pressure.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Pulsair (non-contact) tonometer(labeled)\" data-author=\"Paolo Brusini ,Maria Letizia Salvetat and Marco Zeppieri \" data-hash=\"7269\" data-license=\"CC BY\" data-source=\"https://www.mdpi.com/2077-0383/10/17/3860\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/lEAXpFQ5UnlhokPTqpEF1743750349.png\">\n<figcaption>{{caption_text}}</figcaption>\n</img></figure>\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tonopen (based on both <span class=\"customMeta\" data-dictid=\"cdb5523e491692777190f8bc3775ff\">indentation</span> and applanation)</strong></p>\n<ul>\n<li>A portable, computerized <span class=\"customMeta\" data-dictid=\"483dec41891692777200500d008fb8\">tonometer</span> that uses a <span class=\"customMeta\" data-dictid=\"79067cb33316927771926965c3c0b5\">microscopic</span> <span class=\"customMeta\" data-dictid=\"f3d6ae0bcd16927772005689a33dba\">transducer</span> to applanate the <span class=\"customMeta\" data-dictid=\"4cc4d657841692777185555e1b982d\">cornea</span> and convert <span class=\"customMeta\" data-dictid=\"1ba26fe8171692777190a867ec47c7\">intraocular</span> pressure into electronic signals.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Tonopen (labeled)\" data-author=\"J. RajeshPragathi PrasannaR. AkshithT. ManjunathG. Pavithra\" data-hash=\"7270\" data-license=\"NA\" data-source=\"https://www.semanticscholar.org/paper/Conceptual-view-of-a-smart-tonopen-for-biomedical-Rajesh-Prasanna/d933516b828f8eddc63a7fae5a35581e431a7537/figure/2\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/S4FXA3IbZZ0qEOeNSrPr1743750367.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Rebound tonometer</strong></p>\n<ul>\n<li>Used for self-measurement</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Rebound tonometer(labeled)\" data-author=\"Paolo Brusini ,Maria Letizia Salvetat and Marco Zeppieri \" data-hash=\"7271\" data-license=\"CC BY\" data-source=\"https://www.mdpi.com/2077-0383/10/17/3860\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/tR99irb0LEpL7pIkDHtC1743750383.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/yPTkG0stPI69m11PVi1N1745226619.mp3",
+      "video": "",
+      "uid": "f18931e8"
+    },
+    {
+      "text": "A 55-year-old patient with primary open-angle glaucoma undergoes visual field testing. Which of the following visual field defects is considered the earliest clinically significant field defect occurring in glaucoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No options available",
+          "correct": false
+        }
+      ],
+      "correct_answer": "Unknown",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/cRZQpzjRWifwSOsOYeuT1743753652.png",
+        "https://image.prepladder.com/notes/yOexHx5GXBV2ADsZkwXu1743753683.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1. <span class=\"customMeta\" data-dictid=\"eb0227679c16927771906b997f4646\">Isopter</span> contraction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mild generalized <span class=\"customMeta\" data-dictid=\"4880e9b3761692777185e64eba797c\">constriction</span> of central as well as <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> field</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2. Baring of blind spot</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Early glaucomatous change, but <span class=\"customMeta\" data-dictid=\"70d4f989c31692777193372189cfbb\">nonspecific</span> and of limited <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">diagnostic</span> value</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>3. Small ring-shaped <span class=\"customMeta\" data-dictid=\"fcf447f5781692777194d3d1d4e7e5\">paracentral</span> scotoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Earliest clinically significant field defect; appears in Bjerrum's area</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>4. Seidel's scotoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Paracentral <span class=\"customMeta\" data-dictid=\"a685fb1a5716927771982efa29a365\">scotoma</span> joins the <span class=\"customMeta\" data-dictid=\"20fdb467921692777183b457fca572\">blind spot</span> to <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> a sickle-shaped defect</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>5. <span class=\"customMeta\" data-dictid=\"734bdc6ddd1692777182e15cb76ca5\">Arcuate</span> or Bjerrum's scotoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Formed at a later stage by extension of Seidel's <span class=\"customMeta\" data-dictid=\"a685fb1a5716927771982efa29a365\">scotoma</span> in an area above or below the <span class=\"customMeta\" data-dictid=\"71fd4297541692777202797b7596b9\">fixation</span> point</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>6. Ring or double <span class=\"customMeta\" data-dictid=\"734bdc6ddd1692777182e15cb76ca5\">arcuate</span> scotoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Develops when the two <span class=\"customMeta\" data-dictid=\"734bdc6ddd1692777182e15cb76ca5\">arcuate</span> scotomas join together</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>7. Roenne's central <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> step</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An area of depression above or below the <span class=\"customMeta\" data-dictid=\"6f4a4d02ec169277718995b05c1d26\">horizontal</span> <span class=\"customMeta\" data-dictid=\"d2266722801692777192382c2b5902\">meridian</span> on the <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> side. This is due to the two <span class=\"customMeta\" data-dictid=\"734bdc6ddd1692777182e15cb76ca5\">arcuate</span> scotomas running in different arcs and meet to <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> a sharp right-angled gap.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>8. <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">Peripheral</span> <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> step</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Appear sometimes at an early stage; <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> step results from unequal <span class=\"customMeta\" data-dictid=\"ca2289e348169277718516017eb2ba\">contraction</span> of the <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> isopter</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>9. Advanced glaucomatous field defects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Visual field loss gradually spreads peripherally, eventually only the central and <span class=\"customMeta\" data-dictid=\"637ea4d17516927772003be2b2aae4\">temporal</span> island of vision is left behind.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/suvt9LiZ8bjlwKP2e5651746955973.mp3",
+      "video": "",
+      "uid": "b1a53261"
+    }
+  ]
+}

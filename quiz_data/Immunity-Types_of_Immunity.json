@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "id": "test56",
+    "title": "Immunity-Types_of_Immunity",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is not a feature of innate immunity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Present since birth",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Made of epithelial barriers, phagocytes, innate lymphoid cells (ILCs) and NK cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quick, non-specific response",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Has a lag phase between exposure and response",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Has a lag phase between exposure and response",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Innate/native immunity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acquired/adaptive immunity</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Present since birth (Option A)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occurs after exposure to the pathogen</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Quick, non-specific response (Option C)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Slower, specific response to a pathogen</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No <span class=\"customMeta\" data-dictid=\"6eec2212b91692777189b54f3d9066\">immunological</span> memory</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Has <span class=\"customMeta\" data-dictid=\"6eec2212b91692777189b54f3d9066\">immunological</span> memory</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples include :</p>\n<ul>\n<li>Epithelial barriers like skin, GIT. (Option B)</li>\n<li>Plasma proteins like C-reactive protein.</li>\n<li>Neutrophils, macrophages, <span class=\"customMeta\" data-dictid=\"77f797c5e8169277718535480fa7fd\">dendritic</span> cells, complement.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cells are of 2 types :</p>\n<ul>\n<li>B lymphocytes: Provides <span class=\"customMeta\" data-dictid=\"1a6d065f851692777189ba5533d1ef\">humoral</span> <span class=\"customMeta\" data-dictid=\"4f9ee631c21692777189b1e0cdc91c\">immunity</span> and produces antibodies</li>\n<li>2. T lymphocytes: Involved in <span class=\"customMeta\" data-dictid=\"5eb50cf561169277718491671207db\">cell-mediated immunity</span> and help with <span class=\"customMeta\" data-dictid=\"4f9ee631c21692777189b1e0cdc91c\">immunity</span> against <span class=\"customMeta\" data-dictid=\"a621be29da16927771901bc91014d1\">intracellular</span> microbes</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0c69cc29"
+    },
+    {
+      "text": "A 45-year-old male presents with a fever, sore throat, and swollen lymph nodes. He is diagnosed with a viral infection. Which of the following cells is most likely involved in the early defense against the offending agent in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NK cells",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "T cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Macrophages",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Histocytes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. NK cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ocS64AHvSX82RjwIhLDr1737006165.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c681e853"
+    },
+    {
+      "text": "A 20-year-old medical student went for a screening health test and was injected with PPD intradermally. Identify the immune cell in the skin that picks up the PPD to present it to T cells.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Langhans cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Follicular dendritic cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Langerhans cells",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Langerhans cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/WyKaWwyYqWB0lBXERDv71737006246.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types of APCs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Professional APCs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>These are further divided into</p>\n<ul>\n<li>Dendritic cells</li>\n<li>B cells</li>\n<li>Macrophages</li>\n</ul>\n<p>These <span class=\"customMeta\" data-dictid=\"77f797c5e8169277718535480fa7fd\">dendritic</span> cells are present in two regions</p>\n<ul>\n<li>Skin: They are called as Langerhans cells</li>\n<li>Lymph node: <span class=\"customMeta\" data-dictid=\"031a38f17a16927772036476ede2ae\">Follicular</span> <span class=\"customMeta\" data-dictid=\"77f797c5e8169277718535480fa7fd\">dendritic</span> cells (reservoirs for HIV)</li>\n</ul>\n<p>(Langhans cells are not antigen-presenting cells, these are the giant cells generally found in TB).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-professional APCs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It includes</p>\n<ul>\n<li>Thymic epithelial cells</li>\n<li>Endothelial cells</li>\n<li>Fibroblasts</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "971dd0a1"
+    },
+    {
+      "text": "Match the following immune cells with their markers. Cells Markers 1. Natural killer cell a. CD 19 2. T lymphocyte b. CD 16 3. B lymphocyte c. CD 11 4. Monocyte d. CD 3",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-a; 2-d; 3-b; 4-c",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-b; 2-a; 3-c; 4-d",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-b; 2-d; 3-a; 4-c",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-a; 2-c; 3-d; 4-b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-b; 2-d; 3-a; 4-c",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cells</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Markers</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Natural killer cell</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CD 16, 56, 94</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>T lymphocyte</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CD 1, 2, 3, 4, 5, 6, 7, 8, 28, 40L.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>B lymphocyte</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CD 10, 19, 20, 21, 22, 23, 40, 79</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Monocyte</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CD 11, 14, 64</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9413d532"
+    },
+    {
+      "text": "Toll-like receptors are seen in which of the following cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macrophages",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Endothelial cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Natural killer cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/oGHarIlf5zijXfbyBSlX1737005559.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Receptor Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cellular Compartment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Toll-like Receptors (TLRs)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Plasma membrane, endosomal vesicles</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detect <span class=\"customMeta\" data-dictid=\"04f4b6dbf71692777192ca0c4f70fa\">microbial</span> components (e.g., bacterial lipopolysaccharides, <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> RNA)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>C-type <span class=\"customMeta\" data-dictid=\"32850def99169277719135597fc165\">Lectin</span> Receptors (CLRs)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Plasma <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> of macrophages and <span class=\"customMeta\" data-dictid=\"77f797c5e8169277718535480fa7fd\">dendritic</span> cells</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detect fungal glycans</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RIG-like Receptors (RLRs)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cytosol</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detect nucleic acids of viruses replicating in the cytoplasm</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NOD-like Receptors (NLRs)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cytosol</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Recognise products released from necrotic or damaged cells associated with <span class=\"customMeta\" data-dictid=\"282201f8341692777190c016904203\">inflammasome</span> to release IL-1</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "fdc7f00e"
+    },
+    {
+      "text": "An 8-year-old child is brought with complaints of fever and burning micturition. She was diagnosed to have UTI with toxin-producing strains of E.coli. Where are blood-borne antigens trapped in the immune response to these toxins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lymph nodes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thymus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spleen",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Spleen",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/OMc8FfQ16yBlUqbm2eLn1737006378.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aspect </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary <span class=\"customMeta\" data-dictid=\"32599f889a169277719169e3483e62\">lymphoid</span> organ </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Secondary <span class=\"customMeta\" data-dictid=\"32599f889a169277719169e3483e62\">lymphoid</span> organ</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Development and <span class=\"customMeta\" data-dictid=\"76948f718016927771924774ade7e9\">maturation</span> of T and B lymphocytes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Site of adaptive immune responses to antigens</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Organ </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Thymus (T cell development)</li>\n<li>Bone <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> (all blood cells, including <span class=\"customMeta\" data-dictid=\"2241e1d9a11692777193d3ceb43d49\">na\u00efve</span> B cells)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Lymph nodes</li>\n<li>Spleen</li>\n<li>Mucosal and <span class=\"customMeta\" data-dictid=\"94f1c8df1f1692777185bd6a7c3fff\">cutaneous</span> <span class=\"customMeta\" data-dictid=\"32599f889a169277719169e3483e62\">lymphoid</span> tissues</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f11aa04a"
+    },
+    {
+      "text": "Which of the following HLA gene regions encodes Class II MHC molecules?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HLA-A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "HLA-B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HLA-C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HLA-D",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. HLA-D",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/KrJwnSCWlqBtHoofcmZh1737006461.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gene region</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Encoded products</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class I</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HLA-A, HLA-B, and HLA-C</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class II</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HLA-DP, HLA-DQ, and HLA-DR.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class III</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Tumor <span class=\"customMeta\" data-dictid=\"5e84a7987c16927771931012aced83\">necrosis</span> factor (TNF), <span class=\"customMeta\" data-dictid=\"f0ff39a3fa1692777184cf743ca1e7\">complement</span> and heat shock proteins</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8eb84b5f"
+    },
+    {
+      "text": "A patient presented with a fever and loose stool for one week. He was diagnosed with typhoid infection. Which of the following MHC class is responsible for antigen presentation in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Class I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Class II",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Class III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Non-MHC-dependent antigen presentation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Class II",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class I</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MHC class I molecules present <span class=\"customMeta\" data-dictid=\"2a7f0b780c1692777187fe83ec76b1\">endogenous</span> antigens derived from <span class=\"customMeta\" data-dictid=\"a621be29da16927771901bc91014d1\">intracellular</span> pathogens, such as viruses and some bacteria.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class II</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MHC class II molecules present <span class=\"customMeta\" data-dictid=\"18a9d4c52716927771878ee08e63ee\">exogenous</span> antigens derived from <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> pathogens, such as <span class=\"customMeta\" data-dictid=\"361c327ab81692777198a1cd507e57\">Salmonella</span> typhi, the <span class=\"customMeta\" data-dictid=\"ff3e9793d01692777182b598b4a090\">bacterium</span> responsible for <span class=\"customMeta\" data-dictid=\"f2f6f9068216927772016cacf26183\">typhoid</span> fever.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class III</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MHC class III molecules are not involved in <span class=\"customMeta\" data-dictid=\"782b31281a1692777181708484c1d1\">antigen</span> presentation. They encode components of the <span class=\"customMeta\" data-dictid=\"f0ff39a3fa1692777184cf743ca1e7\">complement</span> system and other immune-related molecules.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Non-MHC-dependent <span class=\"customMeta\" data-dictid=\"782b31281a1692777181708484c1d1\">antigen</span> presentation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>While non-MHC-dependent <span class=\"customMeta\" data-dictid=\"782b31281a1692777181708484c1d1\">antigen</span> presentation can occur through mechanisms like CD1 molecules presenting <span class=\"customMeta\" data-dictid=\"a99114a6c216927771916f45ffc66c\">lipid</span> antigens.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "32129377"
+    },
+    {
+      "text": "Which component functions as the antigen binding site in MHC complexes 1 and 2, respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MHC 1 - beta microglobulin; MCH 2 - alpha 3 domain",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MHC 1 - alpha 1 and 2; MHC 2 - alpha 1 and beta 1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "MHC 1 - alpha 1 and beta 1; MHC 2 - alpha 1 and 2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "MHC 1 - invariant chain; MHC 2 - beta microglobulin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. MHC 1 - alpha 1 and 2; MHC 2 - alpha 1 and beta 1",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/cHUEnGRUP2fZv9j3weyu1737005742.png",
+        "https://image.prepladder.com/content/YOoQ9iFe0KKc7a4ZYLJj1737005782.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3ab37776"
+    },
+    {
+      "text": "A newborn delivered by a mother who received no prenatal care is being evaluated. On examination, the baby has severe oedema, icterus, and organomegaly and is in respiratory distress. What immunoglobulin class was responsible for this child\u2019s presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgG",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "IgM",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IgA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IgE",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. IgG",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ROW6ar3HfCjBo0oxRkRn1737006827.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "967d6b26"
+    },
+    {
+      "text": "A 65-year-old male presents to the emergency department with a fever, productive cough, and shortness of breath. He is diagnosed with pneumonia. Which of the following cytokines is most likely to be elevated in this patient due to the activation of classical macrophages in response to the infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interleukin- 1",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Interleukin- 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Interleukin- 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Interleukin- 10",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Interleukin- 1",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ej7jKqIU9yDQ67ZnDSOp1737005913.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stimuli</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Functions and Secretions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Role</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Classical (M1) Activation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Microbial products (e.g., LPS), IFN-\u03b3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pro-inflammatory and <span class=\"customMeta\" data-dictid=\"344e6c36131692777192e96cc1dbc8\">microbicidal</span> functions: NO, lysosomal enzymes, TNF-\u03b1, IL-1, IL-12, IL-23</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Host defense</li>\n<li>Microbial destruction</li>\n<li>Inflammation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alternative (M2) Activation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IL-4, IL-13 <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tissue repair, resolution of inflammation, <span class=\"customMeta\" data-dictid=\"9b0ae3750916927771986c15d4ff4d\">secretion</span> of TGF-\u03b2, growth factors, IL-10</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Tissue remodeling</li>\n<li>Angiogenesis, Immunoregulation</li>\n<li>Wound healing</li>\n<li>Tissue repair and homeostasis</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f4438cff"
+    },
+    {
+      "text": "A 10-year-old boy is brought with a history of eating sand. His stool examination showed Ascaris eggs. What type of T-cell is responsible for dealing with this infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TH1 cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "TH2 cells",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "TH17 cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Treg cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. TH2 cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/omOhfWcXVmPS2h0W7NAv1737006614.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:588px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subtype</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function and Characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Cytokines</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TH1</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Involved in chronic <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">inflammatory</span> diseases. Activated by IL-12 from APCs. <span class=\"customMeta\" data-dictid=\"7b8c92219216927771981950fdd0e8\">Secrete</span> IFN-gamma, activating macrophages.</li>\n<li>Stimulates macrophages to <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> <span class=\"customMeta\" data-dictid=\"ed5f81953d1692777187529a6de318\">epithelioid</span> cells and giant cells.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IFN-gamma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TH2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Responsible for the alternative <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> of <span class=\"customMeta\" data-dictid=\"2748357f451692777191377abbe2a6\">macrophage</span> activation. Release cytokines IL-4, IL-5, and IL-13.</li>\n<li>To expel parasites from the body, stimulate <span class=\"customMeta\" data-dictid=\"7eba65a7251692777187eaa3b48258\">eosinophil</span> activation, <span class=\"customMeta\" data-dictid=\"9d7a12cab116927771811a0079086d\">antibody</span> production (especially IgE), and <span class=\"customMeta\" data-dictid=\"ab75ea330616927771938a64f8ebd6\">mucus</span> production.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IL-4, IL-5, IL-13</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TH17</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Defend against <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> bacteria and fungi. <span class=\"customMeta\" data-dictid=\"7b8c92219216927771981950fdd0e8\">Secrete</span> IL-17 and IL-22, attracting neutrophils and monocytes.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IL-17, IL-22</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treg (T regulatory)</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Suppresses immune response, maintains <span class=\"customMeta\" data-dictid=\"50796581771692777189251fbe5ef1\">homeostasis</span> and self-tolerance.</li>\n<li>Inhibit T cell <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">proliferation</span> and <span class=\"customMeta\" data-dictid=\"0ac01cc0c31692777185cae5f28175\">cytokine</span> production, preventing <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> reaction.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IL-10, TGF-beta</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tfh (Follicular T helper)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Assist B cells in rapid <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">proliferation</span> and <span class=\"customMeta\" data-dictid=\"9d7a12cab116927771811a0079086d\">antibody</span> production.</li>\n<li>Help produce antibodies with greater affinity.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IL-21</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "00d9b29c"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "PHARMACOLOGY-(INICET NOV 2024)",
+    "category": "INICET PYQ"
+  },
+  "questions": [
+    {
+      "text": "A young female weighing 46kg on digoxin with vd-6L/kg Clearance: 4.6 L/h. Calculate half-life of digoxin:",
+      "options": [
+        {
+          "label": "A",
+          "text": "4h",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "68h",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "42h",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "0.9h",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 42h",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>42h Formula for half-life is Here, V= volume of distribution, in this case Vd is 46 x 6= 276. CL- clearance= 4.6L/h So putting all this in formula- t1/2= 276 x 0.693/4.6 = 42h.Hence, option C is correct.</p>\n<p><strong>Highyeild:</strong></p><p>Plasma half-life The Plasma half-life (t\u00bd) of a drug is the time taken for its plasma concentration to be reduced to half of its original value. Taking the simplest case of a drug which has rapid one compartment distribution and first order elimination, and is given i.v. a semilog plasma concentration-time plot is obtained. The plot has two slopes. \u2022 initial rapidly declining () phase\u2014due to distribution. \u2022 later less declined (\u03b2) phase\u2014due to elimination. At least two half-lives (distribution t\u00bd and elimination t\u00bd) can be calculated from the two slopes. The elimination half-life derived from the \u03b2 slope is simply called the \u2018half life\u2019 of the drug.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is incorrect as by using formula, t1/2 is coming 42h. Option: B. Is incorrect as by using formula, t1/2 is coming 42h. Option: D. Is incorrect as by using formula, t1/2 is coming 42h.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Differences between Zero Order Kinetics and First-order Kinetics Zero Order Kinetics First-Order Kinetics Rate of elimination independent of plasma concentration Rate of elimination is proportional to plasma concentration Half Life = Not constant Half Life =Constant Constant amount is eliminated per unit of time Constant fraction is eliminated per unit of time Clearance not constant Clearance constant</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "af709082",
+      "audio": ""
+    },
+    {
+      "text": "Drug of choice for fasciola hepatica:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Triclabendazole",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Praziquantel",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mebendazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Albendazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Triclabendazole",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Triclabendazole Triclabendazole reserved for treatment of liver fluke infection caused by Fasciola hepatica.</p>\n<p><strong>Highyeild:</strong></p><p>Triclabendazole: Triclabendazole is a member of Benzimidazole's anthelmintic group. It is used for the treatment of fascioliasis and represents an alternative to praziquantel for treatment of paragonimiasis. Mechanism of Action \u2013 is inhibition of microtubule polymerization by binding to \u03b2-tubulin Administration of triclabendazole after food enhances its absorption, which might be due to the stimulation of gastric acid secretion, food-induced increase in drug solubility, or altered GI motility and transit time. After oral administration, triclabendazole is rapidly oxidized into two major metabolites, triclabendazole sulfoxide and triclabendazole sulfone, and only low concentrations of the parent drug can be detected in plasma. Triclabendazole sulfoxide is the metabolite active against F. hepatica The liver fluke F. hepatica is resistant to praziquantel and should be treated with triclabendazole. Triclabendazole is administered at 10 mg/kg with a repeated dose administered when patients have high infection intensities.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B . Is incorrect as Praziquantel is the drug of choice for all schistosome and fluke infestations except Fasciola hepatica. Option: C . Is incorrect as mebendazole is not effective against Fasciola hepatica. Option: D . Is incorrect as albendazole is not effective against fasciola hepatica.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Choice of drugs for helminthiasis Worm First Line Drug \u25cf       Roundworm \u25cf        Ascaris Lumbricoides \u25cf       Mebendazole, Albendazole, Pyrantel \u25cf       Hookworm \u25cf       Ancylostoma Duodenale Necator Americanus \u25cf       Pyrantel, Mebendazole, Albendazole Mebendazole, Albendazole \u25cf       Threadworm- \u25cf       Strongyloides Stercoralis \u25cf       Ivermectin \u25cf       Filaria \u25cf       Wuchereria Bancrofti, Brugia Malayi \u25cf       Diethylcarbamazine, Ivermectin \u25cf       Tapeworms \u25cf       Taenia Saginata Taenia Solium \u25cf       Praziquantel \u25cf       Hydatid Disease \u25cf       Echinococcus Granulosus, \u25cf       Albendazole</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "01761ea4",
+      "audio": ""
+    },
+    {
+      "text": "True statement for pretomanid:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Given in XDR TB with Bedaquiline and linezolid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Contraindicated in patients on enzyme inducer drugs",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acts by reactive oxygen species",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "For resistant cases of malaria",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Contraindicated in patients on enzyme inducer drugs",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Contraindicated in patients on enzyme inducer drugs Pretomanid is metabolized in part by CYP3A, so coadministration with strong or moderate CYP3A inducers should be avoided. Hence, option B is correct.</p>\n<p><strong>Highyeild:</strong></p><p>Bicyclic Nitroimidazoles: Delamanid and Pretomanid Pretomanid is used -Drug-sensitive (DS) tuberculosis Latent infection due to Mycobacterium tuberculosis Extra-pulmonary infection due to Mycobacterium tuberculosis MDR-TB that is not treatment-intolerant or nonresponsive to standard therapy Delamanid is licensed by the European Medicines Agency for the treatment of MDR-TB Pretomanid has two mechanisms of action: First, under aerobic conditions, it inhibits M. tuberculosis mycolic acid and protein synthesis at the step between hydroxy mycolate and ketomycolate. Second, in nonreplicating persistent bacilli (NRPB), it generates reactive nitrogen species such as NO via its des-nitro metabolite, which then augment the kill of intracellular NRPB by the innate immune system Therapeutic Uses- Delamanid is given in patients with pulmonary MDR-TB. Pretomanid is administered at 200 mg/day and has shown efficacy in phase III trials in combination with Bedaquiline and linezolid for the treatment of MDR- and XDR-TB</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is incorrect as pretomanid is used to treat pre-XDR tuberculosis (TB). Option: C. is incorrect as Pretomanid has two mechanisms of action. First, under aerobic conditions, it inhibits M. tuberculosis mycolic acid and protein synthesis and Second, in nonreplicating persistent bacilli (NRPB), it generates reactive nitrogen species such as NO. Option: D. Is incorrect as Pretomanid is administered at 200 mg/day and has shown efficacy in phase III trials in combination with Bedaquiline and linezolid for the treatment of MDR- and XDR-TB.</p>\n<p><strong>Table:</strong></p><p>#MANTRA An alternative grouping of antitubercular drugs reflecting hierarchy in efficacy/priority in use has also been done. ALTERNATIVE GROUPING</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9e4c585e",
+      "audio": ""
+    },
+    {
+      "text": "Choose the correct option regarding Phenytoin-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute oral overdose results primarily in cerebellar and vestibular symptoms and high doses have been associated with marked cerebellar atrophy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "High dose causes cardiotoxicity in old and nephrotoxicity in young patients",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "These complications can be minimized by administering fosphenytoin at a rate of less than 250 mg of phenytoin sodium equivalents per minute",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Given in all patients with seizures regardless of cardiac arrhythmias, hypotension and/or CNS depression",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Acute oral overdose results primarily in cerebellar and vestibular symptoms and high doses have been associated with marked cerebellar atrophy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Acute oral overdose results primarily in cerebellar and vestibular symptoms and high doses have been associated with marked cerebellar atrophy Option: A. Is correct as Over dose toxicity due to higher plasma concentration of phenytoin produces: (a) Cerebellar and vestibular manifestations: ataxia, vertigo, diplopia, nystagmus. (b) Drowsiness, behavioural alterations, mental confusion, hallucinations, disorientation and rigidity.</p>\n<p><strong>Highyeild:</strong></p><p>Phenytoin: *Phenytoin blocks voltage-gated sodium channels by selectively binding to the channel in the inactive state and slowing its rate of recovery. It is effective for treatment of focal and generalized tonic\u2013clonic seizures and in the treatment of status epilepticus. Over dose toxicity due to higher plasma concentration of phenytoin produces: Cerebellar and vestibular manifestations: ataxia, vertigo, diplopia, nystagmus. Drowsiness, behavioural alterations, mental confusion, hallucinations, disorientation and rigidity. Epigastric pain, nausea and vomiting. Intravenous injection of phenytoin sodium can cause local vascular injury \u2192 intimal damage and thrombosis of the vein \u2192 edema and discolouration of the injected limb. Tissue necrosis occurs if the solution extravasates. Fall in BP and cardiac arrhythmias occur only on i.v. injection which, therefore, must be given under continuous ECG monitoring</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Is incorrect as High dose does not causes cardiotoxicity in old and nephrotoxicity in young patients Option: C. Is incorrect as These complications can be minimized by administering fosphenytoin at a rate of less than 250 mg of phenytoin sodium equivalents per minute as fosphenytoin can be given at a rate of 100\u2013150 mg/min. Option: D. Is incorrect as Fall in BP and cardiac arrhythmias occur on i.v. injection which, therefore, must be given under continuous ECG monitoring.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Adverse Effects Of Phenytoin (Mnemonic- Phenytoin)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a490220c",
+      "audio": ""
+    },
+    {
+      "text": "A 60 years old patient who is a known case of hypertension and diabetes, underwent PCI stent placement for NSTEMI last year. He is currently on aspirin, metoprolol and atorvastatin. He comes for follow-up and his lipid profile is as follows - Total cholesterol 252mg/dl, LDL: 156mg/dl, Triglyceride 158mg/dl and HDL-40 mg/dl. Which drugs can be added based on his lipid profile? Ezetimibe Evolocumab Gemfibrozil Bempedoic acid Select the correct Answer From the given below Code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2 and 4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Only 1 and 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1,3 and 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Only 1 and 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 2 and 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2 and 4 Patient is having hypertension and diabetes and taking aspirin, metoprolol and atorvastatin, and LDL is still high so it will be a case of MI -ASCVD (atherosclerotic cardiovascular disease). In patients with ASCVD the main aim is to decrease LDL. So drugs effective to reduce LDL are ezetimibe, evolocumab and bempedoic acid i.e. Option A is correct.</p>\n<p><strong>Highyeild:</strong></p><p>Ezetimibe Evolocumab Bempedoic acid \u25cf       Ezetimibe is the first compound approved for lowering total cholesterol and LDL-C levels that acts by inhibiting cholesterol absorption by enterocytes in the small intestine. \u25cf        It lowers LDL-C levels by about 20% and may be used as adjunctive therapy with statins. \u25cf       The actions of ezetimibe are complementary to those of statins and the ACL inhibitor, bempedoic acid. \u25cf        Dual therapy with ezetimibe and either of these two classes of drugs prevents both the enhanced cholesterol synthesis induced by ezetimibe and the increase in cholesterol absorption induced by statins, providing additive reductions in LDL-C levels \u25cf        Evolocumab is PCSK9 inhibitor FDA-approved \u25cf       (1) To lower risk of myocardial infarction, stroke, and unstable angina requiring hospitalization in patients with established cardiovascular disease, \u25cf       (2) To lower LDL-C as adjunctive therapy alone or in combination with other LDL-C\u2013lowering medication in adult patients with HeFH, and (3) to lower LDL-C as adjunctive therapy in combination with other LDL-C\u2013lowering medications in adult patients with HoFH. \u25cf       Bempedoic acid, a dicarboxylic acid, is a new class of cholesterol-lowering drugs approved by the FDA in 2020 that act by inhibiting de novo hepatocyte cholesterol biosynthesis. \u25cf        Its mechanism of action complements statins and other agents that lower LDL-C. \u25cf       The drug is approved as an adjunct to diet and maximally tolerated statin therapy to further lower LDL-C in patients with HeFH or established ASCVD. \u25cf       A fixed dose combination of bempedoic acid and ezetimibe is approved for the same indication. \u25cf       Bempedoic acid also has application in patients who are statin-intolerant</p>\n<p><strong>Random:</strong></p><p>Explanation for other options: - Option: B. Is incorrect as along with ezetimibe and evolocumab, bempedoic acid will be effective for this patient. Option: C . Is incorrect as Gemfibrozil is an fibrate which is used to decrease triglyceride so it will be not effective in this case. Option: D. Is incorrect as Gemfibrozil is an fibrate which is used to decrease triglyceride so it will be not effective in this case.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "15754f9c",
+      "audio": ""
+    },
+    {
+      "text": "Drug that binds to CD4 and has action on both CCR5 and CXCR4 in tropic HIV infections:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maraviroc",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ibalizumab",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Elvitegravir",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fosamprenavir",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ibalizumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ibalizumab Ibalizumab is a monoclonal antibody that specifically binds to the CD4 receptor on immune cells, preventing HIV from entering the cell by blocking the conformational changes needed for the virus to interact with both CCR5 and CXCR4 co-receptors, making it effective against both CCR5-tropic and CXCR4-tropic HIV strains.</p>\n<p><strong>Highyeild:</strong></p><p>Ibalizumab: Ibalizumab is a humanized monoclonal antibody that binds to the CD4 extracellular domain 2, causing steric hindrance of a conformational change in the gp120-CD4 complex necessary for HIV fusion and entry. Ibalizumab does not inhibit gp120 attachment to CD4. The ibalizumab binding site on CD4 is separate from the major histocompatibility complex class II binding site, and thus, ibalizumab does not interfere with host immune responses. Ibalizumab is approved for use in heavily treatment-experienced adults with multidrug-resistant HIV-1 infection who are failing their current antiretroviral regimen. Ibalizumab is generally well tolerated with few side effects. The most common adverse effects reported in clinical trials were diarrhea (8%), dizziness (8%), nausea (5%), and rash (5%)</p>\n<p><strong>Random:</strong></p><p>Explanation for other options: - Option: A. Is incorrect as maraviroc is a novel anti-HIV drug which targets the host cell CCR5 receptor and blocks it. Option: C. Is incorrect as Elvitegravir blocks the catalytic activity of the HIV-encoded integrase, preventing integration of viral DNA into the host chromosome for both HIV-1 and HIV-2 Option: D. Is incorrect as Fosamprenavir is a protease inhibitor.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Sites of action of antiretroviral agents</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ec9283d7",
+      "audio": ""
+    },
+    {
+      "text": "Drug acting on sodium channel and potentiating slow sodium inactivation:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenytoin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lamotrigine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lacosamide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Topiramate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Lacosamide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Lacosamide Lacosamide is an antiseizure drug and acts by slow inactivation of voltage-gated Na+ channels and to limit sustained repetitive firing, the neuronal firing pattern characteristic of focal seizures.</p>\n<p><strong>Highyeild:</strong></p><p>Lacosamide This recently introduced antiseizure drug is indicated in adults only for add-on therapy of partial seizures with or without generalization. It acts by enhancing Na+ channel inactivation and suppressing repetitive firing of neurons. Lacosamide is metabolized by CYP2C19 and excreted in urine with t\u00bd ~ 12 hours. No alteration in dose of companion antiepileptic drug is needed , because it neither induces nor inhibits drug metabolizing enzymes. Adverse effects are ataxia, vertigo, diplopia, tremor, depression and cardiac arrhythmia.</p>\n<p><strong>Random:</strong></p><p>Explanation for other options: - Option: A. Is incorrect as phenytoin prevents seizures by inhibiting the positive feedback loop that results in neuronal propagation of high frequency action potentials Option: B. Is incorrect as Lamotrigine acts by inhibiting sodium channels and reducing the release of excitatory neurotransmitters like glutamate. Option: D. Is incorrect as Topiramate stimulates GABA-A receptor activity at brain non-benzodiazepine receptor sites and reduces glutamate activity at both AMPA and kainate receptors</p>\n<p><strong>Table:</strong></p><p>#MANTRA Major mechanisms of anticonvulsant action m\u2014Activation gate; h\u2014Inactivation gate; GABA-T\u2014GABA transaminase; SSA\u2014Succinic semialdehyde; GAT-1\u2014GABA transporter; GLU\u2014Glutamate; SV2 A\u2014Synaptic vesicular protein 2A; CRMP2\u2014collapsin-response mediator protein; NMDA-R\u2014-methyl D-aspartate receptor; AMPA-R\u2014a aminohydroxy methyl isoxazole propionic acid receptor</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5e8e8eaa",
+      "audio": ""
+    },
+    {
+      "text": "Inhibitors of Poly ADP ribose polymerase (PARP) are approved for BRCA positive breast cancers. Which among the following drugs is used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Palbociclib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rucaparib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Regorafenib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vandetanib",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Rucaparib",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Rucaparib Rucaparib is an orally bioavailable inhibitor of PARP1\u20133. Approved for the treatment of patients with advanced ovarian cancer with BRCA mutations and is used in the maintenance treatment of these patients after a partial response to platinum-based chemotherapy.</p>\n<p><strong>Highyeild:</strong></p><p>Rucaparib Rucaparib is an orally bioavailable inhibitor of PARP1\u20133. Rucaparib was approved for the treatment of patients with advanced ovarian cancer with BRCA mutations and is used in the maintenance treatment of these patients after a partial response to platinum-based chemotherapy. Other uses include patients with BRCA-mutated, metastatic, castration resistant prostate cancer after endocrine and taxane-based therapy. Rucaparib is metabolized primarily by CYP2D6. If coadministered with warfarin (a CYP2C9 substrate), increased monitoring of coagulation parameters is required. The mean terminal t 1/2 of rucaparib is 25.9 h</p>\n<p><strong>Random:</strong></p><p>Explanation for other options: - Option: A. Is incorrect as Palbociclib is an orally bioavailable, small-molecule inhibitor of CDK4 and CDK6, with IC50 values of 11 and 16 nM, respectively, and without inhibitory activity against CDK1, 2, or 5. Option: C. Is incorrect as Regorafenib is an orally bioavailable kinase inhibitor of VEGFR1\u20133, PDGFR, KIT, RET, and RAF1. Option: D. Is incorrect as Vandetanib is an oral anticancer drug that works by inhibiting the activity of receptor tyrosine kinases.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Cancer cell signaling pathways and drug targets</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e6c663b7",
+      "audio": ""
+    },
+    {
+      "text": "A known case of Ulcerative colitis is not responding to anti-TNF alpha agent. Which JAK inhibitor is preferred in moderate to severe Ulcerative colitis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vedolizumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tofacitinib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Leflunomide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ozanimod",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tofacitinib",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tofacitinib Tofacitinib is used to treat moderate-to-severe ulcerative colitis in patients who fail to respond to biological therapies. Hence, option B is correct.</p>\n<p><strong>Highyeild:</strong></p><p>Tofacitinib is a JAK inhibitor that acts broadly, inhibiting JAK1, JAK2, JAK3, and TYK2, although its main effect is through inhibition of the JAK1/3 combination. Administered orally An immunosuppressant that can increase susceptibility to infection Tofacitinib inhibits the JAK-STAT signaling pathway Tofacitinib is contraindicated in patients with hepatic insufficiency The primary adverse effect of tofacitinib is immunosuppression, so patients can experience increased susceptibility to infection. The drug should not be taken with other immunosuppressants</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is incorrect as Vedolizumab, a selective \u03b14\u03b27 integrin antagonist, is indicated for moderately to severely active Crohn\u2019s disease and ulcerative colitis. Option: C. Is incorrect as Leflunomide immunomodulator inhibits dihydro-orotate dehydrogenase and pyrimidine synthesis in actively dividing cells. Option: D. Is incorrect as Ozanimod is a S1PR Modulator used for ulcerative colitis.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Small-Molecule Inhibitors of Cytokine Receptor Signaling JAK inhibitors \u25cf       JAK1/JAK2 inhibitors \u25cf       Ruxolitinib \u25cf       Baricitinib \u25cf       Rheumatoid arthritis, graft-versus-host disease, myelofibrosis, polycythemia vera \u25cf       JAKT inhibitors \u25cf       Upadacitinib \u25cf       Abrocitinib \u25cf       Rheumatoid arthritis, psoriatic arthritis, atopic dermatitis \u25cf       JAK2 inhibitors \u25cf       Fedratinib \u25cf       Pacritinib \u25cf       Myelofibrosis \u25cf       JAK1/JAK3 inhibitor \u25cf       Tofacitinib \u25cf       Rheumatoid arthritis, psoriasis, ulcerative colitis, polyarticular course juvenile idiopathic arthritis \u25cf       Pan-JAK inhibitor Peficitinib (inhibits JAK1, JAK2, JAK3, and TYK2; modest selectivity for JAK3) \u25cf       Peficitinib (approved in Japan and Korea): rheumatoid arthritis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "32128170",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following will lead to decrease in diastolic BP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systemic infusion of alpha adrenergic blocker",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Systemic infusion of smooth muscle relaxant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Loss of lumbar sympathetic outflow",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Systemic infusion of beta-1 adrenergic agonist",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Loss of lumbar sympathetic outflow",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Loss of lumbar sympathetic outflow Significant decrease in diastolic pressure will be seen because of loss of lumbar sympathetic outflow. Due to trauma if the sympathetic nervous system will not be able to control the cardiovascular system, that would lead to vasodilation that can lead to decrease in diastolic BP.</p>\n<p><strong>Highyeild:</strong></p><p>Effects of stimulation of the sympathetic division: The effect of sympathetic stimulation is an increase in heart rate and blood pressure, mobilization of energy stores, and increase in blood flow to skeletal muscles and the heart while diverting flow from the skin and internal organs. Sympathetic stimulation results in dilation of the pupils and bronchioles . It also reduces GI motility and affects function of the bladder and sexual organs Activation of the sympathetic system causes an increase in heart rate, increase in blood pressure, reduction or thickening of fluid secretions, and constriction of blood vessels. Therefore, inhibition of the sympathetic system should theoretically cause a reduction in heart rate, decrease in blood pressure, increase in fluid secretions, and relaxation of blood vessels. Sympathetic Parasympathetic Sites of origin Thoracic and lumbar region of the spinal cord (thoracolumbar) Brain and sacral area of the spinal cord (craniosacral) Length of fibers Short preganglionic Long postganglionic Long preganglionic Short postganglionic Location of ganglia Close to the spinal cord Within or near effector organs Preganglionic fiber branching Extensive Minimal Distribution Wide Limited Type of response Diffuse Discrete</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is incorrect as systemic infusion of alpha adrenergic blocker will decrease diastolic BP but that decrease will be not significant but a significant decrease in diastolic pressure will be seen because of loss of lumbar sympathetic outflow. Option: B. Is incorrect as Systemic infusion of smooth muscle relaxant will not decrease diastolic BP. Option: D. Is incorrect as Systemic infusion of beta-1 adrenergic agonist will rather increase cardiac contractions and output.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Actions of sympathetic and parasympathetic nervous systems on effector organs.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "904a9ff0",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,1168 @@
+{
+  "meta": {
+    "id": "test6",
+    "title": "Critical Care",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "In type II respiratory failure there is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low pO2 and low pCO2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Normal P(A-a)o2 gradient",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Increased P(A-a)O2 gradient",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Low pO2 and normal pCO2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Normal P(A-a)o2 gradient",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Normal P(A-a)o2 gradient In type 2 RF the PaCo2 is increased. Due to this PA O2  decreases as PaCo2 increases ( inversely related). Formula is PAO2=PIO2-PACo2. PIO2 is inspired oxygen partial pressure. As PAo2 decreases and paO2 is also decreased, the gradient P( A-a) gradient is normal.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0165e479",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following values are suggestive that the patient needs intubation and mechanical ventilation? pO 2 < 50 mmHg Tachypnea > 35/min pH < 7.2 pCO 2 = 40 mmHg Select the correct answer from the below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1, 2, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 2, and 3 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2, and 3 are correct Putting a patient on the ventilator is more or less a clinical criterion but the broad guidelines are: On the basis of blood gas analysis: pO2 < 50 mmHg on room air or < 60 mmHg on FIO2 (inspired oxygen) > 0.5 (50%). pH < 7.25 (acute respiratory failure). pCO2 > 50 mmHg. pO2/FIO2 < 300mmHg. p (A \u2013 a) O2 gradient > 350 mmHg. On the basis of pulmonary functions: Respiratory rate > 35/minute. Vital capacity < 10 ml/kg. Dead space volume (VD/VT) > 0.6 (60%) Tidal volume < 5 ml/kg. Other: Excessive fatigue of respiratory muscles. Loss of protective airway reflexes which makes patient vulnerable for aspiration. Inability to cough adequately.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9b9a8210",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not a feature of volume-controlled ventilation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tidal volume remains constant in spite of the increase in airway pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "There is an increased risk of hypoventilation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "There is an increased risk of barotrauma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. There is an increased risk of hypoventilation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>There is an increased risk of hypoventilation As the tidal volume is predetermined and fixed the risk of hypoventilation is low in volume-controlled ventilation</p>\n<p><strong>Highyeild:</strong></p><p>In the broadest classification, the ventilator may be volume controlled (delivers fixed tidal volume) or pressure controlled (delivers tidal volume till preset pressure is achieved).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- Fix tidal is the most basic feature of volume-controlled ventilation. The ventilator will deliver preset tidal volume irrespective of the airway pressure Option C- Delivering the same tidal volume in a patient with increased airway pressure or decreased lung compliance increases the chances of barotrauma.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fa36935d",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year young patient with bilateral lung contusion post-RTA developed ARDS and was put on a ventilator with controlled mode ventilation. All of the following statements regarding the ventilation of this patient are true: Patient\u2019s own effort is slightly less than normal Hypotension High incidence of barotrauma Increased dead space Select the correct answer from the below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 2, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 3, and 4 are correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 2, 3, and 4 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2, 3, and 4 are correct In controlled mode ventilation there is no patient effort. All breaths are delivered by ventilators at preset tidal volume and preset frequency so it is applied to patients who do not have their respiratory effort at all. Ventilators always deliver positive breath; therefore, the intrathoracic pressure is always positive. Increased airway pressure compresses the venules in alveoli leading to decreased venous return and hence decreased cardiac output. and 4. Increased airway pressure can cause barotrauma (pneumothorax, pneumomediastinum) and increase dead space by over-distending the normal alveoli</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fd0d6eef",
+      "audio": ""
+    },
+    {
+      "text": "In volume cycled ventilator the inspiratory flow rate is set at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "140-160 L/min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "110-130 L/min",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "60-100 L/min",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "30-50 L/min",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 60-100 L/min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>60-100 L/min A flow of 60-70 liter is optimal for the majority of the patients</p>\n<p><strong>Highyeild:</strong></p><p>Inspiratory flow is the velocity with which the breathing gas is supplied to the patient. If the inspiratory flow is less than the patient\u2019s demand then the patient will try to increase his inspiratory effort and this will increase the work of breathing which is not desirable. If the inspiratory flow is high there will be increased airway pressure which can cause barotrauma and increase dead space which is again not desirable. Therefore, a flow of 60-70 liters/minute is adequate (in COPD patients a higher flow rate of 80-100 liters/min is required to increase the expiratory time). Normal initial settings for a ventilator are \u2013 Tidal volume: 6 ml/kg Frequency: 10-12 breaths/min Inspiratory flow rate: 60-70 liters/min I : E ratio = 1:2 Delivered oxygen concentration (FIO2) 50%.</p>\n<p><strong>Extraedge:</strong></p><p>Modern-day ventilators automatically adjust the flows based on patient demands.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "016ee9d5",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year patient with bilateral pneumonitis desaturated and was therefore intubated. The anesthetist put the patient on synchronized intermittent mandatory ventilation. Which of the following is not an advantage of synchronized intermittent mandatory ventilation (SIMV) over controlled mode ventilation (CMV)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased requirement of sedation and muscle relaxant",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Less hypotension",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Less V/Q mismatch",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Weaning is possible",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Increased requirement of sedation and muscle relaxant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Increased requirement of sedation and muscle relaxant As the patient is allowed to take a spontaneous breath in SIMV, there is no need to suppress the patient's effort as needed in controlled mode ventilation therefore there is less requirement for sedation and no requirement for muscle relaxant.</p>\n<p><strong>Highyeild:</strong></p><p>SIMV is the mode in which the ventilator delivers its mandatory breath however that ventilatory breath is synchronized with the patient\u2019s breath; the ventilator will deliver its breath either between the patient spontaneous breaths or synchronizing with the patient\u2019s inspiratory effort, it will not deliver its breath during expiration otherwise there will significant desynchrony between patient and ventilator.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B- There is venous return during spontaneous breath therefore there is less decrease in cardiac output and hence less hypotension. Option C- Less hypotension means less V/Q mismatch. Option D- Since the patient is participating in respiration therefore weaning is possible.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c298be12",
+      "audio": ""
+    },
+    {
+      "text": "You are working as an intern in the Covid ICU. The ventilator of a Covid ARDS patient is stated to show a high peak airway pressure alarm. All of the following could have been the causes of this alarm: Tube blockage Bronchospasm Tube kinking Tube slipped in the esophagus Select the correct answer from the below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1, 2, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 2, and 3 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2, and 3 are correct Accidental extubation, and disconnection will produce low-pressure alarm.</p>\n<p><strong>Highyeild:</strong></p><p>Peak airway pressure indicates the pressure of airways while plateau pressure indicates lung Therefore, any abnormality related to the airway including the artificial airway i.e., the endotracheal tube will produce a peak airway pressure alarm. Statement 1, 2, and 3- Tube blockage by secretions, kinking or bronchospasm will increase the airway pressure and the ventilator will sound a high airway pressure alarm.</p>\n<p><strong>Extraedge:</strong></p><p>A decrease in lung compliance will be shown as high plateau pressure</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0053db43",
+      "audio": ""
+    },
+    {
+      "text": "Which of these are the indications of positive end-expiratory pressure (PEEP)? ARDS Pulmonary edema Interstitial lung disease To decrease bleeding in thoracic surgery Select the correct answer from the below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 2, and 4 are correct",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "2, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1, 2, and 4 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2, and 4 are correct PEEP has no advantage in interstitial lung disease. As lung compliance is low, in fact, PEEP can increase the chance of barotrauma in such patients.</p>\n<p><strong>Highyeild:</strong></p><p>Positive end-expiratory pressure is the positive pressure given at the end-expiration. This positive pressure will prevent the collapse of alveoli during expiration facilitating oxygen diffusion even during expiration. Statement 1 and 2- PEEP is useful in conditions like ARDS and pulmonary edema where oxygen transfer along the alveolar-capillary membrane is impaired. Statement 4- Positive pressure expands the atelectatic lung and decreases bleeding from the thorax by causing a tamponade effect</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e3400a44",
+      "audio": ""
+    },
+    {
+      "text": "A 58-year-old quadriplegic bedridden patient desaturated due to aspiration and put on a ventilator with volume-controlled synchronized intermittent mandatory ventilation. As the patient was not maintaining oxygen saturation a PEEP of 10 cm H20 was added. The patient may face all of the following additional complications due to PEEP except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypotension",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pneumothorax",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Right ventricular strain",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreased pulmonary artery pressure",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Decreased pulmonary artery pressure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreased pulmonary artery pressure PEEP produces overdistension of alveoli which causes compression of arterioles leading to increased pulmonary artery pressure.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- Positive pressure throughout the respiratory cycle by PPEP will increase the intrathoracic pressure. An increase in intrathoracic pressure will decrease the venous return which in turn will decrease the cardiac output and hence hypotension. Option B- PEEP can cause overdistension of alveoli leading to alveolar rupture and dissection of air along the bronchi producing pneumomediastinum, pneumothorax, pneumopericardium, and surgical emphysema. Option C- Increased pulmonary artery pressure can cause RV strain</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e55307c1",
+      "audio": ""
+    },
+    {
+      "text": "Feature of dual control mode:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Volume guarantee",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pressure regulated",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Time cycled",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above Dual-controlled modes are the latest modes that combine the benefit of pressure and volume ensuring that preset tidal volume is delivered with a guarantee (avoiding the risk of hypoventilation) within the preset pressure limits (avoiding the risk of barotrauma)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d910a433",
+      "audio": ""
+    },
+    {
+      "text": "True about CPAP except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Used prophylactically in the baby born with <1Kg or <28wk",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Initiate as early in preterm with respiratory distress",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Initiate with 50-60% of FiO2",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Improves lung compliance and oxygenation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Initiate with 50-60% of FiO2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Initiate with 50-60% of FiO2 Preterm babies are very vulnerable to oxygen toxicity (particularly retrolental fibroplasia causing blindness) therefore CPAP should be started with FIO2 < 0.4 (40%) and switch the patient to room air as early as possible. If the baby is not benefiting then plan mechanical ventilation (do not increase the FIO2)</p>\n<p><strong>Highyeild:</strong></p><p>Prophylactic use of continuous positive airway pressure (CPAP) in infants less than 1 kg or 28-weeks  gestational age has prevented the use of surfactant, avoiding its complications. Earlier the use of CPAP in respiratory distress, better is the outcome.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b0ae0295",
+      "audio": ""
+    },
+    {
+      "text": "Weaning is the slow withdrawal of the ventilator. All of the following statements are true regarding weaning are true except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is it possible to wean the patient from every mode of ventilation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Patient respiratory rate should be less than 25/minute",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Patient must generate a tidal volume of at least 5 ml/kg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rapid shallow breathing index is a very good indicator of weaning",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Is it possible to wean the patient from every mode of ventilation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Is it possible to wean the patient from every mode of ventilation In Controlled mode ventilation (CMV) the patient does not have any spontaneous effort and therefore cannot be weaned. In all other modes there is a patient's own effort so weaning is possible.</p>\n<p><strong>Highyeild:</strong></p><p>Although weaning is a clinical judgment however patient must meet some of the basic weaning criteria which include: Tidal volume>5 ml/kg Vital capacity>10ml/kg Respiratory rate>25/min. Blood gasses should be normal No signs of exhaustion Correction of the condition for which he/she was intubated</p>\n<p><strong>Extraedge:</strong></p><p>Rapid shallow breathing index which is Respiratory rate/ Tidal volume (Liters) is very useful for weaning. A score < 105 indicates that the patient is fit for weaning while a score > 120 indicates that the patient is unfit for weaning</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a66f895d",
+      "audio": ""
+    },
+    {
+      "text": "Not a suitable candidate for ventilation by the following technique:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drowsy patient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prone for aspiration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Severe hypoxemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1724826780209-photos-1724392092184-QTDT040013IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above</p>\n<p><strong>Highyeild:</strong></p><p>Ideal candidates for a trial of non-invasive positive pressure ventilation (NIPPV) i.e., positive pressure ventilation through the mask without intubation are: The patients who are in respiratory failure but there is no urgent need for intubation Conscious and cooperative patients Patients in whom there is no risk of aspiration Face masks could be tightly fitted</p>\n<p><strong>Extraedge:</strong></p><p>NIPPV is contraindicated in: cardiac or respiratory arrest severe hypoxemia high risk of aspiration facial trauma inability to protect airways upper GI bleed</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7927a40b",
+      "audio": ""
+    },
+    {
+      "text": "The most common indication for non-invasive positive pressure ventilation (NIPPV) in ICU is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute exacerbation of COPD",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary edema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ARDS",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pneumonitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Acute exacerbation of COPD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Acute exacerbation of COPD Although NIPPV can be used in respiratory failure due to any cause but most often in chronic settings it is very effectively used for sleep apnea syndrome while in acute settings NIPPV is most frequently applied for acute exacerbation of COPD because COPD patients, if taken on the ventilator, are one of the most difficult patients to be weaned.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C, and D- Traditionally, NIPPV had been used for type II respiratory failure with a brief trial for a few hours in selective type I failures. However, during the Covid epidemic, due to the very high chances of ventilator-associated pneumonia with intubation, NPPIV was tried in a significant number of patients for prolonged periods with variable results. So, still, we do not have enough studies to prove the prolonged use of NIV in type I respiratory failure.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3aa62b41",
+      "audio": ""
+    },
+    {
+      "text": "Most common cause organism responsible for Ventilator-associated pneumonia (VAP):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pseudomonas",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hemophilus influenza",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Pseudomonas",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Pseudomonas Almost 60% of the VAP are caused by Gram-negative Bacilli (most commonly Pseudomonas ) while 40% by Gram-positive Cocci (most commonly Staphylococcus aureus )</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2face318",
+      "audio": ""
+    },
+    {
+      "text": "All of the following can decrease Ventilator-associated pneumonia except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Good Oral care",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Avoid frequent suctioning",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tubes with subglottic aspiration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Head low position",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Head low position",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Head low position To prevent VAP, VAP bundle strategies to be used are: Good oral hygiene Avoid frequent suctioning as it can damage the protective biofilm around endotracheal tubes Use of subglottic suction tubes which can drain secretions accumulated below the cuff Head up the position of 30-45 degrees can prevent micro-aspiration from GIT</p>\n<p><strong>Extraedge:</strong></p><p>Ventilator-associated pneumonia occurs because of the micro-aspiration of microorganisms from the oral cavity, oropharynx, and upper GIT.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "33b5d629",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old patient with an advanced stage of gastric malignancy is scheduled for total parenteral nutrition. All of the following statements are true regarding total parenteral nutrition except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enteral nutrition is always preferred over parenteral nutrition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Subclavian is the most preferred vein",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amino acids should provide 50% of the energy requirement",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fat should provide 30% of the energy requirement",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Amino acids should provide 50% of the energy requirement",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Amino acids should provide 50% of the energy requirement Proteins should never be used as the substrate for energy during total parenteral nutrition. Proteins should be used (1 g/kg/day) to build up muscle mass.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- Enteral route is always preferred over the parenteral route because it is associated with less complications, is less expensive, and prevents atrophy of GI mucosa. Option B- Subclavian is the most preferred vein for total parenteral nutrition because of its large diameter. Option D- The energy requirement should be met 60-70% by carbohydrates and 30-40% by fat.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a4f3b972",
+      "audio": ""
+    },
+    {
+      "text": "Not a complication of total parenteral nutrition:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperglycemia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypoglycemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Respiratory alkalosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hyperchloremic metabolic acidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Respiratory alkalosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Respiratory alkalosis Respiratory acidosis may occur due to increased CO2 production by excessive glucose.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A and B- Hyperglycemia and hypoglycemia may occur due to excessive or deficient glucose. Option D- Hyperchloremic metabolic acidosis may be seen due to excessive chloride content of amino acids.</p>\n<p><strong>Extraedge:</strong></p><p>Other complications of TPN may be: Fat related complications are hyper or hypolipidemia. Amino acid related complications are hyper or hypoproteinemia electrolytic imbalances like hypokalemia or hyperkalemia, hypocalcemia or hypercalcemia, hypo- or hypermagnesemia, and hypernatremia. Complications related to catheters like injury to vital structures, bleeding, infection, or pneumothorax can also be seen during TPN.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "32e8cf18",
+      "audio": ""
+    },
+    {
+      "text": "A young 28-year-old male developed ARDS because of a lung contusion and therefore was intubated and ventilated. Which of the following is not the correct strategy for his ventilation as per the lung protective strategy for ARDS (recent update)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tidal volume- 10 ml/kg",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Plateau pressure <30 cmH20",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Avoiding high PEEP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Permissive hypercapnia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Tidal volume- 10 ml/kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tidal volume- 10 ml/kg The most important component of lung protective strategy is the low tidal volume of 4-6 ml/kg of predicted (ideal) body weight.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B- As plateau pressure indicates the pressure at the alveolar level, it should be monitored to prevent barotrauma. Plateau airway pressure <30 cmH20. Option C- Other components of lung protective strategy are: The minimum PEEP is 5 cm H20 and then titrated Low tidal volume and minimum PEEP are utilized to protect the lung against barotrauma. FIO2< 60%. Hyperoxia can itself cause ARDS which is very difficult to treat, therefore, the lowest possible FIO2 should be used Option D- As low tidal volume increases CO2, the majority of clinicians maintain high CO2 until pH remains > 7.25</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e7c6817a",
+      "audio": ""
+    },
+    {
+      "text": "A 52-year-old Covid ARDS patient is on a ventilator for 3 days. It was found that his PO2/FIO2 ratio was 75. All of the following should be done to manage this patient except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prone ventilation for 4 hours/day",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Muscle relaxant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Extracorporeal membrane oxygenation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prone ventilation for 4 hours/day",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Prone ventilation for 4 hours/day Prone position in ARDS is only applied for moderate to severe ARDS (usually if the P/F ratio is less than 150). One session of proning should be 12-16 hours.  A large study has found improved 28 days mortality with proning.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B- Due to the chances of peripheral neuropathy, muscle relaxants should be restricted only for refractory cases. Option C- Extracorporeal membrane oxygenation is the last resort if all other interventions fail.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bf1455da",
+      "audio": ""
+    },
+    {
+      "text": "Identify the equipment:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mechanical ventilator without a monitor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Infusion pump",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CPAP Machine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High-flow nasal cannula",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. High-flow nasal cannula",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1724826849958-photos-1724392092299-QTDT040021IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>High-flow nasal cannula This is a high-flow nasal cannula (HFNC) that can deliver very high flow (up to 70 L/mt). through the nasal cannula.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- HFNC delivers humidified oxygen and it is necessary to deliver humidified oxygen otherwise dry oxygen with such high flows will inhibit ciliary activity. Inhibition of cilia will lead to the retention of secretions leading to atelectasis. Option B- Such high flow creates a PEEP of 4-5 mmHg. Option D- As airways are filled with oxygen, by decreasing CO2 rebreathing in conducting airways, HFNC decreases the anatomical dead space.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2052f51e",
+      "audio": ""
+    },
+    {
+      "text": "Which is not an obvious advantage of a high-pressure oxygen delivery system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Humidification is preserved",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Can deliver higher concentration as compared to nasal cannula",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreases the need for intubation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Accurate in delivery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Decreases the need for intubation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreases the need for intubation Compared to Non-invasive ventilation HFNC had not been able to show any benefit of avoiding intubation however when compared to simple oxygen delivery devices like nasal cannula or oxygen mask it has been found to decrease the need for intubation. Most often it is compared to NIV.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- HFNC delivers humidified oxygen and it is necessary to deliver humidified oxygen otherwise dry oxygen with such high flows will inhibit ciliary activity. Option B- It is possible to deliver 100% oxygen with high-flow nasal cannula while with nasal cannula maximum oxygen delivered is 44%. Option D- They are accurate in terms of oxygen delivery</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3de54cee",
+      "audio": ""
+    },
+    {
+      "text": "A 42 years old male patient was under home isolation after testing positive for COVID \u201319. He develops breathing difficulty and is brought to the emergency room. The patient is alert, and responsive but the SpO2 of the patient is 86%. He is administered oxygen via a face mask with a reservoir bag at the flow rate of 10L/min. After a trial of 1 hour, the SpO2 is 88%. What is the next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endotracheal intubation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High-flow nasal cannula oxygen therapy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Increase the flow rate to 15 L/min",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No specific intervention is necessary",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High-flow nasal cannula oxygen therapy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>High-flow nasal cannula oxygen therapy If the patient does not respond to oxygen therapy by oxygen delivery devices and the patient is in mild to moderate hypoxemia and not severely tachypneic, a trial of high flow nasal cannula or non-invasive ventilation can be given. If available high flow nasal cannula should be tried before non-invasive ventilation</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- Intubation is done only if the patient is severely hypoxemia, severely tachypneic, or is not responding to high flow nasal cannula or non-invasive ventilation Option C- Maximum flow that can be delivered with an oxygen mask is 10 L because the maximum output of 60% FIO2 is seen at 10 liters Option D- The patient is desaturating therefore intervention is a must.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b97c976c",
+      "audio": ""
+    },
+    {
+      "text": "Ventilator support is required if SpO2 becomes less than 90% because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central chemoreceptors become insensitive to hypoxia below 90%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Peripheral chemoreceptors become insensitive to hypoxia below 90%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tissues become vulnerable to hypoxia below 90%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The patient\u2019s capacity to generate adequate tidal volume decreases below 90%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tissues become vulnerable to hypoxia below 90%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tissues become vulnerable to hypoxia below 90% Below the oxygen saturation of 90%, there occurs a sudden fall in SpO2 due to the sigmoid shape of the oxygen dissociation curve putting tissues at risk of hypoxia.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A and B- Central and peripheral remain responsive below spo2 of 90% Option D- The patient\u2019s capacity to generate tidal volume is not affected by oxygen saturation</p>\n<p><strong>Extraedge:</strong></p><p>Factors affecting the oxygen dissociation curve To Left To Right Alkalosis Acidosis Low pCO 2 High pCO 2 Decreased 2,3 DPG Increased 2,3 DPG Carbon monoxide poisoning Hyperthermia Abnormal hemoglobins like methemoglobin, fetal hemoglobin, etc. Inhalational anesthetics Hypophosphatemia Hypothermia</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "34d3aef9",
+      "audio": ""
+    },
+    {
+      "text": "Chest trauma patient, which is not the initial ventilator setting:",
+      "options": [
+        {
+          "label": "A",
+          "text": "FiO2 = 60%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tidal volume 10-15 ml /kg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "PEEP 0-5 cm H2O",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inspiratory flow 60-100 liter",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tidal volume 10-15 ml /kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tidal volume 10-15 ml /kg One of the most important components of lung protective strategy is the low tidal volume of 4-6 ml/kg</p>\n<p><strong>Highyeild:</strong></p><p>Lung protective strategy is meant to prevent barotrauma therefore other components of lung protective strategy are: Plateau pressure less than 30 cmH20 Starting PEEP of 0- 5 cmH20 and then titrate based on pO2 and plateau pressure</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- One more component of lung protective strategy is to prevent oxygen-related toxicity, therefore, FIO2 should be kept below 60% Option C- As PPEP can cause barotrauma, therefore, minimum PEEP should be used Option D - A flow of 60-70 liter is optimal for the majority of the patients</p>\n<p><strong>Extraedge:</strong></p><p>Inspiratory flow is the velocity with which the breathing gas is supplied to the patient. If the inspiratory flow is less than the patient demand then the patient will try to increase his inspiratory effort and this will increase the work of breathing which is not desirable. If the inspiratory flow is high there will be increased airway pressure which can cause barotrauma and increase dead space which is again not desirable. Therefore, a flow of 60-70 liters/minute is adequate (in COPD patients a higher flow rate of 80-100 liters/min is required to increase the expiratory time). Modern-day ventilators automatically adjust the flows based on patient demands.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dc6c6fde",
+      "audio": ""
+    },
+    {
+      "text": "The patient admitted in the ICU was put on elective ventilation for the last 2 days. Sources of nosocomial infection would be all, except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tracheal tubes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Humidified oxygen",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Central venous catheter",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Foley catheter",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Humidified oxygen",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Humidified oxygen Humidified oxygen by improving the ciliary activity will enable the patient to clear his/her secretion thereby reducing the chances of nosocomial pneumonia.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- Tracheal tubes can introduce infection from the oropharynx during insertion or there occur micro aspirations which can cause ventilator-associated pneumonia Option C- Central venous catheter can introduce infection during insertion or may act as a nidus for transmission of infection Option D- A most common cause of ICU infection is urinary accounting for 40%- 50% of infections.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "12ffc66f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following inhaled gas is used to decrease pulmonary artery pressure in adults and infants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitrous oxide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nitrogen dioxide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nitric oxide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Nitrogen",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nitric oxide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Nitric oxide Nitric oxide by its action as a selective pulmonary vasodilator is helpful in the treatment of ARDS because ARDS is associated with pulmonary hypertension. Explanation for incorrect options: - Option A- Nitrous oxide is a pulmonary vasoconstrictor therefore must not be used in patients with ARDS Options B and D- Nitric dioxide and nitrogen has no effect on pulmonary vasculature</p>\n<p><strong>Extraedge:</strong></p><p>It was found in studies that the use of nitric oxide did not improve survival therefore it is hardly used in current-day practice.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c62d5baf",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old COPD patient is admitted to ICU with tachypnea (RR- 28/mt), SpO2 -88%, and PCO2 -68 mmHg. Not to be done in the management of this patient:",
+      "options": [
+        {
+          "label": "A",
+          "text": "CPAP (continuous positive airway pressure)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Flow rate of 8-10 liters during oxygen therapy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Low breath rate in a patient on ventilator",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High inspiratory flow in a patient on ventilator",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Flow rate of 8-10 liters during oxygen therapy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Flow rate of 8-10 liters during oxygen therapy COPD patients are dependent on their hypoxic drive. Increased oxygen can precipitate apnea therefore, during oxygen therapy a low flow rate (1-2 liters/min) should be maintained. Explanation for incorrect options: - Option A- COPD patients with type II respiratory failure are the most ideal candidates for CPAP or Bi-PAP (Bilevel positive airway pressure) through non-invasive ventilation. Options C and D- COPD patients should be put on a ventilator on clinical judgment rather than by blood gas values. The patient on the ventilator should be given low breath (6-8/minutes) and high inspiratory flows (80-100 L/min) to increase exhalation time.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "209b34dd",
+      "audio": ""
+    },
+    {
+      "text": "Not a suitable sedative commonly used in intensive care:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thiopentone",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Midazolam",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fentanyl",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Propofol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Thiopentone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Thiopentone Thiopentone because of its very long life and high incidence of delirium is not preferred for sedation in ICU</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B and C- Most commonly used sedatives in ICU are Midazolam and opioids (usually fentanyl but morphine can also be used). Option D- Propofol is used sometimes, however, should be avoided for prolonged periods due to the possibility of Propofol infusion syndrome.</p>\n<p><strong>Extraedge:</strong></p><p>Dexmedetomidine is gaining popularity for infusion in ICU particularly if there is a plan for weaning.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4bfacd27",
+      "audio": ""
+    },
+    {
+      "text": "Vasopressor of option in septic shock:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adrenaline",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phenylephrine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dobutamine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nor-adrenaline",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Nor-adrenaline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Nor-adrenaline Nor-adrenaline is the vasopressor of option in septic shock</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A- Adrenaline is the vasopressor of the last resort Option B- phenylephrine is the vasopressor of Option for neurogenic shock Option D- Dobutamine is preferred for cardiogenic shock</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "89f2f879",
+      "audio": ""
+    },
+    {
+      "text": "Damage controlled resuscitation (DCR) include empirical transfusion of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Packed cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fresh frozen plasma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Platelets",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above Damage controlled resuscitation (DCR) is employed during the early phase (phase 1) of massive hemorrhage. It includes hypotensive resuscitation + hemostatic Hypotensive resuscitation means maintaining systolic blood pressure between 80 -100 mmHg because a sudden increase in BP may dislodge the clot removing the tamponade effect. Hemostatic resuscitation means replacing blood products. Ideally, blood products should be replaced after checking the levels of hemoglobin, INR and platelets, and the deficit factors should be replaced however during damage control resuscitation, due to lack of time empiric blood products, packed cells: platelets: fresh frozen plasma are given in the ratio of 1:1:1. In addition Tranexamic acid should also be given within 1 hour</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0733ce1f",
+      "audio": ""
+    },
+    {
+      "text": "Not a goal of early resuscitation:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systolic blood pressure >100 mm Hg",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Platelet count >50000",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hematocrit of 25%-30%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Core temperature higher than 35\u00b0C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Systolic blood pressure >100 mm Hg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Systolic blood pressure >100 mm Hg Systolic blood pressure should be maintained between 80-100 mmHg otherwise sudden increase in BP may lead to dislodgement of the clot eliminating the tamponade effect of the clot.</p>\n<p><strong>Highyeild:</strong></p><p>The major early goals of resuscitation are: To maintain the systolic blood pressure of 80-100 mm Hg Maintain hematocrit of 25%-30% Normal coagulation profile Platelet count > 50,000 Maintain hypothermia (core temperature > 35\u00b0C)</p>\n<p><strong>Extraedge:</strong></p><p>Late goals: Late resuscitation begins once bleeding is definitively controlled. Maintain systolic blood pressure > 100 mm Hg Maintain Urine output > 0.5 ml/kg/hr. Maintain hematocrit Correct coagulation, electrolyte imbalance, and acidosis Normalize body temperature Decrease lactate to normal range Assess the tissue perfusion by measuring mixed venous oxygen tension (SVO2), urine output, and serum lactate levels</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "80fa2712",
+      "audio": ""
+    },
+    {
+      "text": "Not a part of the acute septic bundle:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Appropriate cultures",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lactate level",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Appropriate antibiotics",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Steroids",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Steroids",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Steroids The acute septic bundle should be completed within 6 hours It includes: Obtaining appropriate cultures and giving antibiotics Obtaining baseline plasma lactate level To resuscitate to achieve the following goals: CVP = 8 \u201312 mm Hg MAP \u2265 65 mm Hg Urine output \u22650.5 mL/kg/hour Venous oxygen saturation \u2265 65% Steroids (if needed) Blood glucose management Steroids and blood glucose management should be completed in 24 hours).</p>\n<p><strong>Extraedge:</strong></p><p>Recently a concept of the golden hour has been added. The following should be completed in one hour: Obtaining appropriate cultures and giving antibiotics Obtaining baseline plasma lactate level Initiation of resuscitation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "115f3b31",
+      "audio": ""
+    },
+    {
+      "text": "After contrast media injection in the radiology department a patient develops severe hypotension, bronchospasm, and cyanosis. Which of the following should be used for treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atropine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Aminophylline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dopamine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Adrenaline",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Adrenaline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Adrenaline The main cornerstone of drug therapy for anaphylaxis is Adrenaline.</p>\n<p><strong>Highyeild:</strong></p><p>In anaphylactic shock, the preferred route is I/M. It can be used through nebulization. The IV route can be utilized for life-threatening SC route has very slow and unreliable absorption therefore is not recommended. As the patient may have bronchospasm other drugs which can be given are: Steroids \u2013 IV or through nebulization Antihistaminic Bronchodilators</p>\n<p><strong>Extraedge:</strong></p><p>Concentration through I/M, S/C, and nebulization is 1:1000 (undiluted) while IV concentration is 1: 10,000.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e155bfa3",
+      "audio": ""
+    },
+    {
+      "text": "A young man weighing 65 kg was admitted to the hospital with severe burns in a severe catabolic state. An individual in this state requires 40 kcal/kg/day and 2 g of proteins/kg/day. This young man was given a solution containing 20% glucose and 4.25% protein. If 3,000 ml of solution is infused per day:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient would not be getting sufficient proteins",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The calories supplied would be inadequate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Both calories and proteins would be adequate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Too much protein is being infused",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The calories supplied would be inadequate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>The calories supplied would be inadequate Caloric requirement (@ 40 kcal/kg) = 65 \u00d7 40 = 2,600 kcal/ day. Protein requirement (@ 2 g/kg) 65 \u00d7 2 = 130 g/ day. 3,000 ml of 4.25% solution will provide 4.25/100 \u00d7 3,000 = 137.5 g protein i.e., adequate proteins 3,000 ml of 20% glucose contains 600 g of glucose (20% means 20 g in 100 ml so 600 g in 3,000 ml). 600 g of glucose will provide 600 \u00d7 3.2 (1 g liquid glucose provides 3.2 kcal instead of 4 kcal provided by solid carbohydrates) = 1,920 means inadequate calories.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7a0ada4b",
+      "audio": ""
+    }
+  ]
+}

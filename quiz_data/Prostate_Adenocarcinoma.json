@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "id": "test94",
+    "title": "Prostate Adenocarcinoma",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "An elderly male with complaints of urinary retention was diagnosed with Prostate carcinoma. Gleason\u2019s grading system is used for prognosis. The score is determined by evaluating which histological feature in prostate cancer.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tumor size",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lymph node involvement",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mitotic activity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Architectural patterns",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Architectural patterns",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Architectural patterns The Gleason score in prostate cancer is determined by evaluating the architectural patterns observed in the tumour tissue. The higher the Gleason score, the more aggressive and poorly differentiated the prostate cancer cells are considered to be. It helps in determining the prognosis and guiding treatment decisions for patients with prostate cancer.</p>\n<p><strong>Highyeild:</strong></p><p>Prostatic adenocarcinoma Common in males >50 years old Arises from the peripheral zone or posterior lobe of the prostate Tumour marker: Prostatic acid phosphatase and PSA PSA: Increased total PSA, with a decreased fraction of free PSA Metastasis: Osteoblastic metastasis in the spine (most often which occurs via Bastson venous plexus ) Histologically graded with Gleason grade which is based on glandular architecture</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Tumor size: Tumor size is not directly assessed or considered when determining the Gleason score in prostate cancer. Option: B. Lymph node involvement: Lymph node involvement is not directly assessed when determining the Gleason score. Option: C. Mitotic activity: While mitotic activity is an important factor in assessing the aggressiveness of tumours in general, it is not specifically used to determine the Gleason score in prostate cancer.</p>\n<p><strong>Extraedge:</strong></p><p>Prostate-zones</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b4c1d880",
+      "audio": ""
+    },
+    {
+      "text": "What is the normal upper limit of prostate-specific antigen for a 65 years old male?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.5 ng/mL",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4.5 ng/mL",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "5.5 ng/mL",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6.5 ng/mL",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 4.5 ng/mL",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>4.5 ng/mL The normal upper limit of prostate-specific antigen (PSA) can vary depending on factors such as age, race, and individual characteristics. However, a commonly used threshold for the normal upper limit of PSA in 65 years old me n without prostate abnormalities is 5 ng/mL</p>\n<p><strong>Highyeild:</strong></p><p>Prostate-specific antigen Product of prostatic epithelium Secreted in semen Older men have higher PSA than younger males Age PSA upper limb (ng/mL) 40-49 years 2.5 50-59 years 3.5 60-69 years 4.5 70-79 years 6.5</p>\n<p><strong>Extraedge:</strong></p><p>Six variants in PSA value Age-specific: raising the PSA threshold in older men improves specificity PSA velocity: Rate of change of PSA with time. According to a BLSA study, a PSA velocity of more than 0.75 ng/mL/year shows increased prostate cancer PSA density: Ratio of serum PSA and volume of prostate Rate of free-to-bound serum PSA Free versus total PSA Pro-PSA</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7106857b",
+      "audio": ""
+    }
+  ]
+}

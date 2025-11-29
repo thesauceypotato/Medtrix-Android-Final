@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "id": "test49",
+    "title": "ECG & Ischemic Heart Disease",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following statements is true regarding myocardial infarction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chest pain on palpation is suggestive of myocardial infarction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Normal ecg at presentation excludes myocardial infarction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Normal baseline troponin and elevated 6-hour troponin suggests myocardial infarction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "T-wave inversion <0.1mv confirms myocardial infarction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Normal baseline troponin and elevated 6-hour troponin suggests myocardial infarction",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Normal baseline troponin and elevated 6-hour troponin suggests myocardial infarction A normal baseline troponin and elevated 6-hr troponin suggest myocardial infarction. Patients presenting with symptoms suggestive of myocardial infarction should undergo measurement of cardiac biomarkers. The preferred biomarkers can be ac troponin T (ctnt) or i(ctnl). The admission troponin level may be normal if the patient presents early after the onset of symptoms. The troponin levels we assessed at the time of presentation, and 3-6 hrs after the onset of symptoms. If the 6-hour troponin level is normal then acute coronary syndrome is unlikely to explain the patient's chest pain. An elevated troponin level is most likely suggestive of myocardial infarction and should be interpreted along with other investigations such as electrocardiographic changes and cardiac imaging to confirm the diagnosis. Levels of ctni and ctnt may remain elevated for 7-10 days after stemi.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Chest pain reproducible on palpation is unlikely due to myocardial infarction. It is usually suggestive of a neuromuscular condition such as costochondritis, or trauma/strain. Option: B . A normal at the time of presentation alone does not exclude myocardial infarction. In the case of normal ecg, other investigations including cardiac biomarkers and imaging are done. Option: D . The likelihood of myocardial infarction based on t-wave inversion is high if 0. 2 mv, and intermediate, if >0. 1 mv.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5752fc3a",
+      "audio": ""
+    },
+    {
+      "text": "A 68-year-old man is hospitalized after suffering a mild stroke. While in the hospital, he suddenly develops crushing substernal chest pain. Analysis of serum proteins and ecg confirm a diagnosis of acute myocardial infarction. The patient subsequently develops an arrhythmia and expires. A cross-section of the left ventricle at autopsy is shown in the image. Histologic examination of the affected heart muscle would demonstrate which of the following morphologic changes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Caseous necrosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Coagulative necrosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fat necrosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fibrinoid necrosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Coagulative necrosis",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748771883-QTDM014002IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Coagulative necrosis The given histological finding can be compared with typical coagulative necrosis, which is one of the findings of acute myocardial infarction. Coagulative necrosis is a type of accidental cell death typically caused by ischemia or infarction. In coagulative necrosis, the architectures of dead tissue are preserved for at least a couple of days.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. - Caseous necrosis is a type of cell death that causes tissues to become \u201ccheese-like\u201d in appearance. The most common cause is tuberculosis, where granulomas form in the lungs. Option: C. - Fat necrosis happens when inflammation affects the supply of blood and oxygen to body fat, causing fat cells to die. It can happen after an injury, surgery, or radiation treatment. Fat necrosis commonly affects the breasts, which can lead to lumps, skin changes, and oil cysts. These changes are not cancerous. Option: D. - Fibrinoid necrosis is a specific pattern of irreversible, uncontrolled cell death that occurs when antigen-antibody complexes are deposited in the walls of blood vessels along with fibrin. It is common in immune-mediated vasculitis which is a result of type III hypersensitivity.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "819125cb",
+      "audio": ""
+    },
+    {
+      "text": "Several of the older patients in your practice intend to pursue exercise programs. They have no cardiac symptoms, but some do have vascular risk factors such as diabetes or hypertension. In these patients, which of the following is true about exercise electrocardiography?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an invasive procedure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It is contraindicated in patients over 65 years of age",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It detects latent disease",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "It has a morbidity of approximately 5%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. It detects latent disease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>It detects latent disease Exercise electrocardiography represents an increasingly popular non-invasive method for early detection of latent ischemic heart disease. As with other diagnostic tests, the exercise ECG is of most clinical value when the pre-test probability of disease is moderate (i.e., 30\u201370%) . In men over 40 and women over 50 who plan to start vigorous exercise, the use of exercise ECG is possibly, but not definitely, supported by the evidence.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A . It\u2019s a non-invasive procedure Option: B . Contraindications to exercise stress testing include rest angina within 48 h, unstable rhythm, severe aortic stenosis, acute myocarditis, uncontrolled heart failure, severe pulmonary hypertension, and active infective endocarditis. Option: D. The risks of exercise testing are small but real\u2014estimated at one fatality and two nonfatal complications per 10, 000 tests\u2014equipment for resuscitation should be available.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "67576da2",
+      "audio": ""
+    },
+    {
+      "text": "A 40 year politician suffered from chest pain diagnosed as angina pectoris. He had a tense personality, resting HR was 96/min, bp 170/104mm hg but blood sugar & lipid profile were normal. Select the most suitable antihypertensive for the initial therapy:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nifedipine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydrochlorothiazide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atenolol",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Methyldopa",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Atenolol",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Atenolol Tense personality and high resting heart rate (96/min. ) make \u03b2-blockers ideal candidate drugs to be used in this case. As blood sugar and lipid profiles are normal, beta-blockers can be used safely.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A . Nifedipine is dhp group act on vascular smooth muscle, used in the vasospastic type of angina. Option: B . Hydrochlorothiazide inhibits NaCl reabsorption in early dct, used in hypertension and hf. Option: D. Methyldopa is sympatholytic (alpha-2 agonist), used in hypertension of pregnancy</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c714650a",
+      "audio": ""
+    },
+    {
+      "text": "A 76-year-old man with uncontrolled hypertension is experiencing typical angina pain that is relieved with rest and sublingual nitro-glycerine. He has a high blood pressure and a low heart rate. The most appropriate therapy for angina at this time would be?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ranolazine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Verapamil",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amlodipine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Amlodipine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Amlodipine Amlodipine is a DHP group of ccb that act on vascular smooth muscle, and controls blood pressure without further reducing heart rate .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. Ranolazine inhibits the late phase of inward sodium current thereby reducing diastolic wall tension and oxygen consumption. Doesn\u2019t affect heart rate, used in refractory angina. Option B . Verapamil is non-dhp group of ccb that act on the heart by decreasing contractility, higher doses cause cardiac depression. Option C. Metoprolol is a beta blocker that acts by decreasing av conduction velocity, and can't be used in low heart rate conditions.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a1c572bd",
+      "audio": ""
+    },
+    {
+      "text": "A 53-year-old patient is brought to the hospital with a 14-minute history of severe chest pain and dyspnoea. He is given nitrates, to which he is unresponsive. An ECG is performed (see the ECG below). Which of the following can be the possible diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Angina pectoris",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inferior myocardial infarction",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary embolism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anterior myocardial infarction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inferior myocardial infarction",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748771902-QTDM014007IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Inferior myocardial infarction St- elevation in lead ii, iii, and aVf shows infarct localisation in the inferior myocardial wall.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Stable angina- st depression unstable \u2013 st depression +/- and /or t wave inversion vasospastic \u2013 transient st elevation Option: C . Pulmonary embolism shows sinus tachycardia or, less commonly, s1q3t3 abnormality. Option: D . Infarct localisation of anterior myocardial wall is seen in the chest leads v3-v6.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5833e550",
+      "audio": ""
+    },
+    {
+      "text": "A 42-year-old man presents with central, crushing chest pain that radiates to the jaw. The pain occurred while jogging around the local park. The pain was alleviated with rest. The ecg is normal. Diagnosis is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Angina pectoris",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Acute pericarditis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stemi",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nstemi",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Angina pectoris",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Angina pectoris The patient is having chest pain on jogging which is a presentation of chronic stable angina. It is aggravated by cold, anxiety, and by exercise. In the case of a normal resting ECG, an exercise ECG should be obtained. All other choices present with chest pain on rest.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Ecg shows widespread st segment elevation and/or pr depression. Option: C . St elevation, pathologic q waves Option: D . St depression</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1b0346ce",
+      "audio": ""
+    },
+    {
+      "text": "The following drug is used to reduce the frequency of angina pectoris as well as to terminate an acute attack in the setting of cardiac dysfunction ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digoxin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Furosemide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Enalapril",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Digoxin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Digoxin The action of the glycoside and other positive inotropic agents on mvo2 is dependent on the integrity of cardiac function and myocardial oxygen needs prior treatment . In the settings of ventricular failure, and elevated basal oxygen needs, the administration of digitalis would be expected to lower mvo2 and diminish myocardial ischemia. This appears to be the mechanism of action of digitalis in the relief of angina pectoris in the presence of cardiac dysfunction. Though the DOC for an acute attack is nitro-glycerine.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B . Loop diuretic not used in acute condition Option: C . Ace inhibitors not useful in this condition Option: D . Amiodarone is a type iii pde inhibitor used for short-term treatment of heart failure.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6cd5af57",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not a contraindication to non-invasive ventilation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Facial surgery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Upper gi bleeding",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Severe encephalopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Unstable angina",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Unstable angina",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Unstable angina Unstable angina is not anymore, a common contraindication of non-invasive ventilation.</p>\n<p><strong>Highyeild:</strong></p><p>Contraindications for Noninvasive Ventilation Cardiac or respiratory arrest Severe encephalopathy Severe gastrointestinal bleed Hemodynamic instability Unstable angina and myocardial infarction Facial surgery or trauma Upper airway obstruction High-risk aspiration and/or inability to protect airways Inability to clear secretions</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Facial surgery is a contraindication of non-invasive ventilation. Option: B. Upper gi bleeding is a contraindication of non-invasive ventilation. Option: C. Severe encephalopathy is a contraindication of non-invasive ventilation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7fcb3285",
+      "audio": ""
+    },
+    {
+      "text": "The given coronary artery angiogram is from a 68-year-old man with recurrent angina. It reveals 90% stenosis of the left anterior descending (lad) artery, indicated by the white arrow. Based upon this finding, which portion of the heart is most likely susceptible to ischemic damage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior two-thirds of interventricular septum",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Posterior one-third of interventricular septum",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atrioventricular (av) node",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diaphragmatic surface of left ventricle",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Anterior two-thirds of interventricular septum",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686748771926-QTDM014011IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Anterior two-thirds of interventricular septum Anterior two-thirds of interventricular septum. The artery that anatomists entitle the anterior interventricular branch of the left coronary artery is often called the lad artery by physicians in the clinic. This nomenclature is important because this artery represents the most commonly occluded coronary artery in myocardial infarctions (heart attacks). As its anatomical name implies, it supplies the anterior two-thirds of the interventricular septum, so this portion of the heart would most likely be damaged following an ischemic event due to a 90% stenosis of the lad.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B . (posterior one-third of the interventricular septum) is incorrect. The posterior one-third of the interventricular (iv) septum is usually supplied by the posterior iv branch of the right coronary artery, so this part of the heart would most likely not be damaged in this patient. Option: C . (atrioventricular [av] node) is incorrect. The right coronary artery gives off the av nodal branch in most cases, so this part of the conducting system of the heart would not be damaged in this patient. Option: D. (diaphragmatic surface of the left ventricle) is incorrect. The diaphragmatic surface of the left ventricle is usually supplied by the posterior iv branch of the right coronary artery, so this part of the heart would most likely not be damaged in this patient.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6454ab0e",
+      "audio": ""
+    },
+    {
+      "text": "A 53-year-old man presents to a casualty with severe chest pain. He has a history of angina. Ecg shows st elevation of 4 mm in leads v1 and v4. Thrombolysis has been done but pain and ECG findings are persisting 90 minutes after the start of thrombolysis. What is the best management of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rescue PCI",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Primary PCI",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Delayed PCI",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Iv abciximab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Rescue PCI",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Rescue PCI The patient is having a failure of thrombolysis. In case of failure of thrombolysis, rescue PCI is performed. Primary PCI is done for STEMI.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B - Primary PCI is done for STEMI Option: C - Delayed PCI is done for NSTEMI and hence is ruled out. Option: D- IV abciximab is not the best management.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "85184316",
+      "audio": ""
+    },
+    {
+      "text": "Most appropiate Histopathological finding after 12 hours of ischemic injury to heart is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peak of Coagulation necrosis of myocytes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hyper-eosinophilia of myocytes",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Karyorrhexis of myocytes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Neo capillary invasion of myocytes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hyper-eosinophilia of myocytes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hyper-eosinophilia of myocytes</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A - coagulation necrosis peak = 1-3 days Option: C- possibly within 12 hours Option: D - 10-12 days</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "10e551c8",
+      "audio": ""
+    },
+    {
+      "text": "All are true about myocardial response and changes to myocardial infarction except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Waviness of fibres at the border of the infarct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Loss of contractility within 2 minutes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Neutrophilic infiltrates in the first 48 hours",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Reversible injury within 20-40 minutes",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Reversible injury within 20-40 minutes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Reversible injury within 20-40 minutes It is a false statement because the irreversible injury is 20-40 mins.</p>\n<p><strong>Highyeild:</strong></p><p>Myocardial response Feature Time Cessation of aerobic respiration or onset of ATP depletion Seconds ATP reduced to 50% of normal 10 minutes Irreversible cell injury 20-40 minutes Microvascular injury > 1-hour</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A -Waviness of fibres at the border of the infarct is true Option: B -Loss of contractility within 2 minutes is true Option: C -Neutrophilic infiltrates in the first 48 hours are true</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c19c5589",
+      "audio": ""
+    }
+  ]
+}

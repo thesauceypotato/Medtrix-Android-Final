@@ -1,0 +1,999 @@
+{
+  "meta": {
+    "id": "test30",
+    "title": "Translation, Codons & Mutations",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A patient admitted to the hospital was diagnosed with diphtheria. His immunization record tells that the patient had never been vaccinated against this pathogen. Protein synthesis in this patient\u2019s cells is inhibited due to the inhibition of ADP-ribosylation of elongation factor. Which of the following is the donor of ADP-ribose for ADP-ribosylation reactions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adenosine triphosphate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adenosine monophosphate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nicotinamide adenine dinucleotide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Flavin mononucleotide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nicotinamide adenine dinucleotide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Nicotinamide adenine dinucleotide ADP-ribosylation NAD+ acts as the source of ADP-ribose. Different bacterial toxins affect the ADP ribosylation of different proteins as shown below.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1f27d672",
+      "audio": ""
+    },
+    {
+      "text": "Genetic code is the sum of all the codons which code for the amino acids in the proteins of a given organism. All the following are salient features of the genetic code, EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Degeneracy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unambiguous",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Punctuated",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Non-overlapping",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Punctuated",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Punctuated Salient features of genetic code: Degeneracy: Each amino acid has more than 1 codon Unambiguous: each codon is specific for its amino acid e.g. AUG will always code for methionine Non-overlapping and Comma less: means that the codon is read from a fixed starting point as a continuous sequence of bases, taking three at a time, without any punctuation between codons. e.g. AUCGGGACUGCA will be read as AUC GGG ACU GCA 4. Universal : genetic code has been well conserved during evolution with only slight differences</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "329907f5",
+      "audio": ""
+    },
+    {
+      "text": "A mutation in a gene has caused the insertion of a nonsense codon in the corresponding protein. If this is caused by a single nucleotide change, the original codon may have coded for which one of the following amino acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alanine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Proline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phenylalanine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tryptophan",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Tryptophan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tryptophan A nonsense codon is the conversion of a codon to a stop codon. The stop codons are UGA, UAG, and UAA. The codon for Trp is UGG, which can be converted to UGA or UAG with a single nucleotide change. None of the other amino acid codons, with a single nucleotide change, can be converted into a stop codon. Consult the genetic code below for more understanding:</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3e351bcc",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following post-translational modification process is Irreversible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acylation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phosphorylation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ubiquitination",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "ADP ribosylation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ubiquitination",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ubiquitination Post-translational modifications REVERSIBLE IRREVERSIBLE Disulfide bridge Proteolysis Glycosylation Ubiquitination Phosphorylation Lysine hydroxylation Acylation Proline hydroxylation N-acetylation Methylation ADP-ribosylation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "77aeeacf",
+      "audio": ""
+    },
+    {
+      "text": "Assume 4 nucleotides code for an amino acid. What is the number of amino acids coded possible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "16",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "24",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "256",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 256",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>256 This question assumes: 1 nucleotide code\u2192 4 amino acids 2 nucleotide code \u2192 4 x 4 = 16 amino acids 3 nucleotide code \u2192 4 x 4 x 4= 64 amino acids 4 nucleotide code \u2192 4 x 4 x 4 x 4 = 256 amino acids</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "75fba3a4",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are synonymous codon pairs EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "CAU & CAC",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "AUU & AUC",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "AUG & AUA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "AAU & AAC",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. AUG & AUA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>AUG & AUA Synonymous codons Codons that specify the same amino acids. g. GGA, GGG, GGU, and GGC codes for glycine Methionine is coded by AUG only. So, there is no synonymous codon for methionine.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "988a6356",
+      "audio": ""
+    },
+    {
+      "text": "What sequence on the template strand of DNA corresponds to the first amino acid inserted into a protein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3' TAC 5'",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "3' UAA 5'",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3' UAG 5'",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3' AUG 5'",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 3' TAC 5'",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>3' TAC 5' 3' TAC 5' corresponds to the first amino acid inserted into a protein AUG is the codon for the 1st amino acid Template strand Strand of DNA which is being copied by the RNA polymerase. So, it will be complementary to the AUG. The complementary sequence of AUG is 3' TAC 5' hence the answer. Also, DNA does not contain Uracil. Thus options B, C, and D can be easily ruled out.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "42487a54",
+      "audio": ""
+    },
+    {
+      "text": "tRNA functions as a carrier of correct amino acid to mRNA-ribosome complex for insertion in growing polypeptide chain. Which of the following is NOT a component of tRNA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "D-loop",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "T\u03c8C loop",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Codon arm",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Variable loop",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Codon arm",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Codon arm Component Function Acceptor stem The hydroxyl group of adenosyl nucleotide forms an ester bond with the carboxyl group of amino acid. DHU arm (DiHydroUridine) or D arm Recognition by specific aminoacyl tRNA synthetase Anticodon arm Base pairs with the codon of mRNA T\u03c8C arm (RiboThymidine, Pseudouridine (\u03c8), Cytidine) Ribosomal recognition by Non-covalent binding of A-site of the ribosome during initiation and elongation Variable loop Unique sequences that are specific for that particular tRNA.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "28caa649",
+      "audio": ""
+    },
+    {
+      "text": "Post-translational modification (PTM) refers to the covalent modification of amino acid residues of proteins following protein biosynthesis and is useful for enhancing the chemical functionality of a protein. Which of the following is an example of PTM?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glutamate to Glutamine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Proline to Hydroxyproline",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Aspartate to Asparagine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Leucine to Isoleucine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Proline to Hydroxyproline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Proline to Hydroxyproline Proline has its own codons, hydroxy proline does not. Hydroxyproline is formed from proline by post-translational modification. Glutamate to glutamine is a mutation, not post-translational modification. The same is true for options C and D.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8e88bde5",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is/are true for translation? Translocation of amino acid requires hydrolysis of 2 GTP Initiator tRNA binds to the P site Activation of amino acid by aminoacyl tRNA synthetase requires 1 high-energy phosphate bond Aminoacyl tRNA enters at the P site Aminoacyl tRNA enters at A site Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2, and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4, and 5 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2, and 5 are correct",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 2, and 5 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2, and 5 are correct Ribosomal proteins provide the scaffold for protein synthesis. tRNA binding sites in ribosome A site Aminoacyl tRNA entry site P site Peptidyl site (the site where the growing polypeptide is located) E site Exit site where the empty tRNA leaves \u25cf        Initiator tRNA is the only tRNA that enters the P-site. \u25cf        All others enter A site. Activation of amino acid by aminoacyl tRNA synthetase requires 2 high-energy phosphate bonds Translocation of amino acid from A site to P site requires hydrolysis of 1 GTP</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "102bf221",
+      "audio": ""
+    },
+    {
+      "text": "During eukaryotic protein synthesis, phosphorylation of which of the following is enhanced by insulin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "eIF4E",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "eIF4G",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "eIFA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "eIF2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. eIF4G",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>eIF4G Insulin phosphorylates both 4E -binding protein and eIF -4G. The 4F complex consists of eIF-4E (4E), eIF-4A, and eIF-4G. 4E is inactive when bound by one of a family of binding proteins (4E-BPs). Insulin and mitogenic growth polypeptides, or growth factors activate the PI3 kinase/AKT kinase pathways, which activate the mTOR kinase, and result in the phosphorylation of 4E-BP. Phosphorylated 4E-BP dissociates from 4E, and the latter is then able to form the 4F complex and bind to the mRNA cap.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "35d787b3",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statement regarding mutation is wrong?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mutations within the exon can be detrimental and mutation in introns will not change the protein",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mutation of the TATA box markedly reduces the transcription",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A change of purine by a pyrimidine is known as a transition",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Silent mutation does not lead to a change in amino acid",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A change of purine by a pyrimidine is known as a transition",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A change of purine by a pyrimidine is known as a transition Single-base changes (point mutations) may be transitions transversions. Transition Transversions \u25cf        Given pyrimidine is changed to the other pyrimidine or \u25cf        Given purine is changed to the other purine \u25cf        Purine to either of the two pyrimidines or \u25cf        Pyrimidine into either of the two purines Introns Intervening sequences, present in between exons. Transcribed but not translated. Mutation in introns will not reach the protein. But a mutation in the exon will alter the protein. Silent mutation Non-sense mutation Mis-sense mutation Amino acid is not changed The amino acid codon is replaced by a stop codon. Amino acid is replaced by another amino acid. TATA box is an important part of transcription initiation machinery and any mutation in this will lead to a lowering of transcription due to inefficient transcription initiation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0a864382",
+      "audio": ""
+    },
+    {
+      "text": "Termination of protein translation is caused by all EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "48S initiation complex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "UAA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "RF-1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Peptidyl transferase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 48S initiation complex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>48S initiation complex 48S ribosome complex is involved in the initiation of translation, not termination. Termination of translation: Stop codons are UAA, UAG & UGA, which do not code for any amino acid. Peptidyl transferase is responsible for the release of the polypeptide chain from the P-site of the ribosome.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "557bac94",
+      "audio": ""
+    },
+    {
+      "text": "The mutation of a normal codon to a stop codon in DNA often leads to harmful conditions. If a mutation in DNA caused a stop codon TAG to be created on the coding strand between the TATA box and the transcription initiation site, what would be the most likely outcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No effect",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Loss of transcription",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Loss of translation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A shorter protein",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. No effect",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>No effect There is no coding sequence between the TATA box (the promoter region where RNA polymerase binds) and the transcription initiation site, so the presence of a TAG in the DNA will not affect protein synthesis. In fact, the RNA containing UAG in its sequence will not even be synthesized because the transcription initiation site occurs after this sequence in the DNA. The introns and exons are not affected by this mutation, and splicing will occur normally. Thus, the mRNA produced would be of normal size and would produce a normal-sized protein.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c1d87543",
+      "audio": ""
+    },
+    {
+      "text": "Protein synthesis is a complex and one of the most energy-consuming processes in the cell. The number of high-energy phosphates required to form one peptide bond is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>4 2 ATP & 2 GTP (Total 4 high energy phosphates ) are required to add 1 amino acid in a growing polypeptide chain. Energy required Function 2 ATP Activation of each amino acid 1 GTP For entry at -the site of the ribosome during elongation of translation 1 GTP For translocation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e818b5b8",
+      "audio": ""
+    },
+    {
+      "text": "Mitochondrial codons are an exception for the property of the \u2018universality\u2019 of codons. For example: The initiation codon in mammals is AUG, which codes for methionine. But in mitochondria, methionine is coded by some other codon. Which among the following is that initiation codon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AGA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "AAG",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "AUA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "AUG",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. AUA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>AUA Codon Universal Code Mitochondrial Code UGA Stop Tryptophan AGA & AGG Arginine Stop AUA Isoleucine Methionine</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7dea80c0",
+      "audio": ""
+    },
+    {
+      "text": "Various types of RNAs work cooperatively in the transcription and translation processes of protein synthesis. Which of the following type of RNA is NOT involved in translation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mRNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "tRNA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "rRNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "snRNA",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. snRNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>snRNA snRNA- Splicing occurs after transcription, not in translation. RNA Function mRNA The sequence is translated into protein tRNA Adapter that carries amino acid as well as interact with mRNA rRNA Interact with mRNA and tRNA (peptidyl transferase) Also catalyzes the peptide bond formation. snRNA Involved in splicing occurs after transcription</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "54a4a537",
+      "audio": ""
+    },
+    {
+      "text": "A pharmaceutical company is studying a new antibiotic that inhibits bacterial protein synthesis. When this antibiotic is added to an in-vitro protein synthesis system that is translating the mRNA sequence AUGUUUUUUUAG, the only product formed is the dipeptide fMet-Phe. What step in protein synthesis is most likely inhibited by the antibiotic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initiation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Binding of charged tRNA to the ribosomal A site",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Peptidyltransferase activity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ribosomal Translocation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ribosomal Translocation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ribosomal Translocation Because fMet-Phe is made, the ribosomes must be able to complete initiation, Bind Phe-tRNA to the A site and use peptidyltransferase activity to form the first peptide bond. Because the ribosome is not able to proceed any further, ribosomal movement ( translocation ) is most likely the inhibited step. The ribosome is, therefore, frozen before it reaches the termination codon of this message.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4887f5f4",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following binds mRNA with the ribosome in prokaryotes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tRNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Shine Dalgarno sequence",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "7 methyl guanosine capping",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Poly A tail",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Shine Dalgarno sequence",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Shine Dalgarno sequence Shine Dalgarno sequence Only in prokaryotes present at -10 position on mRNA, Rich in purines. SD sequence is complementary to 16 s rRNA, Their binding helps in the binding of mRNA with ribosomes during the initiation of translation In eukaryotic cells, ribosomes recognize most eukaryotic mRNAs by binding to the 7-methylguanosine cap at their 5\u00b4 terminus.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fb832852",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements are true/false regarding tRNA? Contains codon Contains anticodon Contains blunt ends Acts as an acceptor for amino acids in protein synthesis Gets attached to ribosomes Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-F, 2-T, 3-F, 4-T,5-T",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-T, 2-T, 3-F, 4-T,5-T",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-F, 2-F, 3-F, 4-T,5-T",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-F, 2-T, 3-T, 4-T,5-T",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-F, 2-T, 3-F, 4-T,5-T",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1-F, 2-T, 3-F, 4-T,5-T tRNA is transfer RNA and is required for translation. It accepts the amino acids in protein synthesis. [Option d] tRNA + ribosomes + mRNA complex is machinery for protein synthesis present in the cytoplasm. [Option e] It is clover leaf shaped where the 3\u2019 end contains an unpaired CCA sequence, so its end is not blunt. [Option c] It has an anticodon which is complementary to the codon of mRNA. [Option b]</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9228ee39",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is the correct sequence of the severity of damage for a mutation in DNA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Missense > Nonsense >Frameshift",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nonsense > Missense >Frameshift",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Frameshift>Missense > Nonsense",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Frameshift> Nonsense > Missense",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Frameshift> Nonsense > Missense",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Frameshift> Nonsense > Missense Frameshift mutation is the deletion or insertion of a number of nucleotides not divisible by 3, resulting in misleading of all nucleotides downstream causing a change of a large number of amino acids which is highly detrimental to the function of that protein. Nonsense mutation means a change of a codon with a stop codon (UAA, UAG, UGA). This leads to premature termination of Protein synthesis and a truncated protein which can still function if the place of mutation is near the C-terminus of the protein i.e. if the truncated protein is similar in size to the original protein. Missense mutation means a codon is replaced by another codon, coding for a different amino acid giving rise to a protein with similar properties as the original non-mutated protein.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fdaac2e6",
+      "audio": ""
+    },
+    {
+      "text": "43-S Preinitiation complex includes: IF3 IF1A IF2B IF4F RF Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1, 3, and 5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3, 4, and 5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2, 3, and 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 2, and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2, and 3 Initiation of translation in Eukaryotes. So, for preinitiation factors 1, 2, and 3 is required, 4F is not required.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "462c6642",
+      "audio": ""
+    },
+    {
+      "text": "Anticodon 5\u2019-I-G-C-3\u2019 can recognize all of the following codons EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "GCA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "GCG",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "GCC",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "GCU",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. GCG",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>GCG To answer this question, let's understand the wobbling rules in more detail. The figure below is key to understanding the concept. Wobble position is the 3rd position of the codon on mRNA and the first position of anticodon on tRNA in the 5\u2019 to 3\u2019 direction (see fig below). Bases in the wobble position are wobble bases. Wobble bases can base pair via non-Watson Crick base pairing (Watson Crick base pairing is: A only pair with T and G with C). Let\u2019s find the wobble base of the tRNA in the question. The first base (5'-3' direction) of the anticodon is Inosine (I). Thus, it is the wobble base of tRNA here. Inosine (I) in the wobble base can base pair with C , A, or U but not with G . So, the codons it can recognize or pair with are GC C , GC A, and GC U but not GCG. Hence, the answer is option B.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bd65570a",
+      "audio": ""
+    },
+    {
+      "text": "A tRNA molecule that carries cysteine (tRNAcys) is mischarged. So that it actually carries alanine (ala-tRNAcys). Assuming no correction occurs, what will be the fate of this alanine residue during protein synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will be incorporated into a protein in response to an alanine codon",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It will be incorporated into a protein in response to a cysteine codon",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It will remain attached to the tRNA as it cannot be used for protein synthesis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It will be chemically converted to cysteine by cellular-enzymes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It will be incorporated into a protein in response to a cysteine codon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>It will be incorporated into a protein in response to a cysteine codon Aminoacyl tRNA synthetase Enzyme attaches amino acid & tRNA and this step is the only proofreading step in translation. If the wrong amino acid gets attached during this step, then it can be corrected but if the correction will not occur in this step, then this wrong amino acid will be added to the protein. tRNA cys is usually recognized by the aminoacyl tRNA synthetase for cysteine and charged with Cysteine to produce cystRNA cys . As per the question, Alanine is incorporated into the tRNA cys to produce alatRNA cys . Ribosomal machinery can\u2019t detect the amino acid attached to the tRNA. Interaction between the codon of mRNA and anticodon of tRNA determines the amino acid incorporated in the polypeptide chain. Anticodon of alatRNA cys interacts with the codon of Cysteine only. So Alanine will be incorporated into the polypeptide in place of Cysteine.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6edca4c6",
+      "audio": ""
+    },
+    {
+      "text": "The hydrolytic step leading to the release of a polypeptide chain from a ribosome is catalyzed by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dissociation of ribosomes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Peptidyl transferase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Release factors",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stop codons",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Peptidyl transferase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Peptidyl transferase Peptidyl transferase is responsible for the release of peptidyl chain from a ribosome The release is not done by releasing factor, During the termination of translation, we have releasing factors: In prokaryotes \u2013 RF 1 2 3 Eukaryotes \u2013 eRF Releasing factor (misnomer) \u2013 it can only recognize the stop codon Hence, the hydrolytic step leading to the release of a polypeptide chain from a ribosome is catalyzed by Peptidyl transferase (not by releasing factors).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e90f6290",
+      "audio": ""
+    },
+    {
+      "text": "A therapeutic protein was synthesized by expressing a gene from a plant in E. coli using genetic engineering techniques. It was later observed that Codon no 302 UAG present at the end of the gene is replaced by UGA due to an error in PCR. This will cause what type of mutation in this protein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Missense",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Silent",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nonsense",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Given information is not sufficient to identify",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Silent",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Silent In this mutation, the stop codon \u2013 UAG is replaced by another stop codon- UAA. So, this is a silent In silent mutations, there is no change in the primary structure of the protein. Silent Mutation: The codon containing the changed base codes for the same amino acid. For example, if the serine (Ser) codon UCA is given a different third base, U, to become UCU, it still codes for Ser. This is termed a \u201csilent\u201d mutation. This mutation occurs as the codon is degenerate i.e one amino acid can be coded by more than one codon. Missense Mutation: The codon containing the changed base codes for the different amino acids. For example, if the Ser codon UCA is given a different first base, C, to become CCA, it will code for a different amino acid (in this case, proline [Pro]). This is called a \u201cmissense\u201d mutation. Nonsense Mutation: The codon containing the changed base becomes a termination codon. For example, if the Ser codon UCA is given a different second base, A, to become UAA, the new codon causes termination of translation at that point and the production of a shortened (truncated) protein.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f00fc7fe",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following gene sequence (coding region) could produce a protein that contains 200 amino acids and has a phenylalanine residue near its N-terminus? The phenylalanine codons (5\u2032-to-3\u2032) are UUU and UUC.",
+      "options": [
+        {
+          "label": "A",
+          "text": "5\u2032-CCATGCCATTTGCATCA -3\u2032",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "5\u2032-CCATGCCATTTGCATGA-3\u2032",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5\u2032-CCATGCCAATTTGCATC-3\u2032",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5\u2032-CCATCCCATTTGCATGA-3\u2032",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 5\u2032-CCATGCCATTTGCATCA -3\u2032",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>5\u2032-CCATGCCATTTGCATCA -3\u2032 In order to answer this question, one first needs to find the start codon: AUG in mRNA and ATG in DNA. Bases 3 to 5 in all first three sequences contain this element. So options d and e are excluded Next, the sequence needs to specify a phenylalanine residue near the amino terminus, which is UUU or UUC in mRNA, or TTT or TTG in DNA, but these sequences need to be in frame with the initiating methionine codon. This condition is satisfied in options a and b. So, option c is excluded The last element to look for is the absence of a premature stop codon because this protein is 300 amino acids long. There should be no stop sequence in the remaining bases of the required piece of DNA. For option b , the last three bases of this sequence are TGA, which in mRNA would be UGA, and this is an in-frame stop signal. So, t his sequence would not give rise to a protein that contained 300 amino acids. But in option a there is no premature stop codon and hence it is the answer.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "196d5f8b",
+      "audio": ""
+    },
+    {
+      "text": "Aminoacyl tRNA synthetase is required for all except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lysine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cysteine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Methionine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hydroxyproline",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Hydroxyproline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hydroxyproline Some proteins contain additional amino acids that arise due to post-translational modification of existing amino acyl residues. Examples: Vitamin C mediated hydroxylation of proline and peptidyl lysine to 4-hydroxyproline and 5-hydroxylysine Vitamin K mediated \u03b3-carboxylation of glutamate Methylation Formylation Acetylation Prenylation (addition of fatty acid residues) Glypiation (addition of Glycosyl PI anchor) Phosphorylation Therefore Aminoacyl tRNA synthetase is not required by these.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a70f0d6",
+      "audio": ""
+    },
+    {
+      "text": "Which amino acid does not include post-translational modification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selenocysteine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Triiodothyronine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hydroxy-proline",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hydroxy-lysine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Selenocysteine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Selenocysteine Selenocysteine (21st amino acid) & Pyrrolysine (22nd amino acid) Formed by co -translational modification Not by post-translational modifications. Selenocysteine and Pyrrolysine \u25cf        21st amino acid\u2192Selenocysteine\u2192 UGA \u25cf        22nd amino acid \u2192 Pyrrolysine \u2192 UAG \u25cf        Both UGA, and UAG are stop codons but co-translational modification can give rise to amino acid selenocysteine and pyrrolysine. co-translational modification. \u25cf        Enzymes that use selenocysteine as their active sites are called Seleno Proteins. \u25cf        Selenocysteine-containing proteins: \u25cf        Glutathione peroxidase \u25cf        Thioredoxin reductase \u25cf        selenoprotein P \u25cf        5\u2019 deiodinases</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "18abe8ca",
+      "audio": ""
+    },
+    {
+      "text": "A patient suffering from severe pain throughout his body was brought to the hospital. He regularly had such episodes in the last few years. The pain starts with vigorous exercising. Blood analysis showed a reduced blood cell count (anemia), and elongated red blood cells rather than concave. He was diagnosed with Sickle cell anemia. The type of mutation seen in sickle cell anemia is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Point",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Insertion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Deletion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Frameshift",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Point",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Point Sickle-cell anemia Occur due to a single base alteration also known as Point mutation Glutamate at the 6th position of the \u03b2-chain of hemoglobin is replaced by Valine due to the creation of valine codon (GTG) for glutamate codon (GAG) by change of base A to T. The abnormal hemoglobin causes red blood cells to become rigid, sticky, and mis-shapen.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "15b706de",
+      "audio": ""
+    }
+  ]
+}

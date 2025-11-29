@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "id": "test5",
+    "title": "General_Physiology_",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following operates based on a negative feedback mechanism? Thyroid hormone regulation Blood glucose regulation Blood clotting cascade Nerve Signal Propagation Temperature regulation",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 5",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1, 3, and 4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 3, and 5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 2, and 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 2, and 5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:613px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stimulus</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Response</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effect</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Body Temperature</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Temperature deviation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sweating/shivering, vasodilation/constriction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Restores normal temperature</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Blood Glucose</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High/low blood glucose</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Insulin/glucagon release</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normalises blood <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> levels</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thyroid Hormones</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High/low <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormones</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>TSH release adjustment</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Maintains hormone balance</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Blood Pressure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High/low blood pressure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Heart rate and vessel adjustment</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Restores normal blood pressure</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Calcium Homeostasis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High/low blood calcium</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PTH/calcitonin release</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normalises blood <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> levels</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Menstrual Cycle</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hormone level changes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>FSH/LH regulation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Regulates <span class=\"customMeta\" data-dictid=\"3a03cad6c616927771925038b55989\">menstrual</span> cycle</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Respiratory Rate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High CO<sub>2</sub> levels</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased breathing rate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normalizes CO<sub>2</sub> levels</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/kWWiIRd9IXADbY1LP4GL1742745296.mp3",
+      "video": "",
+      "uid": "ff8b1a84"
+    },
+    {
+      "text": "Which of the following is an example of transcellular fluid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebrospinal fluid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Peritoneal fluid",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vitreous humor",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:561px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Fluid in the <span class=\"customMeta\" data-dictid=\"e87def492e1692777191eda63cfc5e\">lumen</span> of structures lined by epithelium.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Fluid in the <span class=\"customMeta\" data-dictid=\"9b0ae3750916927771986c15d4ff4d\">secretion</span> of <span class=\"customMeta\" data-dictid=\"938890efd616927771870f4a611546\">exocrine</span> <span class=\"customMeta\" data-dictid=\"a32cad4dbc169277718669cfb165a5\">digestive</span> glands</li>\n<li>Cerebrospinal fluid (CSF)</li>\n<li>Pleural, peritoneal, <span class=\"customMeta\" data-dictid=\"d27f9c7a1b16927771999b1679d949\">synovial</span> and <span class=\"customMeta\" data-dictid=\"85bd8b2ec816927771958f9ebe3568\">pericardial</span> fluids</li>\n<li>Intraocular (aqueous and <span class=\"customMeta\" data-dictid=\"636ccb4336169277720289af6a0778\">vitreous</span> humor) fluids</li>\n<li>Bile</li>\n<li>Luminal fluids of the gut</li>\n<li>Fluid in the <span class=\"customMeta\" data-dictid=\"6eb2dc23ea16927771848e85bcecb2\">cochlea</span> and <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> tubules</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Volume </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>1.5% of body weight</li>\n<li>About 1L.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/saSlu0AUxQIGSyp0GnEN1742196712.mp3",
+      "video": "",
+      "uid": "6feaf711"
+    },
+    {
+      "text": "Which statements about the cell membrane are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sphingolipids form channels for water and water-soluble substances, aiding diffusion.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cholesterol acts as a receptor for peptide hormones, triggering intracellular processes.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Peripheral proteins penetrate the lipid bilayer and actively transport substances.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Glycocalyx contributes to negative surface charge, cell adhesion, and immune reactions.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Glycocalyx contributes to negative surface charge, cell adhesion, and immune reactions.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:647px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Component</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Phospholipids</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most abundant</li>\n<li>Arranged in a <span class=\"customMeta\" data-dictid=\"097487e03c169277718351231db6a3\">bilayer</span> with <span class=\"customMeta\" data-dictid=\"db283047011692777189a869dbce07\">hydrophilic</span> heads outward and <span class=\"customMeta\" data-dictid=\"e3be2eb847169277718953f0dae57d\">hydrophobic</span> tails inward.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A barrier to water-soluble substances, allowing fat-soluble substances to pass.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sphingolipids</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It is found in smaller amounts, especially in nerve cells.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Protection</li>\n<li>Signal transmission</li>\n<li>Adhesion sites for <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> proteins</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cholesterol</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Embedded in the <span class=\"customMeta\" data-dictid=\"a99114a6c216927771916f45ffc66c\">lipid</span> bilayer.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Influences <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> <span class=\"customMeta\" data-dictid=\"1c7103a9b516927771955682b6aaa4\">permeability</span> and fluidity</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:642px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Integral Proteins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Span the entire <span class=\"customMeta\" data-dictid=\"a99114a6c216927771916f45ffc66c\">lipid</span> bilayer, protruding on both sides.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Transport: <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">Form</span> channels for water and ions.</li>\n<li>Selective Diffusion: Facilitate specific substance diffusion</li>\n<li>Carrier Proteins: Bind and transport substances, including active transport</li>\n<li>Enzymes: <span class=\"customMeta\" data-dictid=\"66b0433bfd16927771836c33e8b7b8\">Catalyze</span> reactions</li>\n<li>Receptors: Bind ligands to trigger <span class=\"customMeta\" data-dictid=\"a621be29da16927771901bc91014d1\">intracellular</span> processes</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Peripheral Proteins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Attached to the inner or outer surface, not spanning the <span class=\"customMeta\" data-dictid=\"a99114a6c216927771916f45ffc66c\">lipid</span> bilayer.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Function as enzymes or regulators of substance transport.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:643px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Component</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glycoproteins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proteins with carbohydrate chains</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Protection</li>\n<li>Cell recognition</li>\n<li>Signaling.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glycolipids</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lipids with carbohydrate chains</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cell recognition</li>\n<li>Communication.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proteoglycans</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Carbohydrate-rich compounds that are attached to the outer cell surface</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Structural support</li>\n<li>Interaction with the <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> matrix.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1KQ8c3PF2mqCqTv98HXl1742748098.mp3",
+      "video": "",
+      "uid": "29262634"
+    },
+    {
+      "text": "Which of the following correctly matches a junction type with its key features?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tight Junctions - Provide mechanical strength and link cytoskeletons of adjacent cells.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adherens Junctions - Create a seal between adjacent cells and prevent the passage of molecules through intercellular space.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Desmosomes - Form channels between cells, allowing direct passage of small molecules and ions.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Gap Junctions - Enable rapid communication and coordination, forming channels between cells for electrical signal propagation.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Gap Junctions - Enable rapid communication and coordination, forming channels between cells for electrical signal propagation.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:541px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Mechanism </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Key Components</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Physical Contact</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Tight junctions</li>\n<li>Adherens junctions</li>\n<li>Desmosomes</li>\n<li>Gap junctions</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chemical Messengers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hormones</li>\n<li>Neurotransmitters growth factors</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>ECM Interaction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Proteins polysaccharides</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:595px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Features</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tight Junctions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Create a seal between adjacent cells.</li>\n<li>Prevent the passage of molecules through <span class=\"customMeta\" data-dictid=\"021501f2831692777190ef9ba827fb\">intercellular</span> space.</li>\n<li>It is essential for maintaining tissue barriers and regulating substance movement across epithelia.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adherens Junctions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Provide mechanical strength.</li>\n<li>Link cytoskeletons of adjacent cells.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Desmosomes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Similar to adherens junctions in function.</li>\n<li>Provide additional mechanical stability.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gap Junctions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Form channels between cells.</li>\n<li>Allow direct passage of small molecules and ions.</li>\n<li>Enable rapid communication and <span class=\"customMeta\" data-dictid=\"3820ba101416927771858fe257e119\">coordination</span> (e.g.- electrical signals in <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> muscle).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:649px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Role</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Integrins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cell-to-cell and cell-to-ECM adhesion</li>\n<li>Involved in cell signaling, migration, and proliferation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Immunoglobulins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cell-to-cell adhesion</li>\n<li>Immune recognition</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cadherins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Calcium-dependent</li>\n<li>Mediate cell-to-cell adhesion</li>\n<li>Crucial in tissue morphogenesis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Selectins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Transient cell-to-cell <span class=\"customMeta\" data-dictid=\"2b1931a185169277718065e3fa42dd\">adhesion</span> in the bloodstream</li>\n<li>Enable white blood cells to bind to endothelial cells and migrate to <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> sites</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qgXTkmUWu0Sax7rOxqVG1742748889.mp3",
+      "video": "",
+      "uid": "9ebbee99"
+    },
+    {
+      "text": "Which of the following is considered downhill transport?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Active transport",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Passive transport",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Primary active transport",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Secondary active transport",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Passive transport",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:659px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Passive Transport</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Active Transport</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Active Transport</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Secondary Active Transport</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moves molecules down their <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> (downhill transport) from an area of higher concentration to an area of lower concentration</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moves molecules against their <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> (uphill transport) from an area of lower concentration to an area of higher concentration.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It uses <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> directly to move molecules against their <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> from an area of lower concentration to an area of higher concentration.</p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It uses energy from the <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> created by primary active transport</p>\n<p>\u00a0</p>\n<p>Primary <span class=\"customMeta\" data-dictid=\"74c9c0942a1692777180b936bbbfcc\">active transport</span> creates an <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> (e.g., Na+ <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> by the Na+/K+ pump)</p>\n<p>\u2193</p>\n<p>Na+/K+ pump uses <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> to pump Na+ out of the cell (against its gradient)</p>\n<p>\u2193</p>\n<p>A high concentration of Na+ outside the cell</p>\n<p>\u2193</p>\n<p>Uses the Na+ <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> to transport other molecules (e.g., glucose) into the cell</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It does not require energy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Requires energy (ATP)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Requires energy (ATP)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Energy is indirectly required from the <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> used by the Na+/K+ pump</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Example: <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">Diffusion</span> of oxygen (O2) across a cell membrane</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Example: <span class=\"customMeta\" data-dictid=\"4632a7497f169277719834502883b1\">Sodium-potassium pump</span> (Na+/K+ pump)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Example: <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">Calcium</span> pump (Ca2+ pump)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Example: Glucose-sodium co-transport (SGLT)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Downhill transport</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not downhill transport</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not downhill transport</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not downhill transport</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Uz1f6KqIAfpNtw5L471g1742206440.mp3",
+      "video": "",
+      "uid": "f45c74b8"
+    },
+    {
+      "text": "Which of the following statements about the Na\u207a-K\u207a ATPase is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an electrogenic pump with a coupling ratio of 3Na+:2K+",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The \u03b1 subunit has intracellular Na\u207a and ATP-binding sites",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The \u03b1 subunit contains the phosphorylation site at Asp 376",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Its activity is enhanced by ouabain and digitalis glycosides",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Its activity is enhanced by ouabain and digitalis glycosides",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Y3nUyJmt2Ozhui8N0VUQ1735888999.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/UWTjHYbDLTOLvgZv0lYY1742206647.mp3",
+      "video": "",
+      "uid": "2d357257"
+    },
+    {
+      "text": "Which of the following statements regarding facilitated diffusion is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It does not require ATP expenditure.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Involved transport protein is stereospecific and follows saturation kinetics.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diffusion of ammonia in collecting ducts is a type of facilitated diffusion.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Molecules move down the chemical gradient from high to low concentration.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Diffusion of ammonia in collecting ducts is a type of facilitated diffusion.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/uPBw4rRxdQQYENGy9OYY1742278340.mp3",
+      "video": "",
+      "uid": "87ce6759"
+    },
+    {
+      "text": "Select the correct statements regarding endocytosis:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pinocytosis involves ingesting solid particles into the cell by budding small vesicles from the cell membrane.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phagocytosis is a type of endocytosis that involves the ingestion of liquid into the cell.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Receptor-mediated endocytosis is a non-selective process where molecules are ingested into the cell without needing receptors..",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All forms of endocytosis require ATP for the vesicle formation process",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All forms of endocytosis require ATP for the vesicle formation process",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/BT0rNoTwGuLfJ1vjjvjr1736326271.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pinocytosis<br/>\n<strong>(Option: A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Referred to as \"cell drinking\".</li>\n<li>Uptake of <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> fluids by <span class=\"customMeta\" data-dictid=\"38e3eb755216927771834bb7e72a61\">budding</span> small vesicles from the cell membrane.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Phagocytosis<br/>\n<strong>(Option: B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Referred to as \"cell eating\".</li>\n<li>Engulfs large particles such as pathogens or <span class=\"customMeta\" data-dictid=\"12a6f23332169277718402ca6703e2\">cellular</span> debris. into the cell.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receptor-mediated endocytosis</p>\n<p><strong>(Option: C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Specific molecules are ingested into the cell by binding to specific receptors on the cell surface.</li>\n<li>Clathrin-mediated endocytosis:\n\t\t\t\t<ul>\n<li>Triskelion shape protein (3 heavy and 3 light chains).</li>\n<li>Presents on the surface of the cell membrane</li>\n<li>Provides a coating on the surface of the <span class=\"customMeta\" data-dictid=\"43337a69ad169277720110a038f222\">vesicle</span> with the help of <span class=\"customMeta\" data-dictid=\"20f10655581692777186ec1b7a5074\">dynamin</span> protein.</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"4167\" src=\"https://image.prepladder.com/content/BT0rNoTwGuLfJ1vjjvjr1736326271.png\" width=\"3238\"/></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/WCaIrnuOrZHIxsIJ5u8H1742747393.mp3",
+      "video": "",
+      "uid": "93eef381"
+    },
+    {
+      "text": "Oxygen moves from the alveoli into the blood across the alveolar-capillary membrane. Which of the following best describes this process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Facilitated Diffusion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple Diffusion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Non-ionic diffusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Osmosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Simple Diffusion",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/D5aXLe6FcSaxbKslxBO51736183573.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:644px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Simple <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">diffusion</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Facilitated <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">diffusion</span> (Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Move from high to low <span class=\"customMeta\" data-dictid=\"6fe354b91616927771982cc53f71fc\">solute</span> concentration (downhill transport)</li>\n<li>It does not require energy.</li>\n<li>Not require carrier protein (channel protein may or may not be present)</li>\n<li>No saturation: more concentration leads to a higher rate of transport.</li>\n<li>Fick's law: Rate (J) = D.A.\u2206C/x\n\t\t\t\t<ul>\n<li>D: <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">Diffusion</span> constant.</li>\n<li>A: Surface area of diffusion.</li>\n<li>X: <span class=\"customMeta\" data-dictid=\"facd67f6341692777200653d383689\">Thickness</span> of the membrane.</li>\n<li>\u2206C: Concentration difference between membranes (most important determinant).</li>\n</ul>\n</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Movement of molecules across a <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> via carrier protein.</li>\n<li>No expenditure of energy.</li>\n<li>For example, <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> is transported by all types of GLUT.</li>\n<li>Saturation is achieved after a certain point called the plateau.</li>\n<li>The maximum transport rate occurs at the <span class=\"customMeta\" data-dictid=\"7a4ced7da71692777195938424f299\">plateau</span> or <span class=\"customMeta\" data-dictid=\"e4696a0f8d169277719865588e55c7\">saturation</span> point, called maximum (Tm)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cFYuBWzyLoRRv7h7ob3v1742279228.mp3",
+      "video": "",
+      "uid": "b824ce2f"
+    },
+    {
+      "text": "Which of the following is likely to be seen if a patient is infused with 3% NaCl?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Water shifts from ICF to ECF",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased plasma protein concentration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased arterial blood pressure",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/3uXyTmZwtwjgM6U1NpBs1744010235.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:687px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Disorder</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effects</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperosmatic Volume Expansion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Excessive <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">infusion</span> of <span class=\"customMeta\" data-dictid=\"f97c39ea7a1692777189ea0ea68b49\">hypertonic</span> saline.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increase in <span class=\"customMeta\" data-dictid=\"3e06a6e5a216927771861914f2e75d\">ECF</span> volume.</li>\n<li>Increased <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> osmolality</li>\n<li>Water shifts from <span class=\"customMeta\" data-dictid=\"b7f1b698651692777189791c57cac5\">ICF</span> to ECF</li>\n<li>Decreased <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> protein concentration</li>\n<li>Increased <span class=\"customMeta\" data-dictid=\"b905d8d51416927771821f9cceb3a3\">arterial blood</span> pressure</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyposmotic Volume Expansion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>SIADH</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increase in <span class=\"customMeta\" data-dictid=\"3e06a6e5a216927771861914f2e75d\">ECF</span> volume.</li>\n<li>Increase in <span class=\"customMeta\" data-dictid=\"b7f1b698651692777189791c57cac5\">ICF</span> volume.</li>\n<li>Decrease in <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> osmolarity.</li>\n<li>No change in hematocrit.</li>\n<li>Decreased <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> protein concentration.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Isosmotic Volume Expansion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Infusion of <span class=\"customMeta\" data-dictid=\"28f696d61216927771904dbe51b33b\">isotonic</span> NaCl</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increase in <span class=\"customMeta\" data-dictid=\"3e06a6e5a216927771861914f2e75d\">ECF</span> volume.</li>\n<li>No change in <span class=\"customMeta\" data-dictid=\"b7f1b698651692777189791c57cac5\">ICF</span> volume.</li>\n<li>No change in osmolarity.</li>\n<li>Decreased hematocrit.</li>\n<li>Decreased <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> protein concentration.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/9InfFYSktrdNqyEMtgrJ1742280194.mp3",
+      "video": "",
+      "uid": "a277cd19"
+    }
+  ]
+}

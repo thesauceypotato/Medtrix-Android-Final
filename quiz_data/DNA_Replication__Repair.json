@@ -1,0 +1,768 @@
+{
+  "meta": {
+    "id": "test6",
+    "title": "DNA Replication & Repair",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "All of the following are features of DNA replication, EXCEPT: Semiconservative Semi-discontinuous Template Independent Requires RNA primer Unidirectional Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3, and 5 are correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 3, and 5 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>3, and 5 are correct Features of DNA replication: Semi-conservative (newly synthesized DNA has one strand from template DNA and the other is newly synthesized) Template-dependent (DNA replication requires a template.) Begins at origin(s) of replication Requires RNA primer The direction of synthesis is always 5\u2019 to 3\u2019 Bi-directional Semi-discontinuous (leading strand \u2013 continuous; a lagging strand \u2013 discontinuous)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "419dbb7d",
+      "audio": ""
+    },
+    {
+      "text": "A DNA polymerase is a member of a family of enzymes that catalyze the synthesis of DNA molecules from nucleoside triphosphates. These enzymes also do the proofreading and repair of DNA. Which is the only prokaryotic DNA polymerase with 5\u2019 \u2192 3' exonuclease activity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA Polymerase I",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "DNA Polymerase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "DNA Polymerase III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "DNA Polymerase IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. DNA Polymerase I",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DNA Polymerase I DNA polymerase I 1st DNA polymerase discovered Only polymerase with 5' \u2192 3' exonuclease activity. DNA polymerase I 5\u2019 \u2192 3\u2019 polymerase Polymerization 3' \u2192 5' exonuclease Proofreading 5' \u2192 3' exonuclease Removal of RNA primer, DNA repair, nick-translation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a7824bfe",
+      "audio": ""
+    },
+    {
+      "text": "Which is incorrect about DNA polymerase I?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Not required in bacteria",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Role in primer removal",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fill gaps between Okazaki fragments",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Involved in DNA replication",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Not required in bacteria",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Not required in bacteria DNA Polymerase I is an enzyme involved in replication in Prokaryotes DNA Polymerase I has 3 activities: 5\u2019\u21923\u2019 Polymerase activity 3\u2019\u21925\u2019 Exonuclease activity (Proofreading) 5\u2019\u21923\u2019 Exonuclease activity required for Primer removal and gap filling</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cd4f25fc",
+      "audio": ""
+    },
+    {
+      "text": "True about DNA polymerase III:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Required for translation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Has DNA repair function",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Forms Okazaki fragments & needs RNA primer",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Has no proof-reading activity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Forms Okazaki fragments & needs RNA primer",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Forms Okazaki fragments & needs RNA primer DNA Polymerase III Required for replication DNA polymerase II has the function of DNA repair, DNA polymerase III has the function of Proofreading DNA polymerase III synthesis both leading and lagging strands (Okazaki fragments) and it needs RNA primer DNA polymerase III is the main enzyme in DNA synthesis in prokaryotes</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2f4c5283",
+      "audio": ""
+    },
+    {
+      "text": "DNA ligase enzyme catalyzes the formation of phosphodiester bonds during replication to seal the nick formed due to the discontinuous mode of DNA replication on lagging strands. Which of the following is the cofactor for Prokaryotic DNA ligase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetrahydrobiopterin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ATP",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NAD",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "FAD",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. NAD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>NAD DNA ligase Use : In recombinant DNA technology as molecular glues. Cofactors: In Prokaryotes \u2013 NAD In Eukaryotes \u2013 ATP The r eaction catalyzed: Combine two DNA strands by the formation of a Phosphodiester bond as shown below</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "13186b01",
+      "audio": ""
+    },
+    {
+      "text": "True about telomerase: It is a ribonucleoprotein Has reverse transcriptase activity RNA containing ribozyme Active only in cancer cells Elongates the G-rich strand of telomeric DNA Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 2, and 5 are correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1, 2, and 5 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2, and 5 are correct Telomerase: Has its own RNA template It\u2019s a ribonucleoprotein Elongates the G-rich strand of telomeric DNA using its own RNA as a template. The replicative potential of cancer cells and germ cells is due to telomerase Contains RNA, but is not a ribozyme since the catalytic activity is due to the protein part, not the RNA part. Prevents telomere shortening (prevents aging or senescence) Activity of telomerase enzyme decreased in aging increased in cancer Premature aging (Progeria) occurs if telomerase decreases</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6d45567c",
+      "audio": ""
+    },
+    {
+      "text": "An experiment was conducted with rats in which they were fed nitrate-rich food for several days. The DNA analysis of intestinal cells showed a lot of deaminated cytosine. The most probable reason for this finding is a defect in which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Base Excision Repair",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nucleotide excision repair",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mismatch Repair",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Homologous repair",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Base Excision Repair",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Base Excision Repair The presence of deaminated bases is due to defective base excision repair which corrects for abnormal bases such as uracil, hypoxanthine, and xanthine formed by spontaneous deamination of original bases cytosine, adenine, and guanine respectively. Enzymes involved in Base excision repair are as: DNA glycosylases AP endonucleases DNA polymerase I DNA ligase The defect in this repair system causes MUTYH-associated polyposis in humans, which is a rare disease.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e51c53da",
+      "audio": ""
+    },
+    {
+      "text": "A cell is placed in a medium containing radioactively labeled thymidine. After the cells undergo replication 3 times, what percentage of the cells will have both strands of DNA labeled?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "50%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "75%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "100%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 75%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>75% Keep in mind that the question asks about cells with label on BOTH STRANDS The question is based on the Meselson & Stahl experiment. Due to the semiconservative mode of replication, In each round of replication, one strand is old and one is synthesized new in newly replicated DNA .(see fig below). In fig, the Red strand represents the labeled strand.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7c612af5",
+      "audio": ""
+    },
+    {
+      "text": "On colonoscopy examination of a 40-year-old man, he was found to have right-sided, mucinous colon cancer, with no other lesions or polyps seen. He has a family history of colon cancers and ovarian cancers. He most probably has a defect in which of the following processes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Defective transcription-coupled repair",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nucleotide excision repair",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mismatch repair",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Base Excision repair",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mismatch repair",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mismatch repair The patient has Hereditary Nonpolyposis Colorectal Cancer (HNPCC), which is due to specific mutations in proteins involved in mismatch repair and is primarily right-sided with the absence of any polyps. It occurs due to mutations in any of seven different genes involved in mismatch repair (which is distinct from the generalized DNA repair system, mutations which lead to xeroderma pigmentosum). These genes are all tumor suppressor genes.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "83a70819",
+      "audio": ""
+    },
+    {
+      "text": "All of the following disorders are due to defective nucleotide excision repair, EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xeroderma pigmentosum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cockayne syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trichothiodystrophy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hereditary nonpolyposis colon cancer",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Hereditary nonpolyposis colon cancer",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hereditary nonpolyposis colon cancer Note: Kindly refer to the table of MANTRA below for the explanation of above question.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3c5a5bcf",
+      "audio": ""
+    },
+    {
+      "text": "The two strands of DNA have to separate for the replication machinery to work on single strands of DNA. The unwinding of DNA causes the creation of supercoils which are relieved by the action of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Topoisomerase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Gyrase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Helicase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Polymerase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Topoisomerase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Topoisomerase During the unwinding of DNA, relief of supercoil is made possible by Topoisomerase DNA helicase unwinds the DNA without cutting but using energy from the hydrolysis of ATP. Gyrase is a bacterial type II topoisomerase that acts on closed circular DNA (bacteria have circular DNA). Extra Information: Linking number Number of times one strand of DNA has to be passed through the other strand to separate both the strands completely. Its an integer for a closed circular DNA. Topoisomers are DNA forms that differ in their linking number . Topoisomerases are the enzymes that can change the linking number of DNA.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eccd403d",
+      "audio": ""
+    },
+    {
+      "text": "Primers are short RNA fragments formed on the DNA template by the DNA-dependent RNA polymerase activity of primase enzymes. They are required for the initiation of DNA replication. Which of the following enzyme have primase activity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA polymerase II",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DNA polymerase \u03b1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase \u03b2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "DNA polymerase d",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DNA polymerase \u03b1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DNA polymerase \u03b1 DNA polymerase alpha also known as Pol \u03b1 is an enzyme complex found in eukaryotes that are involved in the initiation of DNA replication Comparison of Prokaryotic and Eukaryotic DNA Polymerases (see mantra)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "894ea8cd",
+      "audio": ""
+    },
+    {
+      "text": "Mark the false statement regarding types of nucleotide repair",
+      "options": [
+        {
+          "label": "A",
+          "text": "UV radiation exposure leads to the formation of Thymine-thymine dimers",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MUTYH associate polyposis is associated with base excision repair",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mismatch repair is done in the G1 phase of the cell cycle",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Base excision repair mainly occurs in the G1 phase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mismatch repair is done in the G1 phase of the cell cycle",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mismatch repair is done in the G1 phase of the cell cycle Type of repair The phase of cell cycle Damage Cause Nucleotide excision G1 Thymine - Thymine dimers (T-T Dimers) UV radiation Base excision repair G1 mainly (occur in any phase) Cytosine deaminated to uracil Spontaneous, heat, infra-red rays, viral infection, Nitrous Oxide Mismatch repair G2 Mismatched base Proof-reading error HNPCC also known as Lynch syndrome \u2192 \u2191 risk for developing colon cancer. Xeroderma Pigmentosa \u2192 \u2191 chances of skin malignancy.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a33ddeb3",
+      "audio": ""
+    },
+    {
+      "text": "A 10-year-old girl is brought to the dermatologist by her parents. She has many freckles on her face, neck, arms, and hands and her parents report that she is highly sensitive to sunlight. On examination, two basal cell carcinomas are observed on her face. The process which is most likely defective in this patient is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Repair of double-stranded breaks",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Removal of mismatched bases from the 3\u2019 end of Okazaki fragments",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Removal of pyrimidine dimers from DNA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Removal of uracil from DNA.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Removal of pyrimidine dimers from DNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Removal of pyrimidine dimers from DNA The patient is showing characteristics of a condition known as Xeroderma pigmentosum . These individuals have sensitivity to sunlight with extensive freckling on parts of the body exposed to the sun. They are also prone to developing skin cancer at a young age. It is caused by a defect in the DNA repair process known as nucleotide excision repair which corrects for pyrimidine dimers formed by ultraviolet light damage to DNA.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f25f61e0",
+      "audio": ""
+    },
+    {
+      "text": "A 17-month-old girl suffered from recurring respiratory infections. Injection of Diphtheria-Pertussis-Tetanus (DPT) and Typhoid vaccine produced only a minimal response. The lysate of the girl's erythrocytes was found to lack detectable adenosine deaminase activity. Her mother and father both showed approximately 50% of the normal red cell adenosine deaminase activity. Diagnose the disease.",
+      "options": [
+        {
+          "label": "A",
+          "text": "SCID",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Crushing Muscular Trauma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lesch \u2013Nyhan Syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hypokalemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. SCID",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>SCID SCID (Severe combined immunodeficiency) SCID occurs due to a deficiency of the enzyme ADA which converts adenosine to inosine (and deoxyadenosine to deoxyinosine). In the absence of this enzyme, an accumulation of deoxyadenosine occurs. Deoxyadenosine is toxic and will accumulate in the blood cells, eventually forming dATP through salvage reactions. The dATP will, in part, inhibit ribonucleotide reductase, and the cells with high dATP levels will not be able to proliferate when signaled to do so due to the lack of deoxyribonucleotide precursors leading to a lack of DNA synthesis in immune cell precursors. In SCID, the thymus is virtually absent, and there is virtually no T- cell, and B-cell production. Regarding other options: Hypokalemia \u25cf        Reduction in cells potassium ions and their replacement with protons from the blood causing alkalosis Crushing Muscular Trauma \u25cf Muscle cell damage resulting from pressure or crushing . Lesch \u2013 Nyhan syndrome \u25cf        Deficiency of Hypoxanthine Guanine Phospho Ribosyl Transferase ( HGPRT ). \u25cf        The main clinical features are Hyperuricemia and Self-mutilation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6af259aa",
+      "audio": ""
+    },
+    {
+      "text": "In prokaryotic DNA replication enzyme DNA Gyrase help in the unwinding of DNA before replication can begin. This enzyme is an equivalent of which of the following enzymes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eukaryotic DNA Topoisomerase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prokaryotic DNA Topoisomerase III",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prokaryotic DNA Topoisomerase I",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prokaryotic DNA Topoisomerase II",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Prokaryotic DNA Topoisomerase II",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Prokaryotic DNA Topoisomerase II DNA Gyrase: Counterpart of Topoisomerase II in prokaryotes. Introduces negative supercoils (underwinding is known as negative supercoiling) and Uses ATP Topoisomerase I Topoisomerase II \u25cf        Makes cuts on the single strand \u25cf        Makes cuts on both strands \u25cf        Formation of a covalent DNA-enzyme \u25cf        complex preserves free energy. \u25cf        ATP is not needed. \u25cf        ATP is needed. \u25cf        Relives only negative supercoils in E. coli \u25cf        relives both negative and positive in Eukaryotes. \u25cf        Relaxes both negative & positive supercoils. \u25cf        Positive supercoil is relieved by introducing negative supercoils.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b7cef1e0",
+      "audio": ""
+    },
+    {
+      "text": "To pack tightly in a cell, double helical DNA is wound around itself one or more times creating either negative or positive supercoils. Supercoiled DNA is found in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only Eukaryotes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Only Prokaryotes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Only viruses",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Both",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Both Supercoiling occurs in both Prokaryotes & Eukaryotes . Supercoiling is because of dsDNA & dsDNA are present in Both Prokaryotes & Eukaryotes. Eukaryotes have closed, circular, dsDNA molecules in their mitochondria, as do plant chloroplasts. A prokaryotic organism typically contains a single, circular, dsDNA molecule. Note: Circular DNA is \u201csupercoiled\u201d, that is, the double helix crosses over on itself one or more times. Supercoiling can result in over-winding (positive supercoiling) or under-winding (negative supercoiling) of DNA.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e439ac2b",
+      "audio": ""
+    },
+    {
+      "text": "During the replication of DNA, one of the strands called lagging strand is synthesized in discontinuous mode using Okazaki fragments. Which one of the following enzymes synthesizes the Okazaki fragments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA polymerase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DNA polymerase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase III",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "RNA polymerase I",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. DNA polymerase III",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DNA polymerase III The details of DNA replication are shown in the Figure below: RNA POLYMERASE I Not involved in replication Involved in transcription.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "88efe27d",
+      "audio": ""
+    },
+    {
+      "text": "The processivity of DNA Polymerase is an expression used to define the number of nucleotides added to the nascent chain before the polymerase disengages from the template. Which is the most processive DNA polymerase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA Polymerase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DNA Polymerase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "DNA Polymerase III",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. DNA Polymerase III",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DNA Polymerase III Processive enzymes are those that remain bound to the end of the growing chain and keep on adding substrates e.g. Glycogen Phosphorylase, DNA polymerases Of all the prokaryotic DNA polymerases, DNA Polymerase III catalyzes the highest rate (20-50 nucleotides/sec) of chain elongation and is the most processive (0.5 Mb/cycle). Of all the eukaryotic polymerases, DNA polymerase \u03b4 is the most processive.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "24999dae",
+      "audio": ""
+    },
+    {
+      "text": "DNA Polymerase is the main enzyme catalyzing phosphodiester bond formation for the addition of nucleotide at the 3' OH end of the growing DNA strand. This enzyme requires which of the following for its function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thioredoxin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DNA Template",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "dUTP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Glutathione",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DNA Template",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DNA Template Thioredoxin \u25cf        Required for the conversion of Ribonucleotides to Deoxyribonucleotides DNA Template \u25cf        Required by DNA Polymerase dUTP \u25cf        deoxy UTP does not exist in the body \u25cf        UTP, and UDP in the form of RNA are present in the body Glutathione \u25cf        Required by RBCs for destroying H 2 O 2</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8738c01a",
+      "audio": ""
+    },
+    {
+      "text": "Severe combined immunodeficiency (SCID), is a rare genetic disorder characterized by the abnormal development of functional T cells and B cells due to numerous genetic mutations. One of the reasons for SCID is a defect in which of the following mechanism of DNA repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Homologous repair",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nucleotide excision repair",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "End Joining Repair",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mismatch repair",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. End Joining Repair",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>End Joining Repair Defects in Double-Strand Break Repairs Defects in Single-Strand Break Repairs Non-Homologous End Joining Repair (NHEJ) \u25cf        SCID (Severe Combined Immunodeficiency Disease) \u25cf        (RS-SCID) Radiation-sensitive Severe Combined Immunodeficiency Disease Nucleotide excision Repair (NER) \u25cf        Xeroderma Pigmentosa Homologous Repair (HR) \u25cf        Bloom syndrome \u25cf        Werner syndrome \u25cf        Breast cancer Base Excision Repair (BER) \u25cf        MUTYH associated Polyposis Mismatch Repair (MMR) \u25cf        HNPCC (Hereditary Non-Polyposis Colorectal Cancer)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d986c77b",
+      "audio": ""
+    },
+    {
+      "text": "The Klenow fragment is formed by subtilisin-mediated proteolytic cleavage of E.coli DNA polymerase I. This process leads to the loss of a fragment having which of the following activity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5\u2019\u2192 3\u2019 polymerase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3\u2019\u2192 5\u2019 exonuclease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5\u2019\u2192 3\u2019 exonuclease",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "3\u2019\u2192 5\u2019 polymerase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 5\u2019\u2192 3\u2019 exonuclease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>5\u2019\u2192 3\u2019 exonuclease Klenow fragment Subtilisin proteolysis of DNA pol I remove the 5\u2019 -->3\u2019 exonuclease activity from N-terminal.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c79cfce5",
+      "audio": ""
+    },
+    {
+      "text": "A group of researchers while testing an experimental drug discovered a mutant of E.coli which was unable to replicate in the presence of the drug. Later analysis of the mutant strain revealed that there is a defect in removing the RNA primers during the replication. Which of the following enzyme is most likely affected by this drug in this strain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helicase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DNA polymerase I",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ligase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DNA polymerase I",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DNA polymerase I DNA polymerases are the main enzymes involved in DNA replication. In prokaryotes such as E. coli, there are three DNA polymerases named DNA polymerase I, II, and III performing different functions. Other enzymes required for replication include helicase, topoisomerases, primase, and ligase. Before polymerization can occur, the two parental DNA strands are unwounded using helicase for cutting and topoisomerases by removing supercoiling. As DNA polymerase can only add nucleotides to the exiting chain hence a short RNA primer is synthesized by primase enzyme using DNA as a template. One primer is required for the leading strand, but multiple primers are required for the lagging strand. The leading strand is synthesized continuously in the 5\u2019 \u2192 3\u2019 direction (See Fig.) and it needs only one RNA primer while the lagging strand is synthesized in short stretches in the 5\u2019 \u2192 3\u2019 direction and requires many RNA primers. After the proofreading, DNA polymerase I remove RNA primers by 5\u2019-3\u2019exonuclease activity and fills the gap by synthesizing DNA using 5\u2019-3\u2019 polymerase activity. DNA ligase catalyzes the formation of a phosphodiester bond between DNA synthesized by DNA polymerase III and that formed by DNA polymerase I using energy (ATP).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cf18903b",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "Critical_Care",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 2 year old child with large untreated boil on right thigh, comes in septic shock. He is started on IV fluids & after giving 3 NS boluses, he develops basal crepitations but the shock continues. He is also administered a dose of Hydrocortisone & started on Dopamine infusion. Currently he is on Dopamine infusion @ 20 micrograms/kg/min. What is the next therapy to consider?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start 5% Albumin infusion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start I.V. Antibiotics",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Add epinephrine infusion i.v.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Add norepinephrine infusion i.v.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Add norepinephrine infusion i.v.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/15468741699074237/15468741699074237.m3u8",
+      "uid": "6d1ca5d6",
+      "audio": ""
+    },
+    {
+      "text": "In an oliguric child needing intravenous fluids, insensible losses should be replenished with which fluid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.9% saline",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.45% saline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.45% saline in 5% dextrose",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "0.9% saline in 10% dextrose",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0.45% saline in 5% dextrose",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/18091761699074247/18091761699074247.m3u8",
+      "uid": "1935eab8",
+      "audio": ""
+    },
+    {
+      "text": "Most common type of shock in children?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Septic",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypovolemic",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Neurogenic",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cardiogenic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hypovolemic",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/41153441699074259/41153441699074259.m3u8",
+      "uid": "e2a074cc",
+      "audio": ""
+    },
+    {
+      "text": "What is the immediate therapy of choice who develops the following rhythm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Place ECD",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Give amiodarone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Give adenosine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Wait and watch",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Give adenosine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/76751444.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/21370531699074270/21370531699074270.m3u8",
+      "uid": "bd07b009",
+      "audio": ""
+    },
+    {
+      "text": "A 2 year old child has severe dehydration and unrecordable BP. Attempts to obtain intravenous access fail. What is the next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep trying for half hour",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Do venesection",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Obtain intraosseous access",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Do IJV catheterization",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Obtain intraosseous access",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/36317911699074283/36317911699074283.m3u8",
+      "uid": "03d4606a",
+      "audio": ""
+    },
+    {
+      "text": "Most common bone used for intraosseous access?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tibia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Fibula",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Humerus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sternum",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Tibia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/39241421699074296/39241421699074296.m3u8",
+      "uid": "a6759b93",
+      "audio": ""
+    },
+    {
+      "text": "In a child with cardio-pulmonary arrest, intraosseous access should be attempted if venous access is not available within?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 min",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2 min",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3 min",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5 min",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1 min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/58227411699074307/58227411699074307.m3u8",
+      "uid": "73f8ed76",
+      "audio": ""
+    },
+    {
+      "text": "The confirmatory method for correct endotracheal tube placement in a child is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chest X ray",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Capnography",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Impedance technique",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mist formation in tube",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Capnography",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/16832351699074318/16832351699074318.m3u8",
+      "uid": "7e3ea7df",
+      "audio": ""
+    },
+    {
+      "text": "Hypotension in a 5 month child is defined as SBP below?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60 mmHg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "70 mm Hg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "80 mm Hg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "90 mm Hg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 70 mm Hg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/3341061699074329/3341061699074329.m3u8",
+      "uid": "82b64b35",
+      "audio": ""
+    },
+    {
+      "text": "A 3 year old child presented with HR of 122/min, capillary refill time of 4 seconds and cold peripheries with BP of 86/40 mm Hg. What is the next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RL bolus @ 100 ml/kg over 6 hr",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.45% NS @ 10 ml/kg",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.9% NS@ 20 ml/kg",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5% Albumin infusion @ 10ml/kg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0.9% NS@ 20 ml/kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/56977121699074341/56977121699074341.m3u8",
+      "uid": "5900e8f5",
+      "audio": ""
+    },
+    {
+      "text": "Which among the following is incorrect regarding shock in children?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypovolemia is a common cause",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Septic shock may show bounding pulses with warm peripheries",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tachycardia is often present",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fall in BP is an early sign",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Fall in BP is an early sign",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/57977111699074355/57977111699074355.m3u8",
+      "uid": "06f5a196",
+      "audio": ""
+    },
+    {
+      "text": "Treatment of choice in high-altitude pulmonary edema in a child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supplemental O2",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dexamethasone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Frusemide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acetazolamide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Supplemental O2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/34801701699074369/34801701699074369.m3u8",
+      "uid": "2a1085b1",
+      "audio": ""
+    },
+    {
+      "text": "Cricothyroidotomy is preferred over endotracheal intubation in children in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cleft palate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acute epiglottitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Complete airway obstruction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tracheomalacia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Complete airway obstruction",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/17777751699074379/17777751699074379.m3u8",
+      "uid": "483b07a6",
+      "audio": ""
+    },
+    {
+      "text": "Dose of dopamine in pediatric shock management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-2 \u00b5g/kg/min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2-10 \u00b5g/kg/min",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "10-20 \u00b5g/kg/min",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "20-40 \u00b5g/kg/min",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 10-20 \u00b5g/kg/min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/12999401699074389/12999401699074389.m3u8",
+      "uid": "fe8fc856",
+      "audio": ""
+    },
+    {
+      "text": "The hallmark finding in traumatic brain injury (TBI) in a child is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pupil abnormalities",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Coma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Brisk reflexes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Papilledema",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Coma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/28859051699074399/28859051699074399.m3u8",
+      "uid": "add087f8",
+      "audio": ""
+    },
+    {
+      "text": "Best way to monitor shock in children is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heart rate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Urine output",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ejection fraction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Preload",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Urine output",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/71621381699074410/71621381699074410.m3u8",
+      "uid": "456746be",
+      "audio": ""
+    },
+    {
+      "text": "Which among the following inotropic agents is contraindicated in cardiogenic shock?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amrinone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dopamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Norepinephrine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Norepinephrine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/50016881699074421/50016881699074421.m3u8",
+      "uid": "154dd853",
+      "audio": ""
+    },
+    {
+      "text": "A 6 year old boy developed steroid resistant nephrotic syndrome. He was diagnosed as FSGS on renal biopsy and started on oral cyclosporine @ 3 mg/kg/day. Two days later, he developed ataxia, slurred speech, nystagmus, hypertension and altered sensorium. MRI brain was suggestive of hyperintense lesions and some demyelination in parieto-occipital regions on T2 images. Which among the following best describes the reason for this presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PRES",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Multiple sclerosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "GBS",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pseudotumor cerebri",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. PRES",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/38098161699074432/38098161699074432.m3u8",
+      "uid": "b92a2d4f",
+      "audio": ""
+    },
+    {
+      "text": "Which among the following are seen in early raised intracranial pressure in children?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Apnea and Bradypnea",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Apnea and Tachypnea",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tachypnea and Bradypnea",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tachypnea and Hyperpnea",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Tachypnea and Hyperpnea",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/50183341699074443/50183341699074443.m3u8",
+      "uid": "e4bd029c",
+      "audio": ""
+    },
+    {
+      "text": "Heliox is useful in the emergency management of all of the following conditions except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute laryngotracheobronchitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vascular ring",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Subglottic stenosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acute bronchiolitis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Acute bronchiolitis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/7379631699074456/7379631699074456.m3u8",
+      "uid": "c413937e",
+      "audio": ""
+    }
+  ]
+}

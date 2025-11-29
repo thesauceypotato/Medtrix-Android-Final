@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "id": "test10",
+    "title": "PSM - INI CET NOV 2021",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "What is external validity of a study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Objectivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Generalization",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Replicability",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Causality",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Generalization",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Generalization</p>\n<p><strong>Highyeild:</strong></p><p>While internal validity relates to how well a study is conducted (its structure), external validity relates to how applicable the findings are to the real world. Both are not \"either/or\" concepts. Internal validity focuses on showing a difference that is due to the independent variable alone, whereas external validity results can be translated to the world at large. External validity refers to how well the outcome of a study can be expected to apply to other settings. In other words, this type of validity refers to how generalizable the findings are. Another term called transferability relates to external validity and refers to a qualitative research Transferability refers to whether results transfer to situations with similar characteristics. Internal validity is the extent to which a study establishes a trustworthy cause-and-effect relationship between a treatment and an outcome. Internal validity also reflects that a given study makes it possible to eliminate alternative explanations for a finding. The less chance there is for confounding in a study, the higher the internal validity and the more confident we can be in the findings.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5560ad71",
+      "audio": ""
+    },
+    {
+      "text": "Match the correct option according to the image given below (vertical box plot was given):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal, Positive skew, Negative skew, normal with outliers",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Positive skew, Normal, Negative skew, normal with outliers",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Normal, normal with outliers, Negative skew, Positive skew",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Normal, normal with outliers, Positive skew, Negative skew",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Normal, Positive skew, Negative skew, normal with outliers",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1694675125784-QTDCPYQ211IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Normal, Positive skew, Negative skew, normal with outliers The image above is a boxplot .</p>\n<p><strong>Highyeild:</strong></p><p>A boxplot is a standardized way of displaying the distribution of data based on a five number summary (\u201cminimum\u201d, first quartile (Q1), median, third quartile (Q3), and \u201cmaximum\u201d). Although boxplots may seem primitive in comparison to a histogram or density plot , they have the advantage of taking up less space, which is useful when comparing distributions between many groups or datasets. First quartile (Q1/25th Percentile): the middle number between the smallest number (not the \u201cminimum\u201d) and the median of the dataset. Third quartile (Q3/75th Percentile): the middle value between the median and the highest value (not the \u201cmaximum\u201d) of the dataset. Interquartile range (IQR): 25th to the 75th percentile. Whiskers (shown in blue) Outliers (shown as green circles) \u201cmaximum\u201d: Q3 + 1.5*IQR \u201cminimum\u201d: Q1 -1.5*IQR</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p><strong>Extraedge:</strong></p><p>If median is in the middle of the box, and the whiskers are about the same on both sides of the box, the distribution is normal/symmetric. If median is closer to the top of the box, and the whisker is shorter on the upper end of the box, the distribution is negatively (left) skewed. If median is closer to the bottom of the box, and the whisker is shorter side on the lower end of the box, the distribution is positively (right) skewed. Small unfilled circles/dots indicate suspected outliers while filled circles/dots indicate known outliers.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b7fd50e7",
+      "audio": ""
+    },
+    {
+      "text": "Regarding experimental studies, in a RCT all are true, except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baseline characteristics are comparable",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bias can be eliminated by double blinding",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dropouts are excluded from the study",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sample size depends on the type of study",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dropouts are excluded from the study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Dropouts are excluded from the study</p>\n<p><strong>Highyeild:</strong></p><p>In randomized controlled trial, some losses to follow-up are inevitable due to factors, such as death, migration and loss of interest. This is known as attrition bias. If the attrition is substantial, it may be difficult to generalize the results of the study to the reference population. Every effort, therefore should be made to minimize the losses to follow-up.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a39766f4",
+      "audio": ""
+    },
+    {
+      "text": "Steps in case control studies include? Matching Inference of result data Allocation/Selection Followup Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1,2,3,4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1,3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1,2,3",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1,2,3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1,2,3</p>\n<p><strong>Highyeild:</strong></p><p>Matching is commonly used in case\u2013control studies to adjust for confounding at the design stage. It ensures that adjustment is possible when there is no sufficient overlap in confounding variables between cases and a random set of controls. Selection refers to the allocation of subjects and comparison of groups with and without an exposure to assess associations with subsequent disease. Follow up is not needed as it is a retrospective study.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "02b928b0",
+      "audio": ""
+    },
+    {
+      "text": "Causes of mortality in Neonates in descending order based on verbal autopsy data for India is? Prematurity Birth Asphyxia Sepsis Congenital anomalies Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 3, 2, 4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2, 1, 3, 4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3, 4, 2, 1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3, 4",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1, 2, 3, 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1, 2, 3, 4</p>\n<p><strong>Highyeild:</strong></p><p>The first 28 days of a new-born\u2019s life is a critical window of opportunity for prevention and management of maternal and new-born complications, which can otherwise prove fatal. Verbal Autopsy (VA) technique has been used in such situations to ascertain causes of child deaths and neonatal deaths.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p><strong>Extraedge:</strong></p><p>Causes of mortality in neonates in descending order based on verbal autopsy data for India: Prematurity and LBW Birth asphyxia and birth trauma Neonatal pneumonia Other NCDs (non communicable diseases) Sepsis Congenital anomalies Diarrheal diseases Injuries Tetanus</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f02b0659",
+      "audio": ""
+    },
+    {
+      "text": "A new intervention was introduced, reduced the mortality, but couldn't cure the disease. What will it do to the prevalence and incidence in that population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase prevalence",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Increase incidence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decrease prevalence",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decrease incidence",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Increase prevalence",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Increase prevalence In cases described as in the question, prevalence increases since the number of people with disease eventually increases due to lesser mortality. However, incidence remains the same as the new drug has no effect on occurrence of new cases.</p>\n<p><strong>Highyeild:</strong></p><p>Prevalence refers to proportion of persons who have a condition at or during a particular time period. Incidence refers to the proportion or rate of persons who develop a condition during a particular time period.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1c7cc727",
+      "audio": ""
+    },
+    {
+      "text": "Hepatitis B subunit vaccine is derived from which antigen:",
+      "options": [
+        {
+          "label": "A",
+          "text": "HBeAg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "HBsAg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "HBcAg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HBV DNA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. HBsAg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>HBsAg Hepatitis B subunit vaccine is derived from HBsAg.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Live Viral Adenovirus, sabin polio, varicella, yellow fever, smallpox, influenza (intranasal), MMR, oral rotavirus Bacterial BCG, oral typhoid Killed Full Virus Salk polio, rabies, hepatitis A, influenza (injection) Subunit Protein-based Subunit: hepatitis B (HBsAg), HPV (types 6, 11, 16, and 18), acellular pertussis (aP) Polysaccharide based \u2022 Toxoid: diphtheria, tetanus (DT) \u2022 Pure: Hib, pneumococcal (PPSV23), meningococcal (MPSV4) \u2022 Conjugate (pure + toxoid protein): Hib, pneumococcal (PCV13), meningococcal (MCV4)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aceec61f",
+      "audio": ""
+    },
+    {
+      "text": "Meta-analysis includes all except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Randomization",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Analysis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Abstraction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Selection",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Randomization",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Randomization</p>\n<p><strong>Highyeild:</strong></p><p>The steps of meta-analysis are similar to that of a systematic review and include: Identification : The first step in a meta-analysis is to find all of the pertinent articles on your topic. Selection : Once the author of a meta-analysis has assembled a large number of studies, it is important to select the right ones. Abstraction : abstraction of relevant data from individual studies (framing of summary estimates) + assessment of study quality + examination of publication bias.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p><strong>Extraedge:</strong></p><p>The Q statistic, interpreted using a chi-square distribution, is often used as a test of homogeneity. Fixed effects models consider only within-study variability. The assumption is that studies use identical methods, patients, and measurements; that they should produce identical results; and that differences are only due to within-study variation. The Peto and Mantel-Haenszel odds ratios are both based on a fixed effects model. Random effects models consider both between-study and within-study variability. The assumption is that studies are a random sample from the universe of all possible studies. The DerSimonian Laird statistic is based on a random effects model.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e178e83b",
+      "audio": ""
+    },
+    {
+      "text": "Best study to find out strength of association i.e. relation between exposure and outcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Case-control",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cohort study",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cross-sectional",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ecological study",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cohort study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cohort study</p>\n<p><strong>Highyeild:</strong></p><p>A major advantage of the cohort study design is the ability to study multiple outcomes that can be associated with a single exposure or multiple exposures in a single study. Even the combined effect of multiple exposures on the outcome can be determined. Strengths Limitations Case-control studies Require less time and less expensive Cannot determine incidence or Require smaller sample size prevalence Can evaluate multiple exposures Cannot determine causality Useful for rare diseases/outcomes Not useful for rare exposures Recall bias Selection bias Cohort studies Can determine incidence Requires more time and more expensive Can determine causality of exposure Requires larger sample size Can evaluate multiple outcomes Not useful for rare diseases/outcomes Useful for rare exposures Loss to follow-up bias Misclassification bias</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. The case control method has 3 distinct features: both exposure and outcome have occurred before the start of the study. The study proceeds backwards from effect to cause. It uses a control or comparison group to support or refute an inference. Option C. Cross-sectional studies are observational in nature and are known as descriptive research, not causal or relational, meaning that you can't use them to determine the cause of something, such as a disease. Researchers record the information that is present in a population, but they do not manipulate variables. Option D. Ecological studies are used to understand the relationship between outcome and exposure at a population level, where 'population' represents a group of individuals with a shared characteristic such as geography, ethnicity, socio-economic status of employment.</p>\n<p><strong>Extraedge:</strong></p><p>The relative risk is the measure of association for a cohort study. It tells us how much more likely (or less likely) it is for people exposed to a factor to develop a disease compared to people not exposed to the factor. The odds ratio is the \u201cmeasure of association\u201d for a case-control study. The odds ratio tells us how much higher the odds of exposure are among case-patients than among controls.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2aac15b5",
+      "audio": ""
+    },
+    {
+      "text": "Human Development Index includes which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "LE at one year, income, literacy rate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "LE at one year, income, decent standard of living",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "LE at birth, living standard, literacy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "IMR, decent living standard, knowledge",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. LE at birth, living standard, literacy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>LE at birth, living standard, literacy</p>\n<p><strong>Highyeild:</strong></p><p>Calculation of HDI combines four major indicators: life expectancy for health (at birth) Knowledge (literacy) Expected years of schooling, Mean of years of schooling for education and Gross National Income per capita for standard of living.</p>\n<p><strong>Extraedge:</strong></p><p>The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. The HDI is the geometric mean of normalized indices for each of the three dimensions. The HDI was created to emphasize that people and their capabilities should be the ultimate criteria for assessing the development of a country, not economic growth alone. The HDI can also be used to question national policy choices, asking how two countries with the same level of GNI per capita can end up with different human development outcomes. India gained in global rankings by eight points (131 st rank under HDI and 123 rd rank under PHDI), and its per capita carbon emission (production) and material footprint are well below the global average. PQLI and HDI are similar, the main difference between the two being the inclusion of income in HDI and exclusion of the same from PQLI . In a sense, HDI represents both physical and financial attributes of development and PQLI has only the physical aspects of life.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "462d79d8",
+      "audio": ""
+    },
+    {
+      "text": "In recent days, incidence of non communicable diseases like diabetes and hypertension have increased. This is an example of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyclical trend",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Seasonal trend",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Periodic trend",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Secular trend",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Secular trend",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Secular trend As mom communicable diseases have been mentioned.</p>\n<p><strong>Highyeild:</strong></p><p>Short Term Fluctuations (Epidemic): Common-source epidemics : Single exposure or \u2018Point source\u2019 epidemics Continuous or multiple exposure epidemics Propagated epidemics Periodic Fluctuations: Seasonal trends : Is seasonal variation/fluctuation in occurrence of a disease \u2013is due to vector variation, environmental factors and change in herd immunity Cyclical trends : Is occurrence of a disease in cycles spread over short periods of time, which may be days, weeks, months or years Long Term Fluctuations [Secular Trends]: changes in occurrence of a disease (progressive increase or decrease) over a long period of time, generally several years or decades - consistent tendency to change in a particular direction or a definite movement in one direction.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "690c0988",
+      "audio": ""
+    },
+    {
+      "text": "Incidence can be calculated by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prospective study",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Retrospective study",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Case-control study",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cross-sectional study",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prospective study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Prospective study</p>\n<p><strong>Highyeild:</strong></p><p>Incidence can be calculated in prospective studies, examples of which are cohort studies, randomized controlled trials. Cohort studies are usually but not exclusively prospective. However, a prospective study is sometimes used as a synonym for cohort study. Incidence is a measure of the risk of developing some new condition within a specified period of time. Although sometimes loosely expressed simply as the number of new cases during some period, it is better expressed as a proportion or a rate with a denominator. So in a case-control study incidence (as well as relative risk) cannot be calculated as there is no appropriate denominator or population at risk, to calculate these rates.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B. A retrospective cohort study is one in which the outcomes have all occurred before the time of investigation. Option C. The case control method has 3 distinct features: both exposure and outcome have occurred before the start of the study. The study proceeds backwards from effect to cause. It uses a control or comparison group to support or refute an inference.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "11974b9f",
+      "audio": ""
+    }
+  ]
+}

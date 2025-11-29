@@ -1,0 +1,943 @@
+{
+  "meta": {
+    "id": "test75",
+    "title": "Pulmonology-Bronchial_asthma_and_COPD",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 55-year-old male with a history of heavy smoking presents with a cough and sputum production for 4 months. Which statement is true regarding his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diagnosis requires symptoms for at least 2 consecutive months.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Smoking cessation is the only intervention that positively impacts COPD",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Inhaled bronchodilators are the primary treatment for chronic bronchitis.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hemoptysis is the initial symptom indicative of chronic bronchitis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Smoking cessation is the only intervention that positively impacts COPD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:559px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chronic Bronchitis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cough and <span class=\"customMeta\" data-dictid=\"5353537f861692777199e48431cd88\">sputum</span> production lasting for at <strong>least 3 months in each of 2 consecutive years. (Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>One of the phenotypes associated with COPD, alongside emphysema. Large <span class=\"customMeta\" data-dictid=\"4a371bd76e16927771835d6c738d1d\">bronchi</span> overtime become inflamed and scarred.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cigarette smoking (95% of COPD</strong> cases in the UK attributed to tobacco smoke).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Initial symptoms include cough, <span class=\"customMeta\" data-dictid=\"5353537f861692777199e48431cd88\">sputum</span> production, and <strong>\"smoker's cough\";</strong> <span class=\"customMeta\" data-dictid=\"444cf910041692777188685b347d0f\">hemoptysis</span> may occur during exacerbations. <strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Consider chronic asthma, tuberculosis, bronchiectasis, congestive heart failure.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chest X-ray, blood count, and alpha-1 antitrypsin <span class=\"customMeta\" data-dictid=\"fc026ff6d81692777182835f6de6df\">assay</span> to rule out other conditions.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduce exposure to harmful particles and manage symptoms.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Smoking cessation (only intervention that positively impacts COPD) <strong>(Option B)</strong>, <strong>inhaled bronchodilators (Option C ruled out)</strong>,<strong> glucocorticoids.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Generally progressive; influenced by age (inversely related) and post-bronchodilator FEV1 (directly related).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weight loss, <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> hypertension; common causes of death include <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure, <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> disease, and lung cancer.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "af72d072"
+    },
+    {
+      "text": "A 68-year-old male patient with COPD presents with severe respiratory distress. Before initiating Non-Invasive Ventilation (NIV), which of the following conditions would be considered as absolute contraindication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe hypoxemia with pH < 7.1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lack of spontaneous breathing or gasping",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Post upper gastrointestinal surgery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Massive retention of secretions despite bronchoscopy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lack of spontaneous breathing or gasping",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5e144f89"
+    },
+    {
+      "text": "Which of the following statements regarding the management of COPD is correct ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhaled corticosteroids (ICS) should be used as monotherapy in all COPD patients",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Long-acting bronchodilators are the mainstay of treatment for moderate to severe COPD",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Antibiotics are routinely prescribed for the prevention of COPD exacerbations",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary rehabilitation is only recommended for patients with mild COPD",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Long-acting bronchodilators are the mainstay of treatment for moderate to severe COPD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>References:</strong></p>\n<ul><li>\u21b3 Identify and Address Underlying Cause Treating the underlying cause is key (e.g., treating heart failure resolves pleural effusion, treating pneumonia alleviates cough/breathlessness).</li><li>\u21b3 Identify and Address Underlying Cause</li><li>\u21b3 Treating the underlying cause is key (e.g., treating heart failure resolves pleural effusion, treating pneumonia alleviates cough/breathlessness).</li><li>\u21b3 Treating the underlying cause is key (e.g., treating heart failure resolves pleural effusion, treating pneumonia alleviates cough/breathlessness).</li><li>\u21b3 Assess Severity GOLD Classification for COPD : Based on post-bronchodilator FEV1, guiding treatment escalation. mMRC Dyspnoea Scale : Assesses breathlessness severity, helps in decisions like pulmonary rehab or oxygen therapy. BODE Index for COPD : Uses BMI, airflow obstruction, dyspnoea, and exercise capacity to predict mortality risk and prioritise interventions.</li><li>\u21b3 Assess Severity</li><li>\u21b3 GOLD Classification for COPD : Based on post-bronchodilator FEV1, guiding treatment escalation. mMRC Dyspnoea Scale : Assesses breathlessness severity, helps in decisions like pulmonary rehab or oxygen therapy. BODE Index for COPD : Uses BMI, airflow obstruction, dyspnoea, and exercise capacity to predict mortality risk and prioritise interventions.</li><li>\u21b3 GOLD Classification for COPD : Based on post-bronchodilator FEV1, guiding treatment escalation.</li><li>\u21b3 GOLD Classification for COPD</li><li>\u21b3 mMRC Dyspnoea Scale : Assesses breathlessness severity, helps in decisions like pulmonary rehab or oxygen therapy.</li><li>\u21b3 mMRC Dyspnoea Scale</li><li>\u21b3 BODE Index for COPD : Uses BMI, airflow obstruction, dyspnoea, and exercise capacity to predict mortality risk and prioritise interventions.</li><li>\u21b3 BODE Index for COPD</li><li>\u21b3 Individualise Treatment Comorbidities : Conditions like heart disease, diabetes, or renal impairment can affect drug choices. Drug Interactions : Consider interactions between respiratory and other medications. Patient Preferences : Shared decision-making regarding inhaler devices and treatment options.</li><li>\u21b3 Individualise Treatment</li><li>\u21b3 Comorbidities : Conditions like heart disease, diabetes, or renal impairment can affect drug choices. Drug Interactions : Consider interactions between respiratory and other medications. Patient Preferences : Shared decision-making regarding inhaler devices and treatment options.</li><li>\u21b3 Comorbidities : Conditions like heart disease, diabetes, or renal impairment can affect drug choices.</li><li>\u21b3 Comorbidities</li><li>\u21b3 Drug Interactions : Consider interactions between respiratory and other medications.</li><li>\u21b3 Drug Interactions</li><li>\u21b3 Patient Preferences : Shared decision-making regarding inhaler devices and treatment options.</li><li>\u21b3 Patient Preferences</li><li>\u21b3 Inhaled corticosteroids (ICS) as monotherapy (Option A) is incorrect because ICS should not be used alone in COPD management. They are typically used in combination with bronchodilators in patients with frequent exacerbations.</li><li>\u21b3 Inhaled corticosteroids (ICS) as monotherapy (Option A)</li><li>\u21b3 Antibiotics for prevention of exacerbations (Option C) is incorrect because antibiotics are reserved for acute exacerbations and not used routinely for prevention.</li><li>\u21b3 Antibiotics for prevention of exacerbations (Option C)</li><li>\u21b3 Pulmonary rehabilitation only for mild COPD (Option D) is incorrect as pulmonary rehabilitation is recommended for patients with moderate to severe COPD, not just mild cases.</li><li>\u21b3 Pulmonary rehabilitation only for mild COPD (Option D)</li></u\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c3026395"
+    },
+    {
+      "text": "A 62-year-old male with chronic obstructive pulmonary disease (COPD) reports increasing breathlessness over the past few months. He now has to stop for breath after walking about 100 metres on level ground. According to the modified Medical Research Council (mMRC) dyspnoea scale, which grade best describes his level of breathlessness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grade 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Grade 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Grade 3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Grade 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Grade 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:567px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Grade</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description of Breathlessness</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not troubled by breathlessness except on strenuous exertion.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Short of breath when hurrying on the level or walking up a slight hill. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Walks slower than others of the same age or stops for breath when walking. <strong>(Option B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>3</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stops for breath after walking 100 metres or after a few minutes on the level.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>4</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Too breathless to leave the house or breathless while dressing/undressing. <strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "91ede3a8"
+    },
+    {
+      "text": "Which of the following interventions has been shown to significantly improve survival in patients with chronic obstructive pulmonary disease (COPD)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulmonary rehabilitation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Smoking cessation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Oral glucocorticoids during exacerbations",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pneumococcal vaccination",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Smoking cessation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5c8a267c"
+    },
+    {
+      "text": "A 65-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents for routine follow-up. He reports increased breathlessness while walking on level ground and has experienced two exacerbations in the past year. According to the 2023 GOLD classification, which group does this patient belong to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Group A: Low risk, low symptoms",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Group B: Low risk, high symptoms",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Group C: High risk, low symptoms",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Group D: High risk, high symptoms",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Group D: High risk, high symptoms",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/9iyBJhEtdotIMmzDvsrZ1744321768.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Group</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Goals</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Short-acting bronchodilators (e.g., albuterol) as needed.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Symptom control and improved quality of life.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>B</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Initiate long-acting bronchodilators (LABA/LAMA).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Focus on symptom relief with low <span class=\"customMeta\" data-dictid=\"b5a5dcf4021692777187e3c0d2d47d\">exacerbation</span> risk.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>E (formerly C & D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>LABA/LAMA or LABA + <span class=\"customMeta\" data-dictid=\"e2c420c53d1692777189e40c773793\">ICS</span> (depending on <span class=\"customMeta\" data-dictid=\"b5a5dcf4021692777187e3c0d2d47d\">exacerbation</span> history).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Comprehensive management to reduce symptoms and exacerbations.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "02c80695"
+    },
+    {
+      "text": "A 68-year-old woman with a history of Chronic Obstructive Pulmonary Disease (COPD) is evaluated for her BODE Index score. Her current Body Mass Index (BMI) is 20 kg/m\u00b2, her post-bronchodilator FEV1 is 42% of the predicted value, she reports a mMRC dyspnoea score of 3, and she walks 340 metres during a 6-minute walk test. What is her total BODE Index score?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 6",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/2e8UQbJhyZ8aNu72w00R1744321596.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Component</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Score Range</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Body Mass Index (BMI)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures body fat based on height and weight; lower <span class=\"customMeta\" data-dictid=\"765e9149d01692777183c3989c6590\">BMI</span> indicates poorer prognosis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0 to 3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Obstruction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Evaluated by post-bronchodilator FEV1% predicted; lower values signify severe <span class=\"customMeta\" data-dictid=\"99caf903791692777180bc28743310\">airflow</span> obstruction.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0 to 3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Dyspnoea</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Assessed using the modified <span class=\"customMeta\" data-dictid=\"77ded5edf5169277719341a57e79e9\">MRC</span> dyspnoea scale; higher scores indicate greater breathlessness.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0 to 3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Exercise Capacity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measured by the distance walked in 6 minutes; shorter distances reflect poorer exercise tolerance.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0 to 3</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1740a40a"
+    },
+    {
+      "text": "A 70-year-old male with a long-standing history of chronic obstructive pulmonary disease (COPD) presents to the clinic with worsening breathlessness and cough. His smoking history is significant for 45 pack-years. O/E, he has bilateral wheezes and a respiratory rate of 24 breaths per minute. His oxygen saturation is 89% on room air, and spirometry confirms a post-bronchodilator FEV1/FVC ratio of 60%. Which of the following is the most appropriate first-line treatment to improve his breathlessness and reduce the risk of exacerbations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral theophylline combined with ICS",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Long-acting bronchodilator (LABA) combined with an inhaled glucocorticoid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Long-term oxygen therapy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary rehabilitation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Long-acting bronchodilator (LABA) combined with an inhaled glucocorticoid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>References:</strong></p>\n<ul><li>\u21b3 Focuses on quality of life and symptom control in advanced COPD.</li><li>\u21b3 Morphine for breathlessness, benzodiazepines for anxiety.</li><li>\u21b3 Discuss resuscitation preferences with patients before critical illness.</li></ul>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Medication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Key Points</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bronchodilators</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Central to managing COPD</strong>; inhaled route preferred. Short-acting for mild cases; long-acting for moderate to severe cases. Oral bronchodilators (e.g., theophylline) are a second option due to side effects. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Inhaled Glucocorticoids</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Combined with LABAs to improve lung function, reduce exacerbations, and improve quality of life. Risk of <span class=\"customMeta\" data-dictid=\"1000989d33169277719652247cd559\">pneumonia</span> in elderly patients. Triple therapy adds a LAMA to LABA/glucocorticoid combo. <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Oral Glucocorticoids</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Used in <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> exacerbations but avoided long-term due to side effects (e.g., osteoporosis).</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pulmonary Rehabilitation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involves exercise, education, and <span class=\"customMeta\" data-dictid=\"05bef24e711692777193a154b462b4\">nutrition</span> counselling. Reduces symptoms, improves exercise tolerance and quality of life. Typically lasts 6\u201312 weeks. <strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Oxygen Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Long-term oxygen therapy (LTOT) for patients with severe hypoxaemia (PaO2 < 7.3 kPa). Use >15 hours/day improves survival. <span class=\"customMeta\" data-dictid=\"4712037d54169277718165d90f2550\">Ambulatory</span> oxygen for patients desaturating on exercise. <strong>(Option C ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Surgical Intervention</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bullectomy and <span class=\"customMeta\" data-dictid=\"dd1db6e4e91692777191b3081e39a4\">lung volume reduction</span> surgery (LVRS) for upper <span class=\"customMeta\" data-dictid=\"d7dd6ae43c1692777191cf75c0bd58\">lobe</span> <span class=\"customMeta\" data-dictid=\"279b1fbead1692777187ddfd24c257\">emphysema</span> or large bullae. Lung <span class=\"customMeta\" data-dictid=\"ee9f07b0a81692777200e416e4e5d7\">transplantation</span> for advanced cases.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "970e4e41"
+    },
+    {
+      "text": "A 62-year-old woman with a history of chronic obstructive pulmonary disease (COPD) presents with increased breathlessness, cough, and sputum production over the last two days. She appears distressed and has a respiratory rate of 28 breaths per minute. Her oxygen saturation is 88% on room air. Which of the following management strategies is most appropriate for her immediate treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initiate high-flow oxygen therapy to maintain oxygen saturation above 95%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start nebulised bronchodilator therapy with salbutamol and ipratropium",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Begin intravenous glucocorticoids immediately",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Order a chest X-ray before any treatment is provided",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Start nebulised bronchodilator therapy with salbutamol and ipratropium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Investigation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purpose/Findings</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Arterial blood gases</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Assess severity of hypoxaemia, hypercapnia, acidaemia; guide oxygen therapy and ventilation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Chest X-ray</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Identify complications such as pneumonia, pneumothorax, or pleural effusion. <strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Oxygen Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Administer<strong> controlled oxygen at 24% or 28%</strong> to maintain PaO2 > 8 kPa (60 mmHg) or SaO2 > 90%. <strong>(Option A ruled out)</strong></li>\n<li>Regular <span class=\"customMeta\" data-dictid=\"b905d8d51416927771821f9cceb3a3\">arterial blood</span> gas monitoring to adjust therapy.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bronchodilators</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Use nebulised short-acting \u03b22-agonists (e.g., salbutamol, terbutaline) with anticholinergics (e.g., ipratropium).</li>\n<li>If oxygen sensitivity is a concern, use compressed air for nebulisation.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Glucocorticoids</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Administer oral <span class=\"customMeta\" data-dictid=\"2d5e8899351692777196bdf7ced01d\">prednisolone</span> (30 mg for 10 days) to reduce symptoms and improve lung function.Reduces frequency and severity of exacerbations.</li>\n<li>Consider <span class=\"customMeta\" data-dictid=\"4c8be6d6b716927771948551f98378\">osteoporosis</span> <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> for repeated courses.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Antibiotic Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Indicated for increased <span class=\"customMeta\" data-dictid=\"5353537f861692777199e48431cd88\">sputum</span> purulence, volume, or breathlessness.</li>\n<li>Use simple regimens (aminopenicillin, tetracycline, macrolide); <span class=\"customMeta\" data-dictid=\"dd4d53634b1692777184851322327e\">co-amoxiclav</span> in areas with \u03b2-lactamase organisms.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Non-Invasive <span class=\"customMeta\" data-dictid=\"a58f1f33f81692777201ad5e0d60ca\">Ventilation</span> (NIV)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Safe for mild to moderate <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> acidosis; helps reduce <span class=\"customMeta\" data-dictid=\"83e66fab2f1692777190a43a6e300f\">intubation</span> need and mortality.</li>\n<li>Not suitable for patients unable to protect their airway.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Mechanical Ventilation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Consider if there is a <span class=\"customMeta\" data-dictid=\"a4488d66fc16927771975d043c4ccc\">reversible</span> cause, no prior <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure, or if <span class=\"customMeta\" data-dictid=\"0e4135f3bc1692777193047657d8c5\">NIV</span> has failed/contraindicated.</li>\n<li>Decisions should involve the patient, family, and GP.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Additional Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Diuretics for <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> oedema.</li>\n<li>Limited evidence for <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> aminophylline; consider <span class=\"customMeta\" data-dictid=\"5280ec6ae91692777182aa6322ae68\">arrhythmia</span> risk.</li>\n<li>Doxapram may be used short-term for low <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> rates.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "844a5c10"
+    },
+    {
+      "text": "A 55-year-old man presents with a 6-month history of worsening breathlessness, chronic cough, and occasional sputum production. He has a 30-pack-year smoking history. On examination, there is no finger clubbing, and pulse oximetry shows oxygen saturation of 92% on room air. Spirometry reveals an FEV1/FVC ratio of 60% post-bronchodilator. What is the most appropriate next investigation to assess the severity of his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chest X-ray",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Blood gas analysis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "High-resolution computed tomography (HRCT)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spirometry with post-bronchodilator FEV1%",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Spirometry with post-bronchodilator FEV1%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Investigation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Purpose/Findings</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Chest X-ray</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detects alternative diagnoses, complications like <span class=\"customMeta\" data-dictid=\"4534214488169277718575e08a9bc0\">cor</span> pulmonale, bullae, <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> failure, or lung cancer. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Blood count</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Excludes anaemia, detects polycythaemia or infection. Assays \u03b11-antitrypsin in younger patients.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Spirometry</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Confirms <span class=\"customMeta\" data-dictid=\"99caf903791692777180bc28743310\">airflow</span> <span class=\"customMeta\" data-dictid=\"39f44b27bf169277719416f29a74ee\">obstruction</span> (post-bronchodilator FEV1/FVC < 70%), assesses <span class=\"customMeta\" data-dictid=\"6a75d857ea1692777185f9245b02b8\">COPD</span> severity. <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Lung volume measurement</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Assesses hyperinflation, uses <span class=\"customMeta\" data-dictid=\"a06b8ce45e169277718831d679651c\">helium</span> <span class=\"customMeta\" data-dictid=\"409e887c94169277718652d5db3c32\">dilution</span> or body <span class=\"customMeta\" data-dictid=\"5e7bc7da6d16927771950fcdea984a\">plethysmography</span> for severe cases.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Gas transfer measurement</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low gas transfer suggests emphysema.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Exercise tests</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Assesses exercise tolerance, response to therapy, and prognosis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pulse oximetry</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Identifies need for <span class=\"customMeta\" data-dictid=\"05a627febd169277718668accc0c83\">domiciliary</span> oxygen (O2 <span class=\"customMeta\" data-dictid=\"e4696a0f8d169277719865588e55c7\">saturation</span> < 93%).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>High-resolution CT (HRCT)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detects, characterises, quantifies emphysema, guides <span class=\"customMeta\" data-dictid=\"dd1db6e4e91692777191b3081e39a4\">lung volume reduction</span> surgery.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Arterial blood gas analysis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Assesses <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure and acid-base status. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>FEV\u2081 % of Predicted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Exacerbations (Risk)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>I (Mild)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>FEV\u2081 \u2265 80% of predicted</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Often none or mild symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare or no exacerbations</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>II (Moderate)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>FEV\u2081 50\u201379% of predicted</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Symptoms worsen with exertion</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1 or more exacerbations per year</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>III (Severe)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>FEV\u2081 30\u201349% of predicted</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe symptoms, limits daily activities</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Frequent exacerbations</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>IV (Very Severe)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>FEV\u2081 < 30% of predicted or FEV\u2081 < 50% with chronic <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Very severe symptoms, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure may occur</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Very frequent exacerbations, potentially life-threatening</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3617df86"
+    },
+    {
+      "text": "A 65-year-old man with a 40-pack-year smoking history presents with chronic productive cough, worsening breathlessness, and peripheral oedema. Physical examination reveals central cyanosis and ankle swelling. Arterial blood gas analysis shows raised PaCo2and hypoxia. Which of the following conditions best describes the patient's clinical phenotype?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pink puffer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Blue bloater",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Bronchiectasis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Asthma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Blue bloater",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Hypercapnia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elevated CO2 levels in the blood.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Polycythaemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"248111ded81692777197946454db52\">red blood cell</span> concentration due to chronic low oxygen.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Oedema</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fluid retention, often <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> <span class=\"customMeta\" data-dictid=\"a249eeb5551692777189661d39c1b2\">hypoxia</span> and hypercapnia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Common symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cough, <span class=\"customMeta\" data-dictid=\"5353537f861692777199e48431cd88\">sputum</span> production, breathlessness, oedema, morning headaches.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "caca909c"
+    },
+    {
+      "text": "A 65-year-old male patient presents with a history of chronic cough and sputum production for the past several years. He is thin and exhibits significant breathlessness primarily during physical activity, but he reports minimal symptoms at rest. Arterial blood gas analysis shows a normal PaCO2. Which of the following is the most likely diagnosis for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chronic bronchitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Asthma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Emphysema",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Interstitial lung disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Emphysema",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cough and <span class=\"customMeta\" data-dictid=\"5353537f861692777199e48431cd88\">sputum</span> production (often \"smoker's cough\")</p>\n<p>Breathlessness, mainly during physical activity with minimal symptoms at rest or overnight</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Physical Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Quiet breath sounds</p>\n<p>Thin body habitus</p>\n<p>Possible crackles on lung auscultation, particularly with infection</p>\n<p>Late-stage may show finger <span class=\"customMeta\" data-dictid=\"4defbc994e16927771848875f94fee\">clubbing</span> (not typical for COPD, warrants further investigation)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Arterial Blood Gasses</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal PaCO2 (35-45 mmHg) until late-stage</p>\n<p>Increased PaCO2 leads to <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> as the disease progresses</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chest X-Ray</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>May show <span class=\"customMeta\" data-dictid=\"279b1fbead1692777187ddfd24c257\">emphysema</span> but often normal until advanced stages</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pulmonary Function Tests</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Airflow obstruction</p>\n<p>Reduced FEV1/FVC ratio <70% (key indicator of COPD)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "87200422"
+    },
+    {
+      "text": "A 65-year-old patient with a history of chronic obstructive pulmonary disease (COPD) presents with worsening shortness of breath and edema. Right heart catheterization reveals a mean pulmonary artery pressure of 30 mmHg. Which of the following statements about pulmonary hypertension (PH) in this patient is most accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulmonary hypertension in COPD is primarily caused by increased left atrial pressure.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The prognosis of COPD is directly proportional to age.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Right ventricular hypertrophy may be observed on an electrocardiogram (ECG).",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Treatment options for pulmonary hypertension in COPD primarily include corticosteroids.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Right ventricular hypertrophy may be observed on an electrocardiogram (ECG).",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>COPD Treatments </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pulmonary <span class=\"customMeta\" data-dictid=\"45372f6c361692777189ff3209e642\">Hypertension</span> Treatments</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Smoking cessation (Most important)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diuretic therapy for right-sided heart failure</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhaled bronchodilators</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Supplemental oxygen</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhaled corticosteroids (glucocorticoids) <strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Double lung transplantation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Oxygen therapy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pulmonary <span class=\"customMeta\" data-dictid=\"48ab5c66fd1692777200b7a31ef74f\">thromboendarterectomy</span> (for chronic <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> thromboembolic disease)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pulmonary rehabilitation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Atrial septostomy</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e348eb71"
+    },
+    {
+      "text": "A 60-year-old male with a long history of smoking presents to the clinic with chronic cough and wheezing. He mentions that he had multiple respiratory infections during childhood and was born with low birth weight. Which of the following factors is most likely to have the greatest impact on the progression of his Chronic Obstructive Pulmonary Disease (COPD)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Airway hyper-reactivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tobacco smoke",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Recurrent infections",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Impaired lung growth",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tobacco smoke",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:622px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tobacco Smoke</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary risk factor</strong>; risk increases with amount and duration of smoking; responsible for <strong>90% of <span class=\"customMeta\" data-dictid=\"6a75d857ea1692777185f9245b02b8\">COPD</span> cases</strong>. <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indoor Air Pollution</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Significant risk from cooking with <span class=\"customMeta\" data-dictid=\"710a0f411416927771831201ad5566\">biomass</span> fuels (wood, dung) in enclosed spaces, especially in developing countries.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Occupational Exposures</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Linked to exposure to coal dust, silica, and cadmium; coal worker's <span class=\"customMeta\" data-dictid=\"67bf7be75e16927771951318e1670e\">pneumoconiosis</span> (CWP) can resemble COPD.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Low Birth Weight</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated with lower lung function in adulthood, raising <span class=\"customMeta\" data-dictid=\"6a75d857ea1692777185f9245b02b8\">COPD</span> risk.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Impaired Lung Growth</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Influenced by childhood infections or <span class=\"customMeta\" data-dictid=\"a191a950d7169277719148e72a75e2\">maternal</span> smoking, leading to <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> lung function later in life. <strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Recurrent Infections</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can accelerate the decline in FEV1 (lung function) and alter <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">inflammatory</span> responses, increasing lung damage risk. <strong>(Option C ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Genetic Factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alpha1-antitrypsin <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> reduces protective lung protein levels; other genetic <span class=\"customMeta\" data-dictid=\"6ced8252211692777199ab0cc3f2bb\">susceptibility</span> factors may also contribute.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Airway Hyper-reactivity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased sensitivity to environmental triggers, which may facilitate <span class=\"customMeta\" data-dictid=\"6a75d857ea1692777185f9245b02b8\">COPD</span> development. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>HIV Infection</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated with emphysema, a subtype of COPD.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Low Socioeconomic Status</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Correlates with higher <span class=\"customMeta\" data-dictid=\"6a75d857ea1692777185f9245b02b8\">COPD</span> risk, potentially due to multiple factors.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cannabis Smoking</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Identified as a contributing factor.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f5c66c0a"
+    },
+    {
+      "text": "A 10-year-old boy presents with wheezing and shortness of breath, worsening at night. His symptoms are triggered by dust and pet dander. Spirometry shows an obstructive pattern that improves with a bronchodilator. What is the underlying mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IgG-mediated immune complexes.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "IgE-mediated mast cell degranulation.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Bronchial irritation from pollutants.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Viral infection causing airway remodeling.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. IgE-mediated mast cell degranulation.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/S6CauvwJqGDri7VpzaZF1744320776.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9c9071dd"
+    },
+    {
+      "text": "A 65-year-old male presents with progressive dyspnea and a history of smoking for 25 years. Imaging studies reveal abnormal enlargement of air spaces distal to the terminal bronchioles. Which of the following types of emphysema is most likely seen in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Panacinar emphysema",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paraseptal emphysema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Centriacinar emphysema",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Bullous emphysema",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Centriacinar emphysema",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/OZSL7Hi6vxHmf7sw8Z8d1744321319.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:503px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Centriacinar</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enlarged air spaces primarily in the central part of the acinus. <strong>(Option C) </strong>seen in chronic smokers, upper <span class=\"customMeta\" data-dictid=\"d7dd6ae43c1692777191cf75c0bd58\">lobe</span> of lungs are predominantly affected.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Panacinar</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Uniform <span class=\"customMeta\" data-dictid=\"41e56d9a54169277718724ff8c225f\">enlargement</span> of air spaces throughout the acinus. <strong>(Option A ruled out) </strong>seen with <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">congenital</span> <span class=\"customMeta\" data-dictid=\"a9268f2e1d16927771814cfef69cf4\">alpha</span> 1 antitrypsin <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> in younger age group.lower <span class=\"customMeta\" data-dictid=\"2a5408f38416927771914f1e170959\">lobes of lung</span> are commonly involved.associated with liver failure.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Paraseptal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enlargement occurs near the <span class=\"customMeta\" data-dictid=\"8067ea0c85169277719561c9591e9d\">pleura</span> or septa. <strong>(Option B ruled out) </strong><strong>increase risk of <span class=\"customMeta\" data-dictid=\"f71e485d131692777199151d1076d2\">spontaneous</span> pneumothorax.</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "365af2ea"
+    },
+    {
+      "text": "A 58-year-old male, with a 30-year history of smoking, presents with a chronic productive cough for the last 2 years, worsening shortness of breath, and recent weight loss. Examination reveals bilateral wheezing and peripheral edema imaging shows alveolar wall destruction beyond terminal bronchiole. Which of the following pathophysiological mechanisms is primarily responsible for his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pulmonary vascular remodeling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Alpha-1 antitrypsin deficiency",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Airflow limitation due to loss of elastic tissue",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hypersecretion of mucus from goblet cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Airflow limitation due to loss of elastic tissue",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pulmonary Components</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mucus hypersecretion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enlargement of <span class=\"customMeta\" data-dictid=\"ab75ea330616927771938a64f8ebd6\">mucus</span> glands and goblet cells \u2192 chronic <span class=\"customMeta\" data-dictid=\"ce5a7a84ff16927771830347fbbbff\">bronchitis</span> (cough + <span class=\"customMeta\" data-dictid=\"5353537f861692777199e48431cd88\">sputum</span> for \u22653 months/year). <strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Emphysema</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alveolar destruction by proteases and oxidants \u2192 permanent <span class=\"customMeta\" data-dictid=\"41e56d9a54169277718724ff8c225f\">enlargement</span> of <span class=\"customMeta\" data-dictid=\"5ff25303a01692777186731f6a4f5c\">distal</span> airspaces.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Airflow Limitation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Loss of <span class=\"customMeta\" data-dictid=\"2dba7c03f61692777187254f866bcc\">elastic</span> tissue + <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> \u2192 <span class=\"customMeta\" data-dictid=\"84f13673191692777196762b18e036\">premature</span> <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> closure, gas trapping, and hyperinflation.</p>\n<p>This is the primary mechanism for the <span class=\"customMeta\" data-dictid=\"99caf903791692777180bc28743310\">airflow</span> limitation. <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pulmonary <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> remodeling</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Structural changes in <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> vessels.eventually causing PAH. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Systemic Components</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Weight Loss</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Altered fat metabolism.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skeletal Muscle Dysfunction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Muscle <span class=\"customMeta\" data-dictid=\"4885d5d0021692777189aac6dc80f7\">impairment</span> reduces physical capacity.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Peripheral Edema</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Impaired <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> function \u2192 salt and water retention.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Osteoporosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreased bone density.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Increased <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">Inflammatory</span> Markers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elevated <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> contributes to complications.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1748855d"
+    },
+    {
+      "text": "A 42-year-old woman presents to the emergency department with worsening asthma symptoms, fever, and a rash consisting of purpura on her lower extremities. Laboratory findings reveal eosinophilia (1200 cells/\u03bcL) and elevated inflammatory markers. A biopsy of the skin lesion shows extravascular granulomas. Which of the following statements about her condition is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patients often present with systemic symptoms like malaise and weight loss.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The condition typically involves necrotizing vasculitis affecting small and medium-sized blood vessels.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cardiac involvement may lead to complications such as myocarditis and pericarditis.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It primarily affects large blood vessels, leading to significant vascular occlusion.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. It primarily affects large blood vessels, leading to significant vascular occlusion.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f04d94e2"
+    },
+    {
+      "text": "A 45-year-old male presents with chronic shortness of breath, dry cough, fatigue, and weight loss for the past six months. He works in a pigeon breeding facility and reports worsening symptoms over time. High-resolution CT (HRCT) of the chest reveals reticular changes, ground-glass opacities, and traction bronchiectasis. Which of the following statements about his condition is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is caused by a Type I hypersensitivity reaction mediated by IgE antibodies.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary fibrosis is a known complication of chronic HP.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acute HP presents with symptoms several days after antigen exposure.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HRCT is typically normal in hypersensitivity pneumonitis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pulmonary fibrosis is a known complication of chronic HP.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:592px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Disease</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Antigen</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Source</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Farmer\u2019s lung</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thermophilic <span class=\"customMeta\" data-dictid=\"476751a9761692777180c98c5932e2\">actinomycetes</span> (e.g., <span class=\"customMeta\" data-dictid=\"fa4ccef29f16927771981556b7ecb8\">Saccharopolyspora</span> rectivirgula); fungus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Grain, mouldy hay, silage</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bagassosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thermophilic actinomycetes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sugarcane</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bird fancier\u2019s lung</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proteins derived from parakeets, pigeons, budgerigars</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bird feathers, droppings, <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> proteins</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hot tub lung</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cladosporium species; <span class=\"customMeta\" data-dictid=\"e99dbef99f169277719344843cf75a\">Mycobacterium</span> avium complex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Contaminated water, <span class=\"customMeta\" data-dictid=\"223653d0be1692777192d7323599a2\">mould</span> on ceiling</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Woodworker\u2019s lung</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alternaria species; <span class=\"customMeta\" data-dictid=\"461ee544961692777182696a650b05\">Bacillus</span> subtilis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Oak, cedar, pine, mahogany dusts</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d483994d"
+    },
+    {
+      "text": "Which of the following statements best characterizes brittle asthma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Symptoms develop gradually over a few days, allowing time for preventive action.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It is characterized by sudden exacerbations with little or no warning.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Patients with brittle asthma typically have heightened awareness of airway narrowing.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The primary cause of brittle asthma is well understood and easily managed.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It is characterized by sudden exacerbations with little or no warning.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Factor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Patient Perception</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Some patients have a <strong>blunted awareness</strong> of <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> narrowing, making it hard to detect early symptoms.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unpredictability</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sudden onset and severity complicate management and timely intervention.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Impact on Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lack of awareness leads to <strong>delayed treatment</strong>, increasing the risk of severe exacerbations.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "47920604"
+    },
+    {
+      "text": "A 35-year-old male with a history of asthma presents with symptoms occurring four times a week, occasional nighttime awakenings, and the need for rescue inhaler use three times a week. His post-bronchodilator FEV1 is 72% of the predicted value. According to the asthma classification guidelines, how would you categorize the severity and control of his asthma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild asthma, controlled",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Moderate asthma, partly controlled",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Severe asthma, uncontrolled",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Moderate asthma, uncontrolled",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Moderate asthma, partly controlled",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:623px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristic Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Controlled </strong><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Partly Controlled </strong><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Uncontrolled </strong><strong>(Options C & D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Daytime Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Symptoms > twice/week</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Frequent daytime symptoms</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Limitations of Activities</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Any limitations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Significant limitations</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nocturnal Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Any nighttime symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Frequent nighttime symptoms</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Need for Rescue Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< twice/week</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>> twice/week</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Frequent use of rescue medication</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lung Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal (PEF or FEV1)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 80% of predicted/personal best</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Significantly <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> lung function</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Exacerbations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2265 1 per year</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weekly exacerbations</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0f7ba26d"
+    },
+    {
+      "text": "A 30-year-old patient with a history of asthma presents with symptoms occurring more than three times a week and nocturnal awakenings at least once a week. After evaluating the patient's condition, the physician decides to initiate treatment. Which of the following is the most appropriate initial step in the management of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase the dose of short-acting \u03b22-agonist.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start regular inhaled glucocorticoids (ICS).",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Start prednisolone at the lowest effective dose.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Add a long-acting \u03b22-agonist (LABA).",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Start regular inhaled glucocorticoids (ICS).",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Points</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Occasional Short-Acting \u03b22-Agonists(rescue therapy)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>For mild, <span class=\"customMeta\" data-dictid=\"8502a8f15e16927771909160b28bf2\">intermittent</span> <span class=\"customMeta\" data-dictid=\"76891bb6e91692777182cda16e1db6\">asthma</span> (symptoms <1/week, <2 <span class=\"customMeta\" data-dictid=\"d51601f2c41692777193ddfa55d163\">nocturnal</span> episodes/month).</li>\n<li>Use bronchodilators like <span class=\"customMeta\" data-dictid=\"479585b1c81692777198b4f752d734\">salbutamol</span> or terbutaline as needed.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Regular Preventer Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Initiate if exacerbations occur within 2 years or symptoms are frequent (\u22653/week) or <span class=\"customMeta\" data-dictid=\"d51601f2c41692777193ddfa55d163\">nocturnal</span> awakenings occur weekly.</li>\n<li><strong>Inhaled Glucocorticoids (ICS)</strong>: e.g., beclometasone, <span class=\"customMeta\" data-dictid=\"b43d582eda16927771835f2ed1d581\">budesonide</span> (starting dose: 400 \u03bcg/day for adults).</li>\n<li>Alternatives: Chromones, <span class=\"customMeta\" data-dictid=\"5a4fd169911692777191c1cb27b0d7\">leukotriene</span> <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> antagonists, theophyllines.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 3</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Add-on Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Review adherence, <span class=\"customMeta\" data-dictid=\"302965be571692777190f632502628\">inhaler</span> technique, and aggravating factors if poorly controlled.</li>\n<li>Increase <span class=\"customMeta\" data-dictid=\"e2c420c53d1692777189e40c773793\">ICS</span> dose or add <strong>Long-Acting \u03b22-Agonist (LABA)</strong>; combination inhalers are beneficial. <strong>(Options A & D ruled out)</strong></li>\n<li>Consider oral <span class=\"customMeta\" data-dictid=\"5a4fd169911692777191c1cb27b0d7\">leukotriene</span> <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> antagonists (e.g., montelukast 10 mg/day) if needed.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 4</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Addition of a Fourth Drug</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>For inadequate control with moderate <span class=\"customMeta\" data-dictid=\"e2c420c53d1692777189e40c773793\">ICS</span> dose, increase to 2000 \u03bcg/day or add <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> glucocorticoids for upper <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> symptoms.</li>\n<li>Other options: Long-acting antimuscarinics, theophyllines, slow-release \u03b22-agonists.</li>\n<li>Discontinue ineffective add-on therapies.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 5</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Continuous/Frequent Oral Glucocorticoids</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Prescribe <span class=\"customMeta\" data-dictid=\"2d5e8899351692777196bdf7ced01d\">prednisolone</span> at the lowest effective dose, typically in the morning. <strong>(Option C ruled out)</strong></li>\n<li>Monitor for <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> side effects (long-term use risks).</li>\n<li>Consider <strong>Omalizumab</strong> for <span class=\"customMeta\" data-dictid=\"afad60190f1692777182663499dc42\">atopic</span> patients or <strong>Mepolizumab</strong> for <span class=\"customMeta\" data-dictid=\"91bc3a9b3e16927771871bcff74db7\">eosinophilic</span> cases.</li>\n<li>Immunosuppressants are less common due to variable <span class=\"customMeta\" data-dictid=\"7f80be61231692777187391e91e867\">efficacy</span> and side effects.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0e5476ed"
+    },
+    {
+      "text": "A 24-year-old male presents with recurrent episodes of chest tightness, wheezing, and shortness of breath 10 minutes after running. The symptoms usually resolve within 30 minutes. Which of the following is the most appropriate pre-exercise treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long-acting beta agonist (LABA) taken daily",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Short-acting beta agonist (SABA) used 15 minutes before exercise",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Inhaled corticosteroid (ICS) used immediately after exercise",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Leukotriene receptor antagonist (LTRA) taken during an acute episode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Short-acting beta agonist (SABA) used 15 minutes before exercise",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ac934ac1"
+    },
+    {
+      "text": "A 28-year-old woman presents with a history of recurrent wheezing and shortness of breath, particularly during the winter months. She reports that her symptoms worsen with cold air and after respiratory infections. She does not have any known allergies, and her skin prick tests for common allergens are negative. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atopic asthma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Occupational asthma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intrinsic asthma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cough-variant asthma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Intrinsic asthma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Sensitization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>No evidence of <span class=\"customMeta\" data-dictid=\"7396dd35a41692777181bd7038fa9b\">allergen</span> sensitization</li>\n<li>Skin test results usually negative</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Family history</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Less common positive family history of asthma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Common triggers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Respiratory infections (e.g., rhinovirus, parainfluenza virus, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> syncytial virus)</li>\n<li>Inhaled air pollutants (tobacco smoke, <span class=\"customMeta\" data-dictid=\"978b9c4c1a1692777199fc90ace6a5\">sulfur</span> dioxide, ozone, <span class=\"customMeta\" data-dictid=\"391d32291016927771932bab695579\">nitrogen</span> dioxide)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Other triggers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Cold exposure</li>\n<li>Exercise</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Chronic inflammation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Contributes to chronic <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> and hyperreactivity</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Overlap with <span class=\"customMeta\" data-dictid=\"afad60190f1692777182663499dc42\">atopic</span> asthma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Some triggers (e.g., <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> infections, air pollutants) can also trigger <span class=\"customMeta\" data-dictid=\"afad60190f1692777182663499dc42\">atopic</span> asthma</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "809d9309"
+    },
+    {
+      "text": "A 10-year-old girl presents with recurrent wheezing and difficulty breathing, especially during spring. Her symptoms worsen at night and with exercise. She has a family history of asthma. Physical examination reveals wheezing and a skin prick test shows positive reactions to grass pollen. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exercise-induced asthma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Extrinsic asthma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Intrinsic Asthma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Non-atopic asthma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Extrinsic asthma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Type of Hypersensitivity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>IgE-mediated (Type I)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Onset</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Usually begins in childhood</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Common Triggers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Environmental allergens (dust, pollen, <span class=\"customMeta\" data-dictid=\"bfe913d6861692777184fefa14d08a\">cockroach</span> dander, animal dander, certain foods)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cofactors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Respiratory <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> infections</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Family History</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Positive family history of asthma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Immediate wheal-and-flare reaction in skin tests</li>\n<li>High total <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"a54166a5961692777189c5557f61f3\">IgE</span> levels</li>\n<li>RAST for specific <span class=\"customMeta\" data-dictid=\"a54166a5961692777189c5557f61f3\">IgE</span> antibodies</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Immunologic Reaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Th2 and IgE-mediated</li>\n<li>Acute-phase (immediate) and late-phase reactions</li>\n<li>Key cytokines: IL-4, IL-5, IL-13</li>\n<li>Key <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">inflammatory</span> cells: Eosinophils, <span class=\"customMeta\" data-dictid=\"1f95a52091169277719133cc234fe0\">mast</span> cells, neutrophils, T lymphocytes</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4355cbec"
+    },
+    {
+      "text": "A 40-year-old man presents to the clinic with a history of asthma. He reports that he has been using his rescue inhaler (SABA) more frequently, experiencing symptoms on most days and waking up at least twice a week due to shortness of breath. His current management includes as-needed SABA but no regular controller medication. What is the most appropriate next step in his asthma management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continue current treatment and monitor symptoms.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start low-dose inhaled corticosteroids for daily control.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Increase the dosage of the SABA.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Add a leukotriene receptor antagonist for better control.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Start low-dose inhaled corticosteroids for daily control.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/hvW2an2Y7DrkJ9czaQxt1744320986.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "cd2bfbb7"
+    },
+    {
+      "text": "A 35-year-old man presents with complaints of wheezing and shortness of breath that have worsened over the past few weeks. He notes that his symptoms often occur at night and are triggered by exposure to dust and exercise. Spirometry shows a FEV1/FVC ratio of 65%. After using a short-acting \u03b22-agonist, his FEV1 increases by 20%. Which of the following findings would most likely be observed in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased total lung capacity",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Decreased DLCO",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased forced vital capacity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreased residual volume",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Increased total lung capacity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:621px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Test</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Spirometry/PFTs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Best initial test</li>\n<li>IOC</li>\n<li>Obstructive pattern\n\t\t\t\t<ul>\n<li>Reversible with short-acting \u03b22-agonists (SABAs)</li>\n</ul>\n</li>\n<li>Findings:\n\t\t\t\t<ul>\n<li>FEV1/FVC < 70%</li>\n<li>\u2193 FEV1</li>\n<li>Normal or \u2193 FVC<strong> (Option C)</strong></li>\n<li>\u2191 <span class=\"customMeta\" data-dictid=\"a459f313d9169277719789fdfb7ada\">Residual</span> Volume (RV) <strong>(Option D)</strong></li>\n<li>\u2191 <span class=\"customMeta\" data-dictid=\"b0e95f9af21692777200e8a9faabe7\">Total Lung Capacity</span> (TLC)</li>\n<li>Normal or \u2191 <span class=\"customMeta\" data-dictid=\"68325001361692777186184e298e9d\">Diffusing Capacity</span> of Lung for <span class=\"customMeta\" data-dictid=\"bb021d26d3169277718336718849a5\">Carbon Monoxide</span> (DLCO)<strong> (Option B)</strong></li>\n</ul>\n</li>\n<li>Reversibility:\n\t\t\t\t<ul>\n<li>Increase in FEV1 \u2265 12% and >200 mL with SABA (albuterol)</li>\n</ul>\n</li>\n<li>PFTs between exacerbations: Often normal</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Methacholine Challenge</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Tests for bronchial hyperresponsiveness</li>\n<li>Positive if \u226520% decrease in FEV1</li>\n<li>Sensitive but not specific</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Arterial blood gas </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Early\n\t\t\t\t<ul>\n<li>Respiratory <span class=\"customMeta\" data-dictid=\"0dae4cbf251692777181bd4fb21a24\">alkalosis</span> (\u2193 PaCO2, \u2191 pH) due to hyperventilation</li>\n</ul>\n</li>\n<li>Late\n\t\t\t\t<ul>\n<li>Respiratory <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> due to muscle fatigue (normalizing PaCO2, normalizing pH, \u2193 PaO2)</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Chest <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Normal appearance to <span class=\"customMeta\" data-dictid=\"301f9a675d16927771892fb39029d3\">hyperinflation</span> with <span class=\"customMeta\" data-dictid=\"13d0edf82916927772021bfc7f9aeb\">flattening</span> of the diaphragm</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5d3086dc"
+    },
+    {
+      "text": "Which of the following statements about the Hygiene hypothesis is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clean environments may impair immune system maturation in children.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Endotoxin exposure is essential for proper immune development.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fetal immune system is suppressed to prevent rejection of maternal tissue.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lack of exposure to germs is linked to a decreased risk of developing asthma.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Lack of exposure to germs is linked to a decreased risk of developing asthma.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2fc41ba9"
+    }
+  ]
+}

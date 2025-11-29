@@ -1,0 +1,446 @@
+{
+  "meta": {
+    "id": "test7",
+    "title": "Enzyme Kinetics & Enzyme Inhibition",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following enzymes is involved in suicide inhibition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xanthine Oxidase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lipoxygenase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Glucose oxidase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Xanthine Oxidase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Xanthine Oxidase Suicide Inhibition aka mechanism-based inhibition: When the product of an enzyme inhibits its own enzyme activity. The term is mainly used for enzyme inhibitions by artificial inhibitors such as drugs to differentiate it from feedback inhibition. Suicide inhibition of enzyme Xanthine oxidase: Allopurinol first makes oxypurinol using XO which will then inhibits XO itself. It's like oxypurinol is suicidal i.e. it's inhibiting the enzyme responsible for its formation</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option B: Lipoxygenase The lipoxygenases are dioxygenases that produce hydroperoxy derivatives from arachidonic acid known as hydroperoxyeicosatetraenoic acids which can further give rise to inflammatory and hypersensitivity reaction mediators leukotrienes. Examples of 5-LOX inhibitors are pharmaceutical drugs meclofenamate sodium, zileuton, and the natural products myxochelins/pseudochelin Bioactive boswellic acids found in Boswellia serrata (Indian Frankincense) is an allosteric inhibitor of 5-lipoxygenase. Option C: Phospholipase C PLC is an enzyme that is involved in the signal transduction pathway. It acts by hydrolysis of a membrane phospholipid phosphatidylinositol 4,5-bisphosphate (PIP2), to generate two secondary messengers: inositol triphosphate (IP3) and diacylglycerol (DAG) It is regulated by G-protein which in turn gets stimulated in response to an external stimulus such as hormones or a drug molecule, etc. Option D: Glucose oxidase It is a microbial enzyme not found in humans. It is widely used in blood glucose monitoring devices such as glucometer. It has an antimicrobial activity due to the production of H2O2 so used in food preservatives and wound treatment gels.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ea6f4335",
+      "audio": ""
+    },
+    {
+      "text": "Km is generally used as a measure of a substrate\u2019s affinity for the enzyme. Unit of Km is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Second-1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Moles second-1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Millimoles",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Moles Litre-1",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Moles Litre-1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Moles Litre-1 The K m can be defined as the substrate concentration at which the velocity of an enzyme-catalyzed reaction is \u00bd of Vmax (see fig. below). As Km is a concentration, the unit of K m will be the unit of concentration which is moles/L Km is inversely proportional to the affinity</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: second -1 It is the unit of the rate constant for a first-order reaction. The enzyme reaction follows first-order kinetics when [S] << K m Option B: Moles second -1 It is the unit of velocity which is given by the number of molecules of substrate consumed or product produced per unit time. Option C: Millimoles It is the unit of the amount of substance present. 1 mole of any substance is equal to the Avogadro number (022 \u00d7 10 23 ) of its atoms or molecules. So millimoles will be 6.022 x 10 20 molecules.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3cd7dd7b",
+      "audio": ""
+    },
+    {
+      "text": "A number of parameters are used to describe enzyme-catalyzed reactions. Which of the following parameters is often used as the true measure of the catalytic efficiency of an enzyme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kcat/Km",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Turnover number",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Km",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Kd/Km",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Kcat/Km",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>K cat /K m Two kinetic parameters, K cat and K m are often used for the comparison of different enzymes. K cat and K m are used as an estimate for the kinetic efficiency of enzymes, but either parameter alone is insufficient for this purpose. For instance, two enzymes catalyzing different reactions may have the same K cat (turnover number), yet the rates of the uncatalyzed reactions may be different and thus the rate enhancements brought about by the enzymes may differ greatly. Hence, the best way to compare the catalytic efficiencies of different enzymes is to compare their respective ratio of K cat /K m for a given reaction. The parameter, Kcat/Km is called the specificity constant. The greater the ratio, the higher the rate of catalysis is; conversely, the lower the ratio, the slower the rate of catalysis is.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option B: Turnover number It is the maximum number of conversions that a single enzyme can perform per second for a given enzyme concentration. It is designated as K cat . Option C: K m Km of an enzyme is a substrate concentration at which velocity is equal to half of V So, it has the same unit as concentration i.e. millimoles L -1 Option D: K d /K m K d is a dissociation constant which gives a measure of how easily a complex of two or more compounds will dissociate into its components. In other words, it tells us the affinity between components of a system such as a ligand and its receptor. Higher K d means lower affinity and vice versa. Though K m gives you similar information, it is a little more complex and is specifically used for enzyme reactions that involve binding, catalysis, and dissociation rather than just binding and dissociation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7b9d2f80",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are true about allosteric enzymes, EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allosteric enzymes can\u2019t have structure beyond the tertiary structure",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Allosteric enzymes have a regulatory site other than the active site",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Allosteric enzymes do not show Michaelis-Menten kinetics",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Allosteric modulators bind noncovalently to the allosteric site",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Allosteric enzymes can\u2019t have structure beyond the tertiary structure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Allosteric enzymes can\u2019t have structure beyond the tertiary structure Allosteric enzymes: Allosteric enzymes are usually multi-subunit enzymes and a multi-subunit enzyme will have a quaternary structure ( option A is a false statement) . Allosteric enzymes contain a site other than the active site known as the allosteric site where an allosteric regulator can bind ( option B is a true statement) . This causes a change in the enzyme activity usually by changing the active site conformation (see fig.). These regulators bind transiently by non-covalent interactions usually in response to a signal such as a hormone or covalent modification or a concentration change of regulator ( option D is a true statement) . After the signal is gone, the effector molecule gets detached and enzyme activity may change back to its original levels. Allosteric enzymes don\u2019t follow Michaelis-Menten kinetics. They do obey Hill\u2019s equation ( option C is a true statement) .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b2128d37",
+      "audio": ""
+    },
+    {
+      "text": "Select the TRUE statement about Michealis Constant (Km):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Km is dependent on enzyme concentration.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "There is an inverse relationship between the Km of an enzyme and affinity for its substrate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Km value denotes the product concentration at half-maximal velocity.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Km value can be the same for two different enzymes.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. There is an inverse relationship between the Km of an enzyme and affinity for its substrate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>There is an inverse relationship between the Km of an enzyme and affinity for its substrate K m can be related to the affinity of the enzyme for its substrate. Lesser value of Km for a substrate means a higher affinity of the enzyme for that substrate and vice versa. In other words, an enzyme with a low K m for a substrate can act on it even at its low physiological concentration, and an enzyme with a high Km for its substrate will only bind and catalyze when a high concentration of that substrate is available.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Km is dependent on enzyme concentration. K m does not depend on enzyme concentration. So, i f enzyme concentration is doubled, the V max will be doubled. But the 1/2 V max will be achieved with the same substrate concentration which means K m will remain the same (Option A is false). Option C: Km value denotes the product concentration at half-maximal velocity As is shown in the graph, the Km value can be defined as the substrate concentration (expressed in moles/L) at which it achieves half-maximal velocity (option C is false). At this concentration half of enzyme, molecules are bound by substrate molecules. Option D: The Km value can be the same for two different enzymes Km value is constant for an enzyme also known as the signature of the enzyme. Even the isozymes which are  the same enzymes catalyzing the same reaction differing only in their amino acid sequence and 3-D structure will have different Km for the same substrate under the same conditions.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "87bf29ba",
+      "audio": ""
+    },
+    {
+      "text": "An enzyme catalyzing the reaction A + E \u2192 EA \u2192 E + P was mixed with 5 mM substrate concentration (compound A). The initial rate of formation of the product was 25% of Vmax. What is the Km value for the enzyme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 mM",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4 mM",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9 mM",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "15 mM",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 15 mM",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>15 mM Km of an enzyme reaction can be calculated using the Michaelis Menten equation if the relation between Vo and V max is known for a substrate concentration. The Michaelis\u2013Menten equation is Vo = ( V max \u00d7 [S])/(K m + [S]). Given: Velocity(Vo) = \u00bc V max , and [S] = 5 mM Thus, the MM equation becomes: \u00bc V max = (V max \u00d7 5)/(K m + 5). or 1/4 = 5/(K m +5) or K m + 5 = 20 or K m = 20-5 = 15mM</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5f04eedc",
+      "audio": ""
+    },
+    {
+      "text": "The chemotherapy drug fluorouracil undergoes a series of chemical changes in vivo that result in a covalent complex such that it is bound to both thymidylate synthase and methylene-tetrahydrofolate. The inhibition of deoxythymidylate formation and subsequent blockage of cell division is due to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allosteric inhibition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Irreversible inhibition",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Noncovalent inhibition",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Irreversible inhibition",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Irreversible inhibition Irreversible inhibition occurs when an inhibitor forms a covalent bond with a specific functional group of an enzyme, thereby inactivating it. Example: Cyanide ion, CN - , is a rapidly-acting, highly toxic inhibitor, which interferes with the iron-containing cytochrome oxidase: Fluorodeoxyuridylate, also known as FdUMP, a molecule formed in vivo from 5-fluorouracil acts as a suicide inhibitor of thymidylate synthase (TS). By inhibiting the deoxy nucleotide biosynthesis, FdUMP stops the rapid proliferation of fast-growing death cancer tumors, and it is therefore widely used as a cancer treatment.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "14174575",
+      "audio": ""
+    },
+    {
+      "text": "Match the following inhibitors with the enzyme inhibited: Select the correct from given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1f, 2d, 3b, 4e",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1e, 2d, 3b, 4c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1d, 2e, 3b, 4c",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1f, 2d, 3b, 4e",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1725346191646-photos-1724916502589-QTDB014008IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1f, 2d, 3b, 4e A variety of inhibitors can shut down the function of their respective enzyme by different mechanisms. Naturally found inhibitors are used for feedback regulation of metabolic pathways whereas man-made inhibitors are generally used as a drug to inhibit a particular enzyme of a pathogen that is causing pathogenesis. Competitive Inhibitors Non \u2013 Competitive Inhibitors Inhibitor Enzyme Inhibited Inhibitor Enzyme Inhibited Arsenate Glyceraldehyde-3- P dehydrogenase Iodoacetates Glyceraldehyde-3- P DH Oxamate Lactate dehydrogenase NaF Enolase Malonate Succinate dehydrogenase Fluoroacetate Aconitase Fluorocitrate Aconitase Arsenate \u03b1-ketoglutarate DH Sulfonamide (Antibiotic) Dihydropteroate synthase (DHPS) (inhibits synthesis of folic acid in bacteria) Cyanide Complex IV of ETC Methotrexate Dihydrofolate reductase (DHFR) Heavy metals & Dimercaprol Inhibits SH group Dicumarol (Anticoagulant) Quinone reductase Di-isopropyl Fluorophosphate Serine protease</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5f090256",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is an example of allosteric inhibition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased synthesis of glucokinase by glucagon",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inactivation of glycogen synthase by phosphorylation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of PFK-1 by citrate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Inhibition of PFK-1 by citrate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Inhibition of PFK-1 by citrate PFK-1 is the rate-limiting enzyme of glycolysis which converts fructose-6-P to fructose 1,6-bisphosphate. It is inhibited allosterically by citrate and ATP ( (option C is true)) It is activated allosterically by AMP and fructose 2,6 bisphosphate formed by PFK-II.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Decreased synthesis of glucokinase by glucagon Synthesis of the enzyme is decreased or increased at the level of the gene, not by allosteric regulation (option A is false). Hormones act to increase or decrease the activity of the enzyme by increasing or decreasing its production in the cell. If the synthesis is increased, it is called induction but if synthesis is decreased it is called repression Option B: Inactivation of glycogen synthase by phosphorylation Phosphorylation or dephosphorylation of the enzyme is a covalent modification, not allosteric regulation. (Option B is false) In this, a specific amino acid in an enzyme structure gets phosphorylated by kinases which generally cause a change in the enzyme conformation and thus affect the activity</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f1de39cb",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are examples of irreversible suicide inhibitors, except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillin on Glycopeptide transpeptidase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Allopurinol on Xanthine oxidase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Malonate on succinate dehydrogenase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5-FU on thymidylate synthase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Malonate on succinate dehydrogenase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Malonate on succinate dehydrogenase Malonate is a substrate analog of malate dehydrogenase and acts by binding reversibly to the active site and inhibits the enzyme competitively. The effect of the  inhibitor is reversed in the presence of a high concentration of substrate hence it is a type of reversible inhibition. It is also an inhibitor of ETC (Complex II) and beta-oxidation of fatty acid (CPT-I).</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Penicillin irreversibly inhibits the enzyme transpeptidase by reacting with a serine residue in the transpeptidase. This reaction is irreversible and so the growth of the bacterial cell wall is inhibited. Option B: Xanthine oxidase (XO) is an enzyme that catalyzes the oxidation of hypoxanthine to xanthine, and of xanthine to uric acid. Allopurinol is an inhibitor of xanthine oxidase: a) it is both an inhibitor and a substrate for the enzyme; but b) unlike other inhibitors the product is also a strong inhibitor; Option D: Fluorodeoxyuridylate, also known as FdUMP, a molecule formed in vivo from 5-fluorouracil acts as a suicide inhibitor of thymidylate synthase (TS). By inhibiting the deoxynucleotide biosynthesis, FdUMP stops the rapid proliferation of fast-growing death cancer tumors, and it is therefore widely used as a cancer treatment</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4a2a3081",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following graph represents competitive inhibition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1725346577391-photos-1724916502950-QTDB014011IMG3.JPG",
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1725346577383-photos-1724916502881-QTDB014011IMG2.JPG",
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1725346577359-photos-1724916502819-QTDB014011IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>B All of these graphs are Lineweaver Burk Plot or Double reciprocal Graph which are modified forms of Michaelis-Menten graph in which 1/[S] on the X-axis is plotted vs 1/V on the Y-axis. It is a straight-line graph instead of a hyperbolic shape with y-intercept gives 1/Vmax and x-intercept as 1/Km and slope as Km/Vmax. It is easy to read and interpret specially for determining the type of inhibition. For classic competitive inhibition:- The y- intercept is = 1/ V max , which indicates that when 1/[S] approaches 0 , then v i is independent of the presence of the inhibitor . The intercept on the x -axis does vary with inhibitor concentration , since \u20131/ K \u2032m is smaller than \u20131/ K m , So, K \u2032 m (the \u201capparent K m\u201d) becomes larger in the presence of increasing concentrations of the inhibitor. Thus, a competitive inhibitor has no effect on V max but raises K \u2032 m (apparent K m for the substrate)</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option B: For Uncompetitive inhibition As seen in the graph, \u20131/ K m decreases whereas 1/ V max increases which means V max decreases and K m increases in case of uncompetitive inhibition. Lineweaver-Burk plot for uncompetitive inhibition Option C: For non- competitive inhibition:- The y-intercept 1/ V max increases in the presence of an inhibitor indicating an apparent increase in V max . The intercept on the x -axis does not vary with inhibitor concentration and hence is independent of the presence of inhibitor , So, K m remains the same as with no inhibitor present. Thus, a competitive inhibitor has no effect on K m but decreases V max .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "db1302cc",
+      "audio": ""
+    },
+    {
+      "text": "A PhD student is studying the differences in glucose metabolism in hepatocytes and other body tissues. She isolated the same enzyme of glucose metabolism from myocytes and hepatocytes. She ran kinetics assays on these enzymes and got the following graphs in the image provided. A is the curve obtained for liver enzyme while B is for muscle enzyme using the same set of parameters. Which of the following is the correct statement regarding the relationship between these enzymes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A is the same enzyme as B but in the presence of a competitive inhibitor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B has a greater affinity for glucose than A",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "At maximal substrate concentrations, both enzymes display first-order kinetics",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "B has a higher Michaelis-Menten constant (Km) than A",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. B has a higher Michaelis-Menten constant (Km) than A",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1682875221332-QTDB014012IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>B has a higher Michaelis-Menten constant (Km) than A One can estimate the Michaelis-Menten constant (Km) on this graph by taking the concentration of substrate at one-half of the enzyme's maximal velocity (V max ). When one does this, B has a higher Km than A (Option D is true) .</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: A is the same enzyme as B but in the presence of a competitive inhibitor If A and B were the same enzyme with a competitive inhibitor added, at maximal substrate concentrations the V max of the two enzymes would become equal. Based on the graph, this is not the case. The V max of B is higher than A (Option A is false). Option B: B has a greater affinity for glucose than A Affinity is based on the K m of an enzyme. The lower the K m , the higher the affinity. Therefore, enzyme A has a greater affinity for glucose than enzyme B (Option B is false) . Option C: At maximal substrate concentrations, both enzymes display first-order kinetics At maximal concentrations, enzyme binding sites become saturated and the curves of both enzymes flatten and therefore become independent of substrate concentration, implying zero-order kinetics (Option C is false) . First-order kinetics is seen during the initial stages of low substrate concentration.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7ad8a578",
+      "audio": ""
+    },
+    {
+      "text": "A 30-year-old female presents is being evaluated for failing to get pregnant after 3 years of marriage. Tests on her husband\u2019s sperm counts and her uterine sonogram plus clotting and hormone levels are all normal. However, the urine analysis is showing the presence of a reducing substance galactose. Suspecting galactosemia, the physician orders testing of the GALT, the enzyme responsible for classical galactosemia. The result shows a slightly low value for GALT activity but no previously known mutation. The physician recalls the occurrence of ovarian dysfunction in galactosemia and further consults a pathologist to measure the Km of the female\u2019s GALT to confirm that it is a defective enzyme and no other factors for low activity. The assay was conducted using 6 increasing amounts of UDP-galactose in a 1-minute reaction using the same amount of enzyme (E) for conversion to UDP-glucose. Which of the following analyses would be most useful for determining the Km?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plot of E against S",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Plot of 1/ Vi versus 1/ S",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Plot of Vi versus S",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Plot of 1/E versus 1/ S",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Plot of 1/ Vi versus 1/ S",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Plot of 1/ Vi versus 1/ S An assay for measurement of enzyme activity uses excess substrate and short assay time to ensure maximal reaction velocity also known as initial velocity ( V i) that is proportional to the amount of enzyme in a given tissue or fluid and gives the accurate measure of the catalytic efficiency of the enzyme. Plotting V i for increasing substrate concentrations gives a hyperbolic saturation curve that asymptotically approaches maximal reaction velocity ( V max) for that amount of enzyme. The measure of the substrate concentration S that gives half-maximal reaction velocity ( K m) requires estimation of V max from the asymptote (incorrect answer c) and is thus more accurate using the reciprocal Lineweaver-Burk plot of 1/ V i versus 1/ S (Fig. B) where 1/ V max is the intercept on the y-axis and \u22121/ K m, the intercept on the x-axis (eliminating answers a, d, and e). Mutations affecting enzyme conformation and/or its binding site with substrate alter the Km and reduce the reaction velocity at usual tissue substrate levels. Removal of lactose from the diet of patients with galactosemia prevents mental retardation and liver disease but not female infertility.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "26461235",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "id": "test32",
+    "title": "Hematology-Chronic_Lymphocytic_Leukemia",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match the haematological malignancies with their predominant age group. 1. Acute Myeloid Leukemia a. Children 2. Acute Lymphoblastic Leukaemia b. Adolescent to middle-aged 3. Chronic Lymphocytic Leukaemia c. Middle age to elderly 4. Chronic Myeloid Leukaemia d. Elderly",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-b, 2-a, 3-d, 4-c",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-b, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-b, 2-a, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-a, 2-b, 3-d, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-b, 2-a, 3-d, 4-c",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hematological malignancy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Predominant age group</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acute <span class=\"customMeta\" data-dictid=\"da88d7f2211692777193037caba514\">Myeloid</span> <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">Leukemia</span> (AML)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adolescent to middle-aged</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acute Lymphoblastic <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">Leukemia</span> (ALL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Children</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chronic Lymphocytic <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">Leukemia</span> (CLL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elderly</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chronic <span class=\"customMeta\" data-dictid=\"da88d7f2211692777193037caba514\">Myeloid</span> <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">Leukemia</span> (CML)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Middle age to elderly</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b39d491d"
+    },
+    {
+      "text": "A 75-year-old man presents with complaints of fatigue, weight loss, and generalized lymphadenopathy and splenomegaly. The patient gives a history of working in a factory with exposure to ionizing radiation 20 years ago. Laboratory tests reveal lymphocytosis, anemia, and thrombocytopenia. Which of the following haematological malignancies is least likely to be associated with his prior radiation exposure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute Myeloid Leukemia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acute Lymphoblastic Leukemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chronic Lymphocytic Leukemia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chronic Myeloid Leukemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Chronic Lymphocytic Leukemia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e8c17253"
+    },
+    {
+      "text": "A 68 year old male presents with fatigue and unintentional weight loss. Physical examination reveals cervical lymphadenopathy and mild splenomegaly. Blood investigations show a white blood cell count of 75,000/\u00b5L with marked lymphocytosis. A peripheral blood smear reveals the following picture. Which of the following genetic alterations is frequently observed in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deletion of chromosome 13q14",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A translocation involving chromosomes 9 and 22",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A translocation involving chromosomes 8 and 14",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inversion of chromosome 16",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Deletion of chromosome 13q14",
+      "question_images": [
+        "https://image.prepladder.com/notes/X3RMlb3auaUBFQ2B0IIk1744401397.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:663px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cytogenetic abnormalities</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gene mutations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Overexpression</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Deletion of <span class=\"customMeta\" data-dictid=\"7157c1f59916927771846116d74646\">chromosome</span> 13q14</strong></li>\n<li><strong>Trisomy 12 </strong></li>\n<li><strong>Deletion of 11q </strong>(associated with aggressive disease in young patients)</li>\n<li><strong>Deletion of 17p</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>SF3B1</li>\n<li>NOTCH1</li>\n<li>MYD88</li>\n<li>ATM</li>\n<li>TP53</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>ZAP - 70</strong>\n<ul>\n<li>Intracellular Tyrosine kinase.</li>\n<li>Present usually inside the T cell.</li>\n<li>Aberrant expression in <span class=\"customMeta\" data-dictid=\"f8109755621692777184ae2847c580\">CLL</span> (B cells).</li>\n<li>ZAP-70 positive \u2192 Early treatment is recommended.</li>\n</ul>\n</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li><strong>BCL 2</strong>\n<ul>\n<li>It inhibits apoptosis</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b5323054"
+    },
+    {
+      "text": "Which of the following microRNAs is most commonly associated with the pathophysiology of chronic lymphocytic leukemia (CLL)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "miR-34a",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "miR-21",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "miR-146a",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "miR15A/miR16A",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. miR15A/miR16A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b13c079d"
+    },
+    {
+      "text": "A 70 year old female presents with complaints of fatigue and recurrent infections over the past several months. On examination, there is generalized lymphadenopathy and mild splenomegaly. Blood tests revealed lymphocytosis and flow cytometry of peripheral blood showed the following findings. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mantle Cell Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Marginal Zone Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hodgkin\u2019s Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chronic Lymphocytic Leukemia",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chronic Lymphocytic Leukemia",
+      "question_images": [
+        "https://image.prepladder.com/notes/9EpRXIK9xFRBrXJwQBTi1744401845.png",
+        "https://image.prepladder.com/notes/eK0b2iuxMcljDkyHYtmd1744401875.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:648px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Disease</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD5</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD10</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD19</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD20</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD23</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cyclin D1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Surface Ig</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CLL</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+ (dim)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+ (dim)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mantle cell lymphoma</strong></p>\n<p><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Marginal zone lymphoma</strong></p>\n<p><strong>(Option B ruled\u00a0 out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Follicular lymphoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0a0dbadf"
+    },
+    {
+      "text": "Which staging system primarily assesses Chronic Lymphocytic Leukemia (CLL) based on the extent of lymphocytosis and the presence of lymphadenopathy, splenomegaly, and hepatomegaly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Binet Staging System",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rai Staging System",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "International Staging System",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "WHO Staging System",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Rai Staging System",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Involves</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Only Lymphocytosis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intermediate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>I/II</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymphocytosis with enlarged <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> nodes, with or without <span class=\"customMeta\" data-dictid=\"b3eb52fe3b1692777199de8465eea8\">splenomegaly</span> or hepatomegaly.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High risk</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III/IV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymphocytosis along with anaemia or <span class=\"customMeta\" data-dictid=\"fc28c74bb716927772003aee4aa43c\">thrombocytopenia</span> due to <span class=\"customMeta\" data-dictid=\"5b9831f3aa169277718395d7361df6\">bone marrow</span> involvement.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:543px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Involves</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><3 areas of lymphadenopathy</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u22653 areas of lymphadenopathy</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemoglobin \u226410 g/dL and/or platelets <100,000/\u03bcL</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c1dcf7b9"
+    },
+    {
+      "text": "A 67-year-old male with a history of chronic lymphocytic leukemia presents with sudden worsening of night sweats and unintentional weight loss. Laboratory investigations reveal elevated lactate dehydrogenase (LDH) levels and thrombocytopenia associated with a marked increase in lymphadenopathy. What is the most appropriate next step in management for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initiate treatment with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) regimen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Obtain an FDG-PET scan to guide further diagnostic workup.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Begin treatment with fludarabine, cyclophosphamide, and rituximab (FCR) regimen.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Start targeted therapy with ibrutinib for CLL",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Obtain an FDG-PET scan to guide further diagnostic workup.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:637px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Richter\u2019s transformation refers to the <strong>transformation of <span class=\"customMeta\" data-dictid=\"f8109755621692777184ae2847c580\">CLL</span> into an aggressive lymphoma,</strong> most commonly <strong>Diffuse Large B-cell <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> (DLBCL),</strong> and can rarely include Hodgkin <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">Lymphoma</span> (HL).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk Factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Bulky lymphadenopathy</li>\n<li>NOTCH1 mutations</li>\n<li>Del(17)(p13.1)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Signs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rapid <span class=\"customMeta\" data-dictid=\"3c305b384216927771969ca4166493\">progression</span> of adenopathy, often localized.</li>\n<li>Constitutional symptoms: fatigue, night sweats, fever, weight loss.</li>\n<li>Elevated <span class=\"customMeta\" data-dictid=\"511c533d8b1692777191aa64479963\">LDH</span> levels are common.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>18FDG-PET/CT</strong> scan is the first step to localize areas for biopsy.</li>\n<li><strong>Excisional biopsy</strong> is preferred; fine-needle <span class=\"customMeta\" data-dictid=\"831d67ad8a1692777182763ca62e4b\">aspiration</span> is discouraged.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Treatment decisions should be based on confirmed diagnosis and staging.</li>\n<li>DLBCL Richter\u2019s transformation is usually treated with combination chemoimmunotherapy (e.g., <strong>R-CHOP</strong> or <strong>dose-adjusted EPOCH-R</strong>).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7a4a8015"
+    },
+    {
+      "text": "A 48-year-old female presents to the clinic with a history of easy bruising, petechiae, and recurrent episodes of mucosal bleeding. She reports feeling fatigued and weak for the past few weeks. Laboratory investigations reveal severe thrombocytopenia and hemolytic anaemia. Peripheral smear shows multiple spherocytes but no schistocytes. The direct antiglobulin test is positive. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evans syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thrombotic thrombocytopenic purpura",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HIV-related cytopenias",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Occult malignancy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Evans syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:719px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Evans syndrome</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thrombotic thrombocytopenic <span class=\"customMeta\" data-dictid=\"0acd34c758169277719644923511e5\">purpura</span> (TTP)</strong></p>\n<p><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>HIV-related cytopenias</strong></p>\n<p><strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Occult malignancy</strong></p>\n<p><strong>(Option D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Patho-</strong></p>\n<p><strong>physiology </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoimmune <strong>destruction of RBCs and platelets.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Formation of <strong>platelet-rich thrombi</strong> in small blood vessels.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Various mechanisms include<strong> <span class=\"customMeta\" data-dictid=\"5b9831f3aa169277718395d7361df6\">bone marrow</span> suppression</strong>, <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> <strong>destruction, or infections</strong>.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occult <span class=\"customMeta\" data-dictid=\"0c7efd2b8716927771914c8cb19e54\">malignancy</span> is a less common cause of <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anaemia and thrombocytopenia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Presentation </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemolytic anaemia and thrombocytopenia.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Microangiopathic <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anaemia, thrombocytopenia, <span class=\"customMeta\" data-dictid=\"c36bccf76e169277718712a7cc339f\">end-organ</span> damage.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anaemia and/or <span class=\"customMeta\" data-dictid=\"fc28c74bb716927772003aee4aa43c\">thrombocytopenia</span> secondary to <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> infection.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemolytic anaemia and <span class=\"customMeta\" data-dictid=\"fc28c74bb716927772003aee4aa43c\">thrombocytopenia</span> are less common presentations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Coombs-positive <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anaemia</strong>, low <span class=\"customMeta\" data-dictid=\"e7032bae7f1692777195d693722e54\">platelet</span> count.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low <span class=\"customMeta\" data-dictid=\"e7032bae7f1692777195d693722e54\">platelet</span> count, f<strong>ragmented RBCs</strong> (schistocytes).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>HIV serology.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occult <span class=\"customMeta\" data-dictid=\"0c7efd2b8716927771914c8cb19e54\">malignancy</span> may have additional features suggestive of cancer, such as weight loss and lymphadenopathy.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Glucocorticoids,</strong> <strong>rituximab</strong>, and <strong>mycophenolate mofetil</strong> are used.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Plasma exchange, corticosteroids, rituximab.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Management directed at <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> infection with <strong>antiretroviral therapy (ART) </strong>and supportive care.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Treatment is directed at underlying malignancy, chemotherapy, and radiation therapy.</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c08c79b4"
+    },
+    {
+      "text": "A 68-year-old male presents with fatigue, night sweats, and unintentional weight loss. On examination, generalized lymphadenopathy and hepatosplenomegaly are noted. Blood tests reveal a white blood cell count of 90,000/\u00b5L. Chronic lymphocytic leukemia (CLL) is suspected. Which of the following sets of findings is most likely to support the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lymphocytosis, thrombocytopenia, and bone marrow showing diffuse infiltration by small mature lymphocytes with expression of CD5 and CD19",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pancytopenia, blast cells on peripheral smear, and lymph node biopsy showing Reed-Sternberg cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thrombocytosis, neutrophilia, and bone marrow showing hypercellularity with increased myeloid precursors",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Eosinophilia, basophilia, and bone marrow showing increased plasma cells with M protein spike",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Lymphocytosis, thrombocytopenia, and bone marrow showing diffuse infiltration by small mature lymphocytes with expression of CD5 and CD19",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complete blood count</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Total <span class=\"customMeta\" data-dictid=\"00346a7f211692777191e91c2af9fc\">leukocyte</span> count is elevated</li>\n<li>Decreased levels of hemoglobin</li>\n<li>Thrombocytopenia</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Peripheral smear</strong></p>\n<figure class=\"caption_element\"><img alt=\"Peripheral <span class=\" custommeta\"=\"\" data-dictid=\"6777533153169277719804fcbbf2d1\"/>smear CLL \" data-author=\"Prof. Erhabor Osaro\" data-hash=\"9706\" data-license=\"CC BY SA 4.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Chronic_Lymphocytic_Leukaemia_%28lymphocytosis_and_smear_cells%29.jpg\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/1m6uChHS1j0TBhPPjMOK1744402364.png\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Small lymphocytes with condensed <span class=\"customMeta\" data-dictid=\"77399c6ee0169277718492fb8fd58f\">chromatin</span> and <strong>scant cytoplasm</strong>.</li>\n<li>These <strong>mature-looking lymphocytes</strong> are highly fragile and can get disrupted in the process of making smears, known as <strong>smudge cells</strong>.</li>\n<li>Autoimmune <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anemia: Presence of <strong>spherocytes</strong>, to identify:\n\t\t\t\t<ul>\n<li>Normal RBC: Central pallor</li>\n<li>Spherocyte RBC: Central <span class=\"customMeta\" data-dictid=\"dd5d862f051692777194647422e1c9\">pallor</span> is absent (small)</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Lymph <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> biopsy</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Diffuse <span class=\"customMeta\" data-dictid=\"dc0035cd191692777187b9b8b2af69\">effacement</span> of nodal architecture</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Flow <span class=\"customMeta\" data-dictid=\"551a62b1ec169277718587f847e627\">cytometry</span> (IOC)</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>CD 19 positive</li>\n<li>CD 20 (dim) positive</li>\n<li>CD 23 positive</li>\n<li>CD 5 positive (It is a B cell tumor expressing the T cell marker)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c061a145"
+    },
+    {
+      "text": "A 68-year-old man presents with fatigue, enlarged lymph nodes, and recurrent infections. Peripheral blood smear reveals lymphocytosis with smudge cells. Flow cytometry confirms the diagnosis of chronic lymphocytic leukaemia (CLL). As you assess his prognosis, which of the following factors would you consider as good prognostic indicators for CLL?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deletion of 13q14 chromosome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Unmutated Ig heavy chain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ZAP-70",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Deletion of 17p chromosome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Deletion of 13q14 chromosome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:659px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prognostic Factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Good Prognosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bad Prognosis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cytogenetic Abnormalities</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deletion of 13q14</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Deletion of 17p</strong> (poorest prognosis)\u00a0<strong>(Option D\u00a0ruled out)</strong></li>\n<li>Deletion of 11q</li>\n<li>NOTCH1 mutations</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Immunoglobulin Heavy Chain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hypermutated IGHV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unmutated IGHV (Option B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>LDH Levels</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elevated</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Other Biomarkers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low \u03b22-microglobulin levels</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High \u03b22-microglobulin levels</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD38 expression</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ZAP-70 (Option C\u00a0ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>+</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "093e390d"
+    },
+    {
+      "text": "A 75-year-old male presents with fatigue, unintentional weight loss, and enlarged lymph nodes. The patient is a known case of T2 DM under control with medications. Laboratory tests reveal lymphocytosis with a high percentage of mature lymphocytes. Flow cytometry confirms the presence of CD5, CD19, CD20, and CD23 positive B cells. What is the most appropriate initial treatment for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fludarabine + Cyclophosphamide + Rituximab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rituximab monotherapy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ibrutinib + venetoclax + idelalisib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chlorambucil + Obinutuzumab",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chlorambucil + Obinutuzumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong><65 years</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>No comorbidities</li>\n<li>Chemotherapeutic drugs include <strong>FCR (Option A ruled out)</strong>.</li>\n<li>In older editions, it includes <span class=\"customMeta\" data-dictid=\"fa67319b42169277719498abc93db6\">PCR</span> (Pentostatin, Cyclophosphamide, and Rituximab)\n\t\t\t\t<ul>\n<li><strong>F: Fludarabine </strong>(DOC for Chronic lymphocytic leukemia)</li>\n<li><strong>C: Cyclophosphamide</strong></li>\n<li><strong>R: Rituximab</strong></li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>>65 years</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Comorbidities are present (Hypertension or DM, but HbA1C is well controlled)</li>\n<li>Chemotherapeutic drugs\n\t\t\t\t<ul>\n<li><strong>Chlorambucil</strong></li>\n<li><strong>Obinutuzumab</strong></li>\n</ul>\n</li>\n<li>Alternative drugs\n\t\t\t\t<ul>\n<li><strong>Bendamustine with Rituximab</strong></li>\n</ul>\n</li>\n<li>Antiapoptotic drug\n\t\t\t\t<ul>\n<li><strong>Venetoclax</strong></li>\n</ul>\n</li>\n<li>B cell drugs that act directly on B cell tumors</li>\n<li>B <span class=\"customMeta\" data-dictid=\"1713c93fa616927771845ec7ead9f9\">cell signaling</span> inhibitors specifically affect the cells of Chronic lymphocytic <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">leukemia</span> but don't cause damage to the adjacent cells present in the bone marrow</li>\n<li>Drugs include\n\t\t\t\t<ul>\n<li><strong>Ibrutinib</strong> (Bruton tyrosine <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> inhibitor)</li>\n<li><strong>Idelalisib</strong></li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8ce9cd54"
+    },
+    {
+      "text": "Which of the following best describes the mechanism of action of alemtuzumab used in treating Chronic Lymphocytic Leukemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Targets the CD20 antigen on B cells, leading to cell lysis.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inhibits BCL-2, preventing apoptosis of CLL cells.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Binds to the CD52 antigen on lymphocytes, leading to complement-mediated cell lysis and antibody-dependent cytotoxicity.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Blocks the BTK signaling pathway, inhibiting B cell proliferation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Binds to the CD52 antigen on lymphocytes, leading to complement-mediated cell lysis and antibody-dependent cytotoxicity.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ee84d2c1"
+    },
+    {
+      "text": "A 75-year-old man with chronic lymphocytic leukemia presents with progressive fatigue, night sweats, and weight loss. Despite initiating appropriate treatment, the patient develops fever and respiratory distress. A CT scan of the chest shows bilateral infiltrates. His condition deteriorates rapidly, and he requires intensive care. Which of the following mechanisms most likely contributes to the leading cause of death in patients with CLL?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T-cell dysfunction causing viral infections",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypogammaglobulinemia increasing bacterial infections",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune hemolytic anemia causing organ failure",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Richter transformation to aggressive lymphoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hypogammaglobulinemia increasing bacterial infections",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b6ca1ecd"
+    }
+  ]
+}

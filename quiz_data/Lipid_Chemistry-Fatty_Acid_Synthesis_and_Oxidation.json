@@ -1,0 +1,551 @@
+{
+  "meta": {
+    "id": "test30",
+    "title": "Lipid_Chemistry-Fatty_Acid_Synthesis_and_Oxidation",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which one of the following is the major regulator of carnitine acyltransferase I (CAT-I) activity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insulin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glucagon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Malonyl CoA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "ATP",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Malonyl CoA",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/zjovzslXoswkLJpD91uG1727681463.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/62HBXAWOZUzEJfsrvCoJ1732718575.mp3",
+      "video": "",
+      "uid": "49a2e77f"
+    },
+    {
+      "text": "Which one of the following does not occur during \u03b2-oxidation of fatty acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dehydrogenation of fatty acyl-CoA to trans-enoyl-CoA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Formation of acetyl-CoA from \u03b2-keto fatty acyl-CoA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Conversion of trans-enoyl-CoA to saturated fatty acyl-CoA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hydration of trans-enoyl-CoA to \u03b2-hydroxy fatty acyl-CoA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Conversion of trans-enoyl-CoA to saturated fatty acyl-CoA",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ad1EsnYk91XicwesTLXL1727681676.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 1:</strong>FAD-Linked Dehydrogenation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Catalyzed by Acyl-CoA dehydrogenase</li>\n<li>Fatty acyl-CoA \u2192 trans-enoyl-CoA (FADH\u2082 produced). <strong>(Option A ruled out)</strong></li>\n<li>FADH\u2082 generates 1.5 <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> in the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> transport chain.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 2:</strong>Hydration</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Catalyzed by enoyl-CoA hydratase.</li>\n<li>Converts trans-enoyl-CoA to \u03b2-hydroxy <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acyl-CoA (only L <span class=\"customMeta\" data-dictid=\"d30d92f8841692777190c688cd1feb\">isomer</span> formed). <strong>(Option D ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Step 3</strong>:NAD\u207a-Dependent Dehydrogenation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Catalyzed by \u03b2-hydroxy acyl-CoA dehydrogenase</li>\n<li>\u03b2-Hydroxy <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acyl-CoA \u2192 \u03b2-keto <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acyl-CoA (NADH produced).</li>\n<li>NADH generates 2.5 <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> in the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> transport chain</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cleavage</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Catalyzed by <span class=\"customMeta\" data-dictid=\"3b8aef18d61692777180ef1b21619a\">Acyl</span> <span class=\"customMeta\" data-dictid=\"fdf03479ad16927771847526907130\">CoA</span> <span class=\"customMeta\" data-dictid=\"6ad6d2cc321692777180a735388613\">Acetyltransferase</span> (Thiolase)</li>\n<li>\u03b2-Keto <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acyl-CoA undergoes thiolytic cleavage.</li>\n<li>Produces one acetyl-CoA and a shorter <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acyl-CoA for further cycles. <strong>(Option B ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bzEmFLxkeeQQ0cqWMuaL1732718773.mp3",
+      "video": "",
+      "uid": "dfb0c512"
+    },
+    {
+      "text": "What is the Total and Net ATP used in the complete oxidation of Arachidonic acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "136, 134",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "134, 136",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "120, 122",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "120, 118",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 136, 134",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/dN69EHngit30ngjHc8Qu1732718879.mp3",
+      "video": "",
+      "uid": "abcbadcd"
+    },
+    {
+      "text": "Which of the following is NOT an inhibitor of Carnitine Acyl Transferase-1 (CAT-1)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulfonylureas",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Malonyl-CoA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "AMPK",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Insulin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. AMPK",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CARNITINE <span class=\"customMeta\" data-dictid=\"3b8aef18d61692777180ef1b21619a\">ACYL</span> TRANSFERASE-1 (CPT-1)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>STIMULATORS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>INHIBITORS</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Starvation</li>\n<li>FFA (Free <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">Fatty</span> Acids)</li>\n<li>AMPK (Adenosine Monophosphate-Activated Protein Kinase)</li>\n<li>Glucagon</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Well fed state</li>\n<li>Malonyl-CoA <strong>(Option B ruled out)</strong></li>\n<li>Sulfonylureas <strong>(Option A ruled out)</strong></li>\n<li>Insulin <strong>(Option D ruled out)</strong></li>\n<li>Etomoxir</li>\n<li>Oxfenicine</li>\n<li>Perhexiline</li>\n<li>PPAR\u03b1 antagonist</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Fv0MHVcf1QPJsoOvqBw11732719085.mp3",
+      "video": "",
+      "uid": "15abbb3a"
+    },
+    {
+      "text": "A 3-y/o child is brought to the emergency department with symptoms of severe fatigue, vomiting, and episodes of hypoglycemia. Blood tests reveal low glucose levels without elevated ketone bodies, as indicated by a negative Rothera and Benedict tests. Further examination indicates a fatty liver. The child's mother gives h/o acute fatty liver during her pregnancy with the child. Which of the following deficiencies is most likely responsible for these symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CPT-I Deficiency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Long-Chain 3-Hydroxyacyl-CoA Dehydrogenase Deficiency",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Jamaican Vomiting Sickness",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Carnitine Deficiency",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Long-Chain 3-Hydroxyacyl-CoA Dehydrogenase Deficiency",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>FATTY ACID <span class=\"customMeta\" data-dictid=\"224ea8a9e41692777194e81be113d8\">OXIDATION</span> DEFECTS</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CONGENITAL DEFECTS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ACQUIRED DEFECTS</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1. CPT-I Deficiency:</strong></p>\n<ul>\n<li><u>Site</u>: Liver</li>\n<li><u>Pathophysiology</u>: Leading to decreased <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acid <span class=\"customMeta\" data-dictid=\"224ea8a9e41692777194e81be113d8\">oxidation</span> and ketogenesis, which can result in <span class=\"customMeta\" data-dictid=\"78c658d4ed1692777189098c7544b9\">hypoglycemia</span> <strong>(Option A ruled out)</strong></li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>2. CPT-II Deficiency:</strong></p>\n<ul>\n<li><u>Site: </u>Primarily affecting skeletal muscle and potentially the liver in severe cases</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>3. Defects in \u03b2-oxidation Enzymes:</strong> 2 types:</p>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li><strong>Long and Short-Chain <span class=\"customMeta\" data-dictid=\"1d4d1c98831692777188b54b40e561\">3-Hydroxyacyl-CoA Dehydrogenase</span> Deficiency:</strong> Can cause nonketotic hypoglycemia, coma, and <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> liver. May also contribute to <strong>acute <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> liver during pregnancy</strong></li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li><strong>3-Ketoacyl-CoA <span class=\"customMeta\" data-dictid=\"7db01f3b2f16927772009c3acb2abb\">Thiolase</span> and HMG-CoA <span class=\"customMeta\" data-dictid=\"aa739f5d7e16927771910504c2585f\">Lyase</span> Deficiency:</strong> These deficiencies not only disrupt <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acid <span class=\"customMeta\" data-dictid=\"224ea8a9e41692777194e81be113d8\">oxidation</span> but also affect the <span class=\"customMeta\" data-dictid=\"903370f259169277718385f6060dd7\">breakdown</span> of leucine, a <span class=\"customMeta\" data-dictid=\"ba68c82ba4169277719001ff37f9ae\">ketogenic</span> <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1. <span class=\"customMeta\" data-dictid=\"3664431e6c169277718302b2e21d74\">Carnitine</span> Deficiency:</strong></p>\n<ul>\n<li>Common in <span class=\"customMeta\" data-dictid=\"ac9f7287191692777196e8c02d1f3d\">preterm</span> babies</li>\n<li><u>Cause</u>:\n\t\t\t\t<ul>\n<li>Inadequate <span class=\"customMeta\" data-dictid=\"859a34e1061692777183872a5e4441\">biosynthesis</span> or <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> leakage.</li>\n<li>Hemolysis</li>\n</ul>\n</li>\n<li><u>Pathophysiology</u>:\n\t\t\t\t<ul>\n<li>Impaired <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acid oxidation\u2192hypoglycemia & <span class=\"customMeta\" data-dictid=\"a99114a6c216927771916f45ffc66c\">Lipid</span> accumulation\u2192muscular weakness <strong>(Option D ruled out)</strong></li>\n</ul>\n</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>2. Jamaican <span class=\"customMeta\" data-dictid=\"998fb41ebc1692777202e46891c4a7\">Vomiting</span> Sickness:</strong></p>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li><u>Cause</u>: Consuming unripe <span class=\"customMeta\" data-dictid=\"ee069f7ddd16927771803660223e4e\">ackee</span> fruit containing the <span class=\"customMeta\" data-dictid=\"41329dc9381692777200a9b6d57cf4\">toxin</span> hypoglycin,</li>\n<li><u>Pathophysiology</u>: This condition inhibits medium- and short-chain acyl-CoA dehydrogenase, leading to <span class=\"customMeta\" data-dictid=\"78c658d4ed1692777189098c7544b9\">hypoglycemia</span> <strong>(Option C ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CLINICAL FEATURES</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hypoglycemia</li>\n<li>Nonketotic Hypoglycemia</li>\n<li>Lipid Accumulation</li>\n<li><strong>Dicarboxylic Aciduria</strong>\n<ul>\n<li>Marked by the <span class=\"customMeta\" data-dictid=\"0f7653c9ef1692777187deaa35f749\">excretion</span> of C6\u2014C10 \u03c9-dicarboxylic acids and non-ketotic hypoglycemia</li>\n<li>It arises from a lack of mitochondrial medium-chain acyl-CoA dehydrogenase.</li>\n</ul>\n</li>\n<li>Muscular Weakness due to the buildup of lipids in muscles</li>\n<li>Coma</li>\n<li>Fatty Liver</li>\n<li><strong>Acute <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">Fatty</span> Liver of Pregnancy:</strong> Due to Long-chain <span class=\"customMeta\" data-dictid=\"1d4d1c98831692777188b54b40e561\">3-hydroxyacyl-CoA dehydrogenase</span> <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> indicating a potential role of hormonal changes influencing <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> activity.</li>\n<li>Neurological Symptoms: Defects impacting <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> acid oxidation, especially those also affecting the <span class=\"customMeta\" data-dictid=\"903370f259169277718385f6060dd7\">breakdown</span> of leucine.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/YHIWxneOndJDwPnSIHAU1732719636.mp3",
+      "video": "",
+      "uid": "8fa27350"
+    },
+    {
+      "text": "Which enzyme requires vitamin B12 for the isomerization of L-methylmalonyl-CoA to succinyl-CoA during odd-chain fatty acid oxidation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Propionyl-CoA carboxylase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Methyl malonyl-CoA mutase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Methyl malonyl-CoA racemase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Biotin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Methyl malonyl-CoA mutase",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/cZGDtxRYEMSNRFZJYjMq1727682134.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/FeGv6jU6KBFjMGCOmNTs1732719419.mp3",
+      "video": "",
+      "uid": "47282b84"
+    },
+    {
+      "text": "Which of the following statements accurately describes the role of glucagon in ketogenesis during starvation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon decreases lipolysis and reduces ketogenesis.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glucagon inhibits gluconeogenesis and promotes ketogenesis.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glucagon increases lipolysis and stimulates ketogenesis.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glucagon decreases fatty acid entry into mitochondria and inhibits ketogenesis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Glucagon increases lipolysis and stimulates ketogenesis.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/z1Xqt0Wsn9UMRVtfKyNe1732719344.mp3",
+      "video": "",
+      "uid": "2657ef8e"
+    },
+    {
+      "text": "Which of the following organs can utilize ketone bodies for energy, and which enzyme is involved in their metabolism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liver- Thiophorase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heart muscle- Acetyl-CoA carboxylase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Brain- Thiophorase",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Liver- Carboxylase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Brain- Thiophorase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<p><strong>KETOSIS</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<p><strong>Ketone Bodies</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<ul>\n<li>Produced in the liver</li>\n<li>Utilized by <span class=\"customMeta\" data-dictid=\"85d0636fae1692777187fc93c80934\">extrahepatic</span> tissues due to the absence of Thiophorase <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> in the liver</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<p><strong>Tissues that use <span class=\"customMeta\" data-dictid=\"296c955ad216927771900bf1905f13\">Ketone</span> Bodies</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<ul>\n<li>Almost all tissues except:\n\t\t\t\t<ul>\n<li>Liver</li>\n<li>Red blood cells (RBCs)</li>\n</ul>\n</li>\n<li>Tissues that prefer <span class=\"customMeta\" data-dictid=\"296c955ad216927771900bf1905f13\">ketone</span> bodies:\n\t\t\t\t<ul>\n<li>Heart muscle</li>\n<li>Renal cortex</li>\n<li>Placenta</li>\n</ul>\n</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Tissues that use <span class=\"customMeta\" data-dictid=\"296c955ad216927771900bf1905f13\">ketone</span> bodies only in the absence of glucose:\n\t\t\t\t<ul>\n<li>Skeletal muscle</li>\n<li>Brain</li>\n</ul>\n</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Additional Tissues Using <span class=\"customMeta\" data-dictid=\"296c955ad216927771900bf1905f13\">Ketone</span> Bodies\n\t\t\t\t<ul>\n<li>Intestinal mucosal cells</li>\n<li>Adipocytes</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<p><strong>Enzyme Involved</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<ul>\n<li><strong>Thiophorase</strong>: Converts <span class=\"customMeta\" data-dictid=\"91f05d33d9169277718037ec6b325e\">acetoacetate</span> to acetoacetyl CoA</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<p><strong>Fatty Acids as Primary Energy Source During Starvation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<ul>\n<li>Skeletal muscles</li>\n<li>Heart</li>\n<li>Liver</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<p><strong>Energy Production Pathway</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #131314; border-left:1px solid #131314; border-right:1px solid #131314; border-top:1px solid #131314; vertical-align:middle\">\n<ul>\n<li>Acetoacetyl <span class=\"customMeta\" data-dictid=\"fdf03479ad16927771847526907130\">CoA</span> enters the beta-oxidation <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> to produce energy</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/0FIySNhDiEbp8U3i67fk1732719216.mp3",
+      "video": "",
+      "uid": "13de508b"
+    },
+    {
+      "text": "Which of the following is an end product of beta-oxidation of odd-chain fatty acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Propionyl-CoA",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Malonyl CoA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Succinyl CoA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Propionyl-CoA",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/gqLvXsNKa7c1Bmx9URbB1727682448.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/I1ATbg04zB2lYrOB8F7p1732719148.mp3",
+      "video": "",
+      "uid": "2f04f392"
+    },
+    {
+      "text": "Which of the following statements is true about Acetyl CoA metabolism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is produced in the cytoplasm from glucose via pyruvate oxidation.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It can be transported directly across the mitochondrial membrane to the cytoplasm.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is converted to citrate in the mitochondria",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "It is involved in the production of NADPH in the cytoplasm.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. It is converted to citrate in the mitochondria",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/G31atsSHx1KOjhimlm8Z1735185134.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/2rxuQfYyFzv37pt4pr121732717044.mp3",
+      "video": "",
+      "uid": "b2e73680"
+    },
+    {
+      "text": "Which of the following enzymes is correctly paired with its function in metabolic processes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetyl CoA Carboxylase (ACC) converts acetyl-CoA to citrate, initiating fatty acid synthesis.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Carnitine Palmitoyltransferase I (CPT-I) regulates entry of all fatty acids into mitochondria for beta-oxidation.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HMG-CoA Synthase catalyzes ketone body production from acetyl-CoA.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Acetyl CoA Carboxylase (ACC) converts acetyl-CoA to malonyl-CoA, the rate-limiting step in fatty acid Oxidation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. HMG-CoA Synthase catalyzes ketone body production from acetyl-CoA.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/tin03Ays6bxwCyLcSJPl1728227477.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>S.no</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathway</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Rate limiting enzymes</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fatty acid synthesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acetyl <span class=\"customMeta\" data-dictid=\"fdf03479ad16927771847526907130\">CoA</span> carboxylase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fatty acid oxidation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Carnitine <span class=\"customMeta\" data-dictid=\"3b8aef18d61692777180ef1b21619a\">acyl</span> <span class=\"customMeta\" data-dictid=\"2288cbf3741692777200318d2f5b39\">transferase</span> I</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cholesterol synthesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HMG <span class=\"customMeta\" data-dictid=\"fdf03479ad16927771847526907130\">CoA</span> reductase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ketone body synthesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HMG <span class=\"customMeta\" data-dictid=\"44758fcec31692777184e24fa84582\">Co</span> A <span class=\"customMeta\" data-dictid=\"aa739f5d7e16927771910504c2585f\">lyase</span> > <span class=\"customMeta\" data-dictid=\"944fb955251692777189b1e05ebecf\">HMG</span> <span class=\"customMeta\" data-dictid=\"fdf03479ad16927771847526907130\">CoA</span> synthase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bile acid synthesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>7-\u237a-hydroxylase</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mo89Xln1AG52NG5ZfaQr1743180196.mp3",
+      "video": "",
+      "uid": "d93354c8"
+    },
+    {
+      "text": "Which of the following statements about the Fatty acid synthase (FAS) complex is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The FAS complex synthesizes fatty acids exclusively in the mitochondria.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The primary product of the FAS complex is palmitic acid, a 16-carbon saturated fatty acid.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The FAS complex utilizes the same enzymes and intermediates as those found in \u03b2-oxidation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Each subunit of the FAS complex consists of a single enzyme responsible for fatty acid synthesis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The primary product of the FAS complex is palmitic acid, a 16-carbon saturated fatty acid.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ki7UI9oRvC39dONWvHPJ1727678220.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/sSw5avgB0tSyg5ntrR7V1732717377.mp3",
+      "video": "",
+      "uid": "a2baa4f5"
+    },
+    {
+      "text": "Which of the following statements about the fatty acid synthesis mechanism is NOT TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetyl-CoA is converted to malonyl-CoA by acetyl-CoA carboxylase.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The FAS complex is a homodimer with two identical subunits and six enzymes.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NADPH is primarily generated by the citric acid cycle.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Palmitate is the main product, which can be converted into shorter fatty acids.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. NADPH is primarily generated by the citric acid cycle.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/574FLHFb59t68SP586DY1732717936.mp3",
+      "video": "",
+      "uid": "8c83b0e3"
+    },
+    {
+      "text": "Which of the following correctly describes the products and by-products of the palmitic acid synthesis reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 Palmitate + 7 CO\u2082 + 6 H\u2082O + 8 CoA\u2212SH + 14 NADPH",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 Palmitate + 7 CO\u2082 + 6 H\u2082O + 8 CoA\u2212SH + 14 NADP+",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1 Palmitate + 7 CO\u2082 + 8 H\u2082O + 8 CoA\u2212SH + 14 NADP\u207a",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 Palmitate + 7 CO\u2082 + 6 H\u2082O + 8 CoA\u2212SH + 14 NADP\u207a + 14 H\u207a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1 Palmitate + 7 CO\u2082 + 6 H\u2082O + 8 CoA\u2212SH + 14 NADP+",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cBzh9lNJj85i3BZrzUmU1732718339.mp3",
+      "video": "",
+      "uid": "d5b7453c"
+    },
+    {
+      "text": "Which of the following inhibits Acetyl CoA Carboxylase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "NADH",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ATP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Insulin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Glucagon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stimulated by High energy level states</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inhibited by Low energy level states.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>NADH <strong>(Option B ruled out)</strong></li>\n<li>FADH2</li>\n<li>ATP <strong>(Option C ruled out)</strong></li>\n<li>Citrate</li>\n<li><u>Insulin:</u> enhances the <span class=\"customMeta\" data-dictid=\"cc20d2d7111692777201fb0caeb3f2\">uptake</span> of <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> by adipocytes and increases the activity of <span class=\"customMeta\" data-dictid=\"f9129e152d16927771960c4ccc40bc\">pyruvate</span> dehydrogenase, <span class=\"customMeta\" data-dictid=\"6ade0969281692777180216b0c3d76\">acetyl</span> <span class=\"customMeta\" data-dictid=\"fdf03479ad16927771847526907130\">CoA</span> carboxylase, and <span class=\"customMeta\" data-dictid=\"124462cc291692777188e1a9cce583\">glycerol</span> <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> <span class=\"customMeta\" data-dictid=\"3b8aef18d61692777180ef1b21619a\">acyl</span> <span class=\"customMeta\" data-dictid=\"2288cbf3741692777200318d2f5b39\">transferase</span> <strong>(Option D ruled out)</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>ADP</li>\n<li>NAD</li>\n<li>FAD</li>\n<li>Glucagon(catabolic hormone) <strong>(Option A)</strong></li>\n<li>Acyl CoA</li>\n<li>Epinephrine</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nG0kRs7ADG1zh5RMmi8Z1732718420.mp3",
+      "video": "",
+      "uid": "dd54ee55"
+    },
+    {
+      "text": "Which of the following fatty acid metabolism primarily takes place in the peroxisome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very long chain FA",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Medium Chain FA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Short chain FA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Long chain FA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Very long chain FA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/7V9jpZzBQwiknMMOEOWq1732718477.mp3",
+      "video": "",
+      "uid": "85fc443a"
+    }
+  ]
+}

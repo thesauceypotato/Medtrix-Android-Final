@@ -1,0 +1,926 @@
+{
+  "meta": {
+    "id": "test5",
+    "title": "Cardiothoracic_Vascular_Surgery-Venous_Disorders",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 62-year-old male presents with left leg swelling and pain for 5 days and has a positive D-dimer test. Duplex ultrasonography confirms an extensive DVT involving the left popliteal and femoral veins. Which of the following is the most appropriate initial management strategy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unfractionated heparin followed by warfarin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "LMWH followed by oral anticoagulant",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Catheter-directed thrombolysis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IVC filter placement",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. LMWH followed by oral anticoagulant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous <span class=\"customMeta\" data-dictid=\"eb476e70a316927771861ad68beaae\">Doppler</span> with Duplex scanning</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-invasive; detects <span class=\"customMeta\" data-dictid=\"56c933e0d41692777200b713c46640\">thrombus</span> by impaired <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> and inability to <span class=\"customMeta\" data-dictid=\"c6486470671692777184e25019e1f0\">compress</span> veins.</p>\n<ul>\n<li>Presence of <span class=\"customMeta\" data-dictid=\"91b98150ea169277718629280d911c\">echogenic</span> material completely <span class=\"customMeta\" data-dictid=\"52edf0af4d1692777202dd1a490884\">filling</span> the <span class=\"customMeta\" data-dictid=\"e87def492e1692777191eda63cfc5e\">lumen</span> of vein</li>\n<li>Absence of compressibility</li>\n<li>Absence of blood flow</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venogram </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Accurate for detecting and locating <span class=\"customMeta\" data-dictid=\"56c933e0d41692777200b713c46640\">thrombus</span> and differentiating <span class=\"customMeta\" data-dictid=\"3cd09dcb0e1692777194e41a18d184\">occlusive</span> and non-occlusive <span class=\"customMeta\" data-dictid=\"56c933e0d41692777200b713c46640\">thrombus</span> but less commonly used due to invasiveness.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Impedance Plethysmography</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures changes in <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> volume and flow using a cuff. Less useful for calf <span class=\"customMeta\" data-dictid=\"7b6c3bb2611692777186e94c623ac9\">DVT</span> and previous thrombosis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fibrin and <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">Fibrinogen</span> Assays</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures <span class=\"customMeta\" data-dictid=\"18c2380be716927772020c9b2863de\">fibrin</span> <span class=\"customMeta\" data-dictid=\"d395f610461692777185cbe8b8806d\">degradation</span> products, including D-dimer.</p>\n<p>D-dimer has a high negative predictive value.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Radioactive <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">Fibrinogen</span> Study</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Uses <span class=\"customMeta\" data-dictid=\"7cd1a840a2169277719756692d362d\">radiolabeled</span> <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">fibrinogen</span> to detect thrombus. Less commonly used.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Magnetic <span class=\"customMeta\" data-dictid=\"37b9856df8169277719716b550a15f\">Resonance</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">Venous</span> <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">Imaging</span> (MRVI)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-invasive; Useful for <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> <span class=\"customMeta\" data-dictid=\"837bfc230c16927771892ece07f94b\">iliac</span> veins and IVC.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Initial Anticoagulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Subcutaneous LMWH: Rapidly anticoagulate confirmed <span class=\"customMeta\" data-dictid=\"7b6c3bb2611692777186e94c623ac9\">DVT</span> cases.</li>\n<li>Intravenous Unfractionated Heparin: For patients with significant <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> impairment.</li>\n<li>Fondaparinux or Bivalirudin: Alternatives for those with <span class=\"customMeta\" data-dictid=\"050e27829716927771885eddb2620c\">heparin</span> sensitivity or heparin-induced thrombocytopenia.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Transition to Oral Anticoagulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Duration: At least 3 months or longer based on risk factors or recurrence.</li>\n<li>Novel anticoagulants (NOACs): Rivaroxaban, <span class=\"customMeta\" data-dictid=\"bd0e99d93a169277718152523f2534\">Apixaban</span> (factor Xa inhibitors), Dabigatran (direct <span class=\"customMeta\" data-dictid=\"ac7e1f394f1692777200c5bb11e4d8\">thrombin</span> inhibitor).</li>\n<li>Vitamin K Antagonists: <span class=\"customMeta\" data-dictid=\"38d84b192c16927772023d96107e4c\">Warfarin</span> (alternative to NOACs).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Monitoring Anticoagulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Heparin: <span class=\"customMeta\" data-dictid=\"0f61fd74c41692777180190320f12e\">Activated partial <span class=\"customMeta\" data-dictid=\"9b51982d06169277720063c9420fbb\">thromboplastin</span> time</span> (APTT).</li>\n<li>Warfarin: INR maintained between 2.0 to 3.0.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>For Patients with contraindications to Anticoagulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Temporary <span class=\"customMeta\" data-dictid=\"b1fef54dba1692777190ee3669e3e0\">IVC</span> Filter:</strong> Consider if <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> risk prevents <span class=\"customMeta\" data-dictid=\"9beeeb58f6169277718129acb7bd01\">anticoagulation</span> or to prevent <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> embolism. It does not treat the existing <span class=\"customMeta\" data-dictid=\"56c933e0d41692777200b713c46640\">thrombus</span> and is associated with long-term complications. <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Endovascular Surgery</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Thrombus removal, lysis, and stenting.</li>\n<li>Beneficial in selected patients, especially those with <span class=\"customMeta\" data-dictid=\"dae3263b2716927771896cfc9f45c8\">iliofemoral</span> thrombosis, to reduce risk of chronic post-thrombotic syndrome.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/eqMGtMY0Dat5jpYlISe31746795675.mp3",
+      "video": "",
+      "uid": "e57f473f"
+    },
+    {
+      "text": "An infant presents with a large, rapidly growing vascular malformation, along with severe thrombocytopenia and microangiopathic hemolytic anemia. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Klippel-Tr\u00e9naunay Syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Kasabach-Merritt Syndrome",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sturge-Weber Syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Capillary Hemangioma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Kasabach-Merritt Syndrome",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Kyol7NY7jK0qx8NZqrQJ1740075814.png",
+        "https://image.prepladder.com/content/mTbcefTUw81YKoF4wqGv1740075883.png",
+        "https://image.prepladder.com/content/i0pF2M07TzkYUCsKwsen1740075957.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:666px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Klippel-Tr\u00e9naunay syndrome</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Kasabach-Merritt Syndrome (KMS)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A mesodermal <span class=\"customMeta\" data-dictid=\"e7ed1a964716927771801ab913204a\">abnormality</span> characterized by:\n\t\t\t\t<ul>\n<li>Cutaneous nevus,</li>\n<li>Persistent <span class=\"customMeta\" data-dictid=\"e37f672aa61692777201594a096de3\">vestigial</span> veins with <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins,</li>\n<li>Soft-tissue and bone hypertrophy. <strong>(Option A)</strong></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Segments of deep veins are hypoplastic or aplastic.</li>\n<li>Possible <span class=\"customMeta\" data-dictid=\"39f44b27bf169277719416f29a74ee\">obstruction</span> of lymphatics.</li>\n<li><strong>Treatment:</strong>\n<ul>\n<li>Conservative management with <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> stockings.</li>\n<li>Removal of large <span class=\"customMeta\" data-dictid=\"ebb480187d1692777199e233e9e356\">superficial</span> <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins done only if deep veins are patent.</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Hyung Min Sung , Ho Yun Chung , Seok Jong Lee , Jong Min Lee , Seung Huh , Jeong Woo Lee , Kang Young Choi , Jung Dug Yang , Byung Chae Cho\" data-hash=\"\" data-license=\"CC BY-NC 4.0\" data-source=\"https://www.thieme-connect.de/products/ejournals/html/10.5999/aps.2015.42.5.552\" data-tags=\"\" height=\"515\" src=\"https://image.prepladder.com/content/Kyol7NY7jK0qx8NZqrQJ1740075814.png\" width=\"500\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A life-threatening <span class=\"customMeta\" data-dictid=\"09376c06ef16927771848108fd8f70\">coagulopathy</span> of <span class=\"customMeta\" data-dictid=\"663d16ec8e169277719095f74c9816\">infancy</span> characterized by:\n\t\t\t\t<ul>\n<li>Thrombocytopenia</li>\n<li>Microangiopathic <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> anemia</li>\n<li>Consumptive coagulopathy. <strong>(Option B)</strong></li>\n</ul>\n</li>\n<li>Rapidly growing <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> tumor</li>\n<li><strong>Treatment: </strong>\n<ul>\n<li>Mainly supportive care</li>\n<li>Embolization: Possible if a single <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> vessel is present.</li>\n<li>Medical Therapies: Steroids,vincristine and sirolimus.</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Anne Beissel, St\u00e9phanie Riou, C\u00e9line Julie Fischer Fumeaux, Marie Cassart, S\u00e9bastien Blanc, Olivier Claris, Laurent Guibaud\" data-hash=\"\" data-license=\"Open access\" data-source=\"https://onlinelibrary.wiley.com/doi/full/10.1002/ccr3.580\" data-tags=\"\" height=\"301\" src=\"https://image.prepladder.com/content/mTbcefTUw81YKoF4wqGv1740075883.png\" width=\"500\"/></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/UJFWXxum1vTIn2L4ma7P1747158051.mp3",
+      "video": "",
+      "uid": "d3a07d83"
+    },
+    {
+      "text": "A 50-year-old man presents with prominent varicose veins on his medial thigh and calf. Upon examination, incompetence of the great saphenous vein (GSV) is identified. The surgeon is considering the appropriate surgical intervention. What is the primary indication for performing Saphenofemoral Junction Ligation and GSV Stripping?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varicose veins on the posterolateral calf due to small saphenous vein incompetence",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Incompetence of the great saphenous vein with varicose veins on the medial thigh and calf",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Varicose veins on the anterior thigh due to incompetent perforator veins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Small varicose veins unsuitable for endovenous ablation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Incompetence of the great saphenous vein with varicose veins on the medial thigh and calf",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/s5qCHfd0ZuX26KOpz5071740074165.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Open Surgery Procedure</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Saphenofemoral <span class=\"customMeta\" data-dictid=\"9f0942c0b51692777190ee876713e5\">Junction</span> <span class=\"customMeta\" data-dictid=\"dcfb6667ee1692777191f00c3df2df\">Ligation</span> and Great Saphenous <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">Vein</span> Stripping</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Indication:</strong> Used for <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins in the <span class=\"customMeta\" data-dictid=\"db46007ad21692777192dcc160a2e2\">medial</span> thigh and calf due to great saphenous <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> (GSV) incompetence. <strong>(Option B)</strong><strong> (Option C ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Procedure:</strong> An <span class=\"customMeta\" data-dictid=\"2afbd932801692777190be690704b3\">incision</span> is made in the <span class=\"customMeta\" data-dictid=\"a48fa02dfe1692777188de798e404f\">groin</span> to access the saphenofemoral <span class=\"customMeta\" data-dictid=\"9f0942c0b51692777190ee876713e5\">junction</span> where the GSV meets the <span class=\"customMeta\" data-dictid=\"ab8a987431169277720229e09c01d7\">femoral</span> vein. Tributaries of the GSV are ligated.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Stripping:</strong> The GSV is tied off at the junction, and a device is inserted into the GSV and pulled out through an <span class=\"customMeta\" data-dictid=\"2afbd932801692777190be690704b3\">incision</span> near the knee, <span class=\"customMeta\" data-dictid=\"85cb03377b1692777199d46846ce58\">stripping</span> the <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> as it is removed.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Saphenopopliteal <span class=\"customMeta\" data-dictid=\"9f0942c0b51692777190ee876713e5\">Junction</span> <span class=\"customMeta\" data-dictid=\"dcfb6667ee1692777191f00c3df2df\">Ligation</span> and Small Saphenous <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">Vein</span> Stripping</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Indication:</strong> Used for <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins on the <span class=\"customMeta\" data-dictid=\"0b858004a11692777196bac353c12b\">posterolateral</span> calf due to small saphenous <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> (SSV) incompetence. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Procedure:</strong> An <span class=\"customMeta\" data-dictid=\"2afbd932801692777190be690704b3\">incision</span> is made to access and <span class=\"customMeta\" data-dictid=\"4d8122357e1692777191499a8b5d79\">ligate</span> the saphenopopliteal <span class=\"customMeta\" data-dictid=\"9f0942c0b51692777190ee876713e5\">junction</span> where the SSV joins the popliteal vein.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Stripping:</strong> Similar to the GSV procedure, the surgeon either strips the <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> using a device or resects the <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> portion of the vein.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nPQRafhEpiAayI29MMas1747159106.mp3",
+      "video": "",
+      "uid": "cd06305a"
+    },
+    {
+      "text": "A 55-year-old male with chronic venous insufficiency presents with a venous ulcer on his lower leg. He has a history of prolonged standing at work and reports aching and heaviness in his legs. What is correct regarding compression therapy in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Class 1 compression hosiery exerts 18-24 mmHg of pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Compression bandaging typically exerts less pressure than compression hosiery",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Compression bandaging should be avoided in patients with a history of venous ulcers",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Compression therapy is most effective when it exerts a graduated pressure to promote venous return",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Compression therapy is most effective when it exerts a graduated pressure to promote venous return",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:221px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Class</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pressure (mmHg)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Class 1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>14\u201317 <strong>(Vs Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Class 2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>18\u201324</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Class 3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>25\u201335</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ABPI</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pressure (mmHg)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Venous Ulcers (no arterial disease)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not Applicable</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>35\u201340</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mixed Ulcers (with arterial disease)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0.5\u20130.8</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>30</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe Arterial Compromise</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><0.5 or ankle pressure < 60 mmHg</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Revascularization is needed before compression</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/QUnzs2yfpASaoIXbcOQA1747159817.mp3",
+      "video": "",
+      "uid": "d9f09f14"
+    },
+    {
+      "text": "Which of the following statements about the pathophysiology of varicose veins is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Defects in the walls or valves of the veins lead to retrograde blood flow.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inflammatory changes in walls lead to dilatation, elongation and valvular dysfunction.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The veins have a low end-diastolic volume.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chronic ambulatory venous hypertension develops.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The veins have a low end-diastolic volume.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/pzODGnahLRrvMNB02VMb1740071767.png",
+        "https://image.prepladder.com/content/pAJs0aA0h2JI4gYqYwIf1740071798.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/YBzAZV5PrkbKUjc6mNFZ1747156456.mp3",
+      "video": "",
+      "uid": "37e5548b"
+    },
+    {
+      "text": "A patient comes to the surgery OPD complaining of small swellings and a wound on his right lower leg. On clinical evaluation, he is found to have hyperpigmentation in his right leg around the ankle and lower third of the leg. He also has a healed venous ulcer and is symptomatic. According to the CEAP classification, what is the clinical stage of the disease in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C5a",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "C5s",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C3r",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "C6",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. C5s",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/P9Us4mLcrVn3s5aFOrDE1740072324.png",
+        "https://image.prepladder.com/content/KtmsLg5xNBYzACxwSOFU1740072391.png",
+        "https://image.prepladder.com/content/tBHJpMk8pDy4nTcBRkah1740073587.png",
+        "https://image.prepladder.com/content/Bjz6NPNBOhXp57elSFo71740073661.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:488px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Feature </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Classification </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>For<strong> clinical</strong> classification:</p>\n<ul>\n<li>No signs of <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> disease</li>\n<li>Telangiectasia (<1 mm) or <span class=\"customMeta\" data-dictid=\"0b6b1f44cb1692777197afef785626\">reticular</span> veins ( 1-3 mm dilated veins)</li>\n<li>Varicose veins (>3 mm )</li>\n<li><strong>Edema </strong></li>\n<li>Pigmentation or eczema</li>\n<li>LDS or atrophic blanche</li>\n<li>Corona phlebectatica</li>\n<li><strong>Healed <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> </strong></li>\n<li><strong>Active <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> ulcer</strong></li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p>Clinical class can be further characterised as <strong>symptomatic </strong>(s), <strong>asymptomatic </strong>(a) or <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">recurrent</span> following previous successful treatment or <span class=\"customMeta\" data-dictid=\"9cf83937931692777188a014337dcf\">healing</span> (r), e.g. C2a, C2s, C6r.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p>C0</p>\n<p>C1</p>\n\t\t\t\u00a0\n\n\t\t\t<p>C2</p>\n<p><strong>C3</strong></p>\n<p>C4a</p>\n<p>C4b</p>\n<p>C4c</p>\n<p><strong>C5</strong></p>\n<p><strong>C6</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>For <strong>etiological</strong> classification:</p>\n<ul>\n<li>Congenital</li>\n<li>Primary</li>\n<li>Secondary (post-thrombotic)</li>\n<li>No <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> cause identified</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p>Ec</p>\n<p>Ep</p>\n<p>Es</p>\n<p>En</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>For <strong>anatomical</strong> classification:</p>\n<ul>\n<li>Superficial veins</li>\n<li>Perforator veins</li>\n<li>Deep veins</li>\n<li>No <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> location identified</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p>As</p>\n<p>Ap</p>\n<p>Ad</p>\n<p>An</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>For <strong>pathophysiological </strong>classification:</p>\n<ul>\n<li>Reflux</li>\n<li>Obstruction</li>\n<li>Reflux and obstruction</li>\n<li>No <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"19bbbcd51e16927771947c31adcdd0\">pathophysiology</span> identified</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p>Pr</p>\n<p>Po</p>\n<p>Pr,o</p>\n<p>Pn</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/bNzl9WnydI74ptTXiSzo1747156881.mp3",
+      "video": "",
+      "uid": "07d1d759"
+    },
+    {
+      "text": "A 50-year-old woman with inflammatory bowel disease presents with a painful ulcer on her leg. The ulcer has a necrotic edge and a purulent base, with significant surrounding erythema. What type of ulcer is most consistent with this presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neurotrophic ulcer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pyoderma gangrenosum",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Venous ulcer",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Arterial ulcer",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Pyoderma gangrenosum",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/iBlIsM7P5PKPgtq5w6Gf1740076259.png",
+        "https://image.prepladder.com/content/SmFQW5pvClYtNKj3MptX1740076314.png",
+        "https://image.prepladder.com/content/On88Wycn3XiHmIHnSmHR1740076367.png",
+        "https://image.prepladder.com/content/CguPIQX4I5aLCRKfOn8D1740076454.png",
+        "https://image.prepladder.com/content/em4Fs7lLZjCH14roJcJy1740076508.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:799px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>History</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lesion Characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Associated Findings</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ischemic/ arterial </strong><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Smoking,</p>\n<p>Intermittent claudications</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Distal, on <span class=\"customMeta\" data-dictid=\"f61866c72d169277718680f9c96ff2\">dorsum</span> of foot or toes, <strong>over bony prominences</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe, particularly at night; relieved by dependency</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Irregular edge; poor <span class=\"customMeta\" data-dictid=\"09e414c5a71692777188ef029aefe5\">granulation</span> tissue, dry necrotic base; round or <span class=\"customMeta\" data-dictid=\"7134f7f8681692777196fa644c43bf\">punched-out</span> with sharp demarcation;</p>\n<p>no surrounding inflammation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Trophic changes of chronic ischemia, pale, hair loss, atrophic skin, cool feet; absence of pulses, prolonged <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> refill; ankle <span class=\"customMeta\" data-dictid=\"1e4db8b6ad1692777183683f42d44b\">brachial</span> index (ABI) <0.5; dependent rubor, <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> pallor</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous </strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Varicose veins, DVT, trauma, surgery, multiple pregnancies; aching/ <span class=\"customMeta\" data-dictid=\"e3d212ebd316927771996e0c472d4a\">swelling</span> worse at end of day, relieved with elevation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lower third of leg (<strong>gaiter area</strong>); between <span class=\"customMeta\" data-dictid=\"6a7ff3e34716927771914c22e9fe4e\">malleolus</span> and lower calf, majority at <span class=\"customMeta\" data-dictid=\"db46007ad21692777192dcc160a2e2\">medial</span> malleolus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mild; relieved by elevation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Shallow, irregular/shaggy shape; granulating base; flat or steep <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> margins; fibrinous material at <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> bed with moderate to heavy exudate; surrounding <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> present</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lipodermatofibrosis/ lipodermatosclerosis, pigmentation, edema, <span class=\"customMeta\" data-dictid=\"b04fb2c703169277718295309e32d6\">atrophie</span> blanche; telangiectasia; normal <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> refill time, normal ankle <span class=\"customMeta\" data-dictid=\"1e4db8b6ad1692777183683f42d44b\">brachial</span> index (ABI)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotrophic </strong><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Numbness, paresthesias, burning, loss sensation in foot, Diabetes mellitus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Under calluses or pressure points (e.g., <span class=\"customMeta\" data-dictid=\"a7a430f3a9169277719510c13f434d\">plantar</span> aspect of first or fifth <span class=\"customMeta\" data-dictid=\"eb06d1383216927771938c9eadb451\">MTP</span> joint)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>None</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Punched-out, with deep sinus, variable depth partial <span class=\"customMeta\" data-dictid=\"facd67f6341692777200653d383689\">thickness</span> to severe involving tendon, fascia, joint capsule, or bone; surrounding <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> present</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Demonstrable neuropathy, may be associated with underlying osteomyelitis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Vasculitis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>History of primary or secondary <span class=\"customMeta\" data-dictid=\"67e237a57c16927771859803f93ab3\">connective</span> tissue disease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pretibial and <span class=\"customMeta\" data-dictid=\"f61866c72d169277718680f9c96ff2\">dorsum</span> of foot but not always geographically limited</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extremely painful</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Multiple, punched-out, inflamed <span class=\"customMeta\" data-dictid=\"b3e55c05121692777190f2cc59fde0\">indurated</span> base (pathergy phenomenon); surrounding <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> present; surrounding skin shows reticulate <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> pattern</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fat necrosis/chronic <span class=\"customMeta\" data-dictid=\"15ca8931e616927771943d31a798a7\">panniculitis</span> on pathology</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypertensive (local infarct)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal pulses</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lateral malleoli</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Black necrosis; surrounding <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> present</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Aka Martorell's ulcer; seen in patients with prolonged/ suboptimal controlled hypertension</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pyoderma</strong></p>\n<p><strong>Gangrenosum</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Unknown pathogenesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Develops in sites of previous trauma, around scars, donor sites used for grafting</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severe</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Non-infective <span class=\"customMeta\" data-dictid=\"50f4196df6169277720181ef605c33\">ulceration</span> with <span class=\"customMeta\" data-dictid=\"0c02372a7d1692777196974ab1d772\">purulent</span> base</strong>; well-defined, bluish, undermined borders; surrounding erythema; deep necrotic ulcer; surrounding <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> present</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Seen with <strong>inflammatory <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> disease</strong>, immunodeficient states, myeloma, leukemia, Behcet's syndrome</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/LBGb3MPdAbkOIfSpjfLh1747157439.mp3",
+      "video": "",
+      "uid": "027dc478"
+    },
+    {
+      "text": "A 62-year-old man has a chronic ulcer on his leg from a burn injury sustained 12 years ago. Recently, the ulcer has developed indurated, painless, raised edges and surrounding fibrosis. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venous ulcer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pressure ulcer",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Marjolin\u2019s ulcer",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Actinic keratosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Marjolin\u2019s ulcer",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/qp2Uhm4wtfdUOIHeWjsV1740076129.png",
+        "https://image.prepladder.com/content/k9Cq90UU8p3cKzCNyzby1740076055.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:573px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous ulcer</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prevalence </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Responsible for 85% of all chronic limb ulcers.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Venous disease (superficial or deep <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> <span class=\"customMeta\" data-dictid=\"9a02ac20c3169277719094af57128d\">incompetence</span> or obstruction)</li>\n<li>Arterial ischemic ulcer</li>\n<li>Vasculitic ulcer</li>\n<li>Traumatic ulcer</li>\n<li>Neuropathic ulcer</li>\n<li>Neoplastic ulcer</li>\n<li>Infections.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathophysiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Old theories: <span class=\"customMeta\" data-dictid=\"18c2380be716927772020c9b2863de\">Fibrin</span> <span class=\"customMeta\" data-dictid=\"074fda92471692777185c9d613a2ea\">cuff</span> theory and white cell trapping theory but these have not been confirmed.</li>\n<li>Presently: <span class=\"customMeta\" data-dictid=\"4712037d54169277718165d90f2550\">Ambulatory</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"45372f6c361692777189ff3209e642\">hypertension</span> is the primary cause.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Gaiter's Zone:</strong> Common <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> location around and above the <span class=\"customMeta\" data-dictid=\"db46007ad21692777192dcc160a2e2\">medial</span> <span class=\"customMeta\" data-dictid=\"57986121e1169277719156c8d3120e\">malleoli</span> due to numerous perforators.</li>\n<li><strong>Ulcer:</strong> Large with gently sloping edge and <span class=\"customMeta\" data-dictid=\"09e414c5a71692777188ef029aefe5\">granulation</span> tissue, nonhealing, tender, <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">recurrent</span> with secondary infections.</li>\n<li>Surrounding skin often shows<strong> thickening, inflammation, induration, <span class=\"customMeta\" data-dictid=\"b5f46d7e431692777195efd6b43e9f\">pigmentation</span> (hemosiderosis) and fibrosis</strong>. <strong>(Option A)</strong></li>\n<li><strong>Lipodermatosis:</strong> Chronic inflammation, <span class=\"customMeta\" data-dictid=\"21e2d5a70616927772021fcdec0ca9\">fibrosis</span> and thickening of the skin and <span class=\"customMeta\" data-dictid=\"d446e62c6c1692777199896fc1d4b9\">subcutaneous</span> tissue of the lower leg with <span class=\"customMeta\" data-dictid=\"b5f46d7e431692777195efd6b43e9f\">pigmentation</span> and a tight, contracted appearance, often with <span class=\"customMeta\" data-dictid=\"a6866cebd81692777180cccaabbb81\">Achilles tendon</span> contracture. Suggests severe chronic <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> disease and gives a <strong>champagne bottle</strong> appearance.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Investigations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Duplex scan</strong>: To assess deep and <span class=\"customMeta\" data-dictid=\"ebb480187d1692777199e233e9e356\">superficial</span> veins.</li>\n<li><strong>Biopsy:</strong> For <span class=\"customMeta\" data-dictid=\"06123ff61a1692777182e19b790ebc\">atypical</span> ulcers or suspected <span class=\"customMeta\" data-dictid=\"0c7efd2b8716927771914c8cb19e54\">malignancy</span> (e.g., Marjolin's ulcer).</li>\n<li>Additional tests: Full blood count, blood glucose, ESR/CRP, sickle cell test, <span class=\"customMeta\" data-dictid=\"9d7a12cab116927771811a0079086d\">antibody</span> screening if <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> appears atypical.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Compression Therapy</strong></li>\n<li><strong>Superficial <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"eb788615bd16927771803d3841aa78\">ablation</span> or surgery</strong></li>\n<li><strong>Bisgaard Method:</strong> Measures to reduce edema, increase <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"dd824a31e71692777186c7f8168998\">drainage</span> and promote <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> healing\n\t\t\t\t<ul>\n<li>Elevation</li>\n<li>Massage of <span class=\"customMeta\" data-dictid=\"b3e55c05121692777190f2cc59fde0\">indurated</span> area</li>\n<li>Passive and active exercise</li>\n</ul>\n</li>\n<li>Other Treatments: Pentoxifylline, horse <span class=\"customMeta\" data-dictid=\"008c649fc21692777184c87752a892\">chestnut</span> extract, biological dressings, grafts and antibiotics.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hemorrhage</li>\n<li>Periostitis over tibia</li>\n<li>Marjolin's Ulcer:\n\t\t\t\t<ul>\n<li>Well-differentiated <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> (squamous cell or <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> cell carcinoma) occurring in chronic scars (e.g., burn scars, <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> ulcers).</li>\n<li>Indurated, painless, non-tender <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> with raised, everted edges and surrounding fibrosis. <strong>(Option C)</strong></li>\n<li>Treatment: Wide local excision</li>\n</ul>\n</li>\n<li>Infection</li>\n<li>Talipes equinovarus</li>\n<li>Disability</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d3e57ee5"
+    },
+    {
+      "text": "A 64-year-old woman is scheduled for the great saphenous vein (GSV) stripping to treat her varicose veins. What is the most likely nerve injury she might experience post-operatively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sural nerve",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Common peroneal nerve",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Saphenous nerve",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tibial nerve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Saphenous nerve",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jd175XEPbCyKd9MHxyQo1747158282.mp3",
+      "video": "",
+      "uid": "0e2df6ac"
+    },
+    {
+      "text": "A patient with chronic venous insufficiency presents with symptomatic varicose veins. The physician decides to use foam sclerotherapy, specifically the Tessari technique, to treat the affected veins. What is the typical ratio of sclerosant to air used in the Tessari technique for creating the foam?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1:1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1:2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1:3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1:6",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1:3",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/RFMDrEoW6kshVkKVtzmM1739122632.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:669px\">\n<tbody>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Sclerotherapy</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>A <span class=\"customMeta\" data-dictid=\"0aa16e71201692777198c4c07e2392\">sclerosing</span> agent, typically <strong>sodium tetradecyl sulphate</strong>, is <span class=\"customMeta\" data-dictid=\"6a367ebd0c169277719091155a5b0f\">injected</span> into the affected vein.</li>\n<li>This agent <strong>damages the <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> lining, causing it to collapse</strong> and eventually be absorbed by the body.</li>\n<li>To enhance the effectiveness of the sclerosant, it is <strong>mixed with air to create a foam</strong>.</li>\n<li>This <span class=\"customMeta\" data-dictid=\"40d72689211692777203fca86e25c9\">foam</span> allows for greater contact with the <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> wall and displaces blood that could <span class=\"customMeta\" data-dictid=\"8bc8a6d0441692777190e9bed75e91\">inactivate</span> the sclerosant</li>\n</ul>\n<p><strong>Indications:</strong> Telangiectasias, <span class=\"customMeta\" data-dictid=\"0b6b1f44cb1692777197afef785626\">reticular</span> veins, and small, nonaxial <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins (<6 mm) visible in chronic <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> disease; suitable for patients with persistent symptoms despite medical management.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Tessari Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Sclerosants</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Indications and Contraindications</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Foam Preparation</strong></p>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Two syringes: one with sclerosant, one with air/gas (CO2)</li>\n<li>Connected via multi-way stopcock.</li>\n<li><strong>Sclerosant to air ratio is usually 1:3 or 1:4</strong></li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Repeated plunger action to create foam</li>\n</ul>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>STS:</strong> <span class=\"customMeta\" data-dictid=\"61fbe2173416927771998e7aa0b432\">Synthetic</span> sodium salt with <span class=\"customMeta\" data-dictid=\"4b83ec31581692777181547f1a89ef\">anesthetic</span> properties</li>\n<li><strong>Polidocanol:</strong> <span class=\"customMeta\" data-dictid=\"61fbe2173416927771998e7aa0b432\">Synthetic</span> <span class=\"customMeta\" data-dictid=\"6f2c4e308c16927771964ef7064e47\">polyethylene</span> glycol, also an anesthetic.</li>\n<li>Effective for telangiectasias, <span class=\"customMeta\" data-dictid=\"0b6b1f44cb1692777197afef785626\">reticular</span> veins</li>\n<li><strong>HTS:</strong> 23% <span class=\"customMeta\" data-dictid=\"f97c39ea7a1692777189ea0ea68b49\">hypertonic</span> saline, osmotic agent</li>\n</ul>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>Candidates:</strong> <span class=\"customMeta\" data-dictid=\"d1a9a79f701692777182066af09044\">Asymptomatic</span> patients and those with controlled recent or <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">recurrent</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> may undergo <span class=\"customMeta\" data-dictid=\"c6eed7f30016927771988ace779458\">sclerotherapy</span> without additional diagnostics.</li>\n<li><strong>Contraindications:</strong> Avoid <span class=\"customMeta\" data-dictid=\"c6eed7f30016927771988ace779458\">sclerotherapy</span> during <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"3e745919391692777200fae21b7251\">thrombosis</span> or pregnancy.</li>\n<li><strong>Risks</strong>: Microembolism risk</li>\n<li><strong>Vessel Size:</strong> Suitable for veins up to 6 mm in diameter, including small, nonaxial <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins, <span class=\"customMeta\" data-dictid=\"0b6b1f44cb1692777197afef785626\">reticular</span> veins, and telangiectasias.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Injection Technique</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Downstream <span class=\"customMeta\" data-dictid=\"3509997646169277719014053aa74d\">injection</span> from larger to smaller veins.</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Controlled <span class=\"customMeta\" data-dictid=\"40d72689211692777203fca86e25c9\">foam</span> volume to displace blood.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Advantages</strong></p>\n</td>\n<td colspan=\"3\" rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Minimally invasive, enhanced efficacy, safety profile.</li>\n<li>Reduced volume requirement due to foam.</li>\n<li>STS: Rapid <span class=\"customMeta\" data-dictid=\"3a3fb1b8a816927771840e6a344cc0\">clearance</span> in blood, effective for larger veins.</li>\n<li>Polidocanol: Decreased risk of thrombosis, suitable for smaller veins.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/yGkK9sMvezFEAHjScuuA1747158577.mp3",
+      "video": "",
+      "uid": "2b2e4b55"
+    },
+    {
+      "text": "Which of the following statements best describes the difference between Dodd and Cockett surgeries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dodd: ligation in the thigh; Cockett: ligation in the lower leg",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dodd: open surgery; Cockett: endoscopic",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dodd: targets superficial veins; Cockett: targets deep veins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dodd: higher risk of nerve injury; Cockett: lower risk",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Dodd: ligation in the thigh; Cockett: ligation in the lower leg",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/oZNziPqIYRf81a4WLkLu1740074849.png",
+        "https://image.prepladder.com/content/dli6yD1WeSDz3mECKLZ61740075049.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Surgery</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Purpose</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Advantages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Current Relevance</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>SEPS (Subfascial <span class=\"customMeta\" data-dictid=\"35ca8c2d5f16927771879351e8f97e\">Endoscopic</span> <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">Perforator</span> <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">Vein</span> Surgery)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Treats chronic <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"80feaae4b31692777190ea1ba3fc25\">insufficiency</span> by <span class=\"customMeta\" data-dictid=\"e4865847fa169277720044d7b530b0\">targeting</span> <span class=\"customMeta\" data-dictid=\"c6bd60f04c16927771907761dd90dd\">incompetent</span> <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Minimally invasive; uses an endoscope</strong> to access and clip/divide <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Less pain, shorter recovery, fewer complications.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Preferred over open surgery; effective in preventing <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> ulcers.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Dodd Surgery</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Addresses <span class=\"customMeta\" data-dictid=\"c6bd60f04c16927771907761dd90dd\">incompetent</span> <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins in the thigh.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Open surgery</strong>; <span class=\"customMeta\" data-dictid=\"2afbd932801692777190be690704b3\">incision</span> made to <span class=\"customMeta\" data-dictid=\"4d8122357e1692777191499a8b5d79\">ligate</span> or divide thigh <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins (Dodd perforators).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Direct access to <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Less common due to SEPS; historically significant.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cockett Surgery</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Targets <span class=\"customMeta\" data-dictid=\"c6bd60f04c16927771907761dd90dd\">incompetent</span> <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins in the lower leg.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Open surgery</strong>; <span class=\"customMeta\" data-dictid=\"2afbd932801692777190be690704b3\">incision</span> over the lower leg to <span class=\"customMeta\" data-dictid=\"4d8122357e1692777191499a8b5d79\">ligate</span> <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins near the <span class=\"customMeta\" data-dictid=\"db46007ad21692777192dcc160a2e2\">medial</span> <span class=\"customMeta\" data-dictid=\"6a7ff3e34716927771914c22e9fe4e\">malleolus</span> (Cockett perforators).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Direct access to lower leg <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Less common due to SEPS; historically significant.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/TOULwIk6OqnMCve3zCi71747158752.mp3",
+      "video": "",
+      "uid": "ec14920b"
+    },
+    {
+      "text": "A 45-year-old woman presents with symptomatic varicose veins. She is interested in learning about the available treatment options and their benefits. Her primary concern is to minimize recovery time and reduce post-operative pain. Which of the following surgical approaches is most appropriate for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Saphenofemoral ligation and great saphenous stripping",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Saphenopopliteal junction ligation and small saphenous stripping",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Endovenous laser ablation (EVLA)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Phlebectomy as a standalone procedure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Endovenous laser ablation (EVLA)",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/mgEd8ONRfu13KT8bcXnM1740074073.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Endovenous Laser <span class=\"customMeta\" data-dictid=\"eb788615bd16927771803d3841aa78\">Ablation</span> (EVLA)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Radiofrequency <span class=\"customMeta\" data-dictid=\"eb788615bd16927771803d3841aa78\">Ablation</span> (RFA)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Procedure Overview</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Minimally invasive, uses laser energy to close <span class=\"customMeta\" data-dictid=\"c6bd60f04c16927771907761dd90dd\">incompetent</span> veins.</li>\n<li>Gold standard and has largely replaced <span class=\"customMeta\" data-dictid=\"81d12f9cb01692777199e44ff3f3c1\">surgical</span> <span class=\"customMeta\" data-dictid=\"dcfb6667ee1692777191f00c3df2df\">ligation</span> and stripping.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Minimally invasive, uses <span class=\"customMeta\" data-dictid=\"07f73f8986169277719716f3a62e1b\">radiofrequency</span> energy to close veins</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Treats <span class=\"customMeta\" data-dictid=\"c6bd60f04c16927771907761dd90dd\">incompetent</span> <span class=\"customMeta\" data-dictid=\"41621596221692777200ad9bb50bc5\">truncal</span> veins, often used for <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Treats <span class=\"customMeta\" data-dictid=\"c6bd60f04c16927771907761dd90dd\">incompetent</span> <span class=\"customMeta\" data-dictid=\"41621596221692777200ad9bb50bc5\">truncal</span> veins, similar to EVLA</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High <span class=\"customMeta\" data-dictid=\"7f80be61231692777187391e91e867\">efficacy</span> (>95% <span class=\"customMeta\" data-dictid=\"2b4569285f1692777184282b1ca3f1\">closure</span> rate)</li>\n<li>Cost-effective</li>\n<li>Versatile (treats large and small veins)</li>\n<li>Effective for <span class=\"customMeta\" data-dictid=\"4632fe89141692777200f671693e55\">tortuous</span> veins</li>\n<li>Standard fibers treat <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> veins</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High <span class=\"customMeta\" data-dictid=\"7f80be61231692777187391e91e867\">efficacy</span> (>95% <span class=\"customMeta\" data-dictid=\"2b4569285f1692777184282b1ca3f1\">closure</span> rate)</li>\n<li>Standardized treatment cycles</li>\n<li>Potentially <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> post-procedural pain and bruising</li>\n<li>Simplified procedural <span class=\"customMeta\" data-dictid=\"3a6d14db861692777198565f57828c\">setup</span> without laser safety protocols</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Applications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Varicose veins</li>\n<li>Venous <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> treatment, when combined with <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> therapy</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Varicose veins</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key Differences</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Laser energy used for <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> ablation</li>\n<li>Requires laser safety protocols</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Radiofrequency energy used for <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> ablation</li>\n<li>Automated energy delivery simplifies the procedure</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/pvnnO1OpCv2Jp1Bo8SQn1747159507.mp3",
+      "video": "",
+      "uid": "1caeafda"
+    },
+    {
+      "text": "A 45-year-old male presents with chronic leg pain, swelling, and visible varicose veins. A duplex ultrasound is performed to assess venous function. Which of the following statements is TRUE regarding interpreting the duplex scan in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The duplex scan should be performed with the patient in a supine position",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A reflux time of less than 500 milliseconds is clinically significant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Presence of perforator vein with a diameter >3.5 mm is significant",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The duplex scan is primarily used to locate perforating veins",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Presence of perforator vein with a diameter >3.5 mm is significant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:592px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Parameter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Significance</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Position during Scan</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Standing or trunk-elevated (NOT supine)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reflux Time (\u2265 500 ms)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Indicative of significant reflux</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Perforator <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">Vein</span> <span class=\"customMeta\" data-dictid=\"afb15e4a331692777186e495b370a1\">Diameter</span> (> 3.5 mm)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suggestive of significant <span class=\"customMeta\" data-dictid=\"5afc9732fd1692777195b9482bf3c2\">perforator</span> reflux</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Use of Duplex Scan</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Assess <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> reflux, NOT locating perforators</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/4DG6bMj5jfcd8sUxvlxs1747160098.mp3",
+      "video": "",
+      "uid": "0b95c6c1"
+    },
+    {
+      "text": "The following test was conducted in the clinic for a patient suffering from varicose veins. On releasing only tourniquet 3, the filling of blood was observed. What does this signify?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hunterian\u2019s perforator incompetence",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Boyd\u2019s perforator incompetence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dodd\u2019s perforator incompetence",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cockett\u2019s perforator incompetence",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Cockett\u2019s perforator incompetence",
+      "question_images": [
+        "https://image.prepladder.com/content/KmaPf1q3tOb4zc7Jv8Ub1740073833.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/drDfdNd0GUF4p79LlHAa1740073988.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/5FH9G6gcKi4EyrLLhvDJ1747157173.mp3",
+      "video": "",
+      "uid": "e8e5b6eb"
+    },
+    {
+      "text": "A patient with varicose veins is being examined in the surgical OPD. The Brodie-Trendelenburg I test is done for the patient, and the surgeon notices that blood is filling from above. What does this signify?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valvular incompetence",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Perforator incompetence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sapheno-femoral incompetence",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Presence of DVT",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sapheno-femoral incompetence",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/5j6BRy9wQuwL3DnGOtOa1747157035.mp3",
+      "video": "",
+      "uid": "b06b9592"
+    },
+    {
+      "text": "A 45-year-old man presents with left leg swelling and pain for 3 days. Duplex ultrasonography reveals a thrombus in the popliteal vein. Which of the following veins is most likely to be involved next in the progression of this DVT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Great saphenous vein",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Common femoral vein",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Posterior tibial vein",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "External iliac vein",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Common femoral vein",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/8AqNpsNcB3DiFNEmkuHQ1740060599.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ibF03nBqAKkJhCG6DDVA1746795396.mp3",
+      "video": "",
+      "uid": "6dad759e"
+    },
+    {
+      "text": "After noticing small swellings over his legs, a 60-year-old man comes to the surgical OPD. He is a tailor by occupation and works long hours. He explains that he experiences a heaviness and aching in the legs after a long day of work but is relieved once he elevates his legs and rests. Which of the following is not a more severe sign of this disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thrombophlebitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lipodermatosclerosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ulceration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pedal edema",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pedal edema",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/DTrt89VhwATNBeTSxjP21740071837.png",
+        "https://image.prepladder.com/content/p6KuGemlv2gcBkT0rFbo1740071884.png",
+        "https://image.prepladder.com/content/u7WAGgJdWlJi0FrfY8zs1740071925.png",
+        "https://image.prepladder.com/content/AonVrjuIg1NR8E5efNgN1740071968.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/87mU5O2t9jvUDC5NWKAP1747156635.mp3",
+      "video": "",
+      "uid": "fe0aeeb7"
+    },
+    {
+      "text": "A 50-year-old woman presents with visible, dilated veins on both legs. She has a history of two pregnancies and works as a retail clerk. On examination, the dilated veins are most prominent along the posterior aspect of her calves. Which of the following describes the classification of her varicose veins based on the involved venous system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Great Saphenous Vein System",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Small Saphenous Vein System",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Non-saphenous veins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Perforator veins",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Small Saphenous Vein System",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/oe3u8ueq5Mftq8RE5A8G1746796871.mp3",
+      "video": "",
+      "uid": "fec974e7"
+    },
+    {
+      "text": "A 55-year-old woman presents with varicose veins in her left leg. On examination, you notice dilated, tortuous veins along the posterior aspect of her calf and lateral thigh. To accurately map the incompetent veins for potential treatment, which of the following describes the most likely location of the Boyd perforator vein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medial ankle, posterior to the medial malleolus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Medial calf, approximately 10 cm above the medial malleolus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lateral calf, at the junction of the middle and lower thirds",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Medial knee, approximately 10 cm below the knee joint line",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Medial knee, approximately 10 cm below the knee joint line",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/YLNw7xI4d2KpkeJOF41c1740071626.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/0beOTEkIOv6ieMBOCqwE1746796627.mp3",
+      "video": "",
+      "uid": "55c8a174"
+    },
+    {
+      "text": "A 55-year-old woman presents with recurrent episodes of tender, erythematous cord-like swellings along different superficial veins of her lower extremities over the past 3 months. Which of the following is most likely to be associated with this presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recent childbirth",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thromboangiitis obliterans",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic malignancy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia vera",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pancreatic malignancy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/vg6fiONqfbep7IqjNYv01746796467.mp3",
+      "video": "",
+      "uid": "b323a15f"
+    },
+    {
+      "text": "A 20-year-old competitive swimmer presents with a 2-day history of left arm pain, swelling, and mild discoloration after intense training. Duplex ultrasound shows a thrombus in the left subclavian vein. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoracic outlet syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paget-Schrotter syndrome",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Raynaud's phenomenon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lymphedema",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Paget-Schrotter syndrome",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/dotUBuiOEB6upfvXSUo81740064659.png",
+        "https://image.prepladder.com/content/xu3xCG4eV9oKt5a1rsDJ1740071296.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Upper <span class=\"customMeta\" data-dictid=\"c8ed8e0fb61692777187c860f7056f\">Extremity</span> <span class=\"customMeta\" data-dictid=\"7b6c3bb2611692777186e94c623ac9\">DVT</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Less common than lower <span class=\"customMeta\" data-dictid=\"c8ed8e0fb61692777187c860f7056f\">extremity</span> DVT, comprising ~5% of all <span class=\"customMeta\" data-dictid=\"7b6c3bb2611692777186e94c623ac9\">DVT</span> cases.</li>\n<li>Serious condition with a risk of <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"1c07a1135f1692777187f547678386\">embolism</span> in up to one-third of cases.</li>\n<li>Typically involves <span class=\"customMeta\" data-dictid=\"3e745919391692777200fae21b7251\">thrombosis</span> of the <strong>axillary </strong>or <strong>subclavian </strong>veins.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Categories</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Idiopathic:</strong></p>\n<ul>\n<li><strong>Idiopathic upper <span class=\"customMeta\" data-dictid=\"c8ed8e0fb61692777187c860f7056f\">extremity</span> DVT</strong>\n<ul>\n<li>Idiopathic cases warrant evaluation for <span class=\"customMeta\" data-dictid=\"c8d9b6cbbb1692777194c4bc31f01f\">occult</span> malignancy.</li>\n</ul>\n</li>\n<li><strong>Paget-Schroetter syndrome (Option B)</strong>\n<ul>\n<li>Effort <span class=\"customMeta\" data-dictid=\"f3063c1d8b169277719018bf869980\">induced</span> <span class=\"customMeta\" data-dictid=\"3e745919391692777200fae21b7251\">thrombosis</span> due to <span class=\"customMeta\" data-dictid=\"9562c879be1692777199afcb12fa54\">subclavian</span> <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> compression.</li>\n<li>Often seen in young athletes with repetitive upper <span class=\"customMeta\" data-dictid=\"c8ed8e0fb61692777187c860f7056f\">extremity</span> motion (e.g., swimming).</li>\n<li>Anatomic anomalies like <span class=\"customMeta\" data-dictid=\"25c6ce766c1692777184ab9a40305c\">cervical</span> ribs or <span class=\"customMeta\" data-dictid=\"ff4da5559b169277719349b30b2f82\">myofascial</span> bands can cause <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> compression.</li>\n<li>It may develop as a sequale of <span class=\"customMeta\" data-dictid=\"3c6021096816927772007954fcc158\">thoracic</span> outlet syndrome</li>\n<li>Diagnosis may involve plain films to confirm <span class=\"customMeta\" data-dictid=\"3c6021096816927772007954fcc158\">thoracic</span> outlet syndrome (as shown in the image below).</li>\n<li>Treatment: Initial <span class=\"customMeta\" data-dictid=\"7e7b9c1b1816927772000af22608df\">thrombolysis</span> followed by <span class=\"customMeta\" data-dictid=\"3c6021096816927772007954fcc158\">thoracic</span> outlet <span class=\"customMeta\" data-dictid=\"46a5e63f281692777185d3f56ea186\">decompression</span> (first rib and <span class=\"customMeta\" data-dictid=\"c9b658143016927771985deca1dbb9\">scalene</span> muscle resection).</li>\n<li>Surgical approach: <span class=\"customMeta\" data-dictid=\"b29f3bf7cd1692777197ee03d829e9\">Reconstruction</span> of axillary and <span class=\"customMeta\" data-dictid=\"9562c879be1692777199afcb12fa54\">subclavian</span> veins.</li>\n<li>Post-surgery: <span class=\"customMeta\" data-dictid=\"9beeeb58f6169277718129acb7bd01\">Anticoagulation</span> for 6-12 months.</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Ijaopo R, Oguntolu V, DCosta D, Garnham A, Hobbs S,\" data-hash=\"\" data-license=\"CC BY 4.0\" data-source=\"https://commons.wikimedia.org/wiki/File:A-case-of-Paget-Schroetter-syndrome-(PSS)-in-a-young-judo-tutor-a-case-report-13256_2016_848_Fig2_HTML.jpg\" data-tags=\"\" height=\"500\" src=\"https://image.prepladder.com/content/dotUBuiOEB6upfvXSUo81740064659.png\" width=\"500\"/></p>\n<p><strong>Secondary:</strong></p>\n<ul>\n<li>More common</li>\n<li>Due to <span class=\"customMeta\" data-dictid=\"3d7fbfbd7f1692777190bde80be811\">indwelling</span> central <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> catheters, pacemakers, <span class=\"customMeta\" data-dictid=\"70158d6a8316927772008b29ca8100\">thrombophilia</span> or <span class=\"customMeta\" data-dictid=\"f8aaf091221692777191f73e810e94\">malignant</span> disease.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Unilateral swelling</li>\n<li>Pain</li>\n<li>Extremity discomfort</li>\n<li>Erythema</li>\n<li>Palpable cord</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Duplex ultrasonography</li>\n<li>Venography or magnetic <span class=\"customMeta\" data-dictid=\"37b9856df8169277719716b550a15f\">resonance</span> venography</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Anticoagulation therapy: <span class=\"customMeta\" data-dictid=\"050e27829716927771885eddb2620c\">Heparin</span> or LMWH plus <span class=\"customMeta\" data-dictid=\"38d84b192c16927772023d96107e4c\">warfarin</span> for at least 3 months is the mainstay of treatment.</li>\n<li>Thrombolysis does not significantly reduce long-term manifestations.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complication </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Recurrence</li>\n<li>Post-thrombotic syndrome (PTS)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/LGVHJN5Rg7Pvn3MmA9vh1746796288.mp3",
+      "video": "",
+      "uid": "59faf23f"
+    },
+    {
+      "text": "A 30-year-old woman is in the post-operative ward after a cesarean section. She had no complications and gave birth to a healthy baby. Which of the following is a prophylactic step she needs to be advised to prevent deep vein thrombosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Early mobilization along with compression stockings",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Low molecular weight heparin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Low-dose unfractionated heparin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fondaparinux",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Early mobilization along with compression stockings",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/3qct6dGTtJtrxF9FHuKQ1740071085.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:469px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Level of risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Suggested <span class=\"customMeta\" data-dictid=\"773ad0a8891692777200325e6fb283\">thromboprophylaxis</span> options</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Very low-risk</p>\n<p>General or abdominopelvic surgery</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>No specific thromboprophylaxis</li>\n<li>Early <span class=\"customMeta\" data-dictid=\"3243864c2316927771817341380a07\">ambulation</span> along with <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> stockings\u00a0<strong>(Option A)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low risk</p>\n<p>General or abdominopelvic surgery</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mechanical prophylaxis</li>\n<li>Early <span class=\"customMeta\" data-dictid=\"3243864c2316927771817341380a07\">ambulation</span> and mechanical device (compression stockings)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moderate risk</p>\n<p>General or abdominopelvic surgery</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>LMWH (at recommended doses) <strong>(Option B)</strong></li>\n<li>LDUH <strong>(Option C) </strong>or mechanical prophylaxis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> risk</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mechanical prophylaxis</li>\n<li>Early <span class=\"customMeta\" data-dictid=\"3243864c2316927771817341380a07\">ambulation</span> and mechanical device( <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> stockings</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High risk</p>\n<p>General or abdominopelvic surgery</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>LMWH (at recommended doses),</li>\n<li>fondaparinux <strong>(Option D)</strong>,<strong> </strong>and mechanical prophylaxis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> risk</p>\n<p>General or abdominopelvic surgery\u00a0for cancer</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mechanical thromboprophylaxis</li>\n<li>Extended-duration LMWH (4 weeks)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3j8AP3EKG92Pnllxw2JJ1746796152.mp3",
+      "video": "",
+      "uid": "a8c4b153"
+    },
+    {
+      "text": "A patient came with complaints of discoloration of his left leg as shown in the image. He has a history of deep vein thrombosis and has been inconsistent on medication. What is the possible diagnosis here?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venous gangrene",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Venous ulcer",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atrophic blanche",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Post-thrombotic leg",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Post-thrombotic leg",
+      "question_images": [
+        "https://image.prepladder.com/content/0zF2F4KQgBAJtlt9VGsP1740061415.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/GxbKd80N7PagMc4xDi801740061471.png",
+        "https://image.prepladder.com/content/T2RuEDo0fjphsxoYxTjX1740061543.png",
+        "https://image.prepladder.com/content/z4RW6KyXkKO6c02veDnF1740061594.png",
+        "https://image.prepladder.com/content/iZ6H7pe1eIu0SH0wbErg1740061634.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/4ZbZkt5ouPOpSzsr6fBX1746796012.mp3",
+      "video": "",
+      "uid": "45562b78"
+    },
+    {
+      "text": "A 45-year-old man with metastatic colorectal cancer is diagnosed with an acute DVT of the left leg. He had an episode of upper GI bleed 2 days ago. His lab results show a platelet count of 40,000/\u03bcL and an INR of 1.8. Which of the following is the most appropriate management strategy for preventing pulmonary embolism in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start anticoagulation with LMWH",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Place a permanent IVC filter",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Place a retrievable IVC filter",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Start anticoagulation with UFH",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Place a retrievable IVC filter",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/mgwjMcCADRRIPsUZen5G1740060835.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>IVC Filters:</strong></p>\n<p>Mechanical devices designed to prevent <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"1c07a1135f1692777187f547678386\">embolism</span> by trapping large clots in the <span class=\"customMeta\" data-dictid=\"49c4ef5b9d1692777190c0277f8344\">inferior</span> <span class=\"customMeta\" data-dictid=\"3ddf6d5ea71692777201b70c8b9715\">vena</span> cava.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Recurrent <span class=\"customMeta\" data-dictid=\"237b2a1dfa1692777200a074fd1072\">thromboembolism</span> despite adequate anticoagulation</li>\n<li>Deep <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"3e745919391692777200fae21b7251\">thrombosis</span> in a patient with contraindications to anticoagulation</li>\n<li>Chronic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"1c07a1135f1692777187f547678386\">embolism</span> and resultant <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> hypertension</li>\n<li>Complications of anticoagulation</li>\n<li>Propagating <span class=\"customMeta\" data-dictid=\"dae3263b2716927771896cfc9f45c8\">iliofemoral</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"56c933e0d41692777200b713c46640\">thrombus</span> in anticoagulation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Two main types of <span class=\"customMeta\" data-dictid=\"b1fef54dba1692777190ee3669e3e0\">IVC</span> filters:</p>\n<ul>\n<li><strong>Permanent filters:</strong> Designed for lifelong use</li>\n<li><strong>Retrievable (temporary) filters:</strong> Can be removed when no longer needed\n\t\t\t\t<ul>\n<li>Retrievable filters offer the flexibility of removal once the risk of <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"1c07a1135f1692777187f547678386\">embolism</span> has decreased or <span class=\"customMeta\" data-dictid=\"9beeeb58f6169277718129acb7bd01\">anticoagulation</span> becomes feasible.</li>\n<li>This approach helps <span class=\"customMeta\" data-dictid=\"a3b8e7d7ec1692777192646b2c8f69\">mitigate</span> the long-term complications associated with permanent filters.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications of Retrievable <span class=\"customMeta\" data-dictid=\"b1fef54dba1692777190ee3669e3e0\">IVC</span> Filter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Prophylactic placement in high-risk trauma patients (orthopedic, <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord patients)</li>\n<li>Short-term duration, <span class=\"customMeta\" data-dictid=\"c9f33964851692777185b94f619862\">contraindication</span> to <span class=\"customMeta\" data-dictid=\"9beeeb58f6169277718129acb7bd01\">anticoagulation</span> therapy</li>\n<li>Protection during <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"78e1197ee31692777200fa8819cf74\">thrombolytic</span> therapy</li>\n<li>Extensive iliocaval thrombosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complication </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Migration or <span class=\"customMeta\" data-dictid=\"27e516f8fe16927771876f99c6b831\">embolization</span> of the filter</li>\n<li>Fracture of the filter</li>\n<li>Perforation of the <span class=\"customMeta\" data-dictid=\"b1fef54dba1692777190ee3669e3e0\">IVC</span> or adjacent structures</li>\n<li>IVC thrombosis</li>\n<li>Post-thrombotic syndrome</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/DRmKmGo0iEt8p6wZ5gP61746795851.mp3",
+      "video": "",
+      "uid": "53314a87"
+    },
+    {
+      "text": "A 45-year-old man with a history of colorectal cancer underwent surgery 3 weeks ago and is now presenting with complaints of left leg swelling and pain for 3 days. His left calf is 4 cm larger than the right. Using Wells' criteria for DVT, what is his pre-test probability score and risk category?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 points; Moderate risk",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5 points; High risk",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3 points; Moderate risk",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4 points; High risk",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 4 points; High risk",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:595px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Variable</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Score</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lower limb trauma or surgery or <span class=\"customMeta\" data-dictid=\"3024d9916e16927771896f5b7159b6\">immobilization</span> in a <span class=\"customMeta\" data-dictid=\"6c22f2390016927771955c0c04b851\">plaster</span> cast</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bedridden for >3 days or surgery in the last 4 weeks</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tenderness along the line of <span class=\"customMeta\" data-dictid=\"ab8a987431169277720229e09c01d7\">femoral</span> or popliteal veins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Entire limb swollen</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Calf >3 cm larger <span class=\"customMeta\" data-dictid=\"0e190b1ed716927771848781259060\">circumference</span> than another side 10 cm below the <span class=\"customMeta\" data-dictid=\"f2a519f38316927772004fe7c606af\">tibial</span> tuberosity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pitting oedema</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dilated <span class=\"customMeta\" data-dictid=\"4de12d1ef31692777184db1d11c6bd\">collateral</span> <span class=\"customMeta\" data-dictid=\"ebb480187d1692777199e233e9e356\">superficial</span> veins (not <span class=\"customMeta\" data-dictid=\"58bf762051169277720114fd8971a9\">varicose</span> veins)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Previous DVT</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Malignancy (including treatment up to 6 months ago)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intravenous drug abuse</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alternative diagnosis more likely than DVT</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-2</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/sfa2AiQWPzZ1QPDRoDqf1746106058.mp3",
+      "video": "",
+      "uid": "72fad327"
+    },
+    {
+      "text": "A 52-year-old male presents with a swollen, painful left calf that developed over the past two days. He reports no history of trauma, surgery, or prolonged immobility. Physical examination reveals a warm, erythematous, and tender left calf. Which of the following clinical features is most specific for diagnosing deep vein thrombosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calf pain on dorsiflexion of the foot",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Asymmetrical calf swelling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pain that worsens with leg elevation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Localized tenderness along the course of the deep veins",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Localized tenderness along the course of the deep veins",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/8yP5VnAJKtJ76oGIshLw1740060687.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Significance</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. <span class=\"customMeta\" data-dictid=\"8fb8df140b1692777191702bbc9358\">Localized</span> tenderness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specific for DVT; indicates <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> along the vein.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. Asymmetrical calf swelling</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Common but not specific to DVT.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. <span class=\"customMeta\" data-dictid=\"f0f3e105661692777187df507b1f26\">Erythema</span> and warmth</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suggestive of <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> or thrombosis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4. Pain in the affected limb</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can occur with or without movement; can indicate <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> obstruction.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5. Dilated <span class=\"customMeta\" data-dictid=\"ebb480187d1692777199e233e9e356\">superficial</span> veins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>May indicate <span class=\"customMeta\" data-dictid=\"8c77461be01692777184e67e678209\">compensatory</span> <span class=\"customMeta\" data-dictid=\"337d16dac5169277718474b97f6e4a\">circulation</span> due to deep <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> obstruction.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6. Homans' sign</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-specific; <span class=\"customMeta\" data-dictid=\"c72d29ec4116927771942153c0d252\">Passive</span> forceful <span class=\"customMeta\" data-dictid=\"5c4883591b16927771863aa94323f0\">dorsiflexion</span> of the foot with extended knee will cause <span class=\"customMeta\" data-dictid=\"169e1c9eb416927772006ea5a02252\">tenderness</span> in the calf.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>7. Mose\u2019s sign</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Painful response to gentle squeezing of the lower calf from side-to-side.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>8. Neuhof's Sign</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thickening and deep <span class=\"customMeta\" data-dictid=\"169e1c9eb416927772006ea5a02252\">tenderness</span> in the calf muscles upon palpation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>9. <span class=\"customMeta\" data-dictid=\"34a7bc9de21692777195df390d3e9e\">Phlegmasia</span> <span class=\"customMeta\" data-dictid=\"455facf7ef169277718133da1f91e2\">Alba</span> Dolens</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>DVT of the <span class=\"customMeta\" data-dictid=\"ab8a987431169277720229e09c01d7\">femoral</span> <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> causes painful <span class=\"customMeta\" data-dictid=\"2dd9736fdf16927771849f5a925f7d\">congestion</span> and <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> of the leg with lymphangitis, which further increases <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> (white leg).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>10. <span class=\"customMeta\" data-dictid=\"34a7bc9de21692777195df390d3e9e\">Phlegmasia</span> Caerulea Dolens</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extensive <span class=\"customMeta\" data-dictid=\"7b6c3bb2611692777186e94c623ac9\">DVT</span> in <span class=\"customMeta\" data-dictid=\"837bfc230c16927771892ece07f94b\">iliac</span> and <span class=\"customMeta\" data-dictid=\"7cd6eb19341692777195d83aafdcb3\">pelvic</span> veins leading to a blue leg with possible <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> <span class=\"customMeta\" data-dictid=\"741c89cb18169277718889cfaafa53\">gangrene</span> or infarction.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Umb5TcKff5zMh2uY2yR41746795536.mp3",
+      "video": "",
+      "uid": "99aaffe1"
+    }
+  ]
+}

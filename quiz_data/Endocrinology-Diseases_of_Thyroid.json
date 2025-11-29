@@ -1,0 +1,546 @@
+{
+  "meta": {
+    "id": "test18",
+    "title": "Endocrinology-Diseases_of_Thyroid",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 45-year-old woman presents with hyperthermia, tachycardia, and altered mental status following an abrupt discontinuation of her antithyroid medication. Upon examination, she is diaphoretic, has a goitre, and exhibits hand tremors. Which of the following is the DOC for managing her condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer Iodine solution",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer a large dose of Propylthiouracil",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Administer cholestyramine.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Administer Propranolol.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Administer a large dose of Propylthiouracil",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:651px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thyroid Storm</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Fever\u00a0</strong>with diaphoresis.</li>\n<li><strong>Cardiovascular Involvement:</strong> <span class=\"customMeta\" data-dictid=\"af1cd978a41692777200da2f67bf22\">Tachycardia</span> (>140 bpm), heart failure, arrhythmias, hypotension, and risk of <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> arrest.</li>\n<li><strong>CNS Manifestations:</strong> Agitation, delirium, anxiety, psychosis, or coma.</li>\n<li><strong>Gastrointestinal Symptoms:</strong> Nausea, vomiting, diarrhoea, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, intestinal obstruction, and <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"3268e86ce01692777188f249c64d6e\">hepatic</span> failure.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Initial Supportive Measures:</strong> IV fluids, oxygen, <span class=\"customMeta\" data-dictid=\"579dcf5fc51692777185eef17a83c6\">cooling</span> blankets, and acetaminophen.</li>\n<li><strong>Beta-blocker Therapy:</strong> Start with <span class=\"customMeta\" data-dictid=\"082f7143eb1692777196df69a3b6cb\">propranolol</span> immediately (40-80 mg every 4-6 hours) to control <span class=\"customMeta\" data-dictid=\"0132a02ec31692777180a840765aff\">adrenergic</span> tone.</li>\n<li><strong>DOC:</strong> Administer <span class=\"customMeta\" data-dictid=\"34735bff271692777196f13335f804\">propylthiouracil</span> (500-1000 mg loading, then 250 mg every 4 hours) or <span class=\"customMeta\" data-dictid=\"5bd74cc52b1692777192ca3ad5ee2a\">methimazole</span> (20 mg every 4-6 hours).\u00a0</li>\n<li><strong>Iodine Solution:</strong> Give SSKI (5 drops every 6 hours) after thionamide to <strong>reduce the release of <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormone</strong></li>\n<li><strong>Glucocorticoids:</strong> Hydrocortisone (100 mg IV every 8 hours) or <span class=\"customMeta\" data-dictid=\"1b969bdd951692777186a2a131511d\">dexamethasone</span> (2 mg every 6 hours).</li>\n<li><strong>Cholestyramine</strong> (Bile acid sequestrant)<strong>:</strong> 4 grams orally 4 times daily for severe cases to reduce <span class=\"customMeta\" data-dictid=\"6fa49bcdd91692777187965db2303d\">enterohepatic</span> recycling of <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormone.</li>\n<li><strong>Surgery:</strong> Thyroidectomy for patients with contraindications to thionamides after pre-treatment.</li>\n<li><strong>Definitive Treatment:</strong> Recommend <span class=\"customMeta\" data-dictid=\"2a445711f21692777197336861a4ac\">radioiodine</span> therapy or surgery for <span class=\"customMeta\" data-dictid=\"df46bcd43116927771892090901263\">hyperthyroidism</span> once stabilised.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "62cc222f"
+    },
+    {
+      "text": "A 32-year-old woman is scheduled for thyroidectomy. Her current thyroid function tests show decreased TSH level and elevated free T3 & T4. Which of the following is the most appropriate preoperative management to prevent thyroid storm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start propranolol alone one day before surgery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start methimazole and wait for normal thyroid function tests",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Start methimazole, potassium iodide, and propranolol 7-10 days before surgery",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Proceed directly to surgery with close monitoring",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Start methimazole, potassium iodide, and propranolol 7-10 days before surgery",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c96e3c33"
+    },
+    {
+      "text": "A 45-year-old woman with a history of multinodular goitre undergoes a CT angiogram with iodinated contrast for suspected pulmonary embolism. Two weeks later, she presents with palpitations, heat intolerance, and weight loss. Her thyroid function tests show suppressed TSH and elevated T3 and T4. Which of the following best explains this patient's current condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wolff-Chaikoff effect",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Jod-Basedow effect",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Thyroid storm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hashitoxicosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Jod-Basedow effect",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Wolff-Chaikoff Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Jod-Basedow Effect</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Temporary <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormone <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> in response to high <span class=\"customMeta\" data-dictid=\"58c4fcb71116927771901e83ac026f\">iodine</span> exposure</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Iodine-induced hyperthyroidism</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>High <span class=\"customMeta\" data-dictid=\"58c4fcb71116927771901e83ac026f\">iodine</span> levels <span class=\"customMeta\" data-dictid=\"6b3de87b7c16927771901326efbcd2\">inhibit</span> <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> peroxidase, reducing T3 and T4 production</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Excess <span class=\"customMeta\" data-dictid=\"58c4fcb71116927771901e83ac026f\">iodine</span> stimulates autonomous <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormone production in <span class=\"customMeta\" data-dictid=\"55691242bb1692777199360f64cb67\">susceptible</span> individuals</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Duration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Temporary (usually resolves in 1-2 weeks)</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Can persist until treated</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Thyroid Function Tests</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Initially decreased T3 and T4, increased TSH</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Increased T3 and T4, decreased TSH</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>At-risk Population</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Normal <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> glands</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Pre-existing <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> disease (e.g., <span class=\"customMeta\" data-dictid=\"b3ba921efb169277719315f4ec3226\">multinodular</span> goiter, Graves' disease)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Clinical Presentation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Usually <span class=\"customMeta\" data-dictid=\"d1a9a79f701692777182066af09044\">asymptomatic</span> or mild <span class=\"customMeta\" data-dictid=\"9a04451cba1692777189ae54ac7caf\">hypothyroid</span> symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Symptoms of <span class=\"customMeta\" data-dictid=\"df46bcd43116927771892090901263\">hyperthyroidism</span> (e.g., palpitations, heat intolerance, weight loss)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "915239ff"
+    },
+    {
+      "text": "A 52-year-old woman presents with a 2-week history of palpitations, anxiety, and weight loss. On examination, her heart rate is 110 bpm and regular, and she has a painful goitre. Thyroid function tests show decreased TSH level and elevated free T3 & T4 levels. A thyroid scan shows very low uptake. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Graves' disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Toxic multinodular goiter",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Subacute thyroiditis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "TSH-secreting pituitary adenoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Subacute thyroiditis",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/8d2Pk0p9pEN57NzHdrJM1744286982.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d8212ed3"
+    },
+    {
+      "text": "A 35-year-old woman presents with a history of weight loss, palpitations, and heat intolerance. On examination, she has a diffuse goitre, Ophthalmopathy and fine tremors in her outstretched hands. Her thyroid function tests show: TSH: < 0.01 mIU/L (normal range: 0.4-4.0 mIU/L) Free T4: 35 pmol/L (normal range: 10-20 pmol/L) Free T3: 12 pmol/L (normal range: 3.5-6.5 pmol/L) Which of the following is the most likely cause of her hyperthyroidism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toxic multinodular goiter",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Graves' disease",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "TSH-secreting pituitary adenoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Iodine-induced thyrotoxicosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Graves' disease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:710px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Key Features for identification</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Primary <span class=\"customMeta\" data-dictid=\"df46bcd43116927771892090901263\">Hyperthyroidism</span> (pathology within the <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> gland)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Graves' disease</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Diffuse goitre, ophthalmopathy, TSH <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> antibodies (LATS- long-acting <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> stimulating antibodies)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Toxic <span class=\"customMeta\" data-dictid=\"b3ba921efb169277719315f4ec3226\">multinodular</span> goiter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Multiple autonomous nodules, older patients</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Toxic adenoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Single autonomous nodule</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Subacute <span class=\"customMeta\" data-dictid=\"df0e1364a11692777200ed67550c12\">thyroiditis</span> (de Quervain thyroiditis)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Painful thyroid, recent <span class=\"customMeta\" data-dictid=\"5cc2d9fac616927772021889ee6d52\">viral</span> illness, transient</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Silent <span class=\"customMeta\" data-dictid=\"df0e1364a11692777200ed67550c12\">thyroiditis</span> (Painless lymphocytic thyroiditis)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Painless, often postpartum, transient</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Iodine-induced thyrotoxicosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>History of <span class=\"customMeta\" data-dictid=\"58c4fcb71116927771901e83ac026f\">iodine</span> exposure (e.g., contrast, amiodarone)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Drug-induced </strong>(e.g., amiodarone)</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>History of relevant medication use</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Secondary Hyperthyroidism</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>TSH-secreting <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> adenoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Inappropriate TSH secretion, other <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> hormones may be affected</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>hCG-mediated hyperthyroidism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Pregnancy, gestational trophoblastic disease</p>\n<p>(Alpha subunit of hCG is similar in structure to TSH)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Thyroid hormone resistance </strong>(rare)</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Genetic disorder, <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> sensitivity of the body to <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormone.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Ectopic Hyperthyroidism</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Struma ovarii</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Ovarian <span class=\"customMeta\" data-dictid=\"ee123cf86916927772004fc7b0a157\">teratoma</span> with functional <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> tissue</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5a22ce4a"
+    },
+    {
+      "text": "A 50-year-old man presents with complaints of irritability, difficulty sleeping, and unexplained weight loss of 10 kg over the past 3 months despite an increased appetite. His wife mentions that his eyes seem more prominent lately. Which of the following findings would be least likely in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Warm, moist palms",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Proximal muscle weakness",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Delayed relaxation of deep tendon reflexes",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Frequent bowel movements",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Delayed relaxation of deep tendon reflexes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Signs and Symptoms</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>General</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weight loss despite increased appetite, Heat intolerance,\u00a0Increased sweating.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cardiovascular</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tachycardia, Widened pulse pressure, and Atrial fibrillation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurological</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fine tremor, Hyperreflexia, Anxiety, irritability, and Insomnia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gastrointestinal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> movements, Diarrhoea and Malabsorption.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dermatological</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Warm, moist skin, Fine, thin hair, Onycholysis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ocular (Graves' specific)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Exophthalmos, Lid lag, Lid retraction, and Periorbital oedema.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Musculoskeletal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proximal muscle weakness, Osteoporosis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reproductive</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Oligomenorrhea,\u00a0Gynecomastia (in men)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thyroid Storm</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High fever, Severe tachycardia/arrhythmias, Delirium/coma,\u00a0Multi-organ failure</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "623e2690"
+    },
+    {
+      "text": "On the Thyroid function test, TSH is suppressed, Free T4 level is normal, and Free T3 is increased. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subclinical hyperthyroidism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Euthyroid sick syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Primary Hyperthyroidism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "T3 thyrotoxicosis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. T3 thyrotoxicosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TSH</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Free T4</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Free T3</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary hypothyroidism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary hyperthyroidism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 (<0.1 mIU/L)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subclinical hypothyroidism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subclinical hyperthyroidism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Secondary hypothyroidism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 or approximately normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T3 thyrotoxicosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Euthyroid sick syndrome</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Normal</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Normal</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u2193</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e908305e"
+    },
+    {
+      "text": "A thyroid scan is performed for a 35-year-old female patient with a thyroid disorder. The Result is shown below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toxic multinodular goiter",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Graves' disease",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Thyroiditis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thyroid adenoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Graves' disease",
+      "question_images": [
+        "https://image.prepladder.com/notes/Tz2z1JODBNhavg2hredK1747898903.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/bKxDoi5t9luwHSfcUzqr1747899054.png",
+        "https://image.prepladder.com/notes/3jjHzgd9WtVqS2qJqsFO1747899055.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2be2e56c"
+    },
+    {
+      "text": "A 32-year-old woman presents with palpitations, weight loss, and heat intolerance for the past 3 months. On examination, she has a diffuse goitre and mild proptosis. Thyroid function tests show suppressed TSH and elevated free T4 and T3. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radioiodine ablation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Total thyroidectomy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Start propranolol and carbimazole",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "MRI Brain",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Start propranolol and carbimazole",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "719c69d9"
+    },
+    {
+      "text": "A newborn presents with prolonged jaundice, feeding problems, and hypotonia. The mother has a history of Hashimoto's thyroiditis. Neonatal screening reveals elevated TSH and low T4 levels. Which of the following is the most likely cause of the infant's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyroid gland dysgenesis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inborn error of thyroid hormone synthesis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Transplacental passage of TSH receptor-blocking antibodies",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Iodine deficiency",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Transplacental passage of TSH receptor-blocking antibodies",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f9f9eddd"
+    },
+    {
+      "text": "A 50-year-old woman presents with fatigue, weight gain, and changes in her skin appearance over the past year. On examination, her skin is noted to be dry with a yellowish tinge. There is puffiness around her eyes and non-pitting edema in hands and feet. Which of the following is the most likely explanation for her skin findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased dermal collagen deposition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of dermal glycosaminoglycans",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hyperpigmentation due to adrenal insufficiency",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cutaneous manifestations of liver disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Accumulation of dermal glycosaminoglycans",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a134b5b2"
+    },
+    {
+      "text": "A 35-year-old woman weighing 65 Kgs comes with complaints of lethargy and weight gain. Lab investigations are carried out, which show elevated TSH level and Decresed T3 & T4 levels. She has no known cardiovascular disease. Which of the following is the most appropriate next step regarding this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start levothyroxine 25 \u03bcg daily",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start levothyroxine 100 \u03bcg daily",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Start liothyronine (T3) 5 \u03bcg three times daily",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Observe and repeat thyroid function tests in 3 months",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Start levothyroxine 100 \u03bcg daily",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:654px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Hypothyroidism- Treatment</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Primary Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Levothyroxine (T4) replacement</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Initial Dosing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Young, otherwise healthy adults: 1.6 \u03bcg/kg/day (typically 100-150 \u03bcg daily) <strong>(Option B)</strong></p>\n<p>- Elderly or those with <span class=\"customMeta\" data-dictid=\"e2b5f013011692777183ea1b11ed9c\">cardiovascular</span> disease: Start with 25-50 \u03bcg daily and <span class=\"customMeta\" data-dictid=\"6ed68ca4781692777200701c57e5a3\">titrate</span> up slowly <strong>(Option A ruled out)</strong></p>\n<p>- Pregnancy: May require <strong>30-50% dose increase</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Dose Adjustments</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Based on TSH levels</p>\n<p>- Adjust in 12.5-25 \u03bcg increments</p>\n<p>- Allow 6-8 weeks between dose changes for TSH to stabilize</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Monitoring</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Check TSH 6-8 weeks after starting treatment or changing dose</p>\n<p>- Once stable, check TSH annually</p>\n<p>- Target TSH: 0.4-4.0 mIU/L for most adults, < 2.5\u00a0mIU/L in 1st trimester.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Alternative Treatments</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- T3 (liothyronine) alone: Not recommended due to short half-life</p>\n<p>- Combination T4/T3 therapy: Controversial, not routinely recommended</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d2a6c841"
+    },
+    {
+      "text": "A 78-year-old woman was brought to the emergency department by her family due to progressive lethargy over the past week. On examination, she is unresponsive with a core temperature of 32\u00b0C, BP of 80/50 mmHg, and HR of 40 bpm. Her skin is dry and cool, and she has periorbital edema. Initial lab results show: Sodium: 128 mEq/L (normal 135-145) TSH: 75 mIU/L (normal 0.4-4.0) Free T4: 3 pmol/L (normal 10-20) Which of the following is the most appropriate initial management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral levothyroxine 100 \u03bcg daily",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intravenous liothyronine 10 \u03bcg, followed by 10 \u03bcg every 8 hours",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Oral levothyroxine 50 \u03bcg daily and oral liothyronine 5 \u03bcg twice daily",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Supportive care only and repeat thyroid function tests in 24 hours",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Intravenous liothyronine 10 \u03bcg, followed by 10 \u03bcg every 8 hours",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:615px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Myxedema coma</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Precipitating Factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Infection</p>\n<p>- Cold exposure</p>\n<p>- Trauma</p>\n<p>- Medications (sedatives, anaesthetics)</p>\n<p>- Discontinuation of <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> hormone</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Clinical presentation</p>\n<p>- Elevated TSH, low Free T4</p>\n<p>- Associated lab abnormalities (hyponatremia, hypoglycemia, hypercapnia)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Initial Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>1. Intravenous T3 (liothyronine): 10-20 \u03bcg bolus, then 10 \u03bcg q8h</p>\n<p>2. Intravenous levothyroxine: 300-500 \u03bcg <span class=\"customMeta\" data-dictid=\"00a5dcc74b16927771913b344e36a3\">loading</span> dose</p>\n<p>3. Hydrocortisone: 100 mg q8h (for potential <span class=\"customMeta\" data-dictid=\"f955f012f716927771801d01e7d163\">adrenal</span> insufficiency)</p>\n<p>4. Supportive care: Mechanical <span class=\"customMeta\" data-dictid=\"a58f1f33f81692777201ad5e0d60ca\">ventilation</span> if needed, cautious rewarming, <span class=\"customMeta\" data-dictid=\"bc3c2594d31692777203b12c564dae\">fluid resuscitation</span> with Hypertonic saline</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "274d00b5"
+    },
+    {
+      "text": "A 68-year-old man is admitted to the ICU with severe sepsis secondary to pneumonia. On day 3 of his admission, routine blood tests reveal the following thyroid function results: TSH: 0.6 mIU/L (normal range: 0.4-4.0 mIU/L) Free T4: 12 pmol/L (normal range: 10-20 pmol/L) Free T3: 2.1 pmol/L (normal range: 3.5-6.5 pmol/L) The patient has no history of thyroid disease. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start levothyroxine replacement therapy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start liothyronine (T3) replacement therapy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Start propylthiouracil to treat subclinical hyperthyroidism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No specific thyroid treatment; continue to manage underlying sepsis with TFT monitoring.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. No specific thyroid treatment; continue to manage underlying sepsis with TFT monitoring.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:621px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Sick <span class=\"customMeta\" data-dictid=\"a0cba39e531692777187f51570565d\">Euthyroid</span> Syndrome</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Abnormal <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> function tests in critically ill patients <strong>without underlying <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> disease</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Common Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Severe illness (e.g., sepsis, myocardial infarction)</p>\n<p>- Major surgery</p>\n<p>- Trauma</p>\n<p>- Starvation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Typical Laboratory Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Low free T3 (most common)</p>\n<p>- Normal free\u00a0T4</p>\n<p>- Normal TSH</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Pathophysiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Decreased <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> conversion of T4 to T3</p>\n<p>- Increased reverse T3 (rT3)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1d7d449a"
+    },
+    {
+      "text": "Which of the following is the drug of choice for the management of Grave\u2019s disease in the pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methimazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Propylthiouracil",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Radioactive iodine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Levothyroxine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Propylthiouracil",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9ebebd65"
+    },
+    {
+      "text": "A pregnant female who is a known case of hypothyroidism is on levothyroxine. What are the levothyroxine dose changes recommended during pregnancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease the dose of levothyroxine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increase the dose of levothyroxine",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Maintain the same dose of levothyroxine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Discontinue levothyroxine during pregnancy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Increase the dose of levothyroxine",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/p0aDhDoFztcBWtHJ0qrR1744287287.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:620px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Maternal complications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neonatal complications</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Abortion</li>\n<li>Preterm labor</li>\n<li>Pre-eclampsia</li>\n<li>Abruption</li>\n<li>PPH</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increased <span class=\"customMeta\" data-dictid=\"9b7604d5461692777192546af7cabd\">morbidity</span> and mortality</li>\n<li>Cretinism</li>\n<li>Neuropsychiatric illness</li>\n<li>Deafness and growth restriction</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "749db3f0"
+    }
+  ]
+}

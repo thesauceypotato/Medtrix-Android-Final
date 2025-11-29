@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "id": "test4",
+    "title": "Classification_Cohort_Study",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Study designs are used for which of the following purposes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Formulating a hypothesis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Testing a hypothesis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Confirming a hypothesis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:666px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Formulation of a hypothesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">A hypothesis is formulated when no knowledge about a new disease exists. Descriptive epidemiology, which focuses on time, place, and person, helps in these cases. For instance, early in the <span class=\"customMeta\" data-dictid=\"2d364aeaf7169277718529fa58f6ea\">COVID-19</span> outbreak, it was hypothesised as a type of pneumonia.</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Testing a hypothesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Testing addresses how and why a disease occurs and is a key aspect of Analytical epidemiology. Eg; comparing individuals with <span class=\"customMeta\" data-dictid=\"2d364aeaf7169277718529fa58f6ea\">COVID-19</span> to those without it to understand the disease better.</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Confirmation of a hypothesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">The disease is confirmed through Experimental or Interventional epidemiology. Eg; once <span class=\"customMeta\" data-dictid=\"2d364aeaf7169277718529fa58f6ea\">COVID-19</span> was confirmed, vaccines and treatments were developed</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/czuke9Dp61DoBYiUWDL81726234148.mp3",
+      "video": "",
+      "uid": "0c30d687"
+    },
+    {
+      "text": "Which of the following statements is FALSE regarding descriptive epidemiology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a study of the distribution of disease w.r.t. time, place, and person",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It tests a hypothesis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It is the first phase of epidemiological investigation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Descriptive epidemiology does not involve a comparison group",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It tests a hypothesis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/oP4s1NlSYoDmg3rIwbsU1726235020.mp3",
+      "video": "",
+      "uid": "f9b5be67"
+    },
+    {
+      "text": "A public health researcher is investigating the association between air pollution and asthma in children. The researcher collects data from a population over several years, documenting the levels of air pollution and the incidence of new asthma cases. Which of the following best describes the study design?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interventional study",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Analytical Study - Cohort",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Descriptive Study",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Analytical Study - Case Control",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Analytical Study - Cohort",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>OBSERVATIONAL STUDIES</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>EXPERIMENTAL/INTERVENTIONAL STUDIES</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Descriptive</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Analytical</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Case reports</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ecological studies</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Randomised controlled trials</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Case series</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Case-control studies</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Field trials</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cohort studies</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Community trials</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cross-sectional studies</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/T23w1IkAwWVSUcm7vDwN1726235209.mp3",
+      "video": "",
+      "uid": "0fa3aebb"
+    },
+    {
+      "text": "A community health department has noted rising cirrhosis cases. To investigate if alcohol consumption is a risk factor, what study design should health workers use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cross-Sectional Study",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Case-Control Study",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cohort Study",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Randomised Controlled Trial",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cohort Study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Z5cmRXgITgv3nYipUMQ71726478947.mp3",
+      "video": "",
+      "uid": "97860204"
+    }
+  ]
+}

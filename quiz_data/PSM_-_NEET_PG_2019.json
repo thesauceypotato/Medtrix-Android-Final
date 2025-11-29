@@ -1,0 +1,836 @@
+{
+  "meta": {
+    "id": "test16",
+    "title": "PSM - NEET PG 2019",
+    "category": "NEET PG PYQ"
+  },
+  "questions": [
+    {
+      "text": "In a normal curve what is the area that comes under either side of 1 SD of the mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "68%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "34%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "100%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 34%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>34%</p>\n<p><strong>Highyeild:</strong></p><p>SD includes approx. 68% of values on both sides of mean. So on either side of the mean will include 68/2=34% of values. SD includes approx. 95% of total values. SD includes approx. 99.7% of total values.</p>\n<p><strong>Table:</strong></p><p>#MANTRA</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "07aebedf",
+      "audio": ""
+    },
+    {
+      "text": "Probability of a person with positive test result having the disease is given by?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negative predictive value",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Positive predictive value",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Specificity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Positive predictive value",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Positive predictive value</p>\n<p><strong>Highyeild:</strong></p><p>Positive predictive value : Ability of a test to correctly diagnose the proportion of cases in persons with a positive screening test result. Negative predictive value : Proportion of cases in which people with negative test result do not have the disease in question. Sensitivity : Defined as the ability of the test to identify correctly all those who have the disease, i.e. true positive. Specificity : Defined as the ability of the test to identify correctly those who do not have the disease, i.e. true negative.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bd5cbd43",
+      "audio": ""
+    },
+    {
+      "text": "Cross product ratio is determined by which study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Case control",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cohort",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cross sectional",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "RCT",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Case control",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Case control</p>\n<p><strong>Highyeild:</strong></p><p>Risk in, case control study is calculated by odds ratio (cross product ratio). Risk in, a cohort study is determined by relative risk, attributable risk and population attributable risk.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5ebeeb18",
+      "audio": ""
+    },
+    {
+      "text": "A 2-year-old boy of weight 12 kg with vitamin A deficiency, what is the oral dose of vitamin A?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50, 000 I.U",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 lakh I.U.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1.5 lakh I.U",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2 lakh I.U",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 2 lakh I.U",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2 lakh I.U</p>\n<p><strong>Highyeild:</strong></p><p>Treatment: Oral therapy - The oral regimen of vitamin A is 200,000 IU on day of presentation, next day, and 2-4 weeks later. Children less than 1 year of age or less than 8 kg should receive half the dose of the above dose. Parenteral therapy : If the patient has severe disease, and is unable to take oral feeds, or has malabsorption, the preferable dose is 100,000 IU of vitamin A given intramuscularly. Children with severe measles should also receive vitamin A as they are very likely to be benefited from such therapy both in terms of saving sight and reducing case fatality. Prevention: Prophylaxis consists of periodic administration of Vitamin A supplements.</p>\n<p><strong>Extraedge:</strong></p><p>WHO recommended schedule, which is universally recommended is as follows: Age Dose (IU) Timing Newborn 50,000 At birth Child < 12 months of age 1,00,000 Once every 4-6 months Child > 12 months of age 2,00,000 Once every 4-6 months Pregnancy and lactation 5000 Everyday 20,000 Once Every week</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c44f61aa",
+      "audio": ""
+    },
+    {
+      "text": "Confounding factor is defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Factor associated with both the exposure and the disease and is distributed unequally in study and control groups.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Factor associated with exposure only and is distributed unequally in study and control groups.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Factor associated with both the exposure and the disease and is distributed equally in study and control groups",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Factor associated with the disease and is distributed equally in study and control groups.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Factor associated with both the exposure and the disease and is distributed unequally in study and control groups.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Factor associated with both the exposure and the disease and is distributed unequally in study and control groups.</p>\n<p><strong>Highyeild:</strong></p><p>Confounding factor : Factor associated with both exposure and outcome, distributed unequally between study and control group and has an independent effect in causation of outcome (hence it itself acts as a risk factor). Various methods are used to control the effect of confounding factor: Randomization (best) Restriction Matching Stratification Statistical modeling</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2133c36e",
+      "audio": ""
+    },
+    {
+      "text": "Concurrent list of Indian Constitution includes which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "International immigration rule for quarantine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prevention of extension of communicable disease from one unit to another",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mines and oil field worker's rules",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Establishment and maintenance of drug standards",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Prevention of extension of communicable disease from one unit to another",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Prevention of extension of communicable disease from one unit to another</p>\n<p><strong>Highyeild:</strong></p><p>The functions of the Union Health Ministry are set out in the seventh schedule of Article 246 of the constitution of India under three lists: Union List Concurrent List State list The concurrent list includes: Prevention of extension of communicable disease from one unit to another Prevention of adulteration of foodstuffs Control of drugs and poisons Vital statistics Labour welfare Ports other tha major Economic and social planning Population control and family planning</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "20b73db8",
+      "audio": ""
+    },
+    {
+      "text": "Green colour of triage is for which patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low priority",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Morbidity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ambulatory",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "High priority",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ambulatory",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ambulatory</p>\n<p><strong>Highyeild:</strong></p><p>Triage: When the quantity and severity of injuries overwhelm the operative capacity of health facilities, a different approach to medical treatment must be adopted. The usual principle of first come, first treated\u201d, is not followed in mass emergencies. Triage consists of rapidly classifying the injured and the likelihood of their survival with prompt medical intervention. Higher priority is granted to victims whose immediate or long-term prognosis can be dramatically affected by simple intensive care. Moribund patients who require a great deal of attention, with questionable benefit have the lowest priority.</p>\n<p><strong>Extraedge:</strong></p><p>The most common triage classification system used international is four colour code system. Red High Priority Yellow High Priority treatment or transfer Green Ambulatory patients Black Dead or Moribund Patients</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "61dc7085",
+      "audio": ""
+    },
+    {
+      "text": "According to IMNCI, in a baby of 6-month old age criteria for fast breathing is more than _____/min:",
+      "options": [
+        {
+          "label": "A",
+          "text": "60",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "50",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "40",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "30",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 50",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>50 As the children get older, their breathing rate slows down. Therefore, the cut-off point has fast breathing will depend on the age of the child.</p>\n<p><strong>Highyeild:</strong></p><p>Fast breathing is present when the respiratory rate is: Child less than 2 months of age: >60 breaths per minute. Child aged 2 months up to 12 months: > 50 breaths per minute. Child aged 12 months up to 5 years: > 40 breaths per minute.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d707e139",
+      "audio": ""
+    },
+    {
+      "text": "Best representative of incidence change of disease over a period of time:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Line diagram",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Scattered diagram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bar diagram",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Line diagram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Line diagram</p>\n<p><strong>Highyeild:</strong></p><p>Line diagrams are used to show the trend of events with passage of time. It also shows how the frequency of a particular event or variable vary over time. Scatter diagram - used to show the status of correlation between two quantitative variables. Bar Diagram - It uses visual tool (bars) to compare categories of data. Used to depict qualitative data.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "69498e51",
+      "audio": ""
+    },
+    {
+      "text": "For trench type of sanitary filling the amount of land required for 2-meter-deep trench for 10000 populations per year is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 acre",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2 acre",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3 acre",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4 acre",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1 acre",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1 acre</p>\n<p><strong>Highyeild:</strong></p><p>General WHO Guidelines for Shallow Trenches is 2-3 metre depth by 4-12 metre width for 100 people. Now 1 Acre = 4046 Sq meter [200 m X 200 m]</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0a8e645d",
+      "audio": ""
+    },
+    {
+      "text": "Which is not an epidemiological indicator for malaria surveillance in a population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Annual parasite index",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Annual parasite incidence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Annual falciparum incidence",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Annual blood examination rate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Annual parasite index",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Annual parasite index</p>\n<p><strong>Highyeild:</strong></p><p>Annual Parasite Incidence : Best indicator of malaria control. Sophisticated measure of malaria incidence in a community. API = Confirmed cases during one-year x 100 Population under surveillance Annual Blood Examination Rate (ABER) is an indicator of operational efficiency of Malaria Control Programme. ABER = Number of Slides Examined x 100 Population</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d9e08bc",
+      "audio": ""
+    },
+    {
+      "text": "Health center in remotest area for planning and management of family planning schemes is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anganwadi",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Block centre",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sub-centre",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "PHC",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sub-centre",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sub-centre</p>\n<p><strong>Highyeild:</strong></p><p>The Sub-Centre is the most peripheral and first contact point between the primary health care system and the community. Sub-centres provide services in relation to maternal and child health, family welfare, nutrition, immunization, diarrhea control and communicable diseases programmes. The Sub-Centres are provided with basic drugs for minor ailments needed for taking care of essential health needs of men, women and children.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7f24e7c4",
+      "audio": ""
+    },
+    {
+      "text": "Dose of diphtheria antitoxin is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1000 to 5000 IU",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "10000 to 100000 IU",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1000 to 2000 IU",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2000 to 5000 IU",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 10000 to 100000 IU",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>10000 to 100000 IU</p>\n<p><strong>Highyeild:</strong></p><p>Dose of diphtheria antitoxin depends on the site of infection and duration for which patient is symptomatic.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p><strong>Extraedge:</strong></p><p>Type of diphtheria Dose range Pharyngeal or laryngeal disease of \u2264 2 days duration 20,000-40,000 units Nasopharyngeal disease 40,000 \u2013 60,000 units Extensive disease of \u2265 3 days duration or diffuse neck swelling 80,000 \u2013 1,00,000 units Cutaneous disease 20,000 \u2013 40,000 units</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e4c3abb1",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following diseases has bird, arthropod, human chain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plague",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Japanese Encephalitis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium falciparum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paragonimus westermani",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Japanese Encephalitis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Japanese Encephalitis</p>\n<p><strong>Highyeild:</strong></p><p>Two different transmission cycles operate in japanese encephalitis: Pig \u2013 mosquito \u2013 pig Ardeid Bird \u2013 Mosquito \u2013 Ardeid bird Pig: Acts as amplifier host. Human: Incidental dead end host.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c0b582d9",
+      "audio": ""
+    },
+    {
+      "text": "Vaccine contraindicated during pregnancy is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatitis B",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis A",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rabies",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Varicella",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Varicella",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Varicella</p>\n<p><strong>Highyeild:</strong></p><p>All live attenuated vaccines are contraindicated in pregnancy except yellow fever vaccine (in high endemic areas). Hepatitis A \u2013 Killed vccine Heptitis B \u2013 Recombinant vaccine Rabies \u2013 Killed vaccine Varicella (chicken pox) \u2013 Live attenuated vaccine</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4557087d",
+      "audio": ""
+    },
+    {
+      "text": "Not a personal protective equipment:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Goggles",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Face shield",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gloves",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lab coat",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Lab coat",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Lab coat</p>\n<p><strong>Highyeild:</strong></p><p>Types of personal protective equipments: Respiratory Protection Eye protection - Spectacles/goggles Hearing protection - Ear muff and plugs Hand protection - Gloves, Creams, Coats.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3f6237a6",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements about clinical trial is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Post marketing surveillance is done in Phase 4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unit of study in phase 1 is patients",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Safety is evaluated in Phase 2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Randomized control trial in patients is done in phase 3",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Randomized control trial in patients is done in phase 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Randomized control trial in patients is done in phase 3</p>\n<p><strong>Highyeild:</strong></p><p>Clinical trials: Phase 0: Done in healthy human volunteers (small numbers) to establish micro-dosing. Phase 1 : Done in healthy human volunteers to establish safety and non-toxicity profile (maximum tolerated dose of drug). Phase 2 : Done in patients to establish effectiveness of a drug. Phase 3 : Done in patients to compare with an existing drug (RCT). Most important phase. Phase 4 : Done in patients to establish long term side effects (post marketing surveillance).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5e5316bf",
+      "audio": ""
+    },
+    {
+      "text": "Paired T test is defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Test used to assess quantitative observations before and after an intervention",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Test that is used when the observation are in the form of proportions (for qualitative data)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Test applied when separate observations are made on individuals of two separate groups, and these need to be compared",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Test used to assess quantitative observations before and after an intervention",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Test used to assess quantitative observations before and after an intervention</p>\n<p><strong>Highyeild:</strong></p><p>T test: Test used to compare means in a quantitative data following normal/ Gaussian distribution. 2 types: Paired t-test: Comparing means (+SD) in paired data (in same group of individuls before and after an intervention). Unpaired t-test : Comparing means (+SD) in two different groups of individuals.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "decb13fa",
+      "audio": ""
+    },
+    {
+      "text": "Paradoxical carriers are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A person who acquires the microorganism due to his contact with the patient.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A person who acquires the microorganism from another carrier.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A person who is clinically recovered from an infectious disease but still capable of transmitting the infectious agent to others.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. A person who acquires the microorganism from another carrier.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A person who acquires the microorganism from another carrier. Paradoxical carrier is defined as person who becomes carrier after getting infected from another carrier.</p>\n<p><strong>Highyeild:</strong></p><p>Type of Carriers: Incubatory Carriers (shed infectious agent during later part of IP of disease): Measles, mumps, polio, pertussis, influenza, diphtheria and hepatitis B. Convalescent Carriers (those continue to shed disease agent during period of convalescence): Typhoid fever, dysentery (bacillary and amoebic), cholera, diphtheria and whooping cough. Healthy Carriers (emerge from subclinical cases who have developed carrier state without suffering from overt disease): Poliomyelitis, cholera, meningococcal meningitis, Salmonellosis, and diphtheria.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2ead3e3c",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are examples of insoluble dietary fibre except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hemicellulose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lignin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cellulose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Gums",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Gums",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Gums</p>\n<p><strong>Highyeild:</strong></p><p>Dietary fibres : Non starch polysaccharides which is an active component of diet. Dietary fibre absorbs water in the intestine, swells, increases bulk of stool by increasing water content of faeces and softens it, decreases transit time by facilitating colonic transit. Dietary fibre is of two types: Soluble fibers : It absorbs water up to 15 times its weight as it moves through GIT, producing softer stools. Its good sources are oat, flaxseeds, peas, beans, apple, citrus fruits, carrots, barley and psyllium. Insoluble fibers : It promotes movement of material through digestive system and increases stool bulk. Its good sources are wheat flour, wheat bran, nuts and vegetables.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are examples of insoluble dietary fibre.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e9782e81",
+      "audio": ""
+    },
+    {
+      "text": "Risk of genetic diseases in consanguineous marriage between first cousins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-2%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4-8%",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "8-10%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "12-14%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 4-8%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>4-8%</p>\n<p><strong>Highyeild:</strong></p><p>Consanguinity is a marriage between relatives and has various degrees. Closely related individuals have a higher chance of carrying the same alleles than those less closely related and therefore children from consanguineous marriages are more frequently homozygous for various alleles than those from non-consanguineous unions. Generally speaking, frequency of congenital malformations among new-borns of first cousin unions is about 2 times the frequency among the general population. In other words, instead of a rate of 2-3% of birth defects in the general population, the risk to first cousin couples is around 4-6%.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ce172299",
+      "audio": ""
+    },
+    {
+      "text": "Vertical transmission of HIV is highest with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elective caesarean section",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High viral RNA load",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Breast feeding",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Term delivery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High viral RNA load",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>High viral RNA load</p>\n<p><strong>Highyeild:</strong></p><p>Vaginal and emergency caesarean section deliveries, prematurity, and low CD4 cell count were most strongly associated with infant\u2019s infection status in univariate analyses. Infants delivered before 37 weeks were more than twice as likely to be infected than infants who were not premature. Elective caesarean section before onset of labor and rupture of membranes approximately halves the risk of mother-to-child transmission.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p><strong>Extraedge:</strong></p><p>Transmission rate: During pregnancy: 5\u201310% During labor and delivery: 10\u201315% During breastfeeding: 5\u201320%</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9f2ccf3b",
+      "audio": ""
+    },
+    {
+      "text": "Which method is used to study the following timeline?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cohort Study",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cross sectional study",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Randomized Control Trials",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Interventional Studies",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cohort Study",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1694675212725-QTDCPYQ144IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cohort Study</p>\n<p><strong>Highyeild:</strong></p><p>The image represents natural history of disease that refers to the progression of a disease process in an individual over time, in the absence of treatment. Longitudinal studies are used to study natural history of disease.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ffb2849b",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is the best level of prevention for breast cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Specific protection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Early diagnosis and treatment",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Disability limitation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rehabilitation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Early diagnosis and treatment",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Early diagnosis and treatment Screening is the best modality for prevention of breast cancer (secondary level of prevention). Screening is done for early diagnosis of breast cancer by various modalities (Mammography, thermography, USG, breast self examination, MRI).</p>\n<p><strong>Highyeild:</strong></p><p>Primary prevention Primary prevention aims to prevent disease or injury before it ever occurs. This is done by preventing exposures to hazards that cause disease or injury, altering unhealthy or unsafe behaviours that can lead to disease or injury, and increasing resistance to disease or injury should exposure occur. Examples include: legislation and enforcement to ban or control the use of hazardous products (e.g. asbestos) or to mandate safe and healthy practices (e.g. use of seatbelts and bike helmets) education about healthy and safe habits (e.g. eating well, exercising regularly, not smoking) immunization against infectious diseases. Secondary prevention Secondary prevention aims to reduce the impact of a disease or injury that has already occurred. This is done by detecting and treating disease or injury as soon as possible to halt or slow its progress, encouraging personal strategies to prevent reinjury or recurrence, and implementing programs to return people to their original health and function to prevent long-term problems. Examples include: regular exams and screening tests to detect disease in its earliest stages (e.g. mammograms to detect breast cancer )daily, low-dose aspirins and/or diet and exercise programs to prevent further heart attacks or strokes suitably modified work so injured or ill workers can return safely to their jobs. Tertiary prevention Tertiary prevention aims to soften the impact of an ongoing illness or injury that has lasting effects. This is done by helping people manage long-term, often-complex health problems and injuries (e.g. chronic diseases, permanent impairments) in order to improve as much as possible their ability to function, their quality of life and their life expectancy. Examples include: cardiac or stroke rehabilitation programs, chronic disease management programs (e.g. for diabetes, arthritis, depression, etc.) support groups that allow members to share strategies for living well vocational rehabilitation programs to retrain workers for new jobs when they have recovered as much as possible.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e8635da4",
+      "audio": ""
+    },
+    {
+      "text": "Based on WHO criteria, severe acute malnutrition is defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weight for age < 2 standard deviation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Weight for age < 3 standard deviation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Weight for age < 1 standard deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Weight for height < 1 standard deviation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Weight for age < 3 standard deviation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Weight for age < 3 standard deviation</p>\n<p><strong>Highyeild:</strong></p><p>Growth chart used in India shows normal zone of weight forage, undernutrition (below 2 SD) and severely malnutrition zone (below 3 SD). ICDS growth chart based on WHO growth charts. Uses of growth chart: Growth monitoring tool Diagnostic tool for identifying high risk children Planning and policy making Educational tool Tool for action Evaluation of corrective measures and impact of a programme Tool for teaching</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eaceea5c",
+      "audio": ""
+    }
+  ]
+}

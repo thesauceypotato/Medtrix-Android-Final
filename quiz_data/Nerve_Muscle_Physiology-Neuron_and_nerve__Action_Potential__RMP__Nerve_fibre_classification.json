@@ -1,0 +1,927 @@
+{
+  "meta": {
+    "id": "test30",
+    "title": "Nerve_Muscle_Physiology-Neuron_and_nerve__Action_Potential__RMP__Nerve_fibre_classification",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following best describes the difference between temporal summation and spatial summation in neurons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is no difference between Temporal summation and Spatial summation.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Temporal summation requires signals to occur close in time, spatial summation requires simultaneous signals at different synapses.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Temporal summation is not limited by the refractory period, spatial summation is.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Temporal summation combines signals from different synapses, spatial summation combines signals from the same synapse.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Temporal summation requires signals to occur close in time, spatial summation requires simultaneous signals at different synapses.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/RBWwPWm6ZqTt4d1LaN2Z1736088141.png",
+        "https://image.prepladder.com/content/YtW2dS0yXbZLflbqW3ki1736088149.png",
+        "https://image.prepladder.com/content/RQDDxDLmKWJIxcANebzt1736088216.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:649px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Temporal Summation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Spatial Summation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong><br/>\n<strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Multiple subthreshold <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> signals at the same <span class=\"customMeta\" data-dictid=\"12a0ce16121692777199554dcff349\">synapse</span> occurring close in time.</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"1389\" src=\"https://image.prepladder.com/content/RBWwPWm6ZqTt4d1LaN2Z1736088141.png\" width=\"1561\"/></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Excitatory signals arriving at different synapses simultaneously or within a short timeframe.</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"873\" src=\"https://image.prepladder.com/content/YtW2dS0yXbZLflbqW3ki1736088149.png\" width=\"1199\"/></p>\n<p>\u00a0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Threshold for Excitation</strong><br/>\n<strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Summation of signals to reach the <span class=\"customMeta\" data-dictid=\"bc0588e63616927772009f1091e177\">threshold potential</span> for triggering an action potential.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Combined effect of <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> signals at multiple synapses to reach the threshold.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Signal Source</strong><br/>\n<strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Same synapse</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Different synapses</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Current Flow</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Local depolarizing current spreads from the same synapse.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Local depolarizing currents from different synapses overlap.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Role in Action Potentials</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can trigger an <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> if signals are close enough in time to summate and reach threshold.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can trigger an <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> if multiple signals from different locations summate to reach threshold.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Impact of <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">Refractory</span> Period</strong><br/>\n<strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Limited by the <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> period; if signals are too far apart, they won't summate.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not directly limited by the <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> period; depends on <span class=\"customMeta\" data-dictid=\"6495ef882b169277719896942b51c3\">spatial</span> proximity of signals.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neurons receiving frequent, rapid signals at a single synapse.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neurons receiving simultaneous input from multiple <span class=\"customMeta\" data-dictid=\"e91c7a22e71692777196ef9e02b8c0\">presynaptic</span> neurons.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ujeNt6WX1r2eZBjR7ZqW1742375488.mp3",
+      "video": "",
+      "uid": "20270077"
+    },
+    {
+      "text": "Feedback control in voltage-gated ion channels in the membrane of neuron during action potential has been shown here. The phenomenon shown at point A is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive feedback",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative feedback",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Feedforward",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Voltage dependent opening",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Negative feedback",
+      "question_images": [
+        "https://image.prepladder.com/content/R5uHi1xoZJ1dnSlhHu121736089364.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/i5HjfIqQiOVUdEeke04l1736089404.png",
+        "https://image.prepladder.com/content/V9UX8Zw8MSI9PY0bE8NL1736089417.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/JXKZNwfbJD1JneQUazkO1742835479.mp3",
+      "video": "",
+      "uid": "77e2bc58"
+    },
+    {
+      "text": "Neurologists decide to assess the excitability of different tissues by plotting the strength-duration relationship parameters on a graph. Which of the following tissues show the highest excitability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nerve",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Muscle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Skin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Heart",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Nerve",
+      "question_images": [
+        "https://image.prepladder.com/content/9fbI0lCuthjwluf2TdVI1736089081.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/JMf0WvFcfPjPt5Q34IPU1736089105.png",
+        "https://image.prepladder.com/content/6M8vgLLMfstiqyZXyS0H1736089170.png",
+        "https://image.prepladder.com/content/m8b7Wdwhswbg0e50rEtB1736089223.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/W3xrevn4l3Ut0QAwcAQ91742835814.mp3",
+      "video": "",
+      "uid": "733ff6a3"
+    },
+    {
+      "text": "A 35-year-old woman presents to the neurology clinic with complaints of tingling and numbness in her hands and feet. On examination, the neurologist decides to conduct nerve conduction studies to assess the function of her peripheral nerves. The results show a compound action potential (CAP) with multiple peaks and a biphasic waveform. What does the presence of multiple peaks indicate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Summation of action potentials from a single nerve fiber",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Different conduction velocities of various nerve fibers",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Biphasic nature of the waveform",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Single directional deflection",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Different conduction velocities of various nerve fibers",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/zp5RddXYwnx5k8vVmyJ51736088899.png",
+        "https://image.prepladder.com/content/lXbFkMxQWdLPP7Qalgwb1736088911.png",
+        "https://image.prepladder.com/content/gweiNDwwbV2bnfRIxNC41736088924.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:750px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Action Potential - Monophasic/ Biphasic/ Compound</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Monophasic Action Potential:</strong></p>\n<p>Single directional deflection, recorded from a single fiber or small group.</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"1530\" src=\"https://image.prepladder.com/content/zp5RddXYwnx5k8vVmyJ51736088899.png\" width=\"2399\"/></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Recording: </strong>One <span class=\"customMeta\" data-dictid=\"91ff119f8e169277718738daf09e12\">electrode</span> inside the cell, the other outside.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics:</strong></p>\n<ul>\n<li>Single Peak: Indicates <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> of a single fiber or small group.</li>\n<li>Amplitude: Does not significantly increase with <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> strength</li>\n<li><strong>Follows All-or-nothing Principle. </strong>It states that once an <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> is initiated in a nerve fiber, it will travel the entire length of the fiber if the conditions are suitable, or it will not travel at all if the conditions are not right.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biphasic Action Potential:</strong></p>\n<p>Two-phase <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> with positive and negative deflections.</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"1299\" src=\"https://image.prepladder.com/content/lXbFkMxQWdLPP7Qalgwb1736088911.png\" width=\"1891\"/></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Recording:</strong> Two electrodes of opposite <span class=\"customMeta\" data-dictid=\"ff4e5164de169277719656324a44db\">polarity</span> detect the wave of depolarization.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics:</strong></p>\n<ul>\n<li>Waveform: Upward <span class=\"customMeta\" data-dictid=\"0d8576d139169277718594452670bd\">deflection</span> followed by a downward deflection.</li>\n<li>Relation to CAP: Component of CAP, reflecting the activity of multiple fibers.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Compound <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">Action Potential</span> (CAP):</strong></p>\n<p>Summation of action potentials from different nerve fibers (A\u03b1, A\u03b2, B, C) in a mixed nerve.</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"604\" src=\"https://image.prepladder.com/content/gweiNDwwbV2bnfRIxNC41736088924.png\" width=\"1550\"/></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Recording: </strong>Electrodes placed on the surface of the mixed nerve.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics:</strong></p>\n<ul>\n<li>Multiple Peaks: Correspond to different <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> velocities; A\u03b1 fibers first.</li>\n<li>Amplitude: Increases with stronger stimulation.</li>\n<li>Waveform: <strong>Biphasic</strong>, showing positive and negative deflections.</li>\n<li><strong>Does not follow the All-or-nothing Principle. </strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/pgZyT0GMuED8KLvJkW3C1742836075.mp3",
+      "video": "",
+      "uid": "1cdca195"
+    },
+    {
+      "text": "A 35-year-old man undergoes a minor surgical procedure on his hand under local anesthesia. Which of the following sensory modalities would be the FIRST to be lost?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proprioception",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Discriminative Touch",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Motor function",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pain sensation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pain sensation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:598px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Spike Duration (ms)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Susceptibility to Local Anesthesia</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Proprioception, <span class=\"customMeta\" data-dictid=\"3db910d8571692777198303e3bcb27\">somatic</span> motor <strong>(Option A and C)</strong></p>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.4\u20130.5</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>++</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Discriminative Touch, pressure</p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>++</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Motor to muscle spindles</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>++++</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pain (fast), temperature (cold)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>+++</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Preganglionic autonomic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>1.2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>++</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>C</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pain (slow), temperature (warm), <span class=\"customMeta\" data-dictid=\"28ec2061691692777196c06b1c0fd4\">Postganglionic</span> sympathetic.</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>2</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>+</p>\n</td>\n</tr>\n<tr>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Susceptibility to Local Anesthesia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pressure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypoxia</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b3 and A\u03b4 >> A\u03b1 and A\u03b2 >> B >> C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A\u03b1 > B > C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>B > A > C</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/eVvQmWSLu6t12DvTxrkf1742835147.mp3",
+      "video": "",
+      "uid": "03c966be"
+    },
+    {
+      "text": "Match the following nerve fibre type with its respective property. Fibre type Property 1. A\u03b1 a. Preganglionic autonomic 2. A\u03b2 b. Touch 3. A\u03b4 c. Temperature 4. B d. Proprioception",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-d, 2-b, 3-c, 4-a",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-b, 3-d, 4-c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-b, 2-a, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-c, 2-d, 3-b, 4-a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-d, 2-b, 3-c, 4-a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:780px\">\n<tbody>\n<tr>\n<td colspan=\"8\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:780px\">\n<tbody>\n<tr>\n<td colspan=\"8\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Classification of nerve fibres - Erlanger and Gasser and Lloyd-Hunt </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Erlanger-Gasser Classification</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Lloyd-Hunt Classification</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Myelination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Conduction <span class=\"customMeta\" data-dictid=\"12c4510e191692777201c23ec126a3\">Velocity</span> (m/s)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Diameter (\u00b5m)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Sensitivity to Blockade</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ia, Ib</p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Myelinated</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Proprioception,</strong> <span class=\"customMeta\" data-dictid=\"3db910d8571692777198303e3bcb27\">somatic</span> motor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>70-120</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>12-20</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pressure - Most susceptible</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>II</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Touch,</strong> pressure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>30-70</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>5-12</p>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pressure - Intermediate.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Motor to muscle spindles</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>15-30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>3-6</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>III</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pain (fast), <strong>temperature</strong> <strong>(cold)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>12-30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>2-5</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Preganglionic autonomic</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>3-15</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Hypoxia - Most susceptible</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C<br/>\n\t\t\t\t\t\t(Dorsal Root)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>IV</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Unmyelinated</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pain (slow), temperature (warm)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.5-2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.4-1.2</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Local anesthetics - Most susceptible</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C (Sympathetic)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Postganglionic sympathetic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.7-2.3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.3-1.3</p>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:780px\">\n<tbody>\n<tr>\n<td colspan=\"8\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Classification of nerve fibres - Erlanger and Gasser and Lloyd-Hunt </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Erlanger-Gasser Classification</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Lloyd-Hunt Classification</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Myelination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Conduction <span class=\"customMeta\" data-dictid=\"12c4510e191692777201c23ec126a3\">Velocity</span> (m/s)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Diameter (\u00b5m)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Sensitivity to Blockade</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ia, Ib</p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Myelinated</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Proprioception,</strong> <span class=\"customMeta\" data-dictid=\"3db910d8571692777198303e3bcb27\">somatic</span> motor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>70-120</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>12-20</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pressure - Most susceptible</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>II</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Touch,</strong> pressure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>30-70</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>5-12</p>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pressure - Intermediate.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Motor to muscle spindles</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>15-30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>3-6</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>A\u03b4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>III</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pain (fast), <strong>temperature</strong> <strong>(cold)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>12-30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>2-5</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>B</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Preganglionic autonomic</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>3-15</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Hypoxia - Most susceptible</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C<br/>\n\t\t\t\t\t\t(Dorsal Root)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>IV</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Unmyelinated</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pain (slow), temperature (warm)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.5-2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.4-1.2</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Local anesthetics - Most susceptible</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C (Sympathetic)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Postganglionic sympathetic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.7-2.3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>0.3-1.3</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jFGOXIfmgEcuTbIIcAU31742834801.mp3",
+      "video": "",
+      "uid": "48969e5c"
+    },
+    {
+      "text": "Which of the following would decrease the conduction velocity of an action potential along an axon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the diameter of the axon.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreasing the capacitance of the membrane.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increasing the axoplasmic resistance.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Increasing the myelination of the axon.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Increasing the axoplasmic resistance.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/vBotAXFuO7CAdUrQMKGo1736326353.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:682px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Conduction <span class=\"customMeta\" data-dictid=\"12c4510e191692777201c23ec126a3\">velocity</span> of the Action potential.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Factors Influencing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Myelination</strong>: Increases <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> velocity, enabling <span class=\"customMeta\" data-dictid=\"966b2850081692777198cf5b799bfc\">saltatory</span> conduction. <strong>(Option D)</strong></li>\n<li><strong>Axon Diameter</strong>: Larger <span class=\"customMeta\" data-dictid=\"afb15e4a331692777186e495b370a1\">diameter</span> axons exhibit faster <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> velocities. <strong>(Option A)</strong></li>\n<li><strong>Temperature</strong>: Higher temperatures increase <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> channel opening and closing speeds affecting <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> velocity.</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"245\" src=\"https://image.prepladder.com/content/vBotAXFuO7CAdUrQMKGo1736326353.png\" width=\"500\"/></p>\n<p>\u00a0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Classification of Nerve Fibers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Larger, <span class=\"customMeta\" data-dictid=\"dd79d3db911692777193c60304ef85\">myelinated</span> fibers (like A\u03b1 fibers) - Faster <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> velocity.</li>\n<li>Smaller, <span class=\"customMeta\" data-dictid=\"e2488001c816927772014412348125\">unmyelinated</span> fibers (like C fibers) - Slower <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> velocity.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Significance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u00a0</p>\n<ul>\n<li>A decrease in <span class=\"customMeta\" data-dictid=\"7d912d7ad016927771843c787c111a\">chronaxie</span> after nerve repair suggests increased <span class=\"customMeta\" data-dictid=\"3892cfe03616927771872f834cf855\">excitability</span> and potential regeneration.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stimulus Strength </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A stronger stimulus doesn't increase the speed of an <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> in a single nerve fiber, it might <span class=\"customMeta\" data-dictid=\"dddc752e1716927771807f985bb8bb\">activate</span> a greater number of fibers.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/6KKdYRpB4Lp7ta4uCUrQ1742452855.mp3",
+      "video": "",
+      "uid": "d604b59f"
+    },
+    {
+      "text": "Which of the following statements about the conduction of action potentials is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed of action potential conduction is inversely proportional to the degree of myelination of the axon.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Saltatory conduction occurs in both myelinated and unmyelinated axons.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The action potential jumps from one node of Ranvier to the next in myelinated axons.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The myelin sheath increases the flow of ions across the axonal membrane.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The action potential jumps from one node of Ranvier to the next in myelinated axons.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:617px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Conduction of action potential</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unmyelinated</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Myelinated</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Conduction Speed</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Slower (0.25 m/s)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Faster (up to 100 m/s)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Action potential flows continuously along the <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> membrane. <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Action potential \"jumps\" between nodes of Ranvier-saltatory conduction.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Myelin Sheath</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Absent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Present, decreases flow of ions, preventing <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> leakage across the membrane. <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Nodes of Ranvier</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Absent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Present, rapid <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> regeneration.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Energy Efficiency</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Less energy efficient.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>More energy efficient.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Fiber Diameter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Smaller</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Larger</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nR4SfzpbJY71M0x2CoEE1742452564.mp3",
+      "video": "",
+      "uid": "1ee199fb"
+    },
+    {
+      "text": "What impact does hyperkalemia have on a neuron's resting membrane potential (RMP)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It causes depolarization, making the neuron more excitable.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It causes hyperpolarization, making the neuron less excitable.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It has no effect on the RMP.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It increases the activity of the Na+/K+ -ATPase pump.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. It causes depolarization, making the neuron more excitable.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/KxdGltG4TZCJvyiTaJqA1736088525.png",
+        "https://image.prepladder.com/content/yNgI4AEiLH9c7G4oCOr71736088536.png",
+        "https://image.prepladder.com/content/cYKTxALfQW8OPOituS701736088544.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:774px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperkalemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypokalemia</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RMP</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Depolarized (Decreased RMP)</p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hyperpolarized (Increased RMP)</p>\n<p><strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Explanation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increased <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> reduces the <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> for <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> to exit the cell, causing depolarization.</li>\n<li>The resting <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential becomes less negative than the typical -70 mV.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>In hypokalemia, cells lose more <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> ions due to leaky channels.</li>\n<li>The loss of positive charge increases the negative charge within the cell, causing hyperpolarization.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effect on <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">Neuron</span> Excitability</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increased <span class=\"customMeta\" data-dictid=\"3892cfe03616927771872f834cf855\">excitability</span> can lead to <span class=\"customMeta\" data-dictid=\"f71e485d131692777199151d1076d2\">spontaneous</span> <span class=\"customMeta\" data-dictid=\"0c2d898b0b1692777202c5d43d5e78\">firing</span> and even cell death.</li>\n<li>Persistent <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> inactivates voltage-gated sodium channels, preventing <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> generation.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Decreased <span class=\"customMeta\" data-dictid=\"3892cfe03616927771872f834cf855\">excitability</span> occurs as the <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential is further from the threshold for action potential.</li>\n<li>Hypokalemia also inhibits the Na-K-ATPase pump.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/5tDOjtThUFbgpnNXpxZB1742834456.mp3",
+      "video": "",
+      "uid": "91809f3f"
+    },
+    {
+      "text": "During an action potential, the voltage-gated sodium channel transitions through different states. Which of the following sequences accurately reflects the order of these states during a single action potential cycle starting from RMP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Closed \u2192 Open \u2192 Inactive \u2192 Open",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inactive \u2192 Closed \u2192 Open \u2192 Inactive",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Closed \u2192 Inactive \u2192 Open \u2192 Closed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Closed \u2192 Open \u2192 Inactive \u2192 Closed",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Closed \u2192 Open \u2192 Inactive \u2192 Closed",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/vR8kpxFm4qAEXYxxwFoc1736088420.png",
+        "https://image.prepladder.com/content/NbEhcy4FgKGXkh8Y1w5B1736088439.png",
+        "https://image.prepladder.com/content/W6os0PYeSs6vnWsaZmO51736088448.png",
+        "https://image.prepladder.com/content/wMkTBa9z02UG7ckPymcE1736088467.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:767px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>M Gate</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>H Gate</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Closed</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"879\" src=\"https://image.prepladder.com/content/NbEhcy4FgKGXkh8Y1w5B1736088439.png\" width=\"2015\"/></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>This is the <span class=\"customMeta\" data-dictid=\"fefb59c3fe16927771971b43f0cf89\">resting state</span> of the voltage-gated sodium channel, where the <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> gate (M gate) is closed, preventing sodium ions from entering the cell.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Open</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"1219\" src=\"https://image.prepladder.com/content/W6os0PYeSs6vnWsaZmO51736088448.png\" width=\"2076\"/></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>When the <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential becomes less negative, the <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> gate opens rapidly.</li>\n<li>This allows a large influx of sodium ions into the cell, leading to depolarization.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inactive</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"1092\" src=\"https://image.prepladder.com/content/wMkTBa9z02UG7ckPymcE1736088467.png\" width=\"2353\"/></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>If the <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential remains depolarized for a prolonged period, the <span class=\"customMeta\" data-dictid=\"2f7bf58a321692777190e32a914615\">inactivation</span> gate will close.</li>\n<li>The closed <span class=\"customMeta\" data-dictid=\"2f7bf58a321692777190e32a914615\">inactivation</span> gate prevents sodium ions from entering.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cImlqSihynnNkCGBbah41742379069.mp3",
+      "video": "",
+      "uid": "f7e23371"
+    },
+    {
+      "text": "Which statements accurately describe the refractory period on a neuron's signaling properties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensures action potentials move in one direction along an axon.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Restricts the length of an action potential, stopping overly long depolarizations.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sets the intensity needed to start an action potential (threshold level).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Aids in the summation of local potentials, facilitating action potential generation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ensures action potentials move in one direction along an axon.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/i2dhARdfI10SwiaquE3U1736088390.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:733px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristic</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Absolute <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">Refractory</span> Period</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Relative <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">Refractory</span> Period</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The initial phase of the <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> period.</li>\n<li>The period during which a second <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> cannot be elicited, even with a strong stimulus.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Follows the absolute <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> period</li>\n<li>The period during which a stronger than-normal stimulus can elicit a second action potential.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Duration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sum of the total <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> period and the first 1/3rd of the <span class=\"customMeta\" data-dictid=\"40451a27bd1692777197d6c276d0bc\">repolarization</span> period of the action potential.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Last 2/3rd of the <span class=\"customMeta\" data-dictid=\"40451a27bd1692777197d6c276d0bc\">repolarization</span> period of the action potential.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Excitability</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No stimulus, no matter how strong.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stronger than normal stimuli</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Voltage-Gated Na+ Channels</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inactive or open state.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Transition from the inactive to the closed state.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Significance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Limits the maximum frequency of action potentials a <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> can fire.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Encoding of stimulus strength by modulating the frequency of action potentials.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/YeqoMWrORrZXC1jbX28d1742451895.mp3",
+      "video": "",
+      "uid": "6b7beaa1"
+    },
+    {
+      "text": "Based on the graph showing potassium ion permeability during an action potential, at which point does the permeability of potassium ions reach its peak?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Point A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Point C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Point D",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Point F",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Point D",
+      "question_images": [
+        "https://image.prepladder.com/content/TDvj8AYKLC1xYEQwSVBk1736088336.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/lJb6HMDMXgRPB7k5X3gV1736088354.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/B6dcwrnXQC6Ke2lYPz521742377292.mp3",
+      "video": "",
+      "uid": "5ed3bb18"
+    },
+    {
+      "text": "The graph below depicts an action potential. Which of the following statements correctly describes the state of ion channels at the point marked \"X\" on the graph?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Na+ channels are closed; K+ channels are open.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Na+ channels are completely inactivated; K+ channels are open.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Na+ and K+ channels are open.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Na+ and K+ channels are closed.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Na+ channels are completely inactivated; K+ channels are open.",
+      "question_images": [
+        "https://image.prepladder.com/content/46Pw98jRavjFKLQkxES51736088269.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/krbnm9P6u884TpV0eRsf1736088286.png",
+        "https://image.prepladder.com/content/kW8SBFRVmgE0FsgNgdYi1736088304.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:647px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Membrane Potential</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Na+ Channels</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>K+ Channels</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Resting State</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Polarized (-70 mV)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Depolarization (Rising Phase)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Less negative, towards 0 mV.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rapidly opening, then inactivating</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Slowly opens.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Overshoot (Peak)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Briefly positive (+35 mV).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inactivated</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Repolarization (Falling Phase)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Returning to negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inactivated</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Open</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>After-hyperpolarization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More negative.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Slowly closing</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Return to Resting State</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Returning to -70 mV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Closed</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3gh6NtLaDKgMmaLezp661742834050.mp3",
+      "video": "",
+      "uid": "269e478c"
+    },
+    {
+      "text": "A 75-year-old bedridden patient presents with severe pressure ulcers over the sacral region and complaints of muscle weakness and numbness in the lower limb. On examination, there is evidence of compromised blood flow and significant tissue damage. Which layer of the peripheral nerve is most likely affected in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perineurium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Endoneurium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Epineurium",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mesoneurium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Epineurium",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/1rfZtFk3elnAfaTTxock1736087422.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:123px\">\n<p><strong>Endoneurium</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:501px\">\n<ul>\n<li>The <span class=\"customMeta\" data-dictid=\"eeb84933a41692777187cba6c665dd\">endoneurium</span> is a layer of <span class=\"customMeta\" data-dictid=\"67e237a57c16927771859803f93ab3\">connective</span> tissue covering each nerve <span class=\"customMeta\" data-dictid=\"3ace01719a1692777202ddafcebbc4\">fibre</span> within its Schwann cell and <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> <span class=\"customMeta\" data-dictid=\"9864ad42b21692777191febeee1002\">lamina</span> in a <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> nerve.</li>\n<li>Contains collagen, fibroblast,schwann cells, endothelial cells and macrophages.</li>\n<li>Endoneurium holds adjoining nerve fibres together and facilitates their <span class=\"customMeta\" data-dictid=\"a00e90be0416927771803afbbf099b\">aggregation</span> to <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> fasciculi.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:123px\">\n<p><strong>Perineurium</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:501px\">\n<ul>\n<li>A thick layer of <span class=\"customMeta\" data-dictid=\"67e237a57c16927771859803f93ab3\">connective</span> tissue covering each <span class=\"customMeta\" data-dictid=\"b17785d7c7169277720246b0430877\">fascicle</span> is called Perineurium.</li>\n<li>It comprises layers of flattened cells separated by layers of <span class=\"customMeta\" data-dictid=\"d215f4a56c16927771842f34a24156\">collagen</span> fibres.</li>\n<li>Controls <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">diffusion</span> of substances in and out of axons.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:123px\">\n<p><strong>Epineurium</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:501px\">\n<ul>\n<li>The <span class=\"customMeta\" data-dictid=\"7f0b3b0a8216927772029052562b6d\">fasciculi</span> are held together by a fairly dense layer of <span class=\"customMeta\" data-dictid=\"67e237a57c16927771859803f93ab3\">connective</span> tissue that surrounds the entire nerve and is called Epineurium.</li>\n<li>Contribute to the tensile strength of the nerve.</li>\n<li>Loss of this layer in bedridden patients can lead to pressure on nerve fibres and paralysis.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/gglKuB5VRxTxoFZaJjgz1742281373.mp3",
+      "video": "",
+      "uid": "9b476dd5"
+    },
+    {
+      "text": "Which of the following accurately compares local potentials and action potentials?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Local potentials are all-or-none; action potentials are graded and decremental.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Local potentials can summate and are decremental; action potentials are all-or-nothing and non-decremental.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Local potentials have constant amplitude; action potentials vary and diminish with distance.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both local and action potentials propagate without diminishing and can summate.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Local potentials can summate and are decremental; action potentials are all-or-nothing and non-decremental.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/m6Jr0hg7BbznaQX4fkTi1736088103.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Local Potentials</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Action Potentials</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Amplitude</strong><br/>\n<strong>(Vs Option A&C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Graded; varies with stimulus strength</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>All-or-nothing; <span class=\"customMeta\" data-dictid=\"4c75de951316927771819cdfdbdd6a\">amplitude</span> remains constant once threshold is reached</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Propagation</strong><br/>\n\t\t\t\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decremental; diminishes with distance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-decremental; maintains magnitude over long distances</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Summation</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can summate (spatial and temporal)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cannot summate; separated by <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> periods</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Initiate action potentials by reaching threshold at the <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> hillock</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Transmit signals over long distances along nerve fibers</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ionic Basis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involves <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> movements, similar to action potentials, but often localized</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Depolarization and <span class=\"customMeta\" data-dictid=\"40451a27bd1692777197d6c276d0bc\">repolarization</span> driven by voltage-gated Na\u207a and K\u207a channels</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/hAhKR8L2MlpiGICUZ9C01742833138.mp3",
+      "video": "",
+      "uid": "e690b20b"
+    },
+    {
+      "text": "Which of the following statements accurately describes the changes in the resting membrane potential (RMP) of neuron during depolarization and hyperpolarization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depolarization: RMP more negative; Hyperpolarization: RMP more positive.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Depolarization: RMP more positive; Hyperpolarization: RMP more negative.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Depolarization: RMP more negative; Hyperpolarization: RMP -65 mV.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Depolarization: RMP more positive; Hyperpolarization: RMP less negative.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Depolarization: RMP more positive; Hyperpolarization: RMP more negative.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:705px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:146px\">\n<p><strong>Depolarization:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:559px\">\n<ul>\n<li>Sudden shift from negative to positive <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential.</li>\n<li>Mechanism: Increased <span class=\"customMeta\" data-dictid=\"1c7103a9b516927771955682b6aaa4\">permeability</span> to Na\u207a ions allows rapid influx of Na\u207a, neutralizing the negative potential.</li>\n<li>In large nerve fibers, Na\u207a influx can cause the <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential to briefly become positive (overshoot).</li>\n<li><strong>Excitatory <span class=\"customMeta\" data-dictid=\"978bd0e89f1692777196add72e1254\">Postsynaptic</span> Potentials (EPSPs):</strong>\n<ul>\n<li>Depolarizing events that can trigger an action potential.</li>\n<li>Excitatory neurotransmitters bind to receptors, opening <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> channels and allowing positively charged ions to enter.</li>\n<li>Action potential is <span class=\"customMeta\" data-dictid=\"3978e9614f1692777200abbe4cfa34\">triggered</span> if <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> reaches around -45 mV.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:146px\">\n<p><strong>Repolarization:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:559px\">\n<ul>\n<li>Return of <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential to <span class=\"customMeta\" data-dictid=\"fefb59c3fe16927771971b43f0cf89\">resting state</span> (-65 mV) following depolarization.</li>\n<li>Na\u207a channels close, reducing Na\u207a influx.</li>\n<li>K+ channels open wider, allowing K\u207a ions to exit rapidly.</li>\n<li>Restores negative <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potential.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:146px\">\n<p><strong>Hyperpolarization:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:559px\">\n<ul>\n<li>Membrane potential becomes more negative than the resting potential, below -65 mV.</li>\n<li>Inhibitory Neurotransmitters: Open channels allowing negatively charged ions (e.g., Cl\u207b) to enter or positively charged (e.g., K\u207a) to exit.</li>\n<li>Prolonged <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">Potassium</span> Channel Opening: Allows additional K\u207a outflow.</li>\n<li>Effect: Moves potential closer to the <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> Nernst potential, making the <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> less likely to fire immediately.</li>\n<li>Recovery: Gradual return to <span class=\"customMeta\" data-dictid=\"bc0588e63616927772009f1091e177\">threshold potential</span> for new <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> generation.</li>\n<li><strong>Inhibitory <span class=\"customMeta\" data-dictid=\"978bd0e89f1692777196add72e1254\">Postsynaptic</span> Potentials (IPSPs):</strong>\n<ul>\n<li>Hyperpolarizing events that make it harder for the <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> to fire an action potential.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p style=\"text-align:center\"><strong>Process</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p style=\"text-align:center\"><strong>Membrane Potential Change</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p style=\"text-align:center\"><strong>Ion Movement/Channel Activity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p style=\"text-align:center\"><strong>Threshold Impact</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p><strong>Resting Potential</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p>~ -65 mV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p>Higher K\u207a inside than outside</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Neutral</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p><strong>Depolarization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p>More positive</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p>Na\u207a influx (channels open)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Possible Action Potential</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p><strong>EPSP</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p>More positive</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p>Positive ions enter</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Triggers <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">Action Potential</span> if threshold reached</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p><strong>Repolarization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p>Returns to -65 mV</p>\n<p>from peak of depolarization</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p>Na\u207a channels close, K\u207a channels open wider</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Returns to resting state</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p><strong>Hyperpolarization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p>More negative than -65 mV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p>Cl\u207b enters or K\u207a exits (channels remain open)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Less likely to fire immediately</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:138px\">\n<p><strong>IPSP</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:128px\">\n<p>More negative</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:197px\">\n<p>Negative ions enter or K\u207a exits</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Inhibits action potential</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/rZJYVSJdL2HUZQmNwHhX1742375070.mp3",
+      "video": "",
+      "uid": "0a1f8fe5"
+    },
+    {
+      "text": "Match the ion with its equilibrium potential in a normal mammalian cell. Ion Equilibrium Potential (mV) 1. Sodium A. -70 2. Chloride B. +63 3. Potassium C. +132 4. Calcium D. -90",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-B, 2-A, 3-D, 4-C",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-D, 2-C, 3-B, 4-A",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-C, 2-D, 3-A, 4-B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-A, 2-B, 3-C, 4-D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-B, 2-A, 3-D, 4-C",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:304px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Equilibrium Potential</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sodium</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+63 mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chloride</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-70 mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Potassium</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-90 mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Calcium</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+132 mV</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/5gNv81DjT9LYzDr2Pam81742366091.mp3",
+      "video": "",
+      "uid": "5b724e37"
+    },
+    {
+      "text": "A 25-year-old woman presents with symptoms of confusion and lethargy. Her blood test shows a serum sodium level of 120 mEq/L. The intracellular concentration of sodium ([Na\u207a]\u1d62) is 12 mEq/L. what is the equilibrium potential for sodium (in mV)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "61 mV",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "72 mV",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "82 mV",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "92 mV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 61 mV",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/IkGlUvJVlrNAC41kyBgq1736087923.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Cr3b72TbHwVVprkTDtMc1742821180.mp3",
+      "video": "",
+      "uid": "8c30a570"
+    },
+    {
+      "text": "Which of the following is true regarding the leak channels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Facilitate the rapid transmission of action potentials along the axon.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Responsible for generation of synaptic potentials at the postsynaptic membrane",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Help in maintaining resting membrane potential by allowing passive movement of ions",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Play a crucial role in the repolarization phase of the action potential",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Help in maintaining resting membrane potential by allowing passive movement of ions",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/SjSiTUCn5mpQXjJukERx1742293320.mp3",
+      "video": "",
+      "uid": "9498266b"
+    },
+    {
+      "text": "Which of the following best explains the phenomenon where the distribution of ion species across a semipermeable membrane is influenced by the presence of a non-permeable ion, resulting in an uneven distribution of permeable ions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nernst Equation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bohr Effect",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gibbs-Donnan Effect",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Van't Hoff Law",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Gibbs-Donnan Effect",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/IzibI9WkHlMT5niz5zaI1742820662.mp3",
+      "video": "",
+      "uid": "99a008f7"
+    },
+    {
+      "text": "Which of the following is NOT true regarding resting membrane potential?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is created by diffusion of K+ from outside to inside the cell at rest",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The RMP of cardiac muscle is -90 mV",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "K+ is the major determinant of RMP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The major contributor of RMP is through passive diffusion of ions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. It is created by diffusion of K+ from outside to inside the cell at rest",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/pclsQQuI2woGEPfneDfo1736087820.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:340px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cell</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RMP</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neuron</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-70mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skeletal muscle</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-95mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Smooth muscle</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-60mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cardiac muscle</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-90mV<strong> (option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Astrocyte</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-90mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Erythrocyte</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-12mV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Photoreceptor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-40mV\u00a0(dark) to -70mV\u00a0(light)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/WInhKTY2vPZgSBWacDJX1742820455.mp3",
+      "video": "",
+      "uid": "bcbcc48e"
+    },
+    {
+      "text": "Which of the following statements accurately describes the type, direction and mediators of axonal transport? 1 Anterograde Cell body to axon terminal Dynein 2 Anterograde Axon terminal to cell body Kinesin 3 Retrograde Axon terminal to cell body Dynein 4 Retrograde Cell body to axon terminal Kinesin",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 3",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/1M033jQjBmTg1779lyCN1736087786.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:714px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mediated by</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anterograde transport</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kinesin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It involves the transport of <span class=\"customMeta\" data-dictid=\"12a6f23332169277718402ca6703e2\">cellular</span> material from <span class=\"customMeta\" data-dictid=\"6ac786d1a61692777198afcb5b874a\">soma</span> to the <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> terminal.</li>\n<li>It is responsible for the transport of proteins, <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> vesicles necessary for <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> transmission.</li>\n<li>Two types:</li>\n</ul>\n<ul>\n<li><strong>Fast axoplasmic transport</strong> at a rate of 400 mm/day, mediated by kinesin.</li>\n<li><strong>Slow axoplasmic transport </strong>at a rate of 0.5-2 mm/day, mediated by actin, neurofilaments and microtubules. Supplies material required for <span class=\"customMeta\" data-dictid=\"91229d427e169277719753f25af9f0\">regeneration</span> following nerve injury.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Retrograde transport</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dynein</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It involves the transport from <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> terminals to <span class=\"customMeta\" data-dictid=\"6ac786d1a61692777198afcb5b874a\">soma</span> at a rate of about 200 mm/day.</li>\n<li>It is important for transport of viruses, toxins, nerve growth factors and <span class=\"customMeta\" data-dictid=\"42c441fad11692777197258f322307\">reuptake</span> of <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> neurotransmitters.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/MFavHlLQeFjgrzw0OE7p1742292213.mp3",
+      "video": "",
+      "uid": "45a7d684"
+    },
+    {
+      "text": "Which type of neuron is primarily involved in the transmission of visual information from the retina to the brain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unipolar neuron",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bipolar neuron",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Multipolar neuron",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both multipolar and bipolar neuron",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Both multipolar and bipolar neuron",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ctm35VrFEXJnWzLK3bPf1736087735.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:597px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristic</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unipolar neuron</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Seen in invertebrates Have one process with several <span class=\"customMeta\" data-dictid=\"22aad956ce1692777197529ede4020\">receptive</span> and releasing terminals</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bipolar neurons (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Seen in <span class=\"customMeta\" data-dictid=\"f17d8978bd1692777197621051012f\">retina</span> and <span class=\"customMeta\" data-dictid=\"30cac2b1a216927771941c69ff66a3\">olfactory</span> epithelium</li>\n<li>Have two specialized processes</li>\n<li>Dendrite carries information to the cell</li>\n<li>Axon carries information from the cell</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pseudo-unipolar neurons</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Seen in <span class=\"customMeta\" data-dictid=\"51b29c48291692777186b488ac8cd9\">dorsal</span> root ganglion.</li>\n<li>The developing <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> has a single process that splits into two, both of which function as axons, one reaching up to the skin and the other to the <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Multipolar neurons </strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most common</li>\n<li>Seen in <span class=\"customMeta\" data-dictid=\"bbd799518a169277718867e02de42f\">ganglion</span> cell, hippocampal <span class=\"customMeta\" data-dictid=\"d3b981dbf916927771961c29f24614\">pyramidal</span> cells, cerebellar Purkinje cells, motor neurons, etc</li>\n<li>Have one <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> and multiple dendrites</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cInHJ5782AXpMiJJIl7h1742290117.mp3",
+      "video": "",
+      "uid": "64324745"
+    },
+    {
+      "text": "A 30-year-old man presents with progressive muscle weakness and fatigue. Electromyography (EMG) and nerve conduction studies indicate that the issue lies in the transmission of nerve impulses to his muscles, while central nervous system imaging shows no abnormalities. Which part of the neuron is most likely affected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initial Segment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Axon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dendrite",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Axon Terminal",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Axon Terminal",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/piIWbbvhq9cB9GWwjfLz1736087554.png",
+        "https://image.prepladder.com/content/JTUbapIOO6WRjGMMvg8T1736087563.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:666px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:181px\">\n<p><strong>1. <span class=\"customMeta\" data-dictid=\"77f797c5e8169277718535480fa7fd\">Dendritic</span> zone </strong>(Receptor zone)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:485px\">\n<ul>\n<li>Receives information from other neurons and transmits impulses towards the cell body.</li>\n<li>Integrates local potentials from <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> connections.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:181px\">\n<p><strong>2. <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">Axon</span> <span class=\"customMeta\" data-dictid=\"f9a50a52951692777189da6efd5e08\">Hillock</span> and <span class=\"customMeta\" data-dictid=\"dae94d127016927771902929a91254\">Initial segment</span> </strong>\u00a0(Action Potential Generation zone)<strong>\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:485px\">\n<ul>\n<li><strong>Action potentials are generated here.</strong></li>\n<li><strong>In motor neurons, it occurs at the <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> hillock; in <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> neurons, at the initial <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> of Ranvier.</strong></li>\n<li>Summates local potentials from dendrites and generates action potentials if the threshold is reached.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:181px\">\n<p><strong>3. <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">Axon</span> </strong><br/>\n\t\t\t(Transmission zone)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:485px\">\n<ul>\n<li>Long, slender process transmitting action potentials from the cell body to <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> terminals.</li>\n<li>Ensures rapid and efficient <span class=\"customMeta\" data-dictid=\"bface068bb16927771964819228c66\">propagation</span> of nerve impulses over long distances.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:181px\">\n<p><strong>4. <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">Axon</span> <span class=\"customMeta\" data-dictid=\"16b76d1d1c1692777200240efcb0e2\">Terminal</span> </strong>(Discharge zone)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:485px\">\n<ul>\n<li>Contains <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> vesicles with neurotransmitters.</li>\n<li>When an <span class=\"customMeta\" data-dictid=\"1313ac90ca16927771807502911c57\">action potential</span> reaches the <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> terminal, it triggers <span class=\"customMeta\" data-dictid=\"e28fd027b416927771932bc23ba0a5\">neurotransmitter</span> release into the <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> <span class=\"customMeta\" data-dictid=\"7aa38569251692777184021705e8de\">cleft</span> for communication with other neurons or target cells.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/94fRrj8sqSoGk9ytQUV41742819751.mp3",
+      "video": "",
+      "uid": "11a93b90"
+    },
+    {
+      "text": "In which part of the neuron are neurofibrillary tangles primarily found, which are associated with neurodegenerative diseases like Alzheimer's?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dendrites",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Axon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Soma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Axon terminal",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Soma",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/b1AOsZ2vVXW8w1YB94Kk1736087518.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:709px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Axon</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cell Body (Soma)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dendrites</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Long <span class=\"customMeta\" data-dictid=\"98d387b7bd1692777201278b27be72\">tubular</span> process extending from the cell body to transmit signals to target organs.<br/>\n\t\t\t\t\u00a0</li>\n<li>Originates from the<strong> <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> hillock,</strong> a thickened area of the cell body.<br/>\n\t\t\t\t\u00a0</li>\n<li>The<strong> initial segment</strong>, just after the<strong> </strong>axon hillock, is where action potentials are generated.<br/>\n\t\t\t\t\u00a0</li>\n<li><strong>Axon terminal: </strong>The <span class=\"customMeta\" data-dictid=\"16b76d1d1c1692777200240efcb0e2\">terminal</span> part of the <span class=\"customMeta\" data-dictid=\"93cb75311c16927771828ed307dcc0\">axon</span> loses <span class=\"customMeta\" data-dictid=\"47fec911a316927771933b7607bdf0\">myelin</span> and branches into <strong>telodendria</strong>, which end in <strong>synaptic knobs</strong> (terminal buttons) containing neurotransmitters.</li>\n</ul>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It is the center of the <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> containing the nucleus, which is the <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> center and stores DNA.<br/>\n\t\t\t\t\u00a0</li>\n<li>Contains organelles like <strong>Nissl bodies </strong>(stacks of <span class=\"customMeta\" data-dictid=\"c01a5a8c221692777187daa368ab62\">endoplasmic reticulum</span> with ribosomes), <strong>mitochondria, Golgi apparatus, and lysosomes.</strong><br/>\n\t\t\t\t\u00a0</li>\n<li>Capable of <strong>protein synthesis</strong> with numerous Nissl granules.<br/>\n\t\t\t\t\u00a0</li>\n<li><strong>Lacks centrioles,</strong> limiting regenerative capacity.<br/>\n\t\t\t\t\u00a0</li>\n<li><strong>Contains cytoskeletal proteins</strong> like neurofilaments, microtubules, and <span class=\"customMeta\" data-dictid=\"8e023fb81e16927771802d21820404\">actin</span> microfilaments (In Alzheimer\u2019s, neurofilaments <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> neurofibrillary tangles).</li>\n</ul>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>These are numerous short extensions from the cell body that receive incoming signals and transmit them into the cell body.<br/>\n\t\t\t\t\u00a0</li>\n<li>Have <strong>dendritic spines </strong>to increase surface area for signal reception.<br/>\n\t\t\t\t\u00a0</li>\n<li>Contain <strong>Nissl granules</strong> for protein synthesis; involved in generating and conducting action potentials.<br/>\n\t\t\t\t\u00a0</li>\n<li>Typically, about 10,000 dendrites per <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> are in the CNS.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/y6bCHYBKivNc1pfRpp9H1742819509.mp3",
+      "video": "",
+      "uid": "4b49862a"
+    },
+    {
+      "text": "A 55-year-old patient with brain tumor undergoes treatment with a novel chemotherapy drug targeting tumor cells. Despite the initial response, follow-up imaging shows minimal response and tumor progression. Which characteristic of the blood-brain barrier is responsible for this treatment challenge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Impermeability to plasma proteins",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Impermeability to lipid-soluble molecules",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Presence of fenestrations in capillary walls",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lack of efflux transporters for drugs",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Impermeability to plasma proteins",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/hdzUcbdHrYLrB1ZVlRny1736087474.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:648px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Blood-Brain Barrier (BBB)</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"fe1a980b121692777182f88db01254\">BBB</span> is the barrier between <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> endothelial cells in the brain and epithelial cells in the <span class=\"customMeta\" data-dictid=\"87b317afbd16927771844e0e534940\">choroid</span> plexus, limiting the exchange of substances into the brain.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anatomical Basis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Formed by two special structures:</p>\n<ol>\n<li>Endothelial cells in brain capillaries are joined by tight junctions.</li>\n<li>Capillaries are surrounded by <span class=\"customMeta\" data-dictid=\"2f9ce365c11692777182e657d6ad5d\">astrocyte</span> foot processes.</li>\n</ol>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Permeability </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Easily Penetrated:</strong> Water, CO2, O2, lipid-soluble substances.</p>\n<p><strong>Not Penetrated:</strong> Proteins, polypeptides.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Circumventricular organs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"fe1a980b121692777182f88db01254\">BBB</span> is deficient in certain brain regions known as <span class=\"customMeta\" data-dictid=\"70e2f7e17816927771848fc6272c84\">circumventricular</span> organs, which are outside the BBB:</p>\n<ol>\n<li>Organum vasculosum of <span class=\"customMeta\" data-dictid=\"9864ad42b21692777191febeee1002\">lamina</span> terminalis (OVLT)</li>\n<li>Subfornical Organ</li>\n<li>Area postrema in <span class=\"customMeta\" data-dictid=\"53abb386551692777192c4d1f1f5ed\">medulla</span> oblongata</li>\n<li>Posterior <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> and <span class=\"customMeta\" data-dictid=\"979385c98a1692777192fb1721a16e\">median</span> eminence(ventral part) of hypothalamus</li>\n<li>Pineal gland</li>\n</ol>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Functions of BBB</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Maintain <span class=\"customMeta\" data-dictid=\"a4d5e86b6416927771850468afd1ba\">constancy</span> of Na+, K+, Ca++, H+ and Mg++ in brain fluids</li>\n<li>Protect neurons from harmful toxins</li>\n<li>Prevents escape of neurotransmitters from brain into circulation</li>\n<li>Disruption of <span class=\"customMeta\" data-dictid=\"fe1a980b121692777182f88db01254\">BBB</span> helps in identifying the location and extent of lesions in the brain</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical importance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Kernicterus: <span class=\"customMeta\" data-dictid=\"cab274fa4f1692777189f9b6dad514\">Hyperbilirubinemia</span> damages the <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> <span class=\"customMeta\" data-dictid=\"f2804c808516927771887dda93e56c\">ganglia</span> in infants due to an underdeveloped BBB.</li>\n<li>Brain Tumor<strong>:</strong> <span class=\"customMeta\" data-dictid=\"fe1a980b121692777182f88db01254\">BBB</span> is disrupted at the tumor site.</li>\n<li>Infection and Injury: <span class=\"customMeta\" data-dictid=\"fe1a980b121692777182f88db01254\">BBB</span> <span class=\"customMeta\" data-dictid=\"903370f259169277718385f6060dd7\">breakdown</span> occurs in infected or injured regions.</li>\n</ol>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3NdFbqS8BJqrFZMQl1w81742819120.mp3",
+      "video": "",
+      "uid": "831a8ae1"
+    }
+  ]
+}

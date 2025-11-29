@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "id": "test3",
+    "title": "Anticancer_and_Immunomodulators",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match the following conditions and the pyrimidine analogues which are used as drugs of choice. a) Pancreatic cancer 1. Cytosine arabinoside b) Acute Myeloid Leukemia (AML) 2. Azacitidine c) Myelodysplastic syndrome 3. 5-Fluorouracil d) Colorectal Cancer 4. Gemcitabine",
+      "options": [
+        {
+          "label": "A",
+          "text": "a) - 4; b) - 1; c) - 2; d) - 3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "a) - 3; b) - 4; c) - 1; d) - 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "a) - 1; b) - 2; c) - 3; d) - 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a) - 2; b) - 3; c) - 4; d) - 1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. a) - 4; b) - 1; c) - 2; d) - 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pyrimidine Analogue</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Use(s)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>5-Fluorouracil</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Colorectal cancer, breast cancer, other solid tumors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cytarabine (Cytosine arabinoside)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acute <span class=\"customMeta\" data-dictid=\"da88d7f2211692777193037caba514\">myeloid</span> <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">leukemia</span> (AML), <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> lymphocytic <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">leukemia</span> (ALL), non-Hodgkin lymphoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gemcitabine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pancreatic cancer (DOC), non-small cell lung cancer, <span class=\"customMeta\" data-dictid=\"e6cfda323816927771839cc83e376d\">bladder</span> cancer</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Azacitidine and Decitabine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Myelodysplastic syndromes (DOC), AML</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Capecitabine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Colorectal cancer, breast cancer, <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> cancer</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3f436e54"
+    },
+    {
+      "text": "A 60-year-old male with a significant smoking history presents with a persistent cough, dyspnea, weight loss, and fatigue. A Chest CT reveals a suspicious mass in the right upper lobe. A biopsy of the mass shows adenocarcinoma. Further molecular testing reveals high PD-L1 expression (>50%) and no actionable mutations in EGFR, ALK, or ROS1. Which of the following drugs would you choose as the first line of treatment in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erlotinib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bevacizumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pembrolizumab",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ipilimumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pembrolizumab",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/lWKK6hhPg6yCL2JANa4U1736435838.png",
+        "https://image.prepladder.com/content/T9qsYnDojI7vWUDTbesP1736435889.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Blocks CTLA4 <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Blocks PD-L-1 <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Blocks PD-1 receptor</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ipilimumab</li>\n<li>Tremelimumab</li>\n</ul>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Atezolizumab</li>\n<li>Avelumab</li>\n<li>Durvalumab</li>\n</ul>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Nivolumab</li>\n<li>Cepilimumab</li>\n<li>Pembrolizumab</li>\n</ul>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c3582345"
+    },
+    {
+      "text": "A 52-year-old female presents with a diagnosis of invasive ductal carcinoma of the breast. The tumour measures 3 cm in diameter and has been staged as T2N1M0. Immunohistochemical testing reveals that the cancer cells overexpress the HER2 protein and are ER-negative. The patient has no significant comorbidities and has been scheduled for surgery. Which of the following drugs is most suitable for this patient as part of her adjuvant chemotherapy regimen",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tamoxifen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cetuximab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trastuzumab",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Bevacizumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Trastuzumab",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/KI5ffGfpZT4iiU50IllV1736435764.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9fc46123"
+    },
+    {
+      "text": "A 58-year-old male patient diagnosed with malignant melanoma has not responded to initial therapies. His oncologist is considering targeted therapy options. Which of the following inhibitors can be used in malignant melanoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sirolimus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Binimetinib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Idelalisib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Adagrasib",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Binimetinib",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Inhibitor Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Drugs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Uses</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>RAS Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>Sotorasib, <strong>Adagrasib</strong> <strong>(Option D Ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>NSCLC with KRAS mutation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>B-RAF Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>Vemurafenib, Dabrafenib, Encorafenib</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>Malignant <span class=\"customMeta\" data-dictid=\"e42297345d16927771922d2d0dc020\">Melanoma</span> with B-RAF mutation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>MEK Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>Trametinib, Cobimetinib, <strong>Binimetinib (Option B)</strong>, Selumetinib</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>Malignant Melanoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>PI3K Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Idelalisib</strong> <strong>(Option C\u00a0Ruled out)</strong>, Copanlisib, Duvelisib, Umbralisib, Alpelisib</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>B Cell <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">Lymphoma</span> (CLL, SLL, FL)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>mTOR Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Sirolimus (Option A Ruled out)</strong>, Temsirolimus, Everolimus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p>RCC (Renal Cell Carcinoma), Breast Cancer, <span class=\"customMeta\" data-dictid=\"cde2dcfb251692777195bb7a41d550\">PNET</span> (Pancreatic <span class=\"customMeta\" data-dictid=\"7eca2476201692777193e0a0959bd7\">Neuroendocrine</span> Tumors)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "68b2bedc"
+    },
+    {
+      "text": "Match the drugs & their clinical use: Drug Clinical Use 1. Pazopanib A. Cholangiocarcinoma 2. Midostaurin B. Urothelial Carcinoma 3. Erdafitinib C. Acute Myeloid Leukemia (AML) with FLT-3 mutation 4. Infigratinib D. Renal Cell Carcinoma (RCC)",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-D, 2-C, 3-B, 4-A",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-D, 2-C, 3-A, 4-B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-C, 2-D, 3-A, 4-B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-C, 2-D, 3-B, 4-A",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-D, 2-C, 3-B, 4-A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"width:624px\">\n<tbody>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Drug Name</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Clinical Use</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Pazopanib, Axitinib, Tivozanib</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Renal Cell <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (RCC)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Sorafenib, Lenvatinib</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Renal Cell <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (RCC), <span class=\"customMeta\" data-dictid=\"6165f47a8c1692777188c0dfc0d75d\">Hepatocellular</span> <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (HCC)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Sunitinib, Regorafenib</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Renal Cell <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> (RCC), <span class=\"customMeta\" data-dictid=\"b3a647ce2516927771881427f56c1d\">Gastrointestinal</span> Stromal Tumors (GIST)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Vandetanib, Cabozantinib</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Medullary <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">Carcinoma</span> of the Thyroid</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Midostaurin, Gilteritinib</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Acute <span class=\"customMeta\" data-dictid=\"da88d7f2211692777193037caba514\">Myeloid</span> <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">Leukemia</span> (AML) with FLT-3 mutation</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Drug Name</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Use</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Erdafitinib</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Urothelial Carcinoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pemigatinib, Infigratinib</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cholangiocarcinoma</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "50d16058"
+    },
+    {
+      "text": "Match the following drugs to their appropriate mutation targets in cancer treatment: 1. Erlotinib A. HER2 (+)ve Breast Cancer 2. Osimertinib B. HER1 (EGFR) mutation in Non-Small Cell Lung Cancer 3. Lapatinib C. T790M mutation in EGFR receptor 4. Neratinib D. Trastuzumab resistant HER2 (+)ve Breast Cancer",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-C, 2-B, 3-D, 4-A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-B, 2-C, 3-A, 4-D",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-C, 2-B, 3-A, 4-D",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-B, 2-C, 3-D, 4-A",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1-B, 2-C, 3-D, 4-A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Drug</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Matched Target</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism & Clinical Use</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Erlotinib</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>B. HER1 (EGFR) <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> in NSCLC</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reversible tyrosine <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> (TKI) of <strong>EGFR (HER1)</strong>; used in <strong>EGFR-mutant NSCLC</strong>.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Osimertinib</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>C. T790M EGFR mutation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3rd-generation <span class=\"customMeta\" data-dictid=\"ee77d507701692777190bfcf47b497\">irreversible</span> EGFR-TKI that targets <strong>T790M</strong>, a common resistance mutation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lapatinib</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A. HER2 (+)ve Breast Cancer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dual <strong>HER2 and EGFR</strong> TKI used for <strong>HER2-positive breast cancer</strong>, usually after trastuzumab.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neratinib</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>D. Trastuzumab-resistant HER2+ Cancer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Irreversible pan-HER <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> <span class=\"customMeta\" data-dictid=\"e4865847fa169277720044d7b530b0\">targeting</span> <strong>HER1, HER2, and HER4</strong>, effective after <span class=\"customMeta\" data-dictid=\"3c1f84a831169277720091463322a7\">trastuzumab</span> failure.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Target</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Common Mutation/Context</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Targeted Drugs</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>EGFR (HER1)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>NSCLC with EGFR mutations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Erlotinib, Gefitinib, Afatinib</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T790M mutation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Resistance <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> in EGFR+ NSCLC</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Osimertinib</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>HER2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HER2-positive breast cancer</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Trastuzumab, Pertuzumab, Lapatinib, Neratinib</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Trastuzumab-resistance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HER2+ breast cancer non-responsive to trastuzumab</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neratinib, Tucatinib</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/luCUITBGFj6QRRmxOs2S1746256860.mp3",
+      "video": "",
+      "uid": "4acacc37"
+    },
+    {
+      "text": "Which of the following conditions is not commonly treated with Bruton\u2019s Tyrosine Kinase (BTK) inhibitors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mantle Cell Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Marginal Zone Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chronic Lymphocytic Leukemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hodgkin's Lymphoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Hodgkin's Lymphoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>BTK <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">Inhibitor</span> Use</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Comments</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mantle Cell Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Yes</strong> (e.g., Ibrutinib)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Approved indication</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Marginal Zone Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Yes</strong> (e.g., Zanubrutinib)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Used especially in relapsed/refractory settings</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chronic Lymphocytic Leukemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Yes</strong> (Ibrutinib, Acalabrutinib)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>First-line and relapsed settings</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hodgkin's Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>No</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not a BTK-driven disease; treated with chemotherapy/immunotherapy</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "903f8d49"
+    },
+    {
+      "text": "A 25-year-old male patient with a known history of Crigler-Najjar syndrome type I is diagnosed with metastatic colon cancer. The oncology team is planning his treatment regimen, which includes various anticancer drugs. Which of the following anti-cancer drugs is contraindicated in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irinotecan",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Topotecan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Etoposide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5 Fluro-Uracil",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Irinotecan",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/mz4dyNsol71CzvV8JzL61736435386.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "95e13830"
+    },
+    {
+      "text": "A 55 y/o woman presents with a new diagnosis of metastatic breast cancer. Her oncologist decides to initiate treatment with a drug that inhibits microtubules. Considering her condition and the available microtubule- inhibiting drugs, the oncologist discusses the options, including vincristine, vinblastine, paclitaxel, and docetaxel. Which of the following statements is true for microtubule-inhibiting anti-cancer drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vincristine & vinblastine are both vinca alkaloids that inhibit tubulin polymerization, thereby preventing the formation of microtubules.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Vincristine & vinblastine are both equally neurotoxic.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paclitaxel and docetaxel both destabilize microtubules by inhibiting tubulin assembly, leading to mitotic spindle dysfunction.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paclitaxel and docetaxel are both contraindicated in liver disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Vincristine & vinblastine are both vinca alkaloids that inhibit tubulin polymerization, thereby preventing the formation of microtubules.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:623px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Vinca Alkaloids</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Taxanes</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<ul>\n<li>Inhibit <span class=\"customMeta\" data-dictid=\"1346ac97b61692777196b91eff8228\">polymerization</span> of microtubules</li>\n<li>Inhibit the formation of spindle</li>\n</ul>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<ul>\n<li>Inhibit <span class=\"customMeta\" data-dictid=\"b05a983ef116927771865c58c70d2e\">depolymerization</span> of microtubules</li>\n<li>Inhibit movement or over-stabilization of spindle</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Drugs</strong></p>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<ul>\n<li>Vincristine</li>\n<li>Vinblastine</li>\n<li>Vinorelbine</li>\n<li>Vindesine</li>\n</ul>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<ul>\n<li>Paclitaxel</li>\n<li>Docetaxel</li>\n<li>Cabazitaxel</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Toxicity</strong></p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<ul>\n<li>Highly neurotoxic</li>\n<li>Causes <span class=\"customMeta\" data-dictid=\"14bba9af561692777194c8cadacf13\">paralytic</span> ileus</li>\n<li>Produces foot drop</li>\n<li>Causes SIADH</li>\n<li>Causes glove and stocking neuropathy</li>\n</ul>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<ul>\n<li>Highly neurotoxic</li>\n<li>Causes <span class=\"customMeta\" data-dictid=\"14bba9af561692777194c8cadacf13\">paralytic</span> ileus</li>\n<li>Causes glove and stocking neuropathy</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ab29ec79"
+    },
+    {
+      "text": "A 65 y/o male is undergoing chemotherapy for the treatment of non-Hodgkin's lymphoma. During his treatment, he developed pancytopenia, characterized by anemia, leukopenia, and thrombocytopenia. The oncologist reviews the patient's medication list to determine which drug might be responsible for the patient\u2019s lab results. All of the following drugs could be responsible for the patient\u2019s condition except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Doxorubicin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vincristine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Vincristine",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/qpickuKgDiNUq2HxNfb41736434661.png",
+        "https://image.prepladder.com/content/jk4CqnECc7gLzhJpIpuH1736434691.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "89af659c"
+    },
+    {
+      "text": "A 55-year-old patient with colorectal cancer is being treated with 5-fluorouracil (5-FU) as part of their chemotherapy regimen. Which of the following best describes the mechanism by which 5-fluorouracil exerts its anti-cancer effects in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5-Fluorouracil inhibits DNA synthesis by incorporating into the DNA strand and causing chain termination.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5-Fluorouracil inhibits RNA polymerase, preventing the transcription of mRNA.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5-Fluorouracil is converted into fluorodeoxyuridine monophosphate (FdUMP), which inhibits thymidylate synthase, leading to decreased thymidine production and inhibition of DNA synthesis.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5-Fluorouracil activates topoisomerase I, causing breaks in DNA strands.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 5-Fluorouracil is converted into fluorodeoxyuridine monophosphate (FdUMP), which inhibits thymidylate synthase, leading to decreased thymidine production and inhibition of DNA synthesis.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/V1rWUe2Fiiun2LJ5YDVn1736435246.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b7b3c1c7"
+    },
+    {
+      "text": "A 55-year-old woman with a history of rheumatoid arthritis under medication presents with complaints of fatigue, oral ulcers, and a non-productive cough. On examination, she appears pale, and reveals a temp of 100.9\u00b0F. Laboratory investigations show the following: Pancytopenia, elevated BUN and creatinine levels and elevated transaminases. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systemic lupus erythematosus (SLE)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate toxicity",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Felty's syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acute viral hepatitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Methotrexate toxicity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dc323902"
+    },
+    {
+      "text": "A 65-year-old male presents with a recent diagnosis of advanced non-small cell lung cancer (NSCLC). The oncologist decides to initiate treatment with pemetrexed. The patient has a history of COPD and hypertension, which are well-controlled with medication. Which of the following best describes the mechanism of action of pemetrexed in the treatment of non-small cell lung cancer (NSCLC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibits thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase, thereby disrupting DNA and RNA synthesis.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Binds to tubulin, inhibiting microtubule formation and causing cell cycle arrest in the M phase.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acts as an alkylating agent, causing cross-linking of DNA strands and preventing DNA replication.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inhibits topoisomerase II, leading to DNA strand breaks and apoptosis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Inhibits thymidylate synthase, dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase, thereby disrupting DNA and RNA synthesis.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/njgxOf8EoexxEFWLjvSE1736435102.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:900px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Folate Analogue</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Mechanism of Action</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Uses</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pemetrexed </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition of</p>\n<ul>\n<li>Thymidylate synthase</li>\n<li>Dihydrofolate reductase</li>\n<li>Glycinamide <span class=\"customMeta\" data-dictid=\"d74fcef45b16927771979689961be7\">ribonucleotide</span> <span class=\"customMeta\" data-dictid=\"bc9d05c4c71692777203e7c30039d1\">formyltransferase</span> (GARFT)</li>\n</ul>\n<p>\u2192 <span class=\"customMeta\" data-dictid=\"7061e0e0051692777186ba9c5f27df\">depletion</span> of <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> pools essential for DNA <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> and repair.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mesothelioma</li>\n<li>Non-small cell lung cancer (NSCLC)</li>\n<li>In combination with <span class=\"customMeta\" data-dictid=\"ca71207b36169277718438d09cbda0\">cisplatin</span> for <span class=\"customMeta\" data-dictid=\"f8aaf091221692777191f73e810e94\">malignant</span> pleural mesothelioma.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Methotrexate </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition of <span class=\"customMeta\" data-dictid=\"0f9fe95f081692777186e5071229c6\">dihydrofolate</span> <span class=\"customMeta\" data-dictid=\"6afb2667fe16927771975a8db1378b\">reductase</span> - prevents the formation of THF.</p>\n<p>Disrupts DNA <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> and cell proliferation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Acute lymphoblastic <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">leukemia</span> (ALL)</li>\n<li>Non-Hodgkin lymphoma</li>\n<li>Osteosarcoma</li>\n<li>Gestational trophoblastic neoplasia</li>\n<li>Rheumatoid arthritis</li>\n<li>Psoriasis.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Raltitrexed </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition of <span class=\"customMeta\" data-dictid=\"e34386023d169277720036d8bccc88\">thymidylate</span> <span class=\"customMeta\" data-dictid=\"d2bd91ccac169277719941254e1795\">synthase</span> - <span class=\"customMeta\" data-dictid=\"653140d1dc16927771903445309f4e\">interfering</span> with DNA synthesis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Colorectal cancer.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pralatrexate </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Competitive <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> of</p>\n<ul>\n<li>dihydrofolate reductase</li>\n<li>thymidylate synthase,</li>\n</ul>\n<p>\u2192 disrupting <span class=\"customMeta\" data-dictid=\"c66705291e1692777203ed3498a606\">folate</span> <span class=\"customMeta\" data-dictid=\"5b1a045f5f169277719210c0ac7a1e\">metabolism</span> and inhibiting DNA synthesis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Relapsed or <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> T-cell <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> (PTCL).</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ff59520b"
+    },
+    {
+      "text": "A 25-year-old male presents with a history of recurrent episodes of severe pain in his limbs and chest, especially during cold weather or after vigorous physical activity. His medical history reveals multiple hospital admissions for similar episodes, diagnosed as vaso-occlusive crises. Laboratory investigations confirm the presence of hemoglobin S. His physician decides to start him on a medication that helps to reduce the frequency of painful crises and the need for blood transfusions. Which of the following is the most appropriate medication for this patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methotrexate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydroxyurea",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Imatinib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anagrelide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hydroxyurea",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "972602f6"
+    },
+    {
+      "text": "A 60-year-old male patient is diagnosed with locally advanced squamous cell carcinoma of the head and neck. His oncologist recommends a combination of radiation therapy and chemotherapy. The patient expresses concern about the potential damage to his surrounding normal tissues from the radiation. To address his concerns, the oncologist considers using both a radio-sensitizer and a radio-protector.Which of the following combinations of agents is most appropriate for this patient's treatment plan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cisplatin and amifostine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Doxorubicin and vitamin C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Metformin and hyperbaric oxygen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Gemcitabine and sodium selenite",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cisplatin and amifostine",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/zO2sQO7O5HrEWNcKdpyb1736434993.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/odexsfeXDEzlIbwI0bvR1747295952.mp3",
+      "video": "",
+      "uid": "d7d45384"
+    },
+    {
+      "text": "A 55 y/o male presents with stage 3 lung cancer. The oncologist recommends treatment with a chemotherapy regimen that includes a cytotoxic drug known to be most effective during the S phase of the cell cycle. Which of the following cytotoxic drugs did he most likely recommend?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vincristine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cisplatin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5- Fluorouracil",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Bleomycin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 5- Fluorouracil",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/6QFI00RnZckCE3YCFrAk1736434737.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "12ca196e"
+    },
+    {
+      "text": "A 50 y/o male was diagnosed with Hodgkin's lymphoma two years ago. He underwent chemotherapy for the same. Recently, the patient has presented with symptoms of fatigue, easy bruising, and recurrent infections. Laboratory tests and bone marrow biopsy confirmed a diagnosis of AML. Which of the following drugs used in the treatment of this patient's Hodgkin's lymphoma is most likely responsible for the development of his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Doxorubicin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vincristine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bleomycin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Procarbazine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Procarbazine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Drug Class</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Latency to t-AML/t-MDS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism of Leukemogenesis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alkylating agents</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Procarbazine, Cyclophosphamide</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2\u201310 years</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>DNA <span class=\"customMeta\" data-dictid=\"2cf4952c63169277718543a0883583\">cross-linking</span> \u2192 chromosomal aberrations</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Topoisomerase II inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Etoposide, Doxorubicin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1\u20133 years</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>MLL gene rearrangements</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Antimetabolites</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6-Mercaptopurine, 5-FU</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>DNA <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> interference, less leukemogenic</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Radiation therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2013</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5\u201320 years</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>DNA <span class=\"customMeta\" data-dictid=\"cf25c7ba04169277719946f465928b\">strand</span> breaks \u2192 chromosomal damage</p>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Side effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Drugs </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Secondary cancer</p>\n<p>(Most common = AML)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Procarbazine, Cisplatin, Etoposide, Mitoxantrone</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bone <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> suppression</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>All cytotoxic drugs except Vincristine, Asparaginase, Bleomycin.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Most Emetogenic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cisplatin</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pulmonary fibrosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cyclophosphamide, Bleomycin, Carmustine, Methotrexate, Busulfan</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cardiotoxicity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Daunorubicin > Doxorubicin</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemorrhagic cystitis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ifosfamide > Cyclophosphamide</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7a7d865e"
+    }
+  ]
+}

@@ -1,0 +1,1353 @@
+{
+  "meta": {
+    "id": "test64",
+    "title": "Ophthalmology_FMGE",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Procedure is done for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keratoconus",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Keratoglobus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vogt limbal girdle",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Corneal dystrophy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Keratoconus",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(843).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "297d7f4f",
+      "audio": ""
+    },
+    {
+      "text": "Satellite lesions of cornea are caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bacteria",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fungi",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Viruses",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mixed infection",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Fungi",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cb2c0583",
+      "audio": ""
+    },
+    {
+      "text": "Dendritic keratitis is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herpes virus",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Streptococci",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Staphylococci",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Herpes virus",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fe53fe54",
+      "audio": ""
+    },
+    {
+      "text": "The most metabolically active layer of the cornea is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epithelium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stroma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Descemet\u2019s membrane",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Endothelium",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Endothelium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "794b7e7a",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with right sided field defects in both eyes, but central vision remains unaffected. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Homonymous Hemianopia with Macular Sparing",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Heteronymous Hemianopia with Central Sparing",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Optic Chiasm Lesion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Optic Tract Lesion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Homonymous Hemianopia with Macular Sparing",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d6dcd36",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with vision problems and has a history of cataract surgery. OCT finding is shown below. What is the syndrome most likely associated with these findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posner-Schlossman Syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Irvine-Gass Syndrome",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Central Serous Retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Elschnig Pearls",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Irvine-Gass Syndrome",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6(470).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2f3fa290",
+      "audio": ""
+    },
+    {
+      "text": "The cover-uncover test is performed to diagnose various eye conditions. Which of the following is NOT detected by this test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Latent Squint",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Manifest Squint",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Latent Nystagmus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amblyopia",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Amblyopia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f5115b4f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a side effect of PG analogue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uveitis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Orbital cellulitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Keratitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Uveitis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4b75c985",
+      "audio": ""
+    },
+    {
+      "text": "A 5 -year-old child presents with a refractive error of +1D in the left eye& -2D in the right eye. . Fundus examination reveals normal visual acuity and retinal findings. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myopia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hyperopia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anisometropia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Amblyopia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Anisometropia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0835b65d",
+      "audio": ""
+    },
+    {
+      "text": "A patient sustained blunt trauma to the eye 6 months ago and now presents with blurring of vision. What is the most likely condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iridodialysis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ankyloblepharaon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vossius Ring",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cycloiriditis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Iridodialysis",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/10(327).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "38177d12",
+      "audio": ""
+    },
+    {
+      "text": "A 5-month-old baby is brought by the mother with complaints of the left upper eyelid moving up and down during breastfeeding or thumb sucking, which disappears when the baby is not being fed. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marcus Gunn Jaw-Winking Syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lagophthalmos",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Myasthenia Gravis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3rd CN palsy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Marcus Gunn Jaw-Winking Syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8a2a93f0",
+      "audio": ""
+    },
+    {
+      "text": "A patient has a history of a flying foreign body injury to the eye. Ocular findings revealed iris pigmentation. Which of the following substances is most likely involved in the deposition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Aluminum",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Wood",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Glass",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Iron",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "576a82d8",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is correct regarding indirect ophthalmoscopy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The image is erect and real.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The condenser lens needs to be kept close to the eye.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It provides 15x magnification.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It provides 3-5x magnification.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. It provides 3-5x magnification.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9297955a",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with breathlessness and is diagnosed with a Pancoast tumor. Which of the following findings is not typically associated with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anhidrosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Miosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ptosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Exophthalmos",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Exophthalmos",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "82d2395a",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with proptosis that increases when bending down. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Orbital Varices",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thyroid Eye Disease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cavernous Sinus Thrombosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Orbital Cellulitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Orbital Varices",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bc930631",
+      "audio": ""
+    },
+    {
+      "text": "A patient visits emergency with history of trauma and following radiological image is obtaine: What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inferior wall fracture",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Orbital cellulitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lateral wall fracture",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Osteomeatal fracture",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Inferior wall fracture",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/16(196).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "89619709",
+      "audio": ""
+    },
+    {
+      "text": "A corneal wisp test was performed, and the corneal reflex was elicited. Which of the following nerves is responsible for the afferent limb of this reflex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Facial Nerve",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trigeminal Nerve",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Oculomotor Nerve",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Abducens Nerve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Trigeminal Nerve",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dd2ed3ee",
+      "audio": ""
+    },
+    {
+      "text": "Steroids are contraindicated in",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phlyctenular conjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Disciform keratitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mooren\u2019s ulcer",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dendritic ulcer",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Dendritic ulcer",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7622484f",
+      "audio": ""
+    },
+    {
+      "text": "Arcus senilis is due to deposition of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lipid",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hyaline",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Calcium",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Lipid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4a682282",
+      "audio": ""
+    },
+    {
+      "text": "Munson\u2019s sign is positive in",
+      "options": [
+        {
+          "label": "A",
+          "text": "Episcleritis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Keratoconus",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cataract",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Keratoconus",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "baa45d22",
+      "audio": ""
+    },
+    {
+      "text": "Pannus in trachoma consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Superficial vascularisation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Deep vascularisation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytic infiltration with vascularisation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hyaline infilteration and elastotic degeneration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Lymphocytic infiltration with vascularisation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1bae1ce3",
+      "audio": ""
+    },
+    {
+      "text": "Arlt\u2019s line is seen in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horizontal scar in lower palpebral conjunctiva",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Horizontal scar in upper palpebral conjunctiva",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Vertical scar in lower palpebral conjunctiva",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vertical scar in upper palpebral conjunctiva",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Horizontal scar in upper palpebral conjunctiva",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "78b3b961",
+      "audio": ""
+    },
+    {
+      "text": "Fascicular ulcer is a feature of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vernal keratoconjunctivitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phlyctenular keratoconjunctivitis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ophthalmia neonatorum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Xerophthalmia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Phlyctenular keratoconjunctivitis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "56010f29",
+      "audio": ""
+    },
+    {
+      "text": "Identify the sign in the given pic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kayser Fleisher ring",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vossius ring",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fleisher ring",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Weiss ring",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Vossius ring",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/24(111).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5783e8a5",
+      "audio": ""
+    },
+    {
+      "text": "Commonest cause of benign Intra orbital tumor in childhood is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Demoid cyst",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Retinoblastoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chroidal melanoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Iris naveus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Demoid cyst",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3c60ea39",
+      "audio": ""
+    },
+    {
+      "text": "What is the probable diagnosis of the image?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moderate Non- Proliferative Diabetic Retinopathy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Proliferative Diabetic Retinopathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypertensive retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Exudative Age related macular degeneration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Moderate Non- Proliferative Diabetic Retinopathy",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/26(83).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9459aa61",
+      "audio": ""
+    },
+    {
+      "text": "On retinoscopy, X axis is -3.5; Y axis is -1. Homatropine was used, distance 1 meter. What will be the final prescription.",
+      "options": [
+        {
+          "label": "A",
+          "text": "-5.00 D sph, +2.5 D cylinder 180",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "-2.5 D sph, -3 D cylinder 180",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "+2.5 D sph, -5 D cyl 180 degree",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "\u2013 3.5 D sph, +2.5 d cyl 180 degree",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. -5.00 D sph, +2.5 D cylinder 180",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "88c2818b",
+      "audio": ""
+    },
+    {
+      "text": "A 20 year old patient came to opd with bilateral irritation and itching in eyes,on examination, following picture is obtained, All are true except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antibiotic eye drops are to be administered",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "More common in summers",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Corneal ulcer may develop",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "More common in males",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Antibiotic eye drops are to be administered",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/28(82).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d6cab306",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is synergistic muscle of Left Lateral rectus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Right Superior Oblique",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Left Inferior Oblique",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Left medial rectus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Right lateral rectus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Left Inferior Oblique",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e21ceb09",
+      "audio": ""
+    },
+    {
+      "text": "Fasanella Servat procedure is done for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe ptosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mild ptosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cicatricial ptosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Jaw-Winking phenomenon",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mild ptosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e0499119",
+      "audio": ""
+    },
+    {
+      "text": "Fundus of a young patient shows pigment along retinal midperiphery and waxy pale disc. The diagnosis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retinitis pigmentosa",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Diabetic retinopathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Central serous retinopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lattice degeneration of retina",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Retinitis pigmentosa",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/31(66).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "45e046a2",
+      "audio": ""
+    },
+    {
+      "text": "A 40 year old female visits eye OPD with Acute congestive glaucoma. On examination, Cornea is hazy, ciliary congestion, Shallow Anterior chamber. What will be the best treatment in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laser iridotomy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Latanoprost",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Peripheral iridectomy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Goniotomy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Peripheral iridectomy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d96ae000",
+      "audio": ""
+    },
+    {
+      "text": "What is the treatment of choice in a 2 year patient with Presence of buphthalmos and haab striae?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Start Dorzolamide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Goniotomy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trabeculectomy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Combined trabeculectomy & Trabeculotomy",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Combined trabeculectomy & Trabeculotomy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ad121199",
+      "audio": ""
+    },
+    {
+      "text": "Manifest blindness is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Va 3/60-6/60",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Va 3/60-1/60",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PR PL Negative",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Va< 1/60",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Va< 1/60",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "91c95b18",
+      "audio": ""
+    },
+    {
+      "text": "WOF is correct:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Riders are seen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Vision <6/60",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Phacoemulsification is done",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "M/c congenital cataract",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Vision <6/60",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/35(60).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "36f20290",
+      "audio": ""
+    },
+    {
+      "text": "The following chart is used to detect:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Near vision in adults",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Visual acuity in children",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Contrast sensitivity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Amblyopia in children",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Contrast sensitivity",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/36(67).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aea7fa12",
+      "audio": ""
+    },
+    {
+      "text": "Which sign do you see?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Von graefe sign",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dalrymple sign",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Stellwag sign",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hutchinson sign",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Dalrymple sign",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/37(56).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "21864eae",
+      "audio": ""
+    },
+    {
+      "text": "Shape of the orbit is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Square",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rectangle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pyramidal",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Triangular",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pyramidal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "74e3a71f",
+      "audio": ""
+    },
+    {
+      "text": "6 days after cataract surgery, the patient visits eye opd with complaint of sudden painful loss of vision. The following image is seen. How will you manage",
+      "options": [
+        {
+          "label": "A",
+          "text": "Topical antibiotics",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Topical steroids",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intravitreal Antibiotics",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Intrastromal antibiotic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Intravitreal Antibiotics",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/39(46).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3578c6ce",
+      "audio": ""
+    },
+    {
+      "text": "Enculeation means",
+      "options": [
+        {
+          "label": "A",
+          "text": "Removal of contents of globe",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Removal of the content of the globe and all of sclera except for a frill around the optic nerve",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Removal of entire globe along with a portion of optic nerve",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Removal of the entire contents of orbit",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Removal of entire globe along with a portion of optic nerve",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fe23c01e",
+      "audio": ""
+    }
+  ]
+}

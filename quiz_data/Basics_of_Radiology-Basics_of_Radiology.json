@@ -1,0 +1,888 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Basics_of_Radiology-Basics_of_Radiology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "What is the primary difference between axial and helical CT scanning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Axial CT uses contrast agents, while helical CT does not.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Axial CT scans in single slices, while helical CT scans continuously in a spiral.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Helical CT requires more radiation than axial CT.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Axial CT produces 3D images, while helical CT produces 2D images.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Axial CT scans in single slices, while helical CT scans continuously in a spiral.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Axial CT</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Helical CT</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Axial CT scans acquire images in <span class=\"customMeta\" data-dictid=\"635650799116927771862d7cb568f4\">discrete</span> slices or cross-sections of the body. The <span class=\"customMeta\" data-dictid=\"699a8762f1169277719832609cf10a\">scanner</span> rotates around the patient, capturing one slice at a time.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Helical CT scans acquire images continuously in a <span class=\"customMeta\" data-dictid=\"0b34a9891d16927771998a84595013\">spiral</span> pattern as the patient moves through the scanner.</li>\n<li>This allows for a continuous data stream and overlapping slices.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Data Acquisition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>The table holding the patient moves in small increments between scans.</li>\n<li>After each slice is acquired, the table stops to allow for the next slice to be taken.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>The <span class=\"customMeta\" data-dictid=\"699a8762f1169277719832609cf10a\">scanner</span> rotates around the patient while the table moves through the gantry simultaneously, resulting in a <span class=\"customMeta\" data-dictid=\"0b34a9891d16927771998a84595013\">spiral</span> path of data collection.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Scan Time </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>Generally longer due to the stepwise approach, as the table must move and stop for each slice.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>Much faster than <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> CT, as the entire area can be scanned in a single breath-hold, which is beneficial for patients who may have difficulty remaining still.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Image Quality </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>Typically provides high-resolution images, making it <strong>ideal for detailed examinations, especially of the brain </strong>and other structures.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>Provides good quality images and can be processed for <strong>3D reconstructions</strong>, making it useful for dynamic studies and quick imaging.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>High-resolution images, ideal for detailed examinations.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>Faster scans, less motion artifact, and the ability to reconstruct images in multiple planes.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Disadvantages </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>Longer scan times and may be less effective for dynamic imaging.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<ul>\n<li>May require higher radiation doses depending on parameters and can have slightly lower image resolution compared to <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> scans.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:627px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Axial CT </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Helical CT </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acquisition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Single slices, stepwise motion</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Continuous, <span class=\"customMeta\" data-dictid=\"0b34a9891d16927771998a84595013\">spiral</span> motion</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Scan Time</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Longer scan time</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Faster scan time</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Image Quality</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High resolution</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Good quality, can create 3D images</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Clinical Use</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Detailed examinations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Emergency cases, dynamic studies</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "323bc60a"
+    },
+    {
+      "text": "Which of the following imaging modalities requires the use of iodinated contrast for both diagnostic and therapeutic purposes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CT Angiography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MRA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "DSA - Fluoroscopy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both A and C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. DSA - Fluoroscopy",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/KodXqN5xEpPMExbpqRpd1743783131.png",
+        "https://image.prepladder.com/notes/W3jT7ph0hPDcLaxwMJXh1743783184.png",
+        "https://image.prepladder.com/notes/CLfzHISchYS9YYS29mxh1743783241.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:640px\">\n<thead>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\u00a0</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>CT Angiography</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>MRA</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>DSA - Fluoroscopy</strong></p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\"><strong>Vessels</strong></th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p style=\"text-align:left\">White</p>\n<p style=\"text-align:left\"><img alt=\"RA929\" data-author=\"\" data-hash=\"7536\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/KodXqN5xEpPMExbpqRpd1743783131.png\"/></p>\n</th>\n<th scope=\"col\" style=\"text-align:left; vertical-align:top\">\n<p>White</p>\n<p><img alt=\"RA930\" data-author=\"\" data-hash=\"7537\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/W3jT7ph0hPDcLaxwMJXh1743783184.png\"/></p>\n</th>\n<th scope=\"col\" style=\"text-align:left; vertical-align:top\">\n<p>Black/white (fluoroscopy gives inverted images).</p>\n<p><img alt=\"RA930\" data-author=\"\" data-hash=\"7538\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/CLfzHISchYS9YYS29mxh1743783241.png\"/></p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Contrast</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Essential</p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<ul>\n<li style=\"text-align:left\">It <strong>can be done without contrast</strong>. TOF sequence (time of flight)</li>\n<li>It<strong> can be used in <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> failure patients.</strong> (without gadolinum since <span class=\"customMeta\" data-dictid=\"e3767003061692777187b931c6a08f\">gadolinium</span> is nephrotoxic)</li>\n</ul>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Essential</p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Type of contrast</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Iodinated contrast</p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Gadolinium</p>\n<p><strong>(Option B ruled out)</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Iodinated contrast</p>\n</th>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:97px\">\n<p><strong>Route of contrast</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<ul>\n<li>IV</li>\n<li>Non-invasive</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:179px\">\n<ul>\n<li>IV</li>\n<li>Non-invasive</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:203px\">\n<ul>\n<li>Intra-arterial contrast (catheter angiography)</li>\n<li>Invasive.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:97px\">\n<p><strong>Application</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:161px\">\n<p>Diagnostic</p>\n<p><strong>(Option A and D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:179px\">\n<p>Diagnostic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:203px\">\n<p>Both <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">diagnostic</span> and <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> <strong>(Option C)</strong></p>\n</td>\n</tr>\n</thead>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1054bce1"
+    },
+    {
+      "text": "A 38 year old woman presents with chronic pelvic pain and menorrhagia due to multiple uterine fibroids. She is exploring non-invasive treatment options and wishes to avoid surgery. Her gynecologist suggests high-intensity focused ultrasound (HIFU) as a potential treatment. What is the primary mechanism by which HIFU treats uterine fibroids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HIFU emits continuous low-energy ultrasound waves that dissolve fibroid tissue through vibration.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "HIFU directs focused ultrasound energy to induce thermal damage and coagulation necrosis within the fibroid.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "HIFU causes cavitation within blood vessels, disrupting the fibroid\u2019s blood supply and leading to ischemia.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HIFU uses ultrasound energy to fragment fibroid tissue through mechanical shearing forces.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. HIFU directs focused ultrasound energy to induce thermal damage and coagulation necrosis within the fibroid.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:680px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Therapeutic applications of USG- High-intensity focused <span class=\"customMeta\" data-dictid=\"b93d06140916927772017ebc71db88\">ultrasonography</span> (HIFU)</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mechanism</p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Uses high-intensity <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> waves focused on a specific target area, delivering <span class=\"customMeta\" data-dictid=\"8fb8df140b1692777191702bbc9358\">localized</span> energy while minimizing damage to surrounding tissues.</li>\n</ul>\n<ul>\n<li>Thermal Effects: Heat from <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> energy leads to <span class=\"customMeta\" data-dictid=\"42f1e4deb8169277718412c0681a54\">coagulation</span> necrosis.</li>\n<li>Cavitation Effects: Formation and collapse of <span class=\"customMeta\" data-dictid=\"765399221b1692777192562a473adc\">microbubbles</span> generate mechanical forces for tissue destruction.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Applications</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Bleeding Sites: Coagulates vessels to stop bleeding.</li>\n<li>Uterine Fibroids: Induces <span class=\"customMeta\" data-dictid=\"5e84a7987c16927771931012aced83\">necrosis</span> in <span class=\"customMeta\" data-dictid=\"6dc32fa81216927772024a5075bf66\">fibroid</span> tissue, causing shrinkage.</li>\n<li>Tumours: Destroys tumour cells in organs like the prostate, liver and breast while sparing healthy tissues.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Limitations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Gas or Bone Interference: <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">Ultrasound</span> waves can be scattered or <span class=\"customMeta\" data-dictid=\"014b1a7b931692777197f57251720d\">reflected</span> by gas or bone, reducing effectiveness.</li>\n<li>Unintended Tissue Damage: Heating and damage can occur to normal tissue, especially near reflectors like <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> gas or bone.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Guidance Systems</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ultrasound Guidance: <span class=\"customMeta\" data-dictid=\"9ddd195e9a1692777197bb3f135c2e\">Real-time</span> <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> for accurate targeting.</li>\n<li>MRI Guidance: Monitors tissue temperature during treatment, allowing better control of <span class=\"customMeta\" data-dictid=\"e316517c941692777200eb2671128d\">thermal</span> effects.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "eaa34cda"
+    },
+    {
+      "text": "A 62 year old woman with a history of hepatic metastases undergoes an ultrasound study using contrast-enhanced ultrasonography (CEUS) for liver lesion characterization. CEUS employs microbubbles that improve imaging of small vessels and capillaries. Which of the following is a primary advantage of CEUS compared to traditional contrast-enhanced CT or MRI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CEUS allows targeted drug delivery in specific lesions",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CEUS allows real-time imaging with enhanced lesion detection",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CEUS is a safe alternative for patients with renal impairment",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. CEUS is a safe alternative for patients with renal impairment",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:753px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Contrast-Enhanced <span class=\"customMeta\" data-dictid=\"b93d06140916927772017ebc71db88\">Ultrasonography</span> (CEUS)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Basic Principle</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Uses <span class=\"customMeta\" data-dictid=\"765399221b1692777192562a473adc\">microbubbles</span> (3-5 \u00b5m) as contrast agents</li>\n<li>Microbubbles contain gases (air, nitrogen, perfluorocarbons) which are <span class=\"customMeta\" data-dictid=\"e26ba9a1d41692777187d0ad03a8c1\">encapsulated</span> in <span class=\"customMeta\" data-dictid=\"1fa594dc2b169277718104d76aa4e2\">albumin</span> or <span class=\"customMeta\" data-dictid=\"a3a38a650a16927771959a6595f93a\">phospholipid</span> shells</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mechanism</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Microbubbles create <span class=\"customMeta\" data-dictid=\"54d290087e1692777180c6cc682930\">acoustic</span> <span class=\"customMeta\" data-dictid=\"5506888d131692777189948dbb6f26\">impedance</span> mismatch</p>\n<p>\u2193</p>\n<p>Generate nonlinear harmonic frequencies</p>\n<p>\u2193</p>\n<p>Enables <span class=\"customMeta\" data-dictid=\"33ba8d60fb16927772029d1067e602\">visualization</span> of small vessels/capillaries</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Uses</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Liver <span class=\"customMeta\" data-dictid=\"d5e7bb15851692777191b39417c26a\">lesion</span> characterization</li>\n<li>Intervention guidance</li>\n<li>Treatment response monitoring</li>\n<li>Vascular flow assessment</li>\n<li>Non-vascular uses (e.g., <span class=\"customMeta\" data-dictid=\"a970a38e85169277720171bea632e7\">tubal</span> patency)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Advantages / Limitations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Advantages\n\t\t\t\t<ul>\n<li>Enhanced <span class=\"customMeta\" data-dictid=\"d5e7bb15851692777191b39417c26a\">lesion</span> detection</li>\n<li>Potential for targeted drug delivery</li>\n<li>Safe alternative to CT/MRI contrast</li>\n<li>Enables non-invasive pressure measurements</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "53337f1f"
+    },
+    {
+      "text": "A 45 year old woman presents to the emergency department with dull abdominal pain. An ultrasound of the abdomen is performed, and a cystic structure is seen in the right kidney. The ultrasound technician notes increased echogenicity behind the cystic structure. Which of the following best explains this ultrasound finding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Posterior Acoustic shadowing",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Posterior acoustic enhancement",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reverberation artifact",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Comet tail artifact",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Posterior acoustic enhancement",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/jkBD7qL7dTLu5N97sh3t1743782814.png",
+        "https://image.prepladder.com/notes/1Ym0Y3eTw1dtGamxtfmP1743782858.png",
+        "https://image.prepladder.com/notes/SLcSNzWEiDxwHSxQy8rs1743782933.png",
+        "https://image.prepladder.com/notes/Mfft1QWWblu6dzwwmPrl1743782981.png"
+      ],
+      "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"text-align:center\">\n<p><strong>Black and white principles of USG</strong></p>\n<p><img alt=\"RA925\" data-author=\"\" data-hash=\"7532\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/jkBD7qL7dTLu5N97sh3t1743782814.png\"/></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Posterior <span class=\"customMeta\" data-dictid=\"54d290087e1692777180c6cc682930\">Acoustic</span> Enhancement</strong></p>\n<img alt=\"RA926\" data-author=\"\" data-hash=\"7533\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/1Ym0Y3eTw1dtGamxtfmP1743782858.png\"/></td>\n<td>\n<ul>\n<li>Ultrasound artifact where tissues behind fluid appear brighter</li>\n<li>Occurs because fluid causes less <span class=\"customMeta\" data-dictid=\"22818451b71692777182237914a233\">attenuation</span> of <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> waves</li>\n<li>Mechanism:</li>\n</ul>\n<p style=\"text-align:center\">Ultrasound beam encounters fluid-filled structure</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\">Less energy lost passing through fluid vs. surrounding tissue</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\">More energy reaches tissues behind fluid</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\">Result: Increased <span class=\"customMeta\" data-dictid=\"90fde6a24316927771869acda3aa9c\">echogenicity</span> (brightness) <span class=\"customMeta\" data-dictid=\"a5c6cb079d16927771967e62ffee72\">posterior</span> to fluid</p>\n<p>\u00a0</p>\n<ul>\n<li>Helpful For Identifying:\n\t\t\t\t<ul>\n<li>Cysts</li>\n<li>Bladder</li>\n<li>Ascites</li>\n<li>Other fluid-filled structures</li>\n</ul>\n</li>\n<li>Can cause misinterpretation:\n\t\t\t\t<ul>\n<li>Example: Kidneys viewed through <span class=\"customMeta\" data-dictid=\"a1146fb9d8169277718250cf1224a8\">ascites</span> may appear falsely hyperechoic</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Posterior <span class=\"customMeta\" data-dictid=\"54d290087e1692777180c6cc682930\">Acoustic</span> shadowing</strong></p>\n<p><strong>(Option A ruled out)</strong></p>\n<img alt=\"RA927\" data-author=\"\" data-hash=\"7534\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/SLcSNzWEiDxwHSxQy8rs1743782933.png\"/><br/>\n\t\t\t\u00a0</td>\n<td>\n<ul>\n<li>Ultrasound artifact appearing as dark area behind highly attenuating structures</li>\n<li>Results from significant reduction in <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> intensity</li>\n<li>Mechanism:</li>\n</ul>\n<p style=\"text-align:center\">Ultrasound beam hits highly reflective/attenuating structure</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\">Most sound waves are blocked or reflected</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\">Little to no energy reaches tissues behind structure</p>\n<p style=\"text-align:center\">\u2193</p>\n<p style=\"text-align:center\">Result: Dark (hypoechoic) area appears on image</p>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Helpful For Identifying:\n\t\t\t\t<ul>\n<li>Calcifications</li>\n<li>Stones</li>\n<li>Foreign bodies</li>\n<li>Bone</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "26a0206a"
+    },
+    {
+      "text": "A 45 year old female patient presents for a carotid Doppler ultrasound due to complaints of transient ischemic attacks. During the examination, the radiologist notices that the displayed velocity of blood flow in the carotid artery appears higher than expected. Upon reviewing the images, he suspects an artifact affecting the velocity measurements. Which artifact is most likely responsible for the incorrect velocity display, and what is the best method to mitigate it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aliasing; mitigate by increasing the pulse repetition frequency (PRF).",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Blooming; mitigate by increasing the wall filter settings.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Direction Ambiguity; mitigate by adjusting the beam angle to be more parallel to the flow.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Twinkle Artifact; mitigate by adjusting the color gain settings.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Aliasing; mitigate by increasing the pulse repetition frequency (PRF).",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Artifact</strong></th>\n<th><strong>Appearance</strong></th>\n<th><strong>Best Solution</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Aliasing</strong></td>\n<td>Wrap-around <span class=\"customMeta\" data-dictid=\"19d250592b1692777202f372a17f05\">waveform</span> or reversed color</td>\n<td><strong>Increase PRF</strong>, lower frequency, shift baseline</td>\n</tr>\n<tr>\n<td>Blooming</td>\n<td>Overfilled color/velocity extending beyond vessel wall</td>\n<td>Reduce gain, optimize wall filters</td>\n</tr>\n<tr>\n<td>Direction Ambiguity</td>\n<td>Flow appears in both directions</td>\n<td>Use angle correction, reduce sample volume</td>\n</tr>\n<tr>\n<td>Twinkle Artifact</td>\n<td>Color speckling behind calcified area</td>\n<td>Lower color gain or change angle</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:759px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u00a0</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a1a4cacd"
+    },
+    {
+      "text": "A 35-year-old patient presents to the emergency department with chest pain and shortness of breath following a traumatic injury. M-mode ultrasound is utilized to assess pneumothorax. Which specific ultrasound finding would indicate the absence of a pneumothorax?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absence of pleural sliding",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Barcode sign (stratosphere sign)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Absence of diaphragmatic movement",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Seashore sign",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Seashore sign",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/JOFkgIxywqmwdD1AN3v11743782362.png",
+        "https://image.prepladder.com/notes/6wJLKraISvsw283QfxvH1743782396.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:730px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>M-mode Ultrasound</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>M-mode (Motion mode) uses a rapid sequence of B-mode scans to track organ movement relative to the probe.</li>\n<li>It captures motion over time, providing clinicians with a dynamic view of structure movements, which is crucial for assessing processes that <span class=\"customMeta\" data-dictid=\"0e0dce452a1692777198212234f2f0\">static</span> 2D <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> cannot.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Applications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pneumothorax</strong>: Detects air in the pleural space by visualizing pleural movement.</li>\n<li><strong>Left <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">Ventricular</span> Function</strong>: Assesses heart performance via measurements like E-point septal separation.</li>\n<li><strong>Cardiac Tamponade</strong>: Detects fluid around the heart.</li>\n<li><strong>Hypertrophic Cardiomyopathy</strong>: Evaluates <span class=\"customMeta\" data-dictid=\"458e050fdc16927771809854c9fd53\">abnormal</span> thickening of the heart muscle.</li>\n<li><strong>Diaphragmatic Kinetics</strong>: Reliable for measuring <span class=\"customMeta\" data-dictid=\"06ff18f51216927771867fe1461a04\">diaphragmatic</span> movement, both at rest and during forced breathing.</li>\n<li><strong>Echocardiography</strong>: Measures heart function through <span class=\"customMeta\" data-dictid=\"d93de7238d16927771922b27cb6086\">mitral</span> (MAPSE) and <span class=\"customMeta\" data-dictid=\"3ab13cdf64169277720085e2ebef1c\">tricuspid</span> (TAPSE) <span class=\"customMeta\" data-dictid=\"96f5104d6816927771816ac8dfceeb\">annular</span> plane <span class=\"customMeta\" data-dictid=\"cf69f5256416927771991c21f264ae\">systolic</span> excursions.</li>\n<li><strong>Volume Status:</strong> Evaluates fluid status via <span class=\"customMeta\" data-dictid=\"49c4ef5b9d1692777190c0277f8344\">inferior</span> and superior <span class=\"customMeta\" data-dictid=\"3ddf6d5ea71692777201b70c8b9715\">vena</span> <span class=\"customMeta\" data-dictid=\"67544ba6ef16927771835d4641cc8f\">cava</span> diameters.</li>\n<li>Identifies issues like <strong>systolic <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">anterior</span> motion</strong> of the <span class=\"customMeta\" data-dictid=\"d93de7238d16927771922b27cb6086\">mitral</span> <span class=\"customMeta\" data-dictid=\"416dd1004a169277720177d9a6adc5\">valve</span> and <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> tamponade.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High <span class=\"customMeta\" data-dictid=\"637ea4d17516927772003be2b2aae4\">temporal</span> resolution, offering precise timing of motion.</li>\n<li>Quick and easy to perform, even for less experienced users.</li>\n<li>Applicable across various clinical settings.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9e3c61cf"
+    },
+    {
+      "text": "Which of the following statements accurately distinguishes between A-scan from B-scan ultrasound in ophthalmology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-scan provides a two-dimensional image, while B-scan provides a one-dimensional image.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-scan is primarily used to measure axial length, whereas B-scan is used to visualize internal ocular structures.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "B-scan displays spikes on a graph, while A-scan displays a dotted section of the eyeball.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A-scan requires the probe to be applied on the eyelids, while B-scan requires direct contact with the cornea.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. A-scan is primarily used to measure axial length, whereas B-scan is used to visualize internal ocular structures.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/zc9UfrsBO0rHak3Ng3Pl1743782184.png",
+        "https://image.prepladder.com/notes/QBKQov5pSZ0VVcM0jnch1743782228.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A-Scan (Time Amplitude)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>B-Scan (Intensity Modulation)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dimension</strong></p>\n<p><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>One-dimensional</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Two-dimensional</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Probe size</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Smaller</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Larger</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Method</strong></p>\n<p><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The patient's eye is numbed with <span class=\"customMeta\" data-dictid=\"4b83ec31581692777181547f1a89ef\">anesthetic</span> drops, and a small <span class=\"customMeta\" data-dictid=\"5ef5bf3cf91692777180fcdd4bde7b\">A-scan</span> <span class=\"customMeta\" data-dictid=\"175eb86b5f16927771964d5ced6bf3\">probe</span> is applied to the <span class=\"customMeta\" data-dictid=\"4cc4d657841692777185555e1b982d\">cornea</span> to collect measurements.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The B scan <span class=\"customMeta\" data-dictid=\"175eb86b5f16927771964d5ced6bf3\">probe</span> is softly positioned on the eyelids as the patient gazes in different directions to obtain various angles.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purpose</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> length</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Visualizes internal structures</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Display</strong></p>\n<p><strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Spikes on graph</li>\n<li>Interpretation:\n\t\t\t\t<ul>\n<li>Spike distance = tissue measurement</li>\n<li>Spike height = tissue density</li>\n<li>High spikes: cornea, lens, sclera</li>\n<li>Low spikes: <span class=\"customMeta\" data-dictid=\"636ccb4336169277720289af6a0778\">vitreous</span> structures</li>\n</ul>\n</li>\n</ul>\n<p><img alt=\"RA920\" data-author=\"\" data-hash=\"7527\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/zc9UfrsBO0rHak3Ng3Pl1743782184.png\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dotted section of eyeball</p>\n<p><img alt=\"RA921\" data-author=\"\" data-hash=\"7528\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/QBKQov5pSZ0VVcM0jnch1743782228.png\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:90px\">\n<p><strong>Uses</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:272px\">\n<ul>\n<li>IOL power calculation (biometry)</li>\n<li>Anterior chamber depth measurement</li>\n<li>Intraocular mass <span class=\"customMeta\" data-dictid=\"facd67f6341692777200653d383689\">thickness</span> assessment</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:262px\">\n<ul>\n<li>Posterior segment evaluation with <span class=\"customMeta\" data-dictid=\"1b8aa0db391692777194178f73c98c\">opaque</span> media</li>\n<li>Tumor assessment:\n\t\t\t\t<ul>\n<li>Intraocular</li>\n<li>Orbital</li>\n</ul>\n</li>\n<li>Foreign body localization:\n\t\t\t\t<ul>\n<li>Intraocular</li>\n<li>Intraorbital</li>\n</ul>\n</li>\n<li>Advantage: Easier interpretation of structure location/size</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6e73c3de"
+    },
+    {
+      "text": "Match each type of ultrasound probe with its primary use. Probe Primary Use 1) a) Vascular, high-resolution imaging 2) b) Cardiac, endocavitary, neonatal brain 3) c) Abdominal, OBS/GYN",
+      "options": [
+        {
+          "label": "A",
+          "text": "1b,2a,3c",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1a,2b,3c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1c,2a,3b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1a,2c,3b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1b,2a,3c",
+      "question_images": [
+        "https://image.prepladder.com/notes/E5qlFpcNi12VXMJvgsE11743781739.png",
+        "https://image.prepladder.com/notes/SaJvI15Z4L8MFUVIPar71743781761.png",
+        "https://image.prepladder.com/notes/E1XgRcn87TDbJ5J8y7xe1743781792.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/SaJvI15Z4L8MFUVIPar71743781761.png",
+        "https://image.prepladder.com/notes/E1XgRcn87TDbJ5J8y7xe1743781792.png",
+        "https://image.prepladder.com/notes/E5qlFpcNi12VXMJvgsE11743781739.png"
+      ],
+      "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"text-align:center\"><strong>Types of <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">Ultrasound</span> Transducers/ Probes</strong></td>\n</tr>\n<tr>\n<td><strong>Linear</strong></td>\n<td>\n<ul>\n<li>Shape: Rectangular/parallelogram image</li>\n<li>Use:<strong> Vascular, high-resolution imaging</strong></li>\n</ul>\n<img alt=\"RA918\" data-author=\"\" data-hash=\"7525\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"734\" src=\"https://image.prepladder.com/notes/SaJvI15Z4L8MFUVIPar71743781761.png\" width=\"400\"/></td>\n</tr>\n<tr>\n<td>\n<p><strong>Convex</strong></p>\n</td>\n<td>\n<ul>\n<li>Shape: Sector image, curved top</li>\n<li>Use: <strong>Abdominal, OBS/ GYN</strong></li>\n</ul>\n<img alt=\"RA919\" data-author=\"\" data-hash=\"7526\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"627\" src=\"https://image.prepladder.com/notes/E1XgRcn87TDbJ5J8y7xe1743781792.png\" width=\"400\"/></td>\n</tr>\n<tr>\n<td><strong>Phased Array</strong></td>\n<td>\n<ul>\n<li>Shape: Sector image, pointed top</li>\n<li>Use: <strong>Cardiac (fits between ribs), endocavitary (like endovaginal), <span class=\"customMeta\" data-dictid=\"77493a5b781692777193df12530299\">neonatal</span> brain</strong></li>\n</ul>\n<img alt=\"RA917\" data-author=\"\" data-hash=\"7524\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"740\" src=\"https://image.prepladder.com/notes/E5qlFpcNi12VXMJvgsE11743781739.png\" width=\"400\"/></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:152px\">\n<p><strong>Vector/ Trapezoidal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:430px\">\n<ul>\n<li>Shape: Trapezoidal image</li>\n<li>Use: <strong>Abdominal, cardiac, Doppler</strong></li>\n<li>Features: <span class=\"customMeta\" data-dictid=\"b3c8df9e991692777189929b113142\">Hybrid</span> of <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> & phased</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:198px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ultrasound Transducers/ Probes</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Uses piezoelectric crystals to convert electrical \u2194 sound energy</li>\n<li>Frequency choice: Depth dependent\n\t\t\t\t<ul>\n<li>Lower (3.5 MHz) = deeper tissues</li>\n<li>Higher (5+ MHz) = superficial/pediatric</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Key Principles\n\t\t\t\t<ul>\n<li>Frequency \u221d 1/crystal thickness</li>\n<li>Higher frequency = less <span class=\"customMeta\" data-dictid=\"31dd0b58bb1692777195e6016ecd51\">penetration</span> but better resolution</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1692a560"
+    },
+    {
+      "text": "What is the primary reason for applying ultrasound gel during an ultrasound examination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance image contrast",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To act as a lubricant for easier probe movement",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "To eliminate air pockets between the probe and skin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "To cool down the transducer while in constant use",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. To eliminate air pockets between the probe and skin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:613px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ultrasound Gel</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purpose of Gel</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Eliminates air pockets between <span class=\"customMeta\" data-dictid=\"175eb86b5f16927771964d5ced6bf3\">probe</span> and skin</strong><strong> </strong>for <strong>effective </strong>sound transmission. <strong>(Option C)</strong></li>\n<li>Serves as a medium for sound and lubricant.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Preferred Gel</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hydrogel </strong>is preferred over Lipogel for easier cleaning.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ingredients</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Distilled water, carbomer, <span class=\"customMeta\" data-dictid=\"7f4fb60ca816927771876ae5f619eb\">ethylenediaminetetraacetic acid</span> (EDTA), <span class=\"customMeta\" data-dictid=\"e2c0074e9c1692777196b2028a4274\">propylene</span> glycol, glycerin, trolamine, and occasionally contains blue colorant.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Infection Control</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Cover <span class=\"customMeta\" data-dictid=\"f3d6ae0bcd16927772005689a33dba\">transducer</span> and skin with plastic for patients with open wounds or skin issues.</p>\n<p style=\"text-align: center;\">\u2193</p>\n<p style=\"text-align: center;\">Apply <span class=\"customMeta\" data-dictid=\"b0bdc3a1d416927771884d50c944ec\">gel</span> on both sides of the plastic.</p>\n<p style=\"text-align: center;\">\u2193</p>\n<p style=\"text-align: center;\">Clean <span class=\"customMeta\" data-dictid=\"f3d6ae0bcd16927772005689a33dba\">transducer</span> after each use</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5cd4f106"
+    },
+    {
+      "text": "Which among the following is a common clinical application of dual-energy CT (DECT)? Detection of intracranial hemorrhage B) Differentiation between gout and pseudogout crystals C) Removal of calcium from carotid arteries in head and neck angiography D) Quantification of liver fat in hepatic steatosis E) Reduction of artifacts caused by metal implants F) Characterization of solitary lung nodules",
+      "options": [
+        {
+          "label": "A",
+          "text": "All except A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "All except E",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "All except A and C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:697px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Applications of DECT</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Central Nervous System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Removal of <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> from <span class=\"customMeta\" data-dictid=\"8593e48e0416927771834eaedb0bfd\">carotid</span> arteries in head and neck <span class=\"customMeta\" data-dictid=\"c67cc1bcd3169277718150b3c9d6ab\">angiography</span> <strong>(Option A and C ruled out)</strong><strong> (Option D)</strong></li>\n<li>Detection of <span class=\"customMeta\" data-dictid=\"cd42e0ddad1692777190d18c595ec5\">intracranial</span> <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> <strong>(Option A and C ruled out) </strong><strong> (Option D)</strong></li>\n<li>Elimination of bone structures in CT <span class=\"customMeta\" data-dictid=\"c67cc1bcd3169277718150b3c9d6ab\">angiography</span> to enhance <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> imaging</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cardiovascular System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Assessment of myocardial <span class=\"customMeta\" data-dictid=\"a8dece102f16927772026b199f06af\">viability</span> and blood flow</li>\n<li>Detection of iron deposits in the myocardium</li>\n<li>Evaluation of <span class=\"customMeta\" data-dictid=\"bc8bc758371692777185eff2ccabb7\">coronary</span> stents and calcified plaque</li>\n<li>Identification of aortic endoleaks post-repair</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thoracic System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Evaluation of <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> for diagnosing <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> embolism</li>\n<li>Characterization of <span class=\"customMeta\" data-dictid=\"9729ba172a1692777198c816c4ad9c\">solitary</span> lung nodules by measuring <span class=\"customMeta\" data-dictid=\"58c4fcb71116927771901e83ac026f\">iodine</span> concentration <strong> (Option D)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gastrointestinal System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Detection of <span class=\"customMeta\" data-dictid=\"566fcef0991692777184068f36db82\">colonic</span> masses and polyps during CT colonography</li>\n<li>Quantification of liver fat in <span class=\"customMeta\" data-dictid=\"51930ddfeb169277719982af86ec99\">steatosis</span> <strong> (Option D)</strong></li>\n<li>Detection of liver iron accumulation</li>\n<li>Identification of gallstones</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Urinary System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Identification and characterization of <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> stones for treatment planning</li>\n<li>Assessment and characterization of <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> cysts</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Musculoskeletal System</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Differentiation between <span class=\"customMeta\" data-dictid=\"0b216ac0561692777188160d9a8814\">gout</span> and <span class=\"customMeta\" data-dictid=\"866a5797da1692777196eae76838c4\">pseudogout</span> crystals <strong> (Option D)</strong></li>\n<li>Reduction of artifacts caused by metal implants <strong>(Option B ruled out) </strong><strong> (Option D)</strong></li>\n<li>Distinction of <span class=\"customMeta\" data-dictid=\"5b9831f3aa169277718395d7361df6\">bone marrow</span> <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> from trabecular bone to locate fractures and lesions</li>\n<li>Visualization of tendons and ligaments for better assessment</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7c48e292"
+    },
+    {
+      "text": "In which scenario would CECT be preferred over NCCT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaluating a fracture in a long bone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Assessing a lung nodule for malignancy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Diagnosing kidney stones",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Evaluating head trauma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Assessing a lung nodule for malignancy",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/JqyLpEyX5q0vqUWOnaN11743579205.png",
+        "https://image.prepladder.com/notes/KghJgZB8zaR4UqwFosHR1743579272.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Non-Contrast <span class=\"customMeta\" data-dictid=\"44b07c254816927771855a12777513\">Computed Tomography</span> (NCCT) </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Contrast-Enhanced <span class=\"customMeta\" data-dictid=\"44b07c254816927771855a12777513\">Computed Tomography</span> (CECT)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>NCCT refers to CT <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> performed without the use of <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> contrast agents.</p>\n<p><img alt=\"NCCT\" data-author=\"\" data-hash=\"6256\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/JqyLpEyX5q0vqUWOnaN11743579205.png\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CECT involves the administration of an <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> <span class=\"customMeta\" data-dictid=\"dbe88a287916927771845c7b3aa937\">contrast agent</span> to enhance the visibility of <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> structures and improve <span class=\"customMeta\" data-dictid=\"55a682d72e16927771865bb4855ba3\">differentiation</span> of tissues in the body.</p>\n<p><img alt=\"RA916\" data-author=\"\" data-hash=\"6257\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/KghJgZB8zaR4UqwFosHR1743579272.png\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong>:</p>\n<ul>\n<li><strong>Bone Injuries:</strong> Fractures, especially of the spine and long bones. <strong>(Option A ruled out)</strong></li>\n<li><strong>Kidney Stones:</strong> Evaluation of <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> <span class=\"customMeta\" data-dictid=\"eae898f16d1692777183cc3469a664\">calculi</span> (stones) and <span class=\"customMeta\" data-dictid=\"0b72f5e96b16927772018dec8a87e2\">urinary</span> <span class=\"customMeta\" data-dictid=\"1a1307223f16927772017a994bfc39\">tract</span> obstruction. <strong>(Option C ruled out)</strong></li>\n<li><strong>Head Trauma:</strong> Detecting <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> or skull fractures.<strong> (Option D ruled out)</strong></li>\n<li><strong>Acute Abdomen:</strong> Initial evaluation of <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain (appendicitis, diverticulitis).</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications:</strong></p>\n<ul>\n<li><strong>Tumor Detection:</strong> Identifying and characterizing masses or tumors in various organs.</li>\n<li><strong>Pulmonary Diseases:</strong> Assessing lung <span class=\"customMeta\" data-dictid=\"54e0888a6616927771945a99208287\">pathology</span> (pneumonia, lung nodules). <strong>(Option B)</strong></li>\n<li><strong>Vascular Assessment:</strong> Evaluating blood vessels for stenosis, thrombosis, or aneurysms.</li>\n<li><strong>Infection</strong>: Assessing abscesses or <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">inflammatory</span> conditions where contrast can delineate structures.</li>\n<li><strong>Staging of Cancer: </strong>Determining the extent of malignancies by evaluating <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> nodes and distant metastases.</li>\n<li><strong>Assessment of Organ Perfusion</strong>: Evaluating <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> in organs.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages</strong>:</p>\n<ul>\n<li><strong>No Allergic Reactions: </strong>Eliminates the risk of allergic reactions to contrast agents.</li>\n<li><strong>No Need for <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> Function Assessment: </strong>Suitable for patients with <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> <span class=\"customMeta\" data-dictid=\"4885d5d0021692777189aac6dc80f7\">impairment</span> who cannot tolerate contrast.</li>\n<li><strong>Faster</strong>: Typically quicker to perform than CECT, as no time is needed for contrast administration.</li>\n<li><strong>Cost-effective: </strong>Generally less expensive than CECT.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages:</strong></p>\n<ul>\n<li><strong>Enhanced Visualization</strong>: Improves the contrast between different tissues, making it easier to identify abnormalities.</li>\n<li><strong>Better Soft Tissue Detail: </strong>Provides superior detail of soft tissue structures compared to NCCT.</li>\n<li><strong>Vascular Imaging:</strong> Excellent for visualizing blood vessels and detecting <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> pathologies.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Limitations:</strong></p>\n<ul>\n<li><strong>Limited <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">Diagnostic</span> Capability:</strong> May not provide enough detail for soft tissue structures or <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> assessments.</li>\n<li><strong>Less Sensitivity:</strong> Lower sensitivity for detecting certain conditions, such as tumors or <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> abnormalities, compared to CECT.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Limitations:</strong></p>\n<ul>\n<li><strong>Risk of Allergic Reactions:</strong> Possible allergic reactions to contrast agents, ranging from mild to severe (anaphylaxis).</li>\n<li><strong>Renal Impairment: </strong>Requires caution in patients with pre-existing <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> disease, as contrast can further compromise <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> function (risk of Contrast-Induced Nephropathy).</li>\n<li><strong>Increased Radiation Exposure:</strong> Slightly higher radiation exposure compared to NCCT due to additional <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> phases.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7dbff28a"
+    },
+    {
+      "text": "A 65-year-old male patient presents with a 6-month history of progressive shortness of breath and a dry cough. He is a former smoker, having quit 10 years ago, and has no significant past medical history. On examination, he has clubbing of the fingers and fine crackles on lung auscultation. Pulmonary function tests reveal a restrictive pattern with reduced lung volumes and a decreased diffusion capacity.Which imaging modality is most appropriate for confirming the diagnosis of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contrast-Enhanced Computed Tomography (CECT) of the chest",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High-Resolution CT (HRCT) of the chest",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "MRI of the chest",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chest X-ray",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High-Resolution CT (HRCT) of the chest",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/iLs5dybxhZSSjzRWK4ks1743579098.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specialized <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> technique that provides highly detailed cross-sectional images of the body's internal structures, primarily the lungs</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Thin Collimation: </strong>Uses thin slices (usually 1 mm or less) to improve image resolution.</li>\n<li><strong>High <span class=\"customMeta\" data-dictid=\"6495ef882b169277719896942b51c3\">Spatial</span> Resolution: </strong>Optimized <span class=\"customMeta\" data-dictid=\"c497b556951692777198b599e4ba86\">scanning</span> protocols to enhance the detail of structures.</li>\n<li><strong>Breath-Holding: </strong>Images are often obtained during full inspiration to reduce motion artifacts.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pulmonary Assessment:</strong> Primarily used to evaluate lung diseases, especially <span class=\"customMeta\" data-dictid=\"f46ba26d111692777190def3b1d80a\">interstitial</span> lung diseases (e.g., <span class=\"customMeta\" data-dictid=\"4acddc3cf5169277718996440e2e14\">Idiopathic</span> <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> Fibrosis, sarcoidosis).</li>\n<li><strong>Tumor Evaluation:</strong> Assessing lung nodules and tumors. (For Pancoast tumor <span class=\"customMeta\" data-dictid=\"7ce7bcb2f316927771938e0bea7f4d\">MRI</span> is preferred)</li>\n<li><strong>Infectious Diseases</strong>: Identifying lung infections (pneumonia, tuberculosis).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">Imaging</span> Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Reticular Patterns: </strong>Suggestive of <span class=\"customMeta\" data-dictid=\"21e2d5a70616927772021fcdec0ca9\">fibrosis</span> and <span class=\"customMeta\" data-dictid=\"f46ba26d111692777190def3b1d80a\">interstitial</span> lung disease.</li>\n<li><strong>Ground-Glass Opacities: </strong>Indicate <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> or partial consolidation.</li>\n<li><strong>Nodules and Masses: </strong>Detailed <span class=\"customMeta\" data-dictid=\"33ba8d60fb16927772029d1067e602\">visualization</span> of <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> nodules.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>High Sensitivity and Specificity:</strong> Superior ability to detect and characterize lung pathologies compared to standard CT or X-rays.</li>\n<li><strong>Detailed Assessment:</strong> Provides detailed <span class=\"customMeta\" data-dictid=\"116f86834a1692777181a914379270\">anatomical</span> information, aiding in accurate diagnosis and treatment planning.</li>\n<li><strong>3D Reconstruction: </strong>Data can be processed to create 3D images for better <span class=\"customMeta\" data-dictid=\"116f86834a1692777181a914379270\">anatomical</span> visualization.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Limitations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Radiation Exposure: </strong>Increased radiation dose compared to conventional radiography.</li>\n<li><strong>Cost</strong>: Generally more expensive than standard <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> modalities.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b914d30a"
+    },
+    {
+      "text": "Arrange the following in their decreasing order of penetration power 1) Neutrons 2) Alpha (\u03b1) rays 3) Beta (\u03b2) rays 4) Gamma (\u03b3) rays",
+      "options": [
+        {
+          "label": "A",
+          "text": "1>2>3>4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1>4>3>2",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "4>3>2>1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2>3>4>1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1>4>3>2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alpha (\u03b1) rays: </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Particles emitted by the <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> through \u03b1 decay, containing 2 protons and 2 neutrons.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Beta (\u03b2) rays:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Particles emitted by the <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> through \u03b2 decay, either electrons/positrons</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gamma (\u03b3) rays:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Photons emitted by the nucleus.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ionizing power: </strong>(damaging capacity of <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> energy transfer - LET)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alpha (\u03b1) > <span class=\"customMeta\" data-dictid=\"806eb8418c16927771822855b56695\">Beta</span> (\u03b2) > <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-Rays</span> > <span class=\"customMeta\" data-dictid=\"49be0416121692777188dc8944b7bc\">Gamma</span> (\u03b3) rays</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Penetration power:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neutrons > <span class=\"customMeta\" data-dictid=\"49be0416121692777188dc8944b7bc\">Gamma</span> (\u03b3)rays >Beta (\u03b2)rays >Alpha (\u03b1)rays</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mTgT1jO1d5lEfX77dt831748954732.mp3",
+      "video": "",
+      "uid": "c2466a6d"
+    },
+    {
+      "text": "Which window setting would be most appropriate for viewing bone structures in a CT scan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low window level and narrow window width",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High window level and wide window width",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Low window level and wide window width",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High window level and narrow window width",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High window level and wide window width",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7706e96c"
+    },
+    {
+      "text": "A 45-year-old man presents with sudden headache, confusion, and decreased consciousness following recent cranial surgery. CT image is given below. What is the black area seen in the CT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Air",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Highly vascularised areas",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Air",
+      "question_images": [
+        "https://image.prepladder.com/notes/AY68USr9aRjGopMrOvGJ1743578424.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/DFAeKEYdtydtK9lhsFRD1743578514.png",
+        "https://image.prepladder.com/notes/xcJHtzjKcpuFmK11rXHc1743578646.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>X-ray Appearance</strong></th>\n<th><strong>Cause</strong></th>\n<th><strong>Examples</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Black</strong></td>\n<td>X-rays <strong>pass through less dense tissues</strong> and reach the <span class=\"customMeta\" data-dictid=\"1028b4ebb31692777183bcb9e95ee0\">cassette</span> with <strong>more energy</strong></td>\n<td><strong>Air or gas</strong>, e.g., lungs, <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> gas</td>\n</tr>\n<tr>\n<td><strong>White</strong></td>\n<td>X-rays are <strong>mostly absorbed by very dense tissues</strong>, so little reaches the cassette</td>\n<td><strong>Bone</strong>, <strong>metal</strong>, <strong>calcified areas</strong></td>\n</tr>\n<tr>\n<td><strong>Gray</strong></td>\n<td>X-rays pass through <strong>intermediate-density tissues</strong></td>\n<td><strong>Soft tissues</strong>, <strong>muscles</strong>, <strong>fat</strong>, <strong>organs</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "07d6c8a7"
+    },
+    {
+      "text": "Match the following items with its corresponding Hounsfield Unit Item Hounsfield Unit 1.Metal a.1000 2.Bone b.3000 3.Air c.-1000 4. Water d. 0",
+      "options": [
+        {
+          "label": "A",
+          "text": "1b,2a,3c,4d",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1a,2b,3d,4c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1c,2d,3a,4b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1d,2c,3b,4a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1b,2a,3c,4d",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:418px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Item</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hounsfield Unit (HU)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Water</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>0 HU</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Air</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-1000 HU</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bone</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1000 HU</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dense bones like the cochlea</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2000 HU</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Metals</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3000 HU</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6dc50f4c"
+    },
+    {
+      "text": "Which of the following statements is NOT true about Computed Tomography?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uses a rotating beam of X-ray",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Uses more radiation than a plain X-ray",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The computer generates the images",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Slices are as if viewing from the head end of the bed",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Slices are as if viewing from the head end of the bed",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/lnKtfhpEYXTzV1iufUmY1743578285.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "01985f50"
+    },
+    {
+      "text": "Which of the following statements is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C-arm is a mobile X-ray machine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fluoroscopy shows continuous X-ray images in a monitor",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "In fluoroscopy, only movement of a body part can be visualized",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fluoroscopy can be used in catheter insertion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. In fluoroscopy, only movement of a body part can be visualized",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/UXclYHWfzfwmaMiJQgls1743578077.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dcd07ffb"
+    },
+    {
+      "text": "Which of the following statements is false about mammography?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grids are used to reduce scattered radiation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Primarily for women over 40",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Breast compression is required",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The craniocaudal view will show the breast with the axillary tail",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The craniocaudal view will show the breast with the axillary tail",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/e7tSbgXoWpqPlEqJkK1V1743577835.png",
+        "https://image.prepladder.com/notes/WmyJMygcwWf8MeJMsPx71743577913.png",
+        "https://image.prepladder.com/notes/olKiWok48xf5f4K9nzTj1743577950.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2df84687"
+    },
+    {
+      "text": "Match the following types of X-rays with its mechanism 1. Film X-ray a. X-rays hit a detector which converts them into an electrical charge 2. Computed Radiography b. X-rays strike a plate that absorbs the energy and stores it at a specific location 3. Digital Radiography c. X-rays strike a fluorescent screen, producing light",
+      "options": [
+        {
+          "label": "A",
+          "text": "1a,2b,3c",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1c,2b,3a",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1b,2a,3c",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1b,2c,3a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1c,2b,3a",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/4Bd8Q8xTODUKr0oKAwLZ1743577690.png",
+        "https://image.prepladder.com/notes/4Bd8Q8xTODUKr0oKAwLZ1743577690.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Type of <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> System</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Description</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Film/Screen Combination</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-<strong> <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> beam strikes a <span class=\"customMeta\" data-dictid=\"df068e6efc16927772029693b5023e\">fluorescent</span> screen, producing light.</strong></p>\n<p>- The light exposes a film, which is then developed.</p>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Computed <span class=\"customMeta\" data-dictid=\"180f4b674c169277719778e96a53ca\">Radiography</span> (CR)</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-<strong> <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-rays</span> strike a plate that absorbs the energy and stores it at a specific location.</strong></p>\n<p>- A laser scans the plate, releasing light from the location, which is then detected and stored in a computer.</p>\n<br/>\n<img alt=\"RA905\" data-author=\"\" data-hash=\"6246\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/4Bd8Q8xTODUKr0oKAwLZ1743577690.png\"/></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Digital <span class=\"customMeta\" data-dictid=\"180f4b674c169277719778e96a53ca\">Radiography</span> (DR)</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-<strong> <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-rays</span> hit a detector, which converts them into light or an electrical charge immediately.</strong></p>\n<p>- The image is stored directly in a computer.</p>\n<img alt=\"RA905\" data-author=\"\" data-hash=\"6246\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/4Bd8Q8xTODUKr0oKAwLZ1743577690.png\"/></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e7c624ec"
+    },
+    {
+      "text": "True about Compton effect in X-rays are 1) Interacts with the innermost electron 2) Interacts with the outermost electron 3) Responsible for contrast on the films 4) Produces scattered radiations on the films",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2,3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1,4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2,4",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 2,4",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/OPdWvkyTDG5D9pMLSY3h1743577495.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Compton effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Photoelectric effect</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Interaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Outermost <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> (Statement-2)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Innermost <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> (Statement-1)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Process</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Displaces the outer <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> \u00a0and a <strong>high energy photon</strong> is emitted</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Displaces the innermost <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> and a <strong>low energy photon</strong> is emitted</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Result</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Scattered radiations</strong> on the film - <strong>obscures the image (Statement-4)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Responsible for <strong>Contrast</strong> in the film - <strong>Good (provides a good image) (Statement-4)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Relation to atomic number</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Independent of atomic number</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Directly proportional to atomic number</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3ffc22b2"
+    },
+    {
+      "text": "Which among the following statements is true regarding the machine shown below",
+      "options": [
+        {
+          "label": "A",
+          "text": "Produced by sudden deceleration of moving electrons",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Anode is primarily made up of Lead (Pb)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The majority of heat dissipation is by convection",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Electron beam travels from anode to the cathode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Produced by sudden deceleration of moving electrons",
+      "question_images": [
+        "https://image.prepladder.com/notes/2pYAB0erRNrLOnuALpeW1743577193.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/2pYAB0erRNrLOnuALpeW1743577193.png",
+        "https://image.prepladder.com/notes/BnwTIkD29SHht5TA6EA91743577295.png",
+        "https://image.prepladder.com/notes/bgw9XpwsAJTlqhuaKvMR1743577370.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Introduction</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Discovered by <strong>W.C. <span class=\"customMeta\" data-dictid=\"7b9ed7cc8f16927771973e5430a32f\">Roentgen</span> on 8 November 1895</strong> (International Day of Radiology).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Production</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>By <strong>sudden <span class=\"customMeta\" data-dictid=\"7be129d4bb1692777185fa5706fe88\">deceleration</span> of fast-moving <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam</strong><strong> (Option A)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Working principle</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The <span class=\"customMeta\" data-dictid=\"98f339c57716927771836df0bff47a\">Cathode</span> (filament) is an <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> source that produces the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam and the <span class=\"customMeta\" data-dictid=\"a7fbef62b91692777181bfe2d1b741\">Anode</span> is a <span class=\"customMeta\" data-dictid=\"40067257821692777201a208cbed9c\">tungsten</span> target for the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam.</li>\n<li>The <strong>electron beam travels from the <span class=\"customMeta\" data-dictid=\"98f339c57716927771836df0bff47a\">cathode</span> (negatively charged) to the <span class=\"customMeta\" data-dictid=\"a7fbef62b91692777181bfe2d1b741\">anode</span> (positively charged)</strong> <strong>(Option D)</strong></li>\n<li>Thermionic emission occurs at the Cathode.</li>\n<li>Blocking of the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam is done at the Anode, where <strong>99% of heat dissipation is by Radiation </strong><strong>(Option C)</strong> and the remaining 1% escapes through the window onto a film called X-rays.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Components</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>The Cathode</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of <strong>Tungsten (atomic no.- 74) & Thorium</strong>.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>The Anode</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of<strong> <span class=\"customMeta\" data-dictid=\"40067257821692777201a208cbed9c\">Tungsten</span> & Rhenium</strong> <strong>(Option B)</strong>.</li>\n<li>Rotatory anodes are preferred (to avoid <span class=\"customMeta\" data-dictid=\"da6db7b0e21692777203c4075458d3\">focal</span> points), now <span class=\"customMeta\" data-dictid=\"9cf5375557169277719946c3651430\">stationary</span> anodes are only used in Portable <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> machines.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Glass envelope</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of Lead (Pb).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Focusing cup</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of Nickel.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4dbae47f"
+    },
+    {
+      "text": "Which among the following are examples of ionizing radiation? 1) X-rays 2) UV rays 3) MRI 4) SPECT 5) Doppler 6) IVP (Intravenous pyelography)",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,3,5,6",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1,2,4,6",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1,4,6",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1,2,4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1,4,6",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ionizing radiation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Non-ionizing radiation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rays that have the ability to displace orbiting electrons from the <span class=\"customMeta\" data-dictid=\"435060133416927771829458eecc80\">atom</span> thus causing biomolecular damage.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Some <span class=\"customMeta\" data-dictid=\"c67401aedd169277718703fb7bc5ed\">electromagnetic</span> and mechanical waves do not dissipate energy and hence are called non-ionizing.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Conventional X-rays</strong>, Mammography, CT</li>\n<li><strong>Contrast X-rays:</strong> HSG, IVP, ERCP, Myelography</li>\n<li><strong>Nuclear <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> (gamma rays):</strong> PET, SPECT, Scintigraphy</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>UV rays</strong></li>\n<li><strong>USG</strong> (including Doppler, FAST)</li>\n<li><strong>MRI</strong> (Magnetic <span class=\"customMeta\" data-dictid=\"37b9856df8169277719716b550a15f\">resonance</span> imaging), MRCP</li>\n<li>Thermography</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b4da1b1a"
+    },
+    {
+      "text": "Regarding X-rays in comparison to Gamma (\u03b3) rays, that X-rays have all among the following except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less penetration power",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Emits a higher wavelength light",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Relative lower frequency",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Emitted from within the nucleus",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Emitted from within the nucleus",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/nUHjxtdGVumDxTQdr6Nd1743577087.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:384px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>X-rays </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gamma (\u03b3) rays</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Energy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Frequency</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Penetration power</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Wavelength</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Origin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extranuclear</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nucleus</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a322bcd3"
+    }
+  ]
+}

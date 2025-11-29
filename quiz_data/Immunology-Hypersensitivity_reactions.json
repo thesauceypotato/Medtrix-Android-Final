@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "id": "test11",
+    "title": "Immunology-Hypersensitivity_reactions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 30-year-old woman presents with a rash and difficulty breathing after being administered penicillin. Which of the following types of hypersensitivity reactions is most likely responsible for her symptoms according to the Gell and Coombs classification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type I",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type I (Immediate)</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IgE-mediated reactions, leading to <span class=\"customMeta\" data-dictid=\"1f95a52091169277719133cc234fe0\">mast</span> cell <span class=\"customMeta\" data-dictid=\"adb3e39bbf1692777185215fad237b\">degranulation</span> and <span class=\"customMeta\" data-dictid=\"b5d4ddbfe71692777189a12acd5502\">histamine</span> release.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples include <span class=\"customMeta\" data-dictid=\"3f1938c99b16927771810c68214ce0\">allergic rhinitis</span> and anaphylaxis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type II (Cytotoxic)</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mediated by <span class=\"customMeta\" data-dictid=\"2d9b37c62116927771891f3784d2c8\">IgG</span> or <span class=\"customMeta\" data-dictid=\"e4a6fd7fbb169277718986a699e800\">IgM</span> antibodies directed against antigens on cell surfaces or matrix, causing cell lysis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Conditions include <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> and rheumatic fever.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type III (Immune Complex)</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Caused by the formation of antigen-antibody complexes that deposit in tissues, leading to inflammation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples include <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> <span class=\"customMeta\" data-dictid=\"ccd536a9071692777191f53538ca30\">lupus</span> erythematosus and post-streptococcal glomerulonephritis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type IV (Delayed)</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mediated by T cells, occurring hours to days after exposure to an antigen.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Seen in contact <span class=\"customMeta\" data-dictid=\"fedc53b3161692777186553c8f8d7d\">dermatitis</span> and <span class=\"customMeta\" data-dictid=\"0fe92012341692777201bab3db39b1\">tuberculin</span> reactions.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3efc2b6c"
+    },
+    {
+      "text": "A 30-year-old healthcare worker develops a red, itchy rash on her hands two days after using a new brand of latex gloves. She reports no immediate reaction at the time of exposure, but 48 hours later, she noticed redness, swelling, and itching at the site of contact. She has no known history of allergies or similar reactions in the past. Which type of hypersensitivity reaction is most likely responsible for her symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Type II hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type III hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type IV hypersensitivity",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Type IV hypersensitivity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "183b5ea9"
+    },
+    {
+      "text": "A 28-year-old woman with a history of asthma experiences severe wheezing, shortness of breath, and facial swelling minutes after accidentally ingesting peanuts. She is treated promptly in the emergency department with epinephrine, antihistamines, and corticosteroids, and her symptoms improve. However, 8 hours later, she began to develop increased chest tightness and wheezing, requiring additional medical intervention. Which of the following best explains her delayed respiratory symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Incomplete clearance of histamine from the bloodstream",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Continuous allergen exposure leading to sustained mast cell degranulation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Recruitment of eosinophils and other inflammatory cells, causing a delayed inflammatory response",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Development of IgG antibodies against the allergen, causing a delayed hypersensitivity reaction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Recruitment of eosinophils and other inflammatory cells, causing a delayed inflammatory response",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ZdnX0anyJwvyutw0nV0r1744470694.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "379a4dcd"
+    },
+    {
+      "text": "A 28-year-old woman develops sudden hives, facial swelling, and shortness of breath after taking an antibiotic. She is rushed to the emergency room, where she receives epinephrine and improves quickly. Which of the following hypersensitivity reactions best explains her symptoms ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I Hypersensitivity (Early)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type I Hypersensitivity (Delayed)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type III Hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type IV Hypersensitivity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type I Hypersensitivity (Early)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:734px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Timing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Early Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Seconds to minutes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mast cell/basophil degranulation</strong>: <span class=\"customMeta\" data-dictid=\"a54166a5961692777189c5557f61f3\">IgE</span> <span class=\"customMeta\" data-dictid=\"2cf4952c63169277718543a0883583\">cross-linking</span> leads to the release of <span class=\"customMeta\" data-dictid=\"b5d4ddbfe71692777189a12acd5502\">histamine</span> and other mediators.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skin</strong>: <span class=\"customMeta\" data-dictid=\"7e814d15c31692777201fe0d9c1a61\">Urticaria</span> (hives), <span class=\"customMeta\" data-dictid=\"8f179d376f16927771905338bc9387\">itching</span> (pruritus), <span class=\"customMeta\" data-dictid=\"f0f3e105661692777187df507b1f26\">erythema</span> (redness), <span class=\"customMeta\" data-dictid=\"8fb8df140b1692777191702bbc9358\">localized</span> <span class=\"customMeta\" data-dictid=\"5f26e5a9e916927771816a407f7545\">angioedema</span> (swelling around lips, eyes)</p>\n<p><strong>Respiratory</strong>: <span class=\"customMeta\" data-dictid=\"c9116ef24d16927771838d51f2946f\">Bronchoconstriction</span> leading to wheezing, shortness of breath, chest tightness, sneezing, <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> <span class=\"customMeta\" data-dictid=\"2dd9736fdf16927771849f5a925f7d\">congestion</span> (allergic rhinitis)</p>\n<p><strong>Cardiovascular</strong>: <span class=\"customMeta\" data-dictid=\"7aa9f8d34616927772018c11493bbc\">Vasodilation</span> and <span class=\"customMeta\" data-dictid=\"9402185d4b1692777189cb62891ff1\">hypotension</span> (drop in blood pressure), dizziness, <span class=\"customMeta\" data-dictid=\"9f04fb3f2f1692777199272e3daf84\">syncope</span> (fainting)</p>\n<p><strong>Gastrointestinal</strong>: Nausea, vomiting, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, <span class=\"customMeta\" data-dictid=\"aaabe672c51692777186a829ebdc0c\">diarrhea</span> due to smooth muscle contraction</p>\n<p><strong>Systemic Reaction</strong>: <span class=\"customMeta\" data-dictid=\"d6d717efa216927771819fee139235\">Anaphylaxis</span> in severe cases, with generalized urticaria, angioedema, severe hypotension, and <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> <span class=\"customMeta\" data-dictid=\"afafb9026e1692777186e3dd168fa8\">distress</span> (life-threatening)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Late Phase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4\u201312 hours, peaks at 24\u201348 hours, lasting up to days</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inflammatory cell recruitment</strong>: Cytokines/chemokines attract eosinophils, neutrophils, and macrophages, causing sustained inflammation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skin</strong>: Persistent redness, swelling, intense itching, and development of an eczema-like <span class=\"customMeta\" data-dictid=\"dc75edd604169277719735ac5b4d5b\">rash</span> (seen in <span class=\"customMeta\" data-dictid=\"afad60190f1692777182663499dc42\">atopic</span> dermatitis)</p>\n<p><strong>Respiratory</strong>: <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">Recurrent</span> bronchoconstriction, prolonged wheezing, coughing, chest tightness, <span class=\"customMeta\" data-dictid=\"ab75ea330616927771938a64f8ebd6\">mucus</span> production, and <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> <span class=\"customMeta\" data-dictid=\"47610e211516927771892548eb5626\">hyperresponsiveness</span> (chronic <span class=\"customMeta\" data-dictid=\"76891bb6e91692777182cda16e1db6\">asthma</span> exacerbation)</p>\n<p><strong>Eyes</strong>: Persistent redness and <span class=\"customMeta\" data-dictid=\"3a74ed0fcf16927771901a79847565\">irritation</span> in <span class=\"customMeta\" data-dictid=\"d168af6e7f1692777185683fea5e7f\">conjunctiva</span> (allergic conjunctivitis)</p>\n<p><strong>Chronic Changes</strong>: In prolonged or <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">recurrent</span> reactions, there may be tissue remodeling, fibrosis, and thickening of affected areas (e.g., airways in asthma, skin in chronic dermatitis)</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Onset</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type I Early</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IgE-mediated <span class=\"customMeta\" data-dictid=\"1f95a52091169277719133cc234fe0\">mast</span> cell degranulation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hives, swelling, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> distress</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Immediate (minutes)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type I Delayed</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IgE-mediated <span class=\"customMeta\" data-dictid=\"1f95a52091169277719133cc234fe0\">mast</span> cell degranulation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Wheezing, chest tightness, <span class=\"customMeta\" data-dictid=\"8fb8df140b1692777191702bbc9358\">localized</span> itching</p>\n<p><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hours to days</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type II</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Antibody-mediated cell destruction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemolytic anemia, thrombocytopenia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Delayed (hours to days)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type III</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Immune complex deposition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Joint pain, fever, vasculitis</p>\n<p><strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Delayed (hours to days)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type IV</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>T-cell mediated response</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Skin rash, contact dermatitis</p>\n<p><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Delayed (48-72 hours)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "33f002ae"
+    },
+    {
+      "text": "A 5-year-old boy experiences facial swelling, hives, and difficulty breathing after accidentally eating a peanut cookie. He is treated with epinephrine and antihistamines and stabilizes, but later develops wheezing and difficulty breathing. Which pair of Type I hypersensitivity reactions best explains his experience?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anaphylaxis followed by allergic asthma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Urticaria followed by allergic rhinitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atopic dermatitis followed by urticaria",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Allergic rhinitis followed by food allergy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Anaphylaxis followed by allergic asthma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:623px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Trigger</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Early Phase Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Late Phase Symptoms</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anaphylaxis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Foods (e.g., peanuts, shellfish), insect stings, medications (e.g., penicillin)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sudden onset of hives, <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">facial</span> swelling, difficulty breathing, low blood pressure, rapid <span class=\"customMeta\" data-dictid=\"3c305b384216927771969ca4166493\">progression</span> to shock</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Persistent wheezing, chest tightness, difficulty breathing, sustained low blood pressure; can last hours after initial exposure</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Allergic <span class=\"customMeta\" data-dictid=\"a8dad7cd171692777197e6d4ac2a1c\">Rhinitis</span> (Hay Fever)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pollen, dust mites, pet dander</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sneezing, itchy and watery eyes, runny nose, <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> congestion</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Prolonged <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> congestion, <span class=\"customMeta\" data-dictid=\"b0046463171692777198e0beea83e7\">sinus</span> pressure, and coughing due to <span class=\"customMeta\" data-dictid=\"785b6d19ba16927771965c071acb28\">postnasal</span> drip</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Allergic Asthma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pollen, mold, animal dander, air pollutants</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Coughing, wheezing, chest tightness, shortness of breath</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Persistent wheezing, chest tightness, and <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> <span class=\"customMeta\" data-dictid=\"47610e211516927771892548eb5626\">hyperresponsiveness</span> lead to chronic symptoms if untreated</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Food Allergy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Common allergens include peanuts, tree nuts, eggs, milk, seafood</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hives, itching, <span class=\"customMeta\" data-dictid=\"e3d212ebd316927771996e0c472d4a\">swelling</span> of lips/face, nausea, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, vomiting, and, in severe cases, anaphylaxis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Persistent <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> pain, diarrhea, skin <span class=\"customMeta\" data-dictid=\"dc75edd604169277719735ac5b4d5b\">rash</span> (eczema) in some chronic cases, worsening of <span class=\"customMeta\" data-dictid=\"76891bb6e91692777182cda16e1db6\">asthma</span> or other <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> symptoms</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Atopic <span class=\"customMeta\" data-dictid=\"fedc53b3161692777186553c8f8d7d\">Dermatitis</span> (Eczema)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Environmental allergens, certain foods, skin irritants</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Red, itchy rash, often in flexural areas (e.g., inside elbows, behind knees)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chronic dry, thickened skin due to scratching, possible development of secondary infections due to skin barrier breakdown</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Urticaria (Hives)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Foods, medications, insect stings, temperature changes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Raised, red, itchy welts (hives) on the skin, can appear within minutes of exposure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>If chronic, repeated episodes of <span class=\"customMeta\" data-dictid=\"8f179d376f16927771905338bc9387\">itching</span> and welts lasting hours to days after initial exposure</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a9908c8f"
+    },
+    {
+      "text": "A 45-year-old patient receives an iodine-based contrast agent for a CT scan. Within minutes, she develops hives, facial swelling, and difficulty breathing. She reports no prior allergies to iodine or contrast agents. Which of the following best describes her reaction and its mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anaphylaxis, caused by IgE-mediated mast cell activation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anaphylaxis, caused by T-cell-mediated hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anaphylactoid reaction, caused by direct mast cell activation without IgE",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Anaphylactoid reaction, requiring prior exposure for mast cell sensitization",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Anaphylactoid reaction, caused by direct mast cell activation without IgE",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anaphylaxis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anaphylactoid Reaction</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IgE-mediated (Type I hypersensitivity)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-IgE mediated (direct <span class=\"customMeta\" data-dictid=\"1f95a52091169277719133cc234fe0\">mast</span> cell activation)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prior <span class=\"customMeta\" data-dictid=\"4fe92aaac71692777198234aaa055a\">Sensitization</span> Needed</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Yes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No<strong> (Option D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Trigger</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specific allergens (e.g., foods, insect stings)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Direct <span class=\"customMeta\" data-dictid=\"7d7e9fdf401692777199f2038941b6\">stimuli</span> (e.g., radiocontrast, opioids)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>First-Line Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Epinephrine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Epinephrine</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Additional Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hives, swelling, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> distress, hypotension</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Same as anaphylaxis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Peanuts, shellfish, penicillin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Radiocontrast dyes, NSAIDs, opioids</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "54ac2b86"
+    },
+    {
+      "text": "A 30-year-old man comes to the ER with coughing up blood and difficulty breathing. He's scared and tells you he's never had symptoms like this before. Lab results reveal he has antibodies against the basement membrane in his lungs and kidneys. His immune system is attacking these tissues, and cell destruction is being triggered through a specific mechanism. Which of the following best explains what's happening inside his body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antigen-specific IgE binding to mast cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Antibody binding to cell surface antigens with complement activation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Immune complexes depositing in blood vessels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Direct T-cell attack on self-antigens",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Antibody binding to cell surface antigens with complement activation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ef636e01"
+    },
+    {
+      "text": "A 45-year-old woman presents with fatigue, jaundice, and shortness of breath. Laboratory tests reveal a hemoglobin level of 7.2 g/dL, elevated bilirubin, and a positive direct Coombs test. Peripheral blood smear shows spherocytes. Which of the following is the most likely diagnosis and its corresponding type of hypersensitivity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autoimmune Hemolytic Anemia (AIHA); Type 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rheumatoid Arthritis; Type 1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune Hemolytic Anemia (AIHA); Type 2",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Myasthenia Gravis; Type 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Autoimmune Hemolytic Anemia (AIHA); Type 2",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/wmj2nLuqoV8Z5gfI9y991744471092.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2ccc6ab8"
+    },
+    {
+      "text": "A 30-year-old woman presents with joint pain, fever, and a malar rash. Laboratory tests show proteinuria, low complement levels, and the presence of anti-nuclear antibodies (ANA) and anti-dsDNA antibodies. Which of the following mechanisms best explains the pathology of her disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct binding of IgE to mast cells, leading to histamine release",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Antibody-mediated cytotoxicity targeting red blood cell antigens",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Deposition of immune complexes in tissues",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "T-cell-mediated cytotoxicity targeting self-antigens on tissue cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Deposition of immune complexes in tissues",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "80d98b80"
+    },
+    {
+      "text": "A 25-year-old male presents with a recent history of sore throat, followed by dark-colored urine, facial swelling, and high blood pressure. Laboratory findings show proteinuria, hematuria, and elevated anti-streptolysin O (ASO) titers. Which of the following best describes the patient\u2019s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Goodpasture syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Post-streptococcal glomerulonephritis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Myasthenia gravis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Contact dermatitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Post-streptococcal glomerulonephritis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type I (Immediate)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IgE-mediated reactions, leading to <span class=\"customMeta\" data-dictid=\"1f95a52091169277719133cc234fe0\">mast</span> cell <span class=\"customMeta\" data-dictid=\"adb3e39bbf1692777185215fad237b\">degranulation</span> and <span class=\"customMeta\" data-dictid=\"b5d4ddbfe71692777189a12acd5502\">histamine</span> release.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples include <span class=\"customMeta\" data-dictid=\"3f1938c99b16927771810c68214ce0\">allergic rhinitis</span> and anaphylaxis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type II (Cytotoxic)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mediated by <span class=\"customMeta\" data-dictid=\"2d9b37c62116927771891f3784d2c8\">IgG</span> or <span class=\"customMeta\" data-dictid=\"e4a6fd7fbb169277718986a699e800\">IgM</span> antibodies directed against antigens on cell surfaces or matrix, causing cell lysis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Conditions include <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> <span class=\"customMeta\" data-dictid=\"d30ae941d516927771889351160b00\">hemolytic</span> <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> and rheumatic fever.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type III (Immune Complex)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Caused by the formation of antigen-antibody complexes that deposit in tissues, leading to inflammation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples include <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> <span class=\"customMeta\" data-dictid=\"ccd536a9071692777191f53538ca30\">lupus</span> erythematosus and post-streptococcal glomerulonephritis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type IV (Delayed)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mediated by T cells, occurring hours to days after exposure to an antigen.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Seen in contact <span class=\"customMeta\" data-dictid=\"fedc53b3161692777186553c8f8d7d\">dermatitis</span> and <span class=\"customMeta\" data-dictid=\"0fe92012341692777201bab3db39b1\">tuberculin</span> reactions.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7656f16c"
+    },
+    {
+      "text": "A 35-year-old man presents with a red, itchy rash on his hands that developed two days after using a new pair of latex gloves. Physical examination reveals erythematous, scaly patches on both hands. Which of the following best describes the mechanism of this patient\u2019s condition, a Type IV hypersensitivity reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Activation of IgE antibodies bound to mast cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Formation of antigen-antibody complexes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Direct binding of antibodies to cell surface antigens",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Activation of sensitized T cells",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Activation of sensitized T cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "395ea4c1"
+    },
+    {
+      "text": "A 40-year-old male presents with a rash on his arms and neck that developed several days after he worked in his garden, where he handled several plants. He mentions he has never had a rash before but recently experienced severe itching and redness in the affected areas. A patch test reveals an allergic reaction to a specific plant resin. What type of hypersensitivity does it represent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type II hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Type IV hypersensitivity",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Type III hypersensitivity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type I hypersensitivity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Type IV hypersensitivity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "fcbfd3ba"
+    }
+  ]
+}

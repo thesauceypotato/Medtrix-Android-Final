@@ -1,0 +1,1734 @@
+{
+  "meta": {
+    "id": "test72",
+    "title": "Mid Day Module (PSM-5) - 2025-02-17",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "In a recent biostatistics workshop, Dr. Meena described a statistical distribution that represents possible outcomes from a series of data. She explains that this particular distribution is ideal for experiments or observations that yield data characterized by two mutually exclusive categories (e.g., success or failure, positive or negative). Which of the following distributions is Dr. Meena referring to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Binomial distribution",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bimodal distribution",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rectangular distribution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Poisson distribution",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Binomial distribution",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A. Binomial distribution</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Bimodal distribution \u2013 It is the arrangement of set of values which has two different observations having maximum frequencies . The data set has value of mode = 2.</li><li>\u2022 Option B. Bimodal distribution</li><li>\u2022 arrangement</li><li>\u2022 two different observations</li><li>\u2022 maximum frequencies</li><li>\u2022 data set</li><li>\u2022 mode = 2.</li><li>\u2022 Option C. Rectangular distribution \u2013 It is also called as Continuous uniform distribution . It is a probability distribution that has a constant probability .</li><li>\u2022 Option C. Rectangular distribution \u2013</li><li>\u2022 Continuous uniform</li><li>\u2022 distribution</li><li>\u2022 probability distribution</li><li>\u2022 constant probability</li><li>\u2022 Option D. Poisson\u2019s distribution \u2013 It is a discrete function which measures the probability of a given number of events that have occurred at a constant rate in a specified period . The events can only take specific values in each list of numbers. It can also be obtained as an approximation of a binomial distribution .</li><li>\u2022 Option D. Poisson\u2019s distribution</li><li>\u2022 discrete function</li><li>\u2022 measures</li><li>\u2022 given number of events</li><li>\u2022 constant rate</li><li>\u2022 specified period</li><li>\u2022 specific values</li><li>\u2022 list</li><li>\u2022 approximation</li><li>\u2022 binomial distribution</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The binomial distribution is used to model the probability of a certain number of successes (e.g., \"success\" or \"positive\") in a fixed number of independent experiments or trials , where each trial has only two possible outcomes . It is commonly used in situations involving binary or categorical data.</li><li>\u27a4 binomial distribution</li><li>\u27a4 probability</li><li>\u27a4 certain number</li><li>\u27a4 successes</li><li>\u27a4 fixed number</li><li>\u27a4 independent experiments or trials</li><li>\u27a4 two possible outcomes</li><li>\u27a4 binary or categorical data.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 52)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 52)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "af083fe7",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Mehta, a seasoned clinical researcher, is mentoring a group of medical students on their first research project. While discussing the findings, one student points out that their studies mean difference between two groups is 15 with a 95% confidence interval of 10 to 20. Another student, not very familiar with statistical concepts, asks for clarification about confidence intervals. Dr. Mehta decides to test the group's understanding and asks, \"Which of the following statements about confidence interval is incorrect?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Based on critical ratio when sample is large.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gives an indication of the likely magnitude of true value.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gives an indication of certainty of point estimate.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Becomes larger as sample size increases.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Becomes larger as sample size increases.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Becomes larger as sample size increases.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Based on critical ratio when sample is large: This is a correct statement. Confidence intervals are often based on the critical ratio , especially in large samples , using standard error to estimate the precision of the sample mean .</li><li>\u2022 Option A. Based on critical ratio when sample is large:</li><li>\u2022 correct</li><li>\u2022 Confidence intervals</li><li>\u2022 critical ratio</li><li>\u2022 large samples</li><li>\u2022 standard error</li><li>\u2022 estimate</li><li>\u2022 precision</li><li>\u2022 sample mean</li><li>\u2022 Option B. Gives an indication of the likely magnitude of the true value: This is correct . A confidence interval provides a range within which the true population parameter is likely to fall .</li><li>\u2022 Option B. Gives an indication of the likely magnitude of the true value:</li><li>\u2022 correct</li><li>\u2022 confidence interval</li><li>\u2022 range</li><li>\u2022 true population parameter</li><li>\u2022 fall</li><li>\u2022 Option C. Gives an indication of certainty of the point estimate: This is correct . A confidence interval indicates a range in which the true value is likely to lie with a certain level of confidence .</li><li>\u2022 Option C. Gives an indication of certainty of the point estimate:</li><li>\u2022 correct</li><li>\u2022 confidence interval</li><li>\u2022 true value</li><li>\u2022 lie</li><li>\u2022 certain level</li><li>\u2022 confidence</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Confidence Interval</li><li>\u27a4 Confidence Interval</li><li>\u27a4 A confidence interval gives an estimated range of values which is likely to include an unknown population parameter , the estimated range being calculated from a given set of sample data.</li><li>\u27a4 confidence interval</li><li>\u27a4 estimated</li><li>\u27a4 values</li><li>\u27a4 unknown population parameter</li><li>\u27a4 calculated</li><li>\u27a4 sample data.</li><li>\u27a4 Confidence Intervals (CI) = Mean \u00b1 Z (Standard error), where \u2018Z\u2019 is the Critical value for the given CI , and</li><li>\u27a4 Confidence Intervals (CI)</li><li>\u27a4 Mean \u00b1 Z (Standard error),</li><li>\u27a4 \u2018Z\u2019</li><li>\u27a4 CI</li><li>\u27a4 SE = SD/\u221an</li><li>\u27a4 SE = SD/\u221an</li><li>\u27a4 SD Standard deviation, n = Sample size</li><li>\u27a4 n = Sample size</li><li>\u27a4 Hence, As the sample size increases , the confidence interval decreases in size.</li><li>\u27a4 sample size increases</li><li>\u27a4 confidence interval decreases</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eede27a2",
+      "audio": ""
+    },
+    {
+      "text": "During a session on statistical analysis in sports, a cricket analyst introduces a chart that illustrates the accumulation of runs scored across distinct segments of overs during a cricket match. This graphical representation is intended to depict the scoring dynamics as the game progresses. Which type of chart is being exemplified here to demonstrate the incremental scoring pattern over sequential overs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scatter diagram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Line diagram",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cumulative frequency diagram",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pie diagram",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cumulative frequency diagram",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039005.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/07/08/image-20230708141628-1.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-105329.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Cumulative frequency diagram</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Data presentation:</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4672463b",
+      "audio": ""
+    },
+    {
+      "text": "Examine the distribution curve provided. Based on the relative positions of the mean, median, and mode along the x-axis, what can be inferred about the skewness of this distribution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positively skewed.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negatively skewed.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Non-linear skewed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Linear skewed",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Negatively skewed.",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/333.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039010.jpg",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-110332.png"
+      ],
+      "explanation": "<p><strong>Ans. B. Negatively skewed</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Central tendency in various distributions -</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 46)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 46)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3c4638cb",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Malhotra is examining the relationship between two categorical variables: stages of a disease (early, middle, advanced, terminal) and treatment outcomes (improved, stable, worsened, expired). He collects data and presents them in a 4x4 contingency table. He decides to use the Chi square test to determine any association. While applying the Chi square test to this table, what would be the degree of freedom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "16",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 9",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-122937.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. 9</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Degree of freedom ( df ) = (row \u2013 1) x (column \u2013 1)</li><li>\u2022 Degree of freedom</li><li>\u2022 (row \u2013 1) x (column \u2013 1)</li><li>\u2022 = (4-1) x (4-1) = 3 x 3 = 9.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Degree of freedom - Is the no. of observations in a dataset that can freely vary once the parameters have been estimated.</li><li>\u27a4 Degree of freedom -</li><li>\u27a4 no. of observations</li><li>\u27a4 dataset</li><li>\u27a4 freely vary</li><li>\u27a4 parameters</li><li>\u27a4 estimated.</li><li>\u27a4 Calculation of degree of freedom -</li><li>\u27a4 Calculation of degree of freedom -</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 96)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 96)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ec7f9a80",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Patel, an epidemiologist, is organizing a workshop to train new public health researchers on sampling techniques for community health studies. During the session, he highlights various probability sampling methods and their applications. Which of the following sampling techniques mentioned by a participant is NOT an example of a probability sampling method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stratified random sampling.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quota sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Systematic random sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Quota sampling",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-111711.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. Quota sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Cluster sampling: Cluster sampling is a probability sampling method where the population is divided into clusters , and a random sample of clusters is selected for inclusion in the study .</li><li>\u2022 Option A.</li><li>\u2022 Cluster sampling:</li><li>\u2022 probability sampling method</li><li>\u2022 divided</li><li>\u2022 clusters</li><li>\u2022 random sample</li><li>\u2022 clusters</li><li>\u2022 inclusion</li><li>\u2022 study</li><li>\u2022 Option B. Stratified random sampling: Stratified random sampling is a probability sampling technique where the population is divided into strata (subgroups) based on certain characteristics, and then random samples are taken from each stratum.</li><li>\u2022 Option B.</li><li>\u2022 Stratified random sampling:</li><li>\u2022 probability sampling technique</li><li>\u2022 divided</li><li>\u2022 strata (subgroups)</li><li>\u2022 random samples</li><li>\u2022 stratum.</li><li>\u2022 Option D. Systematic random sampling : Systematic random sampling is a probability sampling method where researchers select every nth individual from a list of the population . It involves random selection and is used when a complete list of the population is available .</li><li>\u2022 Option D.</li><li>\u2022 Systematic random sampling</li><li>\u2022 probability sampling method</li><li>\u2022 researchers select</li><li>\u2022 list</li><li>\u2022 population</li><li>\u2022 random selection</li><li>\u2022 complete list</li><li>\u2022 population</li><li>\u2022 available</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Types of Sampling :</li><li>\u27a4 Types of Sampling</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5af5a5cd",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Sumit, a young researcher, is examining the relationship between the daily intake of a certain nutrient (Variable 1) and an improvement in cognitive functions (Variable 2) among elderly individuals. He collected data from 100 participants over a month and plotted the results on a scatter plot. Based on his observations, what type of relationship does this scatter plot most likely suggest between Variable 1 and Variable 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative correlation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No correlation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Moderately positive correlation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. No correlation",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039014.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_GfHXyPX.png"
+      ],
+      "explanation": "<p><strong>Ans. C. No correlation</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 In no correlation the points are at random or haphazard not maintaining any pattern . No linear relationship exists between the two variables.</li><li>\u2022 no correlation</li><li>\u2022 random</li><li>\u2022 haphazard not</li><li>\u2022 pattern</li><li>\u2022 No linear relationship</li><li>\u2022 between</li><li>\u2022 two variables.</li><li>\u2022 Scatter Plot: Used to determine the relationship (if any) between two variables . The nature of the pattern can suggest different types of relationships :</li><li>\u2022 Scatter Plot:</li><li>\u2022 determine</li><li>\u2022 relationship</li><li>\u2022 two variables</li><li>\u2022 pattern</li><li>\u2022 different types</li><li>\u2022 relationships</li><li>\u2022 Positive Linear Relationship: As Variable 1 increases , Variable 2 also increases. Negative Linear Relationship: As Variable 1 increases , Variable 2 decreases . No Relationship: There is no discernible pattern ; the points seem randomly scattered. Non-linear Relationship: The data points form a curve rather than a straight line.</li><li>\u2022 Positive Linear Relationship: As Variable 1 increases , Variable 2 also increases.</li><li>\u2022 Positive Linear Relationship: As Variable 1 increases , Variable 2 also increases.</li><li>\u2022 Positive Linear Relationship:</li><li>\u2022 Variable 1 increases</li><li>\u2022 Variable 2</li><li>\u2022 increases.</li><li>\u2022 Negative Linear Relationship: As Variable 1 increases , Variable 2 decreases .</li><li>\u2022 Negative Linear Relationship: As Variable 1 increases , Variable 2 decreases .</li><li>\u2022 Negative Linear Relationship:</li><li>\u2022 Variable 1 increases</li><li>\u2022 Variable 2 decreases</li><li>\u2022 No Relationship: There is no discernible pattern ; the points seem randomly scattered.</li><li>\u2022 No Relationship: There is no discernible pattern ; the points seem randomly scattered.</li><li>\u2022 No Relationship:</li><li>\u2022 no discernible pattern</li><li>\u2022 randomly scattered.</li><li>\u2022 Non-linear Relationship: The data points form a curve rather than a straight line.</li><li>\u2022 Non-linear Relationship: The data points form a curve rather than a straight line.</li><li>\u2022 Non-linear Relationship:</li><li>\u2022 data points</li><li>\u2022 curve</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Dot-plots : Compare 2 or 3 parameters simultaneously on a two or three dimensional scatter-plot (each event is represented as a single point on a scatter - plot. Intensity of 2 or 3 different channels are represented along the various axes . Events with similar intensities will cluster together in the same region on the scatterplot.)</li><li>\u27a4 Dot-plots</li><li>\u27a4 Compare 2 or 3 parameters</li><li>\u27a4 two</li><li>\u27a4 three dimensional scatter-plot</li><li>\u27a4 single point</li><li>\u27a4 scatter</li><li>\u27a4 plot.</li><li>\u27a4 Intensity</li><li>\u27a4 2</li><li>\u27a4 3 different channels</li><li>\u27a4 various axes</li><li>\u27a4 Events</li><li>\u27a4 similar intensities</li><li>\u27a4 cluster together</li><li>\u27a4 same region</li><li>\u27a4 scatterplot.)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 125)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 125)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "021b8147",
+      "audio": ""
+    },
+    {
+      "text": "A team of researchers is examining the outcomes of several studies on the effectiveness of a new antiviral medication. They compile their findings into a forest plot to visually summarize the collective odds ratios and confidence intervals of these studies. At their team meeting, Dr. Lira, a junior researcher, notices a blue-colored diamond at the bottom of the plot and inquires about its significance. As her mentor, you need to explain the interpretation of this diamond in the context of meta-analysis. Based on the forest plot provided, what does the blue-colored diamond at the bottom of the plot represent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odds ratio of individual studies",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Confidence interval",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Overall measure of effect",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "I2 statistic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Overall measure of effect",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/666-1-1.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Overall measure of effect</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Odds ratio of individual studies: Each square on the plot represents the odds ratio of individual studies , not the diamond.</li><li>\u2022 Option A. Odds ratio of individual studies:</li><li>\u2022 plot represents</li><li>\u2022 odds ratio</li><li>\u2022 individual studies</li><li>\u2022 not</li><li>\u2022 Option B. Confidence interval of the largest study: The horizontal lines through the squares represent the confidence intervals of individual studies, not the diamond.</li><li>\u2022 Option B. Confidence interval of the largest study:</li><li>\u2022 horizontal lines</li><li>\u2022 squares</li><li>\u2022 confidence intervals</li><li>\u2022 not</li><li>\u2022 Option D. 12 statistic for heterogeneity: The 12 statistic is not depicted by a diamond; it is a numerical value that indicates the percentage of variation across studies that is due to heterogeneity rather than chance.</li><li>\u2022 Option D. 12 statistic for heterogeneity:</li><li>\u2022 not</li><li>\u2022 numerical value</li><li>\u2022 percentage of variation</li><li>\u2022 heterogeneity</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Forest Plot/ Blobbogram - A graphical display of estimated results from a number of scientific studies addressing the same question , along with the overall results .</li><li>\u27a4 Forest Plot/ Blobbogram -</li><li>\u27a4 estimated</li><li>\u27a4 number</li><li>\u27a4 scientific studies</li><li>\u27a4 same question</li><li>\u27a4 overall results</li><li>\u27a4 Odds ratio of individual studies represented as squares . Confidence interval presented as horizontal lines . Overall measure of effect is plotted as diamond .</li><li>\u27a4 Odds ratio of individual studies represented as squares .</li><li>\u27a4 Odds ratio of individual studies represented as squares .</li><li>\u27a4 Odds ratio</li><li>\u27a4 squares</li><li>\u27a4 Confidence interval presented as horizontal lines .</li><li>\u27a4 Confidence interval presented as horizontal lines .</li><li>\u27a4 Confidence interval</li><li>\u27a4 horizontal lines</li><li>\u27a4 Overall measure of effect is plotted as diamond .</li><li>\u27a4 Overall measure of effect is plotted as diamond .</li><li>\u27a4 Overall measure</li><li>\u27a4 diamond</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ba85d6f3",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Isha, a sociologist at the University of Mumbai, is interested in studying the relationship between people's place of residence and their job preferences. She collects data from a diverse sample across Maharashtra and categorizes their residences as urban, semi-urban, and rural. Further, she classifies their jobs as either government or private. To analyze her data, she wants to choose a test that would best determine the association between these variables?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Students t test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ANOVA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi square test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chi square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Chi square test</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Chi square test - This is a non-parametric test of significance, and is used to test the significance of association between 2 or more qualitative characteristics; proportions in 2 or more groups . It is used for Non-normal (Non-Gaussian) distributions .</li><li>\u2022 Chi square test</li><li>\u2022 non-parametric test</li><li>\u2022 between 2</li><li>\u2022 more qualitative</li><li>\u2022 proportions</li><li>\u2022 2</li><li>\u2022 more groups</li><li>\u2022 Non-normal</li><li>\u2022 distributions</li><li>\u2022 Applications of Chi-square test:</li><li>\u2022 Applications</li><li>\u2022 Chi-square test:</li><li>\u2022 Test of proportions Test of association Test of goodness of fit</li><li>\u2022 Test of proportions</li><li>\u2022 Test of proportions</li><li>\u2022 Test of association</li><li>\u2022 Test of association</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Essential requirements for calculation of Chi-square test:</li><li>\u2022 Essential</li><li>\u2022 calculation</li><li>\u2022 Chi-square test:</li><li>\u2022 Random sample Qualitative data Lowest expected frequency not < 5.</li><li>\u2022 Random sample</li><li>\u2022 Random sample</li><li>\u2022 Qualitative data</li><li>\u2022 Qualitative data</li><li>\u2022 Lowest expected frequency not < 5.</li><li>\u2022 Lowest expected frequency not < 5.</li><li>\u2022 Educational objective:</li><li>\u2022 Educational objective:</li><li>\u2022 Chi square test is used for comparing categorical variables . Comparing percentage, proportions & fractions in two or more different group of individuals.</li><li>\u2022 Chi square test</li><li>\u2022 comparing categorical variables</li><li>\u2022 percentage, proportions</li><li>\u2022 fractions</li><li>\u2022 two</li><li>\u2022 more different</li><li>\u2022 individuals.</li><li>\u2022 Fischer\u2019s test : Is a variant of Chi-square test when sample size is < 30</li><li>\u2022 Fischer\u2019s test</li><li>\u2022 Chi-square test</li><li>\u2022 < 30</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 105)</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 105)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7341995a",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Arvind, a biostatistician, is analyzing a dataset related to a new cardiac drug trial. He is particularly interested in determining how individual patient outcomes deviate from the average result. He uses a specific statistical measure that allows him to express individual data points in terms of their distance from the mean, measured as multiples of the standard deviation. By doing so, he can identify and interpret both typical and atypical responses to the drug within the context of the entire dataset. What is this measure that Dr. Arvind is using to determine the distance of a value from the mean value in units of standard deviation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Z score",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "P value",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Confidence interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D score",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Z score",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_OLKxgQg.png"
+      ],
+      "explanation": "<p><strong>Ans. A. Z score</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Z score is also known as critical ratio/ relative deviate/ normal deviate/ standard normal variety . It is the number of standard deviations that a value in a normally distributed population lies away from the mean i.e., distance of a value from mean value of the curve in units of standard deviation .</li><li>\u2022 Z score</li><li>\u2022 critical ratio/ relative deviate/ normal deviate/ standard</li><li>\u2022 normal variety</li><li>\u2022 number</li><li>\u2022 standard deviations</li><li>\u2022 distributed population</li><li>\u2022 mean</li><li>\u2022 mean value</li><li>\u2022 units</li><li>\u2022 standard deviation</li><li>\u2022 The standard score indicates how many standard deviations an observation is above or below the mean. Z scores are frequently used in assessing how far a child is in his relative growth to a standard Z score = 2: Any measurement of at least 2SD away is considered too far away to be normal.</li><li>\u2022 The standard score indicates how many standard deviations an observation is above or below the mean.</li><li>\u2022 standard</li><li>\u2022 standard deviations</li><li>\u2022 above</li><li>\u2022 below</li><li>\u2022 mean.</li><li>\u2022 Z scores are frequently used in assessing how far a child is in his relative growth to a standard</li><li>\u2022 Z scores</li><li>\u2022 child</li><li>\u2022 his relative</li><li>\u2022 growth</li><li>\u2022 standard</li><li>\u2022 Z score = 2: Any measurement of at least 2SD away is considered too far away to be normal.</li><li>\u2022 Z score = 2:</li><li>\u2022 2SD</li><li>\u2022 too far</li><li>\u2022 normal.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 A Z score is a statistical measure that describes a value's relationship to the mean of a group of values . It is measured in terms of standard deviations from the mean . If a Z score is 0 , it indicates that the data point's score is identical to the mean score. A Z score can be positive or negative, indicating whether the data point is above or below the mean , and by how many standard deviations.</li><li>\u27a4 Z score</li><li>\u27a4 value's</li><li>\u27a4 mean</li><li>\u27a4 group of values</li><li>\u27a4 measured</li><li>\u27a4 standard deviations</li><li>\u27a4 mean</li><li>\u27a4 Z</li><li>\u27a4 0</li><li>\u27a4 data point's score</li><li>\u27a4 identical</li><li>\u27a4 Z score</li><li>\u27a4 positive</li><li>\u27a4 negative,</li><li>\u27a4 data</li><li>\u27a4 above</li><li>\u27a4 below</li><li>\u27a4 mean</li><li>\u27a4 many standard deviations.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 47)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 47)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c4864054",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ravi is planning a study on dietary habits among teenagers in a suburban town. While discussing with his research team, they decide to use a sampling method that selects participants not based on any chance or random mechanism. They list down various non-probability sampling techniques but inadvertently include one method that is based on probability sampling. Which of the following is a probability sampling method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Convenience sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Snowball sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quota sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cluster sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Cluster sampling",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-110835.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Cluster sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Convenience sampling : Convenience sampling is a non-probability sampling method where researchers select participants based on their ease of access or availability . It does not involve random selection, making it a non-probability sampling technique.</li><li>\u2022 Option A. Convenience sampling</li><li>\u2022 non-probability sampling method</li><li>\u2022 participants</li><li>\u2022 ease</li><li>\u2022 access</li><li>\u2022 availability</li><li>\u2022 not</li><li>\u2022 random</li><li>\u2022 non-probability sampling technique.</li><li>\u2022 Option B. Snowball sampling: Snowball sampling is a non-probability sampling technique where initial participants are chosen, and then additional participants are recruited through referrals from the initial participants ( Ex: drug users or commercial sex workers ). It relies on social networks and is not based on random selection.</li><li>\u2022 Option B. Snowball sampling:</li><li>\u2022 non-probability</li><li>\u2022 initial participants</li><li>\u2022 chosen,</li><li>\u2022 additional participants</li><li>\u2022 recruited</li><li>\u2022 referrals</li><li>\u2022 initial participants</li><li>\u2022 Ex: drug users</li><li>\u2022 commercial sex workers</li><li>\u2022 relies</li><li>\u2022 not</li><li>\u2022 random selection.</li><li>\u2022 Option C. Quota sampling: Quota sampling is a non-probability sampling method where researchers divide the population into subgroups (quotas) based on certain characteristics and then select participants from each quota. It is not a random selection process and falls under non-probability sampling .</li><li>\u2022 Option C. Quota sampling:</li><li>\u2022 non-probability</li><li>\u2022 divide</li><li>\u2022 subgroups (quotas)</li><li>\u2022 certain characteristics</li><li>\u2022 select participants</li><li>\u2022 not</li><li>\u2022 random selection</li><li>\u2022 falls</li><li>\u2022 non-probability sampling</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d1ab76a",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Aarav is analyzing data from a recent survey in a metropolitan city. The survey assessed both the dietary habits (vegetarian vs. non-vegetarian) and the prevalence of a specific metabolic disorder. He wishes to use Chi square test for analysis. Here, the Chi square test is most directly used to measure the degree of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Causal relationship between exposure and effect",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Association between two variables",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Correlation between two variables",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Agreement between two variables",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Association between two variables",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Association between two variables</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Chi-square test - A \u2018 non-parametric test\u2019 of significance, which is used to \u2018test significance of association between 2 or more qualitative variables. It is used to compare proportions in 2 or more groups . Applications of Chi-square test -</li><li>\u2022 Chi-square test</li><li>\u2022 non-parametric test\u2019</li><li>\u2022 \u2018test significance</li><li>\u2022 between 2</li><li>\u2022 more qualitative variables.</li><li>\u2022 proportions</li><li>\u2022 2 or more groups</li><li>\u2022 Applications</li><li>\u2022 Chi-square test</li><li>\u2022 Test of proportions Test of association Test of goodness of fit</li><li>\u2022 Test of proportions</li><li>\u2022 Test of proportions</li><li>\u2022 Test of association</li><li>\u2022 Test of association</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Essential requirements for calculation of Chi-square test:</li><li>\u2022 Essential requirements</li><li>\u2022 calculation</li><li>\u2022 Chi-square test:</li><li>\u2022 Random sample Qualitative data Lowest expected frequency not < 5</li><li>\u2022 Random sample</li><li>\u2022 Random sample</li><li>\u2022 Qualitative data</li><li>\u2022 Qualitative data</li><li>\u2022 Lowest expected frequency not < 5</li><li>\u2022 Lowest expected frequency not < 5</li><li>\u2022 Fischer\u2019s test is a variant of Chi-square test when sample size is < 30</li><li>\u2022 Fischer\u2019s test</li><li>\u2022 variant</li><li>\u2022 Chi-square test</li><li>\u2022 sample size</li><li>\u2022 < 30</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The Chi-square test is most directly used to measure the association between two variables . This test is particularly useful for categorical data and is used to assess whether the distribution of sample categorical data matches an expected distribution or not.</li><li>\u27a4 Chi-square test</li><li>\u27a4 directly</li><li>\u27a4 between</li><li>\u27a4 two variables</li><li>\u27a4 test</li><li>\u27a4 useful</li><li>\u27a4 categorical data</li><li>\u27a4 used</li><li>\u27a4 distribution</li><li>\u27a4 sample categorical data</li><li>\u27a4 matches</li><li>\u27a4 distribution</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 95)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 95)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cb26555c",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Roy, a researcher, is analyzing two sets of data, A and B, from a recent study. Set A has a mean of 50 and a standard deviation of 5, while Set B has a mean of 200 and a standard deviation of 40. He wants to compare the relative variability of the two sets of data to determine which one is more spread out in relation to its mean. Which of the following formulas should Dr. Roy use to obtain a standardized measure of dispersion that can be used to compare the variability of the two data sets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(SD x 100) / Mean",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "(Mean x 100) / SD",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "(Mean x SD) / 100",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "(SD +Mean) / 100",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. (SD x 100) / Mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A. (SD x 100) / Mean</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Coefficient of variation is the ratio of standard deviation of series to the arithmetic mean of series. It is unit-less . It is calculated using the formula.</li><li>\u2022 Coefficient of variation</li><li>\u2022 standard deviation</li><li>\u2022 arithmetic mean</li><li>\u2022 unit-less</li><li>\u2022 calculated</li><li>\u2022 formula.</li><li>\u2022 Coefficient of variation = (SD x 100) / Mean .</li><li>\u2022 (SD x 100) / Mean</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Coefficient of Variation (COV) is a measure used to compare relative variability (a unit-free measure to compare dispersion of one variable with another ). COV is SD expressed as percentage of mean.</li><li>\u27a4 Coefficient of Variation (COV)</li><li>\u27a4 relative variability</li><li>\u27a4 unit-free measure</li><li>\u27a4 dispersion</li><li>\u27a4 one variable</li><li>\u27a4 another</li><li>\u27a4 COV</li><li>\u27a4 SD expressed</li><li>\u27a4 percentage</li><li>\u27a4 mean.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 51)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 51)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e512297f",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Varun, a public health researcher, is conducting a study on nutritional practices in a densely populated urban area. To ensure that his sample is representative yet manageable, he decides to select one household randomly and then pick every 7th household in a sequence from a list. By doing so, he believes he can achieve a balanced view without going through the exhaustive process of surveying every household. Which of the following best describes the sampling method Dr. Varun is using?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified random sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Systematic random sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Systematic random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Systematic Random sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Cluster sampling: Cluster sampling involves dividing the population into clusters and randomly selecting entire clusters for inclusion in the study.</li><li>\u2022 Option A.</li><li>\u2022 Cluster sampling:</li><li>\u2022 dividing</li><li>\u2022 population</li><li>\u2022 clusters</li><li>\u2022 randomly</li><li>\u2022 clusters</li><li>\u2022 inclusion</li><li>\u2022 Option B. Simple random sampling: Simple random sampling is a method where each individual or item in the population has an equal chance of being selected independently and randomly.</li><li>\u2022 Option B.</li><li>\u2022 Simple random sampling:</li><li>\u2022 each individual or item</li><li>\u2022 equal chance</li><li>\u2022 selected independently</li><li>\u2022 randomly.</li><li>\u2022 Option C. Stratified random sampling: Stratified random sampling divides the population into strata ( subgroups ) based on certain characteristics and then selects random samples from each stratum.</li><li>\u2022 Option C.</li><li>\u2022 Stratified random sampling:</li><li>\u2022 divides</li><li>\u2022 population</li><li>\u2022 subgroups</li><li>\u2022 certain characteristics</li><li>\u2022 selects random samples</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The key feature of systematic random sampling involves selecting a sample at fixed intervals after an initial random selection . This method ensures a representative and manageable sample size for research , particularly in studies involving large populations, like in public health research.</li><li>\u27a4 systematic random sampling</li><li>\u27a4 fixed intervals</li><li>\u27a4 initial random selection</li><li>\u27a4 method</li><li>\u27a4 representative</li><li>\u27a4 sample size</li><li>\u27a4 research</li><li>\u27a4 large populations,</li><li>\u27a4 public health research.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 69)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 69)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "def274de",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Alisha, a seasoned biostatistician, is supervising a group of researchers conducting a clinical trial on a new antihypertensive drug. The team is keen on reducing the possibility of a Type II error or beta error. In a team meeting, Dr. Alisha quizzes the group to test their understanding about reducing the chances of committing a Type II error. She asks, \"Which of the following methods will not help in reducing the risk of a Type II error?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreasing the sample size",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Set less demanding Type I error.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reduce variability of measurements (increased accuracy)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Use a one tailed test (directional alternate hypotheses)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Decreasing the sample size",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-120623.jpg"
+      ],
+      "explanation": "<p><strong>Ans. A. Decreasing the sample size.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Setting a less demanding Type I error: Setting a higher threshold for Type I error (alpha) can sometimes help reduce the Type II error , as it allows for more flexibility in rejecting the null hypothesis.</li><li>\u2022 Option B. Setting a less demanding Type I error:</li><li>\u2022 higher threshold</li><li>\u2022 Type I error (alpha)</li><li>\u2022 reduce</li><li>\u2022 Type II error</li><li>\u2022 more flexibility</li><li>\u2022 rejecting</li><li>\u2022 null hypothesis.</li><li>\u2022 Option C. Reducing variability of measurements (increased accuracy): Increased accuracy and reduced variability in measurements can enhance the study's power , thus decreasing the chance of a Type II error.</li><li>\u2022 Option C. Reducing variability of measurements (increased accuracy):</li><li>\u2022 Increased accuracy</li><li>\u2022 reduced variability</li><li>\u2022 can enhance</li><li>\u2022 study's power</li><li>\u2022 decreasing</li><li>\u2022 Type II error.</li><li>\u2022 Option D. Using a one-tailed test (directional alternate hypotheses): One-tailed tests , which focus on detecting an effect in a specific direction , can be more powerful than two-tailed tests under certain conditions, thereby potentially reducing Type II error.</li><li>\u2022 Option D. Using a one-tailed test (directional alternate hypotheses):</li><li>\u2022 One-tailed</li><li>\u2022 tests</li><li>\u2022 detecting</li><li>\u2022 specific direction</li><li>\u2022 powerful</li><li>\u2022 two-tailed tests</li><li>\u2022 reducing Type II error.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Type II error or beta error can be reduced by the following ways.</li><li>\u27a4 Type II error</li><li>\u27a4 beta error</li><li>\u27a4 reduced</li><li>\u27a4 Increase the sample size . Set less demanding Type I error. Reduce variability of measurements ( increased accuracy ) Use a one tailed test ( directional alternate hypotheses )</li><li>\u27a4 Increase the sample size .</li><li>\u27a4 Increase the sample size .</li><li>\u27a4 Increase</li><li>\u27a4 sample size</li><li>\u27a4 Set less demanding Type I error.</li><li>\u27a4 Set less demanding Type I error.</li><li>\u27a4 less</li><li>\u27a4 Type I error.</li><li>\u27a4 Reduce variability of measurements ( increased accuracy )</li><li>\u27a4 Reduce variability of measurements ( increased accuracy )</li><li>\u27a4 Reduce</li><li>\u27a4 measurements</li><li>\u27a4 increased accuracy</li><li>\u27a4 Use a one tailed test ( directional alternate hypotheses )</li><li>\u27a4 Use a one tailed test ( directional alternate hypotheses )</li><li>\u27a4 one tailed test</li><li>\u27a4 directional alternate hypotheses</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 89)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 89)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a4e72b43",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ahmed is conducting a study comparing the mean blood pressure of two independent groups: one on a new antihypertensive drug and another on a placebo. He collects data from both groups and plans to analyze the difference in means between the two. He considers using the student's t-test but recalls some characteristics associated with it. Which of the following statements regarding the student's t-test is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard error of mean is estimated.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Standard deviation is used for calculation.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Student\u2019s t test table is required for calculation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Three groups are compared.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Three groups are compared.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Three groups are compared.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Standard error of mean is estimated: This is true . The Student's t-test involves estimating the standard error of the mean to understand the variability of the sample mean from the population mean.</li><li>\u2022 Option A. Standard error of mean is estimated:</li><li>\u2022 true</li><li>\u2022 standard error</li><li>\u2022 variability</li><li>\u2022 sample</li><li>\u2022 mean</li><li>\u2022 population mean.</li><li>\u2022 Option B. Standard deviation is used for calculation: This is also true. The calculation of the t-test involves using the standard deviation of the sample data.</li><li>\u2022 Option B. Standard deviation is used for calculation:</li><li>\u2022 true.</li><li>\u2022 t-test</li><li>\u2022 standard deviation</li><li>\u2022 sample data.</li><li>\u2022 Option C. Student\u2019s t-test table is required for calculation: This is correct . The t-test involves comparing the calculated t-statistic to values in the Student's t-test table to determine statistical significance .</li><li>\u2022 Option C. Student\u2019s t-test table is required for calculation:</li><li>\u2022 correct</li><li>\u2022 t-test</li><li>\u2022 calculated t-statistic</li><li>\u2022 values</li><li>\u2022 Student's t-test</li><li>\u2022 statistical significance</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Means of two groups are compared in a student\u2019s t test . ANOVA is used for comparison of three groups.</li><li>\u27a4 Means</li><li>\u27a4 two groups</li><li>\u27a4 student\u2019s t test</li><li>\u27a4 ANOVA</li><li>\u27a4 comparison</li><li>\u27a4 three groups.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 118)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 118)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fc411020",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Aparna, a researcher in Mumbai, is conducting a study on the relationship between daily exercise duration (independent variable) and reduction in systolic blood pressure (dependent variable) in patients with mild hypertension. She wants to quantify the expected reduction in systolic blood pressure for every additional minute of exercise. After completing her statistical analysis, she identified a specific measure that indicates the change in the dependent variable with a one-unit change in the independent variable. Which of the following best describes the measure Dr. Aparna identified?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Association",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Agreement",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Regression",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Regression",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-125200.jpg"
+      ],
+      "explanation": "<p><strong>Ans. D. Regression</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Correlation: While correlation measures the strength and direction of a relationship between two quantitative or continuous variables . Correlation coefficient (r): Lies between \u2013 1 to +1 ( measures the relationship between 2 variables ).</li><li>\u2022 Option A. Correlation:</li><li>\u2022 measures</li><li>\u2022 strength</li><li>\u2022 direction</li><li>\u2022 two quantitative</li><li>\u2022 continuous variables</li><li>\u2022 Correlation coefficient</li><li>\u2022 1 to +1</li><li>\u2022 measures</li><li>\u2022 2 variables</li><li>\u2022 Option B. Association: Association is a broader term that indicates a simultaneous existence of two variables but does not quantify the nature of the relationship in terms of unit changes .</li><li>\u2022 Option B. Association:</li><li>\u2022 broader term</li><li>\u2022 simultaneous existence</li><li>\u2022 two variables</li><li>\u2022 not</li><li>\u2022 nature</li><li>\u2022 unit changes</li><li>\u2022 Option C. Agreement: Agreement typically refers to the concordance between two measures or ratings , and it is not the correct measure for quantifying change in regression analysis.</li><li>\u2022 Option C. Agreement:</li><li>\u2022 concordance between two measures</li><li>\u2022 ratings</li><li>\u2022 not</li><li>\u2022 correct</li><li>\u2022 quantifying</li><li>\u2022 regression analysis.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Regression is the measure of change of one dependent variable with one unit change in independent variable . It is used to predict how independent variables affect a dependent variable . Regression provides structure of the relationship between 2 quantitative variables</li><li>\u27a4 Regression</li><li>\u27a4 measure</li><li>\u27a4 one dependent variable</li><li>\u27a4 one unit</li><li>\u27a4 independent variable</li><li>\u27a4 used</li><li>\u27a4 independent variables</li><li>\u27a4 dependent variable</li><li>\u27a4 Regression provides structure of the relationship between 2 quantitative variables</li><li>\u27a4 Regression Coefficient (b): Measure of change of one dependent variable (y) with change in independent variable (x) or variables (x1, x2, x3\u2026\u2026)</li><li>\u27a4 Regression Coefficient (b):</li><li>\u27a4 Measure</li><li>\u27a4 one dependent variable (y)</li><li>\u27a4 independent variable (x)</li><li>\u27a4 variables (x1, x2, x3\u2026\u2026)</li><li>\u27a4 Types of regression - (Equation)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 133)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 133)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b7c1b580",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Priyanka is a resident doctor at PGIMER, Chandigarh. As part of her thesis, she is conducting a systematic review on the efficacy of a particular intervention for diabetes management. She's attending a workshop on research methodology where the instructor introduces the concept of funnel plots. Curious about this graphical representation, she decides to include one in her research presentation. During her presentation, Professor Dr. Suresh asks, \"Dr. Priyanka, can you explain what the funnel plot in your systematic review measures?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "I 2 statistic",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Homogeneity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Publication bias",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Regression analysis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Publication bias",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/888.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Publication bias</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 A funnel plot shows the relation between a study\u2019s effect size and its precision . It is a scatter plot of the treatment effects estimated from individual studies (horizontal axis) against sample size (vertical axis). It helps to identify publication bias.</li><li>\u2022 funnel plot</li><li>\u2022 between</li><li>\u2022 study\u2019s effect size</li><li>\u2022 precision</li><li>\u2022 scatter plot</li><li>\u2022 treatment effects</li><li>\u2022 individual studies</li><li>\u2022 sample size</li><li>\u2022 identify publication bias.</li><li>\u2022 It is used primarily as a visual aid for detecting bias or systematic heterogeneity.</li><li>\u2022 visual aid</li><li>\u2022 bias</li><li>\u2022 systematic heterogeneity.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Forest plot is used to describe the distribution of your effect sizes . Funnel plot is used to check the existence of publication bias</li><li>\u27a4 Forest plot is used to describe the distribution of your effect sizes .</li><li>\u27a4 Forest plot is used to describe the distribution of your effect sizes .</li><li>\u27a4 Forest plot</li><li>\u27a4 distribution</li><li>\u27a4 effect sizes</li><li>\u27a4 Funnel plot is used to check the existence of publication bias</li><li>\u27a4 Funnel plot is used to check the existence of publication bias</li><li>\u27a4 Funnel plot</li><li>\u27a4 publication bias</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b734f594",
+      "audio": ""
+    },
+    {
+      "text": "The following is an example of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple bar",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multiple bar",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Component bar",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Horizontal bar",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Component bar",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/222.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/picture1.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Component bar</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 A component bar diagram is also called a stacked bar diagram . Here particular length of each bar represents the number of frequencies associated with each category.</li><li>\u2022 component bar diagram</li><li>\u2022 stacked bar diagram</li><li>\u2022 length</li><li>\u2022 each</li><li>\u2022 number</li><li>\u2022 frequencies</li><li>\u2022 each category.</li><li>\u2022 Synonym - Sub-divided bar chart</li><li>\u2022 Sub-divided bar chart</li><li>\u2022 Types of Bar Graph - (included Other Options)</li><li>\u2022 Bar Graph</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Bar chart</li><li>\u27a4 Bar chart</li><li>\u27a4 Is used for qualitative data representation . A visual tool that uses bars to compare data among categories . Bar graph may run horizontally or vertically. Length of each bar is proportional to the magnitude to be represented.</li><li>\u27a4 Is used for qualitative data representation .</li><li>\u27a4 qualitative data representation</li><li>\u27a4 A visual tool that uses bars to compare data among categories .</li><li>\u27a4 visual tool</li><li>\u27a4 uses</li><li>\u27a4 compare data</li><li>\u27a4 categories</li><li>\u27a4 Bar graph may run horizontally or vertically.</li><li>\u27a4 Bar graph</li><li>\u27a4 horizontally</li><li>\u27a4 vertically.</li><li>\u27a4 Length of each bar is proportional to the magnitude to be represented.</li><li>\u27a4 Length</li><li>\u27a4 proportional</li><li>\u27a4 magnitude</li><li>\u27a4 represented.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 8)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 8)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2c84b149",
+      "audio": ""
+    },
+    {
+      "text": "In the box plot provided below, there are several features that represent different statistical measures. While box plots are useful for displaying the distribution of data based on quartiles, there is a common misconception about one of the elements shown in the plot. Which of the following statements is incorrect concerning the box plot shown? \u200b\u200b\u200b\u200b",
+      "options": [
+        {
+          "label": "A",
+          "text": "Box plot is representation of quartiles.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The lower hinge corresponds to 25 th percentile.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The upper hinge corresponds to 75 th percentile.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mean is the 50 th percentile.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Mean is the 50 th percentile.",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/444.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_2xc09p1.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_QaGgfxh.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Mean is the 50thpercentile.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 3 options</li><li>\u2022 correct</li><li>\u2022 Option A. Box plot is the representation of quartiles . Side of boxes represent quartiles 1st and 3rd, line inside the box is 2nd quartile (median)</li><li>\u2022 Option</li><li>\u2022 A. Box plot is the representation of quartiles</li><li>\u2022 Option B. The lower hinge corresponds to 25 th percentile.</li><li>\u2022 Option</li><li>\u2022 B.</li><li>\u2022 The lower hinge corresponds to 25 th percentile.</li><li>\u2022 Option C. The upper hinge corresponds to 75 th percentile.</li><li>\u2022 Option</li><li>\u2022 C. The upper hinge corresponds to 75 th percentile.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Box and whisker plot</li><li>\u27a4 Box</li><li>\u27a4 whisker plot</li><li>\u27a4 A convenient way of graphically depicting groups of numerical data through their quartiles . Line in Box: 2nd Quartile (Median). Whiskers end : Minimum & Maximum Values. Edges of box: Ist and 3rd Quartile.</li><li>\u27a4 A convenient way of graphically depicting groups of numerical data through their quartiles .</li><li>\u27a4 convenient</li><li>\u27a4 graphically depicting groups</li><li>\u27a4 numerical data</li><li>\u27a4 quartiles</li><li>\u27a4 Line in Box: 2nd Quartile (Median).</li><li>\u27a4 Line</li><li>\u27a4 2nd Quartile (Median).</li><li>\u27a4 Whiskers end : Minimum & Maximum Values.</li><li>\u27a4 Whiskers end</li><li>\u27a4 Minimum</li><li>\u27a4 & Maximum Values.</li><li>\u27a4 Edges of box: Ist and 3rd Quartile.</li><li>\u27a4 Edges</li><li>\u27a4 Ist</li><li>\u27a4 3rd Quartile.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "35780193",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Varma, a professor in biostatistics, is discussing various statistical measures during a class. He highlights several measures that describe the central location or typical value of a dataset. However, among the list he provides, one of the measures does not belong to the category of central tendency. Which of the following is NOT a measure of central tendency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geometric mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Arithmetic mean",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Variance",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Variance",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Variance</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Variance is a statistical measurement of the spread between numbers in a data set.</li><li>\u2022 Variance</li><li>\u2022 statistical</li><li>\u2022 spread between numbers</li><li>\u2022 data set.</li><li>\u2022 It is calculated as: Variance = (Standard deviation) 2</li><li>\u2022 Variance = (Standard deviation) 2</li><li>\u2022 Central Tendency</li><li>\u2022 Central Tendency</li><li>\u2022 Distribution of Central Tendency :</li><li>\u2022 Distribution</li><li>\u2022 Central Tendency</li><li>\u2022 Normal (Gaussian) distribution \u25baMean = Median = Mode (coincide) Right (Positive) skew distribution \u25ba Mean > Median > Mode Left (Negative) skew distribution \u25ba Mean < Median < Mode</li><li>\u2022 Normal (Gaussian) distribution \u25baMean = Median = Mode (coincide)</li><li>\u2022 Right (Positive) skew distribution \u25ba Mean > Median > Mode</li><li>\u2022 Left (Negative) skew distribution \u25ba Mean < Median < Mode</li><li>\u2022 In a bimodal series, Mode = 3 Median \u2013 2 mean</li><li>\u2022 bimodal series, Mode = 3 Median \u2013 2 mean</li><li>\u2022 In distribution with extreme values (Outliers):</li><li>\u2022 Most affected measure of central tendency: Mean Least affected measure of central tendency : Mode Most preferable measure of central tendency: Median.</li><li>\u2022 Most affected measure of central tendency: Mean</li><li>\u2022 Most</li><li>\u2022 central tendency: Mean</li><li>\u2022 Least affected measure of central tendency : Mode</li><li>\u2022 Least</li><li>\u2022 central tendency</li><li>\u2022 Mode</li><li>\u2022 Most preferable measure of central tendency: Median.</li><li>\u2022 Most preferable</li><li>\u2022 Median.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Measures of central tendency are Mean, Median, Mode and Geometric mean.</li><li>\u27a4 central tendency</li><li>\u27a4 Mean, Median, Mode</li><li>\u27a4 Geometric mean.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 36)</li><li>\u27a4 Ref :</li><li>\u27a4 Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 36)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ea19a61f",
+      "audio": ""
+    },
+    {
+      "text": "As a public health officer, when assessing occupational environments for potential respiratory hazards, you should be most concerned about dusts of which particle size?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20-50 microns",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "10-20 microns",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5-10 microns",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Less than 5 microns",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Less than 5 microns",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/Screenshot%202025-05-21%20163306.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Less than 5 microns</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Dust particles >10 microns settle down from the air rapidly , while the smaller ones remain suspended indefinitely .</li><li>\u2022 Dust particles >10 microns</li><li>\u2022 settle down</li><li>\u2022 air rapidly</li><li>\u2022 smaller ones</li><li>\u2022 suspended indefinitely</li><li>\u2022 Particles <5 microns are directly inhaled into the lungs and are retained there - This fraction of the dust is called \u201crespirable dust \u201d, and is mainly responsible for pneumoconiosis .</li><li>\u2022 Particles <5 microns</li><li>\u2022 directly inhaled</li><li>\u2022 lungs</li><li>\u2022 retained there</li><li>\u2022 fraction</li><li>\u2022 dust</li><li>\u2022 \u201crespirable dust</li><li>\u2022 pneumoconiosis</li><li>\u2022 Particle size and behavior -</li><li>\u2022 Particle size and behavior -</li><li>\u2022 Ref : Park 26 th ed pg 900</li><li>\u2022 Ref : Park 26 th ed pg 900</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "81c81185",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old male, employed in the ceramic industry for over a decade, reports to the clinic complaining of chest pain and difficulty breathing, especially when he exerts himself. His occupational history reveals prolonged exposure to dust particles. A subsequent chest X-ray reveals a \"snow storm\" appearance in the lung fields. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anthracosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Silicosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Asbestosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lead poisoning",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Silicosis",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/07/22/image-20230722162139-1.jpeg"
+      ],
+      "explanation": "<p><strong>Ans. B. Silicosis</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Pathologically , silicosis is characterized by a dense \u201cnodular\u201d fibrosis , the nodules ranging from 3 to 4 mm in diameter . (Chest X ray - show snow storm appearance)</li><li>\u2022 Pathologically</li><li>\u2022 dense \u201cnodular\u201d fibrosis</li><li>\u2022 nodules</li><li>\u2022 3 to 4 mm in diameter</li><li>\u2022 Clinically the onset of the disease is insidious . Early manifestations are irritant cough , dyspnea on exertion and pain in the chest .</li><li>\u2022 Clinically</li><li>\u2022 onset of the disease</li><li>\u2022 insidious</li><li>\u2022 Early manifestations</li><li>\u2022 irritant cough</li><li>\u2022 dyspnea</li><li>\u2022 on exertion</li><li>\u2022 pain in the chest</li><li>\u2022 With more advanced diseases , impairment of total lung capacity (TLC) is commonly present .</li><li>\u2022 advanced diseases</li><li>\u2022 impairment</li><li>\u2022 total lung capacity</li><li>\u2022 present</li><li>\u2022 Its occurrence has been uncovered in various industries such as mining industry , coal , mica, gold , silver , lead , zinc , manganese and other metals , pottery and ceramic industry , sand blasting , metal grinding , building and construction work , rock mining, iron and steel industry and several others.</li><li>\u2022 occurrence</li><li>\u2022 uncovered</li><li>\u2022 industries</li><li>\u2022 mining industry</li><li>\u2022 coal</li><li>\u2022 mica,</li><li>\u2022 gold</li><li>\u2022 silver</li><li>\u2022 lead</li><li>\u2022 zinc</li><li>\u2022 manganese</li><li>\u2022 other metals</li><li>\u2022 pottery</li><li>\u2022 ceramic industry</li><li>\u2022 sand blasting</li><li>\u2022 metal grinding</li><li>\u2022 building</li><li>\u2022 construction work</li><li>\u2022 Chest X ray - Snow Storm Appearance in Silicosis</li><li>\u2022 Chest X ray - Snow Storm Appearance in Silicosis</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Silicosis - some important points</li><li>\u27a4 Silicosis - some important points</li><li>\u27a4 Among the occupational diseases , silicosis is the major cause of permanent disability and mortality Particles of the size 0.5 \u2013 3 microns are most dangerous for causation of silicosis IP: Few months to 6 years Chest X-ray shows \u2018 snow storm appearance\u2019 No effective treatment is available Under Factories Act 1948, there are 29 diseases which are notifiable (Schedule 3) including Silicosis, Anthracosis, Byssinosis, Asbestosis.</li><li>\u27a4 Among the occupational diseases , silicosis is the major cause of permanent disability and mortality</li><li>\u27a4 occupational diseases</li><li>\u27a4 silicosis</li><li>\u27a4 major cause</li><li>\u27a4 permanent disability</li><li>\u27a4 mortality</li><li>\u27a4 Particles of the size 0.5 \u2013 3 microns are most dangerous for causation of silicosis</li><li>\u27a4 Particles</li><li>\u27a4 size 0.5 \u2013 3 microns</li><li>\u27a4 IP: Few months to 6 years</li><li>\u27a4 Few months</li><li>\u27a4 6 years</li><li>\u27a4 Chest X-ray shows \u2018 snow storm appearance\u2019</li><li>\u27a4 Chest X-ray</li><li>\u27a4 snow storm appearance\u2019</li><li>\u27a4 No effective treatment is available</li><li>\u27a4 Under Factories Act 1948, there are 29 diseases which are notifiable (Schedule 3) including Silicosis, Anthracosis, Byssinosis, Asbestosis.</li><li>\u27a4 Ref : Park 26 th ed pg 901.</li><li>\u27a4 Ref : Park 26 th ed pg 901.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5d6cb694",
+      "audio": ""
+    },
+    {
+      "text": "You are a Primary Health Care (PHC) medical officer serving a rural community. Recently, you have noticed an influx of patients, predominantly farmers involved in paddy harvesting and grain dust exposure, presenting with symptoms of respiratory distress and signs suggestive of pulmonary fibrosis. Given the occupational history and clinical presentations, exposure to which of the following micro-organisms is most likely associated with the respiratory damage observed in these patients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Micropolyspora faeni",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thermoactinomyces sacchari",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Byssinosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anthracosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Micropolyspora faeni",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-133855.png"
+      ],
+      "explanation": "<p><strong>Ans. A. Micropolyspora faeni</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Farmer\u2019s lung is due to the inhalation of moldy hay or grain dust. The moisture content of over 30% promotes the growth of bacteria and fungi grow rapidly, causing a rise in temperature to 40 to 50 deg. C . This heat encourages the growth of thermophilic actinomycetes , of which Micropolyspora faeni is the main cause of farmer\u2019s lung . The acute illness is characterized by general and respiratory symptoms and physical signs . Repeated attacks cause pulmonary fibrosis and inevitable pulmonary damage and cor pulmonale.</li><li>\u2022 Farmer\u2019s lung</li><li>\u2022 inhalation</li><li>\u2022 moldy hay or grain dust.</li><li>\u2022 moisture content</li><li>\u2022 over 30% promotes</li><li>\u2022 growth of bacteria</li><li>\u2022 fungi grow</li><li>\u2022 rise in temperature</li><li>\u2022 40 to 50 deg. C</li><li>\u2022 growth of thermophilic actinomycetes</li><li>\u2022 Micropolyspora faeni</li><li>\u2022 farmer\u2019s lung</li><li>\u2022 acute illness</li><li>\u2022 general</li><li>\u2022 respiratory symptoms</li><li>\u2022 physical signs</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Antigens involved in Pneumoconioses:</li><li>\u27a4 Antigens involved in Pneumoconioses:</li><li>\u27a4 Ref : Park 26 th ed pg. 902</li><li>\u27a4 Ref : Park 26 th ed pg. 902</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aec56a50",
+      "audio": ""
+    },
+    {
+      "text": "An industrial medical officer has noticed a recurring pattern among the employees in a specific workplace. After the weekend holidays, there seems to be a significant drop of more than 10% in Forced Expiratory Volume in 1 second (FEV1) in most of the employees. This phenomenon, often referred to as \u201cMonday Fever,\u201d is commonly associated with exposure to which of the following conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silicosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anthracosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Byssinosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Farmer\u2019s lung.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Byssinosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Byssinosis</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Bronchopulmonary diseases caused by exposure to airborne dust of cotton , flax & soft hemp leads to Byssinosis . It is a chronic respiratory disease characterized by tightness of the chest & breathlessness at work after the weekend or other absence. It is also called \u2018 Monday Fever\u2019 or 'Monday chest-tightness' . In groups of workers , a drop of more than 10% in FEV1 during the work shift on the day after the weekend holiday may provide advance warning that workers are liable to develop Byssinosis .</li><li>\u2022 Bronchopulmonary diseases</li><li>\u2022 exposure</li><li>\u2022 to airborne dust</li><li>\u2022 cotton</li><li>\u2022 flax & soft hemp</li><li>\u2022 Byssinosis</li><li>\u2022 chronic respiratory disease</li><li>\u2022 tightness</li><li>\u2022 chest & breathlessness</li><li>\u2022 work</li><li>\u2022 weekend</li><li>\u2022 Monday Fever\u2019 or 'Monday chest-tightness'</li><li>\u2022 groups of workers</li><li>\u2022 drop</li><li>\u2022 more than 10%</li><li>\u2022 FEV1</li><li>\u2022 work shift</li><li>\u2022 day after the weekend holiday</li><li>\u2022 Byssinosis</li><li>\u2022 Note -</li><li>\u2022 Note -</li><li>\u2022 Monday Fever or Monday Chest Tightness \u2013 Byssinosis (Cotton exposure)</li><li>\u2022 Monday Fever</li><li>\u2022 Byssinosis</li><li>\u2022 Monday Morning Chills \u2013 Zinc toxicity (Metal fume fever, Malarial chills)</li><li>\u2022 Monday Morning Chills</li><li>\u2022 Zinc toxicity</li><li>\u2022 Monday Headache (Monday disease) - Nitrates</li><li>\u2022 Monday Headache (Monday disease)</li><li>\u2022 Nitrates</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Monday fever / Monday sickness is associated with Byssinosis</li><li>\u27a4 Monday fever</li><li>\u27a4 Byssinosis</li><li>\u27a4 Exposure to cotton dust causes Byssinosis</li><li>\u27a4 Exposure</li><li>\u27a4 cotton dust</li><li>\u27a4 Byssinosis</li><li>\u27a4 Ref : AFMC textbook, pg. 1230.</li><li>\u27a4 Ref : AFMC textbook, pg. 1230.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "73cad49f",
+      "audio": ""
+    },
+    {
+      "text": "Match the following diseases with their associated causes or descriptions:",
+      "options": [
+        {
+          "label": "A",
+          "text": "i- b), ii- d), iii- a), iv- c)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "i- c), ii- d), iii- b), iv- a)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "i- a), ii- c), iii- d), iv- b)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "i- d), ii- a), iii- b), iv- c)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. i- b), ii- d), iii- a), iv- c)",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/Screenshot%202025-05-21%20171830.png"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-134130.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-134212.png"
+      ],
+      "explanation": "<p><strong>Ans. A. i- b), ii- d), iii- a), iv- c)</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Mesothelioma of pleura - Occurs due to long term exposure to Asbestosis . Thermoactinomyces sacchari is associated with farmer\u2019s lung . Micropolyspora faeni Causes Bagassosis Phthisis melanotica - Otherwise called Anthracosis or coal workers pneumoconiosis .</li><li>\u2022 Mesothelioma of pleura - Occurs due to long term exposure to Asbestosis .</li><li>\u2022 Mesothelioma of pleura</li><li>\u2022 exposure to Asbestosis</li><li>\u2022 Thermoactinomyces sacchari is associated with farmer\u2019s lung .</li><li>\u2022 Thermoactinomyces sacchari</li><li>\u2022 farmer\u2019s lung</li><li>\u2022 Micropolyspora faeni Causes Bagassosis</li><li>\u2022 Micropolyspora faeni</li><li>\u2022 Bagassosis</li><li>\u2022 Phthisis melanotica - Otherwise called Anthracosis or coal workers pneumoconiosis .</li><li>\u2022 Phthisis melanotica</li><li>\u2022 Anthracosis</li><li>\u2022 coal workers pneumoconiosis</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 List of Pneumoconioses :</li><li>\u27a4 List of Pneumoconioses</li><li>\u27a4 Antigens involved in Pneumoconioses :</li><li>\u27a4 Antigens involved in Pneumoconioses</li></ul>\n<p><strong>References:</strong></p><ul><li>\u21b3 Reference: Park 26 th ed, Pg 902.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5937998e",
+      "audio": ""
+    },
+    {
+      "text": "Mr. X, who has been working as a Jackhammer operator, recently visited the Primary Health Center with complaints of his fingers turning white. What could be the most likely reason behind this symptom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heat induced vasoconstriction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cold Induced vasoconstriction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vibration induced vasoconstriction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Radiation induced vasoconstriction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Vibration induced vasoconstriction",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Vibration induced</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 After some months or years of exposure to vibrations (10 \u2013 500 Hz), the fine blood vessels of fingers may become extremely sensitive to spasm , known as \u2018White fingers\u2019 .</li><li>\u2022 After some months</li><li>\u2022 years of exposure</li><li>\u2022 vibrations</li><li>\u2022 fine blood vessels</li><li>\u2022 fingers</li><li>\u2022 extremely sensitive to spasm</li><li>\u2022 \u2018White fingers\u2019</li><li>\u2022 White fingers are a form of Raynaud\u2019s Disease . Vibration white finger is the vascular component of \u2018hand-arm vibration syndrome (HAVS)\u2019.</li><li>\u2022 White fingers</li><li>\u2022 form of Raynaud\u2019s Disease</li><li>\u2022 Vibration white finger</li><li>\u2022 vascular component</li><li>\u2022 \u2018hand-arm vibration syndrome</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Adverse effects of vibrations include - Vibration-induced vasoconstriction leading to White fingers due to the Raynaud phenomenon , Osteoarthritis of wrists , shoulders and elbow.</li><li>\u27a4 Adverse effects</li><li>\u27a4 vibrations</li><li>\u27a4 Vibration-induced vasoconstriction</li><li>\u27a4 White fingers</li><li>\u27a4 Raynaud phenomenon</li><li>\u27a4 Osteoarthritis of wrists</li><li>\u27a4 Ref : Textbook of Community Medicine by Rajvir Balwar, pg 734</li><li>\u27a4 Ref : Textbook of Community Medicine by Rajvir Balwar, pg 734</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "281aa0d3",
+      "audio": ""
+    },
+    {
+      "text": "A physician is discussing various types of occupational lung diseases with medical residents. They are reviewing examples of inorganic dusts that can lead to pneumoconiosis. Which of the following is NOT an example of an inorganic dust?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silica",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mica",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Coal",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Jute",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Jute",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-151600.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-151610.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Jute</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Inorganic dusts - silica, mica, coal, asbestos dust, etc.;</li><li>\u2022 Inorganic dusts</li><li>\u2022 Organic dusts - cotton, jute, or dust from hay, grain, silage or animal confinement.</li><li>\u2022 Organic dusts</li><li>\u2022 The soluble dust dissolve slowly , enter the systemic circulation , and are eventually eliminated by body metabolism . The insoluble dust remains, more or less, permanently in the lungs.</li><li>\u2022 soluble dust dissolve slowly</li><li>\u2022 systemic circulation</li><li>\u2022 eliminated</li><li>\u2022 body metabolism</li><li>\u2022 Pneumoconioses - occur due to occupational exposure to dust. 0.5 to 3.0 microns are the most dangerous particle size , as they reach the interior of the lungs with ease.</li><li>\u2022 Pneumoconioses</li><li>\u2022 occupational exposure</li><li>\u2022 0.5 to 3.0 microns</li><li>\u2022 dangerous particle size</li><li>\u2022 interior of the lungs</li><li>\u2022 Particle size and behavior:</li><li>\u2022 List of Pneumoconioses:</li><li>\u2022 List of Pneumoconioses:</li><li>\u2022 Ref : Reference: Park 26 th ed pg 900</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9e0b8986",
+      "audio": ""
+    },
+    {
+      "text": "In a rural community, a new sugarcane manufacturing unit has been established, and as the industrial medical officer, you are responsible for ensuring the safety and health of the workers. One of the potential risks in this industry is the exposure to bagasse, the fibrous residue left after sugarcane stalks are crushed to extract their juice. To minimize the risk of fungal infections from bagasse, which fungicide would you recommend for disinfecting this material?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u200b\u200b\u200b\u200b\u200b\u200b2% Acetic acid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2% propionic acid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "2% Ammonia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2% Ethanol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2% propionic acid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. 2% propionic acid</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Prevention and Bagasse control measures :</li><li>\u2022 Prevention</li><li>\u2022 Bagasse control measures</li><li>\u2022 Keeping moisture content > 20% Spraying bagasse with 2% propionic acid (fungicide). Personal protection Dust control</li><li>\u2022 Keeping moisture content > 20%</li><li>\u2022 Spraying bagasse with 2% propionic acid (fungicide).</li><li>\u2022 Personal protection</li><li>\u2022 Dust control</li><li>\u2022 Bagassosis</li><li>\u2022 Bagassosis</li><li>\u2022 Bagassosis occurs due to occupational exposure to fibrous residue of sugarcane (bagasse); Bagassosis is due to Thermoactinomyces sacchari .</li><li>\u2022 Bagassosis</li><li>\u2022 occupational exposure</li><li>\u2022 fibrous residue</li><li>\u2022 sugarcane</li><li>\u2022 Bagassosis</li><li>\u2022 Thermoactinomyces sacchari</li><li>\u2022 Bagasse contains a percentage of silica , innumerable fungal spores and micro-organisms ; Bagasse dust blocks bronchioles thus leading to bronchitis and bronchopneumonia . Bagassosis is a form of extrinsic allergic alveolitis</li><li>\u2022 Bagasse</li><li>\u2022 percentage of silica</li><li>\u2022 innumerable fungal spores</li><li>\u2022 micro-organisms</li><li>\u2022 Bagasse dust blocks bronchioles</li><li>\u2022 bronchitis</li><li>\u2022 bronchopneumonia</li><li>\u2022 Organisms involved in the causation of bagassosis:</li><li>\u2022 Thermoactinomyces sacchari (most common) Thermoactinomyces vulgaris Micropolyspora faeni</li><li>\u2022 Thermoactinomyces sacchari (most common)</li><li>\u2022 Thermoactinomyces vulgaris</li><li>\u2022 Micropolyspora faeni</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Bagassosis occurs due to occupational exposure to fibrous residue of sugarcane (bagasse); Bagassosis is due to Thermoactinomyces sacchari . It can be controlled by spraying bagasse with 2% propionic acid (fungicide).</li><li>\u27a4 Bagassosis</li><li>\u27a4 occupational exposure</li><li>\u27a4 fibrous residue</li><li>\u27a4 sugarcane</li><li>\u27a4 Bagassosis</li><li>\u27a4 Thermoactinomyces sacchari</li><li>\u27a4 Ref : Park 27 th ed, pg. 934</li><li>\u27a4 Ref : Park 27 th ed, pg. 934</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8ce395b4",
+      "audio": ""
+    },
+    {
+      "text": "A 58-year-old man with a history of working in a mine for 30 years presents to the clinic with complaints of joint pain and difficulty breathing. A chest X-ray reveals multiple small round nodules throughout both lungs. Based on his occupational history and clinical presentation, you suspect Caplan's syndrome. Caplan's syndrome is typically seen in which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asbestosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Silicosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anthracosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Berylliosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Anthracosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Anthracosis</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Caplan\u2019s syndrome - First observed by Dr. A Caplan in 1953 in New South Wales Coal mines . This is characterized by breathlessness , clubbing , bronchitis , emphysema , and right heart failure . This is known as Coal workers\u2019 Pneumoconioses</li><li>\u2022 Caplan\u2019s syndrome</li><li>\u2022 Dr. A Caplan in 1953</li><li>\u2022 New South Wales</li><li>\u2022 Coal mines</li><li>\u2022 breathlessness</li><li>\u2022 clubbing</li><li>\u2022 bronchitis</li><li>\u2022 emphysema</li><li>\u2022 right heart failure</li><li>\u2022 Coal workers\u2019 Pneumoconioses</li><li>\u2022 This condition may be due to quartz , coal mine dust plus rheumatoid arthritis .</li><li>\u2022 quartz</li><li>\u2022 coal mine</li><li>\u2022 dust</li><li>\u2022 rheumatoid arthritis</li><li>\u2022 The exposure period required for Anthracosis is 12 years</li><li>\u2022 exposure period</li><li>\u2022 Anthracosis is 12 years</li><li>\u2022 Under the Factories Act 1948 , there are 29 notifiable diseases (Schedule 3) including Silicosis, Anthracosis, Byssinosis, Asbestosis.</li><li>\u2022 Factories Act 1948</li><li>\u2022 29 notifiable diseases</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Caplan\u2019s syndrome is a condition associated with exposure to coal dust in individuals with pre-existing rheumatoid arthritis , and distinguishes it from other occupational lung diseases associated with different exposures.</li><li>\u27a4 Caplan\u2019s syndrome</li><li>\u27a4 exposure to coal dust</li><li>\u27a4 pre-existing rheumatoid arthritis</li><li>\u27a4 occupational lung diseases</li><li>\u27a4 Ref : AFMC textbook, pg. 1279; Park 27/e pg. 933-934</li><li>\u27a4 Ref : AFMC textbook, pg. 1279; Park 27/e pg. 933-934</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0177b032",
+      "audio": ""
+    },
+    {
+      "text": "Mr. X, a 45-year-old man, presented to your CHC with complaints of persistent constipation and abdominal colic. Upon physical examination, you noticed distinct blue lines along his gums. Considering Mr. X\u2019s clinical presentation, what is the most common mode of absorption for the substance likely responsible for his symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u200b\u200b\u200b\u200b\u200b\u200bIngestion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inhalation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Skin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Conjunctival route",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inhalation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Inhalation</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Lead poisoning may occur in three ways:</li><li>\u2022 Lead poisoning may occur in three ways:</li><li>\u2022 INHALATION : Most cases of lead poisoning are due to inhalation of fumes and dust from lead or its compounds through vehicular exhaust. (most common) INGESTION : Poisoning by ingestion is a less common occurrence . Lead may also be ingested in food or drink through contaminated hands. SKIN : Absorption through skin occurs only in respect of the organic compounds of lead . Inorganic compounds are not absorbed through the skin.</li><li>\u2022 INHALATION : Most cases of lead poisoning are due to inhalation of fumes and dust from lead or its compounds through vehicular exhaust. (most common)</li><li>\u2022 INHALATION</li><li>\u2022 lead poisoning</li><li>\u2022 inhalation of fumes</li><li>\u2022 dust</li><li>\u2022 lead</li><li>\u2022 INGESTION : Poisoning by ingestion is a less common occurrence . Lead may also be ingested in food or drink through contaminated hands.</li><li>\u2022 INGESTION</li><li>\u2022 Poisoning</li><li>\u2022 ingestion</li><li>\u2022 less common occurrence</li><li>\u2022 SKIN : Absorption through skin occurs only in respect of the organic compounds of lead . Inorganic compounds are not absorbed through the skin.</li><li>\u2022 SKIN</li><li>\u2022 Absorption through skin</li><li>\u2022 respect of the organic compounds</li><li>\u2022 lead</li><li>\u2022 Clinical picture of lead poisoning: (Clinical symptoms of plumbism occur when lead level in blood >70 mcg/100 mL)</li><li>\u2022 Clinical picture of lead poisoning:</li><li>\u2022 Facial pallor : Earliest and most consistent sign Anemia : Microcytic hypochromic Punctate basophilia or basophilic stippling of RBCs Burtonian Line : Lead sulphide line on gums (upper jaw) Lead colic : Constipation (but sometimes diarrhea) Lead Palsy (Peripheral neuropathy): Wrist drop or Foot drop Lead encephalopathy ( CNS effects: mostly due to organic lead compounds)</li><li>\u2022 Facial pallor : Earliest and most consistent sign</li><li>\u2022 Facial pallor</li><li>\u2022 Anemia : Microcytic hypochromic</li><li>\u2022 Anemia</li><li>\u2022 Punctate basophilia or basophilic stippling of RBCs</li><li>\u2022 Punctate basophilia</li><li>\u2022 Burtonian Line : Lead sulphide line on gums (upper jaw)</li><li>\u2022 Burtonian Line</li><li>\u2022 Lead colic : Constipation (but sometimes diarrhea)</li><li>\u2022 Lead colic</li><li>\u2022 Lead Palsy (Peripheral neuropathy): Wrist drop or Foot drop</li><li>\u2022 Lead Palsy</li><li>\u2022 Lead encephalopathy ( CNS effects: mostly due to organic lead compounds)</li><li>\u2022 Lead encephalopathy (</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Lead Poisoning - Inhalation is the most common mode of lead absorption in adults , particularly in occupational settings . A useful screening test is Coproporphyrin in Urine (CPU); a sensitive parameter of hematological response is Basophilic stippling of RBCs ; Plumbism can cause Burtonian\u2019s line (Blue Line on gums).</li><li>\u27a4 Lead Poisoning -</li><li>\u27a4 Inhalation</li><li>\u27a4 common mode</li><li>\u27a4 lead absorption</li><li>\u27a4 adults</li><li>\u27a4 occupational settings</li><li>\u27a4 useful screening test</li><li>\u27a4 Coproporphyrin</li><li>\u27a4 Urine</li><li>\u27a4 sensitive parameter</li><li>\u27a4 hematological</li><li>\u27a4 Basophilic stippling</li><li>\u27a4 RBCs</li><li>\u27a4 Plumbism</li><li>\u27a4 Burtonian\u2019s line</li><li>\u27a4 Ref : Park 27 th ed 934.</li><li>\u27a4 Ref : Park 27 th ed 934.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "54ff5a1d",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old man who has been working in the gasoline industry for the past 20 years presents to the industrial medical officer during a routine monthly health check-up. The officer notes that the patient appears pale, and on further inquiry, the patient mentions weakness and difficulty extending his wrist. The patient\u2019s blood work shows anemia. Given the patient\u2019s occupational exposure and clinical presentation, what is the most appropriate initial screening test to order in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coproporphyrin in urine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Basophilic stippling of RBC",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "AminoLevulinic acid in urine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lead in blood and urine.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Coproporphyrin in urine",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-152337.png"
+      ],
+      "explanation": "<p><strong>Ans. A. Coproporphyrin in urine</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Diagnosis of lead poisoning:</li><li>\u2022 Diagnosis of lead poisoning:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Lead Poisoning is known as \u2018 Plumbism\u2019 , Saturnism or Painter\u2019s Colic .</li><li>\u27a4 Lead Poisoning</li><li>\u27a4 Plumbism\u2019</li><li>\u27a4 Saturnism</li><li>\u27a4 Painter\u2019s Colic</li><li>\u27a4 Mode of absorption - Lead can be absorbed by inhalation (most common mode), ingestion , or through the skin</li><li>\u27a4 Mode of absorption</li><li>\u27a4 Lead</li><li>\u27a4 absorbed by inhalation</li><li>\u27a4 ingestion</li><li>\u27a4 through the skin</li><li>\u27a4 Clinical picture -</li><li>\u27a4 Clinical picture</li><li>\u27a4 Facial pallor : Earliest and most consistent sign Anemia : Microcytic hypochromic Punctate basophilia or basophilic stippling of RBCs Burtonian Line : Lead sulphide line on gums (upper jaw) (Blue line on gums) Lead colic : Constipation (but sometimes diarrhea) Lead Palsy (Peripheral neuropathy): Wrist drop or Foot drop Lead encephalopathy (CNS effects : mostly due to organic lead compounds)</li><li>\u27a4 Facial pallor : Earliest and most consistent sign</li><li>\u27a4 Facial pallor</li><li>\u27a4 Anemia : Microcytic hypochromic</li><li>\u27a4 Anemia</li><li>\u27a4 Punctate basophilia or basophilic stippling of RBCs</li><li>\u27a4 Punctate basophilia</li><li>\u27a4 Burtonian Line : Lead sulphide line on gums (upper jaw) (Blue line on gums)</li><li>\u27a4 Burtonian Line</li><li>\u27a4 Lead colic : Constipation (but sometimes diarrhea)</li><li>\u27a4 Lead colic</li><li>\u27a4 Lead Palsy (Peripheral neuropathy): Wrist drop or Foot drop</li><li>\u27a4 Lead Palsy</li><li>\u27a4 Lead encephalopathy (CNS effects : mostly due to organic lead compounds)</li><li>\u27a4 Lead encephalopathy (CNS effects</li><li>\u27a4 BOLD - EDTA + Dimercaprol</li><li>\u27a4 Ref : Park 27 th ed pg. 934-935</li><li>\u27a4 Ref : Park 27 th ed pg. 934-935</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b8001d64",
+      "audio": ""
+    },
+    {
+      "text": "A 35-year-old man, who works as a painter, presented with symptoms of fatigue, abdominal pain, and a tingling sensation in his extremities. A peripheral smear examination revealed the presence of basophilic stippling in red blood cells. Based on the patient\u2019s occupation and the findings from the peripheral smear, what is the chelating agent of choice to treat this patient\u2019s probable poisoning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha lipoic acid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Calcium-EDTA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Deferoxamine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dimercapto propane sulfonate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Calcium-EDTA",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/18/picture88.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Calcium-EDTA</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The peripheral smear shows Basophilic stippling of the RBCs which occur due to inhibition of pyrimidine 5\u2019-nucleotidase leading to aggregations of Ribosomes . It is commonly seen in Lead poisoning, Sideroblastic Anemia, Thalassemia etc.</li><li>\u2022 peripheral smear</li><li>\u2022 Basophilic stippling</li><li>\u2022 RBCs</li><li>\u2022 inhibition of pyrimidine 5\u2019-nucleotidase</li><li>\u2022 aggregations of Ribosomes</li><li>\u2022 For treatment of Lead poisoning, chelating agents are used like:</li><li>\u2022 For treatment of Lead poisoning, chelating agents are used like:</li><li>\u2022 DMSA or Succimer Dimercaprol or BAL Calcium disodium EDTA</li><li>\u2022 DMSA or Succimer</li><li>\u2022 Dimercaprol or BAL</li><li>\u2022 Calcium disodium EDTA</li><li>\u2022 Clinical picture of lead poisoning: (Clinical symptoms of plumbism occur when lead level in blood >70 mcg/100 mL)</li><li>\u2022 Clinical picture of lead poisoning:</li><li>\u2022 Facial pallor : Earliest and most consistent sign Anemia : Microcytic hypochromic Punctate basophilia or basophilic stippling of RBCs Burtonian Line : Lead sulphide line on gums (upper jaw) Lead colic : Constipation (but sometimes diarrhea) Lead Palsy (Peripheral neuropathy): Wrist drop or Foot drop Lead encephalopathy [CNS effects : mostly due to organic lead compounds]</li><li>\u2022 Facial pallor : Earliest and most consistent sign</li><li>\u2022 Facial pallor</li><li>\u2022 Anemia : Microcytic hypochromic</li><li>\u2022 Anemia</li><li>\u2022 Punctate basophilia or basophilic stippling of RBCs</li><li>\u2022 Punctate basophilia</li><li>\u2022 Burtonian Line : Lead sulphide line on gums (upper jaw)</li><li>\u2022 Burtonian Line</li><li>\u2022 Lead colic : Constipation (but sometimes diarrhea)</li><li>\u2022 Lead colic</li><li>\u2022 Lead Palsy (Peripheral neuropathy): Wrist drop or Foot drop</li><li>\u2022 Lead Palsy</li><li>\u2022 Lead encephalopathy [CNS effects : mostly due to organic lead compounds]</li><li>\u2022 Lead encephalopathy [CNS effects</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Lead Poisoning - Inhalation is the most common mode of lead absorption in adults , particularly in occupational settings . A useful screening test is Coproporphyrin in Urine (CPU); a sensitive parameter of hematological response is Basophilic stippling of RBCs; Plumbism can cause Burtonian\u2019s line (Blue Line on gums).</li><li>\u27a4 Lead Poisoning -</li><li>\u27a4 Inhalation</li><li>\u27a4 mode of lead absorption</li><li>\u27a4 adults</li><li>\u27a4 occupational settings</li><li>\u27a4 screening test</li><li>\u27a4 Coproporphyrin</li><li>\u27a4 Urine</li><li>\u27a4 sensitive parameter</li><li>\u27a4 hematological response</li><li>\u27a4 Basophilic stippling</li><li>\u27a4 Ref : Park 27 th ed pg. 934.</li><li>\u27a4 Ref : Park 27 th ed pg. 934.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b3e05aa1",
+      "audio": ""
+    },
+    {
+      "text": "A factory\u2019s health and safety officer is tasked with evaluating the general well-being of the workers. To best assess the impact of health on productivity and attendance, which of the following should the officer primarily focus on?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u200b\u200b\u200b\u200b\u200b\u200bEnvironmental sanitation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sickness absenteeism",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nutritional status of the workers",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Occupational cancer",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sickness absenteeism",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Sickness absenteeism</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Sickness Absenteeism</li><li>\u2022 Sickness Absenteeism</li><li>\u2022 Absenteeism is a useful index in industry to assess the state of health of workers and their physical, mental, and social well-being . The rate of absenteeism was reported to be 8 to 10 days per head per year. A recent study found it to be 16.4 days per head per year.</li><li>\u2022 Absenteeism</li><li>\u2022 useful index</li><li>\u2022 industry to assess the state</li><li>\u2022 health of workers</li><li>\u2022 physical, mental,</li><li>\u2022 social well-being</li><li>\u2022 rate of absenteeism</li><li>\u2022 8 to 10 days</li><li>\u2022 The causes of sickness-absenteeism may not be entirely due to sickness :</li><li>\u2022 causes</li><li>\u2022 sickness-absenteeism</li><li>\u2022 not</li><li>\u2022 entirely due to sickness</li><li>\u2022 Economic causes: if the worker is entitled to sick leave with pay, he tends to avail himself of this privilege by reporting sick. Social causes: Social and family obligations such as weddings, festivals, repair and maintenance of ancestral houses and similar other causes. Medical causes: About 10 per cent of the days lost were found to be due to occupational accidents.</li><li>\u2022 Economic causes: if the worker is entitled to sick leave with pay, he tends to avail himself of this privilege by reporting sick.</li><li>\u2022 Economic causes:</li><li>\u2022 Social causes: Social and family obligations such as weddings, festivals, repair and maintenance of ancestral houses and similar other causes.</li><li>\u2022 Social causes:</li><li>\u2022 Medical causes: About 10 per cent of the days lost were found to be due to occupational accidents.</li><li>\u2022 Medical causes:</li><li>\u2022 Non-occupational causes : nutritional disorders, alcoholism, and drug addiction</li><li>\u2022 Non-occupational causes</li><li>\u2022 The prevention / reduction of sickness absenteeism would result in better utilization of resources and maximizing production -</li><li>\u2022 prevention</li><li>\u2022 reduction of sickness absenteeism</li><li>\u2022 better utilization</li><li>\u2022 resources</li><li>\u2022 maximizing production</li><li>\u2022 Good factory management and practices Adequate preplacement examination Good human relations Application of ergonomics.</li><li>\u2022 Good factory management and practices</li><li>\u2022 Adequate preplacement examination</li><li>\u2022 Good human relations</li><li>\u2022 Application of ergonomics.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 Sickness absenteeism is a useful index in industry to assess the state of health of workers and their physical, mental , and social well-being . The rate of absenteeism was reported to be 8 to 10 days per head per year . A recent study found it to be 16.4 days per head per year.</li><li>\u27a4 Sickness absenteeism</li><li>\u27a4 useful index</li><li>\u27a4 industry</li><li>\u27a4 assess the state of health</li><li>\u27a4 workers</li><li>\u27a4 physical, mental</li><li>\u27a4 social well-being</li><li>\u27a4 absenteeism</li><li>\u27a4 8 to 10 days per head per year</li></ul>\n<p><strong>References:</strong></p><ul><li>\u21b3 Reference: Park 26 th ed pg.906.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "99b4f525",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old construction worker presents to the clinic with complaints of difficulty breathing, cough, and wheezing. He reports that these symptoms have been persisting for several months. He has a 20-year history of working in construction, and he is often exposed to dust and fumes. Upon further inquiry, he mentions that he has been using appropriate protective equipment at work. His chest X-ray shows no abnormalities. Considering the patient's occupational exposure, which of the following diseases is least likely to be associated with his work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asbestosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mesothelioma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Asthma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Malaria",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Malaria",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-153758.png"
+      ],
+      "explanation": "<p><strong>Ans. D.\u00a0 Malaria</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Asbestosis is a lung disease caused by the inhalation of asbestos fibers , which can be encountered in construction work , especially in older buildings . This makes it a potential occupational hazard for this patient.</li><li>\u2022 Option A.</li><li>\u2022 Asbestosis</li><li>\u2022 lung disease</li><li>\u2022 inhalation of asbestos fibers</li><li>\u2022 encountered</li><li>\u2022 construction work</li><li>\u2022 older buildings</li><li>\u2022 Option B. Mesothelioma is a rare form of cancer that is strongly associated with asbestos exposure . Workers in the asbestos industry are at an increased risk, making this a possible occupational hazard.</li><li>\u2022 Option B.</li><li>\u2022 Mesothelioma</li><li>\u2022 rare form of cancer</li><li>\u2022 asbestos exposure</li><li>\u2022 Option C . Asthma can be exacerbated by occupational exposures , including dust and fumes encountered in construction work. Occupational asthma is a well-recognized entity.</li><li>\u2022 Option C</li><li>\u2022 Asthma</li><li>\u2022 exacerbated</li><li>\u2022 occupational exposures</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Occupational Exposure and diseases -</li><li>\u27a4 Ref : Park 26th ed pg. 900.</li><li>\u27a4 Ref : Park 26th ed pg. 900.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a285f48b",
+      "audio": ""
+    },
+    {
+      "text": "A human resources manager is planning the occupational health program for a company and is deciding on the schedule for periodic medical examinations for workers in different industries. Which of the following industries does NOT typically require workers to undergo periodic medical examinations on monthly basis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dichromates",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dye industries",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lead industry",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Radium industry",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Dichromates",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A.\u00a0Dichromates</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Occupational Health Examination -</li><li>\u2022 Occupational Health Examination -</li><li>\u2022 Periodic Post-placement Medical Examination : (for industrial workers) is held at appropriate intervals to test their physical and mental efficiency and to detect any departure from health at the earliest; the objective being early diagnosis and prompt treatment (Secondary level of prevention).</li><li>\u2022 Periodic</li><li>\u2022 Post-placement Medical Examination</li><li>\u2022 appropriate intervals</li><li>\u2022 test</li><li>\u2022 physical</li><li>\u2022 mental efficiency</li><li>\u2022 detect</li><li>\u2022 departure from health</li><li>\u2022 Frequency of periodic examinations : Frequency and content depend upon the type of occupational exposure:</li><li>\u2022 Frequency of periodic examinations</li><li>\u2022 Annual: for most of occupational exposures Every 2 months: Radiation Industry Monthly: for lead, dye-stuffs exposure Daily: for dichromates exposure.</li><li>\u2022 Annual: for most of occupational exposures</li><li>\u2022 Every 2 months: Radiation Industry</li><li>\u2022 Monthly: for lead, dye-stuffs exposure</li><li>\u2022 Daily: for dichromates exposure.</li><li>\u2022 Daily: for dichromates exposure.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Periodic monthly medical examinations are for dye , lead, and radium industry workers.</li><li>\u27a4 Periodic</li><li>\u27a4 monthly medical examinations</li><li>\u27a4 dye</li><li>\u27a4 lead,</li><li>\u27a4 radium industry workers.</li></ul>\n<p><strong>References:</strong></p><ul><li>\u21b3 Reference: Park 26 th ed pg 908.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "95aa4044",
+      "audio": ""
+    },
+    {
+      "text": "A manager at a manufacturing plant is reviewing the guidelines and regulations under the Factories Act to ensure compliance and maintain a safe working environment for his employees. Which of the following statements is NOT true with respect to the Factories Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u200b\u200b\u200b\u200b\u200b\u200bIt includes only permanent labor.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "People between 15- 18 years are allowed to work in factories.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The timing for women employees is between 6.00 am and 7.00 pm.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The state governments are empowered to prescribe maximum weights which may be lifted by employees.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. \u200b\u200b\u200b\u200b\u200b\u200bIt includes only permanent labor.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A. It includes only permanent labor.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The 1976 amendment modifies the definition of the term worker - It also includes contract labor employed in the manufacturing process .</li><li>\u2022 1976 amendment modifies</li><li>\u2022 term worker</li><li>\u2022 contract labor employed</li><li>\u2022 manufacturing process</li><li>\u2022 The Factory Act 1948</li><li>\u2022 The Factory Act 1948</li><li>\u2022 A Factory is an establishment with more than 10 persons working together with power or more than 20 persons working together without power. This act is not applicable to Defense, Mines, Railways and Eateries.</li><li>\u2022 Factory</li><li>\u2022 establishment with more than 10 persons</li><li>\u2022 power</li><li>\u2022 more than 20 persons</li><li>\u2022 working together</li><li>\u2022 Child is considered from the age 0-14 years for which employment is prohibited and adolescents are considered from the age 15-18 years .</li><li>\u2022 Child</li><li>\u2022 age 0-14 years</li><li>\u2022 employment is prohibited</li><li>\u2022 adolescents</li><li>\u2022 age 15-18 years</li><li>\u2022 Work Hour Duration : 9 hours/day or 48 hours/week maximum it can go upto 60 hours/week including overtime</li><li>\u2022 Work Hour Duration</li><li>\u2022 Per Capita Space : More than 500 cubic feet.</li><li>\u2022 Per Capita Space</li><li>\u2022 More</li><li>\u2022 500 cubic feet.</li><li>\u2022 Norms:</li><li>\u2022 Norms:</li><li>\u2022 1 safety officer per 1000 workers 1 welfare officer per 500 workers 1 canteen per 250 workers 1 creche per 30 female workers 29 notifiable diseases</li><li>\u2022 1 safety officer per 1000 workers</li><li>\u2022 1 welfare officer per 500 workers</li><li>\u2022 1 canteen per 250 workers</li><li>\u2022 1 creche per 30 female workers</li><li>\u2022 29 notifiable diseases</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The Factory Act is not only applicable to permanent workers , but also to the contractual workers (1976 amendment)</li><li>\u27a4 Factory Act</li><li>\u27a4 not</li><li>\u27a4 applicable to permanent workers</li><li>\u27a4 contractual workers</li><li>\u27a4 Ref : Park 26 th ed pg. 910</li><li>\u27a4 Ref : Park 26 th ed pg. 910</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "36a6c2bb",
+      "audio": ""
+    },
+    {
+      "text": "You are a physician tasked with advising a newly established cotton industry on occupational health and safety regulations. The factory management is keen on complying with the Factories Act to ensure a safe and healthy working environment for their employees. They have approached you to provide guidance on the recommended space allocation per worker to meet legal and safety standards. What is the recommended space allocation for each worker (excluding the floor space) in the cotton industry, according to the Factories Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "250 Cubic ft",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "350 Cubic ft",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "500 Cubic ft",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "750 Cubic ft",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 500 Cubic ft",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. 500 Cubic ft</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Chapter III, IV, IVA and V of the Factories Act deals with Health safety and welfare . According to this, a minimum of 500 Cu . ft of space for each worker has been prescribed (not considering space more than 14 feet above ground level). For factories installed before the 1948 Act , a minimum of 350 Cu. ft of space has been prescribed.</li><li>\u2022 Chapter III, IV, IVA</li><li>\u2022 V of the Factories Act</li><li>\u2022 Health safety</li><li>\u2022 welfare</li><li>\u2022 minimum of 500 Cu</li><li>\u2022 ft</li><li>\u2022 space</li><li>\u2022 each worker</li><li>\u2022 factories installed</li><li>\u2022 1948 Act</li><li>\u2022 minimum of 350 Cu. ft</li><li>\u2022 The Factories Act, 1948 - The Act defines a factory as an establishment employing 10 or more persons where power is used and 20 or more persons where power is not used.</li><li>\u2022 The Factories Act, 1948 -</li><li>\u2022 Act</li><li>\u2022 factory</li><li>\u2022 employing 10</li><li>\u2022 more persons</li><li>\u2022 power</li><li>\u2022 20</li><li>\u2022 more persons</li><li>\u2022 Work related norms :</li><li>\u2022 Work related norms</li><li>\u2022 Employment of young persons: Employment prohibited for age less than 14 years 15-18 years old adolescents to be declared fit by \u2018certifying surgeons\u2019; will work only between 6 AM to 7 PM Employment prohibited in certain dangerous occupations Hours of work: A maximum of 4\u00bd hours of work per day for adolescents 48 hours per week (9 hrs per day) 60 hours per week (including overtime)\u200b\u200b\u200b Leave with wages: 1 day per 15 days of work for adolescents Leaves can be accumulated up to 40 days Health, Safety and Welfare recommendations:</li><li>\u2022 Employment of young persons:</li><li>\u2022 Employment prohibited for age less than 14 years</li><li>\u2022 15-18 years old adolescents to be declared fit by \u2018certifying surgeons\u2019; will work only between 6 AM to 7 PM Employment prohibited in certain dangerous occupations Hours of work: A maximum of 4\u00bd hours of work per day for adolescents 48 hours per week (9 hrs per day) 60 hours per week (including overtime)\u200b\u200b\u200b</li><li>\u2022 Employment prohibited in certain dangerous occupations Hours of work: A maximum of 4\u00bd hours of work per day for adolescents 48 hours per week (9 hrs per day) 60 hours per week (including overtime)\u200b\u200b\u200b</li><li>\u2022 Employment prohibited in certain dangerous occupations</li><li>\u2022 Hours of work:</li><li>\u2022 A maximum of 4\u00bd hours of work per day for adolescents</li><li>\u2022 48 hours per week (9 hrs per day)</li><li>\u2022 60 hours per week (including overtime)\u200b\u200b\u200b</li><li>\u2022 Leave with wages: 1 day per 15 days of work for adolescents Leaves can be accumulated up to 40 days Health, Safety and Welfare recommendations:</li><li>\u2022 1 day per 15 days of work for adolescents Leaves can be accumulated up to 40 days Health, Safety and Welfare recommendations:</li><li>\u2022 1 day per 15 days of work for adolescents</li><li>\u2022 Leaves can be accumulated up to 40 days</li><li>\u2022 Health, Safety and Welfare recommendations:</li><li>\u2022 Under the Factories Act 1948 , there are 29 notifiable diseases (Schedule 3): Silicosis, Anthracosis, Byssinosis, Asbestosis</li><li>\u2022 Factories Act 1948</li><li>\u2022 29 notifiable diseases</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Health, Safety and Welfare recommendations :</li><li>\u27a4 Health, Safety</li><li>\u27a4 Welfare recommendations</li><li>\u27a4 A minimum of 500 cubic feet space per worker 1 Safety Officer per 1000 workers 1 Welfare Officer per 500 workers 1 Canteen for greater than 250 workers 1 Cr\u00e8che for greater than 30 women workers</li><li>\u27a4 A minimum of 500 cubic feet space per worker</li><li>\u27a4 1 Safety Officer per 1000 workers</li><li>\u27a4 1 Welfare Officer per 500 workers</li><li>\u27a4 1 Canteen for greater than 250 workers</li><li>\u27a4 1 Cr\u00e8che for greater than 30 women workers</li><li>\u27a4 Ref : Park 26 th ed pg 910</li><li>\u27a4 Ref : Park 26 th ed pg 910</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a91d652a",
+      "audio": ""
+    },
+    {
+      "text": "A 25-year-old man is employed as a machine operator in a manufacturing plant. He has been working extended hours for the past few weeks to meet production deadlines. Concerned about labor laws and employee rights, he decided to inquire about the maximum permitted working hours including overtime for adults according to the Factories Act. What is the maximum number of hours an adult worker can work per week, including overtime, under the Factories Act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "42 hours",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "48 hours",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "52 hours",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "60 hours",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 60 hours",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. 60 hours</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Work-related norms -</li><li>\u2022 Work-related norms -</li><li>\u2022 Employment of young persons : Employment is prohibited for age less than 14 years 15-18 years old adolescents to be declared fit by \u2018 certifying surgeons\u2019 ; will work only between 6AM to 7PM Employment prohibited in certain dangerous occupations</li><li>\u2022 Employment of young persons : Employment is prohibited for age less than 14 years 15-18 years old adolescents to be declared fit by \u2018 certifying surgeons\u2019 ; will work only between 6AM to 7PM Employment prohibited in certain dangerous occupations</li><li>\u2022 Employment of young persons</li><li>\u2022 Employment is prohibited for age less than 14 years 15-18 years old adolescents to be declared fit by \u2018 certifying surgeons\u2019 ; will work only between 6AM to 7PM Employment prohibited in certain dangerous occupations</li><li>\u2022 Employment is prohibited for age less than 14 years</li><li>\u2022 Employment</li><li>\u2022 prohibited</li><li>\u2022 age less than 14 years</li><li>\u2022 15-18 years old adolescents to be declared fit by \u2018 certifying surgeons\u2019 ; will work only between 6AM to 7PM</li><li>\u2022 15-18 years</li><li>\u2022 certifying surgeons\u2019</li><li>\u2022 Employment prohibited in certain dangerous occupations</li><li>\u2022 Employment</li><li>\u2022 dangerous occupations</li><li>\u2022 Hours of work: A maximum of 4\u00bd hours of work per day for adolescents 48 hours per week (9 hrs per day) MAXIMUM It can go upto 60 hours per week (including overtime) Leave with wages : 1 day per 15 days of work for adolescents 1 day per 20 days of work for adults Leaves can be accumulated up to 40 days</li><li>\u2022 Hours of work: A maximum of 4\u00bd hours of work per day for adolescents 48 hours per week (9 hrs per day) MAXIMUM It can go upto 60 hours per week (including overtime)</li><li>\u2022 Hours of work:</li><li>\u2022 A maximum of 4\u00bd hours of work per day for adolescents 48 hours per week (9 hrs per day) MAXIMUM It can go upto 60 hours per week (including overtime)</li><li>\u2022 A maximum of 4\u00bd hours of work per day for adolescents</li><li>\u2022 maximum</li><li>\u2022 4\u00bd hours</li><li>\u2022 48 hours per week (9 hrs per day) MAXIMUM</li><li>\u2022 It can go upto 60 hours per week (including overtime)</li><li>\u2022 Leave with wages : 1 day per 15 days of work for adolescents 1 day per 20 days of work for adults Leaves can be accumulated up to 40 days</li><li>\u2022 Leave with wages</li><li>\u2022 1 day per 15 days of work for adolescents 1 day per 20 days of work for adults Leaves can be accumulated up to 40 days</li><li>\u2022 1 day per 15 days of work for adolescents</li><li>\u2022 1 day per 20 days of work for adults</li><li>\u2022 Leaves can be accumulated up to 40 days</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 \u201c Factory Act, 1948 \u201d maximum permissible working hours/ week - 48 hours (60 hours with overtime)</li><li>\u27a4 Factory Act, 1948</li><li>\u27a4 maximum</li><li>\u27a4 working hours/ week</li><li>\u27a4 48 hours</li><li>\u27a4 Ref : Park 26 th ed pg. 910</li><li>\u27a4 Ref : Park 26 th ed pg. 910</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8e6d1038",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old human resource manager at a manufacturing plant is tasked with updating the company's employee benefits program. She is particularly focusing on the Employee State Insurance (ESI) Scheme, a self-financing social security and health insurance scheme for Indian workers. To ensure accuracy in her report, she needs to identify the committee on whose recommendations the ESI Scheme was established. Which of the following committees was responsible for this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adarkar committee",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bajaj Committee",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mudaliar committee",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bhore committee",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Adarkar committee",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/Screenshot%202025-05-23%20164927_Xpvx0Lm.png"
+      ],
+      "explanation": "<p><strong>Ans. A. Adarkar committee</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The Employee State Insurance (ESI) Scheme was based on the recommendations of the B. P. Adarkar Committee , constituted by the Government of India in 1946. The scheme was later enacted as the Employee State Insurance Act in 1948 . The B. P. Adarkar Committee played a pivotal role in formulating this comprehensive social security scheme aimed at protecting employees against sickness , disability , and death due to employment injury .</li><li>\u2022 Employee State Insurance</li><li>\u2022 Scheme</li><li>\u2022 B. P. Adarkar Committee</li><li>\u2022 Government of India in 1946.</li><li>\u2022 scheme</li><li>\u2022 Employee State Insurance Act in 1948</li><li>\u2022 B. P. Adarkar Committee</li><li>\u2022 pivotal role</li><li>\u2022 formulating</li><li>\u2022 comprehensive social security scheme</li><li>\u2022 protecting employees against sickness</li><li>\u2022 disability</li><li>\u2022 death</li><li>\u2022 employment injury</li><li>\u2022 ESI Corporation was framed with tripartite participation - Government, employer, and employee to provide medical care and compensation to an employee.</li><li>\u2022 ESI Corporation</li><li>\u2022 framed with tripartite participation</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The Employee State Insurance (ESI) Scheme was based on the recommendations of the B. P. Adarkar Committee</li><li>\u27a4 Employee State Insurance</li><li>\u27a4 Ref : Textbook of Community Medicine by Rajvir Balwar, Pg 738.</li><li>\u27a4 Ref : Textbook of Community Medicine by Rajvir Balwar, Pg 738.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9272f0c5",
+      "audio": ""
+    },
+    {
+      "text": "A researcher is designing a study to assess the prevalence of contraceptive use in a community. When determining the metrics for the study, which indicator would be most appropriate to measure the prevalence of contraceptive practices within the community?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Total Fertility rate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Couple protection rate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Unmet needs",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "NRR",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Couple protection rate",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/07/20/effective-cpr.png"
+      ],
+      "explanation": "<p><strong>Ans.\u00a0B. Couple protection rate</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. TFR - Total fertility rate : Is the Number of live births per woman completing her reproductive life , if her childbearing at each age reflected current age specific fertility rate</li><li>\u2022 Option A. TFR - Total fertility rate</li><li>\u2022 Number of live births</li><li>\u2022 woman completing</li><li>\u2022 reproductive life</li><li>\u2022 Option C. Unmet need :  Unmet need for family planning is the percentage of women of reproductive age , either married or in a union , who have an unmet need for family planning. Women with unmet need are those who are want to stop or delay childbearing but are not using any method of contraception.</li><li>\u2022 Option C. Unmet need</li><li>\u2022 family planning</li><li>\u2022 percentage of women</li><li>\u2022 reproductive age</li><li>\u2022 married or in a union</li><li>\u2022 Option D. NRR: \u200b\u200b\u200b\u200b\u200b\u200b\u200bNet reproduction rate is the expected number of daughters , per newborn prospective mother , who may or may not survive to and through the ages of child bearing.</li><li>\u2022 Option D. NRR:</li><li>\u2022 expected number of daughters</li><li>\u2022 newborn prospective mother</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Couple protection rate (CPR) is an indicator of the prevalence of contraceptive practice in the community</li><li>\u27a4 Couple protection rate</li><li>\u27a4 prevalence of contraceptive practice</li><li>\u27a4 community</li><li>\u27a4 To achieve NRR =1 - Couple Protection Rate (CPR) should be >60%</li><li>\u27a4 Ref : Park 26 th ed pg 573</li><li>\u27a4 Ref : Park 26 th ed pg 573</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "15f6d369",
+      "audio": ""
+    },
+    {
+      "text": "In conducting a prospective study to evaluate the performance of various contraceptive methods over time, the researchers are interested in calculating the failure rates per month of use. They seek a comprehensive analysis that accounts for varying durations of contraceptive use and intervals at which participants may discontinue the study or experience an outcome (such as pregnancy). Which statistical method should the researchers employ to most accurately reflect the monthly failure rates in their study population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Couple protection rate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pearl Index",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Life table analysis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Corrected Pearl index",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Life table analysis",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/07/image_hUa64eR.png"
+      ],
+      "explanation": "<p><strong>Ans.\u00a0C. Life table analysis</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Couple protection rate (CPR ): CPR is percent of eligible couples (ECs) protected against one or the other approved methods of family planning ,</li><li>\u2022 Option A. Couple protection rate (CPR</li><li>\u2022 percent of eligible couples</li><li>\u2022 protected against</li><li>\u2022 other approved methods of family planning</li><li>\u2022 viz. condoms, OCPs, IUDs, sterilization.</li><li>\u2022 NRR = 1 can be achieved if: CPR >60%</li><li>\u2022 Option B. Pearl Index (PI) : PI or Pearl rate is the MC technique used in clinical trials for measuring the effectiveness of a birth control method .</li><li>\u2022 Option B. Pearl Index (PI)</li><li>\u2022 Pearl rate is the MC technique</li><li>\u2022 clinical trials</li><li>\u2022 measuring the effectiveness</li><li>\u2022 birth control method</li><li>\u2022 NRR = 1 can be achieved if: CPR >60%</li><li>\u2022 Option B. Pearl Index (PI) : PI or Pearl rate is the MC technique used in clinical trials for measuring the effectiveness of a birth control method .</li><li>\u2022 Option B. Pearl Index (PI)</li><li>\u2022 Pearl rate is the MC technique</li><li>\u2022 clinical trials</li><li>\u2022 measuring the effectiveness</li><li>\u2022 birth control method</li><li>\u2022 PI is no. of failures per 100 woman years (HWY) of exposure</li><li>\u2022 In designing a use-effectiveness trial, a \u2018minimum of 600 months of exposure \u2019 is required for a firm conclusion</li><li>\u2022 600 months of exposure</li><li>\u2022 Disadvantages for PI:</li><li>\u2022 Disadvantages for PI:</li><li>\u2022 PI assumes a constant failure rate over time PI also provides no information on factors other than accidental pregnancy which may influence effectiveness calculations , viz. dissatisfaction with the method, trying to achieve pregnancy, medical side effects, lost to follow up PI is only accurate as a statistical estimation of per-year risk of pregnancy if the pregnancy rate was very low</li><li>\u2022 PI assumes a constant failure rate over time</li><li>\u2022 PI assumes</li><li>\u2022 constant failure rate over time</li><li>\u2022 PI also provides no information on factors other than accidental pregnancy which may influence effectiveness calculations , viz. dissatisfaction with the method, trying to achieve pregnancy, medical side effects, lost to follow up</li><li>\u2022 PI also provides no information</li><li>\u2022 factors</li><li>\u2022 accidental pregnancy</li><li>\u2022 influence effectiveness calculations</li><li>\u2022 PI is only accurate as a statistical estimation of per-year risk of pregnancy if the pregnancy rate was very low</li><li>\u2022 Option C. Corrected Pearl Index : The original Pearl Index has some limitations . It does not account for factors such as the frequency of intercourse , different phases of a woman's reproductive cycle , or varying fertility levels . Additionally, it assumes that the risk of pregnancy is constant over time, which may not be the case.</li><li>\u2022 Option C. Corrected Pearl Index</li><li>\u2022 original Pearl Index</li><li>\u2022 limitations</li><li>\u2022 does not account for factors</li><li>\u2022 frequency of intercourse</li><li>\u2022 different phases of a woman's reproductive cycle</li><li>\u2022 varying fertility levels</li><li>\u2022 The Corrected Pearl Index attempts to address these limitations . It adjusts for various factors like different phases of the menstrual cycle , inconsistencies in the use of the contraceptive method, and other factors that might affect the risk of pregnancy . The exact adjustments can vary, but the goal is to provide a more accurate measure of a contraceptive method's effectiveness under typical use conditions.</li><li>\u2022 Corrected Pearl Index</li><li>\u2022 address these limitations</li><li>\u2022 adjusts</li><li>\u2022 different phases</li><li>\u2022 menstrual cycle</li><li>\u2022 inconsistencies in the use</li><li>\u2022 contraceptive method,</li><li>\u2022 risk of pregnancy</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Contraceptive Efficacy/ failure: This is assessed by measuring the number of unplanned pregnancies that occur during a specified period of exposure and use of a contraceptive method. Two methods used are Pearl Index and Life table analysis . LTA is better measure than PI.</li><li>\u27a4 Contraceptive Efficacy/ failure:</li><li>\u27a4 assessed by measuring</li><li>\u27a4 number of unplanned pregnancies</li><li>\u27a4 specified period of exposure</li><li>\u27a4 use of a contraceptive method.</li><li>\u27a4 Two methods</li><li>\u27a4 Pearl Index</li><li>\u27a4 Life table analysis</li><li>\u27a4 Ref : Park 26 th ed pg 591.</li><li>\u27a4 Ref : Park 26 th ed pg 591.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f3179da3",
+      "audio": ""
+    },
+    {
+      "text": "A researcher is assessing the effectiveness of a new contraceptive method. In this prospective study, 250 women were followed for a total of 30 months. During the study, 5 of the women became pregnant. The researcher is now looking to calculate the Pearl Index from the study's findings to determine the contraceptive's failure rate.",
+      "options": [
+        {
+          "label": "A",
+          "text": "200 HWY",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.8 HWY",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "800 HWY",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.2 HWY",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 0.8 HWY",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/07/20/image-20230720151912-1.png"
+      ],
+      "explanation": "<p><strong>Ans. B. 0.8 HWY</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Contraceptive failure rate per hundred women year is given by Pearl Index .</li><li>\u2022 Contraceptive failure rate</li><li>\u2022 hundred women year</li><li>\u2022 Pearl Index</li><li>\u2022 The Pearl index is calculated as</li><li>\u2022 Number of Women/ couple = 250</li><li>\u2022 Total accidental pregnancies = 5</li><li>\u2022 Total months of exposure = 250 x 30 months = 7500</li><li>\u2022 Pearl Index = (5*1200 / 7500)</li><li>\u2022 = 0.8 HWYs</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Pearl Index is Failures per 100 women -years of exposure</li><li>\u27a4 Pearl Index</li><li>\u27a4 Failures per 100 women</li><li>\u27a4 \u201c Pearl Index \u201d Is normally used for studying the Failure rate / Efficacy of contraceptive</li><li>\u27a4 Pearl Index</li><li>\u27a4 studying the Failure rate</li><li>\u27a4 Ref : Park 26 th ed pg 591.</li><li>\u27a4 Ref : Park 26 th ed pg 591.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "872cc5c7",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old woman comes to the clinic seeking advice on contraception. She is currently not on any form of birth control and is interested in understanding her options. She prefers a method that is easily reversible upon discontinuation and does not interfere with spontaneity during intercourse. After discussing various options, the healthcare provider wants to ensure the patient is informed about conventional contraceptive methods. Which of the following is NOT considered a conventional contraceptive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Condom",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Spermicide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Oral Contraceptive pills",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Vaginal diaphragm",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Oral Contraceptive pills",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/26/screenshot-2024-08-26-123443.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/26/screenshot-2024-08-26-123429.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/26/screenshot-2024-08-26-123435.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Oral Contraceptive pills</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Condoms are used at the time of intercourse . Male condom is made of latex which is to be worn by male on a fully erect penis at the time of intercourse . Female condoms are made of polyurethane which makes it less irritative. It is to be removed after 4 hours of the intercourse.</li><li>\u2022 Option A. Condoms</li><li>\u2022 used at the time of intercourse</li><li>\u2022 Male condom</li><li>\u2022 latex</li><li>\u2022 worn by male on a fully erect penis</li><li>\u2022 time of intercourse</li><li>\u2022 Female condoms</li><li>\u2022 polyurethane</li><li>\u2022 Male Condom</li><li>\u2022 Female Condom</li><li>\u2022 Female Condom</li><li>\u2022 Option B. Spermicides are jelly substances which are used along with Sponge or Diaphragm . It contains Nonoxynol-9 which disrupts the plasma membrane of sperms and hence provide contraception. It is to be used at the time of intercourse.</li><li>\u2022 Option B. Spermicides</li><li>\u2022 jelly substances</li><li>\u2022 Sponge or Diaphragm</li><li>\u2022 Option D. Vaginal diaphragm or Dutch Cap is used along with Spermicide jelly . It is reusable and is to be worn 4 hours before and should be removed 6 hours after the intercourse . This requires the female to be educated for its maximum effective use. If kept for too long, it can cause Toxic Shock Syndrome.</li><li>\u2022 Option D. Vaginal diaphragm or Dutch Cap</li><li>\u2022 Spermicide jelly</li><li>\u2022 reusable</li><li>\u2022 worn 4 hours before</li><li>\u2022 removed 6 hours after the intercourse</li><li>\u2022 Dutch Cap/Diaphragm</li><li>\u2022 Dutch Cap/Diaphragm</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Conventional Contraceptives are the methods that require action at the time of coitus \u2013 Condoms , Spermicides , Jellies</li><li>\u27a4 Conventional Contraceptives</li><li>\u27a4 require action</li><li>\u27a4 time of coitus</li><li>\u27a4 Condoms</li><li>\u27a4 Spermicides</li><li>\u27a4 Jellies</li><li>\u27a4 Ref : Park 26 th ed, pg 574</li><li>\u27a4 Ref : Park 26 th ed, pg 574</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fb221106",
+      "audio": ""
+    },
+    {
+      "text": "A public health official is evaluating the outreach and impact of a social marketing program aimed at improving contraceptive use in a low-resource setting. The program involves the distribution of family planning commodities through commercial but subsidized channels to make them accessible and affordable to the target population. Which of the following contraceptive devices is typically supplied under a social marketing program?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intra uterine Devices",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Condom",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Diaphragm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vaginal sponge",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Condom",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Condom</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Options A. Intra uterine Devices, C. Diaphragm, & D. Vaginal Sponge are not supplied under social marketing.</li><li>\u2022 Options A. Intra uterine Devices, C. Diaphragm, & D. Vaginal Sponge</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Condoms are supplied under the social marketing program through Condom vending machines (CVMs) at parks, pay and use toilets, railway stations, bus stations , petrol pumps, wine shops , bars, restaurants , STD/PCO booths, tea-shops, paan-shops</li><li>\u27a4 Condoms</li><li>\u27a4 social marketing program</li><li>\u27a4 Condom vending machines</li><li>\u27a4 parks, pay</li><li>\u27a4 use toilets, railway stations, bus stations</li><li>\u27a4 petrol pumps, wine shops</li><li>\u27a4 bars, restaurants</li><li>\u27a4 Ref : Park 26 th ed, pg 575</li><li>\u27a4 Ref : Park 26 th ed, pg 575</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7bbf5df7",
+      "audio": ""
+    },
+    {
+      "text": "As a medical officer overseeing a community needs assessment process at a primary health care (PHC) center, you review the data collected by the female health assistant during a complete family survey conducted in March. One of the key demographic indicators you're interested in is the number of eligible couples, as this helps in planning for family welfare services. In a community needs assessment process, for a population of 1000, how many eligible couples are typically anticipated by a medical officer at a PHC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100-120",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "130-150",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "150-180",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "180-200",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 150-180",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.\u00a0C. 150-180</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Eligible Couples</li><li>\u2022 Eligible Couples</li><li>\u2022 Eligible couples (ECs): A currently married couple with wife in reproductive age group</li><li>\u2022 currently married couple</li><li>\u2022 wife</li><li>\u2022 reproductive age group</li><li>\u2022 (15\u201349 years\u2019 age)</li><li>\u2022 There are 150\u2013180 ECs per 1000 population in India ECs are in need of family planning services 20% ECs are in age group 20\u201324 years</li><li>\u2022 There are 150\u2013180 ECs per 1000 population in India</li><li>\u2022 150\u2013180 ECs</li><li>\u2022 1000 population in India</li><li>\u2022 ECs are in need of family planning services</li><li>\u2022 ECs</li><li>\u2022 need of family planning services</li><li>\u2022 20% ECs are in age group 20\u201324 years</li><li>\u2022 20% ECs</li><li>\u2022 age group 20\u201324 years</li><li>\u2022 EC register , a basic document for organizing family planning work , is maintained at Subcentre</li><li>\u2022 EC register</li><li>\u2022 basic document</li><li>\u2022 organizing family planning work</li><li>\u2022 Subcentre</li><li>\u2022 CPR is percent of eligible couples (ECs) protected against one or the other approved methods of family planning , viz. condoms, OCPs, IUDs, sterilization</li><li>\u2022 CPR</li><li>\u2022 percent of eligible couples</li><li>\u2022 protected against</li><li>\u2022 one or the other approved methods</li><li>\u2022 family planning</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 An \u201celigible couple \u201d refers to a currently married couple wherein the wife is in the reproductive age , which is generally assumed to lie between the ages of 15 and 49 . There will be at least 150 to 180 such couples per 1000 population in India.</li><li>\u27a4 An \u201celigible couple \u201d refers to a currently married couple wherein the wife is in the reproductive age , which is generally assumed to lie between the ages of 15 and 49 .</li><li>\u27a4 \u201celigible couple</li><li>\u27a4 currently married couple</li><li>\u27a4 wife</li><li>\u27a4 reproductive age</li><li>\u27a4 ages of 15 and 49</li><li>\u27a4 There will be at least 150 to 180 such couples per 1000 population in India.</li><li>\u27a4 least 150 to 180</li><li>\u27a4 couples per 1000 population</li><li>\u27a4 India.</li><li>\u27a4 Ref : Park 26 th ed pg 573</li><li>\u27a4 Ref : Park 26 th ed pg 573</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ce99b1b5",
+      "audio": ""
+    },
+    {
+      "text": "A 25-year-old man and his 23-year-old partner, a couple with no current desire for pregnancy, visit your clinic for contraception counseling. They have been using male condoms as their primary method of contraception but express concern about the potential for failure and unintended pregnancy. They inquire about the average failure rate among users. What is the average failure rate associated with male condom use among typical users?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "14",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "16",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 14",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/14/picture55.jpg"
+      ],
+      "explanation": "<p><strong>Ans.\u00a0B. 14</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Failure rates for the condom vary enormously .</li><li>\u2022 Failure rates</li><li>\u2022 condom vary enormously</li><li>\u2022 Surveys have reported pregnancy rates varying from 2-3 per 100 women years to more than 14 in typical users .</li><li>\u2022 Surveys</li><li>\u2022 pregnancy rates varying</li><li>\u2022 2-3 per 100 women years</li><li>\u2022 more than 14</li><li>\u2022 typical users</li><li>\u2022 Most failures are due to incorrect use.</li><li>\u2022 Pearl Index</li><li>\u2022 Pearl Index</li><li>\u2022 Pearl Index is Failures per 100 women-years of exposure . Pearl Index Is normally used for studying the Failure rate / Efficacy of contraceptive</li><li>\u2022 Pearl Index is Failures</li><li>\u2022 100 women-years of exposure</li><li>\u2022 Pearl Index</li><li>\u2022 normally used</li><li>\u2022 studying the Failure rate</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Pearl Index Male condom - 2-14 per HWY</li><li>\u27a4 Male condom</li><li>\u27a4 2-14 per HWY</li><li>\u27a4 Pearl Index Female condom - 5-21 per HWY</li><li>\u27a4 Female condom</li><li>\u27a4 5-21 per HWY</li><li>\u27a4 Ref : Park 26 th ed pg 575</li><li>\u27a4 Ref : Park 26 th ed pg 575</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9f333f6f",
+      "audio": ""
+    },
+    {
+      "text": "ASHAs have been playing a crucial role in improving access to healthcare services in rural and urban areas. As part of their responsibilities, ASHAs are also involved in the home delivery of contraceptives to promote family welfare services. This strategy is aimed at increasing the convenience and uptake of family planning methods by reducing barriers to access. What is the nominal fee charged by an Accredited Social Health Activist for the home delivery of condoms to promote family welfare services?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 1 for 1 condom",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rs 1 for 3 condoms",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Rs 1 for 5 Condoms",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rs 1 for 10 Condoms.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Rs 1 for 3 condoms",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.\u00a0B. Rs 1 for 3 condoms</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 ASHA is charging a nominal amount from beneficiaries for her effort to deliver contraceptives at doorstep i.e.</li><li>\u2022 ASHA</li><li>\u2022 charging a nominal amount</li><li>\u2022 beneficiaries</li><li>\u2022 Rs. 1 for a pack of 3 condoms.</li><li>\u2022 Rs.1 for a cycle of OCPs; and</li><li>\u2022 Rs. 2 for a pack of one tablet of ECP</li><li>\u2022 NEW INITIATIVES IN FAMILY PLANNING (FP)</li><li>\u2022 NEW INITIATIVES IN FAMILY PLANNING (FP)</li><li>\u2022 1. Home Delivery of Contraceptives (HDC) - by ASHA</li><li>\u2022 Home Delivery of Contraceptives</li><li>\u2022 ASHA</li><li>\u2022 Delivery charges by ASHA: Rs 1/- (3 condom pack), Rs 1/- (A OCP cycle),  Rs 2/- (A pack of one tablet of Emergency contraceptive pill)</li><li>\u2022 2. Mission Parivar Vikas (MPV) - Program to accelerate the use and awareness of FP methods in 146 high TFR districts</li><li>\u2022 Mission Parivar Vikas</li><li>\u2022 3. Ensuring Spacing at Birth (ESB)</li><li>\u2022 Ensuring Spacing at Birth</li><li>\u2022 Counselling charges by ASHA Worker: Rs 500/- (Delaying 1st childbirth by 2 years after marriage), Rs. 500/- (Ensuring spacing of 3 years after the birth of 1st child), Rs 1000/- (If couple opts for sterilization up to 2 children) CuT 375: Short term IUD with 5 years effectivity launched Introduction of Post-partum IUD insertion Promotion of FP services at District hospitals</li><li>\u2022 Counselling charges by ASHA Worker: Rs 500/- (Delaying 1st childbirth by 2 years after marriage), Rs. 500/- (Ensuring spacing of 3 years after the birth of 1st child), Rs 1000/- (If couple opts for sterilization up to 2 children)</li><li>\u2022 CuT 375: Short term IUD with 5 years effectivity launched</li><li>\u2022 Introduction of Post-partum IUD insertion</li><li>\u2022 Promotion of FP services at District hospitals</li><li>\u2022 4. Newer Contraceptives</li><li>\u2022 Newer Contraceptives</li><li>\u2022 Antara: Injectable Hormonal contraceptive DMPA (Depot medroxyprogesterone acetate) Chhaya: Oral contraceptive pill \u2018Centchroman\u2019</li><li>\u2022 Antara: Injectable Hormonal contraceptive DMPA (Depot medroxyprogesterone acetate)</li><li>\u2022 Chhaya: Oral contraceptive pill \u2018Centchroman\u2019</li><li>\u2022 5. Fixed Day Static Services Approach - Frequency of Sterilization services to be Twice-a-week (District hospital)/Weekly basis (Subdistrict hospital), Fortnightly (CHC/Block PHC)/Monthly (24X7 PHC/PHC)</li><li>\u2022 Fixed Day Static Services Approach</li><li>\u2022 6. Pregnancy Testing Kits (PTKs) -</li><li>\u2022 Pregnancy Testing Kits</li><li>\u2022 NISCHAY: Home-based pregnancy testing kits Availability: Subcentres, ASHA workers</li><li>\u2022 NISCHAY: Home-based pregnancy testing kits</li><li>\u2022 Availability: Subcentres, ASHA workers</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 ASHA is charging a nominal amount from beneficiaries for her effort to deliver contraceptives at doorstep i.e. Rs. 1 for a pack of 3 condoms ; Rs.1 for a cycle of OCPs; and Rs. 2 for a pack of one tablet of ECP</li><li>\u27a4 ASHA</li><li>\u27a4 charging a nominal amount</li><li>\u27a4 beneficiaries</li><li>\u27a4 effort to deliver contraceptives</li><li>\u27a4 doorstep</li><li>\u27a4 Rs. 1 for a pack of 3 condoms</li><li>\u27a4 Ref : Park 26 th ed pg 594</li><li>\u27a4 Ref : Park 26 th ed pg 594</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f4c81ed3",
+      "audio": ""
+    },
+    {
+      "text": "An ASHA worker, serving a remote village in Assam, has successfully motivated a mother with two healthy children to undergo laparoscopic sterilization at the local Community Health Center (CHC). The ASHA's role in facilitating family planning services is pivotal in rural health care, where access to such services can be limited. After facilitating the laparoscopic sterilization of a mother in a remote village, what is the incentive that the ASHA worker would receive for her role in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 500",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rs 1000",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Rs 1200",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rs 1500",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Rs 1000",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/07/29/screenshot-2024-07-29-133455.png"
+      ],
+      "explanation": "<p><strong>Ans.\u00a0B. Rs 1000</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 ASHA would be paid following incentives for motivating the couples:</li><li>\u2022 ASHA</li><li>\u2022 paid following incentives</li><li>\u2022 motivating the couples:</li><li>\u2022 Rs. 500/- to ASHA for delaying first childbirth by 2 years after marriage. Rs. 500/- to ASHA for ensuring spacing of 3 years after the birth of 1st child. Rs. 1000/- in case the couple opts for permanent limiting method up to 2 children only. The scheme is operational in 18 States (EAG, North- Eastern, Gujarat and Haryana)</li><li>\u2022 Rs. 500/- to ASHA for delaying first childbirth by 2 years after marriage.</li><li>\u2022 Rs. 500/-</li><li>\u2022 ASHA</li><li>\u2022 delaying first childbirth by 2 years</li><li>\u2022 Rs. 500/- to ASHA for ensuring spacing of 3 years after the birth of 1st child.</li><li>\u2022 Rs. 500/-</li><li>\u2022 ensuring spacing of 3 years</li><li>\u2022 Rs. 1000/- in case the couple opts for permanent limiting method up to 2 children only.</li><li>\u2022 Rs. 1000/-</li><li>\u2022 couple opts for permanent limiting method</li><li>\u2022 The scheme is operational in 18 States (EAG, North- Eastern, Gujarat and Haryana)</li><li>\u2022 operational in 18 States</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Sterilization Incentive Package -</li><li>\u27a4 Sterilization Incentive Package -</li><li>\u27a4 Ref: Park 26 th ed pg 595</li><li>\u27a4 Ref: Park 26 th ed pg 595</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bb543215",
+      "audio": ""
+    },
+    {
+      "text": "As a part of a global health elective, you are discussing the evolution of family planning initiatives with a group of medical students. One student is particularly interested in the history and progression of family planning programs in developing countries and asks about the inception of such programs in India. When was the family planning program officially launched in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1950",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1930",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1952",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1949",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1952",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.\u00a0C. 1952</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 India launched a nation-wide family planning programme in 1952, making it the first country in the world to do so , though records show that birth control clinics have been functioning in the country since 1930.</li><li>\u2022 India launched</li><li>\u2022 nation-wide family planning programme</li><li>\u2022 1952,</li><li>\u2022 first country</li><li>\u2022 world to do so</li><li>\u2022 records</li><li>\u2022 birth control clinics</li><li>\u2022 functioning</li><li>\u2022 country since 1930.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 India was one of the first countries in the world to formulate a national family planning program in the year 1952.</li><li>\u27a4 India</li><li>\u27a4 one of the first countries</li><li>\u27a4 world to formulate</li><li>\u27a4 national family planning program in the year 1952.</li><li>\u27a4 Ref : Park 26 th ed pg 599.</li><li>\u27a4 Ref : Park 26 th ed pg 599.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "96819880",
+      "audio": ""
+    }
+  ]
+}

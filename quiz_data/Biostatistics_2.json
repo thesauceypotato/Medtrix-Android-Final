@@ -1,0 +1,5269 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "Biostatistics",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Histogram is used to describe:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quantitative data of a group of patients",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Qualitative data of a group of patients",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Data collected on normal scale",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Data collected of ordinal scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Quantitative data of a group of patients",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/5667901701684539/5667901701684539.m3u8",
+      "uid": "5f4881b3",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following variables is measured on the ordinal scale:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type of anemia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Severity of anemia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin level",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Serum ferritin level",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Severity of anemia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/42233221701684594/42233221701684594.m3u8",
+      "uid": "09f72440",
+      "audio": ""
+    },
+    {
+      "text": "Measurement of blood pressure is which type of data:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nominal",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ordinal",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Continuous",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Continuous",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/18569221701684611/18569221701684611.m3u8",
+      "uid": "c437a8f3",
+      "audio": ""
+    },
+    {
+      "text": "Histogram is used to present which kind of the data:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nominal",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Continuous",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Discrete",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Any of above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Continuous",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/16192411701684631/16192411701684631.m3u8",
+      "uid": "a53074af",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are quantitative variables except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum cholesterol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Weight",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gender",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Celsius temperature scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Gender",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/32471151701684647/32471151701684647.m3u8",
+      "uid": "5a2e547d",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following method can show relationship between two quantitative variables?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Line diagram",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bar chart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Scatter plot",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Scatter plot",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/52437013.jpg"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/47112891701684670/47112891701684670.m3u8",
+      "uid": "f5ca9356",
+      "audio": ""
+    },
+    {
+      "text": "A physician, after examining a group of patients of a certain disease classifies the condition of each one as normal mild moderate or severe. Which one of the following is the scale of measurement that is being adopted for classification of the disease condition:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Interval",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ratio",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ordinal",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ordinal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/70514971701684757/70514971701684757.m3u8",
+      "uid": "25ff00f9",
+      "audio": ""
+    },
+    {
+      "text": "Mean and standard deviation can be worked out only if data is on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interval/ Ratio scale",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dichotomous scale",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nominal scale",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ordinal scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Interval/ Ratio scale",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/37627331701684779/37627331701684779.m3u8",
+      "uid": "937d3ec4",
+      "audio": ""
+    },
+    {
+      "text": "Blood groups will be an example for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interval scale data",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ordinal scale data",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Categorical data",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nominal data",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Nominal data",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/7730051701684792/7730051701684792.m3u8",
+      "uid": "83d703e7",
+      "audio": ""
+    },
+    {
+      "text": "An investigator into the life expectancy of IV drug abusers divides as sample of patients into HIV - positive and HIV negative groups . What type of data does this division constitute:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nominal",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ordinal",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ratio",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Nominal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/72327231701684809/72327231701684809.m3u8",
+      "uid": "45905e27",
+      "audio": ""
+    },
+    {
+      "text": "The response which is graded by an observer on an agree or disagree continuum is based on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visual analog scale",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Guttman scale",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Likert scale",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Adjectival scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Likert scale",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/32230641701684830/32230641701684830.m3u8",
+      "uid": "6047ce4b",
+      "audio": ""
+    },
+    {
+      "text": "Trends can be best represented by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scatter",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bar",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Line",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pie",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Line",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/49238771701684845/49238771701684845.m3u8",
+      "uid": "1cb6317d",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are example of nominal sale except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Race",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Body weight",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Socio economic status",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Body weight",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/63778441701684860/63778441701684860.m3u8",
+      "uid": "61b5786e",
+      "audio": ""
+    },
+    {
+      "text": "Graph to correlate two quantitative data is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Scatter diagram",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Line diagram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Frequency curve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Scatter diagram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/34620961701684875/34620961701684875.m3u8",
+      "uid": "a677ab50",
+      "audio": ""
+    },
+    {
+      "text": "Likert scale is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ordinal scale",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nominal scale",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Variance scale",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Categorical Scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ordinal scale",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/46473771701684913/46473771701684913.m3u8",
+      "uid": "69f556aa",
+      "audio": ""
+    },
+    {
+      "text": "Nominal data example is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Types of hospital",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Severity of pain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Height",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Grades of obesity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Types of hospital",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/34461951701684927/34461951701684927.m3u8",
+      "uid": "2edb88ce",
+      "audio": ""
+    },
+    {
+      "text": "A doctor is taking history from arthritis patient and decides to make a chart to assess joint involvement. Which chart should he make?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pie",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Venn",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tree",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Tree",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/3395871701684944/3395871701684944.m3u8",
+      "uid": "3af00d98",
+      "audio": ""
+    },
+    {
+      "text": "Identify the statistical diagram shown in the photograph",
+      "options": [
+        {
+          "label": "A",
+          "text": "Funnel plot",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Forest plot",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stem & leaf plot",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Box & Whisker Plot",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stem & leaf plot",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/15969944.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/74398071701684984/74398071701684984.m3u8",
+      "uid": "0ed8f5e4",
+      "audio": ""
+    },
+    {
+      "text": "Identify the statistical diagram shown in photograph:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Funnel plot",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Forest plot",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stem & leaf plot",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Box & Whisker Plot",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Box & Whisker Plot",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/21020925.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/35629151701685060/35629151701685060.m3u8",
+      "uid": "f593cbf3",
+      "audio": ""
+    },
+    {
+      "text": "Out of 11 birth in a hospital , 5 babies weighed over 2.5 kg and 5 weighed less than 2.5 kg. What value do 2.5 represent:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geometric average",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Arithmetic average",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/14176001701685077/14176001701685077.m3u8",
+      "uid": "ebe06ce1",
+      "audio": ""
+    },
+    {
+      "text": "The number of malaria case reported during the last 10 years in a town is given below 250, 350, 1000, 320, 300, 310, 290, 330, 80 and 260 the epidemiological wants to find out the average number of malaria cases reported in that town during the last 10 years. The most appropriate measure of average for the data will be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arithmetic mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Geometric mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/55776351701685108/55776351701685108.m3u8",
+      "uid": "9faf2bc3",
+      "audio": ""
+    },
+    {
+      "text": "In a bimodal series if mean is 2 and median is 3, what is the mode :",
+      "options": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2.5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/7022761701685128/7022761701685128.m3u8",
+      "uid": "b3804765",
+      "audio": ""
+    },
+    {
+      "text": "Mean value of weight of a group 10 boys was found to be 18.2 kg. Later it was found that weight if one of the boy was wrongly recorded as 2.0 kg that should have been 20 kg. the true mean weight of the group is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "18.2 kg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "20.2 kg",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "16.4 kg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20 kg",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 20 kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/63297011701685144/63297011701685144.m3u8",
+      "uid": "b6c62915",
+      "audio": ""
+    },
+    {
+      "text": "IF 60 values are arranged in ascending order middle value is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arithmetic mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "30 th percentile",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "31 st percentile",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/77481481701685166/77481481701685166.m3u8",
+      "uid": "823d9084",
+      "audio": ""
+    },
+    {
+      "text": "Median is important for all except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood pressure",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Survival time",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Incubation period",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Health expenses",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Blood pressure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/13870001701685214/13870001701685214.m3u8",
+      "uid": "36c2bfd7",
+      "audio": ""
+    },
+    {
+      "text": "A smoker states that he has been smoking for 6 year in the first year he was taking up to 5 sticks per day only in the next 3 years he increased it to half pack per. Day in the 5th year he stated that his daily sticks consumption is 2 pack per day. Select the correct statement mean median and mode of number of sticks are :",
+      "options": [
+        {
+          "label": "A",
+          "text": "16,10,15",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "16,10,10",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "10,10,15",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "16,10,15",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 16,10,10",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/67004791701685235/67004791701685235.m3u8",
+      "uid": "c76c0e5f",
+      "audio": ""
+    },
+    {
+      "text": "In a survey of sleep apnea scores among 10 persons, the highest value obtained of 58 was wrongly recorded as 85. This will affect the final results as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "No change in mean, Increased median",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased mean, no change in median",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Increased mean, increased median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased mean, decreased median",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Increased mean, no change in median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/47186691701685470/47186691701685470.m3u8",
+      "uid": "b3a9509d",
+      "audio": ""
+    },
+    {
+      "text": "Median of the following data\u2019s will be 10,9,8,8,7",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.75",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "8",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "10",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 8",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/15042321701685486/15042321701685486.m3u8",
+      "uid": "bf5670a9",
+      "audio": ""
+    },
+    {
+      "text": "Most frequently occurring value in a group of data:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mode",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Standard deviation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mode",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/39532971701685500/39532971701685500.m3u8",
+      "uid": "3019bc46",
+      "audio": ""
+    },
+    {
+      "text": "What is true among given data 20,31,31,31,25,28,35,38,31:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean is 31",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Range is 20-38",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Median is 15",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mode is 15",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Range is 20-38",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/34062081701685518/34062081701685518.m3u8",
+      "uid": "e14e03df",
+      "audio": ""
+    },
+    {
+      "text": "Commonly used measure of central tendency are all of the following except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi-square test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chi-square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4097781701685561/4097781701685561.m3u8",
+      "uid": "6090a097",
+      "audio": ""
+    },
+    {
+      "text": "\u2018Centile divides data into:",
+      "options": [
+        {
+          "label": "A",
+          "text": "100 equal parts",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "4 equal parts",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "10 equal parts",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20 equal parts",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 100 equal parts",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/71234501701685578/71234501701685578.m3u8",
+      "uid": "6a944da5",
+      "audio": ""
+    },
+    {
+      "text": "50 th percentile is equivalent to :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Range",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/7357221701686882/7357221701686882.m3u8",
+      "uid": "83594300",
+      "audio": ""
+    },
+    {
+      "text": "Bacterium can divide every 20 minutes. Beginning with a single individual how many bacteria will be there in the population if there is exponential growth for 3 hours :",
+      "options": [
+        {
+          "label": "A",
+          "text": "18",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "440",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "512",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1024",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 512",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/69671961701686941/69671961701686941.m3u8",
+      "uid": "783cc591",
+      "audio": ""
+    },
+    {
+      "text": "For a group of n=250 subjects , 40 th percentile would be the following value (after arranging in ascending order).",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 th",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "40 th",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "100 th",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "140 th",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 100 th",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/54106071701687020/54106071701687020.m3u8",
+      "uid": "41d26a52",
+      "audio": ""
+    },
+    {
+      "text": "Central value of a set of 180 values can be obtained by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "90 th percentile",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 nd tertile",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9 th decile",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2 nd quartile",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 2 nd quartile",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/56804621701687163/56804621701687163.m3u8",
+      "uid": "4ef432ec",
+      "audio": ""
+    },
+    {
+      "text": "A measure of location that divides the distribution in the ratio of 3:1 is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "First quartile",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Third quartile",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Third quartile",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/17172281701687260/17172281701687260.m3u8",
+      "uid": "e89fd32c",
+      "audio": ""
+    },
+    {
+      "text": "BP data of 200 persons were collected. The first quartile BP of data was 94 mm Hg & 3 rd quartile was 110 mm Hg. How many patients lie between 3 rd & 4 th quartile.",
+      "options": [
+        {
+          "label": "A",
+          "text": "25",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "50",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "100",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "200",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 50",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/59002551701687350/59002551701687350.m3u8",
+      "uid": "36584b9b",
+      "audio": ""
+    },
+    {
+      "text": "A physician recorded diastolic BP in 125 women aged 18- 60 years & found the mean to be 70 mm Hg with SD of 10 mm Hg, what will be the 5th percentile value?",
+      "options": [
+        {
+          "label": "A",
+          "text": "40",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "53.6",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "67.5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "89.4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 53.6",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/41660531701687460/41660531701687460.m3u8",
+      "uid": "af53491d",
+      "audio": ""
+    },
+    {
+      "text": "Standard deviation is the measure of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Central tendency",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Deviation from mean value",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Deviation from mean value",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/21813971701687537/21813971701687537.m3u8",
+      "uid": "27976eba",
+      "audio": ""
+    },
+    {
+      "text": "Median weight of 100 children was 12 kgs. The standard deviation was 3. Calculate the percent coefficient of variance :",
+      "options": [
+        {
+          "label": "A",
+          "text": "25%",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "35%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "45%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "55%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 25%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/72560141701687706/72560141701687706.m3u8",
+      "uid": "40afe7b7",
+      "audio": ""
+    },
+    {
+      "text": "While calculating the incubation period for measles in a group of 25 kids standard deviation is 2 and the mean incubation period is 8 days calculate standard error :",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1.0",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2.0",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 0.4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/31740471701687794/31740471701687794.m3u8",
+      "uid": "a321e625",
+      "audio": ""
+    },
+    {
+      "text": "Standard deviation of mean measures:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non sampling errors",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sampling errors",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Random errors",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Conceptual errors",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sampling errors",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/62517601701687847/62517601701687847.m3u8",
+      "uid": "d472e211",
+      "audio": ""
+    },
+    {
+      "text": "If the birth weight of each of the 10 babies born in a hospital in a day is found to be 2.8 kg, then the standard deviation of this sample will be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.8",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.28",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 0",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/77887191701688016/77887191701688016.m3u8",
+      "uid": "08b0f7e3",
+      "audio": ""
+    },
+    {
+      "text": "If each value of a given group of observation is multiplied by 10, the standard deviation of the resulting observation is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Original std. Deviation x 10",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Original std. Deviation / 10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Original std. Deviation -10",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Original std. Deviation it self",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Original std. Deviation x 10",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/52782011701688162/52782011701688162.m3u8",
+      "uid": "fc349021",
+      "audio": ""
+    },
+    {
+      "text": "The Hb level in health women has mean 13.5 g/dl and standard deviation 1.5g/dl, what is the Z score for a woman with Hb level 15.0 g/dl:",
+      "options": [
+        {
+          "label": "A",
+          "text": "9.0",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "10.0",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2.0",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1.0",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1.0",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/71821231701688215/71821231701688215.m3u8",
+      "uid": "e5ee06e6",
+      "audio": ""
+    },
+    {
+      "text": "Pearson or spearman coefficient is used for evaluation of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Difference in proportion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Comparison of more than 2 mean",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Comparison of variance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Correlation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Correlation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/65876761701688263/65876761701688263.m3u8",
+      "uid": "f17025d4",
+      "audio": ""
+    },
+    {
+      "text": "Most common deviation used in social medicine is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Range",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Variance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Standard deviation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Standard deviation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/65034691701688295/65034691701688295.m3u8",
+      "uid": "57102d73",
+      "audio": ""
+    },
+    {
+      "text": "In a population of 100 prevalence of candida glabrata was found to be 80% if the investigator has to repeat the prevalence with 95% confidence what will the prevalence be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "78-82%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "76-84%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "72-88%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "74-86%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 72-88%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/15624421701688325/15624421701688325.m3u8",
+      "uid": "50a31bd8",
+      "audio": ""
+    },
+    {
+      "text": "How much population falls between median and median plus one standard deviation in a normal distribution :",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.34",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "3.68",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.17",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.47",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 0.34",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/49595981701688393/49595981701688393.m3u8",
+      "uid": "d9d4e92d",
+      "audio": ""
+    },
+    {
+      "text": "There is a population of 20000 people with mean hemoglobin being 13.5 gm % having a normal distribution. What proportion of population constitutes proportion more than 13.5 gm %:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.25",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.50",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.34",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 0.50",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/40097681701688418/40097681701688418.m3u8",
+      "uid": "0908b20b",
+      "audio": ""
+    },
+    {
+      "text": "Measuring variation between two different units is done through:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Variance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Coefficient of variation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Standard deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Range",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Coefficient of variation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/74864441701688450/74864441701688450.m3u8",
+      "uid": "53362d2a",
+      "audio": ""
+    },
+    {
+      "text": "True about standard deviation is/are all except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 SD covers 95% values",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Indicated distribution of variables",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Most common method used for dispersion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Better indicator of variance than range",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1 SD covers 95% values",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/51200231701688890/51200231701688890.m3u8",
+      "uid": "03cf558f",
+      "audio": ""
+    },
+    {
+      "text": "Mean is 230 & SE=10 , then 95% confidence limit is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "210-250",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "250-290",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "290-330",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "330-370",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 210-250",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 B. 250\u2013290: This range starts above the calculated upper limit of the confidence interval (249.6), making it incorrect.</li><li>\u2022 C. 290\u2013330: This range is significantly higher than the calculated confidence interval, making it incorrect.</li><li>\u2022 D. 330\u2013370: This range is far above the calculated confidence interval, making it incorrect.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/1646061701689024/1646061701689024.m3u8",
+      "uid": "f5335e94",
+      "audio": ""
+    },
+    {
+      "text": "Measures of dispersion all except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Range",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mean of average deviation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Standard deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Correlation and regression",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Correlation and regression",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/30156041701689088/30156041701689088.m3u8",
+      "uid": "7d2118bf",
+      "audio": ""
+    },
+    {
+      "text": "Confidence limit is calculated by using :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean and standard error",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mean and standard deviation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median and standard deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Median",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mean and standard error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/69792671701689171/69792671701689171.m3u8",
+      "uid": "947edc37",
+      "audio": ""
+    },
+    {
+      "text": "Z score cirtieria applicable to :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal distribution",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Skewed deviation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chi- square test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paired t test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Normal distribution",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/61311811701689215/61311811701689215.m3u8",
+      "uid": "eb71656f",
+      "audio": ""
+    },
+    {
+      "text": "Correct relation between S = Standard deviation & V = variance is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "V=Square root of S",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "S= Square root of V",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "V= 2S",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "S= 2V",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. S= Square root of V",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/28987521701689256/28987521701689256.m3u8",
+      "uid": "cf841746",
+      "audio": ""
+    },
+    {
+      "text": "A researcher draws unbiased sample of 100 adult Delhites and finds that their meanweight is 72 kg with a standard deviation of 15, 95% CI for of wt of Delhites shall be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "66 And 78 kg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "69 and 75 kg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "70.5 and 73.5 kg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 69 and 75 kg",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/66767661.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4898091701689337/4898091701689337.m3u8",
+      "uid": "ad56f62a",
+      "audio": ""
+    },
+    {
+      "text": "Square root of deviation is Called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard deviation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Standard error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mean deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Range",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Standard deviation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/20760281701689377/20760281701689377.m3u8",
+      "uid": "20f33837",
+      "audio": ""
+    },
+    {
+      "text": "Standard error of mean is called as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard deviation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Variable",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Standard deviation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/5557741701689391/5557741701689391.m3u8",
+      "uid": "ad7144c9",
+      "audio": ""
+    },
+    {
+      "text": "Which is the best distribution to study the daily admissionof head injury patients in a trauma care center :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal distribution",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Binomial distribution",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Uniform poison distribution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Poisson distribution",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Poisson distribution",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/45069221701689421/45069221701689421.m3u8",
+      "uid": "033f02bd",
+      "audio": ""
+    },
+    {
+      "text": "The standard normal distribution:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is skewed to the left",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Has mean =1.0",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Has standard deviation = 0.0",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Has variance = 1.0",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Has variance = 1.0",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/56546721701689474/56546721701689474.m3u8",
+      "uid": "ef9efa5d",
+      "audio": ""
+    },
+    {
+      "text": "A normal distribution curve depends on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean and sample size",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Range and sample size",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mean and standard deviation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mean and Median",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mean and standard deviation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/41499911701689492/41499911701689492.m3u8",
+      "uid": "20229c52",
+      "audio": ""
+    },
+    {
+      "text": "The fasting blood levels of glucose for a group of diabetics is found to be normally distributed with a mean of 105 mg per 100 ml of blood and a standard deviation of 10 mg per 100 ml of blood . From this data is can be inferredthat approximately 95% of diabetic will have inferred that approximately 95% of diabetic will have their fasting blood level within the limit of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "75 and 135 mgs",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "85 and 125 mgs",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "95 and 115 mgs",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "65 and 145 mgs",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 85 and 125 mgs",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Given:</li><li>\u2022 Mean (\u03bc) = 105 mg/dL Standard deviation (\u03c3) = 10 mg/dL 95% of values lie within \u00b12 standard deviations of the mean</li><li>\u2022 Lower limit=\u03bc\u22122\u03c3=105\u2212(2\u00d710)=85 mg/dL</li><li>\u2022 Upper limit=\u03bc+2\u03c3=105+(2\u00d710)=125 mg/dL</li><li>\u2022 Incorrect Options:</li><li>\u2022 (A) 75 and 135 mg/dL: This range corresponds to \u00b13\u03c3, which includes approximately 99.7% of the data, not 95%.</li><li>\u2022 (C) 95 and 115 mg/dL: This range represents \u00b11\u03c3, covering 68% of the data rather than 95%, making it incorrect.</li><li>\u2022 (D) 65 and 145 mg/dL: This range is \u00b14\u03c3, which includes almost 100% of the data, much broader than the 95% confidence interval.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/23565441701689530/23565441701689530.m3u8",
+      "uid": "e8594cd7",
+      "audio": ""
+    },
+    {
+      "text": "In a group of 100 children the mean weight of children is 15 kg . The standard deviation is 1.5kg . Which one of the following is true :",
+      "options": [
+        {
+          "label": "A",
+          "text": "95% of all children weight between 12 and 18 kg",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "95% of all children weight between 13.5 and 16.5 kg",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "99% of all children weight between 12 and 18 kg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "99% of all children weight between 13.5 and 16.5 kg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 95% of all children weight between 12 and 18 kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/72108931701689547/72108931701689547.m3u8",
+      "uid": "76b6cb57",
+      "audio": ""
+    },
+    {
+      "text": "For a negatively skewed data mean will be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than median",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "More than median",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Equal to median",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Less than median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/50643251701689571/50643251701689571.m3u8",
+      "uid": "857f54a4",
+      "audio": ""
+    },
+    {
+      "text": "The distribution of random blood glucose measurements from 50 first year medical students was found to have a mean of 3.0 mmol/ litre with a standard deviation of 3.0 mmol/litre. Which of the following is a correct statement about the shape of the distribution of random blood glucose in these first year medical student :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Since both mean and standard deviation are equal it should be a symmetric distribution",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The distribution is likely to be positively skewed",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The distribution is likely to be negatively skewed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nothing can be said conclusively",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Nothing can be said conclusively",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/10154161701689600/10154161701689600.m3u8",
+      "uid": "9d10a78c",
+      "audio": ""
+    },
+    {
+      "text": "A chest physician observed that the distribution of forced expiratory volume ( FEV) in300 smokers had a median value of 2.5 litres with the first and third quartiles being 1.5 and 4.5 litre respectively . Based on this data how many persons in the sample are expected have a FEV between 1.5 and 4.5 litres:",
+      "options": [
+        {
+          "label": "A",
+          "text": "7.5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "150",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "225",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "300",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 150",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/27474471701689617/27474471701689617.m3u8",
+      "uid": "ca731880",
+      "audio": ""
+    },
+    {
+      "text": "How much of the sample is included in 1.95 SD:",
+      "options": [
+        {
+          "label": "A",
+          "text": "99%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "95%",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "68%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "65%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 95%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/73754561701689646/73754561701689646.m3u8",
+      "uid": "e5455bea",
+      "audio": ""
+    },
+    {
+      "text": "If the systolic blood pressure in a population has a mean of 130 mmHg and a median of 140 mm Hg. the distribution is said to be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Symmetrical",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Positively skewed",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Negatively skewed",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Either positively or negatively skewed depending on the Standard deviation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Negatively skewed",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/46202811701689662/46202811701689662.m3u8",
+      "uid": "79ef43d4",
+      "audio": ""
+    },
+    {
+      "text": "A Population study showed a mean glucose of 86 mg/ dL. In a sample of 100 showing normalcurve distribution . What percentage of peoplehave glucose above 86mg/dL:",
+      "options": [
+        {
+          "label": "A",
+          "text": "34",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "50",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "NIL",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "68",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 50",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4333821701689677/4333821701689677.m3u8",
+      "uid": "a88c436f",
+      "audio": ""
+    },
+    {
+      "text": "Pearson\u2019s skewness coefficient is given by :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean - mode / SD",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mode -mean / SD",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "SD/ Mean - Median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "SD/ Median-Mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mean - mode / SD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Pearson's skewness coefficient is a measure of the asymmetry of a distribution. The formula compares the mean and mode to indicate the direction and degree of skewness:</li><li>\u2022 If Skewness > 0 (Positive Skew): Mean > Mode > Right-skewed (tail on the right) If Skewness < 0 (Negative Skew): Mean < Mode > Left-skewed (tail on the left) If Skewness = 0: The distribution is approximately symmetric</li><li>\u2022 Incorrect Options:</li><li>\u2022 (B) Mode - Mean / SD: The formula is incorrect because the standard formula is Mean - Mode, not the other way around.</li><li>\u2022 (C) SD / (Mean - Median): This is incorrect because the numerator should be (Mean - Mode), not SD. Pearson\u2019s second coefficient of skewness (another version) is actually: 3(Mean - Median)/Standard Deviation But this is different from the first coefficient.</li><li>\u2022 (D) SD / (Median - Mean): Incorrect because standard deviation is not used in the numerator. Also, the difference should be Mean - Mode or Mean - Median, not the reverse.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4864261701689698/4864261701689698.m3u8",
+      "uid": "5f0a2b84",
+      "audio": ""
+    },
+    {
+      "text": "Q-test is used for detecting :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Outliers",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Interquartile range",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Difference of mean",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Difference of proportions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Outliers",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 (B) Interquartile Range (IQR): \u2022    The IQR is used to measure data spread and identify outliers, but it is not part of the Q-test. \u2022    The IQR method typically identifies outliers as data points below Q1 - 1.5\u00d7IQR or above Q3 + 1.5\u00d7IQR.</li><li>\u2022 (C) Difference of Mean: \u2022    The Q-test does not compare means between groups; instead, tests like the t-test or ANOVA are used for mean differences.</li><li>\u2022 (D) Difference of Proportions: \u2022    The Q-test is not used to compare proportions; statistical tests like the Z-test for proportions or Chi-square test are used instead.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/37643461701689728/37643461701689728.m3u8",
+      "uid": "36e3bd12",
+      "audio": ""
+    },
+    {
+      "text": "Mean hemoglobin of a group of pregnant females is found to be 10.6 gm/ dL with Standard deviation of 2 gm/dL. 5% pregnant females in this group will have their hemoglobin level below :",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.6 gm/ dL",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "7.31 gm/ dL",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "6.6 gm/ dL",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5.0 gm / dL",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 7.31 gm/ dL",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 (A) 8.6 gm/dL: This corresponds to a Z-score closer to -1.0, which would include more than 5% of the population in the lower tail.</li><li>\u2022 (C) 6.6 gm/dL: This is too extreme; it would correspond to a Z-score lower than -1.645, meaning fewer than 5% of the population would be below this value.</li><li>\u2022 (D) 5.0 gm/dL: This is an even more extreme value and would correspond to a much lower percentile (far below 5%), making it incorrect.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/64464181701689746/64464181701689746.m3u8",
+      "uid": "fa61d906",
+      "audio": ""
+    },
+    {
+      "text": "In a standard normal curve the area between one standard deviation on either side will be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "68%",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "85%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "99.7%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 68%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/70611021701689791/70611021701689791.m3u8",
+      "uid": "7b7e8710",
+      "audio": ""
+    },
+    {
+      "text": "About standard normal curve all is true except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Area = 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "S.D. = 1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bell shaped",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mean and median=1",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Mean and median=1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/74303641701689805/74303641701689805.m3u8",
+      "uid": "19e44c17",
+      "audio": ""
+    },
+    {
+      "text": "Normal distribution curve is determined by :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard deviation and mean",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Standard deviation and mode",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mode and median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Standard deviation and median",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Standard deviation and mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/17073641701689825/17073641701689825.m3u8",
+      "uid": "0898f2ba",
+      "audio": ""
+    },
+    {
+      "text": "For calculating of sample size for a prevalence study all of the following are necessary except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prevalence of disease in population",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Power of the study",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Significance level",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Absolute precision",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Power of the study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 For a prevalence study, the sample size is determined using the formula:</li><li>\u2022 n= Z 2 P(1-P)/d 2</li><li>\u2022 \u2022   P = Prevalence of disease in the population (from prior studies or estimates)</li><li>\u2022 \u2022   Z = Z-score corresponding to the chosen significance level (\u03b1) (usually 1.96 for 95% confidence)</li><li>\u2022 \u2022   d = Absolute precision (or margin of error)</li><li>\u2022 Incorrect Options:</li><li>\u2022 (A) Prevalence of disease in the population (Necessary)</li><li>\u2022 \u2022   The sample size calculation depends directly on the estimated prevalence (P) of the disease. If P is unknown, an assumption or pilot study is required.</li><li>\u2022 (C) Significance level (Necessary)</li><li>\u2022 \u2022   The significance level (\u03b1) determines the confidence level (e.g., 95% confidence corresponds to \u03b1 = 0.05). This affects the Z-value used in the formula.</li><li>\u2022 (D) Absolute precision (Necessary)</li><li>\u2022 \u2022    Precision (d) represents the margin of error in prevalence estimation. A smaller d requires a larger sample size for better accuracy.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/53541681701689926/53541681701689926.m3u8",
+      "uid": "1bdfb9f4",
+      "audio": ""
+    },
+    {
+      "text": "In the WHO recommended EPI cluster sampling for assessingprimary immunization coverage , the age groupof children to be surveyed is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "0-12 months",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6-12 months",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9-12 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "13-24 months",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 13-24 months",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/9828271701689990/9828271701689990.m3u8",
+      "uid": "216c3f29",
+      "audio": ""
+    },
+    {
+      "text": "Following are the sampling techniques used to conduct community health surveys , except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple random",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Systemic random",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratifiedrandom",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cluster testing",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Cluster testing",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/73494521701690034/73494521701690034.m3u8",
+      "uid": "e83c3916",
+      "audio": ""
+    },
+    {
+      "text": "The number of patients required in a clinical trial to treat a specifydisease increases as :",
+      "options": [
+        {
+          "label": "A",
+          "text": "The incidence of the disease decreases",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The significance level increases",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The size of the expected treatment effect increased",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The drop out rate increases",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The drop out rate increases",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/66158121701690264/66158121701690264.m3u8",
+      "uid": "ff448536",
+      "audio": ""
+    },
+    {
+      "text": "In a study people are separated into certain sub groups meaningfully and then some are selected randomly from each of these sub groups . What type of sampling is being done :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cluster random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Systematic random sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stratified rand sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Stratified rand sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/36818731701690360/36818731701690360.m3u8",
+      "uid": "c4788a5e",
+      "audio": ""
+    },
+    {
+      "text": "True about cluster sampling all except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sample size same as simple random",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It is two stage sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cheaper than other methods",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is a method for rapid assessment",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sample size same as simple random",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/56471981701690539/56471981701690539.m3u8",
+      "uid": "cdd8664c",
+      "audio": ""
+    },
+    {
+      "text": "50% population having disease with prevalence to be 45-55% with 95% of probability of identifying them minimum sample size required is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "100",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "200",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "300",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "400",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 400",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/28391271701690561/28391271701690561.m3u8",
+      "uid": "60d68aae",
+      "audio": ""
+    },
+    {
+      "text": "Simple random sampling is ideal for :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccinated people",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heterogeneous population",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Homogenous population",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Homogenous population",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/30155101701690663/30155101701690663.m3u8",
+      "uid": "310951ba",
+      "audio": ""
+    },
+    {
+      "text": "Stratified sampling is ideal for :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heterogeneous data",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Homogenous data",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Heterogeneous data",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/70587571701691146/70587571701691146.m3u8",
+      "uid": "6e3b5a79",
+      "audio": ""
+    },
+    {
+      "text": "Children surveyed is cluster sampling for coverage of national immunization program in :",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 cluster of 5 children",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "20 cluster of 5 children",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "30 cluster of 10 children",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "30 cluster of 7 children",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 30 cluster of 7 children",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/33776491701691167/33776491701691167.m3u8",
+      "uid": "a7a14d03",
+      "audio": ""
+    },
+    {
+      "text": "In a study first schools are sampled then section sand finally student. This type of sampling is known as :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stratified sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multistage sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Multistage sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/52012031701691292/52012031701691292.m3u8",
+      "uid": "d430a5b8",
+      "audio": ""
+    },
+    {
+      "text": "When number of observation is 25, the number of class intervals must be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "25",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "15",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/11743171701691316/11743171701691316.m3u8",
+      "uid": "f864f3aa",
+      "audio": ""
+    },
+    {
+      "text": "All of the following comes under random sampling method except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quota sampling",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cluster sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Quota sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/53472151701691340/53472151701691340.m3u8",
+      "uid": "51c2f3b5",
+      "audio": ""
+    },
+    {
+      "text": "For an epidemiological study every 10th person is selected from a population . This type of sampling is known as :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stratified random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Systematic random sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cluster random sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Systematic random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/11224511701691366/11224511701691366.m3u8",
+      "uid": "4172f640",
+      "audio": ""
+    },
+    {
+      "text": "Simple random sampling :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provides least number of possible samples",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Equal chance to each for collection of certain number for a sample",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Picking every 5th or 10th at regular interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sampling represent a corresponding strata of universe",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Equal chance to each for collection of certain number for a sample",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/41080901701691383/41080901701691383.m3u8",
+      "uid": "f3dce59f",
+      "audio": ""
+    },
+    {
+      "text": "If prevalence of diabetes is 10% the probability that three people selected at random from the population will have diabetes is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.01",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.03",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.001",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "0.003",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0.001",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/54075121701691399/54075121701691399.m3u8",
+      "uid": "dd55c3b3",
+      "audio": ""
+    },
+    {
+      "text": "Chance of passing Genetic disease \u201c Y\u201d trait by the affected parents to children is 0.16 . They plan to have two children. Probabilityofboth the children having \u201cY\u201d trait is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.16",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.32",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.0256",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 0.0256",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "555c4bf8",
+      "audio": ""
+    },
+    {
+      "text": "For Mrs Rekha probability of having a baby of B < W 2500 gms is 0.50 and having a BW 2550 - 29999 gms is 0.20. So the probability for Mrs. Rekha to have a baby of BW < 3 kg is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.30",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.70",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "0.10",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1.0",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 0.70",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/63092641701691422/63092641701691422.m3u8",
+      "uid": "de0654ad",
+      "audio": ""
+    },
+    {
+      "text": "Probability of Mr. Ram developing acute MI in his lifetimeis 0.75 what are his odds of developing acute MI in his lifetime :",
+      "options": [
+        {
+          "label": "A",
+          "text": "3:4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3:1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "4:3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1:3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 3:1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/53202111701691450/53202111701691450.m3u8",
+      "uid": "65e3dc4b",
+      "audio": ""
+    },
+    {
+      "text": "For which of the following sampling a design effect is used :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Systematic random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified random sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "cluster random sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. cluster random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/10161731701691489/10161731701691489.m3u8",
+      "uid": "dff81d25",
+      "audio": ""
+    },
+    {
+      "text": "The events A and B are mutually exclusive, so:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prob ( A or B ) = Prob (A) + Prob (B)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Prob ( A and B ) = Prob (A) X Prob (B)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prob A = Prob B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prob A + Prob B = 1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prob ( A or B ) = Prob (A) + Prob (B)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1930df00",
+      "audio": ""
+    },
+    {
+      "text": "There were 50 patients in a ward20 girls and 30 boys of them 10 girls and 20 boys required surgery . What is the probability of each patient being selectedcorrectlyfor surgery :",
+      "options": [
+        {
+          "label": "A",
+          "text": "2/6",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3/5",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "6/25",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1/6",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 3/5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/72382421701691517/72382421701691517.m3u8",
+      "uid": "17122742",
+      "audio": ""
+    },
+    {
+      "text": "What is the probability that confounding factor fall to the right of 95% :",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 in 5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 in 10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 in 15",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 in 20",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1 in 20",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/42590141701691584/42590141701691584.m3u8",
+      "uid": "0d9b0b19",
+      "audio": ""
+    },
+    {
+      "text": "In a study variation in cholesterol was seen before and after givien a drug . Test which would give its significance is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unpaired t test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fischer test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t test",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chi square test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Paired t test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/66143981701691599/66143981701691599.m3u8",
+      "uid": "28a30261",
+      "audio": ""
+    },
+    {
+      "text": "Square root of p1 Q1/ N1 + P2Q2/ N2 is a measure of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Standard error of difference between two mean",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Standard error of difference between two proportion",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Normal deviate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Standard error of difference between two proportion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/7867901701691613/7867901701691613.m3u8",
+      "uid": "4f0bf175",
+      "audio": ""
+    },
+    {
+      "text": "A chi square test wound be most appropriate for testing which one of the following hypotheses :",
+      "options": [
+        {
+          "label": "A",
+          "text": "That the mean AIPGE score of Delhi students is greater than that ofMumbai students",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "who were immunizedagainst chickenpox subsequentlydevelop zoster than those who were not immunized",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "That the mean blood pressure of black and white male - hypertensivepatient taking ACE inhibitoris the same as the of black and white female hypertensivepatient taking ACE inhibitors and that of black and white males and females taking diureticsand placebos",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "That the mean cost of treating a patient with coronary artery disease with angioplasty in greater than the mean cost of providing medical treatment",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. who were immunizedagainst chickenpox subsequentlydevelop zoster than those who were not immunized",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/62623891701691630/62623891701691630.m3u8",
+      "uid": "f945bc11",
+      "audio": ""
+    },
+    {
+      "text": "In a particular trial the association of lung cancer with smoking is found to be 40% in one sample and 60% in another . What is the best test to compare the result:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chi square test",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Fischer Test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ANOVA Test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Chi square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/16066801701691645/16066801701691645.m3u8",
+      "uid": "b64f9bc6",
+      "audio": ""
+    },
+    {
+      "text": "Height of group of 20 boysaged 10 years was 140 + 13 cm & 20 girl of same age was135 cm + 7 cm to test the statisticalsignificance of difference in height test applicable is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "X2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Z",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "T",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "F",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. T",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 (A) Chi-square (\u03c7 2 ) Test The chi-square test is used for categorical data (e.g., gender, presence/absence of a disease). Since we are comparing numerical (continuous) data (height in cm), chi-square is not appropriate.</li><li>\u2022 (B) Z-test A Z-test is used when the sample size is large (n > 30) and the population standard deviation is known. Since n = 20 in both groups and we are not given the population standard deviation, the t-test is preferred.</li><li>\u2022 (D) F-test An F-test is used to compare variances of two or more groups, not their means. Since the question asks for a test to compare the mean heights, the t-test is more appropriate</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4165761701691658/4165761701691658.m3u8",
+      "uid": "83abc61c",
+      "audio": ""
+    },
+    {
+      "text": "The mean B.P of a group personwas determine and after an interventionaltrial the mean BP was estimated again . The best to be applied to determine the significance of intervention is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chi - square",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paired t test",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Correlation coefficient",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "t- test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Paired t test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 (A) Chi-square (\u03c7 2 ) Test Chi-square is used for categorical data (e.g., presence/absence of hypertension). Since BP is continuous numerical data, chi-square is not appropriate.</li><li>\u2022 (C) Correlation Coefficient Correlation measures the strength and direction of a relationship between two variables (e.g., BP vs. age). It does not test whether there is a significant difference before and after an intervention.</li><li>\u2022 (D) Independent t-test An independent t-test compares two separate groups (e.g., Group A vs. Group B). Here, we are comparing BP in the same individuals before and after an intervention, so the paired t-test is more appropriate.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/55409801701691671/55409801701691671.m3u8",
+      "uid": "a76a1e39",
+      "audio": ""
+    },
+    {
+      "text": "An investigator wants to study the association between maternal intake of iron supplements (yes or No)and incidence of low birth weight (<2500 or > 2500) gms). He collects relevant data from 100 pregnant women as to the status of usage of iron supplementand the statusof low birth weightin their newborns. The appropriate statistical test of hypothesis advised in this situation is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired - t-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unpaired or independent t- test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Analysis of variance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi- Square test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chi- Square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/52559701701691687/52559701701691687.m3u8",
+      "uid": "bf45006d",
+      "audio": ""
+    },
+    {
+      "text": "While applying Chi square test to a contingencytable of 4 rows and 4 columns the degrees of freedom would be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "8",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 9",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 (B) 4 A 4\u00d74 table does not result in df = 4. This might be confused with the number of rows or columns, but the formula requires subtracting 1 from both. (D) 8 If we had a 4\u00d73 table, the degrees of freedom would be: (4\u22121)\u00d7(3\u22121)=3\u00d72=6</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/66223721701691711/66223721701691711.m3u8",
+      "uid": "5e562944",
+      "audio": ""
+    },
+    {
+      "text": "A cardiologist wants to study the effect of an antihypertensive drug. HE notes down the initial systolic blood pressure (mmHg ) of 50 patients and then administers the drugs on them. After a week\u2019s treatment he measure the following is the most appropriate statistical test of significance to test the statistical significance of the changes in blood pressure :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired t- test",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Unpaired or independent t- test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Analysis of variance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi-square test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Paired t- test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/17990981701691755/17990981701691755.m3u8",
+      "uid": "9ed4e210",
+      "audio": ""
+    },
+    {
+      "text": "A study was undertaken to assess the effect of a drug in lowering serum cholesterol level. 15 obese women and 10 non obese women formed the 2 limbs of the study. Which test would be useful to correlate the results obtained:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ANOVA test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Student\u2019s test",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chi square test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Fischer test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Student\u2019s test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/21451301701691788/21451301701691788.m3u8",
+      "uid": "a4199e23",
+      "audio": ""
+    },
+    {
+      "text": "Not required for Chi square test is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean & SD of the groups",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Median & SD of the groups",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Small sample",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Contingency table (2*2 TABLE)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mean & SD of the groups",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/49285871701691875/49285871701691875.m3u8",
+      "uid": "0e803162",
+      "audio": ""
+    },
+    {
+      "text": "Appropriate statistical method t compare two mean is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chi square test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Student\u2019s t test",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Odds ratio",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Correlation coefficient",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Student\u2019s t test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/23622501701691890/23622501701691890.m3u8",
+      "uid": "463d6272",
+      "audio": ""
+    },
+    {
+      "text": "Mean, median and mode are :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measure of dispersion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Measure association between two variables",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Test of significance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Measures of central tendency",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Measures of central tendency",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/45192161701691905/45192161701691905.m3u8",
+      "uid": "4d128d9f",
+      "audio": ""
+    },
+    {
+      "text": "In a given data , degree of freedom will be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "12",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 6",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/3402196.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/11114401701691921/11114401701691921.m3u8",
+      "uid": "03e710a6",
+      "audio": ""
+    },
+    {
+      "text": "Not true about Chi square test is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tests the significance of difference between two proportions",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tells about presence or absenceof an association between two variables",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Directly measures the strength of association",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Can be used when more than two groups are to be compared",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Directly measures the strength of association",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/958981701691935/958981701691935.m3u8",
+      "uid": "8f52b276",
+      "audio": ""
+    },
+    {
+      "text": "You have been asked to design a study for a disease whose prevalence in the community is 10%. The alpha error has to be kept at 5% with a relative precision of 20% and a power of 20%. What will be the accurate sample size for this study :",
+      "options": [
+        {
+          "label": "A",
+          "text": "900",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "3600",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "400",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1800",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 900",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/43754081701691954/43754081701691954.m3u8",
+      "uid": "158e5884",
+      "audio": ""
+    },
+    {
+      "text": "In a study 2 groups of new born are checked for their weights based on whether mothers received food supplements or not. Appropriate statistical test is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pairedtest",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unpaired t test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fischer exact test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi square test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chi square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/34518381701692068/34518381701692068.m3u8",
+      "uid": "aaa6267e",
+      "audio": ""
+    },
+    {
+      "text": "Chi square test is used to measure the degree of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Significance of difference between two proportions",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Causation between two variables",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Correlation between two variable",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Agreement between two observation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Significance of difference between two proportions",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/14822811701692092/14822811701692092.m3u8",
+      "uid": "df05e9af",
+      "audio": ""
+    },
+    {
+      "text": "All of the these are continuous variable except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Height in CMS",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Weight in KGS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blood Groups A,B,ABO",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Age in years and months",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Blood Groups A,B,ABO",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4735031701692153/4735031701692153.m3u8",
+      "uid": "6741e8e5",
+      "audio": ""
+    },
+    {
+      "text": "1 degree of freedom between two qualitative variables done by chi square is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.45",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2.41",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3.84",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "4.34",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 3.84",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/21043081701692176/21043081701692176.m3u8",
+      "uid": "3306901a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is used for selecting patient with respect to potential factors that will affect the results :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systematic random sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple random sample",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified random sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cluster sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stratified random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/47705281701692221/47705281701692221.m3u8",
+      "uid": "3a1e3c2d",
+      "audio": ""
+    },
+    {
+      "text": "About chi square test true is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "< 0.001 is statistically significant",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Less no . of samples are associated with less error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Categories of data used in test need not be mutually exclusive and discrete",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tests correlation and regression",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. < 0.001 is statistically significant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/9784681701692449/9784681701692449.m3u8",
+      "uid": "e6d0a3f7",
+      "audio": ""
+    },
+    {
+      "text": "A study who planned to find out the effect of iron supplementation during pregnancy on the birth weight of new born children. Two group one with iron supplementation and the other without iron supplementation and the other without iron supplementation during pregnancy were compared. Birth weight of new borne were recorded as means + SD. Which Statistical test is appropriate for comparison of birth weights between the two groups:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unpaired t test",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Paired t test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mc Nemar",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi- square test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Unpaired t test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/63566051701692715/63566051701692715.m3u8",
+      "uid": "91b29ba5",
+      "audio": ""
+    },
+    {
+      "text": "ANOVA is used :",
+      "options": [
+        {
+          "label": "A",
+          "text": "To Compare means in 2 groups",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To compare means in 3 or more groups",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "To compare mean in 1 group before and after intervention",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "To find correlation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. To compare means in 3 or more groups",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/25351581701692730/25351581701692730.m3u8",
+      "uid": "374bee2c",
+      "audio": ""
+    },
+    {
+      "text": "Apgar scores of 30 children are recorded in a hospital and most of the reading are found to be 7 or above . what can you out about this data distribution :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positively skewed",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negatively skewed",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Normal distribution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Symmetrically skewed data",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Negatively skewed",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/72522321701692763/72522321701692763.m3u8",
+      "uid": "3ed923bb",
+      "audio": ""
+    },
+    {
+      "text": "In a centre the number of nodes dissected during 20 modified radical mastectomy were plottedin the form of a cure and there arethree marking on the below curve. Based on the distribution type of curve which of the following is correct",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean > median > mode",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mode > mean > median",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median > mode > mean",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mode > median > mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mean > median > mode",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/27614231.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/61658901701692780/61658901701692780.m3u8",
+      "uid": "2fbf551d",
+      "audio": ""
+    },
+    {
+      "text": "Test is used to compare Kaplan Meier survival curve :",
+      "options": [
+        {
+          "label": "A",
+          "text": "ANOVA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bland Altmann analysis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chi square test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cox proportional hazards test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Cox proportional hazards test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/61722481701692841/61722481701692841.m3u8",
+      "uid": "87697f6c",
+      "audio": ""
+    },
+    {
+      "text": "A lecturer states that the correlation coefficient between prefrontal blood flow under cognitive load and the severity of psychotic symptoms in schizophrenic patientsis - 1.24 you can therefore conclude that :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pre frontal blood flow under cognitiveload is a good predictor of the severity of psychotic symptoms in schizophrenic patients",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prefrontal blood flow under cognitive load accounts for a large proportion of the variance in psychotic symptoms in schizophrenic patients",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Psychosis or schizophrenia is in some way a cause or partial cause of low prefrontal blood flow under cognitive load",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The lecturer has reportedthe correlation coefficient incorrectly :",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The lecturer has reportedthe correlation coefficient incorrectly :",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/41174751701692859/41174751701692859.m3u8",
+      "uid": "741d81b7",
+      "audio": ""
+    },
+    {
+      "text": "A cardiologist found a highly significant correlation coefficient ( r = 0.90, p = 0.01) between the systolic blood patient attending his clinic which of the following statement is a wrong interpretation of the correlation coefficient observed :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Since there is a high correlationthe magnitudes of boththe measurements are likely to be close to each other",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A patient with a high level of systolic BP is also likelyto have a high level of serum cholesterol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A patient with a low level of systolic BP is also likely to have a low level of serum cholesterol",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "About 80% of the variation in systolic blood pressure among his patients can be explained by theirserum values and vice a versa :",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Since there is a high correlationthe magnitudes of boththe measurements are likely to be close to each other",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/26472521701692874/26472521701692874.m3u8",
+      "uid": "07f68a6d",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not true about correlation :",
+      "options": [
+        {
+          "label": "A",
+          "text": "It indicates degree of associationbetween two characteristics",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Correlation coefficient of 1meansthat the two variables exhibitlinearrelationship",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Correlationof 1 mean that the twovariables exhibited linearrelationship",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Causation implies correlation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. It indicates degree of associationbetween two characteristics",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/29386661701692895/29386661701692895.m3u8",
+      "uid": "c71dda06",
+      "audio": ""
+    },
+    {
+      "text": "If the correlation of height with age is given by the equation y=a + bc, what would be the nature of the graph :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Straight line",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Parabola",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperbola",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sigmoid curve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Straight line",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/54235571701692912/54235571701692912.m3u8",
+      "uid": "0fa35729",
+      "audio": ""
+    },
+    {
+      "text": "What can be true regarding the coefficient of correlation between IMR and economic status :",
+      "options": [
+        {
+          "label": "A",
+          "text": "r= +1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "r= -1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "r=+ 0.22",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "r=-0.8",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. r=-0.8",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/4636831701692939/4636831701692939.m3u8",
+      "uid": "ebcd8758",
+      "audio": ""
+    },
+    {
+      "text": "Study finds a correlation coefficient of + 0.7 between self reported work satisfaction & expectancy of life in a random sample of 5000 corporate workers. (p=0.01)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Work satisfaction improves life expectancy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Strong statistically significant (+) associationbetween work satisfactionand life expectancy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "70% peoples who enjoy work shall live longer",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "70% association between work satisfaction & life expectancy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Strong statistically significant (+) associationbetween work satisfactionand life expectancy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/29921191701692954/29921191701692954.m3u8",
+      "uid": "581a89e7",
+      "audio": ""
+    },
+    {
+      "text": "A coefficient of correlation value of \u201c r = +0.8\u201d indicates :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strong direct relationship between two variables",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Strong inverse relationship between two variable",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Insignificant association between two variables",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "One variable is the cause of the other variable",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Strong direct relationship between two variables",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/35554071701692969/35554071701692969.m3u8",
+      "uid": "335d5914",
+      "audio": ""
+    },
+    {
+      "text": "Mosquitoes decrease as height increases in :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative correlation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Bidirectional",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Zero correlation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Negative correlation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/77718301701692983/77718301701692983.m3u8",
+      "uid": "5af60e0e",
+      "audio": ""
+    },
+    {
+      "text": "Strong correlation is signified by a correlation coefficient of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Less than 1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "More than 1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "decf9dd5",
+      "audio": ""
+    },
+    {
+      "text": "4 populations had correlation coefficients of 0.6, each for weight & height, when plotted together. What would be the net coefficient if correlation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Same",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Smaller",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Greater",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Can\u2019t be predicted",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Same",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/9131141701693120/9131141701693120.m3u8",
+      "uid": "c242f950",
+      "audio": ""
+    },
+    {
+      "text": "Type I sampling error is classified as :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha error",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Beta error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gamma error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delta error",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Alpha error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/76970941701693134/76970941701693134.m3u8",
+      "uid": "cc5f7700",
+      "audio": ""
+    },
+    {
+      "text": "The \u201c P\u201d value of a randomized controlled trial comparing operation A ( new procedure) & operation B (Gold standard ) is 0.04. From this, we conclude that :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type II error is small & we can accept the finding of the study",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The probability of false negative conclusion that operation A is better than operation B, whenin truth it is not , is 4%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The power of study to detect a differencebetween operationA & B = 96%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The probabilityof a false positive conclusion that operation \u2018 Operation a Is betterthat operation \u201c Operation A is better that operation B\u2019 , when in truth it is not , is 4%",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The probabilityof a false positive conclusion that operation \u2018 Operation a Is betterthat operation \u201c Operation A is better that operation B\u2019 , when in truth it is not , is 4%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/27286151701693147/27286151701693147.m3u8",
+      "uid": "1849b88c",
+      "audio": ""
+    },
+    {
+      "text": "Power of study can be increased by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing alpha error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreasing beta error",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Decreasing alpha error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increasing beta error",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Decreasing beta error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/52109861701693170/52109861701693170.m3u8",
+      "uid": "7d4c350f",
+      "audio": ""
+    },
+    {
+      "text": "In assisting the association between maternal nutritional status and birth weight of the newborns, two investigators A and B studied separately and found significant results with p values 0.02 and 0.04 respectively . From this information, what can you infer about the magnitudes of association found by the two investigations :",
+      "options": [
+        {
+          "label": "A",
+          "text": "The magnitude of association found by investigator A is more than that found by B",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "the magnitude of association Found byinvestigator B is more than thatfound by A",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The estimates of associationobtained by A and B will be equalsince both are significant",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nothing can be concluded as the informationgiven is inadequate",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Nothing can be concluded as the informationgiven is inadequate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/27577091701693189/27577091701693189.m3u8",
+      "uid": "16469b4c",
+      "audio": ""
+    },
+    {
+      "text": "A randomized trial comparing efficacy of two regimens showed that difference is statically signification with p < 0.001 but in reality the two drugs do not differs in their efficacy. This is an example of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type-I (\u03b1 error)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type \u2013II error ( \u03b2 error)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-\u03b1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-\u03b2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type-I (\u03b1 error)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/47147301701693203/47147301701693203.m3u8",
+      "uid": "f1b33c85",
+      "audio": ""
+    },
+    {
+      "text": "After applying a statistical test an investigator gets the \u2018 P value \u2018 as 0.01 . It means that :",
+      "options": [
+        {
+          "label": "A",
+          "text": "The probabilityof finding a significant difference is 1 %",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The probability of declaring a significant difference is 1%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The difference is not significant 1% times and significant 99%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The power of the test used in 99%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The difference is not significant 1% times and significant 99%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/24313811701693218/24313811701693218.m3u8",
+      "uid": "d462915a",
+      "audio": ""
+    },
+    {
+      "text": "All are true about p - value except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is the probability of committing Type - I error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Is equal t o 1- b",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Is the chance that the presence of difference is concluded when actuallythere is none",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "When p- value is less than alpha , the result is statistically significant",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Is equal t o 1- b",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/25708451701693233/25708451701693233.m3u8",
+      "uid": "39a47652",
+      "audio": ""
+    },
+    {
+      "text": "All are true except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha is the maximum tolerable probability of type - I error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Beta is the probability of type \u2013 II errors",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "When null hypothesis is true but is rejected , it is type - II error",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "P-value can be more or less than a",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. When null hypothesis is true but is rejected , it is type - II error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/19504801701693247/19504801701693247.m3u8",
+      "uid": "b55de30b",
+      "audio": ""
+    },
+    {
+      "text": "P- value is the probability of :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Not rejecting a null hypothesis when true",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rejecting a null hypothesis when true",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Not rejecting a null hypothesis when false",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rejecting a null hypothesis when false",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Rejecting a null hypothesis when true",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/62803761701693264/62803761701693264.m3u8",
+      "uid": "c731297d",
+      "audio": ""
+    },
+    {
+      "text": "The risk factor association of smoking with pancreatic cancer was studied in a case control study. The values are: Which of the following is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Risk is more associated with group A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Risk is more associated with group B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Risk is more associated with group C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Risk is equally associated with all three groups",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Risk is more associated with group B",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/52129991.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/70567171701693282/70567171701693282.m3u8",
+      "uid": "12c54100",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are true about standard error except :",
+      "options": [
+        {
+          "label": "A",
+          "text": "As the sample size increases , standard error will also increase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Based on normal distribution",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It depends on standard deviation of mean",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Is used to estimate confidence limit",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. As the sample size increases , standard error will also increase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/77153401701693295/77153401701693295.m3u8",
+      "uid": "bf27dfdb",
+      "audio": ""
+    },
+    {
+      "text": "P- value is defined as :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Probability of declaring a significant difference when actually it is not present",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Probability of declaring a significant difference when actually it is present",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Probability of not declaring a significant difference when actually it is not present",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Probability of not declaring a significant difference when actually it is present",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Probability of declaring a significant difference when actually it is not present",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 (B) Probability of declaring a significant difference when actually it is present: - Incorrect. This describes a correct rejection of a false null hypothesis, which is not what the p-value represents. The p-value does not measure the probability that a real difference exists; it only tells us how likely our results are under the assumption that the null hypothesis is true.</li><li>\u2022 (C) Probability of not declaring a significant difference when actually it is not present: - Incorrect. This describes the correct acceptance of a true null hypothesis, which is unrelated to the p-value.</li><li>\u2022 (D) Probability of not declaring a significant difference when actually it is present: - Incorrect. This describes a Type II error (false negative, \u03b2 error)\u2014failing to reject a false null hypothesis. The p-value does not measure Type II errors; instead, it is linked to Type I errors.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/60783711701693310/60783711701693310.m3u8",
+      "uid": "b3c59de0",
+      "audio": ""
+    },
+    {
+      "text": "A 95% confidence interval for prevalence of cancer in smokers aged > 65 year is 56% to 76%, the chance that the prevalence could be less than 56% is :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Practically Nil",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "44%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2.5%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 2.5%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/29841981701693323/29841981701693323.m3u8",
+      "uid": "d3c2a617",
+      "audio": ""
+    },
+    {
+      "text": "When we say that \u201cthe difference is significant\u201d it mean that :",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is likely by chance and when P > 0.0.5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It is unlikely by chance and when p> 0.05",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is unlikely by chance and when < 0.05",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "It is likely by chance and when P < 0.05",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. It is unlikely by chance and when < 0.05",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/72576171701693339/72576171701693339.m3u8",
+      "uid": "f737b770",
+      "audio": ""
+    },
+    {
+      "text": "What will be the 95 % CI for an estimated prevalence of 10% and a sample size of 100",
+      "options": [
+        {
+          "label": "A",
+          "text": "Given data inadequate for calculation of class intervals",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2-18",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4-16",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7-13",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 4-16",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/10720971701693353/10720971701693353.m3u8",
+      "uid": "d1c61905",
+      "audio": ""
+    },
+    {
+      "text": "In a test of significance , P value is 0.023 the observed difference in study can be considered as :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Null hypothesis accepted and the study is rejected",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Null hypothesis rejected and the study is accepted",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Null hypothesis accepted and the study is accepted",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Null hypothesis rejected and the- study is also rejected",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Null hypothesis rejected and the study is accepted",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/57642311701693367/57642311701693367.m3u8",
+      "uid": "5ef7ed83",
+      "audio": ""
+    },
+    {
+      "text": "If confidence is increased there:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Previously insignificant data becomes significant",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Previously significant data becomes insignificant",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "No effect on significance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Any change can happen",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Previously significant data becomes insignificant",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/30294901701693384/30294901701693384.m3u8",
+      "uid": "b19fa2b8",
+      "audio": ""
+    },
+    {
+      "text": "In a group of 100 people the GFR is 85 ml/ minute with a SD of 25. What is the range for 90% CI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "70 - 100",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "75 - 95",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "81- 89",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "80 - 90",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 81- 89",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/69001561701693403/69001561701693403.m3u8",
+      "uid": "be056bd5",
+      "audio": ""
+    },
+    {
+      "text": "In an agreement between SpO2 of two groups with and without micropore in a pediatric population the values spotted is as below. Which of the following is true",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is not agreement between the two groups",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The two groups have a constant relation with a variation of 3%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The is no association between the two groups",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The curve shows a regression line means co relation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The curve shows a regression line means co relation",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/23599914.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/36609071701693422/36609071701693422.m3u8",
+      "uid": "ac82ff73",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is correct regarding the below picture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non -linear relationship",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Linear relationship",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nothing can be inferred",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Positive to - relation found",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Non -linear relationship",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/course_file_meta/64619995.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/70919071701693437/70919071701693437.m3u8",
+      "uid": "49215881",
+      "audio": ""
+    },
+    {
+      "text": "For testing the statistical significance of the difference in heights of school children:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Student\u2019s t\u2019 test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chi- squared test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "One way analysis of variance (one way ANOVA)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. One way analysis of variance (one way ANOVA)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/60823551701693459/60823551701693459.m3u8",
+      "uid": "95dbd867",
+      "audio": ""
+    }
+  ]
+}

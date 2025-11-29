@@ -1,0 +1,784 @@
+{
+  "meta": {
+    "id": "test61",
+    "title": "Screening_of_Diseases-Screening_of_Diseases",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "The patient's blood pressure is 120/80 mm Hg. Four different sphygmomanometers measure his BP, each with 3 readings. Match the sphygmomanometers with their respective accuracy and precision parameters. Sphygmomanometer readings Accuracy and Precision parameters 1. 120/80, 120/80, 120/80 a. Precise but inaccurate 2. 140/96, 108/62, 96/82 b. Imprecise but accurate 3. 140/96, 140/96, 140/96 c. Precise and accurate 4. 122/82, 120/80, 118/78 d. Imprecise and inaccurate",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-c, 2-b, 3-d, 4-a",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-b, 2-c, 3-d, 4-a",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-d, 2-a, 3-b, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-c, 2-d, 3-a, 4-b",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/jt0vfLxPQZpYvU6ZHnIX1734073352.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Accurate & precise</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Not accurate & precise</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Accurate & not precise</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Not accurate & not precise</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Every line hits the central point exactly at the gold standard value.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The same finding is seen, but far from the true value; it is inaccurate.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is accurate as the result is closer to the true value in the first circle; it is not precise.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is not precise or accurate.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/SdBD70gJ5TN5ySP7AX821731586465.mp3",
+      "video": "",
+      "uid": "a610df4f"
+    },
+    {
+      "text": "All comprise inherent properties of a screening test except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negative predictive value",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Accuracy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Yield",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Positive predictive value",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Yield",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/kAIkOYi8ttKDZ04w8ogx1747426727.mp3",
+      "video": "",
+      "uid": "3741cadb"
+    },
+    {
+      "text": "A 45-year-old man presents to the emergency department with chest pain and the doctor suspects myocardial infraction thus orders a blood test to evaluate for a specific cardiac marker for the same which has a sensitivity of 95% and a specificity of 90%. In the general population, the prevalence of acute myocardial infarction is 2%, while in patients presenting to the emergency department with chest pain, the prevalence increases to 30%. Based on this scenario, which of the following statements is true concerning the test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive predictive value remains constant when prevalence <25%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative predictive value increases as prevalence increases",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Positive predictive value is directly proportional to the prevalence",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Negative predictive value remains constant when prevalence >75%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Positive predictive value is directly proportional to the prevalence",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/y30iG7i9WLyBJG3jgmPx1747426986.mp3",
+      "video": "",
+      "uid": "370d3ce6"
+    },
+    {
+      "text": "Among the population of 5 million people in a city, 1 in every 200 undergoes sudden cardiac arrest each year. A new government formed recently wanted to know the total number of sudden cardiac arrests in this population during the last 5 years. What will be the estimate per million population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "21000",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "23500",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "25000",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "28500",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 25000",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ZTIk2o96V4Rf3a6aPzlw1734074525.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:334px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prevalence = <span class=\"customMeta\" data-dictid=\"17cd3771bb1692777190950c142dbe\">Incidence</span> x Duration</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/QCNXsz0xz5QvmwnCjLI91747426858.mp3",
+      "video": "",
+      "uid": "f3e3832a"
+    },
+    {
+      "text": "In a population of 1000 people who are at high risk of contracting syphilis, 650 were confirmed to be positive by serological studies. A new test that acts by detecting a new biomarker \"X\" has been introduced and 600 were found to be positive among serology-positive patients. 120 out of the remaining 350 people were also found to be having \u201cX\u201d. What is the positive predictive value of this new test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "71%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "94%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "83%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "68%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 83%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serology positive</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serology negative</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>\"X\" positive</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>600</p>\n<p>(a-true positive)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>120</p>\n<p>(b-false positive)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>\"X\" negative</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>50</p>\n<p>(c-false negative)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>230</p>\n<p>(d-true negative)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/FWF3n5SFjcUSeVDKi49l1745323621.mp3",
+      "video": "",
+      "uid": "268a8165"
+    },
+    {
+      "text": "A new imaging test has been introduced to diagnose breast cancer in a sample of 1500 people. Among those 600 people who have biopsy-confirmed breast carcinoma, 480 were found to be positive. 60 were also found positive among the remaining 900 biopsy-negative people. What is the sensitivity and specificity of this new test, respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": "72%; 90%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "88%; 79%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "94%; 89%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "80%; 93%",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 80%; 93%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biopsy positive</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biopsy negative</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>BRight positive</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>480</p>\n<p>(a- true positive)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>60</p>\n<p>(b- false positive)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>BRight negative</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>120</p>\n<p>(c- false negative)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>840</p>\n<p>(d- true negative)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/tBtcFHAOx5aSTvcbVfzs1747427142.mp3",
+      "video": "",
+      "uid": "41276542"
+    },
+    {
+      "text": "Which of the following is incorrect regarding Cronbach's alpha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cronbach's alpha is a measure of internal consistency reliability.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It ranges from 0 to 1, with higher values indicating greater reliability.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cronbach's alpha can be used to assess the validity of a measurement instrument.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cronbach's alpha assumes that all items in the scale measure the same underlying construct.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cronbach's alpha can be used to assess the validity of a measurement instrument.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/4zng1yBL8fZANgvNSBCY1733724959.mp3",
+      "video": "",
+      "uid": "9725e4d7"
+    },
+    {
+      "text": "Sensitivity/(1-specificity) is the formula to find which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive likelihood ratio",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Negative likelihood ratio",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Positive predictive value",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Negative predictive value",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Positive likelihood ratio",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Positive likelihood ratio</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Negative likelihood ratio</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents how much more likely a positive test result is in individuals with the disease than those without it.</li>\n<li>LR+ > 1 indicates a positive test result is more likely in those with the disease.</li>\n<li>Higher LR+ values (>10) indicate strong evidence of disease.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Indicates how much less likely a negative test result is in individuals with the disease compared to those without the disease.</li>\n<li>LR- < 1 indicates a negative test result is less likely in those with the disease.</li>\n<li>Lower LR- values (<0.1) suggest strong evidence for excluding the disease.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/RZhSN7rkvfUzjcSpjQpB1733724788.mp3",
+      "video": "",
+      "uid": "ec2abb08"
+    },
+    {
+      "text": "What purpose is Kaplan-Meier analysis used primarily for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assessing the impact of economic factors on survival rates.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Estimating the probability of survival over time.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Analysing the correlation between lifestyle choices and health outcomes.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Predicting future trends in population demographics.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Estimating the probability of survival over time.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/QkYkgBW3N2V3UNVzBGOa1731587081.mp3",
+      "video": "",
+      "uid": "99b40f7d"
+    },
+    {
+      "text": "Given below are a few statements regarding the receiver operating curve. Which among the following is a false statement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The best investigation is the one whose curve is most upward and left",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The test with the minimum surface area under the cure is the most effective",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Can be used for comparing two or more diagnostic tests",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Can be used for deciding optimal cut-off points",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The test with the minimum surface area under the cure is the most effective",
+      "question_images": [
+        "https://image.prepladder.com/content/9CtPqNp085bxhzvvtygp1734431357.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/vwXrwNIpb8R2IzsCwBEV1731587206.mp3",
+      "video": "",
+      "uid": "3ba158cc"
+    },
+    {
+      "text": "Below is a graph showing the results of a screening test. If the cut-off point is reduced from point B to A, what will be its effect on this screening test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No effect at all",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sensitivity increases",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sensitivity decreases",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Specificity increases",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sensitivity increases",
+      "question_images": [
+        "https://image.prepladder.com/content/1iQuL0R4h1LX8C4zDNt01747783302.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/nV9BfdexNE4nEPWwbS5s1734527696.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/rLJQBpkE5nn3M9UXUXhs1731586869.mp3",
+      "video": "",
+      "uid": "5eba1046"
+    },
+    {
+      "text": "Screening of syphilis RPR test is done first. All those positive on RPR are submitted to FTA-ABS. Multiple tests were done in parallel. What will be seen ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity increases, specificity decreases.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sensitivity decreases, specificity increases.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PPV increases, NPV decreases.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "PPV decreases, NPV increases.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sensitivity increases, specificity decreases.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tests done in series</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tests done in parallel</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A population is subjected to one screening test followed by a second one.</li>\n<li>The second test is done only if the first test is positive.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Multiple tests are done concurrently.</li>\n<li>A person is considered positive for disease if any tests give a positive result.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:570px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tests in series</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tests in parallel</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sensitivity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specificity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PPV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>NPV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PPV: Positive predictive value, NPV: Negative predictive value.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/wyHMURoWijvSz5fGziNY1731586687.mp3",
+      "video": "",
+      "uid": "039b69c2"
+    },
+    {
+      "text": "A 40-year-old healthy man visits his family physician for a routine check-up. His physician recommends a series of tests to identify potential diseases that might be present without causing symptoms. This proactive approach is an example of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diagnosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Surveillance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Screening",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lead time",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Screening",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/dxFGwryUy8PI3UQ1DcCJ1731583644.mp3",
+      "video": "",
+      "uid": "40560d94"
+    },
+    {
+      "text": "The diagnostic power of a test to correctly exclude the disease is reflected by?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Specificity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Positive Predictive Value",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Negative Predictive Value",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Negative Predictive Value",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jMqnhq07zSmh5WQ4oUo21731585301.mp3",
+      "video": "",
+      "uid": "bee9e9ff"
+    },
+    {
+      "text": "Specificity is a property of a screening test .Specificity of a test means all except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refers to the ability of a test to identify those without a condition as negative.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It is calculated as the ratio of true negatives to the sum of true negatives and false positives.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A highly specific test will rarely produce false positives.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is related to the condition's prevalence in the population being tested.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. It is related to the condition's prevalence in the population being tested.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Pb5YRKodYc2YSVizF8Ag1748207960.mp3",
+      "video": "",
+      "uid": "2757a2aa"
+    },
+    {
+      "text": "Sensitivity is the ability of a test to detect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Individuals who do not have the disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Individuals who have the disease",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Individuals who have the disease but test negative",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Individuals who do not have the disease but test positive",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Individuals who have the disease",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/A2cXfoqyQLNSqdHGao8z1734073162.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/sBrqGrh9nl2QQ2lKb9aq1731585129.mp3",
+      "video": "",
+      "uid": "a6274064"
+    },
+    {
+      "text": "Which of the following is not a test used for assessing accuracy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean Chart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Levey-Jennings (LJ) Chart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Shewhart Control Chart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Scatter Plot",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Scatter Plot",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3hheK6aWmQKucVvKuFXO1731584934.mp3",
+      "video": "",
+      "uid": "9f525b9d"
+    },
+    {
+      "text": "A 45-year-old male patient presents to the emergency department with chest pain. An ECG is performed. Doctor 1 reviews the ECG and reports it as normal. However, Doctor 2 reviewed the same ECG and reported that it was abnormal. What is the most likely explanation for the differing interpretations of the patient's ECG by Doctor 1 and Doctor 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intraobserver variation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Biological variation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Error related to technology",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Interobserver variation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Interobserver variation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:748px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Observer Variability</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biological Variation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Errors Related to Technology</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Interobserver Variation:</strong></p>\n<ul>\n<li>Differences between different observers.</li>\n<li>Example: Two doctors interpret the same <span class=\"customMeta\" data-dictid=\"40ebcbf95e169277718613d7c2d999\">ECG</span> differently, which leads to different diagnoses.</li>\n</ul>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Natural changes in a patient's <span class=\"customMeta\" data-dictid=\"6c2c85ae6b16927771950809419a59\">physiological</span> parameters over time.</li>\n<li>For example, <span class=\"customMeta\" data-dictid=\"263ee5444e1692777183a7e8e704da\">blood pressure</span> fluctuates daily, and cholesterol levels vary with diet.</li>\n</ul>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Inaccuracies in measurement are due to malfunctioning equipment.</li>\n<li>For example, a faulty <span class=\"customMeta\" data-dictid=\"ddda61658016927772000045e45a57\">thermometer</span> gives inconsistent temperatures.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intraobserver Variation:</strong></p>\n<ul>\n<li>Differences in interpretation by the same observer at different times.</li>\n<li>Example: The same doctor interprets an <span class=\"customMeta\" data-dictid=\"40ebcbf95e169277718613d7c2d999\">ECG</span> differently when reviewed at different times.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ocYeG7KkfFTb6yX5KMeK1731584801.mp3",
+      "video": "",
+      "uid": "44d49c32"
+    },
+    {
+      "text": "During the COVID-19 pandemic, airports implemented temperature checks and rapid antigen tests for passengers. This is an example of what type of screening?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prospective Screening",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Prescriptive Screening",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Predictive Screening",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mass Screening",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prospective Screening",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prescriptive Screening (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prospective Screening (Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Done for one's own benefit.</li>\n<li><strong>Secondary</strong> level of prevention.</li>\n<li>Early diagnosis.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Done for other's benefit.</li>\n<li>The <strong>primary</strong> level of prevention.</li>\n<li>Control/ prevention of disease.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>E.g.</p>\n<ul>\n<li>Screening neonates for <span class=\"customMeta\" data-dictid=\"77493a5b781692777193df12530299\">neonatal</span> hypothyroidism</li>\n<li>Deafness in children</li>\n<li>Blood <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> testing for <span class=\"customMeta\" data-dictid=\"b6a934c67b16927771868fca92baf9\">diabetes mellitus</span> and gestational diabetes</li>\n<li>Mammography for breast cancer</li>\n<li>Pap <span class=\"customMeta\" data-dictid=\"6777533153169277719804fcbbf2d1\">smear</span> for <span class=\"customMeta\" data-dictid=\"25c6ce766c1692777184ab9a40305c\">cervical</span> cancer</li>\n<li>Visual <span class=\"customMeta\" data-dictid=\"80d33aa6081692777180a22947db2c\">acuity</span> for <span class=\"customMeta\" data-dictid=\"cae831e44316927771973fa5e13fd7\">refractive</span> errors.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>E.g.</p>\n<ul>\n<li>Screening of immigrants for diseases like TB and COVID</li>\n<li>HIV screening for blood donation</li>\n<li>HIV screening in ANC cases</li>\n<li>Health checkups for workers in the food industry.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Oz669mUS6p880klmPVkG1731584650.mp3",
+      "video": "",
+      "uid": "86af790c"
+    },
+    {
+      "text": "A health camp was organized to conduct cervical cancer screening in pregnant females. Which of the following best explains this type of screening test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-risk Screening",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multiphasic Screening",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mass Screening",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multipurpose Screening",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Multiphasic Screening",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:692px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. <span class=\"customMeta\" data-dictid=\"fa9dd42ba01692777192a925320fac\">Mass Screening</span> <strong>(OPTION C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>All individuals screened irrespective of high risk.</li>\n<li>Least efficient type of screening.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. High-risk screening/ selective screening/ targeted screening</p>\n<p><strong>(OPTION A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Only high-risk individuals are screened.</li>\n<li>Most efficient <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> of screening.</li>\n<li>E.g.:\n\t\t\t\t<ul>\n<li>Hypertension screening in the elderly.</li>\n<li>TB screening in lower socio-economic population.</li>\n<li>Breast cancer screening with a family history of breast cancer.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. Multiphasic\u00a0screening</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Application of 2 or more screening tests in combination to a large number of people at one time to detect a single disease.</li>\n<li>E.g., Health camps for <span class=\"customMeta\" data-dictid=\"25c6ce766c1692777184ab9a40305c\">cervical</span> cancer: Questionnaire, <strong>Pap smear</strong>, Visual inspection.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4. Multipurpose screening <strong>(OPTION D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Screen the population with more than one test done simultaneously to detect more than one disease</li>\n<li>Screening blood tests of pregnant females (Hb, RA, HIV, VDRL, HbsAg)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5. <span class=\"customMeta\" data-dictid=\"5204097a961692777194904909b6fe\">Opportunistic</span> screening or Case-finding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Screening conducted during routine healthcare visits for other reasons</li>\n<li>Presumptive identification was not raised at the patient's request</li>\n<li>E.g., Screen everyone above 30 for hypertension</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3Q3MNG2prq4Ey9dl493B1731584414.mp3",
+      "video": "",
+      "uid": "f82ad6bc"
+    },
+    {
+      "text": "Which of the following statements about diseases suitable for screening is true? The disease should have a significant impact on public health. Early detection and treatment should reduce morbidity. The disease should have a short latent period. A reliable, invasive, and cost-effective screening test should be available. The disease should have a high prevalence in the population.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2, 4 and 5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 2, and 5",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "2, 3 and 5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2, 3 and 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1, 2, and 5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cLonE4sjWg2C1EZjAhvc1731584160.mp3",
+      "video": "",
+      "uid": "9b6f72aa"
+    },
+    {
+      "text": "Which of the following appropriately represents lead time in the given figure",
+      "options": [
+        {
+          "label": "A",
+          "text": "C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B to Y",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "B to X",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "X to Y",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B to Y",
+      "question_images": [
+        "https://image.prepladder.com/content/UCyDuV2oubt6ymt7LGhy1734149946.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/tW6Ts7bbBPqOekUabs1O1734073001.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/9I3VKHg0GidqWPRz0bv31731583976.mp3",
+      "video": "",
+      "uid": "2ddca861"
+    },
+    {
+      "text": "All of the following are features of a screening test except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aimed at early detection of disease in asymptomatic individuals.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High specificity is more important than high sensitivity.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Often less accurate and applied to a large population.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Typically involves simple, cost-effective and non-invasive procedures.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High specificity is more important than high sensitivity.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:730px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Screening test</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic test</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Done on apparently healthy people <strong>(Statement A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Done on those who are sick</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Applied to groups/ large populations <strong>(Statement C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Applied on individuals</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Test results are arbitrary and final.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diagnosis is not final but modified in the light of new evidence/ sum of evidence.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Based on one <span class=\"customMeta\" data-dictid=\"9167b944ea169277718582367e0915\">criterion</span> or cut-off value and lab findings.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Based on the evaluation of signs and symptoms.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Less accurate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More accurate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tests are simple, non-invasive and cost-effective <strong>(Statement D).</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tests are complex, invasive, or costly procedures.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It cannot be used as a basis for treatment.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It can be used as a basis for treatment.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The initiative <span class=\"customMeta\" data-dictid=\"89f5610ffd1692777184b03f1f88cc\">comes</span> from govt organizations/NGOs.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The initiative <span class=\"customMeta\" data-dictid=\"89f5610ffd1692777184b03f1f88cc\">comes</span> from the patient.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High sensitivity </strong>is prioritized to avoid false negatives.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High specificity</strong> is prioritized to avoid false positives.<strong>(Statement B)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/BeMXXz3atCMYvOU25D6f1731583807.mp3",
+      "video": "",
+      "uid": "630019a6"
+    }
+  ]
+}

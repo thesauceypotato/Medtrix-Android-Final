@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MEDTRIX | Q-Engine</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <a href="../index.html" class="medtrix-home-btn">
+        <i class="fas fa-arrow-left"></i> <span>Main Dashboard</span>
+    </a>
+
+    <button class="theme-btn" onclick="App.toggleTheme()">
+        <i class="fa-solid fa-lightbulb"></i>
+    </button>
+
+    <div id="app-shell">
+        
+        <header id="main-header">
+            <div class="logo-box" onclick="location.hash='#'">
+                <i class="fas fa-dna"></i>
+            </div>
+            <h1>MEDTRIX <span class="version-tag">PRO</span></h1>
+            
+            <div class="search-wrapper">
+                <i class="fa-solid fa-search"></i>
+                <input type="text" id="searchInput" placeholder="Search Q-Bank Library...">
+            </div>
+        </header>
+
+        <main id="main-container" class="grid-view"></main>
+
+    </div>
+
+    <div id="lightbox" class="lightbox hidden" onclick="this.classList.add('hidden')">
+        <img id="lightbox-img" src="" alt="Zoomed Medical Image">
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

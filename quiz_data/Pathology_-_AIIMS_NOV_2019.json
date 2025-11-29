@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "id": "test6",
+    "title": "Pathology - AIIMS NOV 2019",
+    "category": "AIIMS PYQ"
+  },
+  "questions": [
+    {
+      "text": "Match the following translocation of lymphoma: Select the correct answer using the code below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a = 4 / b = 5 / c = 3 / d = 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a = 3 / b = 4 / c = 1 / d = 5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "a = 5 / b = 1 / c = 3 / d = 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a = 4 / b = 5 / c = 1 / d = 3",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. a = 4 / b = 5 / c = 1 / d = 3",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1692188622940-QTDPPYQ210IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>a = 4 / b = 5 / c = 1 / d = 3</p>\n<p><strong>Highyeild:</strong></p><p>WHO classification of Mature B-lymphoid neoplasms Chronic lymphocytic leukemia/small lymphocytic lymphoma B-cell prolymphocytic leukemia Lymphoplasmacytic lymphoma Splenic and nodal marginal zone lymphomas Extranodal marginal zone lymphoma Mantle cell lymphoma Follicular lymphoma Marginal zone lymphoma Hairy cell leukemia Plasmacytoma/plasma cell myeloma Diffuse large B-cell lymphoma Burkitt lymphoma CLL: CD 5+, CD 23+, CD 200+ Follicular Lymphoma: CD 10+, CD 5- Mantle cell Lymphoma: CD 5+, CD 10-, CD 23- Marginal Cell Lymphoma: CD 5-, CD 10- Burkitt\u2019s Lymphoma: CD 10+ ,CD19+, CD20+</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: a = 4 / b = 5 / c = 3 / d = 1. Incorrect . Option B: a = 3 / b = 4 / c = 1 / d = 5. Incorrect . Option C: a = 5 / b = 1 / c = 3 / d = 4. Incorrect .</p>\n<p><strong>Table:</strong></p><p>#MANTRA Peripheral B-Cell Neoplasms and their properties: CLL/SLL Follicular Lymphoma Mantle Cell Lymphoma Burkitt Lymphoma Marginal Cell Lymphoma Origin Post germinal memory B cell Na\u00efve B cell Germinal center B cell Na\u00efve B cell Germinal center B cell Marginal Zone of Lymph node Age Adults ~60 years Male predilection 5 th - 6 th decade Predilection to affect males Endemic (African) \u2013 children and young adults Sporadic \u2013 Children and young adults Precursor lesion(if any) Monoclonal B cell lymphocytosis In situ follicular neoplasia In situ mantle cell lymphoma \u25cf       H pylori in stomach: MALTomas \u25cf       Hashimoto Thyroiditis \u25cf       Sjogren\u2019s Peripheral smear Lymphocytosis smudge cell Sometimes can show lymphocytosis Bone marrow Interstitial infiltrates of lymphocytes Para trabecular infiltrates of lymphocytes Histology Lymph node \u2013 Proliferation center Diffuse and nodular Centrocyte and centroblast Monotonous population of lymphocytes with irregular deeply clefted and centroblast Starry sky pattern High mitotic index MIB~100% Types Endemic (African) Epidemic Associated with HIV Immunophenotype CD19, CD20, CD23, CD5 positive CD19, CD20, CD10, surface Ig, BCL2 positive, CD5 negative CyclinD1, CD19, CD20, CD5 positive, CD23 negative BCL 6, surface Ig, CD19, CD20, CD10 (Common Acute Lymphoblastic Leukemia Antigen- CALLA) positive CD 23, BCL10, MALT-1 positive, CD 5 negative, CD 10 negative Clinical features Usually asymptomatic Fatigue, anorexia, weight loss Rarely, Generalised lymphadenopathy, hepatosplenomegaly Painless generalized lymphadenopathy Painless lymphadenopathy Swelling in the jaw, intestinal obstruction B-cell tumors that arise within lymph nodes, spleen, or extranodal tissues, mucosa-associated lymphoid tumors (or MALTomas) Mutation Deletion 13q t(14:18) MLL gene rearrangement 90% t(11;14) t(8:14) Increased c-MYC protein levels t(11;18), t(14;18), t(1;14) Others Can be associated with Autoimmune hemolytic anaemia Richter Transformation Transformation of CLL/SLL to large cell lymphoma ( DLBCL ) Can transform into Prolymphocytic leukemia Associated with lymphomatoid polyposis Associated with EBV Common cause for tumor lysis syndrome</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a2a90ab5",
+      "audio": ""
+    },
+    {
+      "text": "Arrange the sequence of the event of the cell cycles: Cyclin D-CDK4 Cyclin A-CDK1 Cyclin B-CDK1 Cyclin E-CDK2 Select the correct answer using the code below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 \u2192 1 \u2192 3 \u2192 2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 \u2192 3 \u2192 1 \u2192 4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 \u2192 4 \u2192 2 \u2192 3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1 \u2192 3 \u2192 2 \u2192 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1 \u2192 4 \u2192 2 \u2192 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1 \u2192 4 \u2192 2 \u2192 3 Cyclins are named such because they undergo a constant cycle of synthesis and degradation during cell division. When cyclins are synthesized, they act as an activating protein and bind to CDKs forming a Cyclin-CDK complex. This complex then acts as a signal to the cell to pass to the next cell cycle phase. CELL CYCLE: G0\u2192 G1\u2192 S\u2192 G2\u2192 M 1st step / ON-OFF SWITCH in cell cycle \u2013 Phosphorylation of Rb gene . Normally, Rb gene is active in hypophosphorylated state . As Rb gene is a tumour suppressor gene , it binds to E2F (Elongation factor) and inhibits transcription of genes whose products are required for Synthetic (S) phase of cell cycle. Phosphorylation of Rb gene leads to release of E2F and leads to transcription of genes whose products are required for Synthetic (S) phase of cell cycle. Cyclins and Cyclin dependent kinases are involved in cell cycle. Cyclin D, Cyclin E, Cyclin A and Cyclin B gets activated sequentially and binds to Cyclin Dependent inhibitors - CDK 4 , CDK2, CDK1 and CDK 1 respectively and completes the cell cycle. Role of cyclins, cyclin-dependent kinases (CDKs) and CDK inhibitors (CDKIs) in regulating the cell cycle. Shaded arrows represent the phases of the cell cycle during which specific Cyclin-CDK complexes are active. Cyclin D-CDK4, Cyclin D-CDK6, and Cyclin E-CDK2 regulate the G1 -to-S transition by phosphorylating the Rb protein (pRb) . Cyclin A-CDK2 and Cyclin A-CDK1 are active in the S phase . Cyclin B-CDK1 is essential for the G2 -to-M transition . Two families of CDK inhibitors can block activity of CDKs and progression through the cell cycle. The so-called INK4 inhibitors, composed of p15, p16, p18, and p19, act on cyclin D-CDK4 and cyclin D-CDK6 . The other family of three inhibitors, p21, p27, and p57, can inhibit all CDKs. CELL CYCLE INHIBITORS Cip/Kip Family : Includes p21 , p27 and p57 . These can bind to Cyclin-CDK and inactivate them INK4/ARF Family: Includes p16INK4a and p14 ARF p16INK4a inhibits CDK4 p14 ARF prevents p53 degradation by inhibiting MDM2 CELL CYCLE CHECKPOINTS: G1/S and G2/M checkpoints. Cell damage caused by Ionising Radiation arrests the cells at G2/M checkpoint After cell cycle arrest at different points, the cell has to activate the DNA repair mechanisms and repair itself and if not, apoptosis has to happen rendering the cell to die.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: 4 \u2192 1 \u2192 3 \u2192 2. Incorrect . Option B: 2 \u2192 3 \u2192 1 \u2192 4. Incorrect . Option D: 1 \u2192 3 \u2192 2 \u2192 4. Incorrect .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b4a85825",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following produces VWF:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endothelial cells",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Platelets",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Macrophages",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Endothelial cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Endothelial cells</p>\n<p><strong>Highyeild:</strong></p><p>Von Willebrand factor (vWF) is a large multimeric glycoprotein present in blood plasma and produced constitutively as ultra-large VWF in endothelium . Von Willebrand Factor's primary function is binding to other proteins, in particular factor VIII , and it is important in platelet adhesion to wound sites . It is not an enzyme and, thus, has no catalytic activity. Endothelial cells contain intracellular stores known as Weibel Pallade Bodies which contain vWF and P-selectin. Function of von Willebrand factor: Prolongs the half-life of factor VIII by stabilizing it (half-life of Factor VIII \u2013 2.4hrs when free and 12 hrs when bound to vWF in the circulation). Adhesion of platelets to subendothelium. vWF is produced by endothelial cells and to some extent by megakaryocytes. Ristocetin induces multivalent vWF multimer to bind platelet glycoprotein Ib-IX and forms interplatelet bridges . Von Willebrand disease \u2013 Most common inherited bleeding disorder of humans Type 1 and 3 are due to quantitative defects in vWF Type 2 is due to qualitative defects in vWF Platelet adhesion to the vessel wall is due to the von Willebrand Factor (vWF) on endothelium and GpIb/IX receptors on the surface of platelets .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B: Platelets. Incorrect . Option C: Neutrophils. Incorrect . Option D: Macrophages. Incorrect .</p>\n<p><strong>Table:</strong></p><p>#MANTRA Features von Willebrand Disease Bernard Soulier Syndrome Glanzmann\u2019s Thrombasthenia Inheritance Autosomal dominant Autosomal Recessive Autosomal Recessive Defects Type 1 and 3: Quantitative defects in vWF. Type 2 Qualitative defects in vWF. Absence of Gp Ib-IX-V receptor Absence of Gp IIb/IIIa receptor Mechanism Platelet adhesion defect despite having normal platelet counts. Factor VIII deficiency as vWF prevents degradation of factor VIII. Platelets adhesion defect. Platelet aggregation defect. Platelet count Normal Normal/ Mild thrombocytopenia Normal Platelet morphology Normal Large platelets with dense granules Normal Bleeding time Prolonged Prolonged Prolonged Platelets aggregation test (Collagen, ADP, Thrombin) Normal Normal Abnormal Ristocetin Aggregation test Abnormal Normalises after the addition of normal serum . Abnormal Doesn\u2019t normalise after the addition of normal serum . Normal vWF factor levels Decreased Normal Normal PT and aPTT Normal PT and prolonged aPTT Normal Normal MNEMONIC: B comes before G which is why Bernard Soullier shows the absence of Ib and Glanzmann Thrombasthenia shows the absence of IIb .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "09345b41",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is the best indicator to assess iron deficiency anemia:",
+      "options": [
+        {
+          "label": "A",
+          "text": "TIBS increased, Ferritin increased, Transferrin saturation increased, Serum transferrin receptors increased",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "TIBS reduced, Ferritin reduced, Transferrin saturation reduced, Serum transferrin receptors decreased",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "TIBS increased, Ferritin reduced, Transferrin saturation reduced, Serum transferrin receptors decreased",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "TIBS increased, Ferritin reduced, Transferrin saturation reduced, Serum transferrin receptors increased",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. TIBS increased, Ferritin reduced, Transferrin saturation reduced, Serum transferrin receptors increased",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>TIBS increased, Ferritin reduced, Transferrin saturation reduced, Serum transferrin receptors increased In Iron Deficiency Anemia (IDA) , TIBC (Total iron-binding capacity) is increased , transferrin saturation is decreased , and ferritin is decreased . The diagnosis of IDA ultimately rests on laboratory studies. Serum Fe and ferritin are low and the Total plasma Fe binding capacity is high . Low serum Fe with increased Fe binding capacity results in a reduction of transferrin saturation to below 15%.</p>\n<p><strong>Highyeild:</strong></p><p>Serum iron studies for different anemias: Serum iron parameters Normal values Iron deficiency anemia Sideroblastic anemia/ Iron overloading Anemia of chronic disease S. Iron 50-100 micrograms/dL Low High Low S. Ferritin 50-100 micrograms/dL Low High High Percentage Transferrin Saturation 33% Low High Low Total Iron Binding Capacity (TIBC) 300 High Low Low REMEMBER: Ferritin is inversely proportional to TIBC ie if Ferritin is High, TIBC will be Low and vice versa.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: TIBS increased, Ferritin increased, Transferrin saturation increased, Serum transferrin receptors increased. Incorrect . Option B: TIBS reduced, Ferritin , Transferrin saturation reduced, Serum transferrin receptors decreased. Incorrect . Option C: TIBS increased, Ferritin reduced, Transferrin saturation reduced, Serum transferrin receptors decreased. Incorrect .</p>\n<p><strong>Table:</strong></p><p>#MANTRA Serum iron studies for different anemias: Serum iron parameters Normal values Iron deficiency anemia Sideroblastic anemia/ Iron overloading Anemia of chronic disease S. Iron 50-100 micrograms/dL Low High Low S. Ferritin 50-100 micrograms/dL Low High High Percentage Transferrin Saturation 33% Low High Low Total Iron Binding Capacity (TIBC) 300 High Low Low REMEMBER: Ferritin is inversely proportional to TIBC ie if Ferritin is High, TIBC will be Low and vice versa.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4b58cd87",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following conditions is shown below?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plexiform neurofibroma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Von Hippel Lindau syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Marfan syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tuberous sclerosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Plexiform neurofibroma",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1692188623252-QTDPPYQ214IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Plexiform neurofibroma The given image shows Plexiform neurofibroma. It is a characteristic feature of neurofibromatosis type 1 (NF1) , also known as von Recklinghausen disease. It is a genetic disorder characterized by the development of benign tumors called neurofibromas in the peripheral nervous system. Plexiform neurofibromas specifically involve multiple nerve fascicles and can infiltrate and expand along the nerve structures.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B .Von Hippel-Lindau syndrome: It is a hereditary neurocutaneous disorder characterized by the development of tumors in various organs, such as the central nervous system and kidneys. Option C .Marfan syndrome: It is a genetic disorder affecting the connective tissue and primarily associated with skeletal, cardiovascular, and ocular abnormalities. It does not involve tumor development. Option D .Tuberous sclerosis It is a genetic disorder characterized by the formation of noncancerous tumors in various organs, including the brain, kidneys, and skin.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Neurocutaneous disorders Neurocutaneous Disorder Associated Gene and Inheritance Clinical Presentation Image Neurofibromatosis Type 1 (NF1) -NF1 gene on chr 17. -Autosomal dominant -Caf\u00e9-au-lait spots -Neurofibromas - Lisch nodules (iris hamartomas) - Freckling in the armpits or groin area - Learning disabilities - Optic pathway gliomas -Pheochromocytomas https://images.app.goo.gl/KVV2p2XZLL5mBzi5A Neurofibromatosis Type 2 (NF2) -NF2 gene on chr 22 -Autosomal dominant -Bilateral vestibular schwannomas (acoustic neuromas) - Meningiomas - Ependymomas - Juvenile cataracts - Schwannomas in other cranial and peripheral nerves https://images.app.goo.gl/5tHFB3M1jdCzRRU59 Tuberous Sclerosis Complex (TSC) -TSC1 (on chr 9) and TSC2 (on chr 16) genes -Autosomal dominant -Facial angiofibromas (adenoma sebaceum) - Shagreen patches - Multiple renal angiomyolipomas - Cortical tubers in the brain - Subependymal giant cell astrocytomas (SEGAs) https://images.app.goo.gl/tc8jEF14gMmUZtnz9 Sturge-Weber Syndrome -Somatic mutation in GNAQ gene -Congenital non-hereditary -Port-wine stain (nevus flammeus) on the face - Leptomeningeal angiomas - Glaucoma - Seizures - Intellectual disability - Hemiparesis https://images.app.goo.gl/tc8jEF14gMmUZtnz9 https://images.app.goo.gl/h5uzP2MgJjYXrhQf6 Von Hippel-Lindau Disease (VHL) -VHL gene on chr 3p -Autosomal dominant -Hemangioblastomas in the central nervous system and retina - Renal cell carcinomas - Pheochromocytomas - Pancreatic neuroendocrine tumors - Endolymphatic sac tumors https://images.app.goo.gl/Vv6DkMNtk1sCa8sg9</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d620521",
+      "audio": ""
+    },
+    {
+      "text": "Ciliocytophthoria is seen in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kartagener",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Situs inversus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acute Respiratory infection",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cystic fibrosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Acute Respiratory infection",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Acute Respiratory infection Ciliocytophthoria (CCP) defines a degenerative process of the ciliated cells consequent to viral infections, and it is characterized by typical morphological changes. It can occur in various conditions affecting the respiratory tract, including acute respiratory infections such as viral or bacterial respiratory tract infections. During respiratory infections , the ciliated respiratory epithelial cells lining the airways may become damaged or shed , leading to their presence in respiratory specimens. The presence of ciliocytophthoria in sputum or other respiratory samples is often indicative of ongoing respiratory epithelial cell damage or turnover.</p>\n<p><strong>Highyeild:</strong></p><p>Primary ciliary dyskinesia It is a genetic disorder that affects the structure and function of cilia in the respiratory tract , causing chronic respiratory infections and other complications. Inheritance: autosomal recessive with a frequency of 1 in 15,000 to 40,000 births, Cayse: Mutations in genes that affect the structure or function of dynein arms , which are essential for the movement of cilia. Features: PCD can lead to chronic respiratory infections, chronic sinusitis, and bronchiectasis due to impaired clearance of mucus and debris from the airways. It is o ften associated with Kartagener syndrome , which is a rare disorder that involves a triad of symptoms: situs inversus, chronic sinusitis, and bronchiectasis.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A . Kartagener Syndrome:It  is a genetic disorder characterized by situs inversus (reversed position of organs), chronic sinusitis, and bronchiectasis. Option B . Situs inversus:It  is a condition where the organs are mirrored or reversed in their normal position.Although individuals with situs inversus may have associated ciliary defects, the finding of ciliocytophthoria is not directly related to situs inversus itself. Option D . Cystic fibrosis: It is a genetic disorder that primarily affects the respiratory and digestive systems.While cystic fibrosis can lead to impaired ciliary function, the presence of ciliocytophthoria is not a characteristic feature or specific to cystic fibrosis.</p>\n<p><strong>Extraedge:</strong></p><p>1. Kartagener's syndrome It is also known as immotile cilia syndrome, A rare, ciliopathic, autosomal recessive genetic disorder Characterized by a defect in the action of the cilia lining the respiratory tract (lower and upper, sinuses, Eustachian tube, and middle ear) and fallopian tube. Triad: Dextrocardia, Sinusitis, Bronchiectasis. 2. Young's Syndrome Defect in ciliary function with unknown mechanism Characterized by: Sinusitis, Obstructive azoospermia, and Bronchiectasis.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3bd7b7a4",
+      "audio": ""
+    },
+    {
+      "text": "Maltese cross appearance in urinary sediment seen in which of the following diseases other than nephrotic syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Felty syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fanconi Syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fabry disease",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Friedreich ataxia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Fabry disease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Fabry disease</p>\n<p><strong>Highyeild:</strong></p><p>Fabry disease is Lysosomal storage disorder which shows XR inheritance and results from the buildup of a particular type of fat, called globotriaosylceramide/ Ceramide Trihexoside , in the body's cells due to deficiency of \u03b1-Galactosidase A . Beginning in childhood, this buildup causes signs and symptoms that affect many parts of the body. Characteristic features of Fabry disease include episodes of pain , particularly in the hands and feet (acro paresthesias); clusters of small, dark red spots on the skin called angiokeratomas ; a decreased to sweat ( hypohidrosis ); cloudiness or streaks in the front part of the eye ( corneal opacity or corneal verticillata ); problems with the gastrointestinal system; ringing in the ears ( tinnitus ); and hearing loss. Angiokeratomas Maltese cross appearance in urinary sediment</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Felty syndrome. Incorrect , triad of rheumatoid arthritis, splenomegaly, and neutropenia Option B: Fanconi Syndrome. Incorrect , Fanconi anemia is a rare autosomal recessive disorder caused by defects in a multiprotein complex that is required for DNA repair. Marrow hypofunction becomes evident early in life and is often accompanied by multiple congenital anomalies , such as hypoplasia of the kidney and spleen , and bone anomalies , commonly involving the thumbs or radii. Option D: Friedreich ataxia. Incorrect , it is a Trinucleotide repeat disorder (GAA) . Friedreich ataxia is an autosomal recessive disease characterized by progressive ataxia, spasticity, weakness, sensory neuropathy, and cardiomyopathy .</p>\n<p><strong>Table:</strong></p><p>#MANTRA Lysosomal Storage disorder Lysosomal Storage Diseases Disease Enzyme Deficiency Major Accumulating Metabolites Glycogenosis Type 2-Pompe disease \u03b1-1,4-Glucosidase (lysosomal glucosidase) Glycogen Sphingolipidoses G M1 gangliosidosis \u00b7       Type I-infantile, generalized \u00b7       Type 2 juvenile G M2 gangliosidosis \u00b7       Tay-Sachs disease \u00b7       Sandhoff disease \u00b7       GM2 gangliosidosis variant AB G M1 ganglioside B-galactosidase Hexosaminidase A Hexosaminidase A and B Ganglioside activator protein G M1 ganglioside, galactose-containing oligosaccharides G M2 ganglioside G M2 ganglioside, globoside G M2 ganglioside Sulfatidoses Metachromatic leukodystrophy Multiple sulfatase deficiency Krabbe disease Fabry disease Gaucher disease Niemann-Pick disease: types A and B Arylsulfatase A Arylsulfatase A, B, C; steroid     sulfatase; iduronate sulfatase; heparan N-sulfatase Galactosylceramidase \u03b1-Galactosidase A Glucocerebrosidase Sphingomyelinase Sulfatide Sulfatide, steroid sulfate, heparan sulfate, dermatan sulphate Galactocerebroside Ceramide trihexoside Glucocerebroside Sphingomyelin Mucopolysaccharidoses (MPSs) MPS I-H (Hurler) MPS II (Hunter) \u03b1-L-Iduronidase Iduronate 2-sulphatase Dermatan sulfate, heparan sulfate Mucolipidoses (MLS) I-cell disease (ML II) and pseudo-Hurler polydystrophy Deficiency of phosphorylating enzymes essential for the formation of mannose-6-phosphate recognition marker; acid hydrolases lacking the recognition marker cannot be targeted to the lysosomes, but are secreted extracellularly Mucopolysaccharide, glycolipid Other diseases of complex carbohydrates Fucosidosis Mannosidosis Aspartylglycosaminuria \u03b1-Fucosidase \u03b1-Mannosidase Aspartylglycosamine amide hydrolase Fucose-containing sphingolipids and glycoprotein Fragments Mannose-containing oligosaccharides Aspartyl-2-deoxy-2-acetamido-glycosylamine Other lysosomal storage diseases Wolman disease Acid lipase Cholesterol esters, triglycerides</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6cc90f43",
+      "audio": ""
+    },
+    {
+      "text": "Activated Basophils act by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "IL-1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "IL-2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IL-4",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "IL-10",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. IL-4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>IL-4</p>\n<p><strong>Highyeild:</strong></p><p>Interleukin-4 has been implicated in the development of allergies and the production of IgE antibodies by the immune system. IL-5 causes maturation and release of Eosinophils . IL-8 Recruits Neutrophils . IL-1 is an endogenous pyrogen . IL-10 is anti-inflammatory .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: IL-1. Incorrect . Option B: IL-2. Incorrect . Option D: IL-10. Incorrect .</p>\n<p><strong>Extraedge:</strong></p><p>Th2 cells produce IL-4 , which stimulates B cells to differentiate into IgE-secreting plasma cells , and IL-5 , which stimulates the production of eosinophils in the marrow and activates eosinophils at sites of immune responses. Eosinophils and mast cells bind to IgE-coated microbes such as helminthic parasites, and function to eliminate helminths. Th2 cells also induce the \u201calternative\u201d pathway of macrophage activation , which is associated with tissue repair and fibrosis . Th17 cells , so called because the signature cytokine of these cells is IL-17 , recruit neutrophils and monocytes , which destroy extracellular bacteria and fungi and are involved in some inflammatory diseases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f592e1d8",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not small round cell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neuroblastoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Retinoblastoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hemangioblastoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ewing sarcoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hemangioblastoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hemangioblastoma Hemangioblastoma is not a small round blue cell tumor Hemangioblastoma are tumors of CNS that originate from vascular tissues. They demonstrate the proliferation of capillaries with variable sized, closely packed, and thin walled vessels.</p>\n<p><strong>Highyeild:</strong></p><p>Small round blue cell tumour It refers to a group of malignant neoplasms characterized by small, uniform cells with a round or oval shape and a high nuclear to cytoplasmic rati They often present as solid masses and can occur in various tissues and organs. https://images.app.goo.gl/LyF69JGNTzzHW1z16 Small Round Blue Cell Tumor Typical Site of Origin Associated Markers Neuroblastoma Adrenal glands, sympathetic ganglia, and other sites of neural crest origin - Elevated urinary catecholamines (e.g., homovanillic acid, vanillylmandelic acid) - Expression of neural crest markers (e.g., CD56, neuron-specific enolase) Ewing Sarcoma Bones and soft tissues, primarily in children and young adults - Chromosomal translocation t(11;22)(q24;q12) involving the EWSR1 gene - Positive immunostaining for CD99, FLI1, and other markers Rhabdomyosarcoma Skeletal muscle or other soft tissues, primarily in children -Expression of myogenic markers (e.g., desmin, MyoD1, myogenin) - Variants include embryonal, alveolar, and pleomorphic types Wilms Tumor Kidneys, primarily in children - Loss of heterozygosity of the WT1 gene - Positive immunostaining for WT1 and other markers Retinoblastoma Retina of the eye, primarily in children - Loss of function mutation in the RB1 gene - Positive immunostaining for RB1 protein Medulloblastoma Cerebellum and other central nervous system sites, primarily in children - Genetic alterations in the Sonic Hedgehog (SHH) pathway, WNT pathway, or other genes - Positive immunostaining for markers such as beta-catenin, GAB1, and others</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A .Neuroblastoma: It is a malignant tumor that arises from neural crest cells and commonly affects children. It typically presents as an abdominal mass and can metastasize to other sites. Option B .Retinoblastoma: It is a tumor that develops in the retina of the eye, primarily affecting children. It is caused by mutations in the RB1 gene and can lead to leukocoria (white pupillary reflex) and visual impairments. Option D .Ewing sarcoma: It is a malignant bone and soft tissue tumor that primarily affects children and young adults. It commonly arises in the long bones or pelvis and can cause pain and swelling.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Histological features of CNS tumors CNS tumor Histological features Image Pilocytic Astrocytomas \u25cf       Bipolar neoplastic cells with hair-like projections \u25cf       GFAP positive \u25cf       Rosenthal fibers and eosinophilic granular bodies https://images.app.goo.gl/dohgFSK12UoThiAi8 Medulloblastoma \u25cf       Very densely cellular, with sheets of small primitive appearing small blue cells \u25cf       Homer-wright rosettes: Pseudorosettes with a central neuropil \u25cf       Individual tumor cells have scant cytoplasm and hyperchromatic nuclei that frequently elongated or crescent-shaped https://images.app.goo.gl/3SdzQESj4r1m4JpW7 Oligodendroglioma \u25cf       Fried-egg appearance: Sheets of regular cells with spherical nuclei containing finely granular chromatin \u25cf       Chicken-wire capillaries: A delicate network of anastomosing capillaries https://images.app.goo.gl/BaMKv23mQo2RGF9RA Ependymoma \u25cf       Ependymal rosettes: Gland-like round or elongated structures that resemble an embryologic ependymal canal \u25cf       Perivascular Pseudorosettes \u25cf       Rod-shaped blepharoplasty found near the nucleus https://images.app.goo.gl/AwAxkQqu3cKsDXCH7 Meningioma \u25cf       Arachnoid cell origin \u25cf       Spindle cells are concentrically arranged in a whorled pattern \u25cf       Psammoma bodies are seen https://images.app.goo.gl/L5jZiygdK2T1Ebkq8 Schwannoma \u25cf       Schwann cell origin \u25cf       S-100 + \u25cf       Biphasic, dense, hypercellular areas containing spindle cells with alternating hypocellular, myxoid areas (verocay bodies) \u25cf       Antoni A: Cellular \u25cf       Antoni B: Hypocellular https://images.app.goo.gl/ZwBhtL2ymE6P7KaCA</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "918a9956",
+      "audio": ""
+    },
+    {
+      "text": "Match the following viral intracellular bodies with respect to the disease? Select the correct answer using the code below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a = 4 / b = 2 / c = 3 / d = 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a = 3 / b = 4 / c = 1 / d = 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "a = 2 / b = 1 / c = 3 / d = 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a = 4 / b = 3 / c = 1 / d = 2",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. a = 4 / b = 3 / c = 1 / d = 2",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1692188624887-QTDPPYQ219IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>a = 4 / b = 3 / c = 1 / d = 2</p>\n<p><strong>Highyeild:</strong></p><p>Viral Intracellular Bodies: Decoy cells Decoy cells are virally infected epithelial cells that can be found in the urine. Decoy cells owe their name to their strong resemblance to cancer cells , and may as such confuse the diagnosis of either viral infection or urothelial malignancy. Cells with enlarged nucleus and basophilic inclusion which are surrounded by chromatin that confers a ground-glass appearance. Due to Polyomavirus infections . Seen in patient following renal transplant . Henderson Paterson bodies In molluscum contagiosum there is lobular hyperplasia of epidermis into the dermis resulting in a cup-shaped lesion . The basal layers appear normal, but the keratinocytes of stratum malpighii become enlarged and acquire eosinophilic inclusion bodies- Henderson-Patterson bodies that contain virus particles. Henderson Paterson bodies are large, round cytoplasmic inclusions, which push the nucleus to the periphery. Owl's eye appearance Cytomegalovirus (CMV) has tropism to affect the endothelial cells and the stromal cells. Owl's eye appearance of inclusion bodies , which is highly specific for cytomegalovirus infection. Koilocyte: Koilocyte is a cytopathic effect due to infection by HPV . Nuclear enlargement (two to three times normal size). Irregularity of the nuclear membrane contour Hyperchromasia A clear area around the nucleus, known as a perinuclear halo or perinuclear cytoplasmic vacuolization.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: a = 4 / b = 2 / c = 3 / d = 1. Incorrect . Option B: a = 3 / b = 4 / c = 1 / d = 2. Incorrect . Option D: a = 2 / b = 1 / c = 3 / d = 4. Incorrect .</p>\n<p><strong>Table:</strong></p><p>#MANTRA Viral inclusion bodies:</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fe6fbd9f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following causes vasodilation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TXA2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Leukotriene C4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Histamine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Serotonin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Histamine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Histamine</p>\n<p><strong>Highyeild:</strong></p><p>Histamine causes marked dilatation of smaller blood vessels that include arterioles, capillaries, and venules. Histamine is considered to be the principal mediator of the immediate transient phase of increased vascular permeability , producing interendothelial gaps in venules. Its vasoactive effects are mediated mainly via binding to receptors on microvascular endothelial cells. The antihistamine drugs that are commonly used to treat some inflammatory reactions, such as allergies, are histamine receptor antagonists that bind to and block the receptor. Histamine also causes contraction of some smooth muscles . Mediators of inflammation: Principal Mediators of Inflammation Mediator Source Action Histamine Mast cells, basophils, platelets Vasodilation, increased vascular permeability, endothelial activation Prostaglandins Mast cells, leukocytes Vasodilation, pain, fever Leukotrienes Mast cells, leukocytes Increased vascular permeability, chemotaxis, leukocyte adhesion and activation Cytokines (TNF, IL-1, IL-6) Macrophages, endothelial cells, mast cells Local: endothelial activation (expression of adhesion molecules) Systemic: fever, metabolic abnormalities, hypotension (shock) Chemokines Leukocytes, activated macrophages Chemotaxis, leukocyte activation Platelet- activating factor Leukocytes, mast cells Vasodilation, increased vascular permeability, leukocyte adhesion, chemotaxis, degranulation, oxidative burst Complement Plasma (produced in liver) Leukocyte chemotaxis and activation, direct target killing (membrane attack complex), vasodilation (mast cell stimulation) Kinins Plasma (produced in liver) Increased vascular permeability, smooth muscle contraction, vasodilation, pain IL, Interleukin; TNF tumor necrosis factor. Major vasoactive amine responsible for vasodilation is Histamine. It causes dilation of arterioles and increases the permeability of venules . Prostaglandins can also cause vasodilation but the major chemical responsible is histamine .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Causes. Causes Vasoconstriction . Option B: Leukotriene C4. Causes Vasoconstriction . Option D: Serotonin (5-hydroxytryptamine) is a preformed vasoactive mediator present in platelets and certain neuroendocrine cells , such as in the gastrointestinal tract. Its primary function is as a neurotransmitter in the gastrointestinal tract and the central nervous system. It is also a vasoconstrictor , but the importance of this action in inflammation is unclear.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Principle mediators of inflammation: Principal Mediators of Inflammation Mediator Source Action Histamine Mast cells, basophils, platelets Vasodilation, increased vascular permeability, endothelial activation Prostaglandins Mast cells, leukocytes Vasodilation, pain, fever Leukotrienes Mast cells, leukocytes Increased vascular permeability, chemotaxis, leukocyte adhesion and activation Cytokines (TNF, IL-1, IL-6) Macrophages, endothelial cells, mast cells Local: endothelial activation (expression of adhesion molecules) Systemic: fever, metabolic abnormalities, hypotension (shock) Chemokines Leukocytes, activated macrophages Chemotaxis, leukocyte activation Platelet- activating factor Leukocytes, mast cells Vasodilation, increased vascular permeability, leukocyte adhesion, chemotaxis, degranulation, oxidative burst Complement Plasma (produced in liver) Leukocyte chemotaxis and activation, direct target killing (membrane attack complex), vasodilation (mast cell stimulation) Kinins Plasma (produced in liver) Increased vascular permeability, smooth muscle contraction, vasodilation, pain IL, Interleukin; TNF tumor necrosis factor. Principle actions of arachidonic acid metabolites in inflammation Principal Actions of Arachidonic Acid Metabolites in Inflammation Action Eicosanoid Vasodilation Prostaglandins PGI 2 (prostacyclin), PGE,, PGE 2 , PGD 2 Vasoconstriction Thromboxane A 2 , leukotrienes C 4 , D 4 , E 4 Increased vascular permeability Leukotrienes C 4 , D 4 , E 4 Chemotaxis, leukocyte adhesion Leukotrienes B 4 , HETE HETE, Hydroxyeicosatetraenoic acid.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d9d5537c",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is activated by intrinsic and extrinsic pathways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Necroptosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Apoptosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Necrosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ferroptosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Apoptosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Apoptosis</p>\n<p><strong>Highyeild:</strong></p><p>Apoptosis The extrinsic pathway is mediated by FAS (TNF receptor)-FAS Ligand (TNF) via Caspase 8 . The intrinsic/ Mitochondrial pathway is mediated by Apoptosome which activates Caspase 9 Both intrinsic and extrinsic pathways then activate Caspase 3 and 6 , which cause endonuclease activation and protein breakdown leading to the formation of Apoptotic bodies which contain Phosphatidyl serine on the outside , which are recognised and engulfed by macrophages . In the intrinsic pathway the cell kills itself because it senses cell stress , while in the extrinsic pathway the cell kills itself because of signals from other cells . Weak external signals may also activate the intrinsic pathway of apoptosis. Two distinct pathways converge on caspase activation: the mitochondrial pathway (intrinsic pathway) and the death receptor pathway (extrinsic pathway) .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Necroptosis. Incorrect . Option B: Necrosis. Incorrect . Option C: Ferroptosis. Incorrect .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0870cf95",
+      "audio": ""
+    },
+    {
+      "text": "Proto-oncogenes to oncogenes transformation occurs by: Point mutation Promoter insertion Amplification Enhancer insertion Select the correct answer using the code below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 2 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 3, and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All are correct",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All are correct All the given options are mechanisms of oncogenesis.</p>\n<p><strong>Highyeild:</strong></p><p>Genes that promote autonomous cell growth in cancer cells are called oncogenes , and their unmutated cellular counterparts are called proto-oncogenes . Oncogenes are created by mutations in proto-oncogenes and encode proteins called oncoproteins that have the ability to promote cell growth in the absence of normal growth-promoting signals . Oncoproteins resemble the normal products of proto-oncogenes but bear mutations that often inactivate internal regulatory elements; consequently, their activity in cells does not depend on external signals . Cells expressing oncoproteins are thus freed from the normal checkpoints and controls that limit growth, and as a result proliferate excessively . Oncogenesis or tumorigenesis , is the formation of a cancer, whereby normal cells are transformed into cancer cells . The process is characterized by changes at the cellular, genetic, and epigenetic levels and abnormal cell division . Transformation of proto oncogenes to oncogenes occurs by all of the following: Point mutation Point mutations can cause the proto-oncogene to become constitutively active or increase its activity, promoting cell proliferation. Promoter insertion In some cases, a promoter sequence, which regulates gene expression, can be inserted near a proto-oncogene. This promoter insertion can lead to increased expression of the proto-oncogene, resulting in abnormal cell growth and the transformation into an oncogene. Amplification Amplification refers to an increase in the number of copies of a proto-oncogene. This can occur due to genetic alterations, such as gene duplications or chromosomal rearrangements . Amplification leads to an elevated expression of the proto-oncogene and can drive uncontrolled cell division and tumor formation. Enhancer insertion Enhancers are DNA sequences that enhance the activity of promoters and contribute to gene regulation. In some cases, an enhancer sequence can be inserted near a proto-oncogene, leading to increased expression of the gene. This enhanced expression can drive abnormal cell growth and the conversion of the proto-oncogene into an oncogene. It's important to note that not all proto-oncogenes undergo transformation into oncogenes, and the mechanisms described above are some of the ways in which this transformation can occur. The development of cancer often involves multiple genetic alterations and the dysregulation of multiple genes and pathways.</p>\n<p><strong>Table:</strong></p><p>#MANTRA Proto-oncogenes and associated tumors: Selected Oncogenes, Their Mode of Activation, and Associated Human Tumors Category Proto-Oncogene Mode of Activation in Tumor Associated Human Tumor Growth Factors PDGF- \u03b2 PDGFB Overexpression Astrocytoma Fibroblast growth factors HSTI Overexpression Osteosarcoma Fibroblast growth factors HSTI FGF3 Overexpression Amplification Osteosarcoma Stomach cancer Bladder cancer Breast cancer Melanoma TGF-\u03b1 TGFA Overexpression Astrocytomas HGF HGF Overexpression Hepatocellular carcinomas Thyroid cancer Growth Factor Receptors EGF-receptor family ERBBI (EGFR) ERBB2 (HER) Mutation Amplification Adenocarcinoma of lung Breast carcinoma FMS-like tyrosine kinase 3 FLT3 Point mutation or small duplications Leukemia Receptor for neurotrophic factors RET Point mutation Multiple endocrine neoplasia 2A and B, familial medullary thyroid carcinomas PDGF receptor PDGFRB Amplification, translocation Gliomas, leukemias Receptor for KIT ligand KIT Point mutation Gastrointestinal stromal tumors, seminomas, leukemias ALK receptor ALK Translocation Point mutation Adenocarcinoma of lung, certain lymphomas Neuroblastoma Proteins Involved in Signal Transduction GTP-binding (G) proteins KRAS HRAS NRAS GNAQ GNAS Point mutation Point mutation Point mutation Point mutation Point mutation Colon, lung, and pancreatic tumors Bladder and kidney tumors Melanomas, hematologic malignancies Uveal melanoma Pituitary adenoma, other endocrine tumors Nonreceptor tyrosine kinase ABL Translocation Chronic myelogenous leukemia Acute lymphoblastic leukemia RAS signal transduction BRAF Point mutation Melanomas, leukemias, colon carcinoma, others Notch signal transduction NOTCHI Point mutation, translocation Leukemias, lymphomas, breast carcinoma JAK/STAT signal transduction JAK2 Point mutation, translocation Myeloproliferative disorders Acute lymphoblastic leukemia Nuclear Regulatory Proteins Nuclear Regulatory Proteins MYC NMYC Translocation Amplification Burkitt lymphoma Neuroblastoma Cell Cycle Regulators Cyclins CCNDI (cyclin DI) Translocation Amplification Mantle cell lymphoma, multiple myeloma Breast and esophageal cancers Cyclin-dependent kinase CDK4 Amplification or point mutation Glioblastoma, melanoma, sarcoma</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7403b360",
+      "audio": ""
+    },
+    {
+      "text": "Maltese cross can be seen in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pneumocystis carinii",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Leishmaniasis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cryptococcosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Babesiosis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Babesiosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Babesiosis</p>\n<p><strong>Highyeild:</strong></p><p>Babesiosis: Babesia parasites reproduce in red blood cells, where they can be seen as cross-shaped inclusions ( four merozoite asexually budding , but attached together forming a structure looking like a \" Maltese cross \") and cause hemolytic anemia . Babesiosis: Babesia microti and Babesia divergens are malaria like protozoans transmitted by ticks Reservoir for Babesia microti \u2013 White footed mouse Babesia resembles malaria parasite but lacks hemozoin pigment Malaria: Banana shaped gametocytes can be seen infection by Plasmodium falciparum Leishmaniasis: Can be Cutaneous Leishmaniasis Mucocutaneous leishmaniasis (also called espundia) Visceral leishmaniasis Exists as promastigote and amastigote forms Cryptococcosis: Cryptococcus appears as 5-10 \u00b5m yeast forms with thick gelatinous capsule Special stain \u2013 Mucicarmine Pneumocystis: Pneumocystis carinii pneumonia produces pink frothy discharge Cup shaped or boat shaped cysts can be seen</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Pneumocystis carinii. Incorrect . Option B: Leishmaniasis. Incorrect . Option C: Cryptococcosis . Incorrect .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bed7bf13",
+      "audio": ""
+    },
+    {
+      "text": "Match the followings (Column \u2013 (A) with Column \u2013 (B): Column \u2013 (A) Column \u2013 (B) a. Box car nuclei 1. HOCM b. Myocyte disarray 2. Hypertension c. Vacuolation in myocytes 3. DCM d. Myocyte hypertrophy 4. Subendothelial ischemia 5. Hypersensitive myocarditis Select the correct answer using the code below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a = 4 / b = 5 / c = 3 / d = 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a = 2 / b = 1 / c = 4 / d = 3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "a = 5 / b = 1 / c = 2 / d = 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a = 2 / b = 4 / c = 1 / d = 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. a = 2 / b = 1 / c = 4 / d = 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>a = 2 / b = 1 / c = 4 / d = 3</p>\n<p><strong>Highyeild:</strong></p><p>Hypertension Increased fiber (Myocyte) thickness Increased nuclear size with increases \u201cblackness\u201d ( box car nucleus ) Box car nuclei are seen in hypertension . Cardiac ischemia Vacuolation forms from distension of the sarcoplasmic reticulum within cardiomyocytes due to ischaemia . Myocyte vacuolization reflects intracellular accumulations of salt and water within the sarcoplasmic reticulum, and marks myocytes that are viable but poorly contractile. Hypertrophic cardiomyopathy (HOCM) Myocardial disarray , also known as myocyte disarray, is a term to describe the loss of the normal parallel alignment of myocytes (the muscle cells of the heart). Instead, the myocytes usually form circles around foci of connective tissue seen in Hypertrophic cardiomyopathy . Image: Hypertrophic cardiomyopathy with asymmetric septal hypertrophy: The septal muscle bulges into the left ventricular outflow tract, and the left atrium is enlarged. The anterior mitral leaflet has been reflected away from the septum to reveal a fibrous endocardial plaque (arrow). Histologic appearance demonstrating myocyte disarray , extreme hypertrophy and exaggerated myocyte branching, as well as the characteristic interstitial fibrosis (collagen in blue in this Masson trichrome stain) Dilated Cardiomyopathy (DCM) Image: Dilated Cardiomyopathy: Four chamber dilatation and hypertrophy are evident . There is mural thrombus (arrow) at the apex of the left ventricle (on the right in this apical four- chamber view). The coronary arteries were patent. Histologic section demonstrating variable myocyte hypertrophy and interstitial fibrosis (collagen is highlighted as blue in this Masson trichrome stain).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: a = 4 / b = 5 / c = 3 / d = 1. Incorrect . Option C: a = 5 / b = 1 / c = 2 / d = 4. Incorrect . Option D: a = 2 / b = 4 / c = 1 / d = 3. Incorrect .</p>\n<p><strong>Table:</strong></p><p>#MANTRA DILATED CARDIOMYOPATHY RESTRICTIVE CARDIOMYOPATHY HYPERTROPHIC CARDIOMYOPATHY TYPE OF CARDIAC FAILURE Systolic cardiac failure Diastolic cardiac failure Diastolic cardiac failure Most common genetic cause Mutation in Titin Mutation in \u03b2 myosin Heavy chain CAUSES Genetic Alcohol, Thiamine deficiency Peripartum Myocarditis Doxorubicin toxicity Hemochromatosis Sarcoidosis Supraphysoiologic stress - Pheochromocytoma Friedreich ataxia Infant of diabetic mother Storage disease Idiopathic Amyloidosis Radiation induced fibrosis Gross Flabby hypo-contracting heart. Hypertrophy. Dilation. Fibrosis, interstitial Mural thrombi. Ventricles \u2013 Normal size/slightly enlarged Cavities are not dilated. Firm noncompliant myocardium. Biatrial dilation is seen. Thick walled heavy hyper contracting heart. Massive myocardial hypertrophy without ventricular dilation. Asymmetric septal hypertrophy. Sectioning shows Round to ovoid left ventricular cavity \u2013 BANANA LIKE CONFIGURATION Histology Non specific Hypertrophied muscle fibres with enlarged nuclei Patchy / diffuse interstitial fibrosis Massive myocyte hypertrophy Haphazard disarray if myocytes \u2013 MYOFIBER DISARRAY Interstitial and replacement fibrosis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "47a48bab",
+      "audio": ""
+    },
+    {
+      "text": "In the given below flow cytometry graphs; If A and B are normal scatter plots for B cells. Interpret Images C and D and come to diagnosis:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bare lymphocyte syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SCID",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyper IgM syndrome",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chronic granulomatous disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hyper IgM syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hyper IgM syndrome</p>\n<p><strong>Highyeild:</strong></p><p>Hyper-IgM Syndrome In this disorder, affected patients have IgM antibodies but are deficient in IgG, IgA, and IgE antibodies . Mature B cells are present , but they are incapable of Ig class switching and affinity maturation , because of a defect in CD4+ helper T cells or an intrinsic B-cell defect. It is a group of primary immune deficiency disorders characterized by defective CD40 signaling ; via B cells affecting class switch recombination (CSR) and somatic hypermutation . Patients with Hyper-IgM (HIGM) syndrome are susceptible to recurrent and severe infections and in some types of HIGM syndrome opportunistic infections and an increased risk of cancer as well. Most of the patients of Hyper IgM syndrome have loss of function mutation involving either CD 40 or an enzyme called activation-induced cytidine deaminase (AID) . So, B cells can be detected by flow cytometry having low expression of CD 40 . In the Image given, a and b are controls Flow cytometry is used to study multiple antigens at the same time The results are obtained in the form as shown in the questions INTERPRETATION: Each plot has x axis (represents one antigen) and y axis (represents another antigen) Divide the plot into 4 quadrants Hyper IgM syndrome is due to deficiency of CD40 located on the surface of B cells CD40-CD40 ligand interaction is required for isotype switching and affinity maturation .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Bare lymphocyte syndrome. Bare lymphocyte syndrome is usually caused by mutations in transcription factors that are required for class II MHC gene expression. The lack of class II MHC molecules prevents the development of CD4+ T cells, which are involved in cellular immunity and provide help to B cells; hence, class II MHC deficiency results in combined immunodeficiency . Option B: Severe combined immunodeficiency (SCID) spans a constellation of genetically distinct syndromes, all having in common defects in both humoral and cell-mediated immune responses . Persons with SCID are extremely susceptible to recurrent, severe infections by a wide range of pathogens, including Candida albicans, Pneumocystis jirovecii, Pseudomonas, cytomegalovirus, varicella, and a host of bacteria. Option D: Chronic granulomatous disease. Defects in leukocytic superoxide production lead to chronic granulomatous disease. Defects in neutrophil function , as in chronic granulomatous disease, lead to increased susceptibility to infections with S. aureus, some gram-negative bacteria, and fungi .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3fc8e55b",
+      "audio": ""
+    },
+    {
+      "text": "True/False about diagnosis of Accelerated phase of CML: \u226520% basophil in BM examination No response to first TK inhibitor Leukocytosis more than 1000 *10 6 /L not responding to treatment. Persistent Thrombocytosis 1000 *10 9 /L not responding to treatment Increased spleen size not responsive to therapy Select the correct answer from given below options.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1. True, 2. True, 3. False, 4. True, 5. True",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1. True, 2. False, 3. False, 4. True, 5. True",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1. False, 2. True, 3. True, 4. True, 5. False",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1. True, 2. True, 3. True, 4. True, 5. True",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1. True, 2. True, 3. False, 4. True, 5. True",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1. True, 2. True, 3. False, 4. True, 5. True</p>\n<p><strong>Highyeild:</strong></p><p>Chronic Myeloid Leukaemia: Peripheral smear shows leukocytosis with the presence of immature myeloid precursors i.e. shift to left and is associated with basophilia . CML will have all cells in the lineage present in the peripheral smear. However, leukocytosis with a shift to the left is not diagnostic of CML as it can be seen in leukemoid reaction too. These are differentiated on the basis of LAP score , with CML showing a low LAP score and Leukamoid reaction showing a high LAP score . The diagnostic hallmark of CML : t (9;22) Philadelphia chromosome (detected by Cytogenetics/ karyotyping ) with fusion transcript BCR-ABL (detected by PCR ). Bone marrow examination: Hypercellular marrow with a predominance of the myeloid lineage, this appearance is called College girl appearance/ Garden party appearance . Treatment: Tyrosine kinase inhibitors (Imatinib) .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B: True, 2. False, 3. False, 4. True, 5. True. Incorrect . Option C: False, 2. True, 3. True, 4. True, 5. False. Incorrect . Option D: True, 2. True, 3. True, 4. True, 5. True. Incorrect .</p>\n<p><strong>Table:</strong></p><p>#MANTRA CML phases: Stable, Accelerated and Blast phase CML phase WHO definition Chronic stable phase Blasts < 10% in peripheral blood and bone marrow Accelerated phase \u25cf        Blasts 10-19% of white blood cells (WBCs) in peripheral and/or nucleated bone marrow cells \u25cf        Peripheral blood myeloblasts and promyelocyte combined \u226530% \u25cf        Peripheral blood basophils \u226520% \u25cf        Persistent thrombocytopenia (< 100 \u00d7 10 9 /L) unrelated to therapy or persistent thrombocytosis (> 1000 \u00d7 10 9 /L) unresponsive to therapy \u25cf        Increasing WBC counts and spleen size unresponsive to therapy \u25cf        Additional clonal cytogenetic abnormalities in Philadelphia chromosome\u2013positive cells Blast crisis \u25cf        Blasts \u2265 20% of peripheral blood WBCs or nucleated bone marrow cells \u25cf        Extramedullary blast proliferation \u25cf        Large foci or clusters of blasts on bone marrow biopsy</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "80a18597",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following regarding BM biopsy needle and for the procedure is not true:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Can be done in a prone or lateral position",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To find out infiltrative and granulomatous disorders",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Breath holding is not necessary",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Platelet count of 40000 is a contraindication",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Platelet count of 40000 is a contraindication",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Platelet count of 40000 is a contraindication In Bone marrow biopsy , most of the situations where bone marrow aspiration is indicated (eg suspected Acute Leukaemia, bone marrow infiltrative disorders), thrombocytopenia is usually present; So, a platelet count of < 40,000/micro L is not a contraindication to bone marrow aspiration .</p>\n<p><strong>Highyeild:</strong></p><p>Indications of Bone marrow biopsy: Dry tap (failure to aspirate marrow): Seen in Aplastic anaemia Myelofibrosis Hairy cell leukaemia Assess bone marrow cellularity: age dependent, normally can be calculated as 100 - age, but should not be below 25%. Assess metastatic involvement of bone marrow. Staging of lymphoma: lymphoma which invades BM directly becomes stage IV. Myeloproliferative neoplasms. Storage disorders like Gaucher's. Contraindications of Bone marrow biopsy: Severe haemophilia. Severe DIC. Severe bleeding disorders. Thrombocytopenia itself is not a contraindication for bone marrow biopsy , but preferably platelet levels should be more than 20,000/ microL . When there is a contraindication to bone marrow biopsy, aspiration can be performed by a skilled technician. There are no specific contraindications to bone marrow aspiration .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Can be done in a prone or lateral position. True . Option B: To find out infiltrative and granulomatous disorders. True . Option C: Breath holding is not necessary. True .</p>\n<p><strong>Table:</strong></p><p>#MANTRA Bone marrow aspiration needles: Klima sternal needle has a guard present along the length of the needle, which makes it more secure than the side guard present in the Salah needle . Sternal puncture in children should be avoided because the bone is thin and the marrow cavities are small.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d67a039",
+      "audio": ""
+    },
+    {
+      "text": "A patient with CKD had to undergo dialysis and his Hb was 5.2gm/dL, he received two blood transfusions and the first bag was completed in 2 hours and second was started and in the mid way patient developed shortness of breath and his BP was found to be 180/120 mmHg and HR was 110/min. What is the likely cause?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TRALI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "TACO",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Allergic",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "FNHTR",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. TACO",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>TACO</p>\n<p><strong>Highyeild:</strong></p><p>TRALI TACO Transfusion Related Acute Lung Injury Transfusion Associated Circulatory Overload HLA Ag + Ab complex deposits in Alveoli causing ARDS Seen in patients with \u25cf       CKD \u25cf       Severe anemia (on giving rapid transfusions) Occurs within 4-6 hours most commonly seen with FFP most commonly seen with PRBC C/F: Fever Hypotension Severe Respiratory Distress C/F: Hypertension Tachycardia On auscultation: Crepitations + X ray: Pulmonary Edema Pro BNP very high (as natriuresis is compensated by heart by releasing Pro BNP) Transfusion-related acute lung injury ( TRALI ) is a serious blood transfusion complication characterized by the acute onset of non-cardiogenic pulmonary edema following transfusion of blood products. Transfusion associated circulatory overload (aka TACO ) is a transfusion reaction (an adverse effect of blood transfusion) that can occur due to a rapid transfusion of a large volume of blood , but can also occur during a single red cell transfusion.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A: Incorrect , occurs within 4-6 hours, most commonly seen with FFP, present with Hypotension . Option C: Incorrect , no history of any urticarial reactions are mentioned in the history. Option D: Incorrect , no history of fever given in the question.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "49e30bc8",
+      "audio": ""
+    }
+  ]
+}

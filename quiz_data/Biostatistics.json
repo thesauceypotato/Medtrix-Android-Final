@@ -1,0 +1,3405 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Biostatistics",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Weight in kg is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal variable",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Discrete variable",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Confounding variable",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Continuous variable",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Continuous variable",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Continuous variable In statistical language, any character, characteristic, or quality that varies is called a variable. The quantitative data have a magnitude. The characteristics are measured either on an interval or on a ratio scale. The quantitative data obtained from characteristic variables are also called continuous data as each individual has one measurement from a continuous spectrum or range such as body temperature from 35\u201342\u00b0C, height from 150\u2013180 cm, weight from 10-100 Kg, pulse rate from 68\u201384 per minute and so on. The observations ascend or descend from 0 or any starting point in the spectrum range, such as the systolic blood pressure of 100 individuals rising from the lowest 90 mmHg to the highest 150 mmHg. The characteristic may be measurable in whole numbers and fractions, such as chest circumference\u201433 cm, 34.5 cm, 35.2 cm, 36 cm, 37.3 cm, and so on, or it may be measurable or countable in discrete whole numbers only, such as pulse rate; cholesterol; blood pressure; ESR; blood sugar; etc.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "509eae0d",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, a categorical variable is a variable that can take on one of a limited and usually fixed number of possible values, assigning each individual or other unit of observation to a particular group or nominal category. Categorical variables are usually categorized by which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quantitative variable",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Qualitative variable",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Discrete variable",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both (b) and (c)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Both (b) and (c)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Both (b) and (c) If we are dealing with discrete variables, as in the present case (smoking and lung cancer; exposure and disease), the results are usually presented as rates or proportions of those present or absent in the study and the control group. The test of significance usually adopted is the standard error of the difference between two proportions or the Chi-square test.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "83415c88",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, the level of measurement or scale of measure is a classification that describes the nature of the information within the values assigned to variables. The severity of anemia is classified under which of the following scales?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nominal scale",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ordinal scale",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Interval scale",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ratio scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ordinal scale",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ordinal scale Qualitative data can be nominal or ordinal. In ordinal or ranked scale, ranks are assigned to categories in ascending or descending orders.. Eg, the severity of anemia(mild, moderate, severe), socioeconomic class, etc.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cb2573e3",
+      "audio": ""
+    },
+    {
+      "text": "A patient of age 49 years previously diagnosed with oropharyngeal cancer, stage 3. So medical student sitting in O.P.D. asked the consultant that the staging system used in this patient indicates which type of scale.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discrete",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Numerical",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ordinal",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Nominal",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ordinal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ordinal Here consultant asked the student about the scale used in the patient for cancer staging. The scale which this patient is based on the following criteria: Sites involved 2. Lymph nodes involved 3. Metastasis So, stages 1, 2, and 3 are decided based on the above criteria. Hence scale used is ordinal. In the ordinal scale, the ranks are decided based on criteria from ascending to descending. Like stage 1, 2, etc.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: D. Is alphanumeric data means data consisting of numbers and text with simple meaning no order or ratio like gender, caste, etc. Option: B. Numerical is a type of quantitative data. Option: A. Discrete data is a type of quantitative data.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "637db5f8",
+      "audio": ""
+    },
+    {
+      "text": "A Visual Analogue Scale (VAS) is a measurement instrument that tries to measure a characteristic or attitude that is believed to range across a continuum of values and cannot easily be directly measured and is often used in epidemiological studies and clinical research to measure the intensity or frequency of various symptoms. The Pain Scale shown below used for graded responses belongs to which of the following types of scale",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ordinal scale",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Interval scale",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Likert scale",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ratio scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Likert scale",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064213403-QTDC009005IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Likert scale Visual analog scale for pain is used clinically where the patient is asked to choose one of the grades to convey the pain status, an example of the Likert scale. Similarly, pain assessment often uses a Visual Analogue Scale, where the subject might be asked to mark a position on a line drawn between two extremes of \u2018pain as bad as it could be\u2019 to \u2018no pain at all.\u2019 The part of the mark would assign a numerical score to the quantity being determined (health status or pain intensity in the above examples).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7720d677",
+      "audio": ""
+    },
+    {
+      "text": "Which graphical representations denote the relation between body weight and height?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bar Diagram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pie Chart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Scatter Diagram",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Scatter Diagram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Scatter Diagram It is a graphical representation of quantitative data. Show the relationship between two different variables in the same person.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: Bar Diagram Graphical representation of qualitative data. Option B: Histogram Graphical representation of quantitative data without continuous class interval. Option C: Pie Chart Graphical representation of qualitative data.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a0c9ed9",
+      "audio": ""
+    },
+    {
+      "text": "A suitable method for presenting frequent distribution of data from continuous variables.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Histogram",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bar graph",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pictogram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pie",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Histogram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Histogram Methods of Data Presentation Graphical method : Histogram : Graphical presentation for continuous quantitative data Bar graphs Identical to a histogram except that each rectangle on the graph is separated from the others by a space demonstrating that the data are separate categories. ( discrete qualitative data) It could be Simple b. Multiple / Compound c. Component / Proportional Line diagrams: are used to show the trend of some events with time. Pie diagram : used for qualitative data, denotes proportion, degree of angle denotes the frequency and area of sector The scatter diagram is drawn to show the relationship between two variables. The data set needs to be quantitative Pictorial method: for lay & illiterate public: pictogram A pictogram is a visual depiction of discrete data where symbols are used instead of a bar, and the frequency of the event is shown by the number of times the characters are repeated.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2ac6f114",
+      "audio": ""
+    },
+    {
+      "text": "A study assessed the height of students in the 4th year in 10 Medical colleges. The values of heights ranged between 5.5 \u2013 5.10 feet. The researcher has selected a histogram to present these results as it is a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nominal data",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Categorical data",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both qualitative and quantitative data",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Continuous data",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Continuous data",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Continuous data A histogram is used for a continuous quantitative type of data where, on the X-axis, we plot only the quantitative type of class intervals, and on the Y-axis, we plot the frequencies. Histogram best represents quantitative data measured continuously with no gaps between the bars.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - Nominal data can be labeled or classified into mutually exclusive categories within a variable. These categories cannot be ordered in a meaningful way. The variables can be grouped into categories, and each category's frequency or percentage can be calculated. The data can also be presented visually using a pie chart. For e.g., male/female. OPTION B - Categorical data is a type of data that can be stored into groups or categories with the aid of names or labels. This grouping is usually made according to the data characteristics and similarities of these characteristics through a method known as matching. To graph categorical data, one uses bar charts and pie charts. Bar chart: Bar charts use rectangular bars to plot qualitative data against its quantity. Unlike histograms, the bars have spaces in between. Pie chart: Pie charts are circular graphs in which various slices have different arc lengths depending on their quantity. OPTION C - Quantitative data refers to any information that can be quantified, counted, measured, or given a numerical value. Qualitative data is descriptive, expressed in terms of language rather than numerical values. Quantitative research is based on numeric data. Qualitative research focuses on the qualities of users\u2014the 'why' behind the numbers.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b0a61f56",
+      "audio": ""
+    },
+    {
+      "text": "A physician studied the association between plasma level of renin and changes in BP. The data can be represented by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scatter diagram",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pie chart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Line diagram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Histogram",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Scatter diagram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Scatter diagram A scatter diagram gives a quick visual display of the association between two variables, measured on a numerical continuous or numerical discrete scale . The scatter plot tells the strength of the correlation between variables.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION B \u2013 The pie chart displays categorical (qualitative) data. OPTION C \u2013 Frequency polygon/ Line diagrams show the trend of events with time. OPTION D \u2013 Histogram is the best representation of quantitative data measured on a continuous scale, with no gaps between the bars.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a6e3c0ba",
+      "audio": ""
+    },
+    {
+      "text": "Information on the admission of patients in a hospital was taken and classified by gender as given below. Which graphical presentation is best to describe the following data",
+      "options": [
+        {
+          "label": "A",
+          "text": "Box plot",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Multiple Bar Chart",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pie chart",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Multiple Bar Chart",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064213542-QTDC009010IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Multiple Bar Chart Bar charts are used for a qualitative type of variable in which the variable studied is plotted in the form of a bar along the X-axis (horizontal), and the height of the bar is equal to the percentage or frequencies which are plotted along the Y-axis (vertical). In Multiple Bar Charts, Two or more bars can be grouped in the same graph. Histogram is the best representation for quantitative data measured on continuous scale, with no gaps between the bars.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A \u2013 A box-and-whisker plot reveals the full information to the audience and can help handle many data values. They allow people to explore data and to draw informal conclusions when two or more variables are present. OPTION B \u2013 Histogram is the best representation for quantitative data measured on continuous scale, with no gaps between the bars. OPTION D \u2013 Pie chart displays categorical (qualitative) data.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e5c188c7",
+      "audio": ""
+    },
+    {
+      "text": "What is the best representative of the incidence of disease in a different timeline?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Line diagram",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Scattered diagram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bar diagram",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Line diagram",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Line diagram Line diagrams show the trend of events with time. Incidence can be best demonstrated by a line diagram.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1e4b97b2",
+      "audio": ""
+    },
+    {
+      "text": "Of the 140 children, 20 lived in owner-occupied houses, 70 lived in council houses, and 50 lived in private rented accommodation. The type of accommodation is a categorical variable. The appropriate graphical presentation will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pie chart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple Bar chart",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Frequency Polygon",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Simple Bar chart",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Simple Bar chart Bar charts are used for a qualitative type of variable in which the variable studied is plotted in the form of a bar along the X-axis (horizontal), and the height of the bar is equal to the percentage or frequencies which are plotted along the Y-axis (vertical).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - The pie chart displays categorical (qualitative) data. OPTION C - A histogram is used for a continuous quantitative type of data where, on the X-axis, we plot only the quantitative type of class intervals, and on the Y-axis, we plot the frequencies. Histogram is the best representation of quantitative data measured continuously, with no gaps between the bars. OPTION D - Frequency polygon/ Line diagrams show the trend of events with time.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a27b8b51",
+      "audio": ""
+    },
+    {
+      "text": "Following is the frequency distribution of the serum levels of total cholesterol reported in a sample of 71 subjects. Which graphical presentation is best to describe the following data",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stem & Leaf",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pie chart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Histogram",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Component Bar Chart",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Histogram",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064213682-QTDC009013IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Histogram Histogram is the best representation of quantitative data measured continuously, with no gaps between the bars.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - Stem-and-leaf plots presentation is used for quantitative data. OPTION B - A pie chart displays categorical (qualitative) data. Stem-and-leaf plots presentation is used for a quantitative type of data. It is useful in quickly assessing whether the data follows a \u201cnormal\u201d distribution by seeing whether the stem and leaf show a bell shape. OPTION D - Bar charts are used for a qualitative type of variable in which the variable studied is plotted in the form of a bar along the X-axis (horizontal), and the height of the bar is equal to the percentage or frequencies plotted along the Y-axis (vertical).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dbf9ec06",
+      "audio": ""
+    },
+    {
+      "text": "The normal distribution is a probability function that describes how the values of a variable are distributed and is a symmetric distribution where most of the observations cluster around the central peak, and the probabilities for values further away from the mean taper off equally in both directions. Which of the following correctly describes the shape of a standard normal distribution curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sigmoid curve",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bell-shaped curve",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Parabola curve",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Straight line",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bell-shaped curve",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Bell-shaped curve The normal distribution or 'normal curve' is an important concept in statistical theory. Let us suppose to quickly assess whether the data follows a \u201cnormal\u201d distribution by seeing whether the stem and leaf are bell-shapedlikely to get a smooth, symmetrical curve. Such a curve is called a normal distribution or normal curve. Characteristics of a normal distribution curve Bilaterally symmetric bell-shaped curve Based on mean and Standard deviation Mean = median = mode = 0( all coincide) SD = 1 ( variance = 1) Area under curve = 1</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3c008b45",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, the Gaussian distribution (also known as the normal distribution) is a bell-shaped curve. It is assumed that during any measurement, values will follow a normal distribution with an equal number of measurements above and below the mean value. Which of the following is true regarding the area under the normal distribution curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean \u00b1 1 SD gives 95% area under the normal distribution curve.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mean \u00b1 2 SD gives 68% area under the normal distribution curve.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mean \u00b1 3 SD gives 99% area under the normal distribution curve.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above are true",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mean \u00b1 3 SD gives 99% area under the normal distribution curve.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mean \u00b1 3 SD gives 99% area under the normal distribution curve. The area under the curve in a normal distribution curve Mean \u00b1 1 SD covers 68.2% of values Mean \u00b1 2 SD covers 95.4% of values Mean \u00b1 3 SD covers 99.7% of values</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "32acc209",
+      "audio": ""
+    },
+    {
+      "text": "A continuous probability distribution is a representation of a variable that can take a continuous range of values, and a probability density function is a function that describes the relative likelihood for a random variable to take on a given value. Mean + 1 SD gives the area value under the normal distribution curve being equal to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.68",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.47",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.95",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.34",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 0.34",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>0.34 Here, Mean + 1 SD means the green area on the right side of the curve (half of 68%), i.e, 34%.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c3d55525",
+      "audio": ""
+    },
+    {
+      "text": "In a standard normal curve, mean \u00b1 2 standard deviation covers:",
+      "options": [
+        {
+          "label": "A",
+          "text": "60 Percent",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "65 Percent",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "99 Percent",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "95 Percent",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 95 Percent",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>95 Percent In a standard normal curve: Mean \u00b1 1 standard deviation covers 68.3 % of values Mean \u00b1 2 standard deviations cover 95.4 % of values, Mean \u00b13 standard deviations cover 99.7% of values in the distribution.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6cd4266e",
+      "audio": ""
+    },
+    {
+      "text": "In a classroom, there were 65 students. The body weight of the students was measured. The mean weight was 70 kg, and SD was 10 kg. 2.5% of students will weigh more than what weight?",
+      "options": [
+        {
+          "label": "A",
+          "text": "80 kg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "90 kg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "85 kg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "95 kg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 90 kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>90 kg In the given question, MEAN = 70 kg, and SD will be = 10 kg. 95 % confidence interval will be \u2013 MEAN +/- 2SD= 50 to 90 kg. Now to the right of 90 kg lies 2.5% of the students who will weigh more than 90 kg. Hence the answer to this question will be option B.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "52ec39a3",
+      "audio": ""
+    },
+    {
+      "text": "A classroom full of 100 students was subjected to a class test. The average passing mark for the test is 50 out of 100. The Standard deviation for the graph which will be formed is 10. What will be the 95% confidence interval for the students in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100-110",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "90-100",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "90-110",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "80-120",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 80-120",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>80-120 The given question's mean is 100, and the standard deviation is 10. The 95% confidence interval is given by the formula = MEAN +/- 2 SD. = 100 +/- 2(10) = 80 to 120. Hence, the 95% confidence interval will be 80 to 120, i.e., 95% of the students will have marks in the range of 80-120. So the answer is option D.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5ed86702",
+      "audio": ""
+    },
+    {
+      "text": "A patient, age 76 years the male patient was admitted to the hospital, for 15 days, due to hospital-acquired pneumonia, which he got from a previous hospital stay due to an asthma attack. This was the 15 such cases that the doctor came across in his hospital. So he decided to find the average patient stay in his hospital. So he took a random sample of 1,000 discharges taken from the discharge database of a hospital, and a histogram was made of patient length of stay for the sample; which of the following is most likely true",
+      "options": [
+        {
+          "label": "A",
+          "text": "The histogram will look approximately like a normal and appear to be positively skewed",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The histogram will appear to be negatively skewed",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The histogram will appear positively skewed",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The histogram will appear positively skewed",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064213706-QTDC009020IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>The histogram will appear positively skewed The histogram will appear positively skewed Here, the doctor worried that his patients were getting hospital-acquired infections. ultimately increases the number of days of hospital stay. So he wanted to find the trend length of stay of patients in his hospital. He collected data from the database and depicted it in the histogram. He got a positively skewed histogram, which indicates the length of hospital stay is not increased in his hospital. Positively skewed graph means the majority of the population will fall on the left side of the graph. Very few on the right side, like in the case given here, the majority of patients get discharged from the hospital within 1-2 days, Very few patients have extended stays.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: Normal distribution curve means value in the central region is at the peak, and the value of the variable on the left and right sides declines gradually. Option B: Negatively skewed graph means values on the left extreme side are in maximum frequency. Option D: None of the above is ruled out as c is the answer</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7d9b7c07",
+      "audio": ""
+    },
+    {
+      "text": "The number of malaria cases reported during the last ten years in a town is 20, 20, 50, 56, 60, 5000, 678, 898, 345, 456. An epidemiologist wants to determine the average number of malaria cases reported in that town during the last 10 years. The most appropriate measure of average for this data would be which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arithmetic mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Geometric mean",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Median Many jump to answer as Arithmetic mean. First, calculate the mean, median & mode first; the data shows this is a skewed distribution. Hence median is the best answer. Median: Data is skewed/ has outliers. The median is an average of a different kind, which does not depend upon the total and number of items. To obtain the median, the data is first arranged in an ascending or descending order of magnitude, and then the value of the middle observation is located, which is called the median.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5ea47d85",
+      "audio": ""
+    },
+    {
+      "text": "The normal distribution is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. Which of the following statements is true concerning a normal distribution of data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean = Median = Mode",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mean \u2260 Median \u2260 Mode",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mean \u2260 Median = Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mean = Median \u2260 Mode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mean = Median = Mode",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mean = Median = Mode The standard normal curve is a smooth bell-shaped symmetric curve based on an infinitely large number of observations. The total area of the curve = 1 Mean = 0 SD = 1 Mean, Median, and mode all coincide.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f8872865",
+      "audio": ""
+    },
+    {
+      "text": "Which statement is true concerning measures of central tendency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suppose more outlying observations are smaller than the rest of the values. In that case, the data are skewed to the right",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "If more outlying observation is larger than the rest of the values, the median will be smaller than the mean",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "If the data are skewed to the left, the mean is larger than the median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The median is more sensitive than the means to extreme observation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. If more outlying observation is larger than the rest of the values, the median will be smaller than the mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>If more outlying observation is larger than the rest of the values, the median will be smaller than the mean When more outlying values are larger than the rest of the values, the data are said to be skewed to the right, and the median is smaller than the mean. If more outlying values are smaller than the rest, the data are said to be skewed to the left, and the median is larger than the mean. The median is more robust than the mean because it is less sensitive to extreme observations and is a more appropriate measure of central tendency when extreme values are part of the data set. Positively skewed distribution \u2013 Have a relatively large number of low scores and a small number of very high scores. Mean > median > mode Negatively skewed distribution \u2013 Mean < median < mode</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4732cc7e",
+      "audio": ""
+    },
+    {
+      "text": "In a study, hemoglobin levels of girl children in the slums is studied and most are the value of 7mg/dL. Which among the following type of study is mentioned above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal distribution",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Positively skewed",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Negatively skewed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Left skewed",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Positively skewed",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Positively skewed Since the hemoglobin of most children is found to be 7mg/dl, the mode of the study is 7. Less number of children will have hemoglobin values above 7 mg/dl. The curve for the above distribution is positive/Right skewed.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "758148bd",
+      "audio": ""
+    },
+    {
+      "text": "The following data gives the recorded age (years) of onset of diseases for a group of 25 patients suffering from HTN. 39, 50, 26, 45, 47, 51, 33, 40, 51, 66, 63, 55, 57, 41, 61, 47, 44, 48, 59, 36, 42, 54, 47, 53, 54. What is the average age of onset of HTN using Arithmetic mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "48",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "26",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "47",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "48.36",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 48.36",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>48.36 Sum of all the observations = 39+50+26+ 45+47+51+33+40+51+66+63+55+57+41+61+47+44+48+59+36+42+ 54+47+53+54 = 1209 Dividing sum of all observations by total no. of observations = 1209/25 Mean (x) = 48.36</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - Median is 48 OPTION B - 26 is the least age of onset of HTN in this data set and not an option. OPTION C - 47 is the mode of this data set.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1ea73dd0",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, the skew-normal distribution is a continuous probability distribution that generalizes the normal distribution to allow for non-zero skewness. Which of the following statements holds for figures A, B, and C? Graph A - median lies at centre equidistant from either quartiles and extreme values. Hence mean, median and mode coincide. Graph B-median(middlemost value in a data set) lies towards the 1st quartile (lower side of the mean). Graph C- median (middlemost value in a data set) lies towards the 3rd quartile (higher side of the mean).",
+      "options": [
+        {
+          "label": "A",
+          "text": "A \u2013 Positively skewed, B \u2013 Normal distribution, C \u2013 Negatively skewed",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A \u2013Negatively skewed, B \u2013 Normal distribution, C \u2013 Positively skewed",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A \u2013 Normal distribution, B \u2013 Positively distribution, C \u2013 Negatively skewed",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A \u2013 Positively skewed, B \u2013 Negatively distribution, C \u2013 Negatively skewed",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A \u2013 Normal distribution, B \u2013 Positively distribution, C \u2013 Negatively skewed",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064214095-QTDC009026IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A \u2013 Normal distribution, B \u2013 Positively distribution, C \u2013 Negatively skewed Graph A \u2013 median lies at the centre equidistant from either quartiles and extreme values. Hence mean, median and mode coincide in Graph B \u2013 the median(middlemost value in a data set) lies towards the 1st quartile (lower side of the mean). Graph C - median(middlemost value in a data set) lies towards the 3rd quartile (higher side of the mean). Graph A - median lies at the centre equidistant from either quartiles and extreme values. Hence mean, median and mode coincide Graph B-median(middlemost value in a data set) lies towards the 1st quartile (lower side of the mean). Graph C- median (middlemost value in a data set) lies towards the 3rd quartile (higher side of the mean).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ade6ab74",
+      "audio": ""
+    },
+    {
+      "text": "A study of plasma thyroid-stimulating hormone (TSH) levels among 10,000 people includes 15 individuals with high TSH levels. Which of the following measures will most likely be affected by these values?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mean",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mean The arithmetic mean is calculated by adding up the values of each observation Dividing this total by the number of observations. The purpose of the arithmetic mean is to summarize a data collection using an expected value.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Median is the value obtained by arranging the observation in ascending or descending order, then dividing the observation into two equal groups. And the middle observation is taken as the median. Option: B. The value of the variable that occurs most frequently is called Mode. Option: D. None of the above</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dda10015",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following measures central tendency:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mode",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Range",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Variation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Standard deviation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mode",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mode Information from a series of observations presented by rank in a sample or frequency distribution table is summarized by an observer to get answers to the following three questions: What is its average or central value? How are the other values dispersed around this value, or what is the degree of scatter? What is the shape of the distribution? Is it normal? The average value of a characteristic is the one central value around which all other observations are dispersed. Average is a general term that describes the center of a series. There are three common types of averages or measures of central position or central tendency\u2014 Mean, Median, Mode. They are summary indices describing the \u2018central point or the most characteristic value\u2019 of a set of measurements.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6e21f6ae",
+      "audio": ""
+    },
+    {
+      "text": "The systolic blood pressure (mm Hg) of 20 individuals is below. Find the mean blood pressure. 98, 144, 123,111, 160, 123, 125, 130, 136, 132, 129, 132, 128, 130, 132, 136, 130, 107, 154 and 130.",
+      "options": [
+        {
+          "label": "A",
+          "text": "130",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "129.5",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "2590",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "120",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 129.5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>129.5 Sum of all the observations = 39+50+26+ 45+47+51+33+40+51+66+63+55+57+41+61+47+44+48+59+36+42+ 54+47+53+54 = 1209 Dividing sum of all observations by total no. of observations = 1209/25 Mean (x) = 48.36</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9f2516bb",
+      "audio": ""
+    },
+    {
+      "text": "Which of the Statistical average takes into account all the numbers equally?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mean The arithmetic mean is widely used in statistical calculation. It is sometimes simply called Mean. To obtain the mean, the individual observations are first added together and then divided by the number of observations. As it considers all the values, it is most affected by outliers.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION B - The median is an average of a different kind, which does not depend upon the total and number of items. To obtain the median, the data is first arranged in an ascending or descending order of magnitude, and then, the value of the middle observation is located, called the median. OPTION C - The mode is the commonly occurring value in a data distribution. It is the most frequent value in a series of observations. OPTION D \u2013 Since the mean is the answer, none of the above doesn\u2019t apply here.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f8b6424a",
+      "audio": ""
+    },
+    {
+      "text": "Any measure indicating the center of a set of data, arranged in an increasing or decreasing order of magnitude, is called a measure of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skewness",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Central tendency",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Symmetry",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dispersion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Central tendency",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Central tendency Central tendency gives the centrality measure of the data set, i.e., where the observations are concentrated. There are numerous measures of central tendency. These are: Mean; Median; Mode; Geometric Mean; Harmonic Mean.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - A horizontal stretching of a frequency distribution to one side or the other so that one tail of observations is longer and has more observations than the other is called skewness. OPTION C - A symmetric distribution is one in which the left and right sides mirror each other. The most well-known symmetric distribution is the normal distribution, which has a distinct bell shape. OPTION D - Statistical dispersion means the extent to which numerical data will likely vary about an average value.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1553d01e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following terms best describes the distribution in the chart below",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bimodal",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Unimodal",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Range",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Trimodal",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Bimodal",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064214884-QTDC009032IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Bimodal In statistics, a bimodal distribution is a probability distribution with two different modes, which may also be called bimodal distribution. These appear as distinct peaks (local maxima) in the probability density function.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION B \u2013 A unimodal distribution only has one peak in the distribution OPTION C \u2013 The range in statistics for a given data set is the difference between the highest and lowest values. OPTION D \u2013 A trimodal distribution is a frequency distribution of a certain phenotype with three peaks separated by two antinodes.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "39e16492",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not a measure of central tendency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Range",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Median",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Range",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Range Range is the difference between the highest and lowest values. Central tendency gives the centrality measure of the data set, i.e., where the observations are concentrated. There are numerous measures of central tendency. These are: Mean; Median; Mode; Geometric Mean; Harmonic Mean.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A \u2013 Mean is a measure of central tendency OPTION B \u2013 Mode is a measure of central tendency OPTION D \u2013 Median is a measure of central tendency</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1c3a7f98",
+      "audio": ""
+    },
+    {
+      "text": "A district malaria officer wants to know the average malaria cases in his district in the last ten years. Two of his CHCs are highly endemic areas, whereas in his urban area CHC very few cases were reported. Which central tendency is best in this case to find the average?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Median It is used to find the average in the negatively or positively skewed curved. Due to the presence of extreme, most, either positive or negative, will give a different value rather than the original value to which several other observations lie.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: Mean To compare the average between two or more groups, the Mean should be used as the central tendency.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3e279396",
+      "audio": ""
+    },
+    {
+      "text": "A measure of dispersion indicates the scattering of data and explains the disparity of data from one another, delivering a clear view of their distribution. The simplest measure of dispersion is among the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Variance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Range",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Standard Deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Range",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Range Range is calculated by the difference between the Upper and Lower limits of data distribution. When looking at a set of values or a frequency distribution, it can easily be seen if the observations are widely dispersed from the measure of central value or are scattered fairly closely around it. Still, describing the dispersion in a single summary figure may often be desirable. The range is the difference between the highest and lowest values Mean is the average of the given values. Std deviation is the measure of the amount of dispersion of a set of values</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ac804a2a",
+      "audio": ""
+    },
+    {
+      "text": "Calculate the range of the subsequent distribution of data: 11,13,13,14,14,15,15,15,16,16,18",
+      "options": [
+        {
+          "label": "A",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "15",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 9",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>9 Range is calculated by the difference between the Upper limit and Lower limit of a distribution of data, i.e., 18 \u2013 11 = 9. When looking at a set of values or a frequency distribution, it can easily be seen if the observations are widely dispersed from the measure of central value or are scattered fairly closely around it, but it may often be desirable to describe the dispersion in a single summary figure.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8acfbb5c",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following correctly depicts the mathematical formula for Standard Deviation of a normal data distribution comprising a class of 25 students",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215191-QTDC009037IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>B</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8f3c9143",
+      "audio": ""
+    },
+    {
+      "text": "A standard deviation is a statistic that measures the dispersion of a dataset relative to its mean and is calculated as the square root of variance by determining each data point's deviation relative to the mean. If in such a study, every data is multiplied by 10; then the new Standard deviation will become how many times compared to its earlier value",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. C",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215351-QTDC009038IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>C The formula is easy to understand: x is an individual observation, is the arithmetic mean, and n is the number of observations. The mean ( ) is subtracted from each observation or value (x), and the resulting deviation is squared. This is done for each of the values. Finally, the sum of the squares of the individual deviations from the mean is divided by the total number of observations less than one (n - 1). If every data is multiplied by n, then the new Standard deviation will become n times compared to its earlier value.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "85c5b66c",
+      "audio": ""
+    },
+    {
+      "text": "A standard deviation is a statistic that measures the dispersion of a data set relative to its mean and is calculated as the square root of variance by determining each data point's deviation relative to the mean. Which of the following statements holds for the Standard Deviation (SD) curves A, B",
+      "options": [
+        {
+          "label": "A",
+          "text": "SDA > SDB",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SDB > SDA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "SDA = SDB",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. SDB > SDA",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215502-QTDC009039IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>SDB > SDA The standard deviation has the expected properties of a measure of spread. If one distribution is more spread out than another, then it has a larger standard deviation. If a distribution has no variability or spread (i.e., all the observations have the same value), then the standard deviation is zero.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "75ffb40c",
+      "audio": ""
+    },
+    {
+      "text": "A study assessed the prevalence of iron deficiency anemia in a rural community. For this, the hemoglobin levels of 100 women participants were noted. The hemoglobin level in healthy women has a mean of 13.5g/dL and a standard deviation of 1.5g/dL. What is the z-score for a woman with Hb level 15.0g/dL?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0f688d01",
+      "audio": ""
+    },
+    {
+      "text": "Z score is done for which type of distribution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Binominal",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "t distribution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi-square",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Normal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Normal Z score is calculated using a standard normal distribution curve The distance of a value (x) from the mean ( ) of the curve in units of standard deviation is called \"\"relative deviate or standard normal deviate\" and is usually denoted by Z. The standard normal deviate or Z is given by the formula: Z = (x- ) /\u03c3);</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c5b0f517",
+      "audio": ""
+    },
+    {
+      "text": "A study assessed the prevalence of iron deficiency anemia in a rural community. For this, the hemoglobin levels of 100 women participants were noted. In a group of 100 women, Mean Hb = 12mg/dL, if SD = 1.5, find the z- score for a woman with Hb = 9mg/dL.",
+      "options": [
+        {
+          "label": "A",
+          "text": "+1 z-score",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "-1 z-score",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "+2 z-score",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "-2 z-score",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. -2 z-score",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>-2 z-score</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "79c3e951",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, a percentile is a score below which a given percentage of scores in its frequency distribution falls or a score at or below which a given percentage falls. The 50th percentile is equal to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Range",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Median",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Median The median is an average of a different kind, which does not depend upon the total and number of items. To obtain the median, the data is first arranged in an ascending or descending order of magnitude, and then, the value of the middle observation is located, called the median. 50th percentile is also located middlemost observation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "24054756",
+      "audio": ""
+    },
+    {
+      "text": "A quartile is a statistical term that describes a division of observations into four defined intervals based on the values of the data and how they compare to the entire set of observations. A measure of position that divides the distribution into the ratio 3:1 is which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "First quartile",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Third quartile",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Third quartile",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Third quartile Inter quartile range is equal to the difference between the Mid-point of  the quartthe ile and the Mid-point of the previous quartile. Inter quartile range is 25% of the total value. The quartiles on the diagram are denoted Q1 (25th percentile\u2014lower quartile), Q2 (50th percenti,le\u2014median), and Q3 (75th percentile\u2014upper quartile). The box is drawn with its boundaries at the lower and upper quartiles, with a line marking the median in the middle.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fbf8143a",
+      "audio": ""
+    },
+    {
+      "text": "Identify the type of chart given in the diagram",
+      "options": [
+        {
+          "label": "A",
+          "text": "Waffle chart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stem-and-leaf plots",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bar chart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Box-and-Whisker plot",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Box-and-Whisker plot",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215541-QTDC009045IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Box-and-Whisker plot A box-and-whisker plot reveals the maximum of information to the audience and can be helpful in handling many data values. They allow people to explore data and draw informal conclusions when two or more variables are present.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - A waffle chart is a square display, usually consisting of 100 smaller squares arranged in a 10-by-10 layout. OPTION B - Stem-and-leaf plots are used for a quantitative type of data. OPTION C - Bar charts are used for a qualitative type of variable in which the variable studied is plotted in the form of a bar along the X-axis (horizontal), and the height of the bar is equal to the percentage or frequencies plotted along the Y-axis (vertical).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "80ddd409",
+      "audio": ""
+    },
+    {
+      "text": "A sampling error is a statistical error that occurs when an analyst does not select a sample that represents the entire population of data and results in the sample not representing the results that would be obtained from the entire population. To see if the sample mean accurately estimates the population means, we use which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geometric mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Range",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Deviation scores",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Standard error",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Standard error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Standard error The standard error of a statistic is the standard deviation of the sampling distribution of that statistic measures the precision of the sample value of that statistic as an estimator of the true population value; the smaller the standard error is, the more precise the estimate. decreases with increasing sample size</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "99114d25",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, the sample mean's standard error is the standard deviation of the set of means found by drawing an infinite number of repeated samples from the population and computing a mean for each sample. All of the following are true about standard error except which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As the sample size increases, the standard error will also increase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It is based on a normal distribution",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It depends on the standard deviation of means",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It estimates the confidence limits",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. As the sample size increases, the standard error will also increase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>As the sample size increases, the standard error will also increase The standard error of a statistic is the standard deviation of the sampling distribution of that statistic measures the precision of the sample value of that statistic as an estimator of the true population value; the smaller the standard error is, the more precise the estimate decreases with increasing sample size</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9bbff2d0",
+      "audio": ""
+    },
+    {
+      "text": "Calculate the Standard Error of the following distribution with i. SD = 30, n = 100 ii. p = 10, n = 100 Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i) = 6, (ii) = 9",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "(i) = 9, (ii) = 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "(i) = 3, (ii) = 6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "(i) = 3, (ii) = 3",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. (i) = 3, (ii) = 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>(i) = 3, (ii) = 3 The standard error of a statistic is the standard deviation of the sampling distribution of that statistic measures the precision of the sample value of that statistic as an estimator of the true population value; the smaller the standard error is, the more precise the estimate</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "260f65c1",
+      "audio": ""
+    },
+    {
+      "text": "A Researcher collected data from three different samples from the population shown below, with standard deviation. Which sample shows more precise data for Blood sugar concerning population",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sample A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sample B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sample C",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cannot Tell",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sample C",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215599-QTDC009049IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sample C Standard Error tells us the value we got from the sample how much deviates from the value of Population. Tells about how precise our observation is. Standard error=Mean/root of Population Size. For sample A: SE = 0.36 For Sample B: SE = 0.6 For Sample C; SE= 0.25 Thus, sample c has smallest SE. So, the observation of sample C varies least with the population.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7eb89ba7",
+      "audio": ""
+    },
+    {
+      "text": "Simple random sampling is ideal for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccinated people",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heterogenous population",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Homogenous population",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Homogenous population",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Homogenous population The method is applicable when the population is small. Homogeneous and readily available such as patients coming to the hospital or lying in the wards. It is used in experimental medicine or clinical trials, like testing the efficacy of a particular drug. The principle here is that every population unit has an equal chance of being selected. Hence, this method is also sometimes called. \u2018unrestricted random sampling\u2019 .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c4817e4a",
+      "audio": ""
+    },
+    {
+      "text": "A aged 25, male, goes to PHC with a history of intermittent relapsing fever. At PHC, he was diagnosed as a case of Malaria. The district malaria officer was notified about the first case of malaria. So district malaria officer, in the rainy season, wants to know the estimated mosquito-borne disease and effectiveness of NVBDCP so that he can alert the government and public about it. So at the start of the rainy season, and decides to Calculate the Utensil index. So which method of sampling would be appropriate for him?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple Random Sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Quota Sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Systematic Sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multistage Random Sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Multistage Random Sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Multistage Random Sampling District malaria officer wanted to know the utensil index of the whole district. It is not feasible for workers to go house to house to collect samples from the whole district, so to find the average of the District for the utensil Index, Multistage Random sampling should be used. Multistage random sampling is used in heterogenous groups with large population sizes. In this answer, various cities of the district are selected by random sampling, followed by Selecting various areas randomly from cities. Dividing areas into clusters and then selecting subjects based on cluster sampling.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. Used in homogenous small-size population. Option B. It is a non-probability method of sampling not suitable for population studies. Option C. Systematic random sampling is used for large homogenous populations.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f9bcbfd9",
+      "audio": ""
+    },
+    {
+      "text": "A male patient of age 21 years comes to the doctor with a complaint of Impotence. On taking further history, a patient told that he is a chronic I.V. drug abuser. So clinician wanted to know the prevalence of impotence in chronic I.V. drug users. So for him, which sampling method is more likely to be used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non Random Sampling(snowball sampling)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Quota Sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Simple Random Sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Availability Sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Non Random Sampling(snowball sampling)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Non Random Sampling(snowball sampling) As the clinician wanted to conduct the cross-sectional study, he wanted chronic I.V. drug users as samples. Such samples are not easily available. So if he asks his patient, who is also a drug abuser, to send his colleague who uses the chronic drug, then the doctor would get samples. Such type of sampling is called Snowball Sampling In non-random sampling, to be specific snowball sampling, few individuals meeting inclusion criteria are identified in the first round, and they are asked to name other individuals fulfilling the inclusion criteria.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option C. Used in homogenous small-size population Option B. Is a non-probability method of sampling not suitable for population studies Option D. Here, the researcher selects because of their easy availability, and they do not represent the whole population</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dd0bbadc",
+      "audio": ""
+    },
+    {
+      "text": "In phase 1 of a clinical trial of a drug, which method of sampling is used ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster Sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple Random Sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nonrandom sampling(volunteer sampling)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Nonrandom sampling(volunteer sampling)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Nonrandom sampling(volunteer sampling) Volunteer Sampling Volunteer sampling is used in phase 1 clinical trial Normal individuals not diseased are asked to come to check the effect of the drug on normal physiology as well as to see the side effects.</p>\n<p><strong>Random:</strong></p><p>Explanation for other options: - Option A : This is a type of random sampling method used in a population to survey health programs, effects of vaccinations, etc. Option B: Used in homogenous small-size populations. Is a random sampling method Option C: . A refinement of the simple random sample is the stratified random sample. The population is divided into groups, or strata, on the basis of certain characteristics, for example, age or sex. A simple random sample is then selected from each stratum, and the results for each stratum are combined to give the results for the total sample. The object of this type of sample design is to ensure that each stratum in the population is represented in the sample in certain fixed proportions, representing the whole population.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b1309aed",
+      "audio": ""
+    },
+    {
+      "text": "Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population, and the methodology used to sample from a larger population depends on the type of analysis being performed. Which of the following is not a Random sampling type of method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stratified sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quota sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Multistage sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Quota sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Quota sampling Random/ probability sampling: This is a sampling method that allows for the randomization of sample selection, i.e., each sample has the same probability as other samples to be selected to serve as a representation of an entire population. Non-Random / non-probability sampling: it does not involve random selection. Examples of Random sampling are: Simple random sampling, systematic sampling, stratified sampling, Cluster sampling, Multistage sampling, and Multiphase sampling Examples of Non-Random Sampling are: Convenience sampling, Quota sampling, Snowball sampling.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "310c24d6",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, quality assurance, and survey methodology, sampling is the selection of a subset (a statistical sample) of individuals from within a statistical population to estimate the characteristics of the whole population. Selection of every nth participant method is adopted in which among the following study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quota sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple Random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Systematic sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Systematic sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Systematic sampling Selection of every nth participant method is adopted in Systematic sampling. The systematic sample is an approximation to the simple random sample, which requires a list of the population and is much easier in practice. In such a sample, every nth person is chosen, where n depends on the required sample size and population size. One starts at random in the list, somewhere among the first n members; thus, if every 10th member of a population is to be chosen, one would start by choosing a random number from 1 to 10\u2014day 7\u2014and include the 7th, 17th, 27th, etc. persons on the list.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "45c41740",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, a heterogeneous population or sample is one where every member has a different value for the characteristic you're interested in. The best sampling technique for such a heterogeneous population is among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quota sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple Random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Systematic sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stratified sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Stratified sampling A refinement of the simple random sample is the stratified random sample. The population is divided into groups, or strata, based on certain characteristics, such as age or sex. A simple random sample is then selected from each stratum, and the results for each stratum are combined to give the results for the total sample. The object of this type of sample design is to ensure that each stratum in the population is represented in the sample in certain fixed proportions, which are determined in advance.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ed0491d9",
+      "audio": ""
+    },
+    {
+      "text": "In survey methodology, the design effect is the ratio between the variances of two estimators to some parameters of interest. It measures the expected effect of the design structure on the variance of some estimators of interest. Which of the following is the true statement for Design Effect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sample size for Cluster random sampling is always smaller than the sample size for a Simple Random sampling by a factor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sample size for Cluster random sampling is always the same as the sample size for a Simple Random sampling by a factor",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sample size for Cluster random sampling is always more significant than the sample size for a Simple Random sampling by a factor",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Any of the above can be true",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sample size for Cluster random sampling is always more significant than the sample size for a Simple Random sampling by a factor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sample size for Cluster random sampling is always more significant than the sample size for a Simple Random sampling by a factor Sample size of a Cluster = Design Effect X Sample size of a Simple Random Sampling. The sampling would, thus, be accomplished in two stages, with a large reduction in the practical work involved. A variant of the multistage sample is the cluster sample, where a simple random sample of groups (e.g., schools) is taken, and everyone in the chosen group is studied.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eeb4c3f1",
+      "audio": ""
+    },
+    {
+      "text": "Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population. The methodology used to sample from a larger population depends on the type of analysis being performed. Which of the following sampling methods is done according to the will of the researcher?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quota sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Snowball Sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Convenience sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cluster sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Convenience sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Convenience sampling A convenience sample is a non-probability sampling method where the sample is taken from a group of people easy to contact or reach. For example, standing at a mall or a grocery store and asking people to answer questions would be an example of a convenience sample. This type of sampling is also known as grab sampling or availability sampling. There are no other sampling criteria except that people are available and willing to participate. In addition, this type of sampling method does not require that a simple random sample is generated since the only criterion is whether the participants agree to participate</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "37b5a9ab",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, samples are used in statistical testing when population sizes are too large for the test to include all the possible participants or observations, and it represents the population as a whole. It does not reflect any bias toward a specific attribute. Stratified convenience sampling is otherwise known as which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Quota sampling",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Snowball Sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Convenience sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Quota sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Quota sampling It is a method for selecting survey participants that is a non-probabilistic version of stratified sampling In quota sampling, a population is first segmented into mutually exclusive sub-groups, just as in stratified sampling. Then judgment is used to select the subjects or units from each segment based on a specified proportion. For example, an interviewer may be told to sample 200 females and 300 males between 45 and 60. This means that individuals can put a demand on who they want to sample (targeting). This second step makes the technique non-probability sampling. In quota sampling, there is non-random sample selection.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "46604a68",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population, and the methodology used to sample from a larger population depends on the type of analysis being performed. Which of the following is the sampling study carried out on the people living with HIV, inhalant intoxication, etc.?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Quota sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Snowball Sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Convenience sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Snowball Sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Snowball Sampling In sociology and statistics research, snowball sampling (or chain sampling, chain-referral sampling, referral sampling) is a nonprobability sampling technique where existing study subjects recruit future subjects from among their acquaintances. Thus the sample group is said to grow like a rolling snowball. As the sample builds up, enough data are gathered to be useful for research. This sampling technique is often used in hidden populations, such as drug users or sex workers, which are difficult for researchers to access.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a162aec6",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, sampling is a statistical procedure that is concerned with the selection of individual observations and which helps us to make statistical inferences about the population. Which of the following sampling methods is shown in the following figure",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple Random sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stratified Random sampling",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Quota sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Stratified Random sampling",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215620-QTDC009061IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Stratified Random sampling A refinement of the simple random sample is the stratified random sample. The population is divided into groups, or strata, based on certain characteristics, such as age or sex. A simple random sample is then selected from each stratum, and the results for each stratum are combined to give the results for the total sample.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b42f334e",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, a population is a set of similar items or events which is of interest for some question or experiment can be a group of existing objects and a potentially infinite group of objects conceived as a generalization from experience. A researcher selected all possible samples from a population and plotted the mean of each sample on a linear graph. This is a type of which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Population distribution",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Parametric distribution",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sampling distribution",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Unnatural distribution",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sampling distribution",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sampling distribution If a large enough number of samples were taken (an infinite number\u2014to be distinguished from the sample size, which is the number of persons in each sample), the frequency polygon would become a smooth frequency curve, and it would be possible to talk about the underlying distribution of these (potential) sample proportions. This underlying distribution is called the sampling distribution of a proportion.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d2deded",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, Cluster sampling is a method used when mutually homogeneous yet internally heterogeneous groupings are evident in a statistical population. All of the following are true about cluster sampling except which among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clusters are created based on similarities",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "It is a 2-stage sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cheaper than most other methods",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is used for rapid assessment",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Clusters are created based on similarities",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Clusters are created based on similarities Cluster sampling is a probability sampling technique where researchers divide the population into multiple groups (clusters) from a population where they are indicative of homogeneous characteristics and have an equal chance of being a part of the sample. Researchers then select random groups with a simple or systematic random sampling technique for data collection and analysis. Ex: 30 X 7 sampling method used in assessing immunization status of children under immunization program</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c6d64291",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, samples are used in statistical testing when population sizes are too large for the test to include all the possible participants or observations, and it represents the population as a whole. It does not reflect any bias toward a specific attribute. In a study, first schools are sampled, then sections, and finally, students. This type of sampling would be among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stratified sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Systematic sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multistage sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Multistage sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Multistage sampling Divides large populations into stages to make the sampling process more practical. A combination of stratified or cluster and simple random sampling is usually used. Let\u2019s say you wanted to find out which subjects school children preferred. A population list\u2014a list of all schoolchildren\u2014would be near-impossible to come by, so you cannot take a sample of the population. Instead, you divide the population into states and take a simple random sample of states. For the next stage, you might take a simple random sample of schools within those states. Finally, you could perform simple random sampling on the students within the schools to get your sample. To classify multistage sampling as probability sampling, each stage must involve a probability sampling method.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "de5ad37d",
+      "audio": ""
+    },
+    {
+      "text": "True about cluster sampling is all except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sample size same as simple random sampling",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Rapid method",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Independent of result",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Done for evaluating immunization status",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sample size same as simple random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sample size same as simple random sampling A cluster is a randomly selected group. This method is used when units of the population are natural groups or clusters such as villages, wards, blocks, slums of a town, factories, workshops, or children of a school, etc. Fortunately, the cluster sampling technique allows a small number of the target population to be sampled while the data provided is statistically valid at 95% confidence limits (10% variation). From the chosen clusters, 30 in number, the entire population is surveyed. Cluster sampling gives a higher standard error, but this method's data collection is simpler and involves less time and cost than other sampling techniques. As per the module approved by WHO, it is most often used to evaluate vaccination coverage in the Expanded Programme of Immunization (EPI) and Universal Immunization Programme (UIP), where only 210 children, taking seven from each cluster in the age group 12\u201323 months are to be examined.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4a381420",
+      "audio": ""
+    },
+    {
+      "text": "The design effect is used specifically in which of the following sampling approaches:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Systematic sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Quota sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cluster sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cluster sampling The design effect is a feature of cluster sampling. It is a correction factor used to adjust the required sample size for cluster sampling. The required sample size is estimated assuming a random sample and then multiplied by the design effect. This accounts for the loss of information inherent in cluster design Usually, a DE of 2 or 3 is taken into account. The sample size in the cluster is twice or thrice that of SRS because of the phenomenon of the Design Effect.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ad6bd8d5",
+      "audio": ""
+    },
+    {
+      "text": "Continuous variables are defined throughout values, meaning they can suppose any values between the minimum and maximum values. Which of the following tests is used to apply a Quantitative variable or a Normal Distribution data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Student\u2019s t-test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both (a) & (b)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mcnemar test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Both (a) & (b)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Both (a) & (b) Parametric tests are used to apply a Quantitative variable or Normal Distribution data. E.g., Paired t\u2013test, Student\u2019s t-test, and ANOVA. In some situations, it is impossible to check whether such assumptions are true, particularly when the sample size tends to be small, and there is often doubt about whether or not a particular test is valid for a set of quantitative data. Such tests are non-parametric, distribution-free, or rank tests and provide a useful fall-back in many situations.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4bd9a70a",
+      "audio": ""
+    },
+    {
+      "text": "In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome' or 'response' variable) and one or more independent variables. In which of the following tests can Regression be calculated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mcnemar test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chi\u2013square test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fischer Exact test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Student\u2019s t-test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Student\u2019s t-test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Student\u2019s t-test Regression can be calculated only in Parametric tests like Paired t-test, Student\u2019s t-test, and ANOVA. If we wish to know the value of one variable in an individual case, knowing the value of the other, we calculate what is known as the regression coefficient of one measurement to the other. It is customary to denote the independent variate by x and the dependent variate by y.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2f185d9c",
+      "audio": ""
+    },
+    {
+      "text": "In a nutritional study, 1st group of children (n1) was given the usual diet + supplements & 2nd group (n2) was given the usual diet. Which statistical test can be used to comment that those getting supplements grew better when we measured final weight in pounds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mcnemar test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chi\u2013square test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Unpaired t-test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Unpaired t-test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Unpaired t-test Number of groups = 2 (Unpaired) Output variable ->Quantitative (since the weight in pounds) The parametric t-test used for the comparison of means in two samples is one of the most commonly used tests in medical statistics. The test described in this section is for independent samples only and should not be used when the data are paired or frequency matched.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ed4a9d26",
+      "audio": ""
+    },
+    {
+      "text": "In a nutritional study, the weight of children (n1) was measured in pounds. After this, they were given additional dietary supplements for six months; weight was measured in pounds. This weight gain was compared with the previous six months' weight gain of the same children when they took a regular diet and can be best studied using which statistical test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mcnemar test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chi\u2013square test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t-test",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Unpaired t-test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Paired t-test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Paired t-test Number of groups = 2 (before and after) Paired Output variable -> Quantitative (since the weight in pounds ) It is applied to paired data of dependent observations from one sample only when each individual gives a pair of observations.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "34936fc7",
+      "audio": ""
+    },
+    {
+      "text": "In a nutritional study, 1st group of children (n1) was given the usual diet+ supplements+ antibiotics, 2nd group (n2) was given the usual diet+ supplements, 3rd group (n3) was given the usual diet. Weight at the end was measured in pounds. The statistical test used is",
+      "options": [
+        {
+          "label": "A",
+          "text": "One-way ANOVA test",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chi\u2013square test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Student\u2019s t-test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. One-way ANOVA test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>One-way ANOVA test Number of groups = 3 Unpaired Output variable -> Quantitative (since the weight in pounds) When analyzing means in more than two groups that are not paired or matched, it would seem tempting to employ the usual independent t-test and comparing the groups in pairs. Thus, for three groups, A, B, and C, one might compare A with B, A with C, and B with C. The ANOVA test is employed when comparing the means of more than two groups.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8805be0d",
+      "audio": ""
+    },
+    {
+      "text": "In a nutritional study, the weight of children (n1) was measured in pounds. After this, they were given additional nutritional supplements for 6 months, and their weight was measured in pounds. This weight gain was compared with the previous six months' weight gain of the same children when they took a normal diet by comparing their photographs is best studied using statistical study.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mcnemar test",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chi\u2013square test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Student\u2019s t-test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mcnemar test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mcnemar test Number of groups = 2 Paired Output variable -> Qualitative (since photographs) The tests for proportions in the previous sections assume that the groups being compared are independent. This section describes a simple test for use with paired samples, where the variable under examination is binary. The test is sometimes called a test for correlated proportions.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eebf74e0",
+      "audio": ""
+    },
+    {
+      "text": "A study is undertaken to determine whether drinking more than 8 cups of coffee daily is associated with hypertension. The BP readings were taken of persons who drank more than 8 cups & persons who drank no coffee. The results are as follows:Which is the most appropriate test to analyze the data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chi-square test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mcnemar test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fisher's exact test",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Student t test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Fisher's exact test",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215761-QTDC009073IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Fisher's exact test Number of groups = 2 Unpaired (One coffee group and the other who does not drink coffee) Output variable -> Qualitative Since two among the data is < 5, therefore to calculate the p-value for Fisher\u2019s exact test, it is necessary to add up the probabilities of the observed table and any even more unlikely ones in the tail of the distribution of all possible tables.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "26cb4f9f",
+      "audio": ""
+    },
+    {
+      "text": "In certain cases, to determine if the difference between the two proportions or ratios has occurred by chance, we may have to test the significance of the difference between two proportions or ratios. Which of the following statements is not true among the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Correlation does not mean causation.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chi-square test is used to measure the Strength of an association.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Coefficient of variation is used to express the variation in the dependent variable for the independent variable.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above are true",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Chi-square test is used to measure the Strength of an association.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Chi-square test is used to measure the Strength of an association. Chi-square test cannot measure the Strength of an association (it measures the probability of association) Correlation does not mean causation. Coefficient of variation is used to express the variation in the dependent variable with respect to the independent variable. Chi-square (x2) Test has the advantage that it can also be used when more than two groups are to be compared.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "777ed2b5",
+      "audio": ""
+    },
+    {
+      "text": "Parametric tests make assumptions about the parameters of the population distribution from which the sample is drawn and is often due to the assumption that the population data are typically distributed. Which of the following tests compares Means?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Student\u2019s t-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ANOVA test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above Parametric tests are used to compare means, E.g., Student\u2019s t-test, ANOVA test, and Paired t-test. The parametric t-test used for comparing means in two samples is one of the most commonly used tests in medical statistics. The test described in this section is for independent samples only and should not be used when the data are paired or frequency matched.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "be111924",
+      "audio": ""
+    },
+    {
+      "text": "In statistics, a nominal category or a nominal group is a group of objects or ideas that can be collectively grouped based on a particular characteristic, a qualitative property. Which of the following tests are used for Nominal data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Student\u2019s t-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Analysis of Variance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chi-square test",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Paired t-test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Chi-square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Chi-square test Chi-square (x2) Test offers an alternate method of testing the significance of the difference between two proportions. It has the advantage that it can also be used when more than two groups are to be compared.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5fb66b7e",
+      "audio": ""
+    },
+    {
+      "text": "Non-parametric statistics is the branch of statistics that is not based solely on parametrized families of probability distributions and is based on either being distribution-free or having a specified distribution but with the distribution's parameters unspecified. Which of the following is an example of a non-parametric test of significance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unpaired t-test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ANOVA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi-square test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chi-square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Chi-square test Chi-square (x2) Test offers an alternate method of testing the significance of the difference between two proportions. It has the advantage that it can also be used when more than two groups are to be compared.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "399a0260",
+      "audio": ""
+    },
+    {
+      "text": "In the case of the control study, to correlate baby weight with gestational diabetes mellitus, 50 women had gestational diabetes, and 50 did not. Which test will be used to test the hypothesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired T-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Student T-test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chi-Square Test",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Chi-Square Test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Chi-Square Test Chi-Square test tells us about whether we can reject the null hypothesis We have significant evidence to prove an alternate hypothesis, i.e., the significance of the association.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: Paired T-test: Used to compare the mean value of the same population before and after the intervention. Option B: Used to see whether or not the difference between two men of two independent groups is statistically significant. E.g., two see the effect of two medications Option D: None of the above is correct as chi-square is the answer</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a2ea0b0b",
+      "audio": ""
+    },
+    {
+      "text": "A saint of age 30 years comes to the doctor complaining f feeling of palpitations. So carried out a physical examination which is upto mark. The doctor measured B.P, which was 160/98 mmHg. All secondary causes of hypertension were ruled out, and a diagnosis of primary hypertension was made. Now the doctor was confused about which non-pharmacological therapy showed evidence of decreasing Hypertension. So he took a sample of Two hundred hypertensive patients randomly subjected to either a diet or exercise program. (102 patients to diet program, 98 patients to exercise program) Blood pressure is measured on each patient both before the programs start and three months after the start of each program. The correct statistical procedure to determine whether or not the mean blood pressure change (after-before) was statistically significantly different for the two programs is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paired t-test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unpaired t-test",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fisher\u2019s exact test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Unpaired t-test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Unpaired t-test As the patient came to the doctor was a saint. Being a saint, he has to wander all day (exercise) and survive on the minimum food available. Still, he was diagnosed with primary hypertension. So doctor decided to see which non-pharmacological intervention diet or exercise shows the best evidence. So collected data and decided to see an unpaired T-test. Used to see whether the difference between the two means of two independent groups is statistically significant. Eg: two see the effect of two medications.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: Paired T-test: Used to compare the mean value of the same population before and after the intervention. Option C: It is similar to the chi-square test, and use is also the same but is used when the sample size is tiny.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4c76f34b",
+      "audio": ""
+    },
+    {
+      "text": "Identify the type of chart given in diagram",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scatter Diagram",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Histogram",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Frequency Polygon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Line diagram",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Scatter Diagram",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215881-QTDC009080IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Scatter Diagram A scatter diagram gives a quick visual display of the association between two variables, measured on a numerical continuous or numerical discrete scale . It also tells the strength of the association based on the \u201cr\u201d value.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION B - Histogram is the best representation of quantitative data measured on a continuous scale, and there are no gaps between the bars. OPTION C - Frequency polygon/ Line diagrams are used to show the trend of events with the passage of time. OPTION D - Line diagrams/ Frequency polygons are used to show the trend of events with time.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f17ac590",
+      "audio": ""
+    },
+    {
+      "text": "A scatter plot displaying the correlation between the 2 variables is given below. What is the type of correlation found in this scatter plot?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative correlation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both of the above",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. None of the above",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1687064215924-QTDC009081IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>None of the above The scatter diagram in the above figure shows no correlation, and the dependent variable is not correlated with the independent variable . The closer the data points form a straight line when plotted, the higher the correlation between the two variables or the stronger the relationship.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A - If the data points make a straight line going from near the origin to high y-values, the variables are said to have a positive correlation. R=1 OPTION B - Negative correlation would mean that the second variable decreases as one variable increases. A negative correlation corresponds to points that move down as you go from left to right on your scatter plot. R=-1 OPTION C \u2013 A scatter diagram cannot be interpreted as showing both positive and negative correlation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7b56df4c",
+      "audio": ""
+    },
+    {
+      "text": "To predict the exact degree of relationship between the Presence of hypertension with increasing age & serum cholesterol level of a person, which of the following test of significance can be used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chi-square test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ANOVA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multiple Logistic Regression",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Multiple Logistic Regression",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Multiple Logistic Regression Regression analysis is a type of predictive modeling to identify the degree of relationship between an independent and dependent variable. When there are two or more independent variables (age & S. cholesterol), then multiple regression is applied. When the dependent variable is dichotomous (Presence of HTN- Yes/No), then Logistic regression is used. So, to study the exact relationship between a dichotomous variable with two or more independent variables, Multiple Logistic Regression is used. It helps to relate multiple independent variables with a dependent variable.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. The relationship or association between two quantitatively measured variables is called correlation. Option B. Chi-square test is a non-parametric test mainly used to test the difference between two proportions or for testing associations between two categorical variables. Option C. ANOVA or Analysis of variance test is applied to compare means of more than two groups.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d642a59",
+      "audio": ""
+    },
+    {
+      "text": "The correlation coefficient between condom use and HIV transmission was -0.9. The correct interpretation is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "90% decrease in HIV transmission can be explained by increased condom use.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "81% decrease in HIV transmission can be explained by an increase in condom use.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "There is a positive correlation between condom use & HIV transmission",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both 2 & 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 81% decrease in HIV transmission can be explained by an increase in condom use.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>81% decrease in HIV transmission can be explained by an increase in condom use. The degree of relationship between two quantitative variables is measured by correlation coefficient. It simply means unit increase/decrease in one variable when another is increased/decreased. The coefficient of determination is r2 and is defined as the % change in one variable that a change in another variable can explain. Option B. So, r2 = (-0.9)2 = 0.81 or 81%. So, the correct interpretation is that an increase in condom use can explain an 81% decrease in HIV infection (since r< 0). So, Condoms can prevent HIV infection effectively.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. As explained above, an 81% decrease in HIV infection (and not 90%) can be examined by an increase in condom use. Option C. Since the value of r< 0, there is a negative correlation between condom use and HIV transmission.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1bfcf2f4",
+      "audio": ""
+    },
+    {
+      "text": "A pharmaceutical company introduced a new drug X which claimed to be better than the existing drugs for the treatment of Hypertension. The drug was introduced into the market even though, in reality, it was no better than the existing drugs. This type of error in biostatistics is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I error",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type II error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sampling error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Systematic error",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type I error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Type I error Type 1 error rejects the null hypothesis even when it is true. Here, the null hypothesis was that drug \u2018X\u2019 is not better than the existing drugs for the treatment of hypertension. In reality,  drug X is no better than the existing drugs. So, the null hypothesis stands true,; ideally, the researcher/pharmaceutical company should have accepted the null hypothesis. However, the company/researcher rejects the null hypothesis and introduces the drug in the market. So, the null hypothesis is rejected even when, in reality, it is true. This type of error in biostatistics is known as Type 1 error or alpha error.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7153120a",
+      "audio": ""
+    },
+    {
+      "text": "All are true except",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u03b1 is the maximum tolerable probability of type \u2013 I error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "\u03b2 is the probability of type \u2013 II error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "When the null hypothesis is true but is rejected, it is type \u2013 II error",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "P- value can be more or less than \u03b1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. When the null hypothesis is true but is rejected, it is type \u2013 II error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>When the null hypothesis is true but is rejected, it is type \u2013 II error Two types of errors can be made in the test of the hypothesis: Type I Error (False positive error):- That is the rejection of null hypothesis despite being true,i.e., in reality, it there is no difference, but the study has concluded a difference. The probability of committing a type I error is the P value. Type II Error, Beta Error, or False negative error: Accepting null hypothesis despite being false. This also means that, in reality, there is a difference, but the study has failed to detect that difference. Power (1-Beta) is the probability of rejecting the null hypothesis when it is false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "05c48370",
+      "audio": ""
+    },
+    {
+      "text": "A female patient, age 25 admitted with burns that she got while trying to commit suicide. She had third-degree burns, and eventually, even while given antibiotics 24 hours round the clock, the patient died. So doctor wants to know the relation of mortality in patients with third-degree burn due to infection. He selects 25 patients with third-degree burns. He found there is a 15% more risk of death due to infections in patients with third-degree burns. If the researcher thinks the result is statistically non-significant, then what is the most likely reason for statistically non-significant studies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 1 error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inadequate Study power",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type 2 error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both B and C",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Both B and C",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Both B and C Here doctor got a case of a third-degree burn, which died due to infections. So, the doctor thought, even after giving antibiotics, how the patient could die due to secondary infections. So he carried out the study and found that 15% of death chances increase after infections due to third-degree burns. But he got insignificant results. Likely due to less sample size and less study power. The type two error or the study power is mainly dependent on 1) The sample size, 2) the Level of significance 3) the Difference between hypothesized mean and actual sample mean</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: The null hypothesis is accurate, and a significant result is obtained The decision to reject the hypothesis is incorrect, and an error has been made. This form of error is called type 1 error. Options B and C: Same as option D</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dbb85859",
+      "audio": ""
+    },
+    {
+      "text": "More power of study increases the chances of which type of error?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 1",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both of the above",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type 1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Type 1 Power of study is 1-beta. So less the beta, more the power, and more the chances of alpha error.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B: Chances of type two error increase if alpha is small, more is the study's confidence. Option C: Type 1 and 2 errors are inversely related.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "142ce30e",
+      "audio": ""
+    },
+    {
+      "text": "A case-control study was planned to estimate the association between lung cancer & smoking at a 95% confidence level & 80% Power. What is the probability of committing Type II errors in this study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.05",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.15",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.2",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 0.2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>20% Power of a study is the ability to avoid a Type II error by identifying that the null hypothesis is false when there is a difference. Simply, the test can correctly reject the null hypothesis when it is false. It is the complement of type 2 error (Beta error). So, Power of study = 1-Beta error If the power of the study is 80%, that is, 0.8, then the Beta error or Type 2 error = 1-0.8 = 0.2 or 20%.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "55a12931",
+      "audio": ""
+    },
+    {
+      "text": "All the following statements concerning statistical inference are true EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A test of statistical significance does not prove causality",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A statistically significant test assesses the probability of a \u201cchance\u201d occurrence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A statistically significant test supports the null hypothesis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A confidence interval does not address whether an association is due to bias.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A statistically significant test supports the null hypothesis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A statistically significant test supports the null hypothesis A statistically significant test (p < 0.05) rejects the null hypothesis, which states no differences in effect will be found. A p < 0.05 indicates that a difference was found, and there is a < 5 percent probability that it occurred by chance. No test of significance can determine causality or rule out errors or bias as the cause of an association. Neither can it imply clinical significance. A nonsignificant test may still have practical clinical implications, such as needing a larger, more detailed study of a specific association.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "385d0633",
+      "audio": ""
+    },
+    {
+      "text": "A research study analyzed the association between mobile phone use and sleep disturbance. For the association to be statistically significant, which of the following statement is true-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Result came by chance & p-value> 0.05",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Result unlikely by chance & p-value < 0.05",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Result came by chance & p-value < 0.05",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Result unlikely by chance p value >0.05",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Result unlikely by chance & p-value < 0.05",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Result unlikely by chance & p-value < 0.05 Much statistical significance testing revolves around type 1 error. The whole purpose of research is to reject the null hypothesis by proving a difference in outcome as opposed to the null hypothesis, which states that there is no difference. However, a certain amount of variation in data is bound to occur by chance alone. So, the difference in our study sample might be observed just by chance. This probability of difference being by chance is known as the p-value. Conventionally, most scientists are satisfied if this probability is kept at less than 5% or less than 0.05. If \u03b1 is pre-decided at 5%, then the p-value in a research study result should be less than 0.05, which implies that the probability of this difference being by chance is less than 5% (less than the pre-decided cutoff) So, the correct option is Opt2. Result unlikely by chance & p-value < 0.05</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: The results came by chance & the p-value is also more than the set cut-off of 0.05; hence incorrect. Option C: Although the p-value is less than the set cut-off of 0.05, the results came by chance, so they can\u2019t be considered statistically significant. Option D: Although the results seem unlikely due to chance, the p-value is more than the desired cut-off of 0.05, hence not statistically significant.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1e55ae67",
+      "audio": ""
+    },
+    {
+      "text": "The power of a study can be increased by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreasing Type II error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increasing the sample size",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reducing the sampling error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the following",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the following",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the following The ability of a statistical test to avoid a Type II error by identifying that the null hypothesis is false when there is a difference is known as the power of the test.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. As the power of the study is given by 1- Type II error, reducing the type II error power of the study will increase. Option B. Increasing the sample size also decreases the standard error, thus increasing the power of the test. Option C. If sampling error is reduced, there is decreased sample standard deviation, which decreases the estimated standard error. A lower standard error in the statistical test will increase the chances of rejecting a false null hypothesis and improve the power. So, all the options are correct.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "da2efdb8",
+      "audio": ""
+    },
+    {
+      "text": "After applying a statistical significance test in a research study, the p-value was 0.006. Correct inference is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Study is non-significant & null hypothesis is rejected",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Study is non-significant & null hypothesis is accepted",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Study is significant & null hypothesis is rejected",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Study is significant & null hypothesis is accepted",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Study is significant & null hypothesis is rejected",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Study is significant & null hypothesis is rejected The research aims to prove that the null hypothesis is false and ultimately reject it. For a test to be statistically significant, the p-value should be less than the pre-decided maximum permissible alpha error. By convention, the value of the maximum permissible alpha error is pre-fixed at 5% or 0.05. If the p-value is less than 0.05, the study will be statistically significant, and the null hypothesis will be rejected. Option C is correct as the p-value is 0.006, less than 0.05. So, the results are statistically significant, and the null hypothesis is rejected. Option A & Option B are incorrect as the study is significant because the p-value is less than 0.05 Option D is also incorrect as the study is significant. The null hypothesis will be rejected and not accepted if the p-value is less than 0.05.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "43596ef9",
+      "audio": ""
+    },
+    {
+      "text": "If the confidence level of a study is 0.90, then the probability of committing type 1 error is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.05",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "0.15",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 0.1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>10% Complement of Type 1 error is the confidence level (1- \u03b1). It is the probability of accepting a null hypothesis when it is true. It simply means the confidence with which we could say that the statistical result will not have a type 1 error. Here, the confidence level (1- \u03b1) is 0.90 or 90% So, the probability of type 1 error is 1-0.90 = 0.10 or 10% Hence Option B is correct.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8e470730",
+      "audio": ""
+    },
+    {
+      "text": "A research study can avoid Type II errors 80% of the time. This is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Power of the study",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Confidence level of the study",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Confidence interval of the study",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Level of significance of the study",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Power of the study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Power of the study The ability of a statistical test to avoid a Type II error by identifying that the null hypothesis is false when there is a difference is known as the power of the test.</p>\n<p><strong>Random:</strong></p><p>Explanation for other options: - Option B. Confidence level (1- \u03b1) is the probability of accepting a null hypothesis when it is true. It simply means the confidence with which we could say that the statistical result will not have a type 1 error. Option C. The confidence interval is the range within which the sample's mean will lie. Option D. The level of significance or alpha error is the probability of rejecting a null hypothesis when it is true.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "18857b5b",
+      "audio": ""
+    },
+    {
+      "text": "Measurements on a (random) sample of babies born to mothers who took \u201cPrescription Drug A\u201d during pregnancy were compared to measurements on a (random) sample of babies born to mothers who did not take \u201cPrescription Drug A.\u201d A statistically significant difference in the mean head circumference was found between children born to the two groups of mothers (p = .03). Based only on this information; you can conclude:",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is a 3% chance the null hypothesis is true",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Taking \u201cPrescription Drug A\u201d during pregnancy causes a reduction in the child\u2019s head circumference",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Taking \u201cPrescription Drug A\u201d is associated with an increased child head circumference",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. There is a 3% chance the null hypothesis is true",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>There is a 3% chance the null hypothesis is true There is a 3% chance the null hypothesis is true. In this test, p is 0.03, which means it is significant at a 5% significance level. Hence, there is a 3% chance that the null hypothesis is true. Option: B, C: Cannot predict</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "43ee898b",
+      "audio": ""
+    },
+    {
+      "text": "Read the following statements and choose the most appropriate response- Probability of accepting a null hypothesis when it is true is Type II error Type II error is also represented as an error Power of a study is 1-\u1e9e By convention, the maximum permissible level for \u1e9e error is 80% Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A, C, D are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Only C is correct",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A & C are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Only A is correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Only C is correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Only C is correct Type I or alpha error is the Probability of accepting a null hypothesis when it is true. Type I error is represented as \u03b1 error & Type II error is represented as \u03b2 error Power of study is the complement of Type II error that is 1- \u03b2 By convention, the maximum permissible level for \u03b2 error is set at 20%</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "02a4e38e",
+      "audio": ""
+    },
+    {
+      "text": "A chi-square test was applied to determine the association between the use of condoms & Prevention of HIV infection in a study. The p-value obtained after the study result to be significant should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 0.05",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Equal to 0.5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "More than 0.05",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Less than 0.5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Less than 0.05",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Less than 0.05 Much statistical significance testing revolves around type 1 error. The whole purpose of research is to reject the null hypothesis by proving a difference in outcome as opposed to the null hypothesis, which states that there is no difference. However, specific variation in data is bound to occur by chance alone. So, the difference in our study sample might be observed just by chance. This probability of difference being by chance is known as the p-value. Conventionally, most scientists are satisfied if this probability is kept at less than 5% or less than 0.05. If \u03b1 is pre-decided at 5%, then the p-value in a research study result should be less than 0.05, which implies that the probability of this difference being by chance is less than 5% (less than the pre-decided cutoff)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ccdff544",
+      "audio": ""
+    },
+    {
+      "text": "If a research study is planned with a pre-decided \u03b1 error of 0.01, then the confidence level of this study would be",
+      "options": [
+        {
+          "label": "A",
+          "text": "90%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "95%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "97%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "99%",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 99%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>99% Complement of Type 1error is the confidence level (1- \u03b1). It is the probability of accepting a null hypothesis when it is true. It simply means the confidence with which we could say that the statistical result will not have a type 1 error. If the \u03b1 error is pre-decided at 0.01, then the confidence level would be 1-0.01 = 0.99 or 99% It implies that we can say with 99% confidence that the study results obtained will not have type 1 error.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "86014834",
+      "audio": ""
+    },
+    {
+      "text": "A research study was undertaken to compare mean serum triglyceride levels among cardiovascular disease patients and normal individuals. After the study, it was found that there was no difference in mean serum triglyceride levels among patients and normal people when in reality, mean Triglyceride level is high among patients with cardiovascular disease. The error committed in this study is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Type II error",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Systematic error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Random error",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Type II error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Type II error The null hypothesis in this study was there was no difference in mean triglyceride levels among both groups. After conducting the research, the results revealed no difference between the mean TG level of patients with cardiovascular disease and normal individuals because of error. In reality, however, it is known that the serum TG level of patients with cardiovascular disease is higher than that of ordinary people. So, in this case, the null hypothesis was wrongly accepted even though, in reality, it was false and should have been rejected. This error is known as Type II or Beta error.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "09e9a7ec",
+      "audio": ""
+    },
+    {
+      "text": "The INCORRECT statement concerning the \u2018p-value for a statistical test is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is the probability of committing type 1 error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "For a test result to be statistically significant, p value should be less than 0.05",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "p-value is pre-decided before the study is conducted and by convention is 5%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both 2 & 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. p-value is pre-decided before the study is conducted and by convention is 5%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>p-value is pre-decided before the study is conducted and by convention is 5% P value is the probability of committing type 1 error after the study. For a test result to be statistically significant, the p-value should be less than the maximum permissible alpha error, which is usually set at 0.05 P value obtained after a statistical significance test has been applied. It shows the probability that the test result obtained is by pure chance. Maximum Type 1 error or alpha error permissible in the study is pre-decided and, by convention, is mostly set at 5% or 0.05</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6ce60119",
+      "audio": ""
+    },
+    {
+      "text": "Any research aims to reject the null hypothesis when it is proved wrong. This is determined by-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confidence level",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Confidence interval",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Degree of freedom",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Power of study",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Power of study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Power of study The power of the study is the ability of a statistical test to avoid a type II error by identifying that the null hypothesis is false when there is a difference. It complements type II error (1- Beta). By convention, it is usually fixed at 80%, meaning that a type II error up to 20% is permissible In other words, a study having less than 80% ability to detect a false null hypothesis is not acceptable.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "68c456b7",
+      "audio": ""
+    },
+    {
+      "text": "The probability of accepting a true null hypothesis is",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u03b1 error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "\u03b2 error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1- \u03b1",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1- \u03b2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1- \u03b1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1- \u03b1 1- \u03b1 is the confidence level of the statistical result. It simply means with confidence, we can say that the test results will not have \u03b1 (Type 1 error). Following table shows the interpretation of testing of hypothesis- INFERENCE ACCEPTED REJECTED Null Hypothesis is true No Error Confidence level ( 1- \u03b1 ) Type 1 error Null Hypothesis is false Type 2 error No Error: Power of study ( 1- \u03b2 ) It is clear from the above table that the probability of accepting a null hypothesis when it is true (that is committing no type 1 error) is confidence level and this is given by 1- an error.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2c603214",
+      "audio": ""
+    }
+  ]
+}

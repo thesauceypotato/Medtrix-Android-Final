@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "test23",
+    "title": "Nuclear_Medicine-Previous_Year_Questions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "What is the investigation of choice for the diagnosis of a parathyroid adenoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tc99-Sestamibi scan",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sestamibi SPECT",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "USG",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CT",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Tc99-Sestamibi scan",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/uokLMNY8741zqychwGVe1745931167.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Investigation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top\">\n<p><strong>Role in Diagnosis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Tc99-Sestamibi Scan</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"cc20d2d7111692777201fb0caeb3f2\">uptake</span> in <span class=\"customMeta\" data-dictid=\"c3c9726266169277718021f4f0fa16\">adenoma</span> with delayed washout</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Gold standard for localization</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Sestamibi SPECT</strong></p>\n<p><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>3D <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> improves localization</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Used when <span class=\"customMeta\" data-dictid=\"e485bb67f81692777191dfee6366cc\">localization</span> is unclear</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>Ultrasound (USG)</strong></p>\n<p><strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Hypoechoic, well-defined <span class=\"customMeta\" data-dictid=\"d5e7bb15851692777191b39417c26a\">lesion</span> near thyroid</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>First-line for initial screening, but less sensitive than Sestamibi</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p><strong>CT (4D-CT preferred) (Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Enhances <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> <span class=\"customMeta\" data-dictid=\"d5e7bb15851692777191b39417c26a\">lesion</span> detection</p>\n</td>\n<td style=\"border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top\">\n<p>Used when other modalities fail</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "81c97927"
+    },
+    {
+      "text": "Most common radio-isotope in pet scan :",
+      "options": [
+        {
+          "label": "A",
+          "text": "13C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "14C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "18F",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 18F",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct answer C) 18F\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6a01d939"
+    }
+  ]
+}

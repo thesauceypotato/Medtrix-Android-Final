@@ -1,0 +1,785 @@
+{
+  "meta": {
+    "id": "test11",
+    "title": "General_Pharmacology_",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is the recommended temperature for drugs which need to be stored in a refrigerator but not in the freezer ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-7\u00b0C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2-8\u00b0C",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "4-12\u00b0C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "7-15\u00b0C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2-8\u00b0C",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Bgc91KByc5AEO5Dvzjdp1747068921.mp3",
+      "video": "",
+      "uid": "08f7b7a7"
+    },
+    {
+      "text": "Which statement regarding pharmacokinetics is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The volume of distribution (Vd) is a measure of drug distribution in the body",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Clearance (Cl) represents the rate at which a drug is eliminated from the body",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bioavailability (F) is the fraction of an administered dose that reaches systemic circulation unchanged",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The half-life (T1/2) is unaffected by liver metabolism",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The half-life (T1/2) is unaffected by liver metabolism",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qC8BERNPsxt88ZQ1fx7e1727007859.mp3",
+      "video": "",
+      "uid": "8600b897"
+    },
+    {
+      "text": "A patient with asthma is prescribed a bronchodilator to help manage their symptoms. The drug works by activating \u03b22-adrenergic receptors in the airways, causing smooth muscle relaxation and bronchodilation. However, the patient also has hypertension and is taking a \u03b2-blocker medication to lower their blood pressure. In this scenario, what is the relationship between the bronchodilator (\u03b22-agonist) and the \u03b2-blocker?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The \u03b2-blocker is a competitive antagonist of the \u03b22-agonist.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The \u03b2-blocker is a non-competitive antagonist of the \u03b22-agonist.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The \u03b2-blocker is a physiological antagonist of the \u03b22-agonist.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The \u03b2-blocker is an inverse agonist of the \u03b22-agonist.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The \u03b2-blocker is a competitive antagonist of the \u03b22-agonist.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:660px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type of Antagonist</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Example</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Competitive Antagonist</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Competes with agonists for the same binding site, reducing the <span class=\"customMeta\" data-dictid=\"2a93f2d9a11692777196928bd78855\">potency</span> of the agonist.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reversible</strong> binding to the same <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> site as the agonist.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Propranolol (\u03b2-blocker) binds to \u03b2-adrenergic receptors, reducing the effect of adrenaline</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Non-Competitive <span class=\"customMeta\" data-dictid=\"2e432a4f3c1692777181e8e244ca0e\">Antagonist</span> </strong></p>\n<p><strong>(Option B)</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Prevents the action of an <span class=\"customMeta\" data-dictid=\"7d8d28cda71692777180c89a3c86ce\">agonist</span> without competing with it for the binding site.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Irreversible </strong>binding to the <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> reduces the maximum effect of the agonist.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Phenoxybenzamine binds to \u03b1-adrenergic receptors, reducing the effect of adrenaline.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Physiological Antagonist</strong><strong> </strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acts on different receptors or mechanisms to produce opposite effects on the same <span class=\"customMeta\" data-dictid=\"6c2c85ae6b16927771950809419a59\">physiological</span> function.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Does not directly interact with the same <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> or <span class=\"customMeta\" data-dictid=\"f9016f36fd1692777198b0fd5e9c6d\">signaling</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> as the agonist.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Calcium channel <span class=\"customMeta\" data-dictid=\"adecdf9cb2169277718363b8a0e491\">blocker</span> reduces the effect of <span class=\"customMeta\" data-dictid=\"35b6a8aeb416927771805fcc2e7dfb\">adrenaline</span> on the heart.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inverse Agonist</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Selectively binds to the inactive <span class=\"customMeta\" data-dictid=\"c6d0a6443d16927771840860d28dfb\">conformation</span> of a constitutively active receptor, reducing the <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> activity of the receptor.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Binds to the inactive <span class=\"customMeta\" data-dictid=\"c6d0a6443d16927771840860d28dfb\">conformation</span> of the receptor, reducing the <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> activity.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Propranolol (\u03b2-blocker) can act as an <span class=\"customMeta\" data-dictid=\"459918ac4616927771903ea16da4c9\">inverse</span> <span class=\"customMeta\" data-dictid=\"7d8d28cda71692777180c89a3c86ce\">agonist</span> on \u03b2-adrenergic receptors, reducing the <span class=\"customMeta\" data-dictid=\"923af580cf16927771829606bce2a7\">basal</span> activity of the receptor.</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d8462a7c"
+    },
+    {
+      "text": "Which of the following statements regarding therapeutic drug monitoring (TDM) is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Done when the clinical response can be easily measured",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Done for wide therapeutic index drugs",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Atenolol is an example of a drug for which TDM is required",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "TDM can be done if the drug has erratic pharmacokinetics",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. TDM can be done if the drug has erratic pharmacokinetics",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align: center;\"><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align: center;\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Definition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Systematic measurement of drug concentrations in <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> to optimise therapy.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Purpose</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>To ensure <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> drug levels are achieved</li>\n<li>To confirm poisoning</li>\n<li>To check compliance</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Situations</p>\n<p>requiring TDM</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Drugs with <span class=\"customMeta\" data-dictid=\"cd6aa63a6016927771877bb32e3046\">erratic</span> <span class=\"customMeta\" data-dictid=\"a8683fba3b1692777195731bac4131\">pharmacokinetics</span> and low safety margins (e.g., digoxin, anticonvulsants, antiarrhythmics, theophylline, <span class=\"customMeta\" data-dictid=\"0291b75d1416927771817e25f028c9\">aminoglycoside</span> antibiotics, lithium, <span class=\"customMeta\" data-dictid=\"66bf14385516927772001b3646b855\">tricyclic</span> antidepressants)</li>\n<li>High individual <span class=\"customMeta\" data-dictid=\"128186f064169277720116e786798a\">variability</span> (e.g., antidepressants, lithium)</li>\n<li>Toxic drugs in <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> failure (e.g., aminoglycosides, vancomycin)</li>\n<li>Cases of poisoning</li>\n<li>Unexplained <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> failure (e.g., antimicrobials)</li>\n<li>Patient compliance monitoring (e.g., <span class=\"customMeta\" data-dictid=\"c773a2b6e81692777196cb811fd5d9\">psychotropic</span> drugs)\u00a0</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Drugs Not Requiring TDM</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Drugs with easily measurable responses (e.g., antihypertensives, hypoglycaemics, diuretics, oral anticoagulants, inhalational general anaesthetics)<strong> (Option A and C\u00a0ruled out)</strong></li>\n<li>Drugs that are activated in the body (e.g., levodopa)</li>\n<li>'Hit and run' drugs with prolonged effects (e.g., <span class=\"customMeta\" data-dictid=\"0307bca2ef1692777191b7df13d4b3\">MAO</span> inhibitors, reserpine, guanethidine, omeprazole)</li>\n<li>Drugs with <span class=\"customMeta\" data-dictid=\"ee77d507701692777190bfcf47b497\">irreversible</span> actions (e.g., organophosphates, phenoxybenzamine)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "df5162d7"
+    },
+    {
+      "text": "A diabetic patient on regular insulin therapy accidentally injects himself with a higher dose than prescribed. He experiences sweating, trembling, confusion, and dizziness. Which type of adverse drug reaction (ADR) can be seen in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type A",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:681px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type of reaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Example</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A</strong>ugmented</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dose-dependent, predictable, and more common.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">Insulin</span> \u2192 hypoglycemia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>B</strong>izzare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dose-independent, non-predictable, less common, and more serious.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Allergy & idiosyncracy.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>C</strong>hronic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dose & duration dependent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suppression of hypothalamic-pituitary <span class=\"customMeta\" data-dictid=\"3c28fd47f71692777182efbbaa5f6d\">axis</span> by chronic <span class=\"customMeta\" data-dictid=\"a48ce797cd1692777199efc43b3e4c\">steroid</span> use.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>D</strong>elayed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Duration dependent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kidney disease from long-term <span class=\"customMeta\" data-dictid=\"b924074dfe16927771933b6d50eaac\">NSAID</span> use.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>E</strong>nd of use</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Withdrawal symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Opioid withdrawal.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>F</strong>ailure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Failure of therapy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enzyme inducers \u2192 OCP failure.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/YGC25m00lgOWKZ2FwCFJ1747068640.mp3",
+      "video": "",
+      "uid": "f371e313"
+    },
+    {
+      "text": "All of the following are true about Placebo drugs except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is used as a dummy medication",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It contains the active moiety",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It can induce physiological responses",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Placebo helps in blinding",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It contains the active moiety",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/wQag45CxcY8yzjN9rfib1747068530.mp3",
+      "video": "",
+      "uid": "0caf2ebf"
+    },
+    {
+      "text": "A 28-year-old pregnant woman comes to the antenatal clinic for regular check up. An ultrasound of her abdomen showed craniofacial abnormalities, hypoplasia of the phalanges, and cleft palate. Which of the following medications is most likely to cause this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valproate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phenytoin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Isotretinoin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Warfarin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Phenytoin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Drug</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p><strong>Teratogenic Disorder</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Acitretin</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Craniofacial anomalies</strong>, heart defects, <span class=\"customMeta\" data-dictid=\"e1a4a12fb416927771841c46faf6fb\">CNS</span> malformations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Alcohol</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Fetal Alcohol Syndrome </strong>(growth retardation, <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">facial</span> anomalies, <span class=\"customMeta\" data-dictid=\"e1a4a12fb416927771841c46faf6fb\">CNS</span> dysfunction, ASD, VSD).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>ACE inhibitors & Angiotensin-receptor blockers</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Renal dysgenesis, oligohydramnios</strong>, lung hypoplasia, skull hypoplasia.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Carbamazepine</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Neural tube defects </strong>(spina bifida), <span class=\"customMeta\" data-dictid=\"576134019e16927771859f4eac1021\">craniofacial</span> defects.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Isotretinoin (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Craniofacial anomalies, heart defects, <span class=\"customMeta\" data-dictid=\"e1a4a12fb416927771841c46faf6fb\">CNS</span> malformations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Lithium</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Ebstein's <span class=\"customMeta\" data-dictid=\"50a440f85816927771817d2fe50984\">anomaly</span> </strong>(tricuspid <span class=\"customMeta\" data-dictid=\"416dd1004a169277720177d9a6adc5\">valve</span> malformation).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Thalidomide</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Severe limb defects <strong>(phocomelia)</strong>, ear, cardiac, and <span class=\"customMeta\" data-dictid=\"2fd33fb2ac16927771889901daadeb\">genitourinary</span> malformations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Carbimazole & methimazole</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Choanal atresia</strong>, <span class=\"customMeta\" data-dictid=\"5dff4943631692777181b8974b302b\">aplasia</span> cutis, and <span class=\"customMeta\" data-dictid=\"f375a3584316927772020efa386e3e\">fetal</span> goitre.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Penicillamine</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Cutis laxa syndrome</strong>.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Statins</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Vertebral, anal, cardiac, tracheo-oesophageal fistula, renal, arterial, and limb defects (VACTERAL defects).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>SSRIs</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Persistent <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"45372f6c361692777189ff3209e642\">hypertension</span> of the newborn.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Valproic acid (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Neural tube defects (spina bifida),</strong> <span class=\"customMeta\" data-dictid=\"576134019e16927771859f4eac1021\">craniofacial</span> defects, <span class=\"customMeta\" data-dictid=\"e2b5f013011692777183ea1b11ed9c\">cardiovascular</span> malformations, and developmental delay.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Warfarin</strong> <strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Fetal <span class=\"customMeta\" data-dictid=\"38d84b192c16927772023d96107e4c\">warfarin</span> syndrome: <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">Nasal</span> hypoplasia, <span class=\"customMeta\" data-dictid=\"3d7836b47f1692777199a5bbfc749f\">stippled</span> epiphyses, limb hypoplasia, and central nervous system abnormalities.</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/xXUrmE3vQNx2jkCbAXjI1747068245.mp3",
+      "video": "",
+      "uid": "2ae79cb9"
+    },
+    {
+      "text": "A drug given to a patient is known to follow a capacity-limited elimination pattern. Which of the following is incorrect about this mode of drug elimination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The amount of the drug eliminated per unit of time will remain constant",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Clearance of the drug will be less at higher concentrations.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The half-life of the drug will be longer at lower concentrations",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The rate of elimination of the drug is independent of plasma concentration.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The half-life of the drug will be longer at lower concentrations",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/eXDgA3v4ZTKOZlXmL42t1736534832.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>First-order kinetics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Zero-order kinetics</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Description</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A <strong>constant fraction</strong> of the drug is eliminated per unit of time.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A <strong>constant amount</strong> of the drug is eliminated per unit of time.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rate of clearance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Constant</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More at lower concentrations and less at higher concentrations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Half-life</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Constant</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Less at lower concentrations and more at higher concentrations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rate of elimination</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proportional to its <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> concentration.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Independent of <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> concentration.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Most of the drugs.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alcohol, aspirin, theophylline, tolbutamide, and warfarin.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/g4bIPRmv2YTKjcKC6MnD1747034165.mp3",
+      "video": "",
+      "uid": "8994c29e"
+    },
+    {
+      "text": "A 70 kg patient is administered 2 mg of warfarin. If its plasma concentration is 200 mcg/L, calculate the apparent volume of distribution of the drug.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.25 L/kg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.10 L/kg",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.15 L/kg",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "0.20 L/kg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0.15 L/kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>V</strong><strong><sub>d</sub></strong><strong> = Dose of drug administered/plasma concentration</strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Low V</strong><strong><sub>d</sub></strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>High V</strong><strong><sub>d</sub></strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A larger portion of a drug is in the <span class=\"customMeta\" data-dictid=\"837d6227d81692777190a063ea2cd4\">intravascular</span> compartment.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A larger portion of a drug is in the <span class=\"customMeta\" data-dictid=\"26e1dbfb921692777187208a4ff0e9\">extravascular</span> compartment.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is easily removed by haemodialysis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It can be difficult to remove by haemodialysis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Factors responsible:</p>\n<ul>\n<li>Extensive <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> protein binding</li>\n<li>Hydrophilic nature</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Factors responsible:</p>\n<ul>\n<li>Extensive body tissue binding</li>\n<li>Lipophilic nature</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples: warfarin, diclofenac</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Examples: Digoxin, propranolol, morphine</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/uxiOFUmVeXI4vqqYisVQ1727010838.mp3",
+      "video": "",
+      "uid": "d04b3e46"
+    },
+    {
+      "text": "A 45-year-old male is undergoing treatment for latent tuberculosis with a standard regimen. After a few weeks of therapy, he develops peripheral neuropathy. His doctor explains that this side effect is related to the metabolism of isoniazid. Which type of phase II metabolism is responsible for this patient\u2019s symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slow glucuronidation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fast glucuronidation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fast acetylation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Slow acetylation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Slow acetylation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:591px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fast Acetylators</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Slow Acetylators</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>NAT2 <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drug concentrations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased risk for</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Reduced <span class=\"customMeta\" data-dictid=\"04f4b6dbf71692777192ca0c4f70fa\">microbial</span> cure.</li>\n<li>Increased relapse.</li>\n<li>Acquired drug resistance.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hepatotoxicity.</li>\n<li>Peripheral neuropathy/neuritis.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/2Lj1VJpSxckv9NFbRoLo1727010351.mp3",
+      "video": "",
+      "uid": "f93995e4"
+    },
+    {
+      "text": "Match the following CYP450 enzymes with the drugs they primarily metabolise: CYP450 Enzyme Drug 1. CYP1A2 A. Phenytoin 2. CYP2C9 B. Midazolam 3. CYP2C19 C. Clopazine 4. CYP2D6 D. Pantoprazole 5. CYP3A4 E. Codeine",
+      "options": [
+        {
+          "label": "A",
+          "text": "1:D, 2:C, 3:A, 4:E, 5:B",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1:C, 2:A, 3:D, 4:E, 5:B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1:C, 2:A, 3:E, 4:B, 5:D",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1:A, 2:C, 3:B, 4:E, 5:D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1:C, 2:A, 3:D, 4:E, 5:B",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:516px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CYP Enzymes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Substrates/Drugs</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CYP1A2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Theophylline</li>\n<li>Clozapine</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CYP2C9 (earlier CYP2C8)</p>\n<p>(Saturation <span class=\"customMeta\" data-dictid=\"2686f2899616927771900b3f9aee6b\">kinetics</span> is seen)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Phenytoin</li>\n<li>Warfarin</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CYP2C19</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Clopidogrel (see note below)</li>\n<li>Azoles: Voriconazole, Ketoconazole</li>\n<li>PPI: Omeprazole, Pantoprazole</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CYP2D6</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Propranolol</li>\n<li>Quinidine</li>\n<li>Tamoxifen</li>\n<li>TCA</li>\n<li>SSRIs</li>\n<li>Opioids (Codeine)</li>\n<li>Antipsychotics (all except clozapine)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CYP2E1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Paracetamol</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CYP3A4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Astemizole</li>\n<li>Midazolam</li>\n<li>Cyclosporine/Tacrolimus</li>\n<li>Diltiazem/ verapamil</li>\n<li>Oral <span class=\"customMeta\" data-dictid=\"a13cdc2a8a1692777185da87f2ff85\">contraceptive</span> pills</li>\n<li>Fexofenadine/Terfenadine</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/gO9ukYL0BcPa4nDFiZdG1727010198.mp3",
+      "video": "",
+      "uid": "fd7f4798"
+    },
+    {
+      "text": "All of the following are phase 1 reactions except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Reduction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Methylation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hydrolysis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Methylation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:685px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Phase 1</strong></p>\n<p style=\"text-align: center;\">(Exposes <span class=\"customMeta\" data-dictid=\"be6b21068016927772030ce72d1e7c\">Functional group</span> on Drug)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Phase 2</strong></p>\n<p style=\"text-align: center;\">(Makes drug Water\u00a0Soluble)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The activity of the drug</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs convert into active & inactive forms.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The drug converts into active <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> only, except <span class=\"customMeta\" data-dictid=\"27d6d97dc51692777192f1043b6a79\">morphine</span> & minoxidil.</li>\n<li>Enzymes transfer <span class=\"customMeta\" data-dictid=\"a274393046169277719601ea5a6864\">polar</span> groups.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Types of reaction and their site</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Microsomal reactions:</p>\n<ul>\n<li><strong>Oxidation (Most Common)</strong> & <strong>Reduction</strong> (mediated by CYP450 enzymes).</li>\n<li><strong>Hydrolysis.</strong></li>\n<li>Deamination.</li>\n<li>Dehydrogenation.</li>\n<li>Cyclisation.</li>\n<li>Decyclisation\u00a0<strong>(Options A, B and D ruled out).</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Microsomal reaction:\n\t\t\t\t<ul>\n<li>Glucuronide conjugation.</li>\n</ul>\n</li>\n<li>Non-microsomal reactions:\n\t\t\t\t<ul>\n<li><strong>Acetylation.</strong></li>\n<li><strong>Methylation.</strong></li>\n<li>Sulfation.</li>\n<li>Glycination.</li>\n<li>Glutathionation.</li>\n<li>Ribonucleoside/nucleotide synthesis.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>M/C reaction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Oxidation & reduction.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glucuronide conjugation.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/449F3OEkGMWJwRz75OuE1727008541.mp3",
+      "video": "",
+      "uid": "66d1231e"
+    },
+    {
+      "text": "In drug mechanisms observed in cancer cells, which of the following accurately describes the role of the P-glycoprotein pump (Pgp)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pgp facilitates drug uptake into tumour cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pgp reduces drug elimination from tumour cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pgp is involved in drug efflux from tumour cells",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pgp has no significant impact on drug transport within tumour cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pgp is involved in drug efflux from tumour cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:598px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>P-glycoprotein Inducer</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>P-glycoprotein Inhibitor</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases the activity of Pgp</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases the activity of Pgp</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rifampicin.</li>\n<li>Phenobarbitone.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mnemonic: QVACKER</p>\n<ul>\n<li>Quinidine</li>\n<li><strong>Verapamil</strong></li>\n<li>Amiodarone</li>\n<li>Clarithromycin</li>\n<li>Ketoconazole</li>\n<li>Erythromycin</li>\n<li>Ritonavir</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Combined with Substrate</p>\n<p>of p-glycoprotein</p>\n<p>(Digoxin)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases the activity of P-gp.</p>\n<ul>\n<li>Increased <span class=\"customMeta\" data-dictid=\"0b72f5e96b16927772018dec8a87e2\">urinary</span> excretion.</li>\n<li>Digoxin is excreted.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduces the activity of P-gp.</p>\n<ul>\n<li>Reduced <span class=\"customMeta\" data-dictid=\"0b72f5e96b16927772018dec8a87e2\">urinary</span> excretion.</li>\n<li>Increased <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> concentration of the drug.</li>\n<li>Toxicity of digoxin: Arrhythmias.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PrCzmbcodVqEErAf4NTR1727006443.mp3",
+      "video": "",
+      "uid": "faae1ffe"
+    },
+    {
+      "text": "Which statement is not true about intracellular receptors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intracytoplasmic receptors are attached to heat shock proteins (HSP) when inactive.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intracellular receptors interact with lipid-soluble ligands that can pass through the cell membrane.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intracellular receptors typically require second messengers to relay the signal inside the cell.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "They interact with co-activators or co-repressors in the nucleus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Intracellular receptors typically require second messengers to relay the signal inside the cell.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:648px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intranuclear Receptors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intracytoplasmic Receptors</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Thyroid Receptors</li>\n<li>Retinoic Acid Receptors</li>\n<li>PPAR</li>\n<li>Estrogen Receptors</li>\n</ul>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Glucocorticoid Receptors</li>\n<li>Mineralocorticoid Receptors</li>\n<li>Androgen Receptors</li>\n<li>Progesterone Receptors</li>\n<li>Calcitriol Receptors</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/n0yjvcDYbVCAwda9cUcq1747037217.mp3",
+      "video": "",
+      "uid": "9524bd00"
+    },
+    {
+      "text": "Which of the following acts on enzyme-linked receptors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epinephrine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Insulin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acetylcholine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dopamine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Insulin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:596px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type of <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">Kinase</span> Receptor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ligands</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Receptor Tyrosine Kinases (RTKs)</li>\n<li>Receptor Serine/Threonine Kinases</li>\n<li>Cytokine Receptors (JAK-STAT pathway)</li>\n</ul>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Insulin, <span class=\"customMeta\" data-dictid=\"616d85c57416927771875ef23f6751\">Epidermal</span> Growth Factor (EGF)</li>\n<li>Transforming Growth Factor-beta (TGF-\u03b2)</li>\n<li>Growth Hormone, <span class=\"customMeta\" data-dictid=\"ec50ec51401692777187009530441d\">Erythropoietin</span> (EPO)</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/oN4C1EQw7mgb3xRlIWhi1747037001.mp3",
+      "video": "",
+      "uid": "5f962a02"
+    },
+    {
+      "text": "When bound to its receptor, which ligand activates Gs proteins, leading to increased adenylyl cyclase activity and elevated cAMP levels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serotonin at 5-HT1 receptors",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glucagon",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Glucagon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:407px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Protein</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ligands</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Receptors</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glucagon</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glucagon receptor</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Epinephrine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u03b2-adrenergic receptors (\u03b21, \u03b22, \u03b23)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Histamine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>H\u2082 receptors</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gi</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acetylcholine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Muscarinic M2 receptors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dopamine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>D\u2082 receptors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Serotonin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5-HT\u2081 receptors</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gq</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Serotonin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5-HT\u2082 receptors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acetylcholine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Muscarinic M1 receptors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Histamine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>H\u2081 receptors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thromboxane</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>TP receptors</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:623px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ligand</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Receptor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G-protein Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effect on cAMP</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Glucagon</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glucagon receptor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 Activates <span class=\"customMeta\" data-dictid=\"7112e9ca411692777180a7c10a13a6\">adenylyl</span> <span class=\"customMeta\" data-dictid=\"b638747a661692777185a6182d6e5f\">cyclase</span> \u2191</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Serotonin\u00a0<strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5-HT\u2081 receptor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gi</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 Inhibits <span class=\"customMeta\" data-dictid=\"7112e9ca411692777180a7c10a13a6\">adenylyl</span> cyclase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Somatostatin\u00a0<strong>(Option C\u00a0ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Somatostatin receptor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gi</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 Inhibits <span class=\"customMeta\" data-dictid=\"7112e9ca411692777180a7c10a13a6\">adenylyl</span> cyclase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thromboxane\u00a0<strong>(Option D\u00a0ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>TP receptor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gq (mainly)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activates <span class=\"customMeta\" data-dictid=\"b3c0aa468916927771955a8c6d6998\">phospholipase</span> C (\u2191IP\u2083/DAG), not cAMP</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/w6HWznLd2np39BVf955M1747036899.mp3",
+      "video": "",
+      "uid": "f4c34050"
+    },
+    {
+      "text": "Which second messenger is associated with phospholipase C (PLC) activation by Gq protein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyclic AMP (cAMP)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inositol trisphosphate (IP3) and diacylglycerol (DAG)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cyclic GMP (cGMP)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide (NO)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inositol trisphosphate (IP3) and diacylglycerol (DAG)",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/APQRyRI5LleyQ6U4AApz1736532253.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u00a0</p>\n\t\t\t\u00a0\n\n\t\t\t<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G Protein Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effector</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Second Messenger(s)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathway</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adenylyl cyclase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cyclic <span class=\"customMeta\" data-dictid=\"e040c51b2e1692777181f22b831de4\">AMP</span> (cAMP)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases cAMP, activates protein <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> A (PKA)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gi</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adenylyl cyclase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduces <span class=\"customMeta\" data-dictid=\"1d84248e9f16927771850f8b75c26a\">cyclic</span> <span class=\"customMeta\" data-dictid=\"e040c51b2e1692777181f22b831de4\">AMP</span> (cAMP)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases cAMP, inhibits protein <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> A (PKA)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gq</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Phospholipase C (PLC)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inositol trisphosphate (IP3) and DAG</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IP3 releases Ca2+ from ER; <span class=\"customMeta\" data-dictid=\"ffd1412fed1692777185cd107f3835\">DAG</span> activates protein <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> C (PKC)</p>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G Protein Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effector</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Second Messenger(s)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathway</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adenylyl cyclase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cyclic <span class=\"customMeta\" data-dictid=\"e040c51b2e1692777181f22b831de4\">AMP</span> (cAMP)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases cAMP, activates protein <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> A (PKA)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gi</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adenylyl cyclase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduces <span class=\"customMeta\" data-dictid=\"1d84248e9f16927771850f8b75c26a\">cyclic</span> <span class=\"customMeta\" data-dictid=\"e040c51b2e1692777181f22b831de4\">AMP</span> (cAMP)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreases cAMP, inhibits protein <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> A (PKA)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gq</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Phospholipase C (PLC)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inositol trisphosphate (IP3) and DAG</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IP3 releases Ca2+ from ER; <span class=\"customMeta\" data-dictid=\"ffd1412fed1692777185cd107f3835\">DAG</span> activates protein <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> C (PKC)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/6xAd9vbRZWRrxOtFoz2I1747036720.mp3",
+      "video": "",
+      "uid": "8ccd2c75"
+    },
+    {
+      "text": "A 35-year-old man with a history of epilepsy presents for a medication review. He has been taking phenytoin for the past year and wants to ensure his medication dosage is appropriate. Which of the following is the therapeutic range of phenytoin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10-20 mcg/ml",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "40-50 mcg/ml",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "50-100 mcg/ml",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "100-120 mcg/ml",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 10-20 mcg/ml",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/nSKWtxluOOb6jDPPCxWj1736530541.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/rwiBixhflKgSHlZ64xsG1747066462.mp3",
+      "video": "",
+      "uid": "801848cb"
+    },
+    {
+      "text": "Which of the following statements is true about dose-response curves (DRCs)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Graded DRCs measure the all-or-none response to different drug doses within a population.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Quantal DRCs plot the response to a drug continuously within an individual.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "U-shaped DRCs are rare and can indicate toxicity at both low and high doses.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Graded DRCs are used to calculate the median effective dose (ED50) and the median lethal dose (LD50) in a population.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. U-shaped DRCs are rare and can indicate toxicity at both low and high doses.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/WIPFJ1A9bxEJvVZcsiNj1736530036.png",
+        "https://image.prepladder.com/content/KOJ9lNKuenPH459GSjNt1736530154.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Drug /hormone/vitamin </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Deficiency </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Excess </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Insulin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diabetes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hypoglycemia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Iron</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemochromatosis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vitamin A</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Night blindness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Liver damage, blurred vision.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1I3n9XWuYVJr6voZCSpv1747066220.mp3",
+      "video": "",
+      "uid": "d0f8fb40"
+    },
+    {
+      "text": "A clinical trial of 4 new drugs was conducted, and the following graphs were obtained. Based on these graphs, which of the following statements is/are correct? a) Drug A has the highest efficacy as well as the highest potency. b) Drug A has the highest efficacy but the lowest potency. c) Drug D has the highest efficacy as well as the highest potency. d) Drug B is more potent than drug C.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Statements a and d are correct",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Statements b and d are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Only statement b is correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the statements are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Statements a and d are correct",
+      "question_images": [
+        "https://image.prepladder.com/content/pgHAmA8c7FBOQD2zkGVx1736529942.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/zJXes4WjAMQIDVRIe82J1748859899.mp3",
+      "video": "",
+      "uid": "25eac195"
+    },
+    {
+      "text": "Identify the correct statement based on the following Michaelis-Menten graph showing the effect of different types of inhibitors on a reaction.",
+      "options": [
+        {
+          "label": "A",
+          "text": "B denotes competitive inhibition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "C denotes non-competitive inhibition",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vmax is directly proportional to the enzyme concentration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [
+        "https://image.prepladder.com/content/xlrrdsPfZ4DkDE91savV1736529848.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:660px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>COMPETITIVE INHIBITOR</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NON-COMPETITIVE INHIBITOR</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Uncompetitive inhibitior</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Substrate resemblance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Resembles substrate.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It does not resemble the substrate.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It does not resemble the substrate.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Effect on increasing [S]</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition can be reversed.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition cannot be reversed.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition can be reversed.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Binding site</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Active site.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Allosteric site.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enzyme <span class=\"customMeta\" data-dictid=\"385d52533a169277719991c090c3d7\">substrate</span> complex</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Vmax</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unchanged. </strong><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Decreases (as active <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> decreases). </strong><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Decreases (as active <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> decreases).</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Km</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases (more <span class=\"customMeta\" data-dictid=\"385d52533a169277719991c090c3d7\">substrate</span> needed to overcome inhibited enzyme).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Unchanged (increasing <span class=\"customMeta\" data-dictid=\"385d52533a169277719991c090c3d7\">substrate</span> does not overcome the inhibition).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increases (more <span class=\"customMeta\" data-dictid=\"385d52533a169277719991c090c3d7\">substrate</span> needed to overcome inhibited enzyme).</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nI0jwks3He5MhMzjNlB31747035504.mp3",
+      "video": "",
+      "uid": "574b0460"
+    },
+    {
+      "text": "Which of the following agents inhibits the action of an agonist on a receptor or the subsequent response but does not have any effect of its own?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drug A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Drug B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Drug C",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Drug D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Drug C",
+      "question_images": [
+        "https://image.prepladder.com/content/kI9yIzcpvQdZDXxu2gyK1736529110.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Ro8iu1htReMCgPjaWjk01736529160.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:208px\">\n<p><strong>Drug C </strong><strong>(Option C)</strong><strong>:</strong><strong> </strong><strong>Antagonist</strong></p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:416px\">\n<ul>\n<li>It prevents the <strong>action of an agonist</strong> on a <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> or the subsequent response but <strong>does not have any effect of its own.\u00a0</strong></li>\n<li>Naloxone, an <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> antagonist, is commonly used to reverse <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> overdose.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:208px\">\n<p><strong>Drug A </strong><strong>(Option A)</strong><strong>:</strong><strong> </strong><strong>Agonist</strong></p>\n<p><strong>\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:416px\">\n<ul>\n<li>It activates a <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> to <strong>produce an effect similar to the <span class=\"customMeta\" data-dictid=\"6c2c85ae6b16927771950809419a59\">physiological</span> signal molecule</strong><strong> </strong>(e.g., <span class=\"customMeta\" data-dictid=\"27d6d97dc51692777192f1043b6a79\">morphine</span> at <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> receptors).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:208px\">\n<p><strong>Drug D </strong><strong>(Option D)</strong><strong>:</strong><strong> </strong><strong>Inverse Agonist</strong></p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:416px\">\n<ul>\n<li>It activates a <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> to<strong> produce an effect opposite</strong> to that of an <span class=\"customMeta\" data-dictid=\"7d8d28cda71692777180c89a3c86ce\">agonist</span> (e.g., Rimonabant at <span class=\"customMeta\" data-dictid=\"fe04fe7edd169277718355bcc41507\">cannabinoid</span> receptors).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:208px\">\n<p><strong>Drug B </strong><strong>(Option B)</strong><strong>: Partial Agonist</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:416px\">\n<ul>\n<li>It activates a <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> to produce a <strong>submaximal effect</strong> and can block the action of a <strong>full agonist</strong><strong> </strong>(e.g., <span class=\"customMeta\" data-dictid=\"b15fb72c3c16927771837d01fe5d28\">Buprenorphine</span> at <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> receptors).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:208px\">\n<p><strong>Super Agonist</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:416px\">\n<ul>\n<li>Not directly relevant to <span class=\"customMeta\" data-dictid=\"e22dbf6c52169277719441ac94a69e\">opioid</span> <span class=\"customMeta\" data-dictid=\"3f4eecb1c6169277719459c801fb19\">overdose</span> treatment but <strong>produces a maximum response greater than that of the <span class=\"customMeta\" data-dictid=\"2a7f0b780c1692777187fe83ec76b1\">endogenous</span> agonist</strong><strong> </strong>(e.g., BMS-986121 at GLP-1 receptors).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/P9wyr4ceiDNER25mjXCh1747034730.mp3",
+      "video": "",
+      "uid": "5559a332"
+    },
+    {
+      "text": "Match the phases of drug trials with their correct descriptions: Phase Description 1. Phase 0 a. Determines drug efficacy and side effects on a heterogeneous population 2. Phase 1 b. Monitor long-term side effects and drug interaction in hidden populations. 3. Phase 2 c. Human testing to assess drug safety and maximum tolerable dose (MDT). 4. Phase 3 d. Randomized trials to assess drug efficacy and optimal dosing 5. Phase 4 e: Low dosing trials to check drug-target binding.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1: e, 2: c, 3: d, 4: a, 5: b",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1: c, 2: e, 3: a, 4: b, 5: a",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1: e, 2: c, 3: a, 4: b, 5: d",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1: c, 2: d, 3: e, 4: a, 5: b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1: e, 2: c, 3: d, 4: a, 5: b",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:654px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:76px\">\n<p style=\"text-align:center\"><strong>Phases</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:548px\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:76px\">\n<p style=\"text-align:center\">Phase 0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:548px\">\n<ul>\n<li>Design: An open-label trial</li>\n<li>Purpose:\u00a0\n\t\t\t\t<ul>\n<li><strong>Check the target binding of a drug</strong></li>\n<li>Check the <span class=\"customMeta\" data-dictid=\"a8683fba3b1692777195731bac4131\">pharmacokinetics</span> of the drug</li>\n</ul>\n</li>\n<li>Called a micro-dosing trial (100 micrograms dose)</li>\n<li>Non-mandatory clinical trial</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:76px\">\n<p style=\"text-align:center\">Phase 1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:548px\">\n<ul>\n<li>Design: An open-label trial</li>\n<li>Purpose:\u00a0\n\t\t\t\t<ul>\n<li>Evaluate drug safety- the most important</li>\n<li><strong>Evaluate <span class=\"customMeta\" data-dictid=\"0762a5fb2d1692777193f06aa57615\">MTD</span> (maximum tolerable dose)</strong>, <span class=\"customMeta\" data-dictid=\"00a5dcc74b16927771913b344e36a3\">loading</span> dose and drug half-life.</li>\n<li>Evaluate drug <span class=\"customMeta\" data-dictid=\"a8683fba3b1692777195731bac4131\">pharmacokinetics</span> (absorption, distribution, <span class=\"customMeta\" data-dictid=\"5b1a045f5f169277719210c0ac7a1e\">metabolism</span> and excretion)</li>\n</ul>\n</li>\n<li>Called the first human trial\u00a0</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:76px\">\n<p style=\"text-align:center\">Phase 2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:548px\">\n<ul>\n<li>Design: <strong>Randomized clinical trial</strong> (RCT)</li>\n<li>Purpose:\u00a0\n\t\t\t\t<ul>\n<li><strong>Explore drug efficacy</strong></li>\n</ul>\n</li>\n<li>Called a <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> exploratory trial or proof of concept trial</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:76px\">\n<p style=\"text-align:center\">Phase 3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:548px\">\n<ul>\n<li>Design: Double-blinded RCT\u00a0</li>\n<li>Purpose:\u00a0\n\t\t\t\t<ul>\n<li>Find the <span class=\"customMeta\" data-dictid=\"208cf74d74169277719486afd05eb3\">optimal</span> drug dose</li>\n<li><strong>Confirm efficacy</strong></li>\n<li>Safety is priority</li>\n</ul>\n</li>\n<li>Called a <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> confirmatory trial\u00a0</li>\n<li>Called multi-site trial (done on a <span class=\"customMeta\" data-dictid=\"bbe1b94c491692777188fe4f85b1ce\">heterogeneous</span> population)</li>\n<li>Drugs get market approval</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:76px\">\n<p style=\"text-align:center\">Phase 4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:548px\">\n<ul>\n<li>Design: Open-label</li>\n<li>Purpose:\u00a0\n\t\t\t\t<ul>\n<li>Find hidden/missed/rare adverse effects.\u00a0</li>\n<li>Evaluate compliance: <strong>long-term side effects</strong></li>\n<li><strong>Drug interactions</strong></li>\n<li>Food interactions</li>\n</ul>\n</li>\n<li>Called post-marketing surveillance\u00a0</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nWX2klnFPT4KSIGQQOgM1747067254.mp3",
+      "video": "",
+      "uid": "b2bc84e4"
+    }
+  ]
+}

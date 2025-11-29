@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "PSYCHIATRY-(INICET NOV 2024)",
+    "category": "INICET PYQ"
+  },
+  "questions": [
+    {
+      "text": "Match the treatment with its respective condition. Select the Correct Answer from the given below Code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a-i, b-ii, c - iii, d - iv",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a-ii, b-iii, c - i, d - iv",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "a-iii, b-i, c - iv, d - ii",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a-iv, b-ii, c - iii, d \u2013 i",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. a-ii, b-iii, c - i, d - iv",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1736330947058-QT74IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>a-ii, b-iii, c - i, d - iv The correct matching of treatments is: (a) Naloxone (ii) Opioid overdose (b) Oxazepam (iii) Delirium tremens (c) Varenicline (i) Smoking cessation (d) Acamprosate (iv) Treatment of alcoholism</p>\n<p><strong>Highyeild:</strong></p><p>Naloxone (Opioid Overdose): A competitive opioid antagonist used to reverse respiratory depression caused by opioid overdose. Administered intranasally or intravenously for rapid effect. Oxazepam (Delirium Tremens): A short-acting benzodiazepine used for alcohol withdrawal syndrome and delirium tremens, especially in patients with liver dysfunction . Enhances GABA activity to manage agitation, seizures, and autonomic instability. Varenicline (Smoking Cessation): A partial agonist at the nicotinic acetylcholine receptor that reduces cravings and withdrawal symptoms associated with nicotine dependence. Commonly used in conjunction with behavioral therapy for smoking cessation. Acamprosate (Treatment of Alcoholism): Modulates glutamatergic neurotransmission to reduce cravings and maintain abstinence in individuals recovering from alcohol dependence.</p>\n<p><strong>Extraedge:</strong></p><p>Alcohol Withdrawal Management: Benzodiazepines like chlordiazepoxide, lorazepam, or diazepam are first-line Safe benzodiazepines in patients with liver dysfunction : Lorazepam, Oxazepam . Alternative Smoking Cessation Options: Bupropion (non-nicotine option) and nicotine replacement therapy (NRT) are also effective.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "da5c36e3",
+      "audio": ""
+    }
+  ]
+}

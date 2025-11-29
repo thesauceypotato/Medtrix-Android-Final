@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "test23",
+    "title": "Chronic Pulmonary Disease Classification",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 39 year old patient presented with shortness of breath and a CT scan shows hilar lymphadenopathy. A bronchial biopsy was performed and the image is given below. What is your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sarcoidosis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Idiopathic Pulmonary fibrosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cryptogenic organizing pneumonia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyaline membrane disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sarcoidosis",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1686835370149-QTDP103004IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sarcoidosis The given clinical scenario and the histopathological picture showing well-formed non-necrotizing granulomas are suggestive of Sarcoidosis .</p>\n<p><strong>Highyeild:</strong></p><p>Sarcoidosis Idiopathic systemic disorder characterized by accumulation of lymphocytes and monocytes in many organs forming noncaseating, epithelioid granuloma and subsequent conformational changes in the involved organs. Diagnosis Elevated serum ACE levels Elevated CD4/CD8 ratio in BAL CXR shows bilateral adenopathy and coarse reticular opacities Gallium scan: Panda sign. Lambda sign Features: Mnemonic : SARCOIDS S: Schumann bodies A: Asteroid bodies R: RA like arthropathy C: Calcium level increased (due to an increase in 1-alpha-hydroxylase-mediated vitamin D activation in macrophages) O: Ocular Uveitis I: Interstitial Lung Disease D: Vitamin D activation S: Skin changes: Lupus pernio, erythema nodosum</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Idiopathic pulmonary fibrosis: It is a chronic and progressive lung disease characterized by the development of fibrosis, or scarring, in the lungs. Option: C. Cryptogenic organizing pneumonia: It is a form of interstitial lung disease that is characterized by the formation of granulation tissue within the alveolar spaces known as Masson bodies. Option: D. Hyaline membrane disease: It is a neonatal respiratory disorder characterized by the development of hyaline membranes within the lungs, which can lead to respiratory distress and hypoxemia.</p>\n<p><strong>Extraedge:</strong></p><p>Lofgren syndrome: Triad of erythema nodosum, Bilateral hilar lymphadenopathy on CXR, and Polyarticular arthritis Heerfordt\u2019s syndrome: aka uveoparotid syndrome- Is associated with uveitis, parotid enlargement, and fever with or without facial nerve palsy.</p>\n<p><strong>Table:</strong></p><p>Histopathological findings of sarcoidosis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "448bf454",
+      "audio": ""
+    },
+    {
+      "text": "All of the following can be seen in sarcoidosis except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non necrotizing granuloma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Schaumann bodies",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Asteroid bodies",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ferruginous bodies",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ferruginous bodies",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ferruginous bodies Ferruginous bodies are asbestos fibers that are coated with iron and are typically associated with asbestos exposure and asbestos-related diseases such as mesothelioma and asbestosis. They are not associated with sarcoidosis.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option:A, B & C: All are seen in sarcoidosis</p>\n<p><strong>Table:</strong></p><p>Histopathological findings of sarcoidosis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a79f3c2a",
+      "audio": ""
+    },
+    {
+      "text": "All of the following statements are true regarding sarcoidosis except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lung is the most common organ to be involved",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "BAL show CD8/CD 4 ratio of 4:1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hilar and mediastinal lymph nodes are involved in most cases",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It can cause unilateral or bilateral iriditis to uveitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. BAL show CD8/CD 4 ratio of 4:1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>BAL show CD8/CD 4 ratio of 4:1 In sarcoidosis, the CD4/CD8 ratio in BAL fluid is usually greater than 3.5, whereas in healthy individuals, this ratio is less than 1.</p>\n<p><strong>Highyeild:</strong></p><p>Sarcoidosis Idiopathic systemic disorder characterized by accumulation of lymphocytes and monocytes in many organs forming noncaseating, epithelioid granuloma and subsequent conformational changes in the involved organs. Diagnosis Elevated serum ACE levels Elevated CD4/CD8 ratio in BAL CXR shows bilateral adenopathy and coarse reticular opacities Gallium scan: Panda sign. Lambda sign Features: Mnemonic : SARCOIDS S: Schumann bodies A: Asteroid bodies R: RA like arthropathy C: Calcium level increased (due to increase in 1-alpha-hydroxylase-mediated vitamin D activation in macrophages) O: Ocular Uveitis I: Interstitial Lung Disease D: Vitamin D activation S: Skin changes: Lupus pernio, erythema nodosum</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "876978ef",
+      "audio": ""
+    }
+  ]
+}

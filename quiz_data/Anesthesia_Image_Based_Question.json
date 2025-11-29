@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Anesthesia_Image_Based_Question",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 45-year-old woman presented to the ER with dizziness. Her blood pressure is 80/60 mmHg, pulse rate is 45/minute. She was subsequently put in the below position. What was the reason for using this position?",
+      "options": [
+        {
+          "label": "A",
+          "text": "She was conscious and pulse present",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "She was unconscious and pulse present",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "She was conscious and no pulse",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "She was having seizures",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. She was unconscious and pulse present",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(862).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dfc129a7",
+      "audio": ""
+    },
+    {
+      "text": "A patient is undergoing preanesthetic evaluation. He is seated upright with the head neutral, mouth open, tongue protruded, and no phomation. The image of the mouth is given below. Which class does he belong to according to the modified Mallampati score?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Class IV",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Class III",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Class II",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Class I",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Class I",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(753).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6b4d7bab",
+      "audio": ""
+    },
+    {
+      "text": "A 25-year-old football player is brought to the emergency room after falling on the field during a match. His X-ray shows the findings-below. Which of the following peripheral blocks is indicated to restore the normal anatomy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supraclavicular block",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Interscalene block",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Infraclavicular block",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Axillary block",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Interscalene block",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/3(673).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8f9d002b",
+      "audio": ""
+    },
+    {
+      "text": "What is the advantage of the following device?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has a port for orogastric tube",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Can facilitate endotracheal intubation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ideal for infants alone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Suction tube to remove secretions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Can facilitate endotracheal intubation",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4(621).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "39bd955f",
+      "audio": ""
+    },
+    {
+      "text": "In the following condition as shown in the radiograph, which of the following procedures would be difficult to perform?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nasogastric tube insertion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Laryngeal mask airway",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tracheostomy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Indirect laryngoscopy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tracheostomy",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/5(595).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "36665b90",
+      "audio": ""
+    },
+    {
+      "text": "As an intern posted in the OT, you see the Anesthesia Senior Resident holding the needle shown in the image. What is the likely procedure that he is about to perform?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spinal anesthesia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Epidural anesthesia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Combined spinal epidural anesthesia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IV cannulation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Epidural anesthesia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6(484).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b163c8b2",
+      "audio": ""
+    },
+    {
+      "text": "A 58-year-old man presented to the casualty with complaints of increasing shortness of breath, lightheadedness, and palpitations. He had an irregularly irregular pulse and blood pressure was 70\\30 mm Hg. Soon the patient becomes unresponsive and with following ECG is obtained. What is the treatment of choice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate defibrillation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Synchronized cardioversion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IV adenosine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IV ibutilide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Immediate defibrillation",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/7(433).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "99420d37",
+      "audio": ""
+    },
+    {
+      "text": "The type of laryngoscope blade shown in the given image is",
+      "options": [
+        {
+          "label": "A",
+          "text": "McCoy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Macintosh",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Miller",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Magill",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Macintosh",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/8(412).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dea4d1ca",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old male patient with COVID-19 infection develops shortness of breath and is brought to the hospital. His SpO2 increases from 81% to 83% on administering oxygen via facemask at 10 L/min. The decision to deliver oxygen using the device shown below is made. What is its oxygen delivery rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-6 L/min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2-15 L/min",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "10-15 L/min",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "40-60 L/min",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 40-60 L/min",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/9(367).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7a6a6234",
+      "audio": ""
+    },
+    {
+      "text": "What is the type of circuit shown in the image?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mapleson circuit",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Scavenging system",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Closed circuit",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Back pressure valve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Closed circuit",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/10(340).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3b75a92e",
+      "audio": ""
+    },
+    {
+      "text": "Identify the mask in the image used for patients with COVID-19 infection.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venturi mask",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hudson mask",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nebuliser",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Non-rebreathing mask",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Non-rebreathing mask",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/11(292).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "59bd5569",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is incorrect concerning the drug in the image below?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Associated with bacterial contamination",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Associated with multiorgan dysfunction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reduces postoperative nausea and vomiting",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Contraindicated in egg allergic patients",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Contraindicated in egg allergic patients",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/12(280).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e03f6f08",
+      "audio": ""
+    },
+    {
+      "text": "During your evening rounds in the ICU, you notice that the capnograph of a patient on controlled ventilation is as shown below. Which of the following is a likely cause that you would suspect ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Esophageal intubation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Expiratory valve malfunction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bronchospasm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spontaneous respiratory effort",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Spontaneous respiratory effort",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/13(247).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "efdf69b5",
+      "audio": ""
+    },
+    {
+      "text": "Identify the safety feature in the image below and its correct use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure relief valve which prevents leak of gases",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diameter index safety system that prevents wrong attachment of pipeline to machine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pin index safety system that prevents wrong attachment of cylinder to machine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pin index safety system that prevents wrong attachment of pipeline to machine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Pin index safety system that prevents wrong attachment of cylinder to machine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/14(225).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b4c06c7d",
+      "audio": ""
+    },
+    {
+      "text": "Identify the device shown below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mapleson type of circuit",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Closed circuit",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Scavenging system",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sodalime",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mapleson type of circuit",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/15(236).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "86b01681",
+      "audio": ""
+    },
+    {
+      "text": "A 47-year-old woman was brought to the casualty in an unconscious state after having suddenly collapsed. As there was no pulse, cardiopulmonary resuscitation was started and the monitor showed the following rhythm. What is the next step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Defibrillation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Synchronized cardioversion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 mg epinephrine IV",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "0.5 mg atropine IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1 mg epinephrine IV",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/16(211).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cb9569e4",
+      "audio": ""
+    },
+    {
+      "text": "What procedure is the following device most suitable for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "laparoscopic surgery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cleft palate surgery",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Laryngeal surgery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thoracic surgery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cleft palate surgery",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/17(175).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "efa66d2d",
+      "audio": ""
+    },
+    {
+      "text": "What gas is the following cylinder used to carry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Entonox",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Air",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Oxygen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nitrous oxide",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Nitrous oxide",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/18(172).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dbe86cd3",
+      "audio": ""
+    },
+    {
+      "text": "A mixture of gas X and oxygen is sometimes used in anesthetic practice to provide relief from upper airway edema until more definitive care can be delivered. Gas X is stored in the cylinder shown below. According to the Pin Index Safety System (PISS), what is the pin index of the given cylinder containing only gas X?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1,6",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No Pin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. No Pin",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/19(163).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ad36c380",
+      "audio": ""
+    },
+    {
+      "text": "What is the procedure being done in the image?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bier Block",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Axillary nerve block",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median nerve block",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Wrist block",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Bier Block",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/20(169).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5d8d5175",
+      "audio": ""
+    }
+  ]
+}

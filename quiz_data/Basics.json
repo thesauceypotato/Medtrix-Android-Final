@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "id": "test5",
+    "title": "Basics",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "The graph below represents the relationship of chest, lung, and both together w.r.t. the transmural pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A= Curve for chest wall; B= Curve for Lung; X= Residual Volume",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A= Curve for Lung; B= Curve for Chest wall; X= Residual Volume",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A= Curve for chest wall; B= Curve for Lung; X= Functional Residual Capacity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A= Curve for Lung; B= Curve for Chest wall; X= Functional Residual Capacity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A= Curve for chest wall; B= Curve for Lung; X= Functional Residual Capacity",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1683534506455-QTDY052001IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A= Curve for chest wall; B= Curve for Lung; X= Functional Residual Capacity ' The pressure-volume curves of the total respiratory system (PT, black line), the lungs (PL, blue line), and the chest (PW, green line) are plotted together with standard volumes for functional residual capacity and tidal volume.</p>\n<p><strong>Highyeild:</strong></p><p>The transmural pressure is intrapulmonary pressure minus intrapleural pressure in the case of the lungs, intrapleural pressure minus outside (barometric) pressure in the case of the chest wall, and intrapulmonary pressure minus barometric pressure in the case of the total respiratory system. From these curves, the total and actual elastic work associated with breathing can be derived.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A . A= Curve for chest wall; B= Curve for Lung; X= Residual Volume Option B . A= Curve for Lung; B= Curve for Chest wall; X= Residual Volume Option D. A= Curve for Lung; B= Curve for Chest wall; X= Functional Residual Capacity</p>\n<p><strong>Extraedge:</strong></p><p>The compliance curves of the isolated chest wall and lungs are plotted in black while the integrated compliance curve of the chest wall-lung unit is shown in blue. This blue curve represents the summation of the transmural pressures of the isolated chest wall and lungs at a given volume. When these pressures are precisely equal and opposing, the chest wall-lung unit is at equilibrium and, as seen, this occurs at the Functional Residual Capacity. Expansion of the lung-chest wall unit beyond the FRC requires positive transmural pressures, meaning that left alone the unit would collapse, yielding exhalation. Contraction of the lung-chest wall unit below the FRC requires negative transmural pressures, meaning that left alone the unit would expand, yielding spontaneous inhalation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "084ffab9",
+      "audio": ""
+    },
+    {
+      "text": "According to Weibel Airway Classification, there are 23 generations of airways. Which generation out of these shows the highest airway resistance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alveoli",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trachea",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Medium size airways",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Medium size airways",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Medium size airways According to the Weibel Airway classification, there are 23 generations. The maximum airway resistance is shown by medium size airways.</p>\n<p><strong>Highyeild:</strong></p><p>Since they have a lesser radius as compared tothe According to Poiseuille-Hegan law; resistance is inversely proportional to the fourth power of the radius of airways. The greatest amount of resistance to airflow occurs not in the tiny air passages of the terminal bronchioles but in some of the larger bronchioles and bronchi near the trachea. The reason for this high resistance is that there are relatively few of these larger bronchi in comparison with the approximately 65,000 parallel terminal bronchioles, through each of which only a minute amount of air must pass. So only option C is correct, the rest are false.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option B. First generation: Trachea - low resistance due to large diameter.</p>\n<p><strong>Extraedge:</strong></p><p>The airways in the respiratory system progressively divide into smaller and smaller branches, resulting in an increase in total cross-sectional area and a decrease in airway resistance. The order of airway generations and the corresponding level of airway resistance can be summarized as follows: First generation: Trachea - low resistance due to large diameter Second to fourth generation: Bronchi - low resistance due to large diameter and branching structure Fifth to sixteenth generation: Bronchioles - moderate resistance due to smaller diameter Seventeen to twenty-third generation: Terminal bronchioles - high resistance due to smallest diameter and the greatest number of airways.</p>\n<p><strong>Table:</strong></p><p>Respiratory Tree Conducting Zone:- Large airways consist of the nose, pharynx, larynx, trachea, and\n     bronchi. Airway resistance is highest in the large- to medium-sized bronchi. Small airways consist of bronchioles that further divide into\n     terminal bronchioles (large numbers in parallel least airway resistance). Warms, humidifies, and filters air but does not participate in gas\n     exchange\u201canatomic dead space.\u201d Cartilage and goblet cells extend to the end of the bronchi.\n     Pseudostratified ciliated columnar cells primarily make up the epithelium of the bronchus and extend to\n     the beginning of terminal bronchioles, then transition to cuboidal cells.\n     Clear mucus and debris from the lungs (mucociliary escalator). Airway smooth muscle cells extend to\n     the end of terminal bronchioles (sparse beyond this point). 2. Respiratory\nZone:- Lung parenchyma consists of respiratory bronchioles, alveolar\n     ducts, and alveoli. Participates in gas exchange. Mostly cuboidal cells in respiratory bronchioles, then simple\n     squamous cells up to alveoli.  Cilia terminate in respiratory\n     bronchioles. Alveolar macrophages clear debris and participate in the immune response.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dcf55070",
+      "audio": ""
+    },
+    {
+      "text": "With respect to fight or flight response, which neural pathway is attained by the body\u2019s respiratory system, and via which receptors it takes place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sympathetic \u2013 bronchodilation via beta 2 receptors.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Parasympathetic \u2013 bronchoconstriction via M3 receptors",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sympathetic \u2013 bronchoconstriction via M3 receptors",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Parasympathetic \u2013 bronchodilation via beta 2 receptors",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sympathetic \u2013 bronchodilation via beta 2 receptors.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sympathetic \u2013 bronchodilation via beta 2 receptors. With respect to the fight or flight response, the neural pathway attained by the body's respiratory system is the sympathetic pathway, and it takes place via beta 2 receptors. Therefore, the correct option is A) Sympathetic - bronchodilation via beta 2 receptors.</p>\n<p><strong>Highyeild:</strong></p><p>Under emergency situations like fight or flight response, the body's respiratory system attains sympathetic neural pathways which work via beta2 receptors. These hormones bind to beta 2 receptors present in the bronchial smooth muscle, causing relaxation and dilation of the airways (bronchodilation). This helps to increase the flow of air to the lungs, which is important in supplying the body with oxygen during times of stress or physical activity.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- The parasympathetic nervous system tends to have the opposite effect on the respiratory system, leading to bronchoconstriction via M3 receptors.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "404d08c5",
+      "audio": ""
+    },
+    {
+      "text": "Suppose you went to a hospital for a regular checkup of yours. For the checkup of your lungs, your doctor ordered pulmonary function tests by spirometry. While doing the procedure the technician asked you to breath in forcefully. Which accessory is muscle involved in forceful inspiration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scalenus",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Abdominal muscles",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Internal intercostal",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Scalenus",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Scalenus The accessory muscle involved in forceful inspiration during a pulmonary function test by spirometry is the scalenus muscle. Therefore, the correct option is A)</p>\n<p><strong>Highyeild:</strong></p><p>The scalenus muscle is a group of three muscles located in the neck that are involved in elevating the first two ribs during forceful inspiration. These muscles include the anterior, middle, and posterior scalenes. During deep or forceful inspiration, the scalene muscles contract to help increase the volume of the thoracic cavity and aid in the movement of air into the lungs.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- While the abdominal muscles are involved in forceful expiration, the internal intercostal muscles are involved in forced expiration, and not inspiration . Therefore, options B and C are incorrect, and the correct answer is A) Scalenus.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "90a94b29",
+      "audio": ""
+    },
+    {
+      "text": "A chest X-ray of a patient with left-sided heart failure indicates pulmonary edema. Additional examination probably would reveal which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased pulmonary artery pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased Pulmonary Lymph Flow",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increased Pulmonary Venous Pressure",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Normal arterial oxygen partial pressure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Increased Pulmonary Venous Pressure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Increased Pulmonary Venous Pressure As a result of the decrease in myocardial contractility , end-diastolic pressure in the left ventricle increases, leading to an increase in the pulmonary venous and pulmonary capillary pressures. The increased pulmonary capillary hydrostatic pressure leads to increased pulmonary capillary filtration, and when filtration exceeds lymph flow, pulmonary edema develops. Pulmonary artery pressure is likely to be increased in this condition. The edema interferes with gas exchange and with lung inflation; thus, arterial oxygen partial pressure and vital capacity will be decreased.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option A . Pulmonary artery pressure is likely to be increased in this condition . Option B. The increased pulmonary capillary hydrostatic pressure leads to increased pulmonary capillary filtration, and when filtration exceeds lymph flow, pulmonary edema develops . Option D . In this condition arterial oxygen partial pressure is not normal so it\u2019s incorrect.</p>\n<p><strong>Extraedge:</strong></p><p>Pulmonary edema results in ventilation-perfusion inequality and a decrease in the diffusion of oxygen, leading to a decrease in oxygen transfer and arterial oxygen partial pressure. In a normal person who is standing or sitting upright, both blood flow and alveolar ventilation are lowest at the top of the lung and greatest near the bottom of the lung.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "55c80447",
+      "audio": ""
+    }
+  ]
+}

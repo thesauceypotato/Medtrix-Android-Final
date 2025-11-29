@@ -1,0 +1,623 @@
+{
+  "meta": {
+    "id": "test38",
+    "title": "Pediatric_Endocrinology-Pediatric_Endocrinology_and_Metabolism",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following clinical features is most likely associated with severe Diabetic Ketoacidosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venous pH between 7.25 and 7.35, alert patient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Venous CO2 between 16 and 20 mEq/L, patient with mild fatigue",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Venous pH less than 7.15, patient with Kussmaul respirations and depressed sensorium",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Venous CO2 between 10 and 15 mEq/L, patient who is sleepy but arousable",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Venous pH less than 7.15, patient with Kussmaul respirations and depressed sensorium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:617px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous pH</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous CO2 (mEq/L)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Presentation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mild DKA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>7.25 - 7.35</p>\n<p><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>16 - 20</p>\n<p><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alert, possible fatigue.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate DKA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>7.15 - 7.25</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>10 - 15</p>\n<p><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kussmaul respirations, sleepy but arousable.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severe DKA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 7.15</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 10</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kussmaul or depressed respirations, sleepy to coma, severe <span class=\"customMeta\" data-dictid=\"113313e2e01692777189a8535b4b04\">hypernatremia</span> (Na+ > 150 mEq/L).</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NvQSsq6oSh9lYBi5K7xu1743040584.mp3",
+      "video": "",
+      "uid": "7c0768da"
+    },
+    {
+      "text": "A 17 y/o patient presents with symptoms of polyuria, polydipsia, and fatigue. The patient reports a family history of diabetes and has recently experienced weight loss. Genetic testing identifies a mutation in the GCK gene. Based on this information, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 1 Diabetes Mellitus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Type 2 Diabetes Mellitus",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Maturity Onset Diabetes of the Young",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Latent Autoimmune Diabetes of Adults",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Maturity Onset Diabetes of the Young",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type 1 diabetes mellitus</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type 2 diabetes mellitus</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Maturity onset diabetes of the</strong></p>\n<p><strong>young (MODY)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Latent <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> diabetes of adults (LADA/ T1.5 DM)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Age at diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>6 mo-18 yrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Puberty; rarely younger than 10 yrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Younger than 25 yrs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Age greater than 30 years</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Causes and genetic factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoimmune; genetic <span class=\"customMeta\" data-dictid=\"6fc754288b1692777196b7664d3a9a\">predisposition</span> (HLA and other genes)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Obesity; genetic and ethnic predisposition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autosomal dominant; HNF1A, HNF4A, GCK, HNF1B (rare)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Positive autoantibodies to <span class=\"customMeta\" data-dictid=\"769b87740c16927771907f5a83b1f8\">islet</span> \u03b2 cells; <span class=\"customMeta\" data-dictid=\"acfb68e3341692777188dea4dcdb1b\">glutamic acid</span> <span class=\"customMeta\" data-dictid=\"71aa164f75169277718559680376bd\">decarboxylase</span> <span class=\"customMeta\" data-dictid=\"9d7a12cab116927771811a0079086d\">antibody</span> is the most predominant.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Associated Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lean or weight loss at diagnosis; <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> autoimmunity; <span class=\"customMeta\" data-dictid=\"c2b5c161b71692777184c75775751a\">celiac</span> disease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Obesity; <span class=\"customMeta\" data-dictid=\"e4cbd4af34169277718043cb22ccb5\">acanthosis</span> nigricans; <span class=\"customMeta\" data-dictid=\"ba336eb30516927771960f9d9bd85c\">polycystic</span> ovarian syndrome; hypertension; hyperlipidemia; <span class=\"customMeta\" data-dictid=\"bc6cd9a9f9169277720261812ea113\">fatty</span> liver disease; family history</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lean or weight loss at diagnosis; GCK mutations are asymptomatic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Polyuria, polydipsia, nocturia, fatigue, visual changes, <span class=\"customMeta\" data-dictid=\"b7020a23961692777200b1237ae429\">tingling</span> in the feet, and weight loss; family history; low birth weight history</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diabetic <span class=\"customMeta\" data-dictid=\"27b295ed331692777190e5e04eaa18\">ketoacidosis</span> at presentation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Yes; about 25%</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Yes; 5\u201320%</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Insulin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lifestyle modification; metformin; insulin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sulfonylurea; no treatment for GCK mutations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Insulin; Dipeptidyl <span class=\"customMeta\" data-dictid=\"2d9da444c41692777195c76b4b998c\">peptidase</span> (DPP) 4 inhibitors</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Md1O4iKw1xO9u4dcOQfw1745546017.mp3",
+      "video": "",
+      "uid": "e2ba3626"
+    },
+    {
+      "text": "A 13-year-old female presents for a routine check-up. Physical examination reveals terminal pubic hair covering the entire pubic triangle and an elevated areola with a \u201cdouble scoop\u201d appearance. Which Tanner stage is most appropriate for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stage 2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stage 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stage 4",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Stage 5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stage 4",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/W2IMX1Djb4EnCWzFur3A1742216837.png",
+        "https://image.prepladder.com/notes/GQ3FsIDITUTrvbohKS6f1742216879.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TANNER STAGING</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pubic Hair Scale (both male and female)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Female Breast Development Scale</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Male External <span class=\"customMeta\" data-dictid=\"a6a00bd30e169277718892b3a6076c\">Genitalia</span> Scale</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage 1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No hair</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No <span class=\"customMeta\" data-dictid=\"c2f9d01ba91692777188d264244b6a\">glandular</span> breast tissue palpable</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Testicular volume < 4 ml or long <span class=\"customMeta\" data-dictid=\"3c28fd47f71692777182efbbaa5f6d\">axis</span> < 2.5 cm</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage 2 </strong><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Downy hair</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Breast bud</strong> <span class=\"customMeta\" data-dictid=\"bd478e4ff816927771949528846af9\">palpable</span> under the <span class=\"customMeta\" data-dictid=\"f206b2cc1e1692777182d953d68475\">areola</span> (1st pubertal sign in females)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4 ml-8 ml (or 2.5 to 3.3 cm long), 1st pubertal sign in males</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage 3 </strong><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Scant <span class=\"customMeta\" data-dictid=\"16b76d1d1c1692777200240efcb0e2\">terminal</span> hair</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast tissue <span class=\"customMeta\" data-dictid=\"bd478e4ff816927771949528846af9\">palpable</span> outside areola; no areolar development</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>9 ml-12 ml (or 3.4 to 4.0 cm long)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage 4</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Terminal hair that fills the entire <span class=\"customMeta\" data-dictid=\"d398f22bb71692777201622867bda7\">triangle</span> overlying the <span class=\"customMeta\" data-dictid=\"fff48ca9da16927771966fd16bbacc\">pubic</span> region</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Areola</strong> elevated above the <span class=\"customMeta\" data-dictid=\"21f826cc7316927771858a31dad57d\">contour</span> of the breast, forming a<strong> \u201cdouble scoop\u201d</strong> appearance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>15-20 ml (or 4.1 to 4.5 cm long)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage 5 </strong><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Terminal hair that extends beyond the inguinal <span class=\"customMeta\" data-dictid=\"52ba261a371692777185fc3cc4d7af\">crease</span> onto the thigh</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The areolar mound recedes into a single breast <span class=\"customMeta\" data-dictid=\"21f826cc7316927771858a31dad57d\">contour</span> with<strong> areolar hyperpigmentation</strong>, <span class=\"customMeta\" data-dictid=\"c948d4dca7169277719474a468ff5e\">papillae</span> development, and <strong>nipple protrusion.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>> 20 ml (or > 4.5 cm long)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Image</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"-\" data-author=\"NA\" data-hash=\"1110\" data-license=\"NA\" data-source=\"NA\" data-tags=\"March2025\" src=\"https://image.prepladder.com/notes/W2IMX1Djb4EnCWzFur3A1742216837.png\"/></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"-\" data-author=\"NA\" data-hash=\"1111\" data-license=\"NA\" data-source=\"NA\" data-tags=\"March2025\" src=\"https://image.prepladder.com/notes/GQ3FsIDITUTrvbohKS6f1742216879.png\"/></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/fx2rIUcSK9hXN4m4hXVD1745545890.mp3",
+      "video": "",
+      "uid": "57f1cae5"
+    },
+    {
+      "text": "A 5 y/o girl presents with early-onset and rapid progression of puberty, frequent laughing spells, and seizures. An MRI is performed and the image is given below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Craniopharyngioma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic hamartoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hydrocephalus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Head trauma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hypothalamic hamartoma",
+      "question_images": [
+        "https://image.prepladder.com/notes/fVXTdiUullziH9OR3gt41742216599.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/e4WrdLwm5mo9hzBn2gn11742216650.png",
+        "https://image.prepladder.com/notes/lKhBN1LKbEY1cExXWL1l1742216698.png",
+        "https://image.prepladder.com/notes/2SVz1wLKCw2LrDlE4xq61742216732.png",
+        "https://image.prepladder.com/notes/zCyMXQ0jkxoqwNOa6UEI1742216767.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GQQD4vWmioi7AaGmNEaA1745545797.mp3",
+      "video": "",
+      "uid": "3fdb8a03"
+    },
+    {
+      "text": "A 10 y/o boy presents with a 2-year history of weight gain. His height is in the 90th percentile, weight is in the 95th percentile, and there are no developmental delays or dysmorphic features. Both parents are obese, and there is no history of neurological issues or chronic medication use. What is the most likely cause of his obesity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cushing syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypothyroidism",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Constitutional obesity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Prader-Willi syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Constitutional obesity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Constitutional (Exogenous) Obesity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Pathological (Endogenous) Obesity</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Imbalance in energy <span class=\"customMeta\" data-dictid=\"6cdcd39cf2169277719068e247e38d\">intake</span> and expenditure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Endocrine, genetic, hypothalamic, or drug-related causes</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"6\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Aetiology</strong></p>\n</td>\n<td rowspan=\"6\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Environmental factors (95% cases)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Endocrine:</strong> Cushing syndrome, growth hormone deficiency, hypothyroidism, pseudohypoparathyroidism.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Hypothalamic: </strong>Head injury, infection, brain tumour, radiation, chemotherapy, following neurosurgery, ROHHAD(NET).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Drugs: </strong>Antiepileptic drugs, steroids, antidepressants, estrogen.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Genetic syndromes:</strong> Prader-Willi, Bardet-BiedI, Laurence-Moon, Beckwith-Wiedemann, Carpenter syndromes.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Monogenic disorders:</strong> <span class=\"customMeta\" data-dictid=\"fd76b18ec4169277719176f599a5ae\">Leptin</span> deficiency, or resistance (leptin <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> defect), abnormalities of melanocortin-4 <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> and proconvertase.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Psychological:</strong> Personal or parental stress, <span class=\"customMeta\" data-dictid=\"45c64c16b516927771832de6bd0523\">binge</span> eating.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Growth</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Normal or tall for age</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Decelerated <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> growth, height below genetic potential</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Body Fat Distribution</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Generalized obesity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Often central <span class=\"customMeta\" data-dictid=\"c5ff3f2d211692777194ddf14e24c4\">obesity</span> (Cushing syndrome)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Appetite</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Normal or slightly increased</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>May show excessive <span class=\"customMeta\" data-dictid=\"d4a253810c1692777181f708ba3dc6\">appetite</span> (e.g., hypothalamic lesions)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Family History</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Often positive for a family history of obesity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Family history may suggest genetic syndromes (e.g., Prader-Willi)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Developmental Delay/Dysmorphism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Absent specific <span class=\"customMeta\" data-dictid=\"42f9c667eb1692777186ff5013afc5\">dysmorphic</span> or <span class=\"customMeta\" data-dictid=\"87356352bc169277719923fcc93329\">syndromic</span> features</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>May be present (e.g., genetic syndromes like Bardet-Biedl)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/75KaywhsyTuU0J3mhK551745545665.mp3",
+      "video": "",
+      "uid": "e2d034e2"
+    },
+    {
+      "text": "A 7-year-old child with obesity is enrolled in a weight management program. The family is introduced to the Traffic Light Diet, and they struggle with understanding which foods should be prioritized for their child. Which of the following foods should be categorized as \"Yellow\" in the Traffic Light Diet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fried chicken",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Carrot sticks",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Whole grain bread",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Candy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Whole grain bread",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Green</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Yellow</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Red</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low-energy, high-nutrient foods</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moderate energy foods.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High-energy, low-nutrient foods.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Includes fruits and vegetables</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Includes grains and pulses.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Includes sweets, sweetened beverages, and fried foods.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can be eaten often.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Should be eaten in moderation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Should be eaten sparingly.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/rPMmVKtD7m7wvkOiSRZh1745500980.mp3",
+      "video": "",
+      "uid": "8760a40e"
+    },
+    {
+      "text": "A 5 y/o child presents with obesity, feeding difficulties in infancy, developmental delays, and a history of behavioural issues like anxiety and obsessive-compulsive disorder. O/E, you note small hands and dysmorphic facial features. Which genetic syndrome best describes the child\u2019s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prader-Willi Syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Laurence-Moon-Bardet-Biedl Syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Down Syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Turner Syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prader-Willi Syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prader-Willi Syndrome</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Laurence-Moon-Bardet-Biedl Syndrome(LMBBS)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>70% cases- Due to errors in <span class=\"customMeta\" data-dictid=\"fbdb2797c016927771884275f686aa\">genomic imprinting</span> due to a paternal deletion.</li>\n<li>25% cases- Due to <span class=\"customMeta\" data-dictid=\"a191a950d7169277719148e72a75e2\">maternal</span> <span class=\"customMeta\" data-dictid=\"12e1e505d8169277720189a6ea33dd\">uniparental</span> disomy.</li>\n<li><strong>Infantile Hypotonia:</strong>\n<ul>\n<li>Poor sucking reflex</li>\n<li>Feeding difficulties</li>\n</ul>\n</li>\n<li><strong>Dysmorphic <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">Facial</span> Features:</strong>\n<ul>\n<li>Narrow <span class=\"customMeta\" data-dictid=\"35aa36279d16927772031c7ce8d6e5\">frontal</span> diameter</li>\n<li>Almond-shaped palpebral fissures</li>\n<li>Slender <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> bridge</li>\n<li>Thin upper vermillion border with downturned mouth corners</li>\n<li>Small hands and <span class=\"customMeta\" data-dictid=\"32656dc8ba1692777202fc49f9ed13\">feet</span> (develop later)</li>\n</ul>\n</li>\n<li><strong>Developmental Delays:</strong>\n<ul>\n<li>Motor delay (milestones at half the usual pace)</li>\n<li>Intellectual and learning disabilities</li>\n</ul>\n</li>\n<li><strong>Behavioural Issues:</strong>\n<ul>\n<li>Anxiety</li>\n<li>Obsessive-compulsive disorder</li>\n</ul>\n</li>\n<li>Growth Hormone <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">Deficiency</span> (GHD)</li>\n<li>Hyperphagia and Obesity</li>\n<li>Hypogonadism</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Primary Features:</strong>\n<ul>\n<li>Rod and <span class=\"customMeta\" data-dictid=\"1c42c9fe83169277718486ee5a82e9\">cone</span> <span class=\"customMeta\" data-dictid=\"04568e3d19169277718672d9da94fd\">dystrophy</span> (night blindness)</li>\n<li>Polydactyly and polysyndactyly</li>\n<li>Central obesity</li>\n<li>Genital abnormalities (hypogonadism)</li>\n<li>Mental <span class=\"customMeta\" data-dictid=\"680dfbc5a5169277719748281f877e\">retardation</span> (learning disabilities)</li>\n</ul>\n</li>\n<li><strong>Secondary Features:</strong>\n<ul>\n<li>Developmental delay</li>\n<li>Diabetes mellitus (DM)</li>\n<li>Congenital heart disease</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/yJ1DtDKC6DekA76hYiWD1745500854.mp3",
+      "video": "",
+      "uid": "05359e31"
+    },
+    {
+      "text": "A 6-year-old girl with a BMI in the 98th percentile presents with lethargy, frequent thirst, increased urination, and dark patches on her neck. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 2 Diabetes Mellitus (T2DM) with associated obesity.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hypothyroidism with weight gain.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cystic Fibrosis-related diabetes (CFRD).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Adrenal insufficiency.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type 2 Diabetes Mellitus (T2DM) with associated obesity.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Obesity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Overweight</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Adult</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BMI \u2265 30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BMI between 25 and 30</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Children</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BMI \u2265 95th <span class=\"customMeta\" data-dictid=\"8b22fa5ed1169277719587132297ce\">percentile</span> for age and sex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BMI between 85th and 95th percentiles</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/CET7nvcQkaNDt551a3ty1743040843.mp3",
+      "video": "",
+      "uid": "a5bc913e"
+    },
+    {
+      "text": "A 12 y/o girl is undergoing treatment for diabetic ketoacidosis (DKA). After an initial bolus of 0.9% saline, she is started on an insulin infusion at 0.1 U/kg/h after an hour. Several hours later, her blood glucose level decreased to 260 mg/dL. What should be the next step in her management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase the insulin infusion rate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stop insulin therapy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Add 5% dextrose to the IV fluids",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Administer an additional bolus of 0.9% saline",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Add 5% dextrose to the IV fluids",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>DKA Management in Children</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h4><strong>Immediate Management (First Hour):</strong></h4>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Rapid Assessment:</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Evaluate the child's vital signs (heart rate, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> rate, blood pressure) and weight.</li>\n<li>Assess <span class=\"customMeta\" data-dictid=\"e37b435fd416927771886af66a9675\">GCS</span> and check for signs of dehydration.</li>\n<li>Obtain blood samples for urgent measurement of blood glucose, blood beta-hydroxybutyrate (BHB) if available, <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> pH, electrolytes (including bicarbonate), <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"38d4be106e169277720105b006c26b\">urea</span> nitrogen, and creatinine.</li>\n<li><strong>Serum BHB concentration</strong>: Most precise approach to measuring the severity of DKA</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Establish IV Access:</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Place two large-bore <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> IV lines. Central lines are generally avoided (risk of thrombosis) unless necessary.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Initial Fluid Resuscitation</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Administer a <span class=\"customMeta\" data-dictid=\"8d138d554c16927771835be732558c\">bolus</span> of 0.9% <span class=\"customMeta\" data-dictid=\"894da1dfe6169277719871d7210619\">saline</span> at a rate of 10-20 ml/kg over 20-30 minutes to restore <span class=\"customMeta\" data-dictid=\"f3739d892c1692777184b2e134615c\">circulatory</span> volume and address dehydration.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>After First Hour</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Initiate <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">Insulin</span> Therapy</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Start an <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">insulin</span> <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">infusion</span> at 0.05-0.1 U/kg/h, typically one hour after initiating fluids.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Continue Fluid Therapy</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>After the initial bolus, continue fluid replacement with 0.45% to 0.9% saline, to replace the estimated fluid deficit over 24 to 48 hours. Adjust fluids based on clinical status and laboratory values.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Monitoring and Replacing Electrolytes</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Begin<strong> <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> replacement </strong>once <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> output is confirmed as <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">insulin</span> causes K+ entry into cells leading to hypokalemia.</li>\n<li>Monitor vital signs, GCS, fluid balance, and <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> blood <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> every hour.</li>\n<li>Reassess electrolytes, blood glucose, blood <span class=\"customMeta\" data-dictid=\"38d4be106e169277720105b006c26b\">urea</span> nitrogen, calcium, magnesium, phosphate, blood gases, and BOHB every two hours if available.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h4><strong>Transition Phase (6-24 Hours):</strong></h4>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><u>Gradual Reduction of IV Fluids and</u></p>\n<p><u>transition to <span class=\"customMeta\" data-dictid=\"d446e62c6c1692777199896fc1d4b9\">subcutaneous</span> Insulin</u></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>As <span class=\"customMeta\" data-dictid=\"3232faac091692777186b1c8320945\">DKA</span> resolves and the child can tolerate oral intake, gradually reduce IV fluids while maintaining hydration.</li>\n<li>Transition to <span class=\"customMeta\" data-dictid=\"d446e62c6c1692777199896fc1d4b9\">subcutaneous</span> <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">insulin</span> once pH > 7.30, <span class=\"customMeta\" data-dictid=\"2311c3b4ac16927771831d4c919043\">bicarbonate</span> > 18 mmol/L, and BOHB < 1 mmol/L.</li>\n<li>Administer the first <span class=\"customMeta\" data-dictid=\"d446e62c6c1692777199896fc1d4b9\">subcutaneous</span> <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">insulin</span> dose 15-30 minutes before discontinuing the IV <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">insulin</span> infusion.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mtDXDhtsH3pXmQ9I3gkS1743040709.mp3",
+      "video": "",
+      "uid": "ca1f6112"
+    },
+    {
+      "text": "A 7y/o girl presents with early breast development and rapid growth. Examination shows Tanner's stage 3 breasts and her height is above the 90th percentile. Blood tests reveal elevated LH levels. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peripheral Precocious Puberty",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Constitutional delayed puberty",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Premature Thelarche",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Central Precocious Puberty",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Central Precocious Puberty",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:657px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Central <span class=\"customMeta\" data-dictid=\"58aedbfaa916927771960c11064ef0\">Precocious</span> <span class=\"customMeta\" data-dictid=\"c284c4252f16927771963c07a95e13\">Puberty</span> (CPP)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Peripheral <span class=\"customMeta\" data-dictid=\"58aedbfaa916927771960c11064ef0\">Precocious</span> <span class=\"customMeta\" data-dictid=\"c284c4252f16927771963c07a95e13\">Puberty</span> (PPP)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CPP is due to the early <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> of the hypothalamic-pituitary-gonadal axis, leading to the release of gonadotropins (LH and FSH) that stimulate the ovaries to produce estrogen.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>PPP results from <span class=\"customMeta\" data-dictid=\"a58dd68b011692777187eb72633aac\">estrogen</span> production independent of the hypothalamic-pituitary-gonadal axis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Common Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The most frequent cause in girls is idiopathic, with no identifiable underlying condition.</li>\n<li>Central nervous system abnormalities (e.g., hypothalamic hamartoma, glioma, hydrocephalus) are less common.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The most common cause in girls is estrogen-producing ovarian cysts, leading to fluctuating pubertal development and early <span class=\"customMeta\" data-dictid=\"9a1e50b8221692777201b95b66c9de\">vaginal</span> bleeding.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Girls with <span class=\"customMeta\" data-dictid=\"940b4b015c1692777185ffed9cddfc\">CPP</span> show <strong>advanced growth and bone age</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Girls with PPP may have symptoms related to the specific underlying condition, such as <strong>delayed <span class=\"customMeta\" data-dictid=\"627954967a1692777183a81869cece\">bone age</span> in hypothyroidism</strong> or <strong>skin <span class=\"customMeta\" data-dictid=\"b5f46d7e431692777195efd6b43e9f\">pigmentation</span> changes in McCune-Albright syndrome.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic Tests</strong>:</p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Basal LH and <span class=\"customMeta\" data-dictid=\"02315055441692777203a721dd9b19\">FSH</span> levels, a GnRH <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> test, and <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> (ultrasound, MRI) help <span class=\"customMeta\" data-dictid=\"c9001edbf216927771860f3475b44c\">differentiate</span> between <span class=\"customMeta\" data-dictid=\"940b4b015c1692777185ffed9cddfc\">CPP</span> and PPP.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>GnRH analogues </strong>can reverse early-onset <span class=\"customMeta\" data-dictid=\"940b4b015c1692777185ffed9cddfc\">CPP</span> and help with height if started before age 6. Stop GnRH analogs at age 11 or at <span class=\"customMeta\" data-dictid=\"627954967a1692777183a81869cece\">bone age</span> 12.5.</li>\n</ul>\n<ul>\n<li><strong>MPA</strong>: Used to delay postpone <span class=\"customMeta\" data-dictid=\"af76284ec71692777192c7c84b5dad\">menstruation</span> in girls with intellectual disability, but doesn\u2019t improve height.</li>\n<li><strong>Cyproterone</strong>: Another option for suppressing puberty.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hypothyroidism and Puberty</strong>: <span class=\"customMeta\" data-dictid=\"22d375381416927772009663d54998\">Thyroxine</span> replacement can reverse <span class=\"customMeta\" data-dictid=\"c284c4252f16927771963c07a95e13\">puberty</span> changes caused by hypothyroidism.</li>\n<li><strong>McCune-Albright Syndrome Treatment</strong>:\n\t\t\t\t<ul>\n<li><strong>Aromatase Inhibitors</strong>: Anastrozole, <span class=\"customMeta\" data-dictid=\"7a910d548c1692777191b14a31103d\">Letrozole</span> (to reduce <span class=\"customMeta\" data-dictid=\"a58dd68b011692777187eb72633aac\">estrogen</span> production)</li>\n<li><strong>Estrogen <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">Receptor</span> Antagonists</strong>: Tamoxifen, <span class=\"customMeta\" data-dictid=\"e04cf8d2bf16927772033e329fba84\">Fulvestrant</span> (to block <span class=\"customMeta\" data-dictid=\"a58dd68b011692777187eb72633aac\">estrogen</span> action)</li>\n</ul>\n</li>\n<li><strong>Ovarian Cysts</strong>: Treatment depends on the size and shape of the cysts.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ztNs0W90FmuNPzggau5F1743039253.mp3",
+      "video": "",
+      "uid": "5c25482f"
+    },
+    {
+      "text": "Which of the following insulin regimes is considered more flexible in terms of meal timing and carbohydrate intake?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basal-Bolus Regimen",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Three Daily Injection Regimen",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Once-daily injection of long-acting insulin only",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Twice-daily injection of short-acting insulin only",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Basal-Bolus Regimen",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/HCK90CtTrQVX3ARtZs8E1742215987.png",
+        "https://image.prepladder.com/notes/diodhSrVIpKqfktDWMDj1742216018.png"
+      ],
+      "explanation": "<p><strong>References:</strong></p>\n<ul><li>\u21b3 Mechanism: Continuous subcutaneous insulin infusion via battery-powered pumps.</li><li>\u21b3 Mechanism:</li><li>\u21b3 Advantages: Closer approximation of normal insulin profiles, flexible meal/snack timing.</li><li>\u21b3 Advantages:</li><li>\u21b3 Transition Timing: 6-12 months post-diagnosis, based on patient preference.</li><li>\u21b3 Transition Timing:</li><li>\u21b3 Three Daily Injection Regimen (Option B): Typically includes a mixture of short- and intermediate-acting insulins. While it provides good glucose control, it offers less flexibility compared to the basal-bolus regimen because meal timing needs to align with the insulin action peaks.</li><li>\u21b3 Three Daily Injection Regimen (Option B):</li><li>\u21b3 Once-daily injection of long-acting insulin only (Option C): This regimen is the least flexible because it does not account for meals, providing only basal coverage without bolus insulin.</li><li>\u21b3 Once-daily injection of long-acting insulin only (Option C):</li><li>\u21b3 Twice-daily injection of short-acting insulin only (Option D): This regimen is also less flexible since it requires strict meal timing to avoid hypoglycemia, with less ability to adjust for variations in carbohydrate intake.</li><li>\u21b3 Twice-daily injection of short-acting insulin only (Option D):</li></u\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/o1FTeK7yeV0yKNWL6ubn1743040395.mp3",
+      "video": "",
+      "uid": "4e4934dc"
+    },
+    {
+      "text": "Which of the following criteria is NOT diagnostic of Type 1 Diabetes Mellitus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A fasting plasma glucose level of \u2265 126 mg/dL.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A 2-hour plasma glucose level of \u2265 200 mg/dL on OGTT.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A random plasma glucose level of \u2265 180 mg/dL with symptoms of diabetes.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Haemoglobin A1c \u2265 6.5%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A random plasma glucose level of \u2265 180 mg/dL with symptoms of diabetes.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<thead>\n<tr>\n<th colspan=\"2\" scope=\"col\" style=\"vertical-align:top\">\n<h4><strong>Autoimmune Diseases</strong></h4>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Condition</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Description</strong></p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Chronic <span class=\"customMeta\" data-dictid=\"64dde002cc169277719101c149b36c\">Lymphocytic Thyroiditis</span> </strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>~20% of <span class=\"customMeta\" data-dictid=\"cad61b6b6e1692777200394dce72d9\">T1DM</span> patients have <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> antibodies.</p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Celiac Disease</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>7\u201315% of children with <span class=\"customMeta\" data-dictid=\"cad61b6b6e1692777200394dce72d9\">T1DM</span> develop <span class=\"customMeta\" data-dictid=\"c2b5c161b71692777184c75775751a\">celiac</span> disease within 6 years of diagnosis.</p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Autoimmune <span class=\"customMeta\" data-dictid=\"f955f012f716927771801d01e7d163\">Adrenal</span> Insufficiency</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Indicated by decreased <span class=\"customMeta\" data-dictid=\"b47c9c6144169277719010eaa1a0ee\">insulin</span> needs, skin pigmentation, salt craving, weakness, asthenia, postural hypotension, or <span class=\"customMeta\" data-dictid=\"f955f012f716927771801d01e7d163\">adrenal</span> crisis.</p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Atrophic Gastritis</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Correlated with antibodies to <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> <span class=\"customMeta\" data-dictid=\"51df38de3d1692777194ced4c4bab5\">parietal</span> cells.</p>\n</th>\n</tr>\n<tr>\n<th colspan=\"2\" scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Genetic Disorders</strong></p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>IPEX syndrome</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>Immune dysfunction, polyendocrinopathy, enteropathy, X-linked; <strong>FOXP3</strong> gene mutation.</p>\n</th>\n</tr>\n<tr>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p><strong>Wolfram syndrome</strong></p>\n</th>\n<th scope=\"col\" style=\"vertical-align:top\">\n<p>DIDMOD: diabetes insipidus, diabetes mellitus, <span class=\"customMeta\" data-dictid=\"1b9a354cdb1692777194802683234d\">optic</span> atrophy, deafness; Autosomal <span class=\"customMeta\" data-dictid=\"d54db2110416927771971e7c011a9f\">recessive</span> disease; <strong>WFS1</strong> gene mutation.</p>\n</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>APS-1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoimmune <span class=\"customMeta\" data-dictid=\"89acf4298a16927771963f5160ab8d\">polyendocrinopathy</span> syndrome type 1; <strong>AIRE </strong>gene mutation.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/vt98Y4AGUGLAFe0WfGS51743040288.mp3",
+      "video": "",
+      "uid": "b0aec4a1"
+    },
+    {
+      "text": "A 16 y/o girl with normal breast development presents with primary amenorrhea. An ultrasound shows an absent uterus and undescended testes. Laboratory results reveal elevated androgen levels, normal estrogen levels, and a 46, XY karyotype. A mutation in the AR gene is confirmed. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete Androgen Insensitivity Syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Partial Androgen Insensitivity Syndrome",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mild Androgen Insensitivity Syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Klinefelter Syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Complete Androgen Insensitivity Syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>References:</strong></p>\n<ul><li>\u21b3 Complete Androgen Insensitivity Syndrome (CAIS) Partial Androgen Insensitivity Syndrome (PAIS) Mild Androgen Insensitivity Syndrome (MAIS)</li><li>\u21b3 Complete Androgen Insensitivity Syndrome (CAIS)</li><li>\u21b3 Complete Androgen Insensitivity Syndrome (CAIS)</li><li>\u21b3 Complete Androgen Insensitivity Syndrome (CAIS)</li><li>\u21b3 Partial Androgen Insensitivity Syndrome (PAIS)</li><li>\u21b3 Partial Androgen Insensitivity Syndrome (PAIS)</li><li>\u21b3 Partial Androgen Insensitivity Syndrome (PAIS)</li><li>\u21b3 Mild Androgen Insensitivity Syndrome (MAIS)</li><li>\u21b3 Mild Androgen Insensitivity Syndrome (MAIS)</li><li>\u21b3 Mild Androgen Insensitivity Syndrome (MAIS)</li><li>\u21b3 Clinical Features Female external appearance with normal breast development. Short vagina Absent uterus and fallopian tubes Undescended testes Primary amenorrhea Infertility. Variable genitalia ranging from predominantly female with clitoromegaly to predominantly male with micropenis. Gynecomastia Bifid scrotum Undescended testes Virilization. Male genitalia with micropenis Gynecomastia, Impaired fertility.</li><li>\u21b3 Clinical Features</li><li>\u21b3 Clinical Features</li><li>\u21b3 Clinical Features</li><li>\u21b3 Female external appearance with normal breast development. Short vagina Absent uterus and fallopian tubes Undescended testes Primary amenorrhea Infertility.</li><li>\u21b3 Female external appearance with normal breast development. Short vagina Absent uterus and fallopian tubes Undescended testes Primary amenorrhea Infertility.</li><li>\u21b3 Female external appearance with normal breast development.</li><li>\u21b3 Short vagina</li><li>\u21b3 Absent uterus and fallopian tubes</li><li>\u21b3 Undescended testes</li><li>\u21b3 Primary amenorrhea</li><li>\u21b3 Infertility.</li><li>\u21b3 Variable genitalia ranging from predominantly female with clitoromegaly to predominantly male with micropenis. Gynecomastia Bifid scrotum Undescended testes Virilization.</li><li>\u21b3 Variable genitalia ranging from predominantly female with clitoromegaly to predominantly male with micropenis. Gynecomastia Bifid scrotum Undescended testes Virilization.</li><li>\u21b3 Variable genitalia ranging from predominantly female with clitoromegaly to predominantly male with micropenis.</li><li>\u21b3 Gynecomastia</li><li>\u21b3 Bifid scrotum</li><li>\u21b3 Undescended testes</li><li>\u21b3 Virilization.</li><li>\u21b3 Male genitalia with micropenis Gynecomastia, Impaired fertility.</li><li>\u21b3 Male genitalia with micropenis Gynecomastia, Impaired fertility.</li><li>\u21b3 Male genitalia with micropenis</li><li>\u21b3 Gynecomastia,</li><li>\u21b3 Impaired fertility.</li><li>\u21b3 Diagnosis Suspected in a phenotypically female individual with a 46, XY karyotype, inguinal hernia with testes, elevated testosterone and LH, normal estradiol, confirmed by AR gene mutation. Suspected with ambiguous genitalia or undervirilization, elevated testosterone, and LH, confirmed by AR gene mutation. Clinical features and AR gene mutation testing.</li><li>\u21b3 Diagnosis</li><li>\u21b3 Diagnosis</li><li>\u21b3 Diagnosis</li><li>\u21b3 Suspected in a phenotypically female individual with a 46, XY karyotype, inguinal hernia with testes, elevated testosterone and LH, normal estradiol, confirmed by AR gene mutation.</li><li>\u21b3 Suspected in a phenotypically female individual with a 46, XY karyotype, inguinal hernia with testes, elevated testosterone and LH, normal estradiol, confirmed by AR gene mutation.</li><li>\u21b3 Suspected with ambiguous genitalia or undervirilization, elevated testosterone, and LH, confirmed by AR gene mutation.</li><li>\u21b3 Suspected with ambiguous genitalia or undervirilization, elevated testosterone, and LH, confirmed by AR gene mutation.</li><li>\u21b3 Clinical features and AR gene mutation testing.</li><li>\u21b3 Clinical features and AR gene mutation testing.</li><li>\u21b3 Treatment Gonadectomy to prevent malignancy risk, estrogen replacement, vaginal dilation, and psychological support. Based on undervirilization, fertility potential, and preference, may include gonadectomy, hormone therapy, genital reconstructive surgery, and psychological support. Supportive care, psychological counselling, and fertility evaluation.</li><li>\u21b3 Treatment</li><li>\u21b3 Treatment</li><li>\u21b3 Treatment</li><li>\u21b3 Gonadectomy to prevent malignancy risk, estrogen replacement, vaginal dilation, and psychological support.</li><li>\u21b3 Gonadectomy to prevent malignancy risk, estrogen replacement, vaginal dilation, and psychological support.</li><li>\u21b3 Based on undervirilization, fertility potential, and preference, may include gonadectomy, hormone therapy, genital reconstructive surgery, and psychological support.</li><li>\u21b3 Based on undervirilization, fertility potential, and preference, may include gonadectomy, hormone therapy, genital reconstructive surgery, and psychological support.</li><li>\u21b3 Supportive care, psychological counselling, and fertility evaluation.</li><li>\u21b3 Supportive care, psychological counselling, and fertility evaluation.</li><li>\u21b3 Partial Androgen Insensitivity Syndrome (Option B): In PAIS, the body has partial responsiveness to androgens, leading to a wide range of phenotypes, from ambiguous genitalia to predominantly male or female external genitalia with varying degrees of virilization. They typically have ambiguous genitalia, not the normal female external genitalia seen in this case. They do not have normal breast development as eitherl.</li><li>\u21b3 Partial Androgen Insensitivity Syndrome (Option B):</li><li>\u21b3 Mild Androgen Insensitivity Syndrome (Option C ): Patients with MAIS usually have normal male genitalia and only minor defects such as infertility or gynecomastia. They do not present with female external genitalia or primary amenorrhea,</li><li>\u21b3 Mild Androgen Insensitivity Syndrome (Option C ):</li><li>\u21b3 Klinefelter Syndrome (Option D): This option is incorrect because Klinefelter Syndrome is characterized by a 47, XXY karyotype, not a 46, XY karyotype, and typically presents with male genitalia and gynecomastia, which does not fit the patient\u2019s presentation of female external features and absent uterus.</li><li>\u21b3 Klinefelter Syndrome (Option D):</li></ul>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complete <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">Androgen</span> <span class=\"customMeta\" data-dictid=\"f1fcf0370516927771902bff983613\">Insensitivity</span> Syndrome (CAIS)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Partial <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">Androgen</span> <span class=\"customMeta\" data-dictid=\"f1fcf0370516927771902bff983613\">Insensitivity</span> Syndrome (PAIS)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mild <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">Androgen</span> <span class=\"customMeta\" data-dictid=\"f1fcf0370516927771902bff983613\">Insensitivity</span> Syndrome (MAIS)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Female external appearance with normal breast development.</li>\n<li>Short vagina</li>\n<li>Absent <span class=\"customMeta\" data-dictid=\"0c847ca20416927772011b3397c2fd\">uterus</span> and <span class=\"customMeta\" data-dictid=\"efc83dab2c1692777202b5d1d06c4f\">fallopian</span> tubes</li>\n<li>Undescended testes</li>\n<li>Primary amenorrhea</li>\n<li>Infertility.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Variable <span class=\"customMeta\" data-dictid=\"a6a00bd30e169277718892b3a6076c\">genitalia</span> ranging from predominantly female with <span class=\"customMeta\" data-dictid=\"1c1dc9fb531692777184f5fb0ec505\">clitoromegaly</span> to predominantly male with micropenis.</li>\n<li>Gynecomastia</li>\n<li>Bifid scrotum</li>\n<li>Undescended testes</li>\n<li>Virilization.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Male <span class=\"customMeta\" data-dictid=\"a6a00bd30e169277718892b3a6076c\">genitalia</span> with micropenis</li>\n<li>Gynecomastia,</li>\n<li>Impaired fertility.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suspected in a phenotypically female individual with a 46, XY karyotype, inguinal <span class=\"customMeta\" data-dictid=\"9cf1b2a8bc16927771899480554f5a\">hernia</span> with testes, elevated <span class=\"customMeta\" data-dictid=\"e54a6646c1169277720031d162bd75\">testosterone</span> and LH, normal estradiol, confirmed by AR gene mutation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suspected with <span class=\"customMeta\" data-dictid=\"572b7955301692777181b851625681\">ambiguous genitalia</span> or undervirilization, elevated testosterone, and LH, confirmed by AR gene mutation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Clinical features and AR gene <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> testing.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gonadectomy to prevent <span class=\"customMeta\" data-dictid=\"0c7efd2b8716927771914c8cb19e54\">malignancy</span> risk, <span class=\"customMeta\" data-dictid=\"a58dd68b011692777187eb72633aac\">estrogen</span> replacement, <span class=\"customMeta\" data-dictid=\"9a1e50b8221692777201b95b66c9de\">vaginal</span> dilation, and psychological support.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Based on undervirilization, <span class=\"customMeta\" data-dictid=\"2238ef34bc16927772024c3becf614\">fertility</span> potential, and preference, may include gonadectomy, hormone therapy, <span class=\"customMeta\" data-dictid=\"0e919a208b16927771885d9c1f6662\">genital</span> reconstructive surgery, and psychological support.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Supportive care, psychological counselling, and <span class=\"customMeta\" data-dictid=\"2238ef34bc16927772024c3becf614\">fertility</span> evaluation.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/q8c22Q6eILkkaACBfS801743040159.mp3",
+      "video": "",
+      "uid": "ad7f9f38"
+    },
+    {
+      "text": "Which of the following conditions is classified as a 46, XY DSD?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Placental aromatase deficiency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "17\u03b2-HSD deficiency",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Klinefelter syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "21-hydroxylase deficiency",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 17\u03b2-HSD deficiency",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:622px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Karyotype</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Condition</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"12\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>46, XX DSD</strong></p>\n</td>\n<td rowspan=\"9\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Androgen Excess</strong></p>\n</td>\n<td rowspan=\"9\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Congenital <span class=\"customMeta\" data-dictid=\"f955f012f716927771801d01e7d163\">adrenal</span> <span class=\"customMeta\" data-dictid=\"4c5d5ef6c31692777189820d4b320d\">hyperplasia</span> (CAH)\n\t\t\t\t<ul>\n<li>21-hydroxylase <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> <strong>(Option D)</strong></li>\n<li>11\u00df-hydroxylase deficiency</li>\n<li>3\u03b2-HSD deficiency</li>\n<li>POR deficiency</li>\n</ul>\n</li>\n<li>Placental <span class=\"customMeta\" data-dictid=\"b249ba1c6a16927771821b83b1fd9b\">aromatase</span> <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> <strong>(Option A)</strong></li>\n<li>Maternal <span class=\"customMeta\" data-dictid=\"b444230b6c16927772022f49b391b7\">virilizing</span> tumors</li>\n<li>Maternal <span class=\"customMeta\" data-dictid=\"eba893313f16927771906290ce7e79\">ingestion</span> of <span class=\"customMeta\" data-dictid=\"6b8cd2ccb91692777181ea2591a76a\">androgenic</span> drugs</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Abnormal Gonadal Developments</strong></p>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Ovotesticular DSDs</li>\n<li>46, XX testicular <span class=\"customMeta\" data-dictid=\"0b5b08cc611692777186d5ebda3d4e\">DSD</span> (SRY+, SOX9 duplication)</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"14\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>46, XY DSD</strong></p>\n</td>\n<td rowspan=\"11\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Disorders of <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">Androgen</span> <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">Synthesis</span> or Actions</strong></p>\n</td>\n<td rowspan=\"11\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Congenital <span class=\"customMeta\" data-dictid=\"f955f012f716927771801d01e7d163\">adrenal</span> <span class=\"customMeta\" data-dictid=\"4c5d5ef6c31692777189820d4b320d\">hyperplasia</span> (CAH)\n\t\t\t\t<ul>\n<li>StAR deficiency</li>\n<li>3\u03b2-HSD deficiency</li>\n<li>17-hydroxylase/17,20-lyase deficiency</li>\n<li>POR deficiency</li>\n</ul>\n</li>\n<li>17\u03b2-HSD <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> <strong>(Option B)</strong></li>\n<li>5\u03b1-reductase deficiency: Types I and II</li>\n<li>Androgen <span class=\"customMeta\" data-dictid=\"f1fcf0370516927771902bff983613\">insensitivity</span> syndrome: Complete or partial</li>\n<li>Smith-Lemli-Opitz syndrome</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Abnormal Gonadal Development</strong></p>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Gonadal dysgenesis: Complete or partial</li>\n<li>Gonadal regression</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Sex Chromosomal DSD</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>45, X</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Turner syndrome and variants.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>47, XXY</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Klinefelter syndrome and variants. <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>45,X/46,XY</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Mixed gonadal dysgenesis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>46, XX/46, XY</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Chimeric, ovotesticular DSD.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/9WR2YJJemjpNz7DpXQQs1743040006.mp3",
+      "video": "",
+      "uid": "0a5886f5"
+    },
+    {
+      "text": "A 24-week-old fetus is found to have ambiguous genitalia during a routine ultrasound. Karyotyping reveals a 46, XY chromosomal pattern. Ultrasound and examination indicate underdeveloped male internal genitalia and features more typical of female external genitalia. Which of the following is the most likely explanation for this presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deficient Expression of SRY",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Excessive SOX9 Activity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Absent AMH Production",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreased DAX1 Expression",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Deficient Expression of SRY",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/r4Kn6YpBIydD4TTRTTtB1742215904.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/p5AUUUUD2nmYXgCB9Vf61743039825.mp3",
+      "video": "",
+      "uid": "ac32c75c"
+    },
+    {
+      "text": "A 14-year-old boy presents with delayed puberty and is significantly below the 3rd percentile for height. His laboratory tests reveal low levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). What is the most likely cause of his delayed puberty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constitutional Delay",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypogonadotropic Hypogonadism",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hypergonadotropic Hypogonadism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Klinefelter Syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hypogonadotropic Hypogonadism",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>DELAYED PUBERTY</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypergonadotropic Hypogonadism</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>In Girls</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>In Boys</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Gonadal dysgenesis: Turner syndrome, 46, XY with SRY deletion, <span class=\"customMeta\" data-dictid=\"5e54fdc4d3169277720003f231621d\">trisomy</span> 18, 13, 21.</li>\n<li>Steroidogenic defects: StAR, 17\u03b1-hydroxylase, 17\u03b2-hydroxysteroid dehydrogenase, or <span class=\"customMeta\" data-dictid=\"b249ba1c6a16927771821b83b1fd9b\">aromatase</span> deficiency.</li>\n<li>Ovarian insults: Surgery, radiation, alkylating agents, infections.</li>\n<li>Autoimmune ovarian failure: <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">Autoimmune</span> polyendocrinopathy</li>\n<li>Gonadotropin resistance: LH and <span class=\"customMeta\" data-dictid=\"02315055441692777203a721dd9b19\">FSH</span> <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> mutations.</li>\n</ul>\n</td>\n<td rowspan=\"7\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Chromosomal abnormalities: Klinefelter syndrome, gonadal dysgenesis</li>\n<li>Steroidogenic defects: StAR, 17\u03b1-hydroxylase, 17\u03b2-hydroxysteroid <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">dehydrogenase</span> deficiency, Smith-Lemli-Opitz syndrome</li>\n<li>Testicular insults: Radiotherapy, chemotherapy, trauma, torsion, infections</li>\n<li>Malformations: Vanishing <span class=\"customMeta\" data-dictid=\"4269f77ac216927772001f9b8edeb9\">testis</span> syndrome, cryptorchidism</li>\n<li>Inefficient <span class=\"customMeta\" data-dictid=\"e54a6646c1169277720031d162bd75\">testosterone</span> action: 5\u03b1-reductase deficiency.</li>\n<li>Resistance to <span class=\"customMeta\" data-dictid=\"e54a6646c1169277720031d162bd75\">testosterone</span> action: <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">Androgen</span> <span class=\"customMeta\" data-dictid=\"f1fcf0370516927771902bff983613\">insensitivity</span> syndrome.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Isolated <span class=\"customMeta\" data-dictid=\"5d8a1011e31692777181375a96c9c8\">Amenorrhea</span> in Girls</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Structural malformations: <span class=\"customMeta\" data-dictid=\"0b31da4446169277719292c6fbfad2\">M\u00fcllerian</span> agenesis, <span class=\"customMeta\" data-dictid=\"9a1e50b8221692777201b95b66c9de\">vaginal</span> septum, <span class=\"customMeta\" data-dictid=\"51aedf4b7a1692777189224a776ed8\">imperforate</span> hymen.</li>\n<li>Inefficient <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">androgen</span> action: 46, XY with complete <span class=\"customMeta\" data-dictid=\"426898277b1692777181c2186c29da\">androgen</span> <span class=\"customMeta\" data-dictid=\"f1fcf0370516927771902bff983613\">insensitivity</span> syndrome.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:632px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>DELAYED PUBERTY</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Hypogonadotropic Hypogonadism</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Transient Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Permanent Causes</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Self-limited <span class=\"customMeta\" data-dictid=\"00a861650a16927771866585ca51c1\">delayed puberty</span> (constitutional delay): Most common in boys, less frequent in girls</li>\n<li>Systemic disorders: <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> failure, liver disease, <span class=\"customMeta\" data-dictid=\"c2b5c161b71692777184c75775751a\">celiac</span> disease, <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> <span class=\"customMeta\" data-dictid=\"98d387b7bd1692777201278b27be72\">tubular</span> acidosis, <span class=\"customMeta\" data-dictid=\"38c41e122116927771859b63deb0ed\">cystic</span> fibrosis</li>\n<li>Nutritional disorders: Malnutrition, <span class=\"customMeta\" data-dictid=\"8deb4a7e2b1692777181c91be40ed9\">anorexia</span> nervosa</li>\n<li>Endocrine disorders: Hypothyroidism, hyperprolactinemia, <span class=\"customMeta\" data-dictid=\"ebcb7136251692777201ef4b5c5718\">type 1</span> diabetes</li>\n</ul>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Isolated hypogonadotropic hypogonadism</li>\n<li>Genetic mutations: KAL1, GnRH receptor, LH, FSH, CHD7, DAX1 gene.</li>\n<li>Dysmorphic syndromes: Prader-Willi, Laurence-Moon, Bardet-Biedl</li>\n<li>Multiple <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> hormone deficiencies</li>\n<li>Malformations: Holoprosencephaly, septo-optic dysplasia, midline defects</li>\n<li>Genetic disorders: PROP1, LH gene deletions</li>\n<li>Brain tumours: Craniopharyngioma, germinoma, glioma</li>\n<li>Brain injury: Surgery, infection, radiation, trauma</li>\n<li>Infiltrative disorders: Histiocytosis, <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> disorders</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GX5OY87m2oRIWEaEQg0t1743039674.mp3",
+      "video": "",
+      "uid": "2474154d"
+    },
+    {
+      "text": "A 7 y/o boy is evaluated due to early signs of puberty, including the development of pubic hair, a noticeable growth spurt, increased testicular volume, and significantly advanced bone age. Blood tests show elevated basal luteinizing hormone (LH) levels. What is the most probable cause of his early pubertal development?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central precocious puberty",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Peripheral precocious puberty due to congenital adrenal hyperplasia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Peripheral precocious puberty due to an hCG-secreting tumour",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Peripheral precocious puberty due to an androgen-secreting testicular tumour",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Central precocious puberty",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ZlQn34MiXOtSweIbls4T1743039553.mp3",
+      "video": "",
+      "uid": "641c99da"
+    },
+    {
+      "text": "A 5 y/o girl is brought to the clinic with a history of irregular vaginal bleeding, early breast development and an advanced bone age. The examination findings of her skin are given below. What is the underlying cause of her symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "McCune-Albright syndrome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Central precocious puberty",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypothyroidism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Adrenal hyperplasia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. McCune-Albright syndrome",
+      "question_images": [
+        "https://image.prepladder.com/notes/fU6FoHw69iv5nI0xe3lO1742215755.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/fU6FoHw69iv5nI0xe3lO1742215755.png",
+        "https://image.prepladder.com/notes/mXPNNesHQfV3F5eMhI2k1742215835.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"-\" data-author=\"Claudia E Dumitrescu, Michael T Collins\" data-hash=\"1100\" data-license=\"CC BY 2.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Mccune-albrightsyndrome1.jpg\" data-tags=\"March2025\" src=\"https://image.prepladder.com/notes/fU6FoHw69iv5nI0xe3lO1742215755.png\"/>\n<p style=\"text-align:center\"><strong>Cafe-au-lait spots</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"-\" data-author=\"na\" data-hash=\"1101\" data-license=\"na\" data-source=\"na\" data-tags=\"March2025\" src=\"https://image.prepladder.com/notes/mXPNNesHQfV3F5eMhI2k1742215835.png\"/>\n<p style=\"text-align:center\"><strong>McCune Albright syndrome triad</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/37YYAVb7bDxcmvXjq6Pz1743039405.mp3",
+      "video": "",
+      "uid": "c89a102c"
+    }
+  ]
+}

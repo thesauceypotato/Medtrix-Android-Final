@@ -1,0 +1,1176 @@
+{
+  "meta": {
+    "id": "test23",
+    "title": "Screening of Disease",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "In a lecture on biostatistics and diagnostic testing, the concept of the Receiver Operator Characteristic (ROC) curve is introduced. The ROC curve is a graphical representation used to assess the diagnostic ability of a test across various thresholds. It is a tool commonly used to evaluate the performance of diagnostic tests in medicine. What are the two parameters between which the ROC curve is usually drawn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity and specificity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative predictive value and (1-Sensitivity)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sensitivity and (1-specificity)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Positive predictive value and specificity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sensitivity and (1-specificity)",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/15/image.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Sensitivity and (1-specificity)</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 RECEIVER OPERATOR CHARACTERISTIC (ROC) CURVE</li><li>\u2022 RECEIVER OPERATOR CHARACTERISTIC (ROC) CURVE</li><li>\u2022 Is a graphical representation between sensitivity and specificity of a diagnostic test ROC curve is drawn between Sensitivity and (1 \u2013 Specificity) ROC curve is drawn between True positives and False positive error rate In clinical tests, ROC curve is used to determine a cut-off point ROC curve is equivalent to Likelihood ratio for a positive result (LR+) Types of ROC curves: Straight line at 45\u00ba: No benefit by this test/cut-off Straight lines above 45\u00ba line: Fair, Good results by this test/cut-off Uppermost line touching Y-axis and then horizontal line: Excellent results by this test/cut-off (Perfect ROC: 100% sensitivity & 100% specificity).</li><li>\u2022 Is a graphical representation between sensitivity and specificity of a diagnostic test</li><li>\u2022 Is a graphical representation between sensitivity and specificity of a diagnostic test</li><li>\u2022 graphical representation</li><li>\u2022 sensitivity</li><li>\u2022 specificity</li><li>\u2022 diagnostic test</li><li>\u2022 ROC curve is drawn between Sensitivity and (1 \u2013 Specificity)</li><li>\u2022 ROC curve is drawn between Sensitivity and (1 \u2013 Specificity)</li><li>\u2022 Sensitivity and (1 \u2013 Specificity)</li><li>\u2022 ROC curve is drawn between True positives and False positive error rate</li><li>\u2022 ROC curve is drawn between True positives and False positive error rate</li><li>\u2022 True positives and False positive error rate</li><li>\u2022 In clinical tests, ROC curve is used to determine a cut-off point</li><li>\u2022 In clinical tests, ROC curve is used to determine a cut-off point</li><li>\u2022 ROC curve is equivalent to Likelihood ratio for a positive result (LR+)</li><li>\u2022 ROC curve is equivalent to Likelihood ratio for a positive result (LR+)</li><li>\u2022 Types of ROC curves: Straight line at 45\u00ba: No benefit by this test/cut-off Straight lines above 45\u00ba line: Fair, Good results by this test/cut-off Uppermost line touching Y-axis and then horizontal line: Excellent results by this test/cut-off (Perfect ROC: 100% sensitivity & 100% specificity).</li><li>\u2022 Types of ROC curves:</li><li>\u2022 Straight line at 45\u00ba: No benefit by this test/cut-off Straight lines above 45\u00ba line: Fair, Good results by this test/cut-off Uppermost line touching Y-axis and then horizontal line: Excellent results by this test/cut-off (Perfect ROC: 100% sensitivity & 100% specificity).</li><li>\u2022 Straight line at 45\u00ba: No benefit by this test/cut-off</li><li>\u2022 Straight line at 45\u00ba: No benefit by this test/cut-off</li><li>\u2022 Straight lines above 45\u00ba line: Fair, Good results by this test/cut-off</li><li>\u2022 Straight lines above 45\u00ba line: Fair, Good results by this test/cut-off</li><li>\u2022 Uppermost line touching Y-axis and then horizontal line: Excellent results by this test/cut-off (Perfect ROC: 100% sensitivity & 100% specificity).</li><li>\u2022 Uppermost line touching Y-axis and then horizontal line: Excellent results by this test/cut-off (Perfect ROC: 100% sensitivity & 100% specificity).</li><li>\u2022 USES OF ROC CURVES</li><li>\u2022 USES OF ROC CURVES</li><li>\u2022 Determining the threshold for screening/diagnosis of a positive test Comparison of two or more screening/diagnosis tests of a disease with each other</li><li>\u2022 Determining the threshold for screening/diagnosis of a positive test</li><li>\u2022 Determining the threshold for screening/diagnosis of a positive test</li><li>\u2022 Comparison of two or more screening/diagnosis tests of a disease with each other</li><li>\u2022 Comparison of two or more screening/diagnosis tests of a disease with each other</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 ROC curve is drawn between Sensitivity and (1 \u2013 Specificity)</li><li>\u27a4 ROC curve</li><li>\u27a4 Sensitivity</li><li>\u27a4 Ref : AFMC Textbook, pg 167</li><li>\u27a4 Ref : AFMC Textbook, pg 167</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ce2e0212",
+      "audio": ""
+    },
+    {
+      "text": "In a detailed session on the evaluation of screening tests in a clinical setting, the focus is placed on understanding the validity of these tests. Validity involves the accuracy with which a test measures what it is intended to. Among the following statements, which accurately describes a relationship true with respect to the validity of a screening test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity = 1 \u2013 specificity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Positive predictive value = 1 \u2013 Negative predictive value",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sensitivity is inversely proportional to specificity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sensitivity = 1 - Positive predictive value",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sensitivity is inversely proportional to specificity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Sensitivity is inversely proportional to specificity.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Sensitivity and specificity are inversely related.</li><li>\u2022 Sensitivity</li><li>\u2022 specificity</li><li>\u2022 inversely related.</li><li>\u2022 Sensitivity and specificity often have an inverse relationship in many screening tests, meaning as one increases , the other may decrease . This is due to the trade-off between correctly identifying as many true cases as possible (sensitivity) and correctly ruling out as many non-cases as possible (specificity).</li><li>\u2022 Sensitivity</li><li>\u2022 specificity</li><li>\u2022 inverse relationship</li><li>\u2022 screening tests,</li><li>\u2022 one increases</li><li>\u2022 decrease</li><li>\u2022 trade-off</li><li>\u2022 correctly identifying</li><li>\u2022 correctly ruling out</li><li>\u2022 non-cases as possible</li><li>\u2022 Validity \u2013 It refers to the extent till which the test can accurately measure the values which it purports to measure . It is the accuracy with which the measured values agree with the true values.</li><li>\u2022 Validity \u2013</li><li>\u2022 extent till which the test can accurately measure</li><li>\u2022 values</li><li>\u2022 purports to measure</li><li>\u2022 It has two components \u2013 Sensitivity and Specificity . Both, together with predictive accuracy are inherent properties of the screening test.</li><li>\u2022 two components</li><li>\u2022 Sensitivity and Specificity</li><li>\u2022 Other options are incorrect because these are not established relationships in the evaluation of screening tests.</li><li>\u2022 Other options</li><li>\u2022 not established</li><li>\u2022 relationships</li><li>\u2022 evaluation of screening tests.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 In many screening tests , there is an inverse relationship between sensitivity and specificity . Increasing the sensitivity of a test (the ability to correctly identify those with the disease) often leads to a decrease in its specificity (the ability to correctly identify those without the disease), and vice versa . This is known as the sensitivity-specificity trade-off.</li><li>\u27a4 screening tests</li><li>\u27a4 inverse relationship</li><li>\u27a4 sensitivity and specificity</li><li>\u27a4 Increasing the sensitivity</li><li>\u27a4 test</li><li>\u27a4 leads to a decrease</li><li>\u27a4 specificity</li><li>\u27a4 vice versa</li><li>\u27a4 sensitivity-specificity trade-off.</li><li>\u27a4 Ref : Park 26 th ed pg 155</li><li>\u27a4 Ref : Park 26 th ed pg 155</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5ea33855",
+      "audio": ""
+    },
+    {
+      "text": "During a case study session in a medical residency program, you are presented with a scenario involving a patient with breast cancer. The patient underwent a screening test two years ago, which failed to detect her cancer. She was later diagnosed with advanced disease. As a medical resident, you are asked to analyze this case and identify the term that describes the time interval between the initial missed diagnosis and the later diagnosis of advanced disease. This concept is critical for understanding the implications of screening test limitations. What term would you use to describe this time interval?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serial interval",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lead time",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Screening time",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Generation time",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lead time",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039032.jpg"
+      ],
+      "explanation": "<p><strong>Ans. B. Lead time</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Serial Interval: Time gap in onset between primary case (first case in the community) and secondary case (case developing through infection from the primary case). By collecting information on series of secondary cases with serial intervals, one can guess the incubation period of a disease</li><li>\u2022 Option A. Serial Interval:</li><li>\u2022 Time gap</li><li>\u2022 primary case</li><li>\u2022 secondary case</li><li>\u2022 Option C. Screening time: Time gap between first point of diagnosis and the critical point of diagnosis . Thus a screening test is most useful if applied between B (Point of first possible detection) and C (Final critical point). It's of no use if applied after a final critical point.</li><li>\u2022 Option C. Screening time: Time gap</li><li>\u2022 first point of diagnosis</li><li>\u2022 critical point of diagnosis</li><li>\u2022 Option D. Generation time: This is the time taken for a person from the receipt of infection to develop maximum infectivity . Is roughly equal to the incubation period of the disease.</li><li>\u2022 Option D. Generation time:</li><li>\u2022 time taken for a person</li><li>\u2022 receipt of infection</li><li>\u2022 develop maximum infectivity</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Lead time is defined as the interval between the point a condition is detected through screening and the Time it would normally have been detected due to appearance and reporting of signs and symptoms . This is the advantage gained by screening. While, Screening time is the gap between first point of diagnosis and the critical point of diagnosis.</li><li>\u27a4 Lead time</li><li>\u27a4 interval between</li><li>\u27a4 detected through screening and the Time</li><li>\u27a4 normally</li><li>\u27a4 detected</li><li>\u27a4 appearance</li><li>\u27a4 reporting of signs and symptoms</li><li>\u27a4 Ref : Park 26 th ed pg 151</li><li>\u27a4 Ref : Park 26 th ed pg 151</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "db04dd7c",
+      "audio": ""
+    },
+    {
+      "text": "Mr. X arrives at a tertiary care center with symptoms including a persistent cough and evening rise in temperature for the past two weeks. Suspecting tuberculosis (TB), the physician recommends a chest X-ray and a CBNAAT test. The CBNAAT (Cartridge Based Nucleic Acid Amplification Test) is a modern diagnostic tool used in the detection of TB. What type of method is CBNAAT an example of, particularly in the context of infectious diseases like tuberculosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Case detection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Screening test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Active Surveillance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diagnostic test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Diagnostic test",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-122056.png"
+      ],
+      "explanation": "<p><strong>Ans. D.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 Option A. Case Detection: The objective of case detection is to notice the existence of a single individual with a disease . This is done through screening or diagnostic test</li><li>\u2022 Option A. Case Detection:</li><li>\u2022 case detection</li><li>\u2022 existence of a single individual with a disease</li><li>\u2022 Option B. Screening test Is used to search for an unrecognized disease or defect, in apparently healthy individuals , by means of rapidly applied tests, examinations or other procedures</li><li>\u2022 Option B. Screening test</li><li>\u2022 search for an unrecognized disease</li><li>\u2022 healthy individuals</li><li>\u2022 Difference between Screening Test and Diagnostic Test -         \u200b</li><li>\u2022 Difference between Screening Test and Diagnostic Test</li><li>\u2022 Option C. Active surveillance: Health system seeks out \u2018actively\u2019 the collection of data , i.e., goes out to community to collect data . Example: Health worker goes house to house every fortnight to detect fever cases, collect blood slides (under malaria component of National Vector Borne Disease Control Program)</li><li>\u2022 Option C. Active surveillance: Health system</li><li>\u2022 \u2018actively\u2019</li><li>\u2022 collection of data</li><li>\u2022 goes out to community</li><li>\u2022 collect data</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 Revision in diagnostic algorithm with use of CXR in screening and early use of CBNAAT in diagnosis of TB</li><li>\u27a4 Revision in diagnostic algorithm</li><li>\u27a4 use of CXR in screening</li><li>\u27a4 early use of CBNAAT</li><li>\u27a4 diagnosis of TB</li></ul>\n<p><strong>References:</strong></p><ul><li>\u21b3 Reference: Park 27 th ed pg 220</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "043c370b",
+      "audio": ""
+    },
+    {
+      "text": "In a session on research methodology and statistical analysis, the concept of inter-observer variation and its impact on the reliability of study findings is discussed. Inter-observer variation refers to the degree of agreement or variability in the observations made by different individuals assessing the same phenomenon. For ensuring the validity and reliability of research, it is crucial to assess this variation accurately. Which statistical tool or method is most appropriate for assessing inter-observer variation in reliability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odds ratio",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Kappa statistics",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Specificity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Kappa statistics",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Kappa statistics</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A: Odds ratio: Ratio of odds that cases were exposed to a risk factor to the odds that the controls were exposed . It is used to \u2018measure strength of association in a case control study\u2019. This is also known as \u2018Cross product ratio\u2019 or \u2018Relative odds\u2019 . This is an \u2018estimate of Relative risk (RR)\u2019.</li><li>\u2022 Option A: Odds ratio:</li><li>\u2022 Ratio of odds</li><li>\u2022 risk factor</li><li>\u2022 odds</li><li>\u2022 controls were exposed</li><li>\u2022 \u2018measure strength of association in a case control study\u2019.</li><li>\u2022 \u2018Cross product ratio\u2019</li><li>\u2022 \u2018Relative odds\u2019</li><li>\u2022 Option B: Sensitivity: Ability of a screening test to identify correctly all those who have the disease (cases) Sensitivity = a/(a + c) \u00d7 100 = TP/(TP + FN) \u00d7 100</li><li>\u2022 Option B: Sensitivity:</li><li>\u2022 screening test</li><li>\u2022 identify correctly</li><li>\u2022 Option D: Specificity : Ability of a screening test to identify correctly all those who do not have the disease (healthy) Specificity = d/(b + d) \u00d7 100 = TN/(TN + FP) \u00d7 100</li><li>\u2022 Option D: Specificity</li><li>\u2022 Ability of a screening test</li><li>\u2022 identify correctly</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective -</li><li>\u27a4 Inter-observer variation in reliability can be better assessed using - Kappa statistic</li><li>\u27a4 Inter-observer variation</li><li>\u27a4 reliability</li><li>\u27a4 assessed using - Kappa statistic</li><li>\u27a4 Strength of association in a case control study is measured through - Odds Ratio</li><li>\u27a4 Strength of association</li><li>\u27a4 case control study</li><li>\u27a4 Odds Ratio</li></ul>\n<p><strong>References:</strong></p><ul><li>\u21b3 Reference: AFMC textbook, pg 112, 304.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ae370eef",
+      "audio": ""
+    },
+    {
+      "text": "In a public health seminar focusing on strategies for disease detection, the concept of actively identifying unrecognized diseases in seemingly healthy individuals is discussed. This strategy involves employing rapid diagnostic tests to uncover diseases that have not yet manifested symptoms, enabling early intervention. What is this proactive approach, involving the use of rapid tests to identify diseases in apparently healthy people before symptoms become apparent, commonly referred to as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Passive surveillance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Active surveillance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Case finding",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Screening",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Screening",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-122440.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Screening</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Passive Surveillance : It is a method of surveillance in which the patient himself comes to the case finder.</li><li>\u2022 Option A. Passive Surveillance</li><li>\u2022 method of surveillance</li><li>\u2022 Option B. Active Surveillance : In this method of surveillance, the case finder actively looks for the affected individuals in the community.</li><li>\u2022 Option B. Active Surveillance</li><li>\u2022 case finder actively looks</li><li>\u2022 affected individuals</li><li>\u2022 Option C: Case finding: This is defined as the well-organized and systematic effort to detect the largest possible number of cases in the community .</li><li>\u2022 Option C: Case finding:</li><li>\u2022 the well-organized and systematic effort to detect the largest possible number of cases in the community</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The active search for unrecognized disease in apparently healthy people using rapid tests is known as Screening</li><li>\u27a4 active search</li><li>\u27a4 unrecognized disease</li><li>\u27a4 apparently healthy people</li><li>\u27a4 rapid tests</li><li>\u27a4 Screening</li><li>\u27a4 Ref : Park 26 th ed, pg</li><li>\u27a4 Ref : Park 26 th ed, pg</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "849d61c8",
+      "audio": ""
+    },
+    {
+      "text": "In a lecture on the principles of diagnostic testing in clinical medicine, a key concept being discussed is the accuracy of diagnostic tests in correctly identifying individuals who do not have a specific disease. This aspect of diagnostic accuracy is crucial for ensuring that individuals are not incorrectly diagnosed with a condition they do not have. What is the term used to describe the ability of a diagnostic test to correctly identify those who are free from the disease in question?",
+      "options": [
+        {
+          "label": "A",
+          "text": "True predictive value",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Specificity",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Validity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Specificity",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-163557.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Specificity</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. True Predictive value: Is the Positive predictive value (PPV), the ability of a screening test to identify correctly all those who have the disease , out of all those who test positive on a screening test PPV = a/(a + b) \u00d7 100 = TP/(TP + FP) \u00d7 100</li><li>\u2022 Option A. True Predictive value:</li><li>\u2022 Positive predictive value</li><li>\u2022 ability of a screening test</li><li>\u2022 identify</li><li>\u2022 correctly</li><li>\u2022 have the disease</li><li>\u2022 Option B. Sensitivity: Ability of a screening test to identify correctly all those who have the disease (cases) Sensitivity = a/(a + c) \u00d7 100 = TP/(TP + FN) \u00d7 100</li><li>\u2022 Option B. Sensitivity:</li><li>\u2022 Ability of a screening test</li><li>\u2022 correctly</li><li>\u2022 who have the disease</li><li>\u2022 Option D. Validity: Refers to what extent the test measures which it purports to measure (adequacy of measurement). Validity has 2 components - Sensitivity and Specificity</li><li>\u2022 Option D. Validity:</li><li>\u2022 extent the test measures</li><li>\u2022 purports to measure</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The ability of the test to correctly identify those without disease is known as Specificity Ability of the test to correctly identify those with disease is known as - Sensitivity Sensitivity is inversely proportional to specificity</li><li>\u27a4 The ability of the test to correctly identify those without disease is known as Specificity</li><li>\u27a4 ability of the test</li><li>\u27a4 correctly identify</li><li>\u27a4 without disease</li><li>\u27a4 Specificity</li><li>\u27a4 Ability of the test to correctly identify those with disease is known as - Sensitivity</li><li>\u27a4 Sensitivity is inversely proportional to specificity</li><li>\u27a4 Ref : Park 27 th ed pg. 156</li><li>\u27a4 Ref : Park 27 th ed pg. 156</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bb7acb78",
+      "audio": ""
+    },
+    {
+      "text": "In a discussion on epidemiology and diagnostic testing, the influence of disease prevalence on the predictive value of a test is a key topic. The positive predictive value (PPV) of a diagnostic test is affected by the prevalence of the disease in the population being tested. Understanding this relationship is crucial for interpreting test results accurately. What happens to the positive predictive value of a diagnostic test if the prevalence of the disease in the population is low?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PPV increases.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "PPV decreases.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "PPV remains unaffected.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "PPV will be zero.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. PPV decreases.",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/14/image_swx4uQd.png"
+      ],
+      "explanation": "<p><strong>Ans. B. PPV decreases.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 If the prevalence of the disease in the target population is low , the PPV will be low .</li><li>\u2022 prevalence of the disease</li><li>\u2022 target population is low</li><li>\u2022 PPV will be low</li><li>\u2022 Positive Predictive Value (PPV)</li><li>\u2022 Positive Predictive Value (PPV)</li><li>\u2022 Ability of a screening test to identify correctly all those who have the disease , out of all those who test positive on a screening test PPV = a/(a + b) \u00d7 100 = TP/(TP + FP) \u00d7 100 PPV of a screening test depends on \u2013 Sensitivity , Specificity and Prevalence of disease in the population PPV of a screening test is directly proportional to prevalence of disease in the population PPV \u03b1 Prevalence of disease As the prevalence of a disease increases in a population, PPV increases for the screening test</li><li>\u2022 Ability of a screening test to identify correctly all those who have the disease , out of all those who test positive on a screening test</li><li>\u2022 Ability</li><li>\u2022 screening test</li><li>\u2022 identify correctly</li><li>\u2022 who have the disease</li><li>\u2022 PPV = a/(a + b) \u00d7 100 = TP/(TP + FP) \u00d7 100</li><li>\u2022 PPV of a screening test depends on \u2013 Sensitivity , Specificity and Prevalence of disease in the population</li><li>\u2022 PPV</li><li>\u2022 screening test</li><li>\u2022 Sensitivity</li><li>\u2022 Specificity</li><li>\u2022 Prevalence</li><li>\u2022 PPV of a screening test is directly proportional to prevalence of disease in the population PPV \u03b1 Prevalence of disease As the prevalence of a disease increases in a population, PPV increases for the screening test</li><li>\u2022 PPV \u03b1 Prevalence of disease As the prevalence of a disease increases in a population, PPV increases for the screening test</li><li>\u2022 PPV \u03b1 Prevalence of disease</li><li>\u2022 As the prevalence of a disease increases in a population, PPV increases for the screening test</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 PPV of a screening test is directly proportional to prevalence of disease in the population</li><li>\u27a4 PPV</li><li>\u27a4 screening test</li><li>\u27a4 directly proportional</li><li>\u27a4 prevalence of disease</li><li>\u27a4 population</li><li>\u27a4 PPV of a screening test depends on \u2013 Sensitivity , Specificity and Prevalence of disease in the population</li><li>\u27a4 PPV</li><li>\u27a4 screening test</li><li>\u27a4 Sensitivity</li><li>\u27a4 Specificity</li><li>\u27a4 Prevalence of disease</li><li>\u27a4 Ref : AFMC textbook, pg. 161.</li><li>\u27a4 Ref : AFMC textbook, pg. 161.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "970a0ba5",
+      "audio": ""
+    },
+    {
+      "text": "In a training module on the principles of screening and diagnostic testing in public health, a significant topic of discussion is the factors that influence the predictive value of a screening test. Understanding these factors is essential for correctly interpreting test results and making informed clinical decisions. What does the predictive value of a screening test depend on?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Specificity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prevalence",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Prevalence",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Prevalence</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Sensitivity: Out of those disease in a population, few are correctly picked as positive by a screening test, this is Sensitivity of a screening test</li><li>\u2022 Option A. Sensitivity:</li><li>\u2022 Sensitivity of a screening test</li><li>\u2022 Option B. Specificity: Out of those healthy in a population, few are correctly picked as not having the disease by a screening test, this is Specificity of a screening test</li><li>\u2022 Option</li><li>\u2022 B. Specificity:</li><li>\u2022 Specificity of a screening test</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Predictive value of the screening test depends on - Prevalence</li><li>\u27a4 Predictive value</li><li>\u27a4 screening test</li><li>\u27a4 Prevalence</li><li>\u27a4 Ref : AFMC textbook, pg 161.</li><li>\u27a4 Ref : AFMC textbook, pg 161.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d56e6187",
+      "audio": ""
+    },
+    {
+      "text": "In a public health seminar focusing on the utility and limitations of screening tests, the participants discuss scenarios where such tests may not be beneficial or applicable. Screening tests are important tools in early disease detection, but their usefulness can vary depending on various factors, including disease characteristics and population dynamics. In which of the following situations would a screening test not be considered useful?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The disease has a lead time.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Incidence of the disease is high in the community.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prevalence is low in the community.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Early detection led to favorable outcome.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Prevalence is low in the community.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Prevalence is low in the community.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. The disease having a lead time , does not inherently make screening unhelpful . Lead time refers to the time period during which the disease is diagnosed earlier due to screening but does not impact the overall prognosis.</li><li>\u2022 Option A.</li><li>\u2022 disease having a lead time</li><li>\u2022 not inherently make screening unhelpful</li><li>\u2022 Option B. High incidence of the disease in the community , is often a reason to consider screening useful, as it may lead to earlier detection and treatment.</li><li>\u2022 Option B.</li><li>\u2022 High incidence</li><li>\u2022 disease in the community</li><li>\u2022 Option D. Early detection leading to a favorable outcome , is actually an argument for the usefulness of screening tests , as they aim to detect diseases early when they are more likely to be treatable.</li><li>\u2022 Option D.</li><li>\u2022 Early detection</li><li>\u2022 favorable outcome</li><li>\u2022 argument for the usefulness of screening tests</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Screening tests are less beneficial in populations where the prevalence of the disease is low , as this increases the likelihood of false positives and may lead to unnecessary interventions.</li><li>\u27a4 Screening tests</li><li>\u27a4 less beneficial</li><li>\u27a4 populations</li><li>\u27a4 prevalence of the disease is low</li><li>\u27a4 increases the likelihood</li><li>\u27a4 false positives</li><li>\u27a4 Ref : Park 27 th ed pg 155</li><li>\u27a4 Ref</li><li>\u27a4 : Park 27 th ed pg 155</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e2f6653d",
+      "audio": ""
+    },
+    {
+      "text": "During a workshop on clinical diagnostics, a key point of discussion revolves around the characteristics of diagnostic tests, particularly specificity. The group is exploring the implications of test specificity in clinical decision-making. Given that specificity refers to a test's ability to correctly identify individuals who do not have a particular disease, what is the expected outcome when a diagnostic test has a high specificity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low false positive",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Low false negative",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Low true positive",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Low true Negative",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Low false positive",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039029_SJeHRJn.jpg"
+      ],
+      "explanation": "<p><strong>Ans. A. Low false positive</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Some Important Pointers -</li><li>\u2022 Some Important Pointers -</li><li>\u2022 A highly specific test will have many True Negatives and a very small (almost minimal) False Positives . A positive screening test is always followed by a confirmatory diagnostic test Sensitivity is ability of a screening test to identify correctly all those who have the disease (cases) A screening test with high sensitivity would suggest that those testing positive are extremely likely to have the condition (especially if prevalence of disease is high in population) and should progress to having a diagnostic test If a disease is very rare in the population , then positive test is more likely to be a false positive (rather than being a true positive) Receiver Operator Characteristic (ROC) Curve is a graphical representation between sensitivity and specificity of a diagnostic test , \u2018drawn between Sensitivity and (1 \u2013 Specificity)\u2019 (ROC curve is drawn between True positives and False positive error rate). It is a method of evaluating the quality/performance of tests. In clinical tests, ROC curve is \u2018used to determine a cutoff point\u2019</li><li>\u2022 A highly specific test will have many True Negatives and a very small (almost minimal) False Positives .</li><li>\u2022 A highly specific test will have many True Negatives and a very small (almost minimal) False Positives .</li><li>\u2022 highly specific test</li><li>\u2022 True Negatives</li><li>\u2022 very small</li><li>\u2022 False Positives</li><li>\u2022 A positive screening test is always followed by a confirmatory diagnostic test</li><li>\u2022 A positive screening test is always followed by a confirmatory diagnostic test</li><li>\u2022 positive screening test</li><li>\u2022 confirmatory diagnostic test</li><li>\u2022 Sensitivity is ability of a screening test to identify correctly all those who have the disease (cases)</li><li>\u2022 Sensitivity is ability of a screening test to identify correctly all those who have the disease (cases)</li><li>\u2022 Sensitivity</li><li>\u2022 ability of a screening test</li><li>\u2022 correctly</li><li>\u2022 who have the disease</li><li>\u2022 A screening test with high sensitivity would suggest that those testing positive are extremely likely to have the condition (especially if prevalence of disease is high in population) and should progress to having a diagnostic test</li><li>\u2022 A screening test with high sensitivity would suggest that those testing positive are extremely likely to have the condition (especially if prevalence of disease is high in population) and should progress to having a diagnostic test</li><li>\u2022 screening test</li><li>\u2022 high sensitivity</li><li>\u2022 those testing positive</li><li>\u2022 extremely likely</li><li>\u2022 have the condition</li><li>\u2022 If a disease is very rare in the population , then positive test is more likely to be a false positive (rather than being a true positive)</li><li>\u2022 If a disease is very rare in the population , then positive test is more likely to be a false positive (rather than being a true positive)</li><li>\u2022 disease is very rare</li><li>\u2022 population</li><li>\u2022 positive test</li><li>\u2022 false positive</li><li>\u2022 Receiver Operator Characteristic (ROC) Curve is a graphical representation between sensitivity and specificity of a diagnostic test , \u2018drawn between Sensitivity and (1 \u2013 Specificity)\u2019 (ROC curve is drawn between True positives and False positive error rate). It is a method of evaluating the quality/performance of tests. In clinical tests, ROC curve is \u2018used to determine a cutoff point\u2019</li><li>\u2022 Receiver Operator Characteristic (ROC) Curve is a graphical representation between sensitivity and specificity of a diagnostic test , \u2018drawn between Sensitivity and (1 \u2013 Specificity)\u2019 (ROC curve is drawn between True positives and False positive error rate). It is a method of evaluating the quality/performance of tests. In clinical tests, ROC curve is \u2018used to determine a cutoff point\u2019</li><li>\u2022 Receiver Operator Characteristic (ROC) Curve</li><li>\u2022 graphical representation</li><li>\u2022 sensitivity</li><li>\u2022 specificity of a diagnostic test</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 High specificity will result in - Low rate of false positive</li><li>\u27a4 High specificity</li><li>\u27a4 Low rate of false positive</li><li>\u27a4 Ref : Park 27 th ed pg. 155</li><li>\u27a4 Ref : Park 27 th ed pg. 155</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6dc60b63",
+      "audio": ""
+    },
+    {
+      "text": "In a clinical statistics training, you are presented with a scenario to enhance your understanding of diagnostic test calculations. You're given the task of determining a key component in the calculation of a diagnostic test's negative predictive value (NPV). The scenario involves a new diagnostic test for a specific disease, and you are reviewing the test results to calculate the NPV. To do this, you need to identify which element from the test results serves as the numerator in the NPV formula. Which of these test result components would you select as the numerator for calculating the NPV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "True positive",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "False positive",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "True negative",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "False negative",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. True negative",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-124001.png"
+      ],
+      "explanation": "<p><strong>Ans. C. True negative</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Sensitivity = a / (a + c) x 100 Specificity = d / (b + d) x 100 Predictive value of a positive test = a / (a + b) x 100 Predictive value of a negative test = d / (c + d) x 100 Percentage of false negatives = c / (a + c) x 100 Percentage of false-positive = b / (b + d) x 100</li><li>\u2022 Sensitivity = a / (a + c) x 100</li><li>\u2022 Sensitivity = a / (a + c) x 100</li><li>\u2022 Specificity = d / (b + d) x 100</li><li>\u2022 Specificity = d / (b + d) x 100</li><li>\u2022 Predictive value of a positive test = a / (a + b) x 100</li><li>\u2022 Predictive value of a positive test = a / (a + b) x 100</li><li>\u2022 Predictive value of a negative test = d / (c + d) x 100</li><li>\u2022 Predictive value of a negative test = d / (c + d) x 100</li><li>\u2022 Percentage of false negatives = c / (a + c) x 100</li><li>\u2022 Percentage of false negatives = c / (a + c) x 100</li><li>\u2022 Percentage of false-positive = b / (b + d) x 100</li><li>\u2022 Percentage of false-positive = b / (b + d) x 100</li><li>\u2022 Some Important Pointers -</li><li>\u2022 Some Important Pointers -</li><li>\u2022 Diagnostic power of the test is reflected by - Predictive value Which one of the following relationships shown between different parameters of a performance of a test is correct - Sensitivity is inversely proportional to specificity If prevalence is increased, which of the following will be seen - Increase positive predictive value True negatives in a screening test is - d/b+d Usefulness is - True positive/True positive + false negative Epidemiological survey of \u2018at risk\u2019 is called - Screening</li><li>\u2022 Diagnostic power of the test is reflected by - Predictive value</li><li>\u2022 Diagnostic power of the test is reflected by - Predictive value</li><li>\u2022 Which one of the following relationships shown between different parameters of a performance of a test is correct - Sensitivity is inversely proportional to specificity</li><li>\u2022 Which one of the following relationships shown between different parameters of a performance of a test is correct - Sensitivity is inversely proportional to specificity</li><li>\u2022 If prevalence is increased, which of the following will be seen - Increase positive predictive value</li><li>\u2022 If prevalence is increased, which of the following will be seen - Increase positive predictive value</li><li>\u2022 True negatives in a screening test is - d/b+d</li><li>\u2022 True negatives in a screening test is - d/b+d</li><li>\u2022 Usefulness is - True positive/True positive + false negative</li><li>\u2022 Usefulness is - True positive/True positive + false negative</li><li>\u2022 Epidemiological survey of \u2018at risk\u2019 is called - Screening</li><li>\u2022 Epidemiological survey of \u2018at risk\u2019 is called - Screening</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Numerator for calculating negative predictive value is - True Negative</li><li>\u27a4 Numerator</li><li>\u27a4 calculating negative predictive value</li><li>\u27a4 True Negative</li><li>\u27a4 NPV is calculated as the ratio of true negatives to the sum of true negatives and false negatives , reflecting the probability that a person with a negative test result is truly disease-free .</li><li>\u27a4 NPV</li><li>\u27a4 calculated</li><li>\u27a4 ratio of true negatives</li><li>\u27a4 sum of true negatives</li><li>\u27a4 false negatives</li><li>\u27a4 probability</li><li>\u27a4 person with a negative test</li><li>\u27a4 truly disease-free</li><li>\u27a4 Ref : Park 27 th ed pg. 155</li><li>\u27a4 Ref : Park 27 th ed pg. 155</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d133d9c6",
+      "audio": ""
+    },
+    {
+      "text": "In a workshop on the interpretation of diagnostic test results in various populations, a discussion arises about the positive predictive value (PPV) of a single ELISA test, commonly used for screening certain infectious diseases. The PPV of a test can vary significantly based on the prevalence of the disease in the population being tested. Among the following groups, in which would a single ELISA test likely have the highest positive predictive value?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antenatal cases",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Voluntary blood donors",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diabetes mellitus patients",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Female sex workers",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Female sex workers",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Female sex workers</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Positive predictive value depends directly on the prevalence . More the prevalence more the PPV .</li><li>\u2022 Positive predictive</li><li>\u2022 value</li><li>\u2022 directly on the prevalence</li><li>\u2022 More</li><li>\u2022 prevalence</li><li>\u2022 more</li><li>\u2022 PPV</li><li>\u2022 Positive predictive value (PPV): Ability of a screening test to identify correctly all those who have the disease , out of all those who test positive on a screening test</li><li>\u2022 Positive predictive value (PPV):</li><li>\u2022 Ability</li><li>\u2022 screening test</li><li>\u2022 correctly</li><li>\u2022 have the disease</li><li>\u2022 test positive</li><li>\u2022 screening test</li><li>\u2022 PPV of a screening test depends on:</li><li>\u2022 PPV of a screening test depends on:</li><li>\u2022 Sensitivity Specificity Prevalence of disease in the population</li><li>\u2022 Sensitivity</li><li>\u2022 Specificity</li><li>\u2022 Prevalence of disease in the population</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 PPV of a screening test is directly proportional to prevalence of disease in the population \u2013 As the prevalence of disease increases in a population , PPV increases for the screening test</li><li>\u27a4 PPV</li><li>\u27a4 screening test</li><li>\u27a4 directly proportional</li><li>\u27a4 prevalence of disease</li><li>\u27a4 population</li><li>\u27a4 prevalence of disease increases</li><li>\u27a4 population</li><li>\u27a4 PPV increases</li><li>\u27a4 screening test</li><li>\u27a4 Ref : AFMC textbook, pg 163.</li><li>\u27a4 Ref</li><li>\u27a4 : AFMC textbook, pg 163.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ab947e65",
+      "audio": ""
+    },
+    {
+      "text": "A healthcare team in a large hospital introduces a new screening test for cervical cancer. This test has a sensitivity of 90% and a specificity of 99%. In a recent screening program, 1000 women were tested. The prevalence of cervical cancer in this population is known to be 50 per 1000. Based on this information, what is the Positive Predictive Value (PPV) of the screening test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "78%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "90%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "82%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "94%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 82%",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-124038.png"
+      ],
+      "explanation": "<p><strong>Ans. C. 82%</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 True positives (TP) = Sensitivity \u00d7 Prevalence \u00d7 Total population = 0.90 \u00d7 (50/1000) \u00d7 1000 = 45</li><li>\u2022 False positives (FP) = (1 - Specificity) \u00d7 (1 - Prevalence) \u00d7 Total population = 0.01 \u00d7 (950/1000) \u00d7 1000 \u2248 9.5</li><li>\u2022 PPV = TP / (TP + FP)  = (45 / 55) * 100 = 81.8%</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Positive Predictive Value (PPV) of a screening test , which measures the proportion of positive test results that are true positives , depends on the sensitivity , specificity , and prevalence of the disease in the population .</li><li>\u27a4 Positive Predictive Value</li><li>\u27a4 screening test</li><li>\u27a4 proportion of positive test</li><li>\u27a4 true positives</li><li>\u27a4 sensitivity</li><li>\u27a4 specificity</li><li>\u27a4 prevalence</li><li>\u27a4 disease</li><li>\u27a4 population</li><li>\u27a4 Ref : Park 26 th ed pg. 155</li><li>\u27a4 Ref : Park 26 th ed pg. 155</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "69af2879",
+      "audio": ""
+    },
+    {
+      "text": "In an epidemiological study, a research team is concerned about the impact of interobserver variation. This variation refers to the differences in observations or measurements when they are conducted by different individuals. Understanding its effect is crucial for the study final result. Which aspect of epidemiological studies is most directly affected by interobserver variation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Predictive value of the positive test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Specificity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Reliability",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Reliability",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Reliability</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Options (A) Sensitivity and (C) Specificity are characteristics of diagnostic tests that relate to their ability to correctly identify those with and without the disease , respectively. While interobserver variation can indirectly affect these parameters, it is not their most direct impact.</li><li>\u2022 Options (A) Sensitivity</li><li>\u2022 (C) Specificity</li><li>\u2022 diagnostic tests</li><li>\u2022 ability to correctly identify</li><li>\u2022 with and without the disease</li><li>\u2022 Option (B) Predictive value of the positive test relates to the probability that a person who tests positive actually has the disease. It is more influenced by the prevalence of the disease in the population being tested than by interobserver variation.</li><li>\u2022 Option (B) Predictive value of the positive test</li><li>\u2022 probability that a person</li><li>\u2022 tests positive</li><li>\u2022 disease.</li><li>\u2022 Reliability/Precision/Repeatability/Consistency/Reproducibility: Test gives consistent results when repeated more than once on the same individual or material, under the same conditions</li><li>\u2022 Reliability/Precision/Repeatability/Consistency/Reproducibility:</li><li>\u2022 consistent</li><li>\u2022 repeated more than once</li><li>\u2022 same individual</li><li>\u2022 Reliability is measured by \u2013 Person product-moment correlation coefficient and Cronbach\u2019s alpha (internal consistency) Reliability of a test depends on -</li><li>\u2022 Reliability is measured by \u2013 Person product-moment correlation coefficient and Cronbach\u2019s alpha (internal consistency)</li><li>\u2022 Reliability</li><li>\u2022 Person product-moment</li><li>\u2022 coefficient</li><li>\u2022 Cronbach\u2019s alpha</li><li>\u2022 Reliability of a test depends on -</li><li>\u2022 Observer variation:</li><li>\u2022 Observer variation:</li><li>\u2022 Observer variation:</li><li>\u2022 Intra-observer variation: Same observer taking 2 or more readings gives varied results Inter-observer variation: Variation between different observers on the same subject/material</li><li>\u2022 Intra-observer variation: Same observer taking 2 or more readings gives varied results</li><li>\u2022 Inter-observer variation: Variation between different observers on the same subject/material</li><li>\u2022 Biological (subject) variation: occur due to</li><li>\u2022 Biological (subject) variation: occur due to</li><li>\u2022 Biological (subject) variation: occur due to</li><li>\u2022 Changes in parameters observed Variation in perceptions and answers of patients Regression to the mean</li><li>\u2022 Changes in parameters observed</li><li>\u2022 Variation in perceptions and answers of patients</li><li>\u2022 Regression to the mean</li><li>\u2022 Errors relating to technical methods: occur due to</li><li>\u2022 Errors relating to technical methods: occur due to</li><li>\u2022 Errors relating to technical methods: occur due to</li><li>\u2022 Defective instruments Erroneous calibrations Faulty reagents Inappropriate/unreliable test</li><li>\u2022 Defective instruments</li><li>\u2022 Erroneous calibrations</li><li>\u2022 Faulty reagents</li><li>\u2022 Inappropriate/unreliable test</li><li>\u2022 Characteristics of Ideal Health Indicator -</li><li>\u2022 Characteristics of Ideal Health Indicator -</li><li>\u2022 Validity : Actually measures what it is supposed to measure Reliability : Reproducible results if measured by different persons Objectivity : Independent of subjects perception Sensitivity : Sensitive to change in situations Specificity : Reflect changes only in the situation concerned with that indicator Feasibility : Practical possibility of obtaining the necessary data Relevancy : Contribution to understanding the phenomenon of interest</li><li>\u2022 Validity : Actually measures what it is supposed to measure</li><li>\u2022 Validity</li><li>\u2022 Reliability : Reproducible results if measured by different persons</li><li>\u2022 Reliability</li><li>\u2022 Objectivity : Independent of subjects perception</li><li>\u2022 Objectivity</li><li>\u2022 Sensitivity : Sensitive to change in situations</li><li>\u2022 Sensitivity</li><li>\u2022 Specificity : Reflect changes only in the situation concerned with that indicator</li><li>\u2022 Specificity</li><li>\u2022 Feasibility : Practical possibility of obtaining the necessary data</li><li>\u2022 Feasibility</li><li>\u2022 Relevancy : Contribution to understanding the phenomenon of interest</li><li>\u2022 Relevancy</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Reliability is compromised when different observers produce varying results under the same conditions , indicating a need for standardized protocols and training to minimize such variation.</li><li>\u27a4 Reliability</li><li>\u27a4 compromised when different observers</li><li>\u27a4 varying results</li><li>\u27a4 same conditions</li><li>\u27a4 need for standardized protocols</li><li>\u27a4 training to minimize such variation.</li><li>\u27a4 Ref : Park 27 th ed pg. 154-56</li><li>\u27a4 Ref</li><li>\u27a4 : Park 27 th ed pg. 154-56</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "72bf2ea6",
+      "audio": ""
+    },
+    {
+      "text": "In evaluating a new technique for estimating random blood sugar (RBS) levels, its performance in terms of validity and reliability is under scrutiny. The technique is applied six times to a blood sample, producing results of 112, 108, 110, 105, 104, and 101 mg/dL. A standard and accurate test indicates the RBS level at 108 mg/dL. Given these results, how would you assess the new technique's validity and reliability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High validity and high reliability",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Low validity and low reliability",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "High validity and low reliability",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Low validity and high reliability",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Low validity and low reliability",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Low validity and low reliability</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The term validity refers to what extent the test accurately measures which it purports to measure .</li><li>\u2022 validity</li><li>\u2022 extent the test accurately</li><li>\u2022 purports to measure</li><li>\u2022 Reliability - the test must give consistent results when repeated more than once on the same individual or material, under the same conditions.</li><li>\u2022 Reliability</li><li>\u2022 test</li><li>\u2022 consistent</li><li>\u2022 repeated more</li><li>\u2022 once</li><li>\u2022 same individual</li><li>\u2022 In this question, all the values are not close to 108 . The range is quite vast from 101 to 112 . So the test doesn\u2019t have a high validity. Also, the values are not repeatable, it means it has low reliability.</li><li>\u2022 values are not close to 108</li><li>\u2022 range is quite vast</li><li>\u2022 101 to 112</li><li>\u2022 Types of Validity -</li><li>\u2022 Types of Validity -</li><li>\u2022 Conclusion validity : Defines if there is a relationship between 2 variables Internal validity : Assuming relationship between 2 variables , defines if it is causal . Is free of bias and valid conclusions can be drawn for individuals in a sample Construct validity : Assuming causal relationship between 2 variables , defines if our theory is best to our constructs External validity : Assuming causal relationship between 2 variables , defines if our theory can be generalized to the broader population Concurrent validity : refers to the degree of correlation with other measures of the same construct measured at the same time Face (Logical) validity : Relevance of a measurement appear obvious Content validity : Measurement of all variable components Consensual validity : If no. of experts agree to a parameter Criterion validity : If compared with a reference or gold standard. Is best measure of validity and usually expressed as sensitivity & specificity. Discriminant validity : If not showing strong correlation between 2 variables</li><li>\u2022 Conclusion validity : Defines if there is a relationship between 2 variables</li><li>\u2022 Conclusion validity</li><li>\u2022 relationship between 2 variables</li><li>\u2022 Internal validity : Assuming relationship between 2 variables , defines if it is causal . Is free of bias and valid conclusions can be drawn for individuals in a sample</li><li>\u2022 Internal validity</li><li>\u2022 Assuming relationship</li><li>\u2022 2 variables</li><li>\u2022 causal</li><li>\u2022 Construct validity : Assuming causal relationship between 2 variables , defines if our theory is best to our constructs</li><li>\u2022 Construct validity</li><li>\u2022 causal relationship between 2 variables</li><li>\u2022 External validity : Assuming causal relationship between 2 variables , defines if our theory can be generalized to the broader population</li><li>\u2022 External validity</li><li>\u2022 causal relationship between 2 variables</li><li>\u2022 Concurrent validity : refers to the degree of correlation with other measures of the same construct measured at the same time</li><li>\u2022 Concurrent validity</li><li>\u2022 degree of correlation</li><li>\u2022 measures</li><li>\u2022 construct measured</li><li>\u2022 same time</li><li>\u2022 Face (Logical) validity : Relevance of a measurement appear obvious</li><li>\u2022 Face</li><li>\u2022 validity</li><li>\u2022 Content validity : Measurement of all variable components</li><li>\u2022 Content validity</li><li>\u2022 Consensual validity : If no. of experts agree to a parameter</li><li>\u2022 Consensual validity</li><li>\u2022 Criterion validity : If compared with a reference or gold standard. Is best measure of validity and usually expressed as sensitivity & specificity.</li><li>\u2022 Criterion validity</li><li>\u2022 Discriminant validity : If not showing strong correlation between 2 variables</li><li>\u2022 Discriminant validity</li><li>\u2022 Characteristics of Ideal Health Indicator -</li><li>\u2022 Characteristics of Ideal Health Indicator -</li><li>\u2022 Validity : Actually measures what it is supposed to measure Reliability : Reproducible results if measured by different persons Objectivity : Independent of subjects perception Sensitivity : Sensitive to change in situations Specificity : Reflect changes only in the situation concerned with that indicator Feasibility : Practical possibility of obtaining the necessary data Relevancy : Contribution to understanding the phenomenon of interest</li><li>\u2022 Validity : Actually measures what it is supposed to measure</li><li>\u2022 Validity</li><li>\u2022 Reliability : Reproducible results if measured by different persons</li><li>\u2022 Reliability</li><li>\u2022 Objectivity : Independent of subjects perception</li><li>\u2022 Objectivity</li><li>\u2022 Sensitivity : Sensitive to change in situations</li><li>\u2022 Sensitivity</li><li>\u2022 Specificity : Reflect changes only in the situation concerned with that indicator</li><li>\u2022 Specificity</li><li>\u2022 Feasibility : Practical possibility of obtaining the necessary data</li><li>\u2022 Feasibility</li><li>\u2022 Relevancy : Contribution to understanding the phenomenon of interest</li><li>\u2022 Relevancy</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The interobserver variation in epidemiological studies affects - Reliability</li><li>\u27a4 interobserver variation</li><li>\u27a4 epidemiological</li><li>\u27a4 Reliability</li><li>\u27a4 What extent the test accurately measures which it purports to measure - Validity</li><li>\u27a4 test accurately</li><li>\u27a4 Validity</li><li>\u27a4 Ref : Park 27 th ed, pg 154-56</li><li>\u27a4 Ref : Park 27 th ed, pg 154-56</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a48c9208",
+      "audio": ""
+    },
+    {
+      "text": "In a training session on screening and diagnostic tests, the focus is on understanding the concept of diagnostic power. Diagnostic power refers to the test's ability to accurately distinguish between those who have and do not have a disease. When considering the effectiveness of a screening test, which of the following best reflects the diagnostic power of the test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Specificity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Predictive value",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Population attributable risk",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Predictive value",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Predictive value.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Sensitivity: Usefulness of a screening test\u2019 is given by Sensitivity</li><li>\u2022 Option A. Sensitivity:</li><li>\u2022 Usefulness</li><li>\u2022 screening test\u2019</li><li>\u2022 Sensitivity</li><li>\u2022 Option B. Specificity : Statistical index of diagnostic accuracy is Sensitivity</li><li>\u2022 Option B. Specificity</li><li>\u2022 Statistical index</li><li>\u2022 diagnostic accuracy</li><li>\u2022 Sensitivity</li><li>\u2022 Option D. PAR: Estimated amount of disease that can be reduced if risk factor is modified/eliminated</li><li>\u2022 Option D. PAR:</li><li>\u2022 Estimated amount of disease</li><li>\u2022 reduced</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 If prevalence of disease increases , predictive value of a positive test will - Increase</li><li>\u27a4 prevalence</li><li>\u27a4 disease increases</li><li>\u27a4 positive test</li><li>\u27a4 Increase</li><li>\u27a4 Diagnostic power of the screening test is reflected by - Predictive Value</li><li>\u27a4 Diagnostic power</li><li>\u27a4 screening test</li><li>\u27a4 Predictive Value</li><li>\u27a4 Ref : Park 27 th ed, pg 156</li><li>\u27a4 Ref : Park 27 th ed, pg 156</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "134e0072",
+      "audio": ""
+    },
+    {
+      "text": "A healthcare research team conducts a screening test for a specific disease in two different cities, A and B. The results show a higher number of false positives in city A compared to city B. What does the higher rate of false positives in city A indicate about the screening test or the population in city A compared to city B?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The test in invalid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prevalence of the diseases is less in City B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prevalence of the disease is more in City A",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Prevalence of the diseases is less in city A",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Prevalence of the diseases is less in city A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Prevalence of the diseases is less in city A</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 More the prevalence , more the predictive value . More the predictive value , less the false positives/False negatives.</li><li>\u2022 prevalence</li><li>\u2022 predictive value</li><li>\u2022 predictive value</li><li>\u2022 less the false positives/False negatives.</li><li>\u2022 Some important Pointers -</li><li>\u2022 Some important Pointers -</li><li>\u2022 Usefulness of a screening test is given by: Sensitivity Statistical index of diagnostic accuracy : Sensitivity Diagnostic power of a screening test: Predictive accuracy Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV) Diagnostic power of a screening test to correctly exclude a disease: Negative predictive value (NPV) Predictive value of a screening test depends on: Sensitivity Specificity Prevalence of disease in the population</li><li>\u2022 Usefulness of a screening test is given by: Sensitivity</li><li>\u2022 Usefulness of a screening test is given by: Sensitivity</li><li>\u2022 Usefulness</li><li>\u2022 screening test</li><li>\u2022 Sensitivity</li><li>\u2022 Statistical index of diagnostic accuracy : Sensitivity</li><li>\u2022 Statistical index of diagnostic accuracy : Sensitivity</li><li>\u2022 Statistical index</li><li>\u2022 diagnostic accuracy</li><li>\u2022 Sensitivity</li><li>\u2022 Diagnostic power of a screening test: Predictive accuracy Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV) Diagnostic power of a screening test to correctly exclude a disease: Negative predictive value (NPV)</li><li>\u2022 Diagnostic power of a screening test: Predictive accuracy</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV) Diagnostic power of a screening test to correctly exclude a disease: Negative predictive value (NPV)</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV)</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV)</li><li>\u2022 Diagnostic power of a screening test to correctly exclude a disease: Negative predictive value (NPV)</li><li>\u2022 Diagnostic power of a screening test to correctly exclude a disease: Negative predictive value (NPV)</li><li>\u2022 Predictive value of a screening test depends on: Sensitivity Specificity Prevalence of disease in the population</li><li>\u2022 Predictive value of a screening test depends on:</li><li>\u2022 Sensitivity Specificity Prevalence of disease in the population</li><li>\u2022 Sensitivity</li><li>\u2022 Sensitivity</li><li>\u2022 Specificity</li><li>\u2022 Specificity</li><li>\u2022 Prevalence of disease in the population</li><li>\u2022 Prevalence of disease in the population</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Predictive value of a screening test depends on \u2013 Sensitivity, Specificity & Prevalence of disease in the population</li><li>\u27a4 Predictive value</li><li>\u27a4 screening test</li><li>\u27a4 Sensitivity, Specificity & Prevalence</li><li>\u27a4 Ref : AFMC textbook, pg 163.</li><li>\u27a4 Ref : AFMC textbook, pg 163.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c1fee72e",
+      "audio": ""
+    },
+    {
+      "text": "In a clinical epidemiology lecture, the focus is on understanding the characteristics of screening tests, specifically the concept of specificity. A screening test with a specificity of 90% is presented as a case study. As a medical student, you are asked to analyze what this implies about the test results in non-diseased individuals. Understanding specificity is crucial for interpreting screening test results and making informed clinical decisions. What does a 90% specificity imply about the test results in individuals without the disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "True positive result",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "True negative result",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "False negative result",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "False positive result",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. True negative result",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-133042.png"
+      ],
+      "explanation": "<p><strong>Ans. B. True negative result</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. True positive/ TP: Population having the disease and showing screening test results as positive</li><li>\u2022 Option A. True positive/ TP:</li><li>\u2022 Population</li><li>\u2022 disease and showing screening test</li><li>\u2022 positive</li><li>\u2022 Option C. False negative/ FN: Population having the disease but erroneously showing screening test results as negative</li><li>\u2022 Option</li><li>\u2022 C. False negative/ FN:</li><li>\u2022 Population having the disease</li><li>\u2022 erroneously</li><li>\u2022 screening test</li><li>\u2022 negative</li><li>\u2022 Option D. False positive/ FP: Population not having the disease but erroneously showing screening test results as positive</li><li>\u2022 Option D. False positive/ FP:</li><li>\u2022 Population</li><li>\u2022 disease</li><li>\u2022 erroneously</li><li>\u2022 screening test results as positive</li><li>\u2022 Evaluation/Properties of a Screening Test</li><li>\u2022 Evaluation/Properties of a Screening Test</li><li>\u2022 Sensitivity : Ability of a screening test to identify correctly all those who have the disease (cases) Sensitivity = a/(a + c) \u00d7 100 = TP/(TP + FN) \u00d7 100 Specificity : Ability of a screening test to identify correctly all those who do not have the disease (healthy) Specificity = d/(b + d) \u00d7 100 = TN/(TN + FP) \u00d7 100 Positive predictive value (PPV): Ability of a screening test to identify correctly all those who have the disease, out of all those who test positive on a screening test PPV = a/(a + b) \u00d7 100 = TP/(TP + FP) \u00d7 100 Negative predictive value (NPV): Ability of a screening test to identify correctly all those who do not have the disease, out of all those who test negative on a screening test NPV = d/(c + d) \u00d7 100 = TN/(FN + TN) \u00d7 100 Percentage of false positives (FP) - % FP = b/(b + d) \u00d7 100 = FP/(FP + TN) \u00d7 100 Percentage of false negatives (FN) - % FN = c/(a + c) \u00d7 100 = FN/(TP + FN) \u00d7 100</li><li>\u2022 Sensitivity : Ability of a screening test to identify correctly all those who have the disease (cases) Sensitivity = a/(a + c) \u00d7 100 = TP/(TP + FN) \u00d7 100</li><li>\u2022 Sensitivity</li><li>\u2022 Specificity : Ability of a screening test to identify correctly all those who do not have the disease (healthy) Specificity = d/(b + d) \u00d7 100 = TN/(TN + FP) \u00d7 100</li><li>\u2022 Specificity</li><li>\u2022 Positive predictive value (PPV): Ability of a screening test to identify correctly all those who have the disease, out of all those who test positive on a screening test PPV = a/(a + b) \u00d7 100 = TP/(TP + FP) \u00d7 100</li><li>\u2022 Positive predictive value</li><li>\u2022 Negative predictive value (NPV): Ability of a screening test to identify correctly all those who do not have the disease, out of all those who test negative on a screening test NPV = d/(c + d) \u00d7 100 = TN/(FN + TN) \u00d7 100</li><li>\u2022 Negative predictive value</li><li>\u2022 Percentage of false positives (FP) - % FP = b/(b + d) \u00d7 100 = FP/(FP + TN) \u00d7 100</li><li>\u2022 Percentage of false positives</li><li>\u2022 Percentage of false negatives (FN) - % FN = c/(a + c) \u00d7 100 = FN/(TP + FN) \u00d7 100</li><li>\u2022 Percentage of false negatives</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 A screening test was found to be 90% specificity . This implies 90% of non-diseased persons will give a - True Negative Result</li><li>\u27a4 screening test</li><li>\u27a4 90% specificity</li><li>\u27a4 implies 90%</li><li>\u27a4 non-diseased persons</li><li>\u27a4 True Negative Result</li><li>\u27a4 Ref : Park 26 th ed pg 154</li><li>\u27a4 Ref</li><li>\u27a4 : Park 26 th ed pg 154</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d255abba",
+      "audio": ""
+    },
+    {
+      "text": "You are a resident physician reviewing the laboratory results of a 45-year-old male patient who recently underwent a screening test for colorectal cancer. The patient appears healthy with no significant family history of colorectal cancer. The patient's test result came back negative. Given the characteristics of the test, the probability that this case, whose result is negative on a screening test, really does not have the disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive predictive value",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative predictive value",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Specificity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Negative predictive value",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039033.jpg"
+      ],
+      "explanation": "<p><strong>Ans. B. Negative predictive value</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Positive predictive value (PPV): Ability of a screening test to identify correctly all those who have the disease , out of all those who test positive on a screening test PPV = TP/(TP + FP) \u00d7 100</li><li>\u2022 Option A.</li><li>\u2022 Positive predictive value</li><li>\u2022 Ability</li><li>\u2022 screening test</li><li>\u2022 identify correctly</li><li>\u2022 who have the disease</li><li>\u2022 Option C. Sensitivity : Ability of a screening test to identify correctly all those who have the disease (cases) Sensitivity = TP/(TP + FN) \u00d7 100</li><li>\u2022 Option C.</li><li>\u2022 Sensitivity</li><li>\u2022 screening test</li><li>\u2022 correctly all those</li><li>\u2022 disease</li><li>\u2022 Option D. Specificity : Ability of a screening test to identify correctly all those who do not have the disease (healthy) Specificity = TN/(TN + FP) \u00d7 100</li><li>\u2022 Option D.</li><li>\u2022 Specificity</li><li>\u2022 screening test</li><li>\u2022 correctly all those</li><li>\u2022 disease</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Ability of a screening test to identify correctly all those who do not have the disease , out of all those who test negative on a screening test known as - Negative predictive value ; while, Ability of a screening test to identify correctly all those who have the disease, out of all those who test positive on a screening test known as Positive predictive value</li><li>\u27a4 Ability</li><li>\u27a4 screening test</li><li>\u27a4 correctly all those</li><li>\u27a4 do not have the disease</li><li>\u27a4 test negative</li><li>\u27a4 screening test</li><li>\u27a4 Negative predictive value</li><li>\u27a4 Ability</li><li>\u27a4 screening test</li><li>\u27a4 correctly all those</li><li>\u27a4 disease,</li><li>\u27a4 test positive</li><li>\u27a4 screening test</li><li>\u27a4 Positive</li><li>\u27a4 predictive value</li><li>\u27a4 Ref : AFMC textbook, pg 162.</li><li>\u27a4 Ref</li><li>\u27a4 : AFMC textbook, pg 162.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "27316cac",
+      "audio": ""
+    },
+    {
+      "text": "You are a medical officer overseeing a blood donation camp in a rural village. After a successful day, around 30 people have donated blood. Recognizing the importance of safety in blood transfusions, you instruct your team of technicians to screen all the donated blood products for Hepatitis B and C before they are used for patient transfusions. This precautionary measure is essential in preventing the transmission of these infections through blood products. In the context of public health and preventive medicine, how would you categorize the screening of blood products for Hepatitis B in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prescriptive screening",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prospective Screening",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Surveillance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multiphasic screening",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Prospective Screening",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-143128.png"
+      ],
+      "explanation": "<p><strong>Ans. B. Prospective Screening</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Prescriptive Screening: Is defined as screening for diseases solely for the benefit of the individuals . Ex: Neonatal Screening, paps smear, etc</li><li>\u2022 Option A. Prescriptive Screening:</li><li>\u2022 screening for diseases</li><li>\u2022 benefit of the individuals</li><li>\u2022 Option C. Surveillance: Is the ongoing systematic collection and analysis of data and the provision of information that leads to action being taken to prevent and control disease and other conditions of ill-health , usually one of an infectious nature. This is a broader concept and works in a continuous cycle pattern with a feedback mechanism , where an Inbuilt action component is present and this even continues if the disease is eliminated/eradicated.         Types of surveillance - passive, active, sentinel.</li><li>\u2022 Option C. Surveillance:</li><li>\u2022 ongoing systematic collection</li><li>\u2022 analysis of data</li><li>\u2022 provision of information</li><li>\u2022 action being taken to prevent</li><li>\u2022 control disease</li><li>\u2022 ill-health</li><li>\u2022 infectious nature.</li><li>\u2022 broader</li><li>\u2022 works in a continuous cycle pattern</li><li>\u2022 feedback mechanism</li><li>\u2022 Option D. Multiphasic Screening: Application of two or more screening tests in combination to a large number of people at one time</li><li>\u2022 Option D. Multiphasic Screening: Application</li><li>\u2022 two or more screening tests</li><li>\u2022 large number</li><li>\u2022 people at one time</li><li>\u2022 Example: Annual health check ups</li><li>\u2022 Example: Annual health check ups</li><li>\u2022 Example: Annual health check ups</li><li>\u2022 Example:</li><li>\u2022 Screening of disease:</li><li>\u2022 Screening of disease:</li><li>\u2022 Is used to search for an unrecognized diseases or defect, in apparently healthy individuals , by means of rapidly applied tests , examinations or other procedures</li><li>\u2022 search for an unrecognized diseases</li><li>\u2022 defect,</li><li>\u2022 apparently healthy individuals</li><li>\u2022 rapidly applied tests</li><li>\u2022 Types -</li><li>\u2022 Types -</li><li>\u2022 Mass screening : Screening of whole population or a subgroup irrespective of individual\u2019s risk</li><li>\u2022 Mass screening</li><li>\u2022 Screening</li><li>\u2022 whole population</li><li>\u2022 subgroup</li><li>\u2022 individual\u2019s risk</li><li>\u2022 Example: Chest X-ray for TB on large population</li><li>\u2022 Example: Chest X-ray for TB on large population</li><li>\u2022 Example: Chest X-ray for TB on large population</li><li>\u2022 Example:</li><li>\u2022 High risk (Selective) screening : Screening applied selectively to high risk groups based on epidemiological research.</li><li>\u2022 High risk</li><li>\u2022 screening</li><li>\u2022 Screening</li><li>\u2022 high risk groups</li><li>\u2022 epidemiological research.</li><li>\u2022 Examples: Cervical cancer screening in lower socioeconomic strata, Diabetes screening in members of a family with history, HIV screening in risk groups</li><li>\u2022 Examples: Cervical cancer screening in lower socioeconomic strata, Diabetes screening in members of a family with history, HIV screening in risk groups</li><li>\u2022 Examples: Cervical cancer screening in lower socioeconomic strata, Diabetes screening in members of a family with history, HIV screening in risk groups</li><li>\u2022 Examples:</li><li>\u2022 Multipurpose screening : Screening of a population by more than one test done simultaneously to detect more than one disease</li><li>\u2022 Multipurpose screening</li><li>\u2022 Screening</li><li>\u2022 population</li><li>\u2022 Example: Screening of a pregnant woman for VDRL, HIV, HBV by serological tests on a blood sample</li><li>\u2022 Example: Screening of a pregnant woman for VDRL, HIV, HBV by serological tests on a blood sample</li><li>\u2022 Example: Screening of a pregnant woman for VDRL, HIV, HBV by serological tests on a blood sample</li><li>\u2022 Example:</li><li>\u2022 Opportunistic and case finding screening : If there is no accurate or precise diagnostic test for the disease and where the frequency of its occurrence in the population is small ; an objective is to detect disease and bring patients to treatment</li><li>\u2022 Opportunistic and case finding screening</li><li>\u2022 no accurate</li><li>\u2022 precise diagnostic test</li><li>\u2022 disease</li><li>\u2022 frequency of its occurrence</li><li>\u2022 population is small</li><li>\u2022 Example: RHD in children</li><li>\u2022 Example: RHD in children</li><li>\u2022 Example: RHD in children</li><li>\u2022 Example:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Prospective screening is the screening the person to protect the community from disease like screening of immigrant\u2019s / sex workers for HIV, Hep B, etc, while people screens for their own benefit is known as Prescriptive screening like Paps smear, NNS</li><li>\u27a4 Prospective screening</li><li>\u27a4 screening the person to protect the community from disease</li><li>\u27a4 screening of immigrant\u2019s</li><li>\u27a4 sex workers for HIV, Hep B,</li><li>\u27a4 screens</li><li>\u27a4 Prescriptive screening like Paps smear, NNS</li><li>\u27a4 Ref : AFMC Textbook, pg 168</li><li>\u27a4 Ref : AFMC Textbook, pg 168</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a019d063",
+      "audio": ""
+    },
+    {
+      "text": "As a resident in a public health department, you are involved in a discussion about the cost-effectiveness and resource allocation for a new screening program for lung cancer. One of the key considerations is ensuring that the program provides a sufficient number of cases to justify the expenditure and resources involved. This concept is crucial in public health to ensure that programs are both effective and efficient in using limited resources. In this context, what term best describes the principle of providing enough cases to commensurate with the expenditure and inputs involved in a screening program?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Efficient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Yield",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Efficacy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Precise",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Yield",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Yield</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Efficient : The number of inputs (in terms of expenses and time) should result in a reasonable number of outputs in terms of improved health & satisfaction . Is the measure of relationship between the results achieved and the effort expended in terms of money, resources and time.</li><li>\u2022 Option A.</li><li>\u2022 Efficient</li><li>\u2022 number of inputs</li><li>\u2022 reasonable number of outputs</li><li>\u2022 improved health & satisfaction</li><li>\u2022 Option C. Efficacy: Is the effect or usefulness of an agent/drug/vaccine under ideal \u2018controlled laboratory\u2019 conditions.</li><li>\u2022 Option</li><li>\u2022 C.</li><li>\u2022 Efficacy:</li><li>\u2022 effect or usefulness</li><li>\u2022 agent/drug/vaccine</li><li>\u2022 \u2018controlled laboratory\u2019</li><li>\u2022 Option D. Precise: Test should give consistent results when repeated more than once on the same individual or material , under the same conditions. Precision is also known as Reliability, Repeatability or Reproducibility</li><li>\u2022 Option</li><li>\u2022 D.</li><li>\u2022 Precise:</li><li>\u2022 Test</li><li>\u2022 give consistent</li><li>\u2022 repeated more than once</li><li>\u2022 same individual</li><li>\u2022 material</li><li>\u2022 Other remaining criteria of Tests used for Screening should be:</li><li>\u2022 Other remaining criteria of Tests used for Screening should be:</li><li>\u2022 Valid: It should be \u201caccurate\u201d, i.e., should measure correctly what it intends to . It should have high sensitivity , specificity, and positive & negative predictive values . Practical : The test should be easily administered , even by people with ordinary training , should be innocuous, acceptable and should give quick results.</li><li>\u2022 Valid: It should be \u201caccurate\u201d, i.e., should measure correctly what it intends to . It should have high sensitivity , specificity, and positive & negative predictive values .</li><li>\u2022 Valid:</li><li>\u2022 \u201caccurate\u201d,</li><li>\u2022 measure correctly</li><li>\u2022 intends to</li><li>\u2022 high sensitivity</li><li>\u2022 positive & negative predictive values</li><li>\u2022 Practical : The test should be easily administered , even by people with ordinary training , should be innocuous, acceptable and should give quick results.</li><li>\u2022 Practical</li><li>\u2022 easily administered</li><li>\u2022 ordinary training</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The yield of a screening test is measured by the number of cases identified whose prognosis is improved as a result of their early detection.</li><li>\u27a4 yield of a screening test</li><li>\u27a4 measured by the number of cases</li><li>\u27a4 Ref : AFMC pg. 168</li><li>\u27a4 Ref</li><li>\u27a4 : AFMC pg. 168</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5798691e",
+      "audio": ""
+    },
+    {
+      "text": "In a public health research study, a new screening tool for cervical cancer was developed. The researchers want to ensure that this screening tool accurately identifies individuals with cervical cancer while minimizing false positives. Which term best describes the ability of the screening tool to correctly measure what it intends to measure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reliability",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Practical",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Valid",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Efficient",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Valid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Valid</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Reliable (Precise): It should give consistent results when repeated applications are made</li><li>\u2022 Option A. Reliable (Precise):</li><li>\u2022 give consistent results</li><li>\u2022 Option B. Practical: The test should be easily administered, even by people with ordinary training , should be innocuous , acceptable and should give quick results.</li><li>\u2022 Option B. Practical:</li><li>\u2022 easily administered,</li><li>\u2022 people with ordinary training</li><li>\u2022 innocuous</li><li>\u2022 acceptable</li><li>\u2022 Option D. Efficient: The number of inputs (in terms of expenses and time) should result in a reasonable number of outputs in terms of improved health & satisfaction .</li><li>\u2022 Option D. Efficient:</li><li>\u2022 number of inputs</li><li>\u2022 reasonable number</li><li>\u2022 outputs</li><li>\u2022 improved health & satisfaction</li><li>\u2022 Other remaining criteria of Tests to be used for Screening purposes are -</li><li>\u2022 Other remaining criteria of Tests to be used for Screening purposes are -</li><li>\u2022 Validity: It should be \u201caccurate\u201d, i.e., should measure correctly what it intends to . It should have high sensitivity , specificity, and positive & negative predictive values . Yield : It should give enough number of cases to commensurate with the expenditure and inputs involved . Yield will depend on Sensitivity of the test, Prevalence of the disease (If screening is applied to a high-risk group, the yield will be better) and availability of medical care (for better prognosis).</li><li>\u2022 Validity: It should be \u201caccurate\u201d, i.e., should measure correctly what it intends to . It should have high sensitivity , specificity, and positive & negative predictive values .</li><li>\u2022 Validity:</li><li>\u2022 \u201caccurate\u201d,</li><li>\u2022 correctly</li><li>\u2022 intends to</li><li>\u2022 high sensitivity</li><li>\u2022 positive & negative predictive values</li><li>\u2022 Yield : It should give enough number of cases to commensurate with the expenditure and inputs involved . Yield will depend on Sensitivity of the test, Prevalence of the disease (If screening is applied to a high-risk group, the yield will be better) and availability of medical care (for better prognosis).</li><li>\u2022 Yield</li><li>\u2022 number of cases to commensurate</li><li>\u2022 expenditure and inputs involved</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The ability of the screening to measure correctly what it intends is - Validity</li><li>\u27a4 ability of the screening</li><li>\u27a4 measure correctly</li><li>\u27a4 Validity</li><li>\u27a4 Ref : AFMC pg 168</li><li>\u27a4 Ref : AFMC pg 168</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0b508627",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old woman presents to her primary care physician for a routine health checkup. She has no symptoms related to any specific illness. Which of the following statements is FALSE regarding the criteria for a screening test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The natural history of the condition should be adequately understood.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "There should be an agreed policy regarding whom to treat as patients.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "There should be an acceptable and effective treatment.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "There should not be latent / early symptomatic stage.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. There should not be latent / early symptomatic stage.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. There should not be latent / early symptomatic stage</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 There should be recognizable latent / early symptomatic stage of disease for it to be considered for Screening.</li><li>\u2022 recognizable latent</li><li>\u2022 early symptomatic stage</li><li>\u2022 disease</li><li>\u2022 Screening.</li><li>\u2022 Other 3 options are correct (details are mentioned below).</li><li>\u2022 3 options are correct</li><li>\u2022 Following are considerations of Screening test:</li><li>\u2022 Following are considerations of Screening test:</li><li>\u2022 The condition should be an important health problem. There should be an acceptable and effective treatment. Facilities for confirming the diagnosis and for treatment should be available. There should be recognizable latent / early symptomatic stage. There should be a suitable screening test or examination available. The test should be acceptable. The natural history of the condition, including development from latent to apparent disease, should be adequately understood. There should be an agreed policy regarding whom to treat as patients. The cost of case finding (including final diagnosis and treatment) should be economically balanced with the expenditure on medical care. Case finding should be a continuing process and not \u201conce and for all\u201d project.</li><li>\u2022 The condition should be an important health problem.</li><li>\u2022 The condition should be an important health problem.</li><li>\u2022 There should be an acceptable and effective treatment.</li><li>\u2022 There should be an acceptable and effective treatment.</li><li>\u2022 There should be an acceptable and effective treatment.</li><li>\u2022 Facilities for confirming the diagnosis and for treatment should be available.</li><li>\u2022 Facilities for confirming the diagnosis and for treatment should be available.</li><li>\u2022 There should be recognizable latent / early symptomatic stage.</li><li>\u2022 There should be recognizable latent / early symptomatic stage.</li><li>\u2022 There should be recognizable latent / early symptomatic stage.</li><li>\u2022 There should be a suitable screening test or examination available.</li><li>\u2022 There should be a suitable screening test or examination available.</li><li>\u2022 The test should be acceptable.</li><li>\u2022 The test should be acceptable.</li><li>\u2022 The natural history of the condition, including development from latent to apparent disease, should be adequately understood.</li><li>\u2022 The natural history of the condition, including development from latent to apparent disease, should be adequately understood.</li><li>\u2022 The natural history of the condition, including development from latent to apparent disease, should be adequately understood.</li><li>\u2022 There should be an agreed policy regarding whom to treat as patients.</li><li>\u2022 There should be an agreed policy regarding whom to treat as patients.</li><li>\u2022 There should be an agreed policy regarding whom to treat as patients.</li><li>\u2022 The cost of case finding (including final diagnosis and treatment) should be economically balanced with the expenditure on medical care.</li><li>\u2022 The cost of case finding (including final diagnosis and treatment) should be economically balanced with the expenditure on medical care.</li><li>\u2022 Case finding should be a continuing process and not \u201conce and for all\u201d project.</li><li>\u2022 Case finding should be a continuing process and not \u201conce and for all\u201d project.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The following are true with respect to the consideration of a disease for screening - There should be latent / early symptomatic stage of disease , t here should be an acceptable and effective treatment , the natural history of the condition including development from latent to apparent disease , should be adequately understood and there should be an agreed policy regarding whom to treat as patients.</li><li>\u27a4 true with respect</li><li>\u27a4 disease for screening</li><li>\u27a4 There should be latent / early symptomatic stage of disease</li><li>\u27a4 acceptable</li><li>\u27a4 effective treatment</li><li>\u27a4 natural history</li><li>\u27a4 condition</li><li>\u27a4 development from latent to apparent disease</li><li>\u27a4 Ref : AFMC Textbook, Pg 169</li><li>\u27a4 Ref : AFMC Textbook, Pg 169</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a0c58c09",
+      "audio": ""
+    },
+    {
+      "text": "A cervical cancer screening programme was conducted in a rural area using pap smear procedure, in the year 2000. Out of the women who participated, Mrs \u2018A\u2019 was diagnosed to be having cervical cancer; however she could not be offered surgery because no gynaecologist was available. She died of cervical cancer in 2005. Out of the women who did not participate, Mrs \u2018B\u2019 developed symptoms of cervical cancer and was diagnosed in 2002. She also died in 2005. This occurrence represents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Successful increase in years lived by Mrs \u2018A\u2019",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Length time bias",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lead time bias",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Self-selection bias",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Lead time bias",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Lead time bias</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Successful increase in years lived by Mrs \u2018A\u2019 : Here by early diagnosis without availability of treatment - increase a few more years of sickness and apprehension rather than success or health for patient</li><li>\u2022 Option A. Successful increase in years lived by Mrs \u2018A\u2019</li><li>\u2022 early diagnosis</li><li>\u2022 without availability of treatment</li><li>\u2022 Option B. Length time bias: It has been observed that cases detected through periodic, early detection programs , tend to have longer preclinical stages than those missed out by screening but self-detected between examinations.</li><li>\u2022 Option B. Length time bias:</li><li>\u2022 observed that cases detected</li><li>\u2022 periodic, early detection programs</li><li>\u2022 Option D. Self-Selection bias: If the groups which are offered screening test are not constituted on the basis of self-selection (volunteers), it is possible that such volunteers may be more health conscious , educated and more likely to give up associated risk factors; hence survival in such a screened group is likely to be better, not due to screening but because of associated factors.</li><li>\u2022 Option D. Self-Selection bias:</li><li>\u2022 groups</li><li>\u2022 offered screening test</li><li>\u2022 not constituted on the basis of self-selection</li><li>\u2022 volunteers may be more health conscious</li><li>\u2022 educated</li><li>\u2022 Other Important Types of Biases in Epidemiological Studies -</li><li>\u2022 Other Important Types of Biases in Epidemiological Studies -</li><li>\u2022 Apprehension bias : Certain levels (pulse, blood pressure) may alter systematically from their usual levels when the subject is apprehensive Attention bias (Hawthorne effect): Study subjects may systematically alter their behaviour when they know they are being observed Berksonian bias (Admission rate bias): Bias due to hospital cases and controls being systematically different from each other Interviewer bias : Interviewer devotes more time of interview with cases as compared to controls Memory/Recall bias : Cases are more likely to remember exposure more correctly than controls Neyman bias (Prevalence-incidence bias): Bias due to missing of fatal cases, mild/silent cases and cases of short duration of episodes from the study Selection bias (Susceptibility bias): Groups to be compared are differentially susceptible to the outcome of interest, even before the experimental maneuver is performed</li><li>\u2022 Apprehension bias : Certain levels (pulse, blood pressure) may alter systematically from their usual levels when the subject is apprehensive</li><li>\u2022 Apprehension bias</li><li>\u2022 Attention bias (Hawthorne effect): Study subjects may systematically alter their behaviour when they know they are being observed</li><li>\u2022 Attention bias</li><li>\u2022 Berksonian bias (Admission rate bias): Bias due to hospital cases and controls being systematically different from each other</li><li>\u2022 Berksonian bias</li><li>\u2022 Interviewer bias : Interviewer devotes more time of interview with cases as compared to controls</li><li>\u2022 Interviewer bias</li><li>\u2022 Memory/Recall bias : Cases are more likely to remember exposure more correctly than controls</li><li>\u2022 Memory/Recall bias</li><li>\u2022 Neyman bias (Prevalence-incidence bias): Bias due to missing of fatal cases, mild/silent cases and cases of short duration of episodes from the study</li><li>\u2022 Neyman bias</li><li>\u2022 Selection bias (Susceptibility bias): Groups to be compared are differentially susceptible to the outcome of interest, even before the experimental maneuver is performed</li><li>\u2022 Selection bias</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Lead time bias (Zero time shift bias) - Bias of over-estimation of survival time , due to backward shift in starting point, as by screening procedures</li><li>\u27a4 Lead time bias</li><li>\u27a4 Bias of over-estimation</li><li>\u27a4 survival time</li><li>\u27a4 screening procedures</li><li>\u27a4 Ref : AFMC pg: 169.</li><li>\u27a4 Ref</li><li>\u27a4 : AFMC pg: 169.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a8bc3def",
+      "audio": ""
+    },
+    {
+      "text": "Early diagnosis of breast cancer through mammography improves prognosis. For screening program to be most effective, between which points in the natural history of the disease, must the screening test be applied:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Between A and B",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Between B and C",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Between C and D",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anywhere between A and C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Between B and C",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039034.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039035.jpg"
+      ],
+      "explanation": "<p><strong>Ans. B. Between B and C</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Point between B and D indicates lead time . Applying the screening test between the points B and C which is the screening time , will help in early diagnosis and management of the Breast Cancer.</li><li>\u2022 Point between B and D</li><li>\u2022 lead time</li><li>\u2022 screening test</li><li>\u2022 points B and C</li><li>\u2022 screening time</li><li>\u2022 early diagnosis</li><li>\u2022 management of the Breast Cancer.</li><li>\u2022 Early detection of disease (B rather than D) will ensure earlier institution of treatment , thus better prognosis</li><li>\u2022 Early detection of disease</li><li>\u2022 earlier institution of treatment</li><li>\u2022 Lead time bias (Zero time shift bias) : Between B & D - Bias of over-estimation of survival time , due to backward shift in starting point, as by screening procedures</li><li>\u2022 Lead time bias (Zero time shift bias)</li><li>\u2022 Between B & D</li><li>\u2022 Bias of over-estimation of survival time</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Lead time is the advantage gained by screening (leading the time of diagnosis). Early detection of disease due to screening (B rather than C) will ensure earlier institution of treatment, thus better prognosis.</li><li>\u27a4 Lead time</li><li>\u27a4 advantage gained by screening</li><li>\u27a4 Early detection</li><li>\u27a4 disease due to screening</li><li>\u27a4 Ref : Park 26 th ed pg. 151</li><li>\u27a4 Ref : Park 26 th ed pg. 151</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0e68164c",
+      "audio": ""
+    },
+    {
+      "text": "A 50-year-old man presents with complaints of blood in his stool (melena). The physician orders a Hemoccult test (Fecal Occult Blood Test) as the initial screening test. The Hemoccult test returns a positive result. What is the likely consequence of ordering a second stool sample test in this sequence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Net increase in sensitivity and specificity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Net Increase in specificity but decrease in sensitivity",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "No change in sensitivity and specificity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Net decrease in Specificity but increase in sensitivity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Net Increase in specificity but decrease in sensitivity",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039036.jpg"
+      ],
+      "explanation": "<p><strong>Ans. B. Net Increase in specificity but decrease in sensitivity.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Screening Tests Used in Series : A population is subjected to one screening test followed by a second screening test ; 2nd screening test is applied on those individuals only who test positive on the 1st screening test</li><li>\u2022 Screening Tests Used in Series</li><li>\u2022 population</li><li>\u2022 subjected to one screening test</li><li>\u2022 second screening test</li><li>\u2022 2nd screening test</li><li>\u2022 positive on the 1st screening test</li><li>\u2022 Combined sensitivity of 2 tests A & B in series = Sensitivity (A) \u00d7 Sensitivity (B) Combined specificity of 2 tests A & B in series = [Specificity (A) + Specificity (B)] \u2013 [Specificity (A) \u00d7 Specificity (B)]</li><li>\u2022 Combined sensitivity of 2 tests A & B in series = Sensitivity (A) \u00d7 Sensitivity (B)</li><li>\u2022 Combined specificity of 2 tests A & B in series = [Specificity (A) + Specificity (B)] \u2013 [Specificity (A) \u00d7 Specificity (B)]</li><li>\u2022 Screening Tests Used in Parallel: A population is subjected to two (or more) screening tests at the same time ; each of the individuals is subjected to both (or all) screening tests</li><li>\u2022 Screening Tests Used in Parallel:</li><li>\u2022 population is subjected to two</li><li>\u2022 screening tests</li><li>\u2022 same time</li><li>\u2022 Combined sensitivity of 2 tests A & B in parallel = [Sensitivity (A) + Sensitivity (B)] \u2013 [Sensitivity (A) \u00d7 Sensitivity (B)] Combined specificity of 2 tests A & B in parallel = Specificity (A) \u00d7 Specificity (B)</li><li>\u2022 Combined sensitivity of 2 tests A & B in parallel = [Sensitivity (A) + Sensitivity (B)] \u2013 [Sensitivity (A) \u00d7 Sensitivity (B)]</li><li>\u2022 Combined specificity of 2 tests A & B in parallel = Specificity (A) \u00d7 Specificity (B)</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The use of 2 tests in sequence results in gain in net specificity and loss in net sensitivity .</li><li>\u27a4 use of 2 tests</li><li>\u27a4 gain in net specificity</li><li>\u27a4 loss in net sensitivity</li><li>\u27a4 The use of 2 test in parallel results in gain in net sensitivity and loss in net specificity .</li><li>\u27a4 2 test in parallel</li><li>\u27a4 gain in net sensitivity</li><li>\u27a4 loss in net specificity</li><li>\u27a4 Ref : Epidemiology, Leon Gordis, 5 th ed, Pg 96.</li><li>\u27a4 Ref : Epidemiology, Leon Gordis, 5 th ed, Pg 96.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "14074a8c",
+      "audio": ""
+    },
+    {
+      "text": "Breast cancer screening through clinical breast examination showed that of 50 women with Breast cancer confirmed through mammography, test was positive in 37 and negative in 13 women. In contrast the test was positive in 12 and negative in 48 normal women also. What is the sensitivity and specificity of the test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "75.5% and 78.6%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "80% and 74%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "74% and 80%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "78.6% and 75.5%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 74% and 80%",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-152755.png"
+      ],
+      "explanation": "<p><strong>Ans. C. 74% and 80%</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Sensitivity : Ability of a screening test to identify correctly all those who have the disease (cases)</li><li>\u2022 Sensitivity</li><li>\u2022 screening test</li><li>\u2022 identify correctly</li><li>\u2022 disease</li><li>\u2022 Sensitivity = a/(a + c) \u00d7 100 = TP/(TP + FN) \u00d7 100 = 37*100/ 50 = 74%</li><li>\u2022 Specificity : Ability of a screening test to identify correctly all those who do not have the disease (healthy)</li><li>\u2022 Specificity</li><li>\u2022 Specificity = d/(b + d) \u00d7 100 = TN/(TN + FP) \u00d7 100 = 48*100/60 = 80%</li><li>\u2022 Specificity</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Sensitivity = a/(a + c) \u00d7 100 = TP/(TP + FN) \u00d7 100</li><li>\u27a4 Sensitivity</li><li>\u27a4 Specificity = d/(b + d) \u00d7 100 = TN/(TN + FP) \u00d7 100</li><li>\u27a4 Specificity</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "baff72f1",
+      "audio": ""
+    },
+    {
+      "text": "A patient's blood glucose level is being tested for impaired glucose tolerance. According to WHO criteria, the cutoff for impaired glucose level is 110 mg/dl, while the International Diabetes Federation suggests a cutoff of 100 mg/dl. If the reduced cutoff of 100 mg/dl is used, what is the most likely effect on the test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Specificity will increase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sensitivity will increase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Positive predictive value will increase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "No change",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sensitivity will increase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Sensitivity will increase</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Specificity will increase: Is incorrect because lowering the cutoff generally decreases specificity . The test will be more likely to incorrectly identify healthy individuals as having impaired glucose tolerance.</li><li>\u2022 Option</li><li>\u2022 A. Specificity will increase:</li><li>\u2022 lowering the cutoff</li><li>\u2022 decreases specificity</li><li>\u2022 Option C. Positive predictive value will increase: Is incorrect. The positive predictive value depends on both the sensitivity of the test and the prevalence of the condition in the population. Lowering the cutoff and potentially increasing false positives may actually decrease the positive predictive value, especially in populations with low prevalence of the condition.</li><li>\u2022 Option C. Positive predictive value will increase:</li><li>\u2022 positive predictive</li><li>\u2022 depends on both the sensitivity of the test</li><li>\u2022 prevalence</li><li>\u2022 Option D. No change: Is incorrect because changing the cutoff value will possibly affect the characteristics of test.</li><li>\u2022 Option D. No change:</li><li>\u2022 changing the cutoff value</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 If cut off is lowered , the test will have higher sensitivity value & low specificity ; if the cut - off level is raised , it will result in high specificity and low sensitivity .</li><li>\u27a4 cut off is lowered</li><li>\u27a4 test</li><li>\u27a4 higher sensitivity value & low specificity</li><li>\u27a4 cut - off level is raised</li><li>\u27a4 high specificity</li><li>\u27a4 low sensitivity</li><li>\u27a4 Ref : AFMC textbook, pg 167</li><li>\u27a4 Ref : AFMC textbook, pg 167</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6156417b",
+      "audio": ""
+    },
+    {
+      "text": "A 50-year-old man with a family history of colorectal cancer undergoes a screening colonoscopy. The result of his colonoscopy is positive for precancerous polyps. Given this scenario, how is the positive likelihood ratio (LR+) of this screening test measured?",
+      "options": [
+        {
+          "label": "A",
+          "text": "{(Specificity)/ (1- Sensitivity)}",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "{(Sensitivity)/ (1- Specificity)}",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "{(1- Specificity)/ (Sensitivity)}",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "{(1- Sensitivity)/Specificity}",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. {(Sensitivity)/ (1- Specificity)}",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/27/image_oYnOsIK.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/27/image_GWsIfsq.png"
+      ],
+      "explanation": "<p><strong>Ans. B. {(Sensitivity)/ (1- Specificity)}</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The positive likelihood ratio (LR+) is a measure used to assess the usefulness of a diagnostic test .  A higher LR+ indicates that a positive test result is more likely to be found in someone with the disease than in someone without it, making the test more useful for ruling in the disease.</li><li>\u2022 positive likelihood ratio</li><li>\u2022 assess the usefulness</li><li>\u2022 diagnostic test</li><li>\u2022 higher LR+</li><li>\u2022 positive test</li><li>\u2022 found in someone with the disease</li><li>\u2022 Likelihood Ratio</li><li>\u2022 Likelihood Ratio</li><li>\u2022 Incorporates both the sensitivity and specificity of the test and provides a direct estimate of how much a test result will change the odds of having a disease . Likelihood ratio for a positive result (LR+) tells you how much the odds of the disease increase when a test is positive</li><li>\u2022 Incorporates both the sensitivity and specificity of the test and provides a direct estimate of how much a test result will change the odds of having a disease .</li><li>\u2022 Incorporates</li><li>\u2022 sensitivity</li><li>\u2022 specificity of the test</li><li>\u2022 provides a direct estimate</li><li>\u2022 test result will change</li><li>\u2022 odds of having a disease</li><li>\u2022 Likelihood ratio for a positive result (LR+) tells you how much the odds of the disease increase when a test is positive</li><li>\u2022 Likelihood ratio</li><li>\u2022 positive</li><li>\u2022 Likelihood ratio for a negative result (LR\u2013) tells you how much the odds of the disease decrease when a test is negative</li><li>\u2022 Likelihood ratio for a negative result (LR\u2013) tells you how much the odds of the disease decrease when a test is negative</li><li>\u2022 Likelihood ratio</li><li>\u2022 negative result</li><li>\u2022 odds of the disease decrease</li><li>\u2022 test is negative</li><li>\u2022 Post-test odds (the chances that patient has a disease): Once you have specified the pre-test odds (the likelihood that the patient would have a specific disease prior to testing), you multiply them by the likelihood ratio Odds (post) = Odds (pre) \u00d7 Likelihood ratio</li><li>\u2022 Post-test odds (the chances that patient has a disease): Once you have specified the pre-test odds (the likelihood that the patient would have a specific disease prior to testing), you multiply them by the likelihood ratio Odds (post) = Odds (pre) \u00d7 Likelihood ratio</li><li>\u2022 Post-test odds</li><li>\u2022 specified the</li><li>\u2022 pre-test odds</li><li>\u2022 multiply them by the likelihood ratio</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Educational Objective:</li><li>\u27a4 LR+ = Sensitivity/(1 \u2013 Specificity)</li><li>\u27a4 LR+ = Sensitivity/(1 \u2013 Specificity)</li><li>\u27a4 LR - = (1- Sensitivity)/ Specificity</li><li>\u27a4 LR - = (1- Sensitivity)/ Specificity</li><li>\u27a4 Ref: AFMC textbook,1 st ed.  pg 164</li><li>\u27a4 Ref: AFMC textbook,1 st ed.  pg 164</li><li>\u27a4 Ref:</li><li>\u27a4 AFMC textbook,1 st ed.  pg 164</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4fa0d0f7",
+      "audio": ""
+    },
+    {
+      "text": "In a study evaluating ELISA as a screening test for HIV, where PCR was used as the confirmatory diagnostic test, it was found that ELISA was positive in 90 out of 100 confirmed HIV patients. Additionally, ELISA showed positive results in 11 out of 100 individuals without HIV. Based on this information, what are the positive predictive value (PPV) and negative predictive value (NPV) of the ELISA test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "90% and 89%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "89.1% and 89.9%",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "90% and 94%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "89.9% and 78%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 89.1% and 89.9%",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/05/screenshot-2024-08-05-154244.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/15/image_AnsSIS9.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/15/image_fLfh0K8.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/15/image_yoslrbi.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/15/image_kjpsiU7.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/15/image_yPIAA2J.png"
+      ],
+      "explanation": "<p><strong>Ans. B. 89.1% and 89.9%</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Positive predictive value of the test = True positive/ Total positives = 90*100/101= 89.1% Negative predictive value = True negatives/ Total negatives = 89*100/ 99= 89.9%</li><li>\u2022 Positive predictive value of the test = True positive/ Total positives = 90*100/101= 89.1%</li><li>\u2022 Positive predictive</li><li>\u2022 test</li><li>\u2022 Negative predictive value = True negatives/ Total negatives = 89*100/ 99= 89.9%</li><li>\u2022 Negative predictive value</li><li>\u2022 Some important Pointers -</li><li>\u2022 Some important Pointers -</li><li>\u2022 If prevalence of disease increases , predictive value of a positive test will - Increase PPV of a screening test is directly proportional to prevalence of disease in the population</li><li>\u2022 If prevalence of disease increases , predictive value of a positive test will - Increase</li><li>\u2022 prevalence of disease increases</li><li>\u2022 positive test</li><li>\u2022 Increase</li><li>\u2022 PPV of a screening test is directly proportional to prevalence of disease in the population</li><li>\u2022 PPV of a screening test</li><li>\u2022 directly proportional</li><li>\u2022 prevalence of disease</li><li>\u2022 Diagnostic power of a screening test: Predictive accuracy Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV)</li><li>\u2022 Diagnostic power of a screening test: Predictive accuracy Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV)</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV)</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease: Positive predictive value (PPV)</li><li>\u2022 \u200b\u200b\u200b\u200b\u200b\u200b</li><li>\u2022 Diagnostic power of a screening test to correctly exclude a disease : Negative predictive value (NPV)</li><li>\u2022 Diagnostic power of a screening test to correctly exclude a disease : Negative predictive value (NPV)</li><li>\u2022 Diagnostic power</li><li>\u2022 screening test</li><li>\u2022 correctly exclude a disease</li><li>\u2022 Negative predictive value</li><li>\u2022 Predictive value of a screening test depends on \u2013 Sensitivity; Specificity; Prevalence of disease in the population PPV is also known as \u2018post-test probability of a disease\u2019 or \u2018precision rate\u2019</li><li>\u2022 Predictive value of a screening test depends on \u2013 Sensitivity; Specificity; Prevalence of disease in the population</li><li>\u2022 Predictive value</li><li>\u2022 screening test</li><li>\u2022 Sensitivity; Specificity; Prevalence</li><li>\u2022 disease in the population</li><li>\u2022 PPV is also known as \u2018post-test probability of a disease\u2019 or \u2018precision rate\u2019</li><li>\u2022 PPV</li><li>\u2022 \u2018post-test probability of a disease\u2019</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Positive predictive value of the test= True positive/ Total positives Negative predictive value= True negatives/ Total negatives Predictive value of a screening test depends on \u2013 Sensitivity; Specificity; Prevalence of disease in the population</li><li>\u27a4 Positive predictive value of the test= True positive/ Total positives</li><li>\u27a4 Positive predictive value of the test= True positive/ Total positives</li><li>\u27a4 Negative predictive value= True negatives/ Total negatives</li><li>\u27a4 Negative predictive value= True negatives/ Total negatives</li><li>\u27a4 Predictive value of a screening test depends on \u2013 Sensitivity; Specificity; Prevalence of disease in the population</li><li>\u27a4 Predictive value of a screening test depends on \u2013 Sensitivity; Specificity; Prevalence of disease in the population</li><li>\u27a4 Ref : park 26 th ed pg.</li><li>\u27a4 Ref : park 26 th ed pg.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "93f91e3b",
+      "audio": ""
+    },
+    {
+      "text": "As a part of malaria surveillance, a newly recruited lab technician was taught about the thin smear examination to study the species of Malarial parasite by the microbiologist. For assessing the inter observer variation and reliability between lab technician and microbiologist, results of 320 slides examined by both were taken. Both reported positive for 21, whereas reported negative for 251 slides. Total positives by technician were 32 and by microbiologist was 58 and negatives by technicians and microbiologist were 288 and 262 respectively. What is the degree of agreement in this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.94",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.57",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.38",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "8.56",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0.38",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039040.jpg",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/23/screenshot-2023-08-11-1921039041.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. 0.38</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Kappa coefficient (K)</li><li>\u2022 Kappa coefficient (K)</li><li>\u2022 Indicates the extent of agreement between frequencies of two sets of data collected on two different occasions Formula: K = O-E/(1 \u2013 E)</li><li>\u2022 Indicates the extent of agreement between frequencies of two sets of data collected on two different occasions</li><li>\u2022 extent of agreement</li><li>\u2022 frequencies of two sets</li><li>\u2022 data collected</li><li>\u2022 two different occasions</li><li>\u2022 Formula: K = O-E/(1 \u2013 E)</li><li>\u2022 O - Percent Agreement Observed</li><li>\u2022 E - Percent Agreement Expected by chance</li><li>\u2022 Interpretation:</li><li>\u2022 Interpretation:</li><li>\u2022 Interpretation:</li><li>\u2022 0 = agreement equivalent to chance. 0 \u2013 0.20 = slight agreement. 0.21 \u2013 0.40 = fair agreement. 0.41 \u2013 0.60 = moderate agreement. 0.61 \u2013 0.80 = substantial agreement. 0.81 \u2013 0.99 = near perfect agreement 1 = perfect agreement</li><li>\u2022 Nearer the Kappa coefficient is to 1 (or 100%), better the agreement between two observers , or methods of measurement, is likely to be. Kappa value</li><li>\u2022 Kappa coefficient</li><li>\u2022 1</li><li>\u2022 better the agreement</li><li>\u2022 two observers</li><li>\u2022 Kappa value</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Kappa coefficient (K) indicates the extent of agreement between frequencies of two sets of data collected on two different occasions .</li><li>\u27a4 Kappa coefficient</li><li>\u27a4 extent of agreement</li><li>\u27a4 frequencies of two sets</li><li>\u27a4 data collected</li><li>\u27a4 two different occasions</li><li>\u27a4 Formula: K = O-E/(1 \u2013 E)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "71ba46f8",
+      "audio": ""
+    },
+    {
+      "text": "A research team is evaluating a new screening test for early detection of pancreatic cancer. When considering the factors that will influence the predictive accuracy of this screening test, which of the following is the most important?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Specificity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prevalence",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. All of the above</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The predictive accuracy depends upon sensitivity (Option A), specificity (constant) (Option B) and disease prevalence (Option C).</li><li>\u2022 sensitivity (Option A), specificity (constant) (Option B) and disease prevalence (Option C).</li><li>\u2022 Diagnostic power of a screening test : Predictive accuracy (it tells the actual no. of people having the disease or not having the disease out of those shown positive or negative by a screening test, respectively)</li><li>\u2022 Diagnostic power</li><li>\u2022 screening test</li><li>\u2022 Predictive accuracy</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease : Positive predictive value (PPV) Diagnostic power of a screening test to correctly exclude a disease : Negative predictive value (NPV)</li><li>\u2022 Diagnostic power of a screening test to correctly identify a disease : Positive predictive value (PPV)</li><li>\u2022 Diagnostic power</li><li>\u2022 screening test</li><li>\u2022 correctly identify a disease</li><li>\u2022 Positive predictive value</li><li>\u2022 Diagnostic power of a screening test to correctly exclude a disease : Negative predictive value (NPV)</li><li>\u2022 Diagnostic power</li><li>\u2022 screening test</li><li>\u2022 correctly exclude a disease</li><li>\u2022 Negative predictive value</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The predictive accuracy of the screening test depends upon - sensitivity, specificity (constant) and disease prevalence .</li><li>\u27a4 predictive accuracy</li><li>\u27a4 screening test</li><li>\u27a4 sensitivity, specificity</li><li>\u27a4 disease prevalence</li><li>\u27a4 Ref: Park 26 th ed pg 155</li><li>\u27a4 Ref: Park 26 th ed pg 155</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "75238144",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old woman undergoes a screening test for breast cancer. To assess the validity of this screening test, which of the following parameters should be primarily considered?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cost effectiveness",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sensitivity and specificity",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Kappa statistics",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Percent agreement",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sensitivity and specificity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Sensitivity and specificity</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Cost Effectiveness : Input is in monetary terms whereas output is in terms of \u2018results achieved\u2019</li><li>\u2022 Option A. Cost Effectiveness</li><li>\u2022 Input</li><li>\u2022 monetary terms</li><li>\u2022 Option C. Kappa statistics: Indicates the extent of agreement between frequencies of two sets of data collected on two different occasions</li><li>\u2022 Option C. Kappa statistics:</li><li>\u2022 extent of agreement</li><li>\u2022 frequencies of two sets of data collected</li><li>\u2022 Option D. Percent agreement: Percent agreement is an intuitive approach to measuring agreement but does not adjust for chance. Kappa provides a measure of agreement beyond that which would be expected by chance, as estimated by the observed data.</li><li>\u2022 Option D. Percent agreement:</li><li>\u2022 intuitive approach</li><li>\u2022 measuring agreement</li><li>\u2022 Some Important Pointers -</li><li>\u2022 Some Important Pointers -</li><li>\u2022 Inherent properties of a screening test \u2013 Sensitivity; Specificity and Predictive accuracy Reliability is precision, while validity is accuracy Accuracy: degree of closeness of a measured or calculated quantity to its actual (true) value PPV is also known as \u2018post-test probability of a disease\u2019 or \u2018precision rate\u2019 Criterion validity: If compared with a reference or gold standard - Is best measure of validity; Usually expressed as sensitivity & specificity</li><li>\u2022 Inherent properties of a screening test \u2013 Sensitivity; Specificity and Predictive accuracy</li><li>\u2022 Reliability is precision, while validity is accuracy</li><li>\u2022 Accuracy: degree of closeness of a measured or calculated quantity to its actual (true) value</li><li>\u2022 PPV is also known as \u2018post-test probability of a disease\u2019 or \u2018precision rate\u2019</li><li>\u2022 Criterion validity: If compared with a reference or gold standard - Is best measure of validity; Usually expressed as sensitivity & specificity</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The validity of the screening test can be assessed using - Sensitivity and Specificity</li><li>\u27a4 validity</li><li>\u27a4 screening test</li><li>\u27a4 assessed</li><li>\u27a4 Sensitivity and Specificity</li></ul>\n<p><strong>References:</strong></p><ul><li>\u21b3 Reference: Park 26 th ed pg 153</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f08afe2f",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Breast_Imaging",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Best imaging modality in patients with breast implants is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "MRl scan",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "CT scan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mammography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Radionuclide scan",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. MRl scan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/13014991695996825/13014991695996825.m3u8",
+      "uid": "01e0052f",
+      "audio": ""
+    },
+    {
+      "text": "Xeroradiography is used in ..... cancer detection.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stomach",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Breast",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Colonic",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Breast",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/7930371695996848/7930371695996848.m3u8",
+      "uid": "c3c8dff3",
+      "audio": ""
+    },
+    {
+      "text": "Coarse 'Popcorn' calcification mammogram is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fibroadenoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Fat necrosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Carcinoma in situ",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Carcinoma in situ",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fibroadenoma",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/Radio-18.jpg"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2ed5018e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is the most common cause of sclerotic skeletal metastasis in a female patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carcinoma breast",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Carcinoma ovary",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Endometrial carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Melanoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Carcinoma breast",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4578c964",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "id": "test53",
+    "title": "Nephrology-Chronic_Kidney_Disease",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 55-year-old female with a history of chronic kidney diseases (CKD) and diabetes mellitus for the past 15 years presents for routine kidney function evaluation. To assess renal function accurately, which of the following is considered the best method to measure her GFR in a clinical setting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Creatinine clearance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cockroft Gault equation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inulin clearance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CKD-EPI equation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CKD-EPI equation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>GFR</strong> = 141 \u00d7 min(Scr/\u03ba, 1)\u03b1 \u00d7 max(Scr/\u03ba, 1)-1.209 \u00d7 0.993Age</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong><em>SCr is <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> in mg/dL, </em></strong></li>\n<li><strong><em>\u03ba is 0.7 for females and 0.9 for males, </em></strong></li>\n<li><strong><em>\u03b1 is \u20130.329 for females and \u20130.411 for males, </em></strong></li>\n<li><strong><em>min indicates the minimum of SCr/\u03ba or 1,</em></strong></li>\n<li><strong><em>and max indicates the maximum of SCr/\u03ba or 1.</em></strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Multiply by 1.018 if the patient is a woman</li>\n<li>Multiply by 1.159 for people with African ancestry</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1b918610"
+    },
+    {
+      "text": "A 65-year-old male patient weighs 80 kg, is 175 cm tall, and has a serum creatinine level of 1.1 mg/dL. Using the Cockcroft-Gault equation, what is this patient's estimated Glomerular filtration rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "83.2 mL/min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "75.7 mL/min",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "71.5 mL/min",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "69.2 mL/min",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 75.7 mL/min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CrCl = (140 - age in years) \u00d7 weight in kg / (72 \u00d7 <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> in mg/dL) \u00d7 0.85 (if female, as they have less muscle mass)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "18e24c89"
+    },
+    {
+      "text": "A 66-year-old male with a history of hypertension and type 2 diabetes mellitus is admitted to the ICU following major cardiac surgery. Post-operatively, his urine output has decreased significantly, raising concerns about acute kidney injury (AKI). Which of the following investigations would be most useful for early detection of AKI in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum BUN",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Serum Creatinine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil gelatinase-associated lipocalin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Urine granular cast detection",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Neutrophil gelatinase-associated lipocalin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>BIOMARKERS for early <span class=\"customMeta\" data-dictid=\"723fdec66b1692777186e92f0c6fdf\">detection</span> of AKI</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NGAL</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neutrophil gelatinase-associated lipocalin </strong></p>\n<ul>\n<li>Useful for <strong>early <span class=\"customMeta\" data-dictid=\"723fdec66b1692777186e92f0c6fdf\">detection</span> of <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> injury (AKI),</strong> particularly following <span class=\"customMeta\" data-dictid=\"0f0e2f0fe91692777183bfa6c6a156\">cardiopulmonary</span> <span class=\"customMeta\" data-dictid=\"4fc6b3ee501692777183061d4f55ff\">bypass</span> surgery.</li>\n<li>It can be measured in <strong>both <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> and plasma,</strong> providing a rapid and sensitive indication of <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> damage before significant changes in traditional markers like <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> are observed.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>KIM-1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Kidney injury molecule - 1</strong></p>\n<ul>\n<li><strong>Type 1 <span class=\"customMeta\" data-dictid=\"f0c8d0b3871692777200426e503319\">transmembrane</span> protein</strong> in the <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> <span class=\"customMeta\" data-dictid=\"3ddb367f1c16927771854815522adf\">convoluted</span> <span class=\"customMeta\" data-dictid=\"4ba1c48e851692777201a91713191e\">tubule</span> (PCT) of the kidney, upregulated in response to injury.</li>\n<li>Tested in <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> and plasma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>suPAR</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Soluble <span class=\"customMeta\" data-dictid=\"793605c8e5169277720157a9770530\">urokinase</span> plasminogen-activating <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> </strong></p>\n<ul>\n<li>Signalling glycoprotein.</li>\n<li>Tested in <strong>only plasma.</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>IGFBP7</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Insulin-like growth factor binding protein 7</strong> and <strong>tissue <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> of metalloproteinase-2 </strong>are being used as <strong>predictive biomarkers</strong> for the high risk of development of moderate to severe AKI in critically ill patients.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TIMP-2</strong></p>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:93px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biomarkers for early <span class=\"customMeta\" data-dictid=\"723fdec66b1692777186e92f0c6fdf\">detection</span> of AKI</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>NGAL</strong><strong> (Neutrophil gelatinase-associated lipocalin) </strong></li>\n<li><strong>KIM-1</strong><strong> (Kidney injury molecule - 1)</strong></li>\n<li><strong>suPAR </strong><strong>(Soluble <span class=\"customMeta\" data-dictid=\"793605c8e5169277720157a9770530\">urokinase</span> plasminogen-activating receptor)</strong></li>\n<li><strong>IGFBP7</strong><strong> (Insulin-like growth factor binding protein 7) </strong></li>\n<li><strong>TIMP-2</strong><strong> (Tissue <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> of metalloproteinase-2) </strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "269194eb"
+    },
+    {
+      "text": "A 78-year-old female patient with a history of diabetes mellitus presents to the outpatient department for her annual checkup. She reports no new complaints and appears to be in good health. Routine investigations reveal the following results: Glomerular Filtration Rate (GFR): 50 mL/min Urine Albumin Levels: 12 mg/g Based on the kidney disease improving global outcome classification of CKD, what is the risk of kidney failure in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low risk",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Moderate risk",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "High risk",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Very high risk",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Moderate risk",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:680px\">\n<tbody>\n<tr>\n<td rowspan=\"10\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t\t\u00a0\n\t\t\t<p><strong>G</strong></p>\n<p><strong>F</strong></p>\n<p><strong>R</strong></p>\n</td>\n<td colspan=\"3\" rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><br/>\n<br/>\n\t\t\t\u00a0\n\t\t\t<p><strong>Prognosis of CKD, according to</strong></p>\n<p><strong>KDIGO 2012 <span class=\"customMeta\" data-dictid=\"dda6ab11271692777184264b752d39\">classification</span> </strong></p>\n</td>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Persistent <span class=\"customMeta\" data-dictid=\"98ed15279f169277718118ace5f595\">albuminuria</span> </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A3</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal to mild increase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moderate increase</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe increase</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><30mg/g</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>30-300 mg/g</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>>300mg/g</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G1</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal or high</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>>=90</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Low risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G2</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mildly decreased</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>60-89</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Low risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G3a</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mild to moderate decrease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>45-59</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G3b</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Moderate to severe decrease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>30-44</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G4</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe decrease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>15-29</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G5</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kidney failure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><15</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Very high risk</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d84b0e16"
+    },
+    {
+      "text": "A 40-year-old male presents with worsening fatigue, leg swelling, and occasional shortness of breath. He has a 15-year history of hypertension and type 2 diabetes mellitus. Laboratory tests show elevated serum creatinine and a reduced glomerular filtration rate (GFR). Which of the following diseases is least likely to have caused his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant polycystic kidney disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diabetic nephropathy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glomerulonephritis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pyelonephritis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pyelonephritis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CHRONIC <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">KIDNEY</span> DISEASE</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk factors </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Chronic <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> diseases </strong>\n<ul>\n<li>Diabetes and <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> syndromes</li>\n<li>Autoinflammatory disorders: SLE, Vasculitis</li>\n<li>Infections: HIV, HBV, HCV</li>\n<li>Toxic exposure: <span class=\"customMeta\" data-dictid=\"dcbc4c1178169277718125c5c1cc12\">Antineoplastic</span> agents</li>\n<li>Hypertension</li>\n</ul>\n</li>\n<li><strong>Lifestyle</strong>\n<ul>\n<li>Smoking</li>\n<li>Diet</li>\n<li>Physical activity</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Leading causes </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Diabetic nephropathy</strong> (Most common)</li>\n<li>Glomerulonephritis</li>\n<li>Hypertension</li>\n<li>Ischemic heart disease (Cardiorenal syndrome)</li>\n<li>Autosomal dominant <span class=\"customMeta\" data-dictid=\"ba336eb30516927771960f9d9bd85c\">polycystic</span> <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> disease</li>\n<li>Tubulointerstitial <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> disease</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Manifestation </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Weight loss</li>\n<li>Nausea</li>\n<li>Hiccups (urea irritates <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> mucosa)</li>\n<li>Pedal oedema</li>\n<li>Muscle cramping and twitching</li>\n<li>Pruritus and skin pigmentation</li>\n<li>Uremic fetor</li>\n<li>Restless leg syndrome</li>\n<li>Uremic pericarditis</li>\n<li>Hypertension</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7a766b4b"
+    },
+    {
+      "text": "A 74-year-old male with stage 3 chronic kidney disease presents with fatigue, muscle weakness, and palpitations. His current medications include losartan and spironolactone for hypertension. ECG findings are normal. Serum electrolyte levels are given below. Sodium - 129 mEq/L Potassium - 5.6 mEq/L Bicarbonate - 20 mEq/L Which of the following is the most appropriate initial management of this patient\u2019s electrolyte abnormalities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Water restriction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start the patient on hemodialysis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stop spironolactone and start on patiromer",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Administer intravenous calcium gluconate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stop spironolactone and start on patiromer",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:655px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fluid and <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> electrolytes in CKD</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Electrolyte Imbalances </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypervolemic hyponatremia: </strong></p>\n<ul>\n<li>High circulating <span class=\"customMeta\" data-dictid=\"210102fdef1692777181bab45bdfe3\">aldosterone</span> levels.</li>\n<li>Increase in water > sodium retention.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Water restriction</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperkalemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Patiromer</strong> <strong>(Option C)</strong></li>\n<li>Calcium resonium</li>\n<li>Sodium polystyrene</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypokalemia (rare): </strong>Usually due to overuse of diuretics</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Increase dietary <span class=\"customMeta\" data-dictid=\"6cdcd39cf2169277719068e247e38d\">intake</span> and reduce the dose of diuretics</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperphosphatemia </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Sevelamer </strong></li>\n<li>Calcium <span class=\"customMeta\" data-dictid=\"47765053a81692777180738f50cd4e\">acetate</span> or carbonate</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hypocalcemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Paricalcitol </strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d49b4dfb"
+    },
+    {
+      "text": "A 72-year-old woman with a history of type 2 diabetes, hypertension, and chronic kidney disease presents for routine follow-up. Her HbA1c is 5.6%, blood pressure is 152/88 mmHg, serum creatinine is 1.8 mg/dL, and urinalysis shows microalbuminuria. She is currently taking Canagliflozin and hydrochlorothiazide. Which medication should be added to her treatment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diltiazem",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lisinopril",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Regular insulin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metformin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lisinopril",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:656px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management of Chronic <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> disease </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Blood <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> control</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>HbA1c < 7%</strong></p>\n<ul>\n<li><strong>Metformin</strong> may be given if eGFR>30ml/min, or else <span class=\"customMeta\" data-dictid=\"b82539c9ae1692777191a3f7ddd7bb\">lactic</span> <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> may occur</li>\n<li>SGLT-2 inhibitors (<strong>Canagliflozin, Dapagliflozin)</strong> can prevent <span class=\"customMeta\" data-dictid=\"a5603ff98316927771865d7ae41f16\">diabetic</span> nephropathy.</li>\n<li><strong>Insulin </strong>should be given to achieve the HbA1c target.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Blood pressure control </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Target BP <130/80 mm hg</p>\n<ul>\n<li><strong>ACEi</strong>: Lisinopril, <span class=\"customMeta\" data-dictid=\"59583af20116927771833fb6c4c880\">Captopril</span> <strong>(Option B)</strong></li>\n<li><strong>ARB\u2019s</strong>: Losartan, Telmisartan\n\t\t\t\t<ul>\n<li>ACEi and ARB have nephroprotective activity and thus should be used as the preferred <strong>drug of choice to control BP</strong> <strong>(Option B).</strong></li>\n</ul>\n</li>\n<li><strong>Calcium channel blockers </strong>can be used if ACEi are contraindicated.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cholesterol</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>T<strong>arget LDL<70 mg%</strong></p>\n<ul>\n<li><strong>Statins</strong>: Atorvastatin 40 to 80 mg</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>IV iron </strong></li>\n<li><strong>Erythropoietin stimulating agents: </strong>Darbepoetin and epoetin</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Coagulopathies </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Desmopressin </strong></li>\n<li><strong>Cryoprecipitate </strong></li>\n<li><strong>Conjugated <span class=\"customMeta\" data-dictid=\"a58dd68b011692777187eb72633aac\">estrogen</span> </strong></li>\n<li><strong>Blood <span class=\"customMeta\" data-dictid=\"cbb73554631692777200444a9ea263\">transfusion</span> </strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Vitamin D <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Vitamin D3 supplements </strong></li>\n<li><strong>Phosphate binders </strong>\n<ul>\n<li>Sevelamer</li>\n<li>Calcium <span class=\"customMeta\" data-dictid=\"fdae4d6e3a1692777183b5745d0c02\">carbonate</span> and acetate</li>\n</ul>\n</li>\n<li><strong>Cinacalcet</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Renal replacement therapy </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Decision is made at <span class=\"customMeta\" data-dictid=\"d4ae50897e16927771884b5c46ba7d\">grade</span> 4 CKD</strong></p>\n<ul>\n<li>Allogeneic <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> transplant</li>\n<li><strong>Hemodialysis:</strong> 4 hours per session, three times a week.</li>\n<li>Peritoneal dialysis</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "42f3baa9"
+    },
+    {
+      "text": "A 78-year-old male patient presented to the emergency department in a semi-conscious state with no available medical history. Physical examination revealed a foul-smelling, pungent breath, an arteriovenous (AV) fistula in the left arm, bilateral lower limb oedema, multiple bruises and abrasions on the body, and Kussmaul respirations. A bedside blood glucose measurement showed a level of 200 mg/dL. Based on these findings, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diabetic ketoacidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Uremic acidosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Lactic acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Aspirin overdose",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Uremic acidosis",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/tJeq9PlLMxTTwWtDH9cS1744300394.png",
+        "https://image.prepladder.com/notes/LBsIhZFD5I7QNIOfBq3a1744300505.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:676px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complications of Chronic <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">Kidney</span> Disease </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fluid and electrolytes </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hyperkalemia</strong></li>\n<li><strong>Pitting oedema (</strong>Due to fluid and salt retention)</li>\n<li><strong>Uremic <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> </strong>\n<ul>\n<li>It occurs due to the build-up of <span class=\"customMeta\" data-dictid=\"7b92610b86169277720111ae27d1d8\">uremic</span> toxins in the body due to <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> function.</li>\n<li><strong>Features: </strong>Uremic fetor, Kussmaul breathing, <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> cognitive ability, confusion/coma.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cardiovascular system </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Uremic pericarditis</strong></li>\n<li><strong>Cardiac failure</strong> occurs due to salt and water retention, left <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> hypertrophy, diastolic dysfunction, frank <span class=\"customMeta\" data-dictid=\"6e6dd7aed216927771831ebdf9703c\">cardiomyopathy</span> and myocardial ischemia.</li>\n<li><strong>Vascular calcifications </strong>occur due to hyperphosphatemia.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Haematological system </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Abnormal <span class=\"customMeta\" data-dictid=\"4cb859ed5d16927771884925c4eef7\">hemostasis</span> </strong>\n<ul>\n<li>Coagulopathies</li>\n<li>Thromboembolism (in cases of hypoalbuminemia)</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Anemia</strong> occurs due to <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> EPO secretion: <strong>Normocytic normochromic <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> </strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skin changes </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Nephrogenic fibrosing <span class=\"customMeta\" data-dictid=\"c7e517784c1692777186408d804d5e\">dermopathy</span> </strong>(Progressive <span class=\"customMeta\" data-dictid=\"d446e62c6c1692777199896fc1d4b9\">subcutaneous</span> induration)</li>\n</ul>\n<ul>\n<li><strong>Calciphylaxis -</strong> build up of <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> in small arterioles of skin and fat tissue<strong>. </strong>\n<ul>\n<li>Painful <span class=\"customMeta\" data-dictid=\"53f2eb017116927771918255da4e8b\">livedo</span> reticularis and <span class=\"customMeta\" data-dictid=\"d446e62c6c1692777199896fc1d4b9\">subcutaneous</span> nodules</li>\n<li>Ischemic <span class=\"customMeta\" data-dictid=\"5e84a7987c16927771931012aced83\">necrosis</span> patches, especially over the legs, thighs, <span class=\"customMeta\" data-dictid=\"ac388c59831692777180f5a8e12913\">abdomen</span> and breast</li>\n</ul>\n</li>\n<li><strong>Pruritus and easy bruisability.</strong></li>\n</ul>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Calciphylaxis\" data-author=\"Niels Olson\" data-hash=\"8721\" data-license=\"CC BY-SA 3.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Calciphylaxis.png\" data-tags=\"\" height=\"271\" src=\"https://image.prepladder.com/notes/tJeq9PlLMxTTwWtDH9cS1744300394.png\" width=\"429\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n\t\t\t\u00a0\n\n\t\t\t<p style=\"text-align: center;\"><strong>Calciphylaxis </strong></p>\n\t\t\t\u00a0\n\n\t\t\t<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Nephrogenic fibrosing dermopathy\" data-author=\"W. TingM. StoneK. MadisonKevin A. Kurtz\" data-hash=\"8723\" data-license=\"NA\" data-source=\"https://www.semanticscholar.org/paper/Nephrogenic-fibrosing-dermopathy-with-systemic-Ting-Stone/79f374a8862dcbe074509d1b9356ab3943e93dc8/figure/0\" data-tags=\"\" height=\"381\" src=\"https://image.prepladder.com/notes/LBsIhZFD5I7QNIOfBq3a1744300505.png\" width=\"471\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n<p style=\"text-align: center;\"><strong>Nephrogenic fibrosing <span class=\"customMeta\" data-dictid=\"c7e517784c1692777186408d804d5e\">dermopathy</span> </strong></p>\n\t\t\t\u00a0\n\n\t\t\t<p>\u00a0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Musculoskeletal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Osteitis fibrosa cystica (</strong>Due to secondary hyperparathyroidism)</li>\n<li><strong>Osteomalacia</strong> (Due to <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> levels of <span class=\"customMeta\" data-dictid=\"77a4f731501692777202a03bfca9b4\">Vitamin D</span> and low bone turnover)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nervous system </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hyperuremic <span class=\"customMeta\" data-dictid=\"b37b211cbc169277718725f07b5473\">encephalopathy</span> </strong></li>\n<li><strong>Peripheral <span class=\"customMeta\" data-dictid=\"2d9476094c16927771933bcb162f19\">neuropathy</span> </strong></li>\n<li><strong>Restless leg syndrome </strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5ea07fda"
+    },
+    {
+      "text": "A 38-year-old male with end-stage renal disease is being evaluated for kidney transplantation. Which of the following investigations is essential to perform on the recipient to list him for transplantation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus serology",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis B and C serology",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "USG doppler KUB",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CT angiography",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CT angiography",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d12364b0"
+    },
+    {
+      "text": "Which of the following statements are true regarding HLA matching for renal transplants? Only HLA - A and HLA - DR needs to be matched Life-long immunosuppressive therapy is essential post-transplant \u215a HLA match required no induction therapy Tacrolimus and Basiliximab are used for induction therapy",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 and 3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1, 2 and 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "3 and 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2 and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "aebe70ec"
+    },
+    {
+      "text": "Which type of graft rejection is resistant to therapy and, hence, is the leading cause of graft failure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperacute Rejection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acute Rejection",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acute Cellular Rejection",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chronic Rejection",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chronic Rejection",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c441428b"
+    },
+    {
+      "text": "During a hemodialysis session, the dialysis nurse notices the patient experiencing hypotension. Which of the following strategies might be employed to help manage this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase the blood flow rate through the dialyser",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Reduce the dialysate sodium concentration gradually",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reduce the concentration of potassium in the dialysate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decrease the duration of the dialysis session",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Reduce the dialysate sodium concentration gradually",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/641KoN6FsmECorajr6t31744300754.png",
+        "https://image.prepladder.com/notes/afIlyBbukFj07YhcyM2Y1745643322.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "08ddabe3"
+    },
+    {
+      "text": "A 65-year-old patient with end-stage renal disease (ESRD) is evaluated for hemodialysis. The patient presents with fluid overload, hyperkalemia, and significant lethargy. Which of the following is not an indication for initiating hemodialysis in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute pulmonary edema",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia >5 mmol/L",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Uremic encephalopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "[H+] > 85 mmol/L",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hyperkalemia >5 mmol/L",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:657px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acute (AKI)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chronic(CKD)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fluid Overload</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pulmonary edema</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Pulmonary Edema</li>\n<li>Severe Hypertension</li>\n<li>Edema resistant to diuretics</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperkalemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>>6.5 mmol/L</strong> with<strong> <span class=\"customMeta\" data-dictid=\"40ebcbf95e169277718613d7c2d999\">ECG</span> changes (Broad QRS)</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Potassium resistant to treatment</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Uraemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Pericarditis</li>\n<li><strong>Encephalopathy</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Uremic syndrome (anorexia, nausea, lethargy, etc.), typically when eGFR < 10 mL/min/1.73 m\u00b2</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Metabolic Acidosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Severe acidosis</li>\n</ul>\n<p>(<strong>H+ > 79 nmol/L</strong>; pH < 7.1)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Chronic <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> resistant to <span class=\"customMeta\" data-dictid=\"2311c3b4ac16927771831d4c919043\">bicarbonate</span> therapy</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Relative indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Bleeding <span class=\"customMeta\" data-dictid=\"a6116aa50e1692777186cfd59c5257\">diathesis</span> due to uremia-induced <span class=\"customMeta\" data-dictid=\"e7032bae7f1692777195d693722e54\">platelet</span> dysfunction</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Intractable <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> despite <span class=\"customMeta\" data-dictid=\"ec50ec51401692777187009530441d\">erythropoietin</span> and iron supplementation</li>\n<li>Hyperphosphatemia despite <span class=\"customMeta\" data-dictid=\"189b6fc834169277719580eb39bb4c\">phosphate</span> binders</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "630b61db"
+    },
+    {
+      "text": "A 72-year-old patient undergoing hemodialysis suddenly develops symptoms of dizziness, significant leg cramps, and chest pain during the treatment session. Which of the following is the most common acute complication occurring in patients undergoing dialysis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cardiac arrhythmias",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypotension",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Anaphylactoid reactions",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Muscle cramps",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hypotension",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ziYKmC3L0o9amOwIeE2p1744301093.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intermittent Hemodialysis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Continuous Hemodialysis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Commonly used for <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> injury (AKI).</li>\n<li>Blood is on one side of the <span class=\"customMeta\" data-dictid=\"5755720cc31692777186c957a0feb7\">dialysis</span> machine, and <span class=\"customMeta\" data-dictid=\"c8d85b7d2b1692777186b771294a05\">dialysate</span> is on the other side.</li>\n<li>Transfer of substances occurs by <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">diffusion</span> and ultrafiltration.</li>\n<li>Common complication: Hypotension.</li>\n</ul>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Intermittent Hemodialysis\" data-author=\"na\" data-hash=\"8735\" data-license=\"na\" data-source=\"na\" data-tags=\"\" height=\"235\" src=\"https://image.prepladder.com/notes/ziYKmC3L0o9amOwIeE2p1744301093.png\" width=\"315\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Used in hemodynamically unstable patients.</li>\n<li><strong>Types: </strong>\n<ul>\n<li><strong>Convective Clearance: </strong>Water and dissolved solutes pass through a <span class=\"customMeta\" data-dictid=\"999fcdfb7c1692777198dd05eb1b4c\">semipermeable</span> membrane; <span class=\"customMeta\" data-dictid=\"e6a317ff3c16927771956fee0e76ed\">physiologic</span> <span class=\"customMeta\" data-dictid=\"745d08a9151692777185b2d2527097\">crystalloid</span> solution is added to circulation.</li>\n<li><strong>Diffusive Clearance:</strong> <span class=\"customMeta\" data-dictid=\"5755720cc31692777186c957a0feb7\">Dialysis</span> with a lower flow rate.</li>\n<li><strong>Hybrid Therapy:</strong> Combines both convective and diffusive clearance<strong>.</strong></li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complications associated with Hemodialysis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>During treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Between treatment</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hypotension:</strong> <strong>The most common <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"8a6b09beac1692777184b08a2b5766\">complication</span> during hemodialysis</strong>, especially in patients with diabetes mellitus.</li>\n<li><strong>Muscle cramps</strong>.</li>\n<li><strong>Anaphylactoid reactions: </strong>These reactions, particularly to the dialyser, are most common during its first use and are often associated with <strong>bio <span class=\"customMeta\" data-dictid=\"10dcdd93561692777190d73418c5a7\">incompatible</span> cellulosic-containing membranes.</strong></li>\n<li><strong>Cardiac arrhythmias: </strong>D/t <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> & acid-base shifts.</li>\n<li><strong>Hemorrhage: </strong>D/t <span class=\"customMeta\" data-dictid=\"9beeeb58f6169277718129acb7bd01\">anticoagulation</span> & <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> needle disconnection.</li>\n<li><strong>Air embolism: </strong>D/t faulty lines & equipment malfunction.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pulmonary oedema</strong> (D/t fluid overload).</li>\n<li><strong>Systemic sepsis: </strong>Usually involves <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> access devices (catheter or fistula).</li>\n<li><strong>Dialysis <span class=\"customMeta\" data-dictid=\"6020176bfd16927771866a4128521e\">disequilibrium</span> syndrome </strong>typically occurs during or after a patient's first <span class=\"customMeta\" data-dictid=\"5755720cc31692777186c957a0feb7\">dialysis</span> session. It presents with confusion, restlessness, headache, and muscle twitching. It is caused by a <strong>urea <span class=\"customMeta\" data-dictid=\"04136f692516927771888cf07d46a4\">gradient</span> between the <span class=\"customMeta\" data-dictid=\"123c47549916927771854892334fb9\">CSF</span> and blood that raises <span class=\"customMeta\" data-dictid=\"cd42e0ddad1692777190d18c595ec5\">intracranial</span> pressure.</strong></li>\n<li><strong>Amyloidosis (</strong>D/t<strong> </strong><strong>beta 2 microglobulin</strong>)</li>\n<li><strong>Carpal tunnel syndrome (</strong>due to <span class=\"customMeta\" data-dictid=\"51ad856e041692777181f80c9d507a\">amyloid</span> deposition in the <span class=\"customMeta\" data-dictid=\"3674af39031692777202252504982a\">flexor</span> retinaculum).</li>\n<li><strong>Peripheral neuropathy</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "107993d4"
+    },
+    {
+      "text": "Which is the most common opportunistic infection post kidney transplant and the time during which it occurs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral candidiasis - within 1 month of transplantation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus - within 1- 6 months of transplantation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Listeria monocytogenes - within 1- 6 months of transplantation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "BK virus - after 6 months of transplantation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cytomegalovirus - within 1- 6 months of transplantation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:678px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complications following <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> transplant</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Graft rejection</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hyperacute, <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> and chronic</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Opportunistic infections</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>< 1 Month: </strong>Wound infection, HSV, UTI, Oral candidiasis</li>\n<li><strong>1-6 Months: CMV</strong> (most common), HBV, HCV, <span class=\"customMeta\" data-dictid=\"af71e1cffa16927771950a5fb2c281\">Pneumocystis</span> carinii, Listeria</li>\n<li><strong>>6 Months: BK Virus</strong>, Aspergillus, Nocardia, HBV, HCV, HZV</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypercalcemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>This may indicate failure of <span class=\"customMeta\" data-dictid=\"3bcd005ca116927771941ae5bca4a8\">parathyroid</span> <span class=\"customMeta\" data-dictid=\"4744bb90c21692777188c8957f9faa\">gland</span> <span class=\"customMeta\" data-dictid=\"f30740eaeb16927771978fc4c375eb\">regression</span> post-transplant.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Common post-transplant, often due to <span class=\"customMeta\" data-dictid=\"c3c986cd721692777189b473814b2e\">immunosuppressive</span> medications.</li>\n<li>Gastrointestinal <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> can occur from <span class=\"customMeta\" data-dictid=\"a48ce797cd1692777199efc43b3e4c\">steroid</span> use.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chronic hepatitis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Particularly from <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">hepatitis</span> B virus, which can progress over time.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skin and lip cancers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Most common malignancy</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>The leading causes of death among <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> transplant recipients include:</strong></p>\n<ul>\n<li>Cardiovascular events (29%)</li>\n<li>Infections (18%)</li>\n<li>Malignancies (17%)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3c16cd27"
+    },
+    {
+      "text": "What is the cause of hyperacute graft rejection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cellular rejection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Granuloma formation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Preformed antibodies",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pre-existing infections",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Preformed antibodies",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:741px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Causes of <span class=\"customMeta\" data-dictid=\"a283380a9a1692777188549537a964\">graft</span> <span class=\"customMeta\" data-dictid=\"49e378f9f71692777197bc5e458569\">rejection</span> </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperacute <span class=\"customMeta\" data-dictid=\"49e378f9f71692777197bc5e458569\">rejection</span> </strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occurs due to the presence of <strong>preformed antibodies</strong> <span class=\"customMeta\" data-dictid=\"e4865847fa169277720044d7b530b0\">targeting</span> antigens on <span class=\"customMeta\" data-dictid=\"a283380a9a1692777188549537a964\">graft</span> endothelial cells - <strong>Type-2 <span class=\"customMeta\" data-dictid=\"2c7e1ce33316927771892ce1da8276\">Hypersensitivity</span> reaction</strong></p>\n<p>It can occur immediately after <span class=\"customMeta\" data-dictid=\"a283380a9a1692777188549537a964\">graft</span> <span class=\"customMeta\" data-dictid=\"52007706a216927771899e36747712\">implantation</span> or during <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> <span class=\"customMeta\" data-dictid=\"fab1b509f91692777197e8f5af6253\">restoration</span> of the graft</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acute Rejection</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occurs due to (<strong>Type-4 <span class=\"customMeta\" data-dictid=\"2c7e1ce33316927771892ce1da8276\">Hypersensitivity</span> reaction)</strong></p>\n<p><strong>Types</strong></p>\n<ul>\n<li><strong>Cellular Rejection</strong><strong> (Option A)</strong>\n<ul>\n<li>CD8+ <span class=\"customMeta\" data-dictid=\"6c110fba1a16927771854908b76842\">cytotoxic T lymphocytes</span> (CTLs) directly destroy <span class=\"customMeta\" data-dictid=\"a283380a9a1692777188549537a964\">graft</span> cells</li>\n<li>CD4+ T cells induce <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> that damages the graft.</li>\n</ul>\n</li>\n<li><strong>Antibody-Mediated Rejection</strong>: Antibodies bind to <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> endothelium, activating the complement, leading to <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> and <span class=\"customMeta\" data-dictid=\"a283380a9a1692777188549537a964\">graft</span> failure.</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p>It can occur within days to weeks of transplantation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chronic Rejection</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occurs due to T cells reacting against <span class=\"customMeta\" data-dictid=\"a283380a9a1692777188549537a964\">graft</span> alloantigens, which <span class=\"customMeta\" data-dictid=\"7b8c92219216927771981950fdd0e8\">secrete</span> cytokines that stimulate <strong>fibroblast and <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> smooth muscle cell proliferation.</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e27772c6"
+    }
+  ]
+}

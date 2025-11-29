@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MEDTRIX | Pro Analytics</title>
+    
+    <!-- Chart.js from CDN (Will handle failure gracefully below) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- PREMIUM THEME --- */
+        :root {
+            --bg-body: #f0f4f8;
+            --bg-gradient: radial-gradient(circle at top left, #e0f7fa, #f0f4f8);
+            --glass-bg: rgba(255, 255, 255, 0.8);
+            --glass-border: rgba(255, 255, 255, 0.8);
+            --glass-shadow: 0 8px 32px rgba(31, 38, 135, 0.08);
+            --text-main: #2d3748;
+            --accent: #007bff;
+            --accent-grad: linear-gradient(135deg, #007bff, #00d4ff);
+            --success: #10b981; --warning: #f59e0b; --danger: #ef4444;
+        }
+
+        [data-theme="dark"] {
+            --bg-body: #0f1115;
+            --bg-gradient: radial-gradient(circle at top center, #1a202c, #0f1115);
+            --glass-bg: rgba(20, 22, 27, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            --text-main: #f7fafc;
+            --accent: #00e5ff;
+            --accent-grad: linear-gradient(135deg, #00e5ff, #2979ff);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Poppins', sans-serif; }
+        
+        body {
+            background: var(--bg-body); background-image: var(--bg-gradient);
+            background-attachment: fixed; color: var(--text-main);
+            padding: 20px; min-height: 100vh;
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding-bottom: 50px; }
+
+        /* HEADER */
+        header { 
+            display: flex; justify-content: space-between; align-items: center; 
+            margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid rgba(128,128,128,0.1);
+        }
+        
+        h1 { 
+            font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.8rem; 
+            background: var(--accent-grad); -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent; margin: 0;
+        }
+
+        .back-btn { 
+            text-decoration: none; color: var(--text-main); font-weight: 600; 
+            padding: 10px 20px; border-radius: 30px; background: var(--glass-bg); 
+            box-shadow: var(--glass-shadow); border: 1px solid var(--glass-border);
+            transition: 0.3s; display: flex; align-items: center; gap: 8px; font-size: 0.9rem;
+        }
+
+        /* GRID */
+        .grid-layout { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 20px; }
+        
+        .glass-card {
+            background: var(--glass-bg); border: 1px solid var(--glass-border);
+            border-radius: 24px; padding: 25px; box-shadow: var(--glass-shadow);
+            backdrop-filter: blur(12px); position: relative; overflow: hidden;
+            transition: transform 0.2s;
+        }
+
+        /* KPI */
+        .kpi-card { grid-column: span 1; display: flex; flex-direction: column; justify-content: center; }
+        .kpi-clickable { cursor: pointer; border: 2px solid transparent; }
+        .kpi-clickable:hover { border-color: var(--accent); transform: translateY(-3px); }
+        
+        .kpi-val { font-family: 'Orbitron'; font-size: 2rem; font-weight: 700; line-height: 1; margin-bottom: 5px; }
+        .kpi-label { font-size: 0.85rem; opacity: 0.7; font-weight: 600; text-transform: uppercase; }
+
+        /* CHARTS */
+        .chart-main { grid-column: span 3; min-height: 400px; }
+        .chart-side { grid-column: span 1; min-height: 400px; display: flex; flex-direction: column; align-items: center; text-align: center; }
+        .chart-title { font-weight: 700; font-size: 1.1rem; opacity: 0.9; margin-bottom: 15px; width: 100%; display: flex; align-items: center; gap: 10px; }
+        
+        .doughnut-wrapper { position: relative; width: 100%; height: 220px; display: flex; justify-content: center; }
+        .doughnut-center {
+            position: absolute; top: 55%; left: 50%; transform: translate(-50%, -50%);
+            text-align: center; pointer-events: none;
+        }
+        .doughnut-score { font-family: 'Orbitron'; font-size: 2.5rem; font-weight: 900; }
+
+        .chart-trend { grid-column: span 4; min-height: 300px; }
+        
+        /* Offline Message for Charts */
+        .offline-chart-msg {
+            display: none; width: 100%; height: 100%; 
+            align-items: center; justify-content: center; 
+            flex-direction: column; text-align: center; color: var(--danger);
+        }
+
+        /* BUTTONS */
+        .review-btn {
+            width: 100%; padding: 12px; border-radius: 12px; border: none; margin-top: 15px;
+            background: rgba(239, 68, 68, 0.15); color: var(--danger);
+            font-weight: 700; cursor: pointer; transition: 0.2s;
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+        }
+        .review-btn:hover { background: var(--danger); color: white; }
+
+        /* MODAL */
+        .modal {
+            display: none; position: fixed; z-index: 1000; left: 0; top: 0;
+            width: 100%; height: 100%; background-color: rgba(0,0,0,0.8);
+            backdrop-filter: blur(5px);
+        }
+        .modal-content {
+            background: var(--glass-bg); margin: 5% auto; padding: 25px;
+            border: 1px solid var(--glass-border); border-radius: 20px;
+            width: 90%; max-width: 800px; max-height: 85vh; overflow-y: auto;
+            position: relative; box-shadow: 0 25px 50px rgba(0,0,0,0.5);
+        }
+        .mistake-item {
+            background: rgba(239, 68, 68, 0.05); border-left: 4px solid var(--danger);
+            padding: 15px; margin-bottom: 15px; border-radius: 8px;
+            cursor: pointer; transition: background 0.2s;
+        }
+        .mistake-item:hover { background: rgba(239, 68, 68, 0.1); }
+        .q-text { font-weight: 600; margin-bottom: 8px; font-size: 1rem; }
+        .ans-row { display: flex; gap: 15px; font-size: 0.9rem; margin-top: 5px; }
+        .tag-wrong { color: var(--danger); font-weight: bold; }
+        .tag-right { color: var(--success); font-weight: bold; }
+        
+        .exp-box { 
+            display: none; margin-top: 10px; padding-top: 10px; 
+            border-top: 1px solid rgba(0,0,0,0.1); font-size: 0.9rem; opacity: 0.9;
+        }
+
+        @media (max-width: 900px) {
+            .grid-layout { display: flex; flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <a href="index.html" class="back-btn"><i class="fas fa-chevron-left"></i> Home</a>
+        <h1>Analytics <span>v2.1</span></h1>
+    </header>
+
+    <div class="grid-layout">
+        <div class="glass-card kpi-card">
+            <div>
+                <div class="kpi-val" id="total-qs">0</div>
+                <div class="kpi-label">Questions Solved</div>
+            </div>
+            <i class="fas fa-brain" style="font-size:1.5rem; color:var(--accent);"></i>
+        </div>
+        
+        <div class="glass-card kpi-card">
+            <div>
+                <div class="kpi-val" id="accuracy-stat">0%</div>
+                <div class="kpi-label">Global Accuracy</div>
+            </div>
+            <i class="fas fa-crosshairs" style="font-size:1.5rem; color:var(--success);"></i>
+        </div>
+
+        <div class="glass-card kpi-card">
+            <div>
+                <div class="kpi-val" id="strong-sub">N/A</div>
+                <div class="kpi-label">Strongest Subject</div>
+            </div>
+            <i class="fas fa-crown" style="font-size:1.5rem; color:var(--warning);"></i>
+        </div>
+
+        <!-- CLICKABLE MISTAKE CARD: Links to Revision -->
+        <div class="glass-card kpi-card kpi-clickable" onclick="location.href='revision.html'">
+            <div>
+                <div class="kpi-val" id="mistakes-count">0</div>
+                <div class="kpi-label">Mistakes (Tap to Revise)</div>
+            </div>
+            <i class="fas fa-exclamation-triangle" style="font-size:1.5rem; color:var(--danger);"></i>
+        </div>
+    </div>
+
+    <div class="grid-layout">
+        
+        <div class="glass-card chart-main">
+            <div class="chart-title">
+                <i class="fas fa-project-diagram" style="color:var(--accent);"></i> 
+                Subject Proficiency
+            </div>
+            <!-- OFFLINE SAFEGUARD CONTAINER -->
+            <div style="height: 350px; width: 100%;">
+                <canvas id="radarChart"></canvas>
+                <div class="offline-chart-msg" id="msg-radar">
+                    <i class="fas fa-wifi" style="font-size:2rem; margin-bottom:10px;"></i>
+                    Charts require internet connection to load libraries.
+                </div>
+            </div>
+        </div>
+
+        <div class="glass-card chart-side">
+            <div class="chart-title">Overall Accuracy</div>
+            <div class="doughnut-wrapper">
+                <canvas id="accuracyChart"></canvas>
+                <div class="offline-chart-msg" id="msg-donut">Offline</div>
+                <div class="doughnut-center">
+                    <div class="doughnut-score" id="acc-disp">0%</div>
+                </div>
+            </div>
+            <button class="review-btn" onclick="openReviewModal()">
+                <i class="fas fa-clipboard-check"></i> Review List
+            </button>
+        </div>
+
+    </div>
+
+    <div class="grid-layout">
+        <div class="glass-card chart-trend">
+            <div class="chart-title">
+                <i class="fas fa-chart-line" style="color:var(--success);"></i> 
+                Daily Trend (30 Days)
+            </div>
+            <div style="height: 250px; width: 100%;">
+                <canvas id="trendChart"></canvas>
+                <div class="offline-chart-msg" id="msg-trend">Offline</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- UPGRADED REVIEW MODAL -->
+<div id="reviewModal" class="modal">
+    <div class="modal-content">
+        <span onclick="document.getElementById('reviewModal').style.display='none'" style="float:right; cursor:pointer; font-size:1.5rem;">&times;</span>
+        <h2 style="font-family:'Orbitron'; color:var(--danger); margin-bottom:5px;">Mistake Analysis</h2>
+        <p style="margin-bottom:20px; font-size:0.9rem; opacity:0.7;">Tap any question to see the explanation.</p>
+        <div id="mistakes-container"></div>
+    </div>
+</div>
+
+<script>
+    // --- THEME ---
+    const isDark = localStorage.getItem('medtrix-theme') === 'dark';
+    if(isDark) document.documentElement.setAttribute('data-theme', 'dark');
+
+    // --- CHART.JS CONFIGURATION (OFFLINE SAFEGUARD) ---
+    // If Chart is undefined (offline), charts won't render, preventing crash.
+    const CHART_AVAILABLE = (typeof Chart !== 'undefined');
+    if(CHART_AVAILABLE && isDark) {
+        Chart.defaults.color = '#a0aec0';
+        Chart.defaults.borderColor = 'rgba(255,255,255,0.05)';
+    }
+
+    // --- 19 SUBJECT MAP ---
+    const SUBJECT_KEYS = {
+        'Anatomy': ['anat'], 'Physiology': ['physio'], 'Biochemistry': ['bio','chem'],
+        'Pathology': ['patho'], 'Microbiology': ['micro'], 'Pharmacology': ['pharm'],
+        'Forensic': ['fmt', 'forensic'], 'PSM': ['psm', 'preventive', 'comm'],
+        'ENT': ['ent', 'ear'], 'Ophthalmology': ['eye', 'opth'],
+        'Medicine': ['med', 'gen'], 'Surgery': ['surg'], 'OBG': ['obs', 'gyn'],
+        'Pediatrics': ['ped', 'paed'], 'Orthopedics': ['ortho'],
+        'Dermatology': ['skin', 'derma'], 'Psychiatry': ['psych'],
+        'Radiology': ['radio'], 'Anesthesia': ['anes']
+    };
+
+    let coreData = [];
+
+    document.addEventListener("DOMContentLoaded", () => {
+        coreData = JSON.parse(localStorage.getItem('medtrix_analytics') || '[]');
+        updateDashboard();
+    });
+
+    function updateDashboard() {
+        // 1. BASIC STATS
+        const total = coreData.length;
+        const correct = coreData.filter(q => q.isCorrect).length;
+        const mistakes = coreData.filter(q => !q.isCorrect);
+        const accuracy = total > 0 ? Math.round((correct / total) * 100) : 0;
+
+        document.getElementById('total-qs').innerText = total.toLocaleString();
+        document.getElementById('mistakes-count').innerText = mistakes.length;
+        document.getElementById('accuracy-stat').innerText = accuracy + "%";
+        document.getElementById('acc-disp').innerText = accuracy + "%";
+
+        // 2. SUBJECT CLASSIFICATION
+        let subStats = {};
+        Object.keys(SUBJECT_KEYS).forEach(k => subStats[k] = { total: 0, correct: 0 });
+
+        coreData.forEach(q => {
+            let src = (q.source || "").toLowerCase();
+            for (const [subName, keywords] of Object.entries(SUBJECT_KEYS)) {
+                if (keywords.some(k => src.includes(k))) {
+                    subStats[subName].total++;
+                    if(q.isCorrect) subStats[subName].correct++;
+                    break;
+                }
+            }
+        });
+
+        // 3. IDENTIFY STRONG SUBJECT
+        let bestSub = "N/A";
+        let bestAcc = -1;
+        Object.keys(subStats).forEach(s => {
+            if (subStats[s].total > 0) {
+                let sAcc = subStats[s].correct / subStats[s].total;
+                if (sAcc > bestAcc) { bestAcc = sAcc; bestSub = s; }
+            }
+        });
+        if(bestAcc > -1) document.getElementById('strong-sub').innerText = bestSub;
+
+        // --- RENDER CHARTS (IF ONLINE) ---
+        if(CHART_AVAILABLE) {
+            renderCharts(subStats, correct, total);
+        } else {
+            // Show fallback messages
+            document.querySelectorAll('canvas').forEach(c => c.style.display = 'none');
+            document.querySelectorAll('.offline-chart-msg').forEach(m => m.style.display = 'flex');
+        }
+    }
+
+    function renderCharts(subStats, correct, total) {
+        // 4. RADAR
+        const rLabels = Object.keys(subStats);
+        const rData = rLabels.map(k => {
+            const d = subStats[k];
+            return d.total > 0 ? Math.round((d.correct/d.total)*100) : 0;
+        });
+
+        new Chart(document.getElementById('radarChart'), {
+            type: 'radar',
+            data: {
+                labels: rLabels,
+                datasets: [{
+                    label: 'Accuracy %', data: rData,
+                    backgroundColor: 'rgba(0, 123, 255, 0.2)',
+                    borderColor: '#007bff', pointBackgroundColor: '#007bff'
+                }]
+            },
+            options: {
+                maintainAspectRatio: false,
+                scales: {
+                    r: {
+                        angleLines: { color: isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.1)' },
+                        grid: { color: isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.1)' },
+                        pointLabels: { font: { size: 9 } },
+                        suggestedMin: 0, suggestedMax: 100
+                    }
+                }
+            }
+        });
+
+        // 5. DOUGHNUT
+        new Chart(document.getElementById('accuracyChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Correct', 'Wrong'],
+                datasets: [{
+                    data: [correct, total - correct],
+                    backgroundColor: ['#10b981', '#ef4444'],
+                    borderWidth: 0, cutout: '85%'
+                }]
+            },
+            options: { maintainAspectRatio: false, plugins: { legend: { display: false } } }
+        });
+
+        // 6. TREND
+        let dailyMap = {};
+        coreData.forEach(q => {
+            let dateKey = new Date(q.timestamp).toLocaleDateString();
+            if (!dailyMap[dateKey]) dailyMap[dateKey] = { total: 0, correct: 0 };
+            dailyMap[dateKey].total++;
+            if(q.isCorrect) dailyMap[dateKey].correct++;
+        });
+
+        let sortedDates = Object.keys(dailyMap).sort((a,b) => new Date(a) - new Date(b)).slice(-30);
+        let trendData = sortedDates.map(d => Math.round((dailyMap[d].correct / dailyMap[d].total) * 100));
+        if (trendData.length === 0) { sortedDates = ['Today']; trendData = [0]; }
+
+        const ctxTrend = document.getElementById('trendChart').getContext('2d');
+        let grad = ctxTrend.createLinearGradient(0,0,0,400);
+        grad.addColorStop(0, 'rgba(16, 185, 129, 0.4)');
+        grad.addColorStop(1, 'rgba(16, 185, 129, 0.0)');
+
+        new Chart(ctxTrend, {
+            type: 'line',
+            data: {
+                labels: sortedDates,
+                datasets: [{
+                    label: 'Accuracy %', data: trendData,
+                    borderColor: '#10b981', backgroundColor: grad,
+                    fill: true, tension: 0.4, pointRadius: 4
+                }]
+            },
+            options: {
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: { y: { beginAtZero: true, max: 100 } }
+            }
+        });
+    }
+
+    // --- UPGRADED MODAL: CLICK TO REVEAL ---
+    function openReviewModal() {
+        const container = document.getElementById('mistakes-container');
+        container.innerHTML = "";
+        const mistakes = coreData.filter(q => !q.isCorrect).reverse().slice(0, 50);
+
+        if(mistakes.length === 0) {
+            container.innerHTML = "<p style='text-align:center;'>No mistakes found.</p>";
+        } else {
+            mistakes.forEach((m, idx) => {
+                let correctTxt = "Check Explanation";
+                if(m.options && Array.isArray(m.options)) {
+                    let c = m.options.find(o => o.correct);
+                    if(c) correctTxt = c.text;
+                }
+                
+                // Added onclick to toggle explanation
+                container.innerHTML += `
+                    <div class="mistake-item" onclick="toggleExp('exp-${idx}')">
+                        <div class="q-text">${m.text}</div>
+                        <div class="ans-row">
+                            <div class="tag-wrong">Wrong</div>
+                            <div class="tag-right">Correct: ${correctTxt}</div>
+                            <div style="margin-left:auto; opacity:0.5;"><i class="fas fa-chevron-down"></i></div>
+                        </div>
+                        <div id="exp-${idx}" class="exp-box">
+                            <b>Explanation:</b><br>${m.explanation || "No explanation available."}
+                        </div>
+                    </div>`;
+            });
+        }
+        document.getElementById('reviewModal').style.display = "block";
+    }
+
+    function toggleExp(id) {
+        const el = document.getElementById(id);
+        el.style.display = (el.style.display === 'block') ? 'none' : 'block';
+    }
+</script>
+</body>
+</html>

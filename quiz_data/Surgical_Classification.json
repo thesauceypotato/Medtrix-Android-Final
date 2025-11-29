@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "id": "test46",
+    "title": "Surgical_Classification",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Identify the correct pair:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strasberg classification : Benign stricture",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bismuth classification : Choledochal cyst",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bismuth-Colerette classification: Cholangiocarcinoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Todani classification: Bile leak",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Kasai classification: Mirizzi syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Bismuth-Colerette classification: Cholangiocarcinoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f99d34bd",
+      "audio": ""
+    },
+    {
+      "text": "The contrast enhanced CT abdomen of a 50 year old woman shows the following finding. Which of the following classifications would you use to assess the severity of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jackson staging",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bosniak staging",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Durie-Salmon stagin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Todani staging",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bosniak staging",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/101(5).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "868cceb5",
+      "audio": ""
+    },
+    {
+      "text": "The Van Nuys grading system for ductal carcinoma in situ does not include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Age of the patient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Size of the tumor",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hormone receptor staining",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Presence of microcalcification",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hormone receptor staining",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "89367f20",
+      "audio": ""
+    },
+    {
+      "text": "Components of child-pugh score are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Encephalitis, AST, albumin, bilirubin, Prothrombin time",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Encephalitis, ascites, albumin, bilirubin, Prothrombin time",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Encephalitis, AST, INR, albumin, bilirubin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Encephalitis, ascites, albumin, bilirubin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Encephalitis, ascites, albumin, bilirubin, Prothrombin time",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0d42cfe1",
+      "audio": ""
+    },
+    {
+      "text": "According to Bismuth classification, which of the following is type III bile duct stricture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. C",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(1168).png"
+      ],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(969).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bb04ec7c",
+      "audio": ""
+    },
+    {
+      "text": "What is not included in the MELD score?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Creatinine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bilirubin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PT",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Albumin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Albumin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9783e60c",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not included in BISAP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BUN > 25",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SIRS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Age >60yrs",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "GCS <15",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Pseudocyst",
+          "correct": true
+        }
+      ],
+      "correct_answer": "E. Pseudocyst",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/104(4).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eb7508cf",
+      "audio": ""
+    },
+    {
+      "text": "1 hour bundle in Surviving Sepsis campaign includes all except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lactate levels",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Blood culture",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Broad-spectrum antibiotics",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pro-calcitonin levels",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pro-calcitonin levels",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/105(2).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f106a77e",
+      "audio": ""
+    },
+    {
+      "text": "What is the primary feature of type I (classic) achalasia according to the Chicago Classification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypercontractile peristalsis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Elevated resting LES pressure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Absent peristalsis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Intermittent contractions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Absent peristalsis",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/106(6).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bdbb610e",
+      "audio": ""
+    },
+    {
+      "text": "In assessing a patient with a bleeding ulcer, which of the following findings would indicate the highest urgency for intervention based on the Forrest classification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clean base (Type III)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adherent clot (Type II)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Visible vessel (Type I)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Recent bleeding with no clot (Type IV)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Visible vessel (Type I)",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/107(3).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "61056307",
+      "audio": ""
+    },
+    {
+      "text": "A patient presented with serous discharge from an opening located in the perianal region. On examination, the location of the external opening was at 8'0 clock position. According to Goodsall's rule at what position from the dentate line will the internal opening be palpated in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8'0 clock",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4'0 clock",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1'0 clock",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6'0 clock",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 6'0 clock",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "67ef8dd3",
+      "audio": ""
+    },
+    {
+      "text": "A 31-year-old male presents with RLQ pain, fever, & leukocytosis. Prior to imaging studies the Alvarado score is used to determine patient's likelihood of having appendicitis. All of the following variables make up Alvarado score except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anorexia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Left shift of neutrophils",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "lIliopsoas sign",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "RLQ pain",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. lIliopsoas sign",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7699a69a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following INCORRECTLY matches a grading scale for patients with liver disease and one of its components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Model for End-Stage Liver Disease (MELD): Serum creatinine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Child-Turcotte-Pugh (CTP): Bilirubin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CTP: INR",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "MELD: Albumin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. MELD: Albumin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9a58ae3f",
+      "audio": ""
+    },
+    {
+      "text": "Which tumour markers constitute \u201croma score\u201d for ovarian malignancy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ca-125 and human epidermal protein 4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ca-125 and human epididymis protein 4",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ca-125 and carcinoembryonic antigen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ca-125 and chorioembryonic antigen",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ca-125 and human epididymis protein 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ef5ec44a",
+      "audio": ""
+    },
+    {
+      "text": "A 54-year-old woman presents to the gastroenterology clinic with difficulty swallowing, occasional regurgitation of undigested food, and a noticeable weight loss of 8kg over the past two months. On examination, she appears anxious and has a slight odor of halitosis. The physician assesses her symptoms using the Eckardt score. Based on the Eckardt score, which of the following points would contribute to her total score?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dysphagia (difficulty swallowing) - 3 points",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Regurgitation - 2 points",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Weight loss (greater than 5 kg) - 2 points",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/108(3).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d609565f",
+      "audio": ""
+    },
+    {
+      "text": "Identify the incorrect component of the Ranson\u2019s score in acute pancreatitis:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALT > 250",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Base deficit > 4 meq",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fluid loss >6L",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "pO2 < 60",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. ALT > 250",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/109(4).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bd4d1909",
+      "audio": ""
+    },
+    {
+      "text": "According to Todani classification, diffuse extra-hepatic type is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "III",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "IVa",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IVb",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "V",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. IVb",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/110(2).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2a0c2eb1",
+      "audio": ""
+    },
+    {
+      "text": "Following trauma to left side to abdomen, CT scan reveal clear fluid in the peri-renal space with lacerated kidney. What is the AAST grade?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 4",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/111(6).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "654a6dc1",
+      "audio": ""
+    },
+    {
+      "text": "According to Siewart\u2019s classification, true GE junction tumours are located at?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5cm to 2 cm above GE junction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5cm to 1cm above GE junction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 cm above to 2 cm below GE junction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "2 cm above to 1 cm below GE junction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1 cm above to 2 cm below GE junction",
+      "question_images": [],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/112(5).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e79618bf",
+      "audio": ""
+    },
+    {
+      "text": "Which of these severity scores of acute pancreatitis can predict severity on admission?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CT severity index",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "BISAP",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Atlanta classification",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Serum CRP levels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. BISAP",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c6a78bda",
+      "audio": ""
+    }
+  ]
+}

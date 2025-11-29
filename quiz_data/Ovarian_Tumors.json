@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "id": "test86",
+    "title": "Ovarian Tumors",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following are epithelial tumours of the? Granulosa cell tumour Brenner tumour Serous tumour Endometrioid tumors Dysgerminoma Select the correct answer from given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2,3,4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1,3,5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "3,4,5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1,4,5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 2,3,4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2,3,4 Among the given options, epithelial cell tumours include: Brenner tumour Serous tumour Endometrioid tumour</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - 1. Granulosa cell tumour - It is a sex cord tumour 5. Dysgerminoma - It is a germ-cell tumour</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1878ccfe",
+      "audio": ""
+    },
+    {
+      "text": "Based on the histological features of complex branching patterns and widespread infiltration or effacement of the underlying stroma, Identify the type of ovarian tumour:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serous carcinoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mucinous carcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Brenner tumour",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Endometrioid carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Serous carcinoma",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689161037033-QTDP157002IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Serous carcinoma The given histopathological image of the ovarian tumour showing a complex branching pattern and widespread infiltration or effacement of the underlying stroma is suggestive of Serous carcinoma of the ovary. It is an ovarian epithelial tumour, tumor cells often form papillary structures, which can have a branching or complex pattern.</p>\n<p><strong>Highyeild:</strong></p><p>Serous Carcinoma Origin : Epithelial cells lining the surface of the ovary High-grade tumour : aggressive and rapidly progressing Histology: Papillary Growth Pattern : Tumor cells form finger-like projections or papillae that extend into the cystic spaces or cover the ovarian surface. Complex Branching Pattern: The papillae can show various degrees of complexity, with multiple layers and fronds. Psammoma bodies may be present Stromatolites infiltration and nuclear atypia</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Mucinous carcinoma: It is another type of ovarian epithelial tumour characterized by glandular structures containing mucin. Option: C. Brenner tumours: These are typically composed of transitional epithelium and are characterized by nests of epithelial cells with coffee bean nuclei. Option: D. Endometrioid carcinoma: It is a type of ovarian epithelial tumour that resembles the endometrium and is associated with endometriosis. It may show glandular or cribriform structures but does not typically exhibit the specific complex branching pattern mentioned in the case.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "051c3e33",
+      "audio": ""
+    },
+    {
+      "text": "Mutation of which gene is most commonly seen in mucinous tumours of the ovary:",
+      "options": [
+        {
+          "label": "A",
+          "text": "PTEN",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "KRAS",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "TP53",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "BRAF",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. KRAS",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>KRAS Mutations in the KRAS gene, specifically in codon 12 or 13, are frequently observed in mucinous ovarian tumours. The KRAS gene encodes a protein involved in cell signalling pathways that regulate cell growth and division. Mutations in KRAS result in the activation of downstream signalling pathways, leading to uncontrolled cell proliferation and tumour formation.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. PTEN: It is a tumour suppressor gene involved in regulating cell growth, division, and apoptosis. It is commonly associated with endometrioid and clear cell carcinomas of the ovary but is not frequently seen in mucinous tumours. Option: C. TP53: TP53 mutations are most commonly observed in high-grade serous carcinomas of the ovary rather than mucinous tumours. Option: D. BRAF: BRAF is a proto-oncogene that plays a role in regulating cell signalling pathways. Mutations in the BRAF gene are more commonly associated with other types of cancer, such as melanoma and thyroid cancer, rather than mucinous tumours of the ovary.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "823fc7f0",
+      "audio": ""
+    },
+    {
+      "text": "Based on the histological features in the diagram shown below, identify the type of ovarian tumour:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brenner tumour",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Serous carcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mucinous carcinoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Teratoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Teratoma",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689161037996-QTDP157005IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Teratoma The given histopathological image shows the cyst wall composed of stratified squamous epithelium with underlying sebaceous glands is suggestive of Teratoma . Teratomas are germ cell tumours that can contain various tissue types derived from different germ cell layers . They often exhibit diverse elements such as skin, hair, sebaceous glands, and other adnexal structure</p>\n<p><strong>Highyeild:</strong></p><p>Mature cystic teratoma Also called a dermoid cyst Benign Most common ovarian tumour in young females Cystic mass with elements from all 3 germ layers (teeth, hair, sebum) May be painful secondary to ovarian enlargement or torsion Malignant transformation rare: Squamous cell carcinoma</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Brenner tumour: It is typically composed of transitional epithelium and is characterized by the presence of nests of epithelial cells with coffee bean nuclei. Option: B. Serous carcinoma: It is an ovarian epithelial tumour characterized by the presence of papillary structures and psammoma bodies. Option: C. Mucinous carcinoma: It is an ovarian epithelial tumour characterized by glandular structures containing mucin</p>\n<p><strong>Extraedge:</strong></p><p>Immature Vs Mature teratoma Immature teratoma Mature teratoma Type Malignant tumour Typically benign tumour Histology Presence of immature tissue elements Presence of well-differentiated tissue elements Components Immature tissues such as neuroepithelial elements, embryonal structures Mature tissues representing various germ cells layers, such as skin, hair, teeth, and glands Clinical behaviour Aggressive behaviour with the potential for metastasis Typically localized and does not metastasize Serum tumour markers May show elevated levels of tumour markers such as AFP and beta-hCG Tumour markers are usually not elevated</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a0feb608",
+      "audio": ""
+    },
+    {
+      "text": "A 24-year-old female patient presented with raised chorionic gonadotropin and adnexal mass. Excision of the mass done and histology shows large vesicular cells with abundant clear cytoplasm and fibrous septa containing lymphocytic infiltrate as shown in the diagram, so based on the above features what\u2019s your diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choriocarcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Teratoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dysgerminoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Endodermal sinus tumour",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dysgerminoma",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689161040374-QTDP157009IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Dysgerminoma The given histopathological image showing large vesicular cells having a clear cytoplasm, well-defined cell boundaries , and centrally placed regular nuclei is suggestive of Dysgerminoma It is a type of germ cell tumour that commonly occurs in young females. It is associated with elevated serum levels of chorionic gonadotropin (hCG).</p>\n<p><strong>Highyeild:</strong></p><p>Dysgerminoma It is a type of germ-cell tumour Malignant Most common in adolescents Equivalent to male seminoma but rarer Histology: Sheets of Large Cells ( fried egg cells ) Lymphocytic Infiltrate Often exhibit nuclear grooves Abundant Mitotic Figures Lacks Vascular Invasion IHC: OCT 3/4, NANOG, PLAP, and CD117 (c-kit).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Choriocarcinoma: it is another type of malignant germ cell tumour characterized by the presence of syncytiotrophoblasts and cytotrophoblasts. Option: B. Teratoma: It is a germ cell tumour that can contain various tissue types derived from different germ layers. Option: D. Endodermal sinus tumour: These tumours are associated with elevated levels of alpha-fetoprotein (AFP), not chorionic gonadotropin (hCG) as described in the case.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4842b71d",
+      "audio": ""
+    },
+    {
+      "text": "A 20-year-old female presents with lower abdominal pain and a palpable mass. Imaging reveals a solid ovarian tumour with areas of haemorrhage and necrosis. Laboratory investigations show elevated levels of alpha-fetoprotein (AFP). Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endodermal sinus tumour",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Teratoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dysgerminoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Embryonal carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Endodermal sinus tumour",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Endodermal sinus tumour The given clinical history is suggestive of an Endodermal sinus tumour or yolk sac tumour. These are aggressive germ cell tumours that commonly occur in young females and are associated with elevated AFP levels.</p>\n<p><strong>Highyeild:</strong></p><p>Yolk sac tumour Aka Endodermal sinus tumour Malignant and aggressive Often occurs in children and young adult females Histology: Schiller-Duval bodies: small, glomerulus-like structures composed of central blood vessels surrounded by tumour cells. Primitive endodermal differentiation: Tumour marker: Increased AFP</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option:B. Mucinous cystadenoma: It is a benign ovarian tumour that is characterized by the presence of mucin-filled cysts. They typically present as multiloculated cystic masses without solid components. Option:C. Serous cystadenoma: It is also a benign ovarian tumour that predominantly consists of serous fluid-filled cysts. They usually do not exhibit solid areas or haemorrhage/necrosis in imaging studies. Option:D. Granulosa cell tumour: It is an ovarian tumour that arises from the granulosa cells of the ovarian follicles. Granulosa cell tumours are associated with elevated levels of estrogen, which can result in hormonal manifestations like breast enlargement and precocious puberty.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4f9392cb",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old female patient has a large adnexal mass with raised inhibin levels. Histopathology shows cord and sheets of tumour cells, often showing nuclear grooves as shown in the diagram, based on the above clinical features identify the type of tumour:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choriocarcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Granulosa cell tumor",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Yolk sac tumour",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Leidig cell tumour",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Granulosa cell tumor",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689161043164-QTDP157012IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Granulosa cell tumor The given clinical history with a histopathological image showing cord and sheets of tumour cell, often showing nuclear groove /coffee-bean-like nuclei ( Call-exner bodies ) is suggestive of Granulosa cell tumour. These are sex cord-stromal tumours of the ovary which can produce inhibin</p>\n<p><strong>Highyeild:</strong></p><p>Granulosa cell tumour Most common malignant sex cord-stromal tumour Age: 50 years age Presents with Post-menopausal bleeding Endometrial hyperplasia Sexual precocity Breast tenderness Histology: Call-exner bodies Tumour marker: Increased inhibin</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Choriocarcinoma: It is a germ cell tumour that is characterized by the presence of syncytiotrophoblasts and cytotrophoblasts. It is associated with elevated levels of beta-human chorionic gonadotropin (\u03b2-hCG), rather than inhibin. Option: C. Yolk sac tumour: It is another germ cell tumour that typically presents with elevated serum levels of alpha-fetoprotein (AFP). Option: D. Leydig cell tumours: These are Leydig cell tumours and are associated with the production of androgens, rather than inhibin.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5b5bb56e",
+      "audio": ""
+    },
+    {
+      "text": "Which gene is most commonly mutated in granulosa cell tumours?",
+      "options": [
+        {
+          "label": "A",
+          "text": "FOXP 3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "FOXL2",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "SOX 1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "SOX 11",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. FOXL2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>FOXL2 In granulosa cell tumours (GCTs), the most commonly mutated gene is FOXL2 . FOXL2 is a transcription factor gene that plays a crucial role in Granulosa cell development. The majority of adult-type GCTs, including both juvenile and adult variants, are associated with a specific mutation in the FOXL2 gene.</p>\n<p><strong>Highyeild:</strong></p><p>Granulosa cell tumour Most common malignant sex cord-stromal tumour Age: 50 years age Presents with Post-menopausal bleeding Endometrial hyperplasia Sexual precocity Breast tenderness Histology: Call-exner bodies Tumour marker: Increased inhibin</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option:A. FOXP3: It is a gene that encodes a transcription factor called forkhead box P3. Mutations in the FOXP3 gene are associated with a rare genetic disorder called immune dysregulation, polyendocrinopathy, enteropathy, and X-linked syndrome (IPEX syndrome). Option:C. SOX1: It is a gene that belongs to the SOX (SRY-related HMG-box) family of transcription factors. Mutations in the SOX1 gene have been implicated in the development of certain types of cancers, including esophageal squamous cell carcinoma and lung adenocarcinoma. Option:D. SOX11: It is another gene belonging to the SOX family of transcription factors. It plays a role in embryonic development and tissue differentiation. Mutations or dysregulation of SOX11 have been implicated in various types of cancers, including B-cell lymphomas.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ae08b27e",
+      "audio": ""
+    },
+    {
+      "text": "A 50-year-old female presents with a large Aden exam mass and abdominal discomfort. Ovary was removed and on histopathology, Reinke crystalloids were found. What is the likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Granulosa cell tumour",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gonadoblastoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hilus cell tumour",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Yolk sac tumour",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hilus cell tumour",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689161044896-QTDP157016IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hilus cell tumour The given clinical scenario with a histopathological image showing reinke crystals is suggestive of Hilus cell tumour, also known as Leydig cell tumour. These are rare sex cord-stromal tumours of the ovary and are often hormonally active, leading to the production of androgens, which can cause virilization symptoms.</p>\n<p><strong>Highyeild:</strong></p><p>Leydig cell tumour It is a sex-cord tumour Benign Hormonally active and can produce excessive amounts of testosterone or other androgens Androgens are responsible for virilization Gross : Well-circumscribed, solid , and yellowish to golden-brown in colour Histology: Reinke Crystals: intracytoplasmic crystalloid structures Polyhedral cells: Polygonal or spindle-shaped cells with eosinophilic cytoplasm Abundant Lipid Droplets</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Granulosa cell tumours: These are another type of sex cord-stromal tumour of the ovary, but they typically present with estrogenic symptoms rather than androgenic symptoms. Option: B . Gonadoblastoma: It is a mixed germ cell and sex cord-stromal tumour and is often associated with disorders of sexual development. Option: D. Yolk sac tumour: It is a germ cell tumour that typically occurs in young females and is associated with elevated serum levels of alpha-fetoprotein.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b65f3be7",
+      "audio": ""
+    }
+  ]
+}

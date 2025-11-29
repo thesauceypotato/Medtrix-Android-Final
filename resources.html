@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MEDTRIX | Library</title>
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- PREMIUM THEME VARIABLES --- */
+        :root {
+            /* Light Mode */
+            --bg-body: #f0f4f8;
+            --bg-gradient: radial-gradient(circle at top left, #e0f7fa, #f0f4f8);
+            --glass-bg: rgba(255, 255, 255, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.9);
+            --glass-shadow: 0 8px 32px rgba(31, 38, 135, 0.1);
+            
+            --text-main: #1a202c;
+            --text-sub: #4a5568;
+            
+            --accent: #007bff;
+            --success: #10b981;
+        }
+
+        [data-theme="dark"] {
+            /* Dark Mode */
+            --bg-body: #0f1115;
+            --bg-gradient: radial-gradient(circle at top center, #1a202c, #0f1115);
+            --glass-bg: rgba(20, 22, 27, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            
+            --text-main: #f7fafc;
+            --text-sub: #a0aec0;
+            
+            --accent: #00e5ff;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Poppins', sans-serif; transition: background 0.3s ease, color 0.3s ease; }
+        
+        body { 
+            background: var(--bg-body); background-image: var(--bg-gradient);
+            background-attachment: fixed; color: var(--text-main);
+            min-height: 100vh; padding: 20px; padding-bottom: 100px;
+            padding-top: 90px; /* Space for Sticky Header */
+        }
+
+        /* --- STICKY HEADER --- */
+        .header { 
+            position: fixed; top: 0; left: 0; right: 0;
+            height: 70px; z-index: 100;
+            background: var(--glass-bg); backdrop-filter: blur(15px);
+            border-bottom: 1px solid var(--glass-border);
+            display: flex; justify-content: space-between; align-items: center; 
+            padding: 0 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+        }
+        
+        h1 { 
+            font-family: 'Orbitron', sans-serif; font-size: 1.5rem; 
+            color: var(--accent); margin: 0; letter-spacing: 1px; 
+        }
+        
+        .back-btn { 
+            text-decoration: none; color: var(--text-main); font-weight: 600; 
+            display: flex; align-items: center; gap: 8px; font-size: 0.9rem;
+            background: rgba(0,0,0,0.05); padding: 8px 15px; border-radius: 30px;
+            border: 1px solid transparent; transition: transform 0.2s;
+        }
+        .back-btn:hover { transform: scale(1.05); color: var(--accent); background: rgba(0, 229, 255, 0.1); }
+
+        /* --- SUBJECT GROUPS (Accordions) --- */
+        .subject-group { 
+            margin-bottom: 15px; 
+            background: var(--glass-bg); border: 1px solid var(--glass-border);
+            border-radius: 16px; overflow: hidden;
+            box-shadow: var(--glass-shadow);
+        }
+        
+        .subject-header {
+            padding: 18px 20px; cursor: pointer; display: flex; align-items: center; justify-content: space-between;
+            transition: background 0.2s; border-bottom: 1px solid transparent;
+            /* Touch optimization */
+            min-height: 60px; 
+        }
+        .subject-header:active { background: rgba(0, 229, 255, 0.05); }
+        .subject-header.active { border-bottom: 1px solid var(--glass-border); }
+        
+        .header-left { display: flex; align-items: center; gap: 12px; overflow: hidden; }
+        .cat-icon { font-size: 1.4rem; flex-shrink: 0; }
+        .cat-title { 
+            font-weight: 700; font-size: 1rem; letter-spacing: 0.5px; 
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        
+        .count-badge { 
+            font-size: 0.7rem; font-weight: bold; background: var(--accent); color: white; 
+            padding: 3px 8px; border-radius: 12px; margin-left: 5px; flex-shrink: 0;
+        }
+        
+        .toggle-icon { transition: transform 0.3s; opacity: 0.7; font-size: 0.9rem; }
+        .toggle-icon.open { transform: rotate(180deg); color: var(--accent); }
+
+        /* --- RESOURCE GRID --- */
+        .resource-grid {
+            display: none; /* Collapsed */
+            /* Smart Grid: 1 col on mobile, multi on desktop */
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 12px; padding: 20px;
+            animation: slideDown 0.3s ease-out;
+            background: rgba(0,0,0,0.02);
+        }
+        @keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* --- PDF CARD --- */
+        .resource-card {
+            background: var(--bg-body); border: 1px solid var(--glass-border);
+            border-radius: 12px; padding: 15px;
+            display: flex; align-items: center; gap: 15px;
+            transition: transform 0.2s, border-color 0.2s; position: relative;
+            /* Touch optimization */
+            min-height: 70px;
+        }
+        .resource-card:hover { 
+            border-color: var(--accent); 
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .resource-card:active { transform: scale(0.98); }
+
+        /* --- CHECK CIRCLE --- */
+        .check-circle {
+            width: 30px; height: 30px; border-radius: 50%; /* Slightly larger for touch */
+            border: 2px solid var(--text-sub); cursor: pointer;
+            flex-shrink: 0; display: flex; align-items: center; justify-content: center;
+            transition: 0.3s; opacity: 0.5;
+        }
+        
+        .check-circle.read { 
+            background: var(--success); border-color: var(--success); 
+            box-shadow: 0 0 10px rgba(16, 185, 129, 0.4); 
+            opacity: 1; 
+        }
+        .check-circle.read::after {
+            content: '✔'; font-size: 14px; color: white;
+        }
+
+        /* TEXT CONTENT */
+        .card-link { 
+            text-decoration: none; color: inherit; flex-grow: 1; 
+            display: flex; flex-direction: column; gap: 4px; 
+            overflow: hidden;
+        }
+        .card-title { 
+            font-weight: 600; font-size: 0.9rem; color: var(--text-main);
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .card-sub { 
+            font-size: 0.7rem; color: var(--accent); font-weight: 500; 
+            text-transform: uppercase; letter-spacing: 0.5px; 
+        }
+
+        /* --- MOBILE OPTIMIZATION --- */
+        @media (max-width: 600px) {
+            body { padding: 10px; padding-top: 80px; }
+            h1 { font-size: 1.2rem; }
+            .header { padding: 0 15px; height: 60px; }
+            .back-btn span { display: none; } /* Hide text on very small screens */
+            
+            .subject-header { padding: 15px; }
+            .cat-title { font-size: 0.95rem; }
+            
+            .resource-grid { grid-template-columns: 1fr; padding: 10px; gap: 10px; }
+            .card-title { white-space: normal; line-height: 1.3; } /* Allow wrapping on mobile */
+        }
+
+    </style>
+</head>
+<body>
+
+<!-- STICKY HEADER -->
+<div class="header">
+    <a href="index.html" class="back-btn"><i class="fas fa-arrow-left"></i> <span>Dashboard</span></a>
+    <h1>Study Library</h1>
+    <div style="width: 30px;"></div> <!-- Balance Spacer -->
+</div>
+
+<div id="library" style="max-width: 1000px; margin: 0 auto;">
+
+    <!-- DERMATOLOGY -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">🧖</span>
+                <span class="cat-title">Dermatology</span>
+                <span class="count-badge">1</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Dermatology_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Dermatology_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Dermatology%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Dermatology Tables & Images</div>
+                    <div class="card-sub">High Yield • PDF</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- ENT -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">👂</span>
+                <span class="cat-title">ENT</span>
+                <span class="count-badge">1</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Shock_Supplement.pdf" onclick="toggleRead(this, 'UW_2_-_Shock_Supplement.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Shock%20Supplement.pdf" class="card-link">
+                    <div class="card-title">Shock Supplement</div>
+                    <div class="card-sub">Notes • PDF</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- GENERAL / MISC -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">📂</span>
+                <span class="cat-title">General / Miscellaneous</span>
+                <span class="count-badge">4</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Biostatistics_&_Epidemiology_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Biostatistics_&_Epidemiology_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Biostatistics%20%26%20Epidemiology%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Biostatistics & Epidemiology</div>
+                    <div class="card-sub">Tables & Images</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Medicine_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Medicine_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Medicine%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">General Medicine Tables</div>
+                    <div class="card-sub">High Yield</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Psychiatry_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Psychiatry_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Psychiatry%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Psychiatry Images</div>
+                    <div class="card-sub">Visual Aid</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_Social_Sciences_Ethics,_Legal,_Professional_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_Social_Sciences_Ethics,_Legal,_Professional_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW_2_Social_Sciences_Ethics%2C_Legal%2C_Professional_Tables_and_Images.pdf" class="card-link">
+                    <div class="card-title">Ethics & Legal Medicine</div>
+                    <div class="card-sub">Social Sciences</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- NEUROLOGY -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">🧠</span>
+                <span class="cat-title">Neuroanatomy & Neurology</span>
+                <span class="count-badge">9</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro1_anatomy-1.pdf" onclick="toggleRead(this, 'neuro1_anatomy-1.pdf')"></div>
+                <a href="viewer.html?file=neuro1%20anatomy-1.pdf" class="card-link">
+                    <div class="card-title">Part 1: Neuroanatomy</div>
+                    <div class="card-sub">Core Concepts</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro2_stroke.pdf" onclick="toggleRead(this, 'neuro2_stroke.pdf')"></div>
+                <a href="viewer.html?file=neuro2%20stroke.pdf" class="card-link">
+                    <div class="card-title">Part 2: Stroke Management</div>
+                    <div class="card-sub">Clinical</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro3_nerves.pdf" onclick="toggleRead(this, 'neuro3_nerves.pdf')"></div>
+                <a href="viewer.html?file=neuro3%20nerves.pdf" class="card-link">
+                    <div class="card-title">Part 3: Cranial Nerves</div>
+                    <div class="card-sub">Anatomy</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro4_dementia.pdf" onclick="toggleRead(this, 'neuro4_dementia.pdf')"></div>
+                <a href="viewer.html?file=neuro4%20dementia.pdf" class="card-link">
+                    <div class="card-title">Part 4: Dementia</div>
+                    <div class="card-sub">Pathology</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro5_infection.pdf" onclick="toggleRead(this, 'neuro5_infection.pdf')"></div>
+                <a href="viewer.html?file=neuro5%20infection.pdf" class="card-link">
+                    <div class="card-title">Part 5: CNS Infections</div>
+                    <div class="card-sub">Microbiology</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro6_epilepsy.pdf" onclick="toggleRead(this, 'neuro6_epilepsy.pdf')"></div>
+                <a href="viewer.html?file=neuro6%20epilepsy.pdf" class="card-link">
+                    <div class="card-title">Part 6: Epilepsy & Seizures</div>
+                    <div class="card-sub">Clinical</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro7_collection.pdf" onclick="toggleRead(this, 'neuro7_collection.pdf')"></div>
+                <a href="viewer.html?file=neuro7%20collection.pdf" class="card-link">
+                    <div class="card-title">Part 7: Clinical Collection</div>
+                    <div class="card-sub">Mixed Topics</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro8_tumors.pdf" onclick="toggleRead(this, 'neuro8_tumors.pdf')"></div>
+                <a href="viewer.html?file=neuro8%20tumors.pdf" class="card-link">
+                    <div class="card-title">Part 8: CNS Tumors</div>
+                    <div class="card-sub">Oncology</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_neuro9_congenital.pdf" onclick="toggleRead(this, 'neuro9_congenital.pdf')"></div>
+                <a href="viewer.html?file=neuro9%20congenital.pdf" class="card-link">
+                    <div class="card-title">Part 9: Congenital Disorders</div>
+                    <div class="card-sub">Pediatric Neuro</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- OBGYN -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">🤰</span>
+                <span class="cat-title">Obstetrics & Gynaecology</span>
+                <span class="count-badge">2</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Gynecology_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Gynecology_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Gynecology%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Gynecology Tables</div>
+                    <div class="card-sub">High Yield</div>
+                </a>
+            </div>
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Obstetrics_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Obstetrics_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Obstetrics%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Obstetrics Tables</div>
+                    <div class="card-sub">High Yield</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- PEDIATRICS -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">👶</span>
+                <span class="cat-title">Pediatrics</span>
+                <span class="count-badge">1</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Pediatrics_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Pediatrics_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Pediatrics%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Pediatrics Tables & Images</div>
+                    <div class="card-sub">Core Topics</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- SURGERY -->
+    <div class="subject-group">
+        <div class="subject-header" onclick="toggleGrid(this)">
+            <div class="header-left">
+                <span class="cat-icon">✂️</span>
+                <span class="cat-title">Surgery</span>
+                <span class="count-badge">1</span>
+            </div>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="resource-grid">
+            <div class="resource-card">
+                <div class="check-circle" id="check_UW_2_-_Surgery_-_Tables_and_Images.pdf" onclick="toggleRead(this, 'UW_2_-_Surgery_-_Tables_and_Images.pdf')"></div>
+                <a href="viewer.html?file=UW%202%20-%20Surgery%20-%20Tables%20and%20Images.pdf" class="card-link">
+                    <div class="card-title">Surgery Tables & Images</div>
+                    <div class="card-sub">General Surgery</div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    // 1. THEME LOAD
+    if(localStorage.getItem('medtrix-theme') === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+
+    // 2. TOGGLE SECTIONS
+    function toggleGrid(header) {
+        const grid = header.nextElementSibling;
+        const icon = header.querySelector('.toggle-icon');
+        
+        if (grid.style.display === 'grid') {
+            grid.style.display = 'none';
+            icon.classList.remove('open');
+            header.classList.remove('active');
+        } else {
+            grid.style.display = 'grid';
+            icon.classList.add('open');
+            header.classList.add('active');
+        }
+    }
+
+    // 3. READ MARKER LOGIC
+    function toggleRead(circle, id) {
+        circle.classList.toggle('read');
+        const isRead = circle.classList.contains('read');
+        if(isRead) localStorage.setItem('read_' + id, 'true');
+        else localStorage.removeItem('read_' + id);
+    }
+
+    // 4. RESTORE STATE
+    document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('.check-circle').forEach(circle => {
+            const id = circle.id.replace('check_', '');
+            if(localStorage.getItem('read_' + id)) circle.classList.add('read');
+        });
+    });
+</script>
+
+</body>
+</html>

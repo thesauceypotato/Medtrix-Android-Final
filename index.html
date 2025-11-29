@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MEDTRIX | Dashboard</title>
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Config & Core -->
+    <script src="config.js"></script>
+    <script src="medtrix_core.js"></script>
+
+    <style>
+        /* --- 1. COLOR PALETTE --- */
+        :root {
+            --bg: #f3f4f6;
+            --bg-gradient: radial-gradient(circle at 0% 0%, #e0f2fe, #f3f4f6);
+            --glass: rgba(255, 255, 255, 0.85);
+            --border: 1px solid rgba(255, 255, 255, 0.9);
+            --shadow: 0 10px 30px rgba(31, 38, 135, 0.08);
+            --text: #1f2937;
+            --subtext: #6b7280;
+            --accent: #2563eb;
+            --card-hover: translateY(-8px);
+        }
+
+        [data-theme="dark"] {
+            --bg: #0f172a;
+            --bg-gradient: radial-gradient(circle at 50% 0%, #1e293b, #0f172a);
+            --glass: rgba(30, 41, 59, 0.75);
+            --border: 1px solid rgba(255, 255, 255, 0.08);
+            --shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+            --text: #f1f5f9;
+            --subtext: #94a3b8;
+            --accent: #38bdf8;
+        }
+
+        /* --- 2. GLOBAL RESET --- */
+        * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: var(--bg); background-image: var(--bg-gradient);
+            background-attachment: fixed; color: var(--text);
+            min-height: 100vh; padding: 20px;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        /* --- 3. HEADER --- */
+        header { text-align: center; margin: 40px 0 50px; position: relative; z-index: 2; }
+
+        .logo-box {
+            width: 90px; height: 90px; margin: 0 auto 20px;
+            border-radius: 24px; background: var(--glass);
+            border: var(--border); padding: 10px;
+            box-shadow: 0 0 40px rgba(56, 189, 248, 0.2);
+            backdrop-filter: blur(12px);
+            animation: float 6s ease-in-out infinite;
+        }
+        .logo-box img { width: 100%; height: 100%; object-fit: cover; border-radius: 18px; }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif; font-size: 2.8rem; font-weight: 800; letter-spacing: 1px;
+            background: linear-gradient(135deg, var(--text), var(--accent));
+            background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            margin-bottom: 5px;
+        }
+        
+        .tagline { color: var(--subtext); font-size: 1rem; font-weight: 400; letter-spacing: 0.5px; }
+
+        /* --- 4. GRID SYSTEM --- */
+        .grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px; max-width: 1100px; margin: 0 auto 60px;
+        }
+
+        /* --- 5. CARDS --- */
+        .card {
+            background: var(--glass); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+            border: var(--border); border-radius: 24px; padding: 35px 30px;
+            text-decoration: none; color: var(--text); text-align: center;
+            box-shadow: var(--shadow); transition: 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+            position: relative; overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center;
+        }
+        
+        .card:hover { transform: var(--card-hover); border-color: var(--accent); box-shadow: 0 20px 50px rgba(0,0,0,0.15); }
+        
+        .icon { font-size: 3.5rem; margin-bottom: 20px; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1)); transition: transform 0.3s; }
+        .card:hover .icon { transform: scale(1.15) rotate(5deg); }
+        
+        .card h3 { font-size: 1.4rem; font-weight: 700; margin-bottom: 8px; }
+        .card p { font-size: 0.9rem; color: var(--subtext); line-height: 1.5; }
+
+        /* HERO TILE */
+        .card.hero {
+            grid-column: 1 / -1;
+            background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+            color: white !important; text-align: left;
+            flex-direction: row; justify-content: space-between;
+            padding: 50px; border: none;
+        }
+        .card.hero h3 { font-family: 'Orbitron'; font-size: 2.2rem; margin-bottom: 10px; }
+        .card.hero p { color: rgba(255,255,255,0.9); font-size: 1.1rem; max-width: 450px; }
+        .card.hero .icon { font-size: 5rem; margin: 0; filter: drop-shadow(0 0 20px rgba(255,255,255,0.3)); }
+        
+        .badge {
+            position: absolute; top: 20px; right: 20px;
+            background: rgba(255,255,255,0.2); padding: 6px 14px;
+            border-radius: 20px; font-size: 0.75rem; font-weight: 800;
+            border: 1px solid rgba(255,255,255,0.3); letter-spacing: 1px; text-transform: uppercase;
+            animation: pulse 2s infinite;
+        }
+
+        /* --- BUTTONS (Theme & Settings) --- */
+        .ctrl-btn {
+            position: absolute; top: 30px;
+            width: 50px; height: 50px; border-radius: 50%;
+            background: var(--glass); border: var(--border);
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.4rem; cursor: pointer; color: var(--text);
+            box-shadow: var(--shadow); backdrop-filter: blur(10px);
+            transition: transform 0.3s; z-index: 100; text-decoration: none;
+        }
+        .ctrl-btn:hover { transform: rotate(20deg) scale(1.1); }
+        
+        .theme-btn { right: 30px; }
+        .settings-btn { left: 30px; }
+
+        footer { text-align: center; color: var(--subtext); font-size: 0.85rem; opacity: 0.7; }
+        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+
+        @media (max-width: 768px) {
+            header { margin-top: 20px; }
+            h1 { font-size: 2.2rem; }
+            .grid { grid-template-columns: 1fr; gap: 20px; }
+            .card.hero { flex-direction: column-reverse; text-align: center; padding: 30px; }
+            .theme-btn { top: 20px; right: 20px; width: 45px; height: 45px; }
+            .settings-btn { top: 20px; left: 20px; width: 45px; height: 45px; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- SETTINGS BUTTON (NEW) -->
+    <a href="settings.html" class="ctrl-btn settings-btn"><i class="fas fa-cog"></i></a>
+    
+    <!-- THEME BUTTON -->
+    <div class="ctrl-btn theme-btn" onclick="toggleAppTheme()">🌓</div>
+
+    <header>
+        <div class="logo-box">
+            <img src="logo_medtrix.jpeg" alt="M">
+        </div>
+        <h1>MEDTRIX</h1>
+        <p class="tagline">Next-Gen Medical Intelligence</p>
+    </header>
+
+    <div class="grid">
+        <a href="mock_engine.html" class="card hero">
+            <div class="badge">AI POWERED</div>
+            <div>
+                <h3>Grand Mock</h3>
+                <p>Full-scale exam simulation with 200 high-yield questions and AI analysis.</p>
+            </div>
+            <div class="icon">🚀</div>
+        </a>
+
+        <a href="qbanks.html" class="card">
+            <div class="icon" style="color: #ff6b6b;">🩺</div>
+            <h3>Q-Bank Archive</h3>
+            <p>5000+ Topic-wise tests from DAMS, and more.</p>
+        </a>
+
+        <a href="./medical-mcq-engine/index.html" class="card">
+            <div class="icon" style="color: #00e676;">🏹</div>
+            <h3>Arrow</h3>
+        </a>
+        
+        <a href="resources.html" class="card">
+            <div class="icon" style="color: #4ecdc4;">📚</div>
+            <h3>Study Library</h3>
+            <p>High-yield notes, clinical PDFs, and revision charts.</p>
+        </a>
+
+        <a href="analytics.html" class="card">
+            <div class="icon" style="color: #ffe66d;">📊</div>
+            <h3>Analytics</h3>
+            <p id="analytics-summary" style="color:var(--text-secondary); font-weight:500;">Loading stats...</p>
+        </a>
+
+        <a href="revision.html" class="card">
+            <div class="icon" style="color: #a78bfa;">🧠</div>
+            <h3>Active Recall</h3>
+            <p>Smart flashcards based on your previous mistakes.</p>
+        </a>
+    </div>
+
+    <footer>&copy; 2025 MEDTRIX Pro.</footer>
+
+    <script>
+        function toggleAppTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('medtrix-theme', next);
+            if(typeof MEDTRIX !== 'undefined') MEDTRIX.ui.toast(`Theme: ${next.toUpperCase()}`);
+        }
+
+        // --- ANALYTICS READ ---
+        (function() {
+            try {
+                const data = JSON.parse(localStorage.getItem('MEDTRIX_GLOBAL_STATS') || '{"totalAnswered":0, "totalCorrect":0}');
+                const total = data.totalAnswered;
+                const correct = data.totalCorrect;
+                const accuracy = total > 0 ? Math.round((correct / total) * 100) : 0;
+                const display = document.getElementById('analytics-summary');
+                if(display) display.innerHTML = total > 0 ? `Questions: <b>${total}</b> | Accuracy: <b>${accuracy}%</b>` : "No quizzes taken yet.";
+            } catch(e) { console.error("Analytics Error", e); }
+        })();
+
+        // --- OFFLINE MODE / SERVICE WORKER REGISTRATION ---
+        if ('serviceWorker' in navigator && (location.protocol === 'http:' || location.protocol === 'https:')) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js', {scope: './'})
+                    .then(reg => console.log('Offline Engine Ready (SW)', reg.scope))
+                    .catch(err => console.log('Offline Engine Failed', err));
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "id": "test5",
+    "title": "CNS_Physiology-EEG___Sleep__Learning_and_Memory",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following statements about EEG (Electroencephalogram) is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "EEG measures the summated version of EPSP and IPSP generated in the brain.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "EEG records the dendritic potentials of pyramidal neurons.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Positive dendritic potentials are known as EPSP (Excitatory Postsynaptic Potential) and negative dendritic potentials are known as IPSP (Inhibitory Postsynaptic Potential).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D) Electrocorticography (ECOG) is the measurement of electrical activity specifically in the cerebral cortex by placing electrodes on the surface of scalp.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. D) Electrocorticography (ECOG) is the measurement of electrical activity specifically in the cerebral cortex by placing electrodes on the surface of scalp.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/TUgABEdcxQrqeeWyABVh1727327534.png"
+      ],
+      "explanation": "<p><strong>Educational Objective:</strong></p>\n<ul><li>\u27a4 EEG Function: Records electrical activity from the brain's surface, detecting dendritic potentials, not action potentials. EEG Components: Captures the summated EPSPs and IPSPs. Pyramidal Neurons: Major contributors to the signals detected by EEG.</li><li>\u27a4 EEG Function: Records electrical activity from the brain's surface, detecting dendritic potentials, not action potentials.</li><li>\u27a4 EEG Components: Captures the summated EPSPs and IPSPs.</li><li>\u27a4 Pyramidal Neurons: Major contributors to the signals detected by EEG.</li><li>\u27a4 Pyramidal Neurons:</li><li>\u27a4 Electrocorticography (ECOG): Involves placing electrodes directly on the cerebral cortex, not over the scalp, to measure electrical activity.</li><li>\u27a4 Electrocorticography (ECOG):</li></u\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1GJyiwgi5sdafEA47Ulr1745919073.mp3",
+      "video": "",
+      "uid": "c726119e"
+    },
+    {
+      "text": "Match the following EEG wave types with their respective frequency ranges and associated activities. Type of Wave Frequency Range (Hz) Activity During 1) Beta A) 8-13 i) Deep sleep 2) Alpha B) 14-30 ii) Relaxation, eyes closed 3) Theta C) 2-4 iii) Alert and active thinking 4) Delta D) 5-7 iv) Light sleep, emotional stress in adults",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 - B - iii, 2 - A - ii, 3 - D - iv, 4 - C - i",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1 - C - i, 2 - B - iii, 3 - A - ii, 4 - D - iv",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1 - B - iii, 2 - D - iv, 3 - A - ii, 4 - C - i",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 - A - ii, 2 - C - i, 3 - D - iv, 4 - B - iii",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1 - B - iii, 2 - A - ii, 3 - D - iv, 4 - C - i",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type of Wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Frequency Range (Hz)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Activity During</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Beta</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>14-30</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alert and active thinking</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alpha</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>8-13</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Relaxation, eyes closed</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Theta</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5-7</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light sleep, emotional stress in adults</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Delta</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2-4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deep sleep</p>\n</td>\n</tr>\n</tbody>\n\n<p><strong>Educational Objective:</strong></p>\n<ul><li>\u27a4 Beta Waves: High frequency, associated with alertness and active thinking. Alpha Waves: Prominent during relaxation and eyes-closed states. Theta Waves: Associated with light sleep and emotional stress, not deep sleep.</li><li>\u27a4 Beta Waves: High frequency, associated with alertness and active thinking.</li><li>\u27a4 Alpha Waves: Prominent during relaxation and eyes-closed states.</li><li>\u27a4 Theta Waves: Associated with light sleep and emotional stress, not deep sleep.</li><li>\u27a4 Delta Waves: Lowest frequency, highest amplitude, associated with deep sleep.</li></u\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/xwdwbJv3gyNklTV4LDW71745920385.mp3",
+      "video": "",
+      "uid": "68f350ff"
+    },
+    {
+      "text": "What type of waves are going to be seen if the patient is evaluated on EEG during deep sleep?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sleep spindles",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "K-Complexes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Theta waves",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delta waves",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Delta waves",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/1GY0hDfOkwmp0hqxpwga1736095734.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage of Sleep</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage N1 Sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light sleep, easy to wake up, characterised by <span class=\"customMeta\" data-dictid=\"ccb50023dc1692777200804b8475ca\">theta</span> waves. <strong>(Option C ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage N2 Sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deeper than stage N1, the presence of <span class=\"customMeta\" data-dictid=\"9e5f0b77751692777198ff32ae6295\">sleep spindles</span> and K-complexes, is still relatively easy to wake up. <strong>(Option A</strong><strong> and</strong> <strong>B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage N3 Sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deepest sleep, <span class=\"customMeta\" data-dictid=\"f7d3133242169277718518c059ad55\">Delta</span> waves (low frequency and high amplitude), very difficult to wake up.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>REM Sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rapid eye movements, high brain activity, associated with dreaming, <span class=\"customMeta\" data-dictid=\"806eb8418c16927771822855b56695\">Beta</span> wave pattern</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mUTTtW1fyrbnZPIY5LSQ1745860074.mp3",
+      "video": "",
+      "uid": "82437a89"
+    },
+    {
+      "text": "Which of the following statements about REM and NREM sleep is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "During NREM sleep, there is an increase in parasympathetic outflow, leading to lower heart rate and blood pressure.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Muscle tone is completely lost during REM sleep, and the body is effectively paralyzed.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "During deeper stages of NREM sleep, the subject is difficult to arouse by sensory stimuli.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "During REM sleep, the subject is easily aroused by sensory stimuli.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. During REM sleep, the subject is easily aroused by sensory stimuli.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NREM Sleep</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>REM Sleep</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Autonomic Outflow</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"8f19a37b5916927771941ba9f5ef49\">parasympathetic</span> outflow, leading to lower heart rate and <span class=\"customMeta\" data-dictid=\"263ee5444e1692777183a7e8e704da\">blood pressure</span> <strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"5731c5431416927771999e54e2563b\">sympathetic</span> outflow</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Muscle Tone and Reflexes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intact during <span class=\"customMeta\" data-dictid=\"e5f5be62a316927771937064da1866\">NREM</span> sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Complete loss of muscle tone (muscle atonia) during <span class=\"customMeta\" data-dictid=\"7bdd34850816927771973c86f95b79\">REM</span> sleep<strong> </strong><strong>(Option B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Arousability</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Difficult to arouse in deeper stages (Stages 3 and 4) <strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More difficult to arouse compared to <span class=\"customMeta\" data-dictid=\"e5f5be62a316927771937064da1866\">NREM</span> sleep by <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> stimuli, but may awaken spontaneously.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Eye Movement </strong></p>\n<p><strong>(EOG)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Absence of rapid eye movement</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Presence of rapid eye movement</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Brain Electrical Activity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not associated with PGO (Ponto-Geniculo Occipital) spikes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated with PGO spikes</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dreaming Activity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dreams uncertain; memorized if dreams occur</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vivid dreams; not memorized</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/StVWBF7kfdFfpU6lDKHA1745860238.mp3",
+      "video": "",
+      "uid": "5f8866bc"
+    },
+    {
+      "text": "A 65-year-old woman presents with severe insomnia, reporting that she has been unable to sleep for several days. Neurological examination reveals a lesion in the basal ganglia and adjacent anterior hypothalamus. Which of the following statements about the mechanisms of sleep is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The wake-promoting area is located in the posterior nucleus of the hypothalamus and releases histamine.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The sleep-promoting area is located in the anterior nucleus of the hypothalamus and releases GABA.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreased levels of adenosine at basal forebrain stimulate the sleep-promotion.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The awake state has increased NE, serotonin, and reduced levels of acetylcholine, while the opposite is true for the state of sleep",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Decreased levels of adenosine at basal forebrain stimulate the sleep-promotion.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/JY8DEi3yVGehaDUjGhuT1736095965.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Awake State</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>REM State</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NREM Sleep</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Norepinephrine & Serotonin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acetylcholine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low <strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>GABA & Histamine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low GABA, High Histamine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High GABA, Low Histamine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>High GABA, Low Histamine</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/RYZiKBopNJ2KhA1TDUXG1745921018.mp3",
+      "video": "",
+      "uid": "590ac5a0"
+    },
+    {
+      "text": "Match each sleep disorder with the correct stage of sleep in which it most commonly occurs Sleep Disorder Stage of Sleep a) Somnambulism 1) Stage 2 NREM b) Nocturnal enuresis 2) REM Sleep c) Narcolepsy 3) End of REM Sleep d) Sleep Paralysis 4) Stage 3 and 4 (NREM)",
+      "options": [
+        {
+          "label": "A",
+          "text": "a-4, b-2, c-1, d-3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a-4, b-1, c-2, d-3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "a-3, b-2, c-1, d-4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a-3, b-1, c-2, d-4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. a-4, b-1, c-2, d-3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Answer B) a-4, b-1, c-2, d-3</p>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:606px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage of Sleep</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Sleep disorder </strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage 3 and 4 NREM</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Somnambulism (Sleepwalking):</strong> Occurs during the deeper stages of <span class=\"customMeta\" data-dictid=\"e5f5be62a316927771937064da1866\">NREM</span> sleep, specifically stages 3 and 4.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nocturnal enuresis: </strong>Occurs in stages 3/4. Common in childhood, due to the failure of <span class=\"customMeta\" data-dictid=\"b00388be25169277719369b3ab059f\">neural</span> regulation of micturition.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage 1 & 2 NREM</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Sleep Talking (Somniloquy):</strong> This can occur in any stage of sleep but is most common in stages 1 and 2 of <span class=\"customMeta\" data-dictid=\"e5f5be62a316927771937064da1866\">NREM</span> sleep.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bruxism (Teeth Grinding): </strong>Primarily occurs during stage 2 of <span class=\"customMeta\" data-dictid=\"e5f5be62a316927771937064da1866\">NREM</span> sleep.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The transition from stage 3 to 4 NREM</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Night Terrors:</strong> Typically occur during the transition from stage 3 to stage 4 of <span class=\"customMeta\" data-dictid=\"e5f5be62a316927771937064da1866\">NREM</span> sleep. Unlike nightmares, individuals usually do not remember night terrors.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>REM Sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Narcolepsy: </strong>Involves sudden onset of <span class=\"customMeta\" data-dictid=\"7bdd34850816927771973c86f95b79\">REM</span> sleep. Individuals with <span class=\"customMeta\" data-dictid=\"dbfc20ef7d16927771932766891ec8\">narcolepsy</span> often experience excessive daytime sleepiness, sudden muscle weakness (cataplexy), sleep paralysis, and hallucinations at the onset or end of sleep. The disorder is <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to a <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> in the <span class=\"customMeta\" data-dictid=\"e28fd027b416927771932bc23ba0a5\">neurotransmitter</span> <strong>orexin</strong>.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nightmares:</strong> Occur during <span class=\"customMeta\" data-dictid=\"7bdd34850816927771973c86f95b79\">REM</span> sleep and involve vivid, disturbing dreams that can cause fear and anxiety. Unlike night terrors, <strong>nightmares are often remembered</strong> in detail upon waking. They can be <span class=\"customMeta\" data-dictid=\"3978e9614f1692777200abbe4cfa34\">triggered</span> by stress, anxiety, or trauma.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/vXCqjEWStCGpKX3ya48T1745921513.mp3",
+      "video": "",
+      "uid": "91e97463"
+    },
+    {
+      "text": "A 55-year-old patient presents with complaints of memory issues. He can recall general knowledge about the world, such as facts about historical events, but has difficulty remembering personal experiences, such as what he had for dinner last night or his activities from last weekend. Based on these symptoms, which of the following best describes the types of explicit memory affected in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Impaired semantic memory with intact episodic memory",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intact semantic memory with impaired episodic memory",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Impaired procedural memory with intact working memory",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Intact procedural memory with impaired working memory",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Intact semantic memory with impaired episodic memory",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NRbCr3QT5G8kw4Y5ldHV1745921907.mp3",
+      "video": "",
+      "uid": "7d9ef25c"
+    },
+    {
+      "text": "A 62-year-old woman who had a stroke several months ago reports that she is having difficulty with tasks she used to perform automatically. She struggles to remember how to ride her bicycle, a skill she previously performed with ease. She also mentions difficulty in learning new motor tasks. Based on these symptoms, which type of implicit memory is most likely affected in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Procedural memory",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Priming",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Associative learning",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Semantic memory",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Procedural memory",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ylpET4A6ZtuUdySRncI11745922186.mp3",
+      "video": "",
+      "uid": "1cecf989"
+    },
+    {
+      "text": "Which type of learning involves the process by which humans and animals learn to behave in such a way as to obtain rewards and avoid punishments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Classical conditioning",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Operant conditioning",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Observational learning",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Habituation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Operant conditioning",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/rr0ostw2iVlTHJYPI7991727330413.png",
+        "https://image.prepladder.com/notes/XDYG193HOjNFQBkp0HZO1736096324.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nWSwAYeEEphqqhjj4tS41745861011.mp3",
+      "video": "",
+      "uid": "28afedb4"
+    },
+    {
+      "text": "Which of the following parts of the brain is responsible for working memory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prefrontal cortex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Neocortex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ventral hippocampus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amygdala",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Prefrontal cortex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/oyxhjnAC4x188HcHFkBa1745860463.mp3",
+      "video": "",
+      "uid": "59baed96"
+    },
+    {
+      "text": "Which of the following statements about synaptic plasticity and memory formation is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long-term potentiation (LTP) primarily occurs at glutamatergic synapses in the hippocampus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Long-Term Depression (LTD) involves a significant influx of calcium into the postsynaptic neuron.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "LTP leads to the phosphorylation of AMPA receptors, enhancing their activity and strengthening the synapse.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "LTD is mediated by metabotropic glutamate receptors and involves dephosphorylation of AMPA receptors, leading to synaptic weakening.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Long-Term Depression (LTD) involves a significant influx of calcium into the postsynaptic neuron.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/eis9Xk8lgMVPWydlN9FY1745860754.mp3",
+      "video": "",
+      "uid": "f77d7d59"
+    }
+  ]
+}

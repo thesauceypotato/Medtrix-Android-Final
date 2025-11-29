@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "id": "test6",
+    "title": "Antigen Presenting Cells & MHC",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Natural killer cells attack which of the following cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cells that express MHC 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cells that are not able to express MHC 1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "MHC cells which express MHC 2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cells which are not able to express MHC 2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cells that are not able to express MHC 1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cells that are not able to express MHC 1 NK cell inhibitory receptors recognize self-class I MHC molecules , which are expressed in all healthy cells . The inhibitory receptors prevent NK cells from killing normal cells . Virus infection or neoplastic transformation often enhances the expression of ligands for activating receptors and at the same time reduces the expression of class I MHC molecules . As a result, the balance is tilted toward activation, and the infected or tumor cell is killed .</p>\n<p><strong>Highyeild:</strong></p><p>Natural Killer cells The function of NK cells is to recognize and destroy severely stressed or abnormal cells , such as virus-infected cells and tumor cells . NK cells make up approximately 5% to 10% of peripheral blood lymphocytes . NK cells express CD16, a receptor for IgG Fc tails that confers on NK cells the ability to lyse IgG-coated target cells . This phenomenon is known as antibody-dependent cellular cytotoxicity (ADCC) .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Cells that express MHC 1. Incorrect . Option: C. MHC cells that express MHC 2. Incorrect . Option: D. Cells that are not able to express MHC 2. Incorrect .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1f6a3ad5",
+      "audio": ""
+    },
+    {
+      "text": "Most potent stimulator of na\u00efve T-cells:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mature dendritic cells",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Follicular dendritic cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Macrophages",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "B-cell",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mature dendritic cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mature dendritic cells Antigen-presenting cells (APCs) capture microbes and other antigens , transport them to secondary lymphoid organs , and display them for recognition by lymphocytes . The most efficient APCs are dendritic cells (DCs) , which are present in epithelia and most other tissues. Integrins are adhesion molecules that promote the attachment of T-cells to APCs . They express high levels of MHC and other molecules needed for presenting antigens to and activating T cells .</p>\n<p><strong>Highyeild:</strong></p><p>Antigen Presenting Cells: Cells that identify, process, and present Ag to T cells . Signals: from APC to T cells a.MHC presenting Ag to TCR b. CD 80/86 activating CD 28 c. Specific cytokines from APC to T cells</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Follicular dendritic cells. A second type of cell with dendritic morphology is present in the germinal centers of lymphoid follicles in the spleen and lymph nodes and is called the follicular dendritic cell (FDC) . They play a role in humoral immune respons es by presenting antigens to B cells in the germinal center , part of a process through which only B cells that express antibodies with high affinity for antigen survive and go on to mature into plasma cells or memory cells Option: C. Macrophages that have phagocytosed microbes and protein antigens process the antigens and present peptide fragments to T cells. Thus, macrophages function as antigen-presenting cells in T-cell activation. Option: D. B-cell. Membrane-bound antibodies of the IgM and IgD isotypes , present on the surface of all mature, na\u00efve B cells, are the antigen-binding component of the B-cell receptor (BCR) complex</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d141a16",
+      "audio": ""
+    },
+    {
+      "text": "True about MHC class II \u2013",
+      "options": [
+        {
+          "label": "A",
+          "text": "Involved in innate immunity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T-cell involved",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Present in nucleated cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Present in B-cells",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Present in B-cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Present in B-cells</p>\n<p><strong>Highyeild:</strong></p><p>Major Histocompatibility Complex (MHC): The function of Major Histocompatibility Complex (MHC) molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells . In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected in leukocytes. The genes encoding HLA molecules are clustered on a small segmen t of chromosome 6 . Because CD4+ T cells can recognize antigens only in the context of self-class II molecules, they are referred to as class II MHC restricted. In contrast to class I molecules, class II MHC molecules are mainly expressed on cells that present ingested antigens (Antigen-presenting Cells) and respond to T-cell help ( macrophages, B lymphocytes, and dendritic cells ).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Involved in innate immunity. False, MHC II is associated with adaptive immunity . Option: B. Cytotoxic T-cell involved. Helper T cells/ CD 4+ T cells are MHC II restricted . Option: C. Present in nucleated cells. MHC II is present in all Antigen Presenting Cells (APCs) .</p>\n<p><strong>Table:</strong></p><p>MHC I VS MHC II</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f2743532",
+      "audio": ""
+    },
+    {
+      "text": "Which statement given below is not true about professional APCs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Professional APCs express both MHC I and MHC II",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It has an unlimited capacity to identify antigens",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dendritic cells in lymph nodes are an example",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. None of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>None of the above Antigen-presenting cells (APCs) capture microbes and other antigens, transport them to secondary lymphoid organs , and display them for recognition by lymphocytes. The most efficient APCs are dendritic cells (DCs) , which are present in epithelia and most other tissues. There are two types of APCs: Professionals Non- professional APCs.</p>\n<p><strong>Highyeild:</strong></p><p>Major Histocompatibility Complex (MHC): The function of Major Histocompatibility Complex (MHC) molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells . In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected in leukocytes. The genes encoding HLA molecules are clustered on a small segmen t of chromosome 6 . Because CD4+ T cells can recognize antigens only in the context of self-class II molecules, they are referred to as class II MHC restricted .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Professional APCs express both MHC I and MHC II. True , as Professional APCs contain a nucleus thus express MHC I, and MHC II are expressed on APCs. Option: B. It has unlimited capacity to identify antigens. True . Option: C. Dendritic cells in lymph nodes are an example. True .</p>\n<p><strong>Extraedge:</strong></p><p>In contrast to class I molecules, class II MHC molecules are mainly expressed on cells that present ingested antigens (Antigen-presenting Cells) and respond to T-cell help ( macrophages, B lymphocytes, and dendritic cells ).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "27575b3c",
+      "audio": ""
+    },
+    {
+      "text": "Gene for Major Histocompatibility Complex is present on-",
+      "options": [
+        {
+          "label": "A",
+          "text": "6p",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "6q",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "16p",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "16q",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 6p",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>6p MHC molecules were discovered as products of genes that evoke rejection of transplanted organs, and their name derives from their role in determining tissue compatibility between individuals .</p>\n<p><strong>Highyeild:</strong></p><p>Major Histocompatibility Complex (MHC): The function of Major Histocompatibility Complex (MHC) molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells . In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected in leukocytes. The genes encoding HLA molecules are clustered on a small segmen t of chromosome 6 . Because CD4+ T cells can recognize antigens only in the context of self-class II molecules, they are referred to as class II MHC restricted . In contrast to class I molecules, class II MHC molecules are mainly expressed on cells that present ingested antigens (Antigen-presenting Cells) and respond to T-cell help ( macrophages, B lymphocytes, and dendritic cells ).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option: B. 6q. Incorrect . Option: C. 16p. Incorrect . Option: D. 16q. Incorrect .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7868a928",
+      "audio": ""
+    },
+    {
+      "text": "All of the following statements are false regarding MHC I except-",
+      "options": [
+        {
+          "label": "A",
+          "text": "It presents extracellular antigen",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It encodes HLA A, HLA B, and HLA C",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It is present in all anucleated cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It presents antigen to CD4 T lymphocytes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It encodes HLA A, HLA B, and HLA C",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>It encodes HLA A, HLA B, and HLA C</p>\n<p><strong>Highyeild:</strong></p><p>Major Histocompatibility Complex (MHC): The function of Major Histocompatibility Complex (MHC) molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells . In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected in leukocytes. The genes encoding HLA molecules are clustered on a small segmen t of chromosome 6 . Because CD4+ T cells can recognize antigens only in the context of self-class II molecules, they are referred to as class II MHC restricted . In contrast to class I molecules, class II MHC molecules are mainly expressed on cells that present ingested antigens (Antigen-presenting Cells) and respond to T-cell help ( macrophages, B lymphocytes, and dendritic cells ).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. It presents an extracellular antigen. False, it presents intracellular antigen . Option: C. It is present on all anucleated cells. False, Class I MHC molecules are expressed on all nucleated cells and platelets . Option: D. It presents antigen to CD4 T lymphocytes. Class I MHC molecules display peptides that are derived from cytoplasmic proteins, including normal proteins and virus- and tumor-specific antigens , which are all recognized and bound to class I MHC molecules by CD8+ T cells .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "071ed78c",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is correct regarding MHC II?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It encodes DP, DQ, and DR",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Presents extracellular antigen to CD 4 T cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is present in Antigen-presenting cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above</p>\n<p><strong>Highyeild:</strong></p><p>Major Histocompatibility Complex (MHC): The function of Major Histocompatibility Complex (MHC) molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells . In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected in leukocytes. The genes encoding HLA molecules are clustered on a small segmen t of chromosome 6 . Because CD4+ T cells can recognize antigens only in the context of self-class II molecules, they are referred to as class II MHC restricted . In contrast to class I molecules, class II MHC molecules are mainly expressed on cells that present ingested antigens (Antigen-presenting Cells) and respond to T-cell help ( macrophages, B lymphocytes, and dendritic cells ).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. It encodes DP, DQ, DR. True . Option: B. Presents extracellular antigen to CD 4 T cells. True . Option: C. It is present on Antigen-presenting cells. True .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dd92a533",
+      "audio": ""
+    },
+    {
+      "text": "Antigen-presenting cells stimulate T cells by-",
+      "options": [
+        {
+          "label": "A",
+          "text": "MHC",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cytokines released depend on the type of antigen exposure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "B7 proteins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All of the above Na\u00efve T lymphocytes are activated by antigen and costimulators in peripheral lymphoid organs , and proliferate and differentiate into effector cells that migrate to any site where microbial antigens are present.</p>\n<p><strong>Highyeild:</strong></p><p>Major Histocompatibility Complex (MHC): The function of Major Histocompatibility Complex (MHC) molecules is to display peptide fragments of protein antigens for recognition by antigen-specific T cells . In humans, the MHC molecules are called human leukocyte antigens (HLA) because they were initially detected in leukocytes. The genes encoding HLA molecules are clustered on a small segmen t of chromosome 6 . Because CD4+ T cells can recognize antigens only in the context of self-class II molecules, they are referred to as class II MHC restricted . In contrast to class I molecules, class II MHC molecules are mainly expressed on cells that present ingested antigens (Antigen-presenting Cells) and respond to T-cell help ( macrophages, B lymphocytes, and dendritic cells ).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. MHC. Class II MHC molecules present antigens derived from extracellular microbes and proteins following their internalization into endosomes or lysosomes. Class I MHC molecules display peptides that are derived from cytoplasmic proteins, including normal proteins and virus - and tumor-specific antigens , which are all recognized and bound to class I MHC molecules by CD8+ T cells. Option: B. Cytokines released depend on the type of antigen exposure. Some of the activated CD4+ T cells differentiate into effector cells that secrete distinct sets of cytokines and perform different functions. Option: C. B7 proteins. The principal costimulators for T cells are the B7 proteins (CD80 and CD86) that are expressed on antigen-presenting cells and are recognized by the CD28 receptor on na\u00efve T cells.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cc27ff1a",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "id": "test10",
+    "title": "Biochemistry - INI CET NOV 2021",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is not an amphipathic lipid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Triglyceride",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Phospholipids",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glycolipids",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sphingolipids",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Triglyceride",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Triglyceride An amphipathic lipid is a lipid molecule that has both hydrophilic (water-attracting) and hydrophobic (water-repelling) regions. This property allows them to align themselves to form various structures in water environments such as cell membranes. A Triglycerides: Triglycerides are a type of fat that is found in the blood. A triglyceride molecule is composed of a glycerol backbone and three fatty acid chains. All of these parts are hydrophobic, meaning they are not attracted to water. Hence, triglycerides are not considered amphipathic lipids because they do not have a hydrophilic portion.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B. Phospholipids: Phospholipids are the main component of cell membranes. They consist of a glycerol molecule, two fatty acids, and a phosphate group. The phosphate group is hydrophilic, while the fatty acid chains are hydrophobic, making phospholipids amphipathic. Option C. Glycolipids: Glycolipids are composed of a lipid linked to a carbohydrate. The carbohydrate portion of glycolipids is hydrophilic, while the lipid portion is hydrophobic. This makes glycolipids amphipathic. Option D. Sphingolipids: Sphingolipids are a complex class of lipids that are defined by their backbone of sphingoid bases. They often have a polar head group (often containing phosphate or carbohydrate), making them hydrophilic, and two nonpolar fatty acid tails, making them hydrophobic. Therefore, sphingolipids are also amphipathic.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "165a2981",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not Glucogenic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxaloacetic acid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acetyl CoA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Lactate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Acetyl CoA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Acetyl CoA Acetyl CoA: This is a two-carbon molecule that is an intermediate in many biochemical pathways. While it is vital for energy production through the citric acid cycle (also known as the Krebs cycle or TCA cycle), it cannot be used to generate glucose because of irreversible nature of link reaction. Therefore, it is not considered glucogenic but instead is classified as ketogenic.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Oxaloacetic acid: This is a four-carbon molecule that can be used to generate glucose through the process known as gluconeogenesis. Therefore, it is considered glucogenic. Option C. Lactate: This three-carbon molecule can be converted back into pyruvate and then into glucose through gluconeogenesis. Therefore, it is considered glucogenic. Option D. Pyruvate: This is a three-carbon molecule that can be used to generate glucose through gluconeogenesis. Therefore, it is considered Glucogenic.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a5c2b10",
+      "audio": ""
+    },
+    {
+      "text": "Wobble hypothesis is due to which property of codon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Degeneracy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ambiguosity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Universality",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Commaless",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Degeneracy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Degeneracy The wobble hypothesis is related to the property of \"degeneracy\" of the genetic code. Degeneracy: This refers to the fact that multiple codons (sequences of three nucleotides) can code for the same amino acid. This is the reason for the \"wobble\" effect, where the first two nucleotides of the codon are often more critical for determining the amino acid, and the third nucleotide can \"wobble\" or vary without changing the amino acid that is produced.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B. Ambiguity: The genetic code is unambiguous, which means each codon corresponds to one and only one amino acid. This is not related to the wobble hypothesis. Option C. Universality: The genetic code is nearly universal, meaning that the same codons are assigned the same amino acids and the same start and stop signals in nearly all organisms. However, this universality doesn't contribute directly to the wobble hypothesis. Option D. Commaless: This term refers to the fact that the genetic code is read continuously, without gaps or \"commas,\" in groups of three nucleotides (codons). This property is also not directly related to the wobble hypothesis.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a686d4d1",
+      "audio": ""
+    },
+    {
+      "text": "Which is more appropriate for the quantitative analysis of viral RNA genome",
+      "options": [
+        {
+          "label": "A",
+          "text": "Real time PCR",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Conventional PCR with restriction fragment length pair technique",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "RT-PCR",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "RT-PCR followed by real time PCR",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. RT-PCR followed by real time PCR",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>RT-PCR followed by real time PCR The most appropriate method for the quantitative analysis of a viral RNA genome is RT-PCR followed by real-time PCR. This technique, often called quantitative reverse transcription PCR (qRT-PCR), uses RT-PCR to first convert RNA into cDNA. The cDNA is then quantified using real-time PCR. This allows for the quantitative analysis of RNA, including RNA from viral genomes. This method is very sensitive and can quantify very small amounts of RNA, making it a preferred method for such applications.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Real-time PCR (qPCR): This method allows for the quantitative measurement of the amount of DNA in a sample. However, it doesn't work directly with RNA. The RNA would first need to be converted to complementary DNA (cDNA) through a process called reverse transcription. Option B. Conventional PCR with restriction fragment length pair technique: While this method can be used to detect specific sequences within DNA or RNA, it isn't typically used for quantitative analysis, especially of RNA genomes. Option C. RT-PCR: Reverse transcription PCR (RT-PCR) is a version of polymerase chain reaction that amplifies RNA. While RT-PCR can be used to detect and amplify RNA, on its own it doesn't provide a quantitative measure of the starting amount of RNA.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a3fffb29",
+      "audio": ""
+    },
+    {
+      "text": "CRISPR Cas9 repair method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Base excision repair",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nucleotide excision repair",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nonhomologous end joining",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mismatch repair",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nonhomologous end joining",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Nonhomologous end joining The CRISPR-Cas9 system, when used for genome editing, induces double-strand breaks in DNA. These breaks are then repaired by the cell's own repair machinery. Two of the main pathways for repairing double-strand breaks in DNA are: Homology Directed Repair (HDR) Nonhomologous End Joining (NHEJ) HDR is an accurate repair process that uses a template (usually supplied by the researcher in a laboratory setting) to repair the break, while NHEJ is a quicker, but more error-prone process that directly ligates the broken ends together, often introducing small insertions or deletions. The options given are all DNA repair mechanisms, but only one, c) Nonhomologous End Joining, is typically involved in repairing the double-strand breaks introduced by the CRISPR-Cas9 system.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Base excision repair and b) Nucleotide excision repair are processes the cell uses to repair single-strand damage to DNA, such as base modifications or small, non-helix-distorting base mismatches. Option D. Mismatch repair is a system for recognizing and repairing erroneous insertion, deletion, and mis-incorporation of bases that can arise during DNA replication and recombination, as well as repairing some forms of DNA damage.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "57687ac6",
+      "audio": ""
+    },
+    {
+      "text": "True about mitochondrial DNA Higher chances of mutation as compared to nuclear genome Single stranded circular DNA Mitochondrial codons are slightly different from nuclear DNA codons Mitochondrial DNA encodes for all ETC complex protein Has around 16,000 base pairs Select the correct answer from the given below code:-",
+      "options": [
+        {
+          "label": "A",
+          "text": "A, C, E",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A, B, D",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A, B, C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "C, D, E",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. A, C, E",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>A, C, E Let\u2019s explore all the options: Option A. Higher chances of mutation as compared to the nuclear genome: True. mtDNA is more prone to mutations than nuclear DNA due to a lack of introns, less efficient DNA repair mechanisms, and its proximity to reactive oxygen species (ROS) produced by the electron transport chain. Option B. Single stranded circular DNA: False. Mitochondrial DNA in most animals, including humans, is double-stranded and circular. Option C. Mitochondrial codons are slightly different from nuclear DNA codons: True. The genetic code of mtDNA does indeed have some differences compared to the universal genetic code used in nuclear DNA. For example, in human mitochondria, UGA codes for tryptophan instead of serving as a stop codon, and AUA codes for methionine instead of isoleucine. Option D. Mitochondrial DNA encodes for all Electron Transport Chain (ETC) complex proteins: False. mtDNA does not encode all the proteins required for the ETC. In humans, the mitochondrial genome encodes 13 proteins, all of which are subunits of the enzyme complexes involved in oxidative phosphorylation. The rest of the proteins involved in the ETC are encoded by nuclear genes and are imported into the mitochondria after being synthesized in the cytosol. Option E. Has around 16,000 base pairs: True. The mitochondrial genome is much smaller than the nuclear genome. In humans, it is a circular DNA molecule approximately 16.6 kilobases in size.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "90dfb636",
+      "audio": ""
+    },
+    {
+      "text": "Thiamine is a coenzyme for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PDH",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pyruvate carboxylase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PEP carboxylase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. PDH",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>PDH Thiamine, in its active form as Thiamine Pyrophosphate (TPP), acts as a coenzyme for several enzymes involved in carbohydrate metabolism. Among the options given: PDH (Pyruvate Dehydrogenase): True. TPP is an essential coenzyme for the PDH complex, which catalyzes the oxidative decarboxylation of pyruvate to acetyl-CoA, a critical step in the metabolic pathway for glucose.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B. Pyruvate Carboxylase: False. This enzyme, which converts pyruvate to oxaloacetate in gluconeogenesis and replenishes oxaloacetate in the citric acid cycle, requires biotin as a coenzyme, not thiamine. Option C. PEP Carboxylase (Phosphoenolpyruvate Carboxylase): False. This enzyme is involved in the process of gluconeogenesis and the C4 pathway in plants. It requires magnesium and manganese ions for its activity, not thiamine. Option D. Pyruvate Kinase: False. This enzyme is involved in the last step of glycolysis, where it catalyzes the transfer of a phosphate group from phosphoenolpyruvate (PEP) to ADP, yielding one molecule of pyruvate and one molecule of ATP. It does not require thiamine as a coenzyme.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f500546f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is false in advanced liver disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidative decarboxylation of alpha ketoglutarate",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Increase synthesis of glutamate and glutamine from alpha-ketoglutarate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decreased ATP synthesis occurs",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyperammonemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Oxidative decarboxylation of alpha ketoglutarate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Oxidative decarboxylation of alpha ketoglutarate In the context of advanced liver disease, urea cycle is affected as liver is the only organ where this cycle occurs. The consequences are increased ammonia: Oxidative decarboxylation of alpha-ketoglutarate : This is a reaction in the citric acid cycle (also known as the Krebs cycle or TCA cycle) where alpha-ketoglutarate is converted to succinyl-CoA. Advanced liver disease doesn't typically inhibits this specific reaction. Given the explanations above, the statement a) \"Oxidative decarboxylation of alpha-ketoglutarate\" is the least directly related to changes observed in advanced liver disease, making it the most likely to be the false statement in this context.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B. Increase synthesis of glutamate and glutamine from alpha-ketoglutarate: In the context of liver disease, especially when hyperammonemia is present, there's an increased demand to detoxify ammonia. One primary way the body manages excess ammonia is by synthesizing glutamate and glutamine. Alpha-ketoglutarate is a key intermediate in this process. Option C. Decreased ATP synthesis occurs: Liver disease can impair mitochondrial function specially TCA cycle by depleting Alpha-ketoglutarate leading to decreased ATP production. Option D. Hyperammonemia: The liver is crucial for detoxifying ammonia produced during amino acid catabolism through the urea cycle. In advanced liver disease, this detoxification process is impaired, leading to elevated levels of ammonia in the bloodstream, a condition known as hyperammonemia.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e8997a7d",
+      "audio": ""
+    },
+    {
+      "text": "A patient came to hospital who has not eaten anything for two days which of the following test will be positive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All A, B and C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Both B and C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Only b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Only C",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Only C",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1696335460758-QTDBPYQ205IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Only C When a patient has been fasting or not eating for an extended period, their body starts to utilize stored forms of energy. Glycogen stored in the liver is one of the first energy sources to be used, but it's typically depleted within 24 hours. After this, the body begins to break down fats for energy. This process produces ketone bodies, which can accumulate in the blood and urine. Among the tests listed:</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Protein coagulation: This test is not specifically related to detecting energy substrates or their breakdown products during fasting. Option B. Benedict's test: This is a test for reducing sugars, primarily glucose, in the urine. When fasting, blood glucose levels may decrease, but they shouldn't drop to dangerously low levels due to compensatory mechanisms, and glucose typically isn't present in the urine. Option C. Rothera's test: This is a test for the presence of ketone bodies in urine. As mentioned earlier, during extended fasting, the body breaks down fats, leading to the production of ketone bodies. These can be excreted in the urine, and thus, the Rothera's test will be positive. Given the context of a two-day fast, only the Rothera's test (C) is likely to be positive, detecting ketone bodies in the urine.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8ee7a3f4",
+      "audio": ""
+    },
+    {
+      "text": "Most preferred chromatography for HbA1c",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrophoresis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ion exchange chromatography",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Affinity chromatography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Immuno turbidimetry",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ion exchange chromatography",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ion exchange chromatography Hemoglobin A1c (HbA1c) is an important biomarker used to monitor long-term glucose control in individuals with diabetes. It represents the amount of glucose that has been irreversibly bound to the hemoglobin in red blood cells over their lifespan (about 120 days). The HbA1c level reflects the average blood glucose concentration over the previous 2-3 months. Among the methods listed for HbA1c measurement: On exchange chromatography: This is a commonly used method and is considered a reference method for HbA1c determination. It separates hemoglobins based on their charge differences. HbA1c has a different charge than other forms of hemoglobin, which allows it to be separated and quantified.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option A. Electrophoresis: This is an older method used to separate and identify different types of hemoglobin, including HbA1c. However, it's not the most specific or sensitive method for quantifying HbA1c. Option C. Affinity chromatography: This technique can also be used for HbA1c measurement. It separates HbA1c based on its binding affinity to certain molecules. However, it's not as commonly employed as ion exchange chromatography for this specific purpose. Option D. Immuno turbidimetry: This is an immunoassay method that measures the amount of HbA1c based on its binding to specific antibodies. It's a fast and high-throughput method but might not be as precise as chromatographic methods. Of the options provided, ion exchange chromatography (b) is the most preferred and traditionally used method for HbA1c determination in many clinical settings.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "16d4f1fb",
+      "audio": ""
+    },
+    {
+      "text": "Which requires maximum energy for assimilation",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proteins",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "MUFAs",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PUFAs",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Carbohydrates",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Proteins",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Proteins Assimilation refers to the processes by which the body digests and absorbs nutrients from food, converting them into usable forms. One measure of the energy used in these processes is the thermic effect of food (TEF) or dietary induced thermogenesis, which is the amount of energy expended above the resting metabolic rate due to the cost of processing food for storage and use. Option A. Proteins: Among the macronutrients, proteins have the highest TEF. This means that the body uses more energy to digest, absorb, and assimilate protein compared to fats and carbohydrates.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option B. MUFAs (Monounsaturated Fatty Acids) and c) PUFAs (Polyunsaturated Fatty Acids): These are types of fats. The TEF of fats is generally lower than that of proteins and carbohydrates. There isn't a significant difference in TEF between MUFAs and PUFAs that would make one notably higher than the other. Option D. Carbohydrates: Carbohydrates have a higher TEF than fats but lower than proteins. However, it's worth noting that the TEF can vary within the carbohydrate category depending on the complexity of the carbohydrate (simple sugars vs. complex starches).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0e3458e3",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "id": "test30",
+    "title": "Vaccine___Cold_Chain",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 10-month-old infant came to the clinic for a regular follow-up visit. He missed his most recent vaccine, which was scheduled for 9 months. According to the National Immunization Schedule, which of the following vaccines is not administered to a 10-month-old infant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measles",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DPT",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "PCV",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DPT",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Age</strong></th>\n<th><strong>Vaccine</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>At Birth</strong></td>\n<td>BCG, Hepatitis B (Birth dose), OPV (0 dose)</td>\n</tr>\n<tr>\n<td><strong>6 Weeks</strong></td>\n<td>DPT-1, IPV-1, Hepatitis B-1, Hib-1, Rotavirus-1, PCV-1</td>\n</tr>\n<tr>\n<td><strong>10 Weeks</strong></td>\n<td>DPT-2, IPV-2, Hepatitis B-2, Hib-2, Rotavirus-2, PCV-2</td>\n</tr>\n<tr>\n<td><strong>14 Weeks</strong></td>\n<td>DPT-3, IPV-3, Hepatitis B-3, Hib-3, Rotavirus-3, PCV-3</td>\n</tr>\n<tr>\n<td><strong>6 Months</strong></td>\n<td>Vitamin A (first dose)</td>\n</tr>\n<tr>\n<td><strong>9 Months</strong></td>\n<td>Measles-1, PCV Booster, JE-1 (in <span class=\"customMeta\" data-dictid=\"59c8c1e4b316927771873c98afae15\">endemic</span> areas)</td>\n</tr>\n<tr>\n<td><strong>16-24 Months</strong></td>\n<td>DPT Booster-1, IPV Booster, Measles-2, Vitamin A (second dose)</td>\n</tr>\n<tr>\n<td><strong>5-6 Years</strong></td>\n<td>DPT Booster-2, OPV Booster</td>\n</tr>\n<tr>\n<td><strong>10 Years</strong></td>\n<td>Tetanus and Diphtheria (Td)</td>\n</tr>\n<tr>\n<td><strong>16 Years</strong></td>\n<td>Tetanus and Diphtheria (Td)</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mIbWZd5fDBWA1XhzDXr31731321918.mp3",
+      "video": "",
+      "uid": "5742521f"
+    },
+    {
+      "text": "Consider the following statements: i) f IPV is a live attenuated vaccine. ii) fIPV is not effective in control of epidemics iii) OPV has a shorter shelf life than IPV iv) fIPV provides humoral immunity only v) 5 ml of fIPV is administered via IM route Which of the following are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "i, ii and iii",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ii, iii and iv",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "ii, iii and v",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "i, iii and v",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. ii, iii and iv",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Feature</strong></th>\n<th><strong>IPV (Inactivated <span class=\"customMeta\" data-dictid=\"b5b2c3bf5516927771962adf24f3be\">Poliovirus</span> Vaccine)</strong></th>\n<th><strong>OPV (Oral <span class=\"customMeta\" data-dictid=\"b5b2c3bf5516927771962adf24f3be\">Poliovirus</span> Vaccine)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Type of Vaccine</strong></td>\n<td>Inactivated (killed) virus</td>\n<td>Live attenuated virus</td>\n</tr>\n<tr>\n<td><strong>Route of Administration</strong></td>\n<td>Intramuscular (IM) or <span class=\"customMeta\" data-dictid=\"de8b4033c51692777190aaeca3d6bc\">Intradermal</span> (ID)</td>\n<td>Oral (drops)</td>\n</tr>\n<tr>\n<td><strong>Immunity Provided</strong></td>\n<td>Systemic (humoral) immunity</td>\n<td>Systemic + mucosal <span class=\"customMeta\" data-dictid=\"4f9ee631c21692777189b1e0cdc91c\">immunity</span> (gut immunity)</td>\n</tr>\n<tr>\n<td><strong>Effectiveness in Epidemics</strong></td>\n<td>Not effective in stopping transmission</td>\n<td>Highly effective in epidemic control</td>\n</tr>\n<tr>\n<td><strong>Prevention of Virus Shedding</strong></td>\n<td>Limited effect on intestinal virus shedding</td>\n<td>Strong gut <span class=\"customMeta\" data-dictid=\"4f9ee631c21692777189b1e0cdc91c\">immunity</span> prevents shedding</td>\n</tr>\n<tr>\n<td><strong>Shelf Life & Storage</strong></td>\n<td>More stable, longer shelf life</td>\n<td>Less stable, requires strict cold chain</td>\n</tr>\n<tr>\n<td><strong>Risk of Vaccine-Derived <span class=\"customMeta\" data-dictid=\"b5b2c3bf5516927771962adf24f3be\">Poliovirus</span> (VDPV)</strong></td>\n<td>No risk of VDPV</td>\n<td>Small risk of VDPV due to live virus reversion</td>\n</tr>\n<tr>\n<td><strong>Use in Eradication Programs</strong></td>\n<td>Primarily used in polio-free areas</td>\n<td>Used in <span class=\"customMeta\" data-dictid=\"59c8c1e4b316927771873c98afae15\">endemic</span> and outbreak settings</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/VgeqBX6OGYYYM5Hq4XRN1731321686.mp3",
+      "video": "",
+      "uid": "ba656064"
+    },
+    {
+      "text": "You have been posted in a rural PHC where you just received a new batch of vaccines for the upcoming vaccination drive. You need to educate your team on the conditions that have to be fulfilled in order to reuse opened vaccine vials during the drive. Which of the following would you not suggest regarding the same?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Vaccine Vial monitor has not reached the discard point.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "An aseptic technique must be used to withdraw all doses.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vaccines are stored strictly under an appropriate temperature (+6\u00b0 C to +10\u00b0 C) range during transportation and storage at cold chain point.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The expiry date should not have passed.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Vaccines are stored strictly under an appropriate temperature (+6\u00b0 C to +10\u00b0 C) range during transportation and storage at cold chain point.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/YsSWXznN4EMeX4YQWciS1731316084.mp3",
+      "video": "",
+      "uid": "6afb5fbf"
+    },
+    {
+      "text": "Which of the following diseases is not part of the Pan-India diseases covered under Mission Indradhanush?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Extra-pulmonary tuberculosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Polio",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rotavirus diarrhea",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Japanese encephalitis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Japanese encephalitis",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/IgYkMf8bKcA47PoMy8Yb1728539823.png",
+        "https://image.prepladder.com/content/b39yfveicjSpcIdBuhng1725436663.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/DFYiAeJIybRkBwhOnOwu1731317059.mp3",
+      "video": "",
+      "uid": "a0afcbef"
+    },
+    {
+      "text": "Which of the following storage practices is appropriately matched with the corresponding cold chain level? Level Storage practice A. Subcenter Use walk-in cold rooms to store large quantities of vaccines. B. Primary Health Center Use small ice-lined refrigerators to store vaccines for up to one month. C. Community Health Center Store vaccines in vaccine carriers for daily use. D. State Level Use domestic refrigerators due to their large storage capacity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:763px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cold Chain Level</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Storage Equipment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Capacity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Storage Duration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Temperature Range</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subcenter/Village Level</strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vaccine Carriers, Day Carriers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>16-20 vials (vaccine carrier)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>24-48 hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+2\u00b0C to +8\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ice Packs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1-4 hours</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+2\u00b0C to +8\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Health Center (PHC)</strong><br/>\n<strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Small Ice-Lined Refrigerator (ILR)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Up to 140 liters</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Up to 1 month</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+2\u00b0C to +8\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Small Deep Freezer (DF)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-15\u00b0C to -25\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Community Health Center (CHC)/ <span class=\"customMeta\" data-dictid=\"e5c2f7896c16927771998d7eb7f8f2\">Sub</span> District Hospital/ District Hospital</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Large Ice-Lined Refrigerator (ILR)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Up to 300 liters</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Up to 1 month</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+2\u00b0C to +8\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Large Deep Freezer (DF)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-15\u00b0C to -25\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>State/National Level</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Walk-In Cold Rooms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Large quantities</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Up to 3 months</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+2\u00b0C to +8\u00b0C</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Walk-In Freezers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Large quantities</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Long-term storage</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-15\u00b0C to -25\u00b0C</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Et4R3NMQmPdF2dyhvbIk1731319878.mp3",
+      "video": "",
+      "uid": "9b868881"
+    },
+    {
+      "text": "Which of the following statements is TRUE regarding the \"Switch\" from tOPV to bOPV in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The switch included the removal of wpv1 from the vaccine formulation.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The reason for the switch was the eradication of wpv3 in September 2015.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "bOPV contains attenuated forms of wpv1 and wpv3.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "IPV was introduced after the switch to compensate for the removal of wpv2 from the vaccine.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. bOPV contains attenuated forms of wpv1 and wpv3.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/YA3YCW3xKjsRo55DKtvI1725437094.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/s6rzjslSq4OkopnAFp8i1731317447.mp3",
+      "video": "",
+      "uid": "c6d842a2"
+    },
+    {
+      "text": "A vaccination campaign in a remote village with limited electricity access. Which of the following vaccines is most susceptible to damage if not properly maintained during transport?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatitis B vaccine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pentavalent vaccine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Oral Polio Vaccine (OPV)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tetanus-Diphtheria vaccine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Oral Polio Vaccine (OPV)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:758px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Heat Sensitive Vaccines</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Freeze Sensitive Vaccines</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vaccines that lose <span class=\"customMeta\" data-dictid=\"2a93f2d9a11692777196928bd78855\">potency</span> (effectiveness) when exposed to temperatures higher than their recommended storage temperature of +2\u00b0C to +8\u00b0C.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vaccines that lose <span class=\"customMeta\" data-dictid=\"2a93f2d9a11692777196928bd78855\">potency</span> if frozen or stored below their recommended temperature of +2\u00b0C to +8\u00b0C.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Storage in ILR</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stored in the bottom of an Ice Lined Refrigerator (ILR), where the temperature is coldest.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stored in the top of an Ice Lined Refrigerator (ILR), where the temperature is warmer.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most heat sensitive: <strong>reconstituted BCG,</strong> <span class=\"customMeta\" data-dictid=\"cc8c7ae0a61692777194b170b3643c\">OPV</span> (Option C), Measles, Rotavirus, JE</li>\n<li>Least heat sensitive: Pentavalent, PCV</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most freeze sensitive: <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">Hepatitis</span> B, Pentavalent, IPV, <span class=\"customMeta\" data-dictid=\"d087911e3e1692777186e2859edb6b\">DPT</span> (Option A, B and D)</li>\n<li>Least freeze sensitive: TT, Td</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/6NkPO9LU0Jh41BJbRGOl1731320061.mp3",
+      "video": "",
+      "uid": "baba954d"
+    },
+    {
+      "text": "Match the following vaccines with their strains: VACCINES STRAINS A) Measles i) RA 27/3 B) Mumps ii) 17 D C) Rubella iii) Edmonston Zagreb D) Yellow fever iv) Jeryl Lynn strain",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-iii; B-iv; C-i; D-ii",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A-i ; B-ii ; C-iii ; D-iv",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A-iv ; B-iii ; C-ii ; D-i",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A-ii ; B-i ; C-iv ; D-iii",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. A-iii; B-iv; C-i; D-ii",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:542px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>VACCINES</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>STRAINS</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Measles</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Edmonston Zagreb</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mumps</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Jeryl Lynn strain</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Rubella</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>RA 27/3</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Yellow fever</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>17 D</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Japanese <span class=\"customMeta\" data-dictid=\"9644652a1f16927771873765457fcc\">Encephalitis</span> live</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>SA-14-14-2</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Typhoral vaccine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ty21a</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In\ufb02uenza (killed)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A7/California/2009</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Chicken <span class=\"customMeta\" data-dictid=\"645077dd411692777196d3605f6e69\">pox</span> vaccine/ <span class=\"customMeta\" data-dictid=\"cf329b8cef169277720107b1efa15b\">Varicella</span> vaccine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Oka</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>HIV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Modi\ufb01ed <span class=\"customMeta\" data-dictid=\"92af8db8a116927772011711df3c11\">vaccinia</span> ANKARA</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anthrax</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sterne</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>BCG- Protects from <span class=\"customMeta\" data-dictid=\"728e7607f31692777187291e007a0b\">extrapulmonary</span> TB</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Danish 1331</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Leprosy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mycobacterium indicus pranii</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "84a6bce8"
+    },
+    {
+      "text": "A health worker in a rural village is preparing to transport a stool sample from a suspected case of acute flaccid paralysis (AFP). Which of the following is/are the most important considerations for transporting this sample?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transport in a vaccine carrier lined with four ice packs",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Maintain sample temperature between +2\u00b0C to +8\u00b0C during transport",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Deliver to National Institute of Virology within 24 hours",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Maintain sample temperature between +2\u00b0C to +8\u00b0C during transport",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:719px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chain Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Temperature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Products</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Equipment</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cold Chain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>System of storing and transporting vaccines at recommended temperatures.</p>\n<p>(Option A)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Areas where vaccines are used: +2\u00b0C to +8\u00b0C</p>\n\t\t\t\u00a0\n\n\t\t\t<p>Storage of vaccines: -15 to -25\u00b0C</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vaccines, including OPV, Measles, <span class=\"customMeta\" data-dictid=\"39867f177b16927771888cf43850d5\">Hepatitis</span> B, BCG, Pentavalent, DPT, Td, and JE.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ice-Lined Refrigerators (ILRs)</li>\n<li>Deep Freezers</li>\n<li>Vaccine Carriers</li>\n<li>Day Carriers</li>\n<li>Cold Boxes</li>\n<li>Ice Packs</li>\n<li>Dial Thermometers</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reverse Cold Chain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>System of transporting <span class=\"customMeta\" data-dictid=\"44335bb8bf1692777199a956cb31bf\">stool</span> samples from suspected <span class=\"customMeta\" data-dictid=\"433e48b0c616927771801040d9bde9\">AFP</span> cases.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>+2\u00b0C to +8\u00b0C<br/>\n\t\t\t(Option B)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stool samples for <span class=\"customMeta\" data-dictid=\"433e48b0c616927771801040d9bde9\">AFP</span> testing</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Red Carriers</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Warm Chain</strong></p>\n</td>\n<td colspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Series of ten coordinated steps performed during and after birth to reduce the risk of <span class=\"customMeta\" data-dictid=\"9723be730516927771896878ec012a\">hypothermia</span> in newborns.</p>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:424px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cold Chain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>System of storing and transporting vaccines at recommended temperatures.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reverse Cold Chain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>System of transporting <span class=\"customMeta\" data-dictid=\"44335bb8bf1692777199a956cb31bf\">stool</span> samples from suspected <span class=\"customMeta\" data-dictid=\"433e48b0c616927771801040d9bde9\">AFP</span> cases.</p>\n</td>\n</tr>\n</tbody>\n\n<p><strong>References:</strong></p>\n<ul><li>\u21b3 Reference:</li><li>\u21b3 Using Acute Flaccid Paralysis Surveillance as a Platform for Vaccine-Preventable Disease Surveillance - PMC (nih.gov)</li></u\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e95dbe50"
+    }
+  ]
+}

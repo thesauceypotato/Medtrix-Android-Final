@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "id": "test7",
+    "title": "Biostatistics-Biostatistics_and_Measures_of_Central_Tendency",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is an example of a qualitative variable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood Pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heart Rate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blood group",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cholesterol Level",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Blood group",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Qualitative Variable</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Quantitative Variable</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Describe categories or qualities.</li>\n<li>It cannot be measured or compared.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Describes numerical quantities.</li>\n<li>It can be measured or compared.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Data type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-numeric</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Numeric</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subtypes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nominal, Ordinal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Discrete, Continuous</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Gender</li>\n<li>Eye Color</li>\n<li>Type of Car</li>\n<li><strong>Blood group </strong></li>\n<li>Race</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Height (cm)</li>\n<li>Weight (kg)</li>\n<li>Age (years)</li>\n<li><strong>Blood Pressure (mm Hg)</strong></li>\n<li><strong>Heart Rate (bpm)</strong></li>\n<li>Body Temperature (\u00b0C)</li>\n<li><strong>Cholesterol Level (mg/dl)</strong></li>\n<li>Blood <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">Glucose</span> Level (mg/dl)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/U0Swla9LTxFBm5QRSQkh1746564594.mp3",
+      "video": "",
+      "uid": "0edfe815"
+    },
+    {
+      "text": "A continuous variable is best described as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A variable that can only take on whole numbers.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A variable that can take on any value within a specified range.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A variable whose value is obtained by counting.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A variable that represents distinct, separate values.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. A variable that can take on any value within a specified range.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Discrete Variable</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Continuous Variable</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #444444; border-top:1px solid #000000; vertical-align:top\">\n<p>It is a variable whose<strong> value is obtained by counting.</strong></p>\n<p>It can take on only specific, separate values.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #444444; border-right:1px solid #444444; border-top:1px solid #000000; vertical-align:top\">\n<p>It is a variable whose value is obtained by measuring.</p>\n<p><strong>It can take on any value within a given range.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Data Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Integer values</p>\n<p><strong>Distinct, separate values (e.g., 0, 1, 2, 3, ...)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decimal or <span class=\"customMeta\" data-dictid=\"7851f9a12616927772034703063277\">fractional</span> values</p>\n<p>Any value within a range (e.g., 1.5, 2.3, 3.1416)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nature of Values</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Countable</strong>, finite</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Measurable</strong>, infinite possibilities</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Representation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Whole numbers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Real numbers</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Number of students in a class</li>\n<li>Number of cars</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Height</li>\n<li>Weight</li>\n<li>Temperature</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/HsC2LkBtsfuffsXuvD7a1744659260.mp3",
+      "video": "",
+      "uid": "6d3d0116"
+    },
+    {
+      "text": "The presence or absence of a disease is an example of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continuous variable",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Discrete variable",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dichotomous variable",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Polytomous variable",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dichotomous variable",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\">\n<tbody>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\u00a0</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p style=\"text-align:center\"><strong>Dichotomous Variable</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p style=\"text-align:center\"><strong>Polytomous Variable</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Variable with <strong>two possible outcomes</strong> or categories.</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Variable with <strong>more than two possible outcomes</strong> or categories.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Characteristics</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Represents <span class=\"customMeta\" data-dictid=\"64f7a203db169277718312f019bd9b\">binary</span> choices.</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Has multiple distinct categories or levels.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Gender (male/female)</li>\n<li><strong>Presence of a disease (yes/no)</strong></li>\n<li>True/false response</li>\n</ul>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<ul>\n<li>Blood type (A, B, AB, O)</li>\n<li>Educational level (high school, college, graduate school)</li>\n<li>Pain severity (mild, moderate, severe)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid\">\n<p><strong>Usage</strong></p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Common in <span class=\"customMeta\" data-dictid=\"64f7a203db169277718312f019bd9b\">binary</span> <span class=\"customMeta\" data-dictid=\"dda6ab11271692777184264b752d39\">classification</span> tasks (e.g., disease diagnosis).</p>\n</td>\n<td style=\"border-color:#000000; border-style:solid\">\n<p>Used in surveys, scales, and assessments for detailed categorisation.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/UT3RDDMDUBmHmPsDIpMD1744659420.mp3",
+      "video": "",
+      "uid": "4744508f"
+    },
+    {
+      "text": "An investigator studies the life expectancy of IV drug abusers and divides a sample of patients into HIV-positive and HIV-negative groups. What type of data does this division constitute?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ratio",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ordinal",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nominal",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Interval",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nominal",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Nominal Scale</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Ordinal Scale</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can be expressed in Categories without order or ranking</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can be arranged in Ordered categories with ranking</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Gender (male, female, non-binary)</li>\n<li>Marital status (single, married, divorced)</li>\n<li>Blood type (A, B, AB, O)</li>\n<li>Type of delivery (Cesarean and <span class=\"customMeta\" data-dictid=\"9996ef505516927771937fe4ef1222\">Non</span> cesarean)</li>\n<li><strong>HIV Status</strong> (Positive, Negative, Indeterminate)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Education level (primary, secondary, tertiary)</li>\n<li>Likert scale responses (strongly agree, agree, etc.)</li>\n<li>Stages of disease (mild, moderate, severe)</li>\n<li>Cancer <span class=\"customMeta\" data-dictid=\"8ea2e3870f16927771990a138acbc1\">Staging</span> (Stage I, Stage II, Stage III, Stage IV)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/A088Lw8SmKj9Oh1UTRXE1744659577.mp3",
+      "video": "",
+      "uid": "05e6ef92"
+    },
+    {
+      "text": "America uses Fahrenheit (\u00b0F) in temperature measurement, and India uses Celsius (\u00b0C). Which type of scale is this an example of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nominal scale",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ordinal scale",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Interval scale",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ratio scale",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Interval scale",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Interval Scale</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Ratio Scale</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ordered categories with equal intervals but no true <span class=\"customMeta\" data-dictid=\"116e588c7b1692777202c7f3040428\">zero</span> point</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ordered categories with equal intervals and a True <span class=\"customMeta\" data-dictid=\"116e588c7b1692777202c7f3040428\">Zero</span> point\u00a0or <span class=\"customMeta\" data-dictid=\"614ae56169169277718092e2888716\">Absolute Zero</span> point.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Temperature in Celsius or Fahrenheit</strong></li>\n<li>Calendar years (e.g. 2000, 2020)</li>\n<li>IQ Scores (eg. 90, 100, 110)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Temperature in Kelvin</li>\n<li>Height</li>\n<li>Weight</li>\n<li>Age</li>\n<li>Blood Pressure</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/f5mkMEjciXeTlsCMehGX1744659798.mp3",
+      "video": "",
+      "uid": "fae124b9"
+    },
+    {
+      "text": "Which of the following is the most commonly used statistical average?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weighted mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Geometric mean",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Arithmetic mean",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Harmonic mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Arithmetic mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Weighted Mean</strong></p>\n<p style=\"text-align: center;\"><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Similar to arithmetic mean; considers only specified values</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Geometric Mean</strong></p>\n<p style=\"text-align: center;\"><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Used when the given <strong>data differs exponentially</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Harmonic Mean</strong></p>\n<p style=\"text-align: center;\"><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Used for <strong>fractional variables</strong> or <strong>inverse relationships</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ESXQtkPnfJhKXCYDOts71744660903.mp3",
+      "video": "",
+      "uid": "16f29cc4"
+    },
+    {
+      "text": "A patient who presented yesterday with occasional chest pain on & off for quite a while was found to have a blood pressure of 160/100 mmHg. An ambulatory blood pressure monitoring has been set up and the readings today are 130/90, 158/98, 140/80, 160/90, 150/100 and 138/88 mmHg. What is his mean blood pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "139/85mmHg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "146/91mmHg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "150/89mmHg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "154/95 mmHg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 146/91mmHg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/gzG7BhgxdT6wItl8RCrI1744660757.mp3",
+      "video": "",
+      "uid": "802b3391"
+    },
+    {
+      "text": "TSH values taken from a few antenatal mothers from an area where iodine deficiency is suspected are 4.5, 3.0, 1.9, 6.2, 8.0, 8.4, 2.4 and 9.2 IU/L. Calculate the median TSH in these mothers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "4.12",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6.33",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5.35",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "4.78",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 5.35",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/7c2Kn8LLOCGtQqLUDzau1733251669.png",
+        "https://image.prepladder.com/notes/3EuIMlDcYClv3hQuoqZY1733994554.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/fXaLvxwQdhaJCGsF1pBa1744660576.mp3",
+      "video": "",
+      "uid": "298ddab8"
+    },
+    {
+      "text": "The malaria cases reported in the last 10 years are 270, 300, 200, 310, 6000, 110, 250, 320, 330 and 120. An epidemiologist wants to determine the average number of malaria cases reported during these 10 years. Which of the following is the most appropriate measure of average for this data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weighted mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Median",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mean",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Geometric mean",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Median",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/QYzRQZgeu3V6LqviKJ2t1728630734.jpg",
+        "https://image.prepladder.com/content/Hi2zvWuhrADF8cQ4jFX11728630773.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/aTlIkxFPlZe7wdxb3MqN1744660154.mp3",
+      "video": "",
+      "uid": "31d3a5da"
+    },
+    {
+      "text": "In the case of a bimodal distribution, calculate the mode if the median is 2 and the mean is 3.",
+      "options": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/tHllKyf674abGlRWW6gB1734022565.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/dortoVGjigwvBzhpVjXj1744659951.mp3",
+      "video": "",
+      "uid": "387ac904"
+    }
+  ]
+}

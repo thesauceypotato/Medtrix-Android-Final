@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "id": "test92",
+    "title": "pH & Ionization",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 70-year-old male was suffering from motion sickness. He came to the physician because he has to travel the next day to a hilly station. The physician asked him to take a hyoscine to control his symptoms. Hyoscine is a weak base. Which of the following site does the hyoscine get absorbed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oesophagus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stomach",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Small intestine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Large intestine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Small intestine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Small intestine</p>\n<p><strong>Highyeild:</strong></p><p>Basic drugs in an alkaline medium get unionized and get absorbed faster. So basic drugs like morphine, hyoscine, and atropine get unionized in the small intestine and get absorbed Acidic drugs get unionized in an acidic medium and get absorbed from the stomach</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Oesophagus colloquially known also as the food pipe or gullet, is an organ in vertebrates through which food passes, aided by peristaltic contractions, from the pharynx to the stomach. Option: B . Stomach is a muscular, hollow organ in the gastrointestinal tract of humans and many other animals, including several invertebrates. The stomach has a dilated structure and functions as a vital organ in the digestive system. The stomach is involved in the gastric phase of digestion, the following chewing Option: D. Large intestine also known as the large bowel, is the last part of the gastrointestinal tract and of the digestive system in tetrapods. Water is absorbed here and the remaining waste material is stored in the rectum as feces before being removed by defecation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "87e99979",
+      "audio": ""
+    },
+    {
+      "text": "A patient was prescribed a drug with a pKa of 5 and the drug reaches the medium with a pH of 5. Which of the following is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50% ionized and 50% un-ionized",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "40 % Ionized and 60% un-ionized",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "60% Ionized and 40% un-ionized",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20% ionized and 80 % un-ionized",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 50% ionized and 50% un-ionized",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>50% ionized and 50% un-ionized</p>\n<p><strong>Highyeild:</strong></p><p>The pH of the medium is equal to pKa (the difference is zero), then the drug is 50% ionized and 50% un-ionized</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "292a45c7",
+      "audio": ""
+    }
+  ]
+}

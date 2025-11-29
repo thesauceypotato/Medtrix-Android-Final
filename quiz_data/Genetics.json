@@ -1,0 +1,730 @@
+{
+  "meta": {
+    "id": "test3",
+    "title": "Genetics",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Original DNA sequence: 5'-ATG GCA TCG GAA UAC-3'. Mutated sequence: 5'-ATG GCA TCG GAA UAA-3'. Identify the mutation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Frameshift mutation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nonsense mutation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Silent mutation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Missense mutation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Nonsense mutation",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/3BPxv3HU4P5X8ewoqjPI1736318723.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:680px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Based on the Effects on <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">Amino</span> acid sequence</strong></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Silent Mutation<br/>\n\t\t\t(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Missense Mutation<br/>\n\t\t\t(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Nonsense Mutation<br/>\n\t\t\t(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mutation may change the <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> for one <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid to a synonym for the same <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid.</li>\n<li>It has no effect on the phenotype.</li>\n<li>Degeneracy of the code.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Different <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid is incorporated due to change in the <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> sequence.</li>\n<li>It can be acceptable, partially acceptable, and unacceptable .</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Codon for an <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid is mutated to a <span class=\"customMeta\" data-dictid=\"a35c217ec416927772009a7f3b20f4\">termination</span> <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> (UAA or UAG) causing <span class=\"customMeta\" data-dictid=\"84f13673191692777196762b18e036\">premature</span> <span class=\"customMeta\" data-dictid=\"a35c217ec416927772009a7f3b20f4\">termination</span> of translation.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/TDne2PCtM7psLTT5CyKx1740146361.mp3",
+      "video": "",
+      "uid": "e6a851ca"
+    },
+    {
+      "text": "A scientist observes the process of DNA replication in a human stem cell. He takes a sample of double-stranded DNA from the cell and studies it separately. He finds that the total amount of adenine in the sample is 24%. From the given information, what percentage of cytosine is present in the sample?",
+      "options": [
+        {
+          "label": "A",
+          "text": "52%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "24%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "30%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "26%",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 26%",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/wqDPh6vDy0dTeGhSrFVU1735186124.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/16gzGOhSCmtIbJNX3jjU1739809650.mp3",
+      "video": "",
+      "uid": "ae618960"
+    },
+    {
+      "text": "Which of the following disorders are not caused due to defect in the Non homologous End Joining?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fanconi's anaemia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ataxia telengectasia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blooms syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Severe combined immunodeficiency disorder (SCID)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fanconi's anaemia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/zz9F9WoZU7bhotxicLnR1739807928.mp3",
+      "video": "",
+      "uid": "21c90486"
+    },
+    {
+      "text": "Which of the following accurately describes the role of snRNAs in the spliceosome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "snRNAs bind to the poly-A tail of mRNA to stabilize the mature transcript.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "snRNAs form ribonucleoprotein complexes with proteins to recognize and excise introns.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "snRNAs bind to the 5' cap of mRNA to initiate translation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "snRNAs transport pre-mRNA from the nucleus to the cytoplasm for translation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. snRNAs form ribonucleoprotein complexes with proteins to recognize and excise introns.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Spliceosome</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Processes <span class=\"customMeta\" data-dictid=\"a4cdf973d116927771961213e54254\">pre-mRNA</span> into <span class=\"customMeta\" data-dictid=\"0472620c171692777192c655af9c57\">mature</span> <span class=\"customMeta\" data-dictid=\"d6f42e0fac169277719339c004a084\">mRNA</span> by removing non-coding introns and joining coding exons.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Components</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pre-mRNA:</strong> <span class=\"customMeta\" data-dictid=\"a4cdf973d116927771961213e54254\">Pre-mRNA</span> is a primary <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> <span class=\"customMeta\" data-dictid=\"f2661b736316927772001b58b96060\">transcript</span> that contains both introns (non-coding) and exons (coding).. Larger than <span class=\"customMeta\" data-dictid=\"0472620c171692777192c655af9c57\">mature</span> mRNA.</p>\n<p><strong>Spliceosome:</strong> Multi-component complex involved in splicing, including snRNAs and associated proteins.</p>\n<p><strong>snRNAs:</strong> There are five types of snRNAs\u2014U1, U2, U4, U5, and U6\u2014that are crucial for the <span class=\"customMeta\" data-dictid=\"5948ed9b541692777199d94749e06a\">splicing</span> process.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Spliceosome Formation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>snRNAs:</strong> U1, U2, U4, U5, U6 are small nuclear RNAs that <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> snRNPs (small nuclear ribonucleoproteins) with proteins.</p>\n<p><strong>snRNPs:</strong> Recognize splice sites and <span class=\"customMeta\" data-dictid=\"66b0433bfd16927771836c33e8b7b8\">catalyze</span> <span class=\"customMeta\" data-dictid=\"5948ed9b541692777199d94749e06a\">splicing</span> reactions.</p>\n<p><strong>Pre-mRNA Binding:</strong> snRNPs help position <span class=\"customMeta\" data-dictid=\"a4cdf973d116927771961213e54254\">pre-mRNA</span> for splicing. <strong>Spliceosome complex</strong> formation through interactions between snRNPs and pre-mRNA.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Splicing Reaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>U1 <span class=\"customMeta\" data-dictid=\"081ae82c7b1692777198318331f58c\">snRNP</span> binds to the 5' exon-intron junction.</li>\n<li>U2 <span class=\"customMeta\" data-dictid=\"081ae82c7b1692777198318331f58c\">snRNP</span> binds to the branch site of the intron.</li>\n<li>U4, U5, U6 snRNPs: Join complex, bring 5' and 3' splice sites close together for splicing.</li>\n<li>Splicing removes the <span class=\"customMeta\" data-dictid=\"2f90d0453816927771903992f081b1\">intron</span> and joins the exons to produce <span class=\"customMeta\" data-dictid=\"0472620c171692777192c655af9c57\">mature</span> mRNA.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "31171b66"
+    },
+    {
+      "text": "What sequence is repeated in human telomeres?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5'-TTAAGG-3'",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5'-GGTACC-3'",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5'-TTAGGG-3'",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "5'-AGCTAG-3'",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 5'-TTAGGG-3'",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Feature</strong></th>\n<th><strong>Description</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Sequence</strong></td>\n<td>5'-TTAGGG-3' repeat</td>\n</tr>\n<tr>\n<td><strong>Function</strong></td>\n<td>Protects <span class=\"customMeta\" data-dictid=\"7157c1f59916927771846116d74646\">chromosome</span> ends from <span class=\"customMeta\" data-dictid=\"d395f610461692777185cbe8b8806d\">degradation</span> and fusion</td>\n</tr>\n<tr>\n<td><strong>Telomerase Activity</strong></td>\n<td>Adds repeats using an RNA template</td>\n</tr>\n<tr>\n<td><strong>Shortening Effect</strong></td>\n<td>Telomeres shorten with each <span class=\"customMeta\" data-dictid=\"17827b01cc1692777184bf6f27f6ad\">cell division</span> due to incomplete <span class=\"customMeta\" data-dictid=\"28789851281692777191ee17a9bce7\">lagging strand</span> synthesis</td>\n</tr>\n<tr>\n<td><strong>Associated Diseases</strong></td>\n<td>Premature <span class=\"customMeta\" data-dictid=\"b9d804af7716927772001ebdb234b1\">telomere</span> shortening is <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to <span class=\"customMeta\" data-dictid=\"c13872f9e3169277718001d2a0f063\">aging</span> and diseases like <span class=\"customMeta\" data-dictid=\"8faaca347f16927771861001cbc1a8\">dyskeratosis</span> congenita and <span class=\"customMeta\" data-dictid=\"1ea06afcbd1692777181199bfa3300\">aplastic</span> anemia</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/RJY6tqPfKb79fvoUWfvL1739981565.mp3",
+      "video": "",
+      "uid": "35813e54"
+    },
+    {
+      "text": "Why are methylases important in the mismatch repair mechanism in prokaryotes like E. coli?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They add methyl groups to the newly synthesized DNA strand, marking it for repair.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "They methylate the parental DNA strand, allowing the Mut proteins to distinguish it from the daughter strand.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "They remove mismatched bases from the DNA strand.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "They act as exonucleases during the repair process.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. They methylate the parental DNA strand, allowing the Mut proteins to distinguish it from the daughter strand.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ipF64P4ZYnMBM8nrA2cr1744040764.mp3",
+      "video": "",
+      "uid": "1c3f1820"
+    },
+    {
+      "text": "Which of the following statements about telomeres and telomerase is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Telomeres prevent chromosome ends from degrading but do not shorten during cell division.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Telomerase adds repetitive DNA sequences to the 5\u2032 end of chromosomes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Telomeres are composed of repetitive sequences that help prevent chromosome fusion.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The shortening of telomeres occurs due to the continuous synthesis of the lagging strand.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Telomeres are composed of repetitive sequences that help prevent chromosome fusion.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Feature</strong></th>\n<th><strong>Description</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Telomere Composition</strong></td>\n<td>Repetitive TTAGGG sequences in humans</td>\n</tr>\n<tr>\n<td><strong>Function</strong></td>\n<td>Protect <span class=\"customMeta\" data-dictid=\"7157c1f59916927771846116d74646\">chromosome</span> ends from <span class=\"customMeta\" data-dictid=\"d395f610461692777185cbe8b8806d\">degradation</span> and fusion</td>\n</tr>\n<tr>\n<td><strong>Shortening Mechanism</strong></td>\n<td>Due to incomplete <span class=\"customMeta\" data-dictid=\"28789851281692777191ee17a9bce7\">lagging strand</span> <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> in DNA replication</td>\n</tr>\n<tr>\n<td><strong>Role of Telomerase</strong></td>\n<td>Extends the 3\u2032 end of DNA using an <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> <span class=\"customMeta\" data-dictid=\"10b417ea411692777200181de285bf\">template</span> to compensate for shortening</td>\n</tr>\n<tr>\n<td><strong>Cell Types with Active Telomerase</strong></td>\n<td>Germ cells, stem cells, and cancer cells</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Telomeres</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Protective structures at <span class=\"customMeta\" data-dictid=\"7157c1f59916927771846116d74646\">chromosome</span> ends; <span class=\"customMeta\" data-dictid=\"e87bc6bc00169277719735c567397a\">repetitive DNA</span> (5\u2032-TTAGGG-3\u2032)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Telomere Shortening</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Occurs during replication; <span class=\"customMeta\" data-dictid=\"28789851281692777191ee17a9bce7\">lagging strand</span> lacks <span class=\"customMeta\" data-dictid=\"10b417ea411692777200181de285bf\">template</span> for <span class=\"customMeta\" data-dictid=\"930dac4e5e169277719605287af20d\">primer</span> synthesis, leading to progressive shortening</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Telomerase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>RNA-dependent DNA polymerase; adds TTAGGG repeats using its <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> template</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/8xpO0Z5tLs7zpzfENV4w1739979358.mp3",
+      "video": "",
+      "uid": "8e417783"
+    },
+    {
+      "text": "Which of the following is a characteristic of mitochondrial DNA (mtDNA)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is linear and single-stranded",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It has very few non-coding regions and a higher mutation rate compared to nuclear DNA.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It uses the standard genetic code, including AGA and AGG as codons for arginine (Arg).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is composed of linear strands and encodes for all 67 subunits of the respiratory chain.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It has very few non-coding regions and a higher mutation rate compared to nuclear DNA.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Structure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Circular, double-stranded; composed of heavy (H) and light (L) chains. <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Length</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>16,569 base pairs (bp).</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Protein-Encoding Subunits</strong></p>\n</td>\n<td rowspan=\"5\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">Most <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> chain proteins are encoded by <strong>nuclear DNA</strong> and imported into <span class=\"customMeta\" data-dictid=\"18c9e7b9721692777192bd042528cc\">mitochondria</span> (<strong>Option D ruled out</strong>)</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Ribosomal RNAs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Encodes 16S (large) and 12S (small) mitochondrial rRNAs.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>tRNAs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Encodes 22 mitochondrial <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> molecules.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Genetic Code Differences</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>UGA typically a stop <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> is read as <span class=\"customMeta\" data-dictid=\"059bdf5c031692777200fedbf3ef66\">tryptophan</span> (Trp)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>AGA and AGG: normally <span class=\"customMeta\" data-dictid=\"e61a190afe16927771828271a46f94\">arginine</span> (Arg) codons are read as stop codons <strong>(Option C ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Untranslated Sequences</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Very few non-coding regions.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Mutation Rate</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>5-10 times higher than nuclear DNA.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Evolutionary Studies</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Comparisons of <span class=\"customMeta\" data-dictid=\"be003ab8e21692777193372f7699ef\">mtDNA</span> sequences provide insights into the evolutionary history of <span class=\"customMeta\" data-dictid=\"bb9362c6b91692777196130a2d1d70\">primates</span> and other species.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/8k4bS7XPcuY40TiGJIFz1739809403.mp3",
+      "video": "",
+      "uid": "c40e1834"
+    },
+    {
+      "text": "In the analogy of the DNA double helix to a spiral staircase, what do the \"handrails\" and \"steps\" represent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Handrails are nitrogenous bases; steps are phosphodiester bonds",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Handrails are nitrogenous bases; steps are the sugar-phosphate backbone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Handrails are the sugar-phosphate backbone; steps are nitrogenous bases",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Handrails are hydrogen bonds; steps are deoxyribose sugars",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Handrails are the sugar-phosphate backbone; steps are nitrogenous bases",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/StysvPTuHnvGEt7KDpbp1744014656.png",
+        "https://image.prepladder.com/content/IafshPaRnwNTlSTr2HQq1735187276.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/L2vZerzgNT0JqOnMKOzA1739808757.mp3",
+      "video": "",
+      "uid": "d8b12e4d"
+    },
+    {
+      "text": "In the structure of nucleotides, where does the esterification of the phosphate group typically occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "On the 1' carbon of the pentose sugar",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "On the 2' hydroxyl group of the pentose sugar",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "On the 5' or 3' hydroxyl group of the pentose sugar",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "On the N1 position of the nitrogenous base",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. On the 5' or 3' hydroxyl group of the pentose sugar",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/7g6xWzuFiJXrDGwyrgoK1735187498.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ojqw1nE0VVn9d3ax5UHS1739808698.mp3",
+      "video": "",
+      "uid": "8c3fe63a"
+    },
+    {
+      "text": "Which of the following is a pyrimidine base found in nucleic acids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uracil",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hypoxanthine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Xanthine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Guanosine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Uracil",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/zwy9mgX5aioYCkCeVQVW1735188044.png",
+        "https://image.prepladder.com/content/HN0oloh4NHBN8tBWBsT11735187987.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/CjAf5ljIiGs9HG9slX3C1739808176.mp3",
+      "video": "",
+      "uid": "a0e7a460"
+    },
+    {
+      "text": "Which of the following is NOT TRUE regarding the initiation of translation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "eIF3 and 1A stabilize 60s ribosomal subunit to prevent reassociation with 40s.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Methionine tRNA scans mRNA to identify the initiation AUG codon",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ATP dependent helicase eIF4A/4B breaks hydrogen bonds to remove the hairpin loops",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Association of mRNA with the 43S preinitiation complex forms the 48S initiation complex",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. eIF3 and 1A stabilize 60s ribosomal subunit to prevent reassociation with 40s.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/P1Viqr9rxibM43A6qAlt1736318373.jpg",
+        "https://image.prepladder.com/content/InIqEGdBuBVL8vKW4x1b1736318418.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/pBeOScAQ1VMXAzSk3eSv1744041839.mp3",
+      "video": "",
+      "uid": "95ea8377"
+    },
+    {
+      "text": "Identify the type of mutation illustrated in the following DNA sequences? Starting sequence: Mutated sequence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Point mutation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Frameshift mutation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Deletion mutation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Insertion mutation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Point mutation",
+      "question_images": [
+        "https://image.prepladder.com/content/YQKRZO6vdLiXu1qYHqHI1722452695.png",
+        "https://image.prepladder.com/content/hH8o3fXgU85SiVnXVm1t1722452772.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/t0Z2vQrKP6ZEeTdTgsW01736318858.png",
+        "https://image.prepladder.com/content/N4i5rMprEvOOUePqnFLS1736319988.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:591px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Based on the Effects on <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">Nucleotide</span> sequence</strong></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Point <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> </strong><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Frameshift <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> (Option B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Substitution of one <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> by another.</p>\n<ul>\n<li><strong>Transition</strong>: <span class=\"customMeta\" data-dictid=\"c03d9c910716927771961a9a2609b5\">Purine</span> is replaced by a <span class=\"customMeta\" data-dictid=\"c03d9c910716927771961a9a2609b5\">purine</span> and a <span class=\"customMeta\" data-dictid=\"cb474d9869169277719611d301e616\">pyrimidine</span> is replaced by a pyrimidine.</li>\n<li><strong>Transversion</strong>: <span class=\"customMeta\" data-dictid=\"c03d9c910716927771961a9a2609b5\">Purine</span> is replaced by a <span class=\"customMeta\" data-dictid=\"cb474d9869169277719611d301e616\">pyrimidine</span> and vice versa.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deletion <strong>(Option C ruled out)</strong> or <span class=\"customMeta\" data-dictid=\"c88a7c1a0116927771909b2463968d\">insertion</span> <strong>(Option D ruled out) </strong>of nucleotides leading to altered <span class=\"customMeta\" data-dictid=\"314dc79bd31692777197e2922c693b\">reading frame</span> in the mRNA.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/THhrgwmzt7xZkrV8WK1g1740146182.mp3",
+      "video": "",
+      "uid": "182cdea8"
+    },
+    {
+      "text": "Which of the following statements are true regarding codons? A, G, T, C are RNA nucleotides A, G, T, C are DNA nucleotides A, G, U, C are RNA nucleotides A, G, U, C are DNA nucleotides",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 3 are correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 and 3 are correct",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1 and 4 are correct",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2 and 4 are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2 and 3 are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:614px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p style=\"text-align:center\"><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p style=\"text-align:center\"><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>Codon</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>Three-nucleotide sequence in mRNA</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>Codon Functions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>Specifies an <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid sequence in proteins.</p>\n<p><strong>Start <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> (AUG):</strong> Signals the <span class=\"customMeta\" data-dictid=\"a4f93a26c11692777190f1659fa7c9\">initiation</span> of protein synthesis.</p>\n<p><strong>Stop codons(UAA, UAG, and UGA)</strong>: Signals <span class=\"customMeta\" data-dictid=\"a35c217ec416927772009a7f3b20f4\">termination</span> of protein synthesis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>Total Codons</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>64 (4 nucleotides, each position can be A, U, G, or C)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>DNA Nucleotides</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>A, G, T, C \u00a0 <strong>(Options A, C, D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>RNA Nucleotides</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>A, G, U (replaces T), C\u00a0 <strong>(Options A, C, D ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>Amino Acid Codons</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>61 codons encode 20 <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acids</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:147px\">\n<p><strong>Reading Frame</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:467px\">\n<p>mRNA sequence read from start <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> to stop <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> (Open Reading Frame)</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qrWnQiMD7xRahXvotqgp1744041114.mp3",
+      "video": "",
+      "uid": "74cc0dba"
+    },
+    {
+      "text": "In the context of genetic code degeneracy, which of the following accurately describes its impact on protein synthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single codon specifies one amino acid.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multiple codons can code for the same amino acid.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Flexibility occurs at the 2nd codon position.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inosine in mRNA contributes to the flexibility in pairing.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Multiple codons can code for the same amino acid.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/MUXVbRXr8Ftzy3BPcHlW1744041294.mp3",
+      "video": "",
+      "uid": "2415653e"
+    },
+    {
+      "text": "A 25-year-old student is reviewing the roles of small RNAs in cellular processes. She learns about small nuclear RNAs (snRNAs) and small interfering RNAs (siRNAs). Which of the following statements about snRNAs and/or siRNAs is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both snRNAs and siRNAs are involved in the degradation of mRNA.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "snRNAs form complexes with the RNA-induced silencing complex (RISC).",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "snRNAs are primarily involved in mRNA splicing and are located in the nucleus.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "snRNAs are typically found in the cytoplasm, while siRNAs are found in the nucleus.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. snRNAs are primarily involved in mRNA splicing and are located in the nucleus.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>snRNAs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>siRNAs</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Main Function</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>RNA processing</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gene regulation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Location</p>\n<p>(Option C)</p>\n<p><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nucleus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cytoplasm</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involvement</p>\n<p><strong>(Option A ruled out)</strong></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>mRNA splicing, <span class=\"customMeta\" data-dictid=\"739aa4b5ea1692777200a636ee075f\">transcription</span> elongation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>mRNA degradation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specific Types</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>U1, U2, U4, U5, U6 (splicing); U7 (histone mRNAs); 7SK (transcription)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Typically 21-25 nucleotides long</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Role in mRNA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Removes introns, generates correct 3' ends of <span class=\"customMeta\" data-dictid=\"2f9fcbc0831692777189f689777d4f\">histone</span> mRNAs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Silences gene expression</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Source</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Endogenous snRNAs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Endogenous/exogenous dsRNAs processed into siRNAs</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Processing Mechanism</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Forms complexes with proteins (snRNPs) for splicing</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Processed by Dicer <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> into <span class=\"customMeta\" data-dictid=\"2ed1f9c135169277719860d8afe82d\">siRNA</span> duplexes</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated Complex</p>\n<p><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Small nuclear ribonucleoproteins (snRNPs)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>RNA-induced <span class=\"customMeta\" data-dictid=\"c83e76c8511692777198089a720108\">silencing</span> complex (RISC)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Length</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Varies; generally 100-300 nucleotides</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>21-25 nucleotides</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stability</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Generally stable, involved in essential <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> processes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Short-lived, rapidly degrades target mRNA</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Biogenesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Transcribed by <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> <span class=\"customMeta\" data-dictid=\"d419920a6616927771969805c3d65d\">polymerase</span> II or III</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Derived from longer <span class=\"customMeta\" data-dictid=\"7459ad09471692777186f9fc499f72\">dsRNA</span> precursors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Function in Disease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Defects can lead to <span class=\"customMeta\" data-dictid=\"5948ed9b541692777199d94749e06a\">splicing</span> disorders (e.g., <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> <span class=\"customMeta\" data-dictid=\"9e2d8a3f5a16927771932c2348ec52\">muscular</span> atrophy)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Utilized in <span class=\"customMeta\" data-dictid=\"32c139b5f7169277719768f2b2348a\">RNAi</span> therapies for <span class=\"customMeta\" data-dictid=\"66751c05711692777188189681c598\">gene silencing</span> (e.g., in cancer)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Example Applications</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Studying <span class=\"customMeta\" data-dictid=\"5948ed9b541692777199d94749e06a\">splicing</span> mechanisms, understanding <span class=\"customMeta\" data-dictid=\"739aa4b5ea1692777200a636ee075f\">transcription</span> regulation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Therapeutic gene silencing, <span class=\"customMeta\" data-dictid=\"b7784a23be1692777203dc62b8c73f\">functional genomics</span> studies</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/X6pE3urrhm8BlKaMhOIA1740145604.mp3",
+      "video": "",
+      "uid": "1f3aac3e"
+    },
+    {
+      "text": "Which of the following steps in the process of tRNA synthesis occurs in the cytoplasm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rearrangement of glycosidic linkages giving rise to pseudouridine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Deamination creating inosine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fourth post-transcriptional modification of random methylation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Aminoacyl-tRNA synthetases attach the amino acid",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Aminoacyl-tRNA synthetases attach the amino acid",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/sY23vSB68UjJwgj7nDzW1736317743.png",
+        "https://image.prepladder.com/content/jF70RRt5aPBud7zQBWYo1736317802.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/v63bXHBTfUo0zyg48KFU1740145214.mp3",
+      "video": "",
+      "uid": "90d6e388"
+    },
+    {
+      "text": "Which statement best describes the wobble hypothesis in relation to tRNA's function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allows multiple tRNAs to bind to a single codon.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Explains tRNA's ability to bind to any codon with perfect complementarity.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Single tRNA recognizes multiple codons due to flexible base pairing.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Accounts for varying tRNA lengths matching different mRNA sequences.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Single tRNA recognizes multiple codons due to flexible base pairing.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/nEUTgmWgEmfVQSEeHTsn1736319657.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Component</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Amino Acid <span class=\"customMeta\" data-dictid=\"138fddb804169277718051e3eab3a4\">Acceptor</span> Arm</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Located at the 3' end, <span class=\"customMeta\" data-dictid=\"7ae760ae1b169277718794068316b8\">ending</span> in CCA, which is added post-transcriptionally. The <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid is attached to the 3\u2032-OH group of the A moiety.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Charging</strong>: <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">Amino</span> acids are attached to the <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> by <span class=\"customMeta\" data-dictid=\"2d100404321692777181e783b852c6\">aminoacyl-tRNA</span> synthetases for protein synthesis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>D Arm</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Contains dihydrouridine, a modified base. Contributes to the overall structure and recognition of <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> by its corresponding <span class=\"customMeta\" data-dictid=\"2d100404321692777181e783b852c6\">aminoacyl-tRNA</span> synthetase.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Recognition</strong>: Ensures correct aminoacylation by interacting with <span class=\"customMeta\" data-dictid=\"2d100404321692777181e783b852c6\">aminoacyl-tRNA</span> synthetase.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>T\u03c8C Arm</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Named for its <span class=\"customMeta\" data-dictid=\"e65744b5551692777197c8f48ae4ca\">ribothymidine</span> (T), <span class=\"customMeta\" data-dictid=\"d7d078a48c1692777196f1f7fd300d\">pseudouridine</span> (\u03c8), and <span class=\"customMeta\" data-dictid=\"fc0363efea1692777185f0f7125c37\">cytidine</span> (C) content. Involved in binding <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> to the ribosome.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Binding</strong>: Positions <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> correctly at the <span class=\"customMeta\" data-dictid=\"3230bf6e7816927771973439687f01\">ribosome</span> for protein synthesis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Anticodon Loop</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Opposite the <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid <span class=\"customMeta\" data-dictid=\"138fddb804169277718051e3eab3a4\">acceptor</span> arm, contains a sequence of three nucleotides (anticodon) <span class=\"customMeta\" data-dictid=\"60d189ec981692777184053168bba4\">complementary</span> to the <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> on mRNA.<br/>\n\t\t\t\u00a0</p>\n<p><strong>Wobble phenomenon</strong></p>\n<ul>\n<li>Third <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> pair formation is non-specific (more than one <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> coding for a single <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid)</li>\n</ul>\n<p>(Or)</p>\n<ul>\n<li>Reduced stringency when the third <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> pair is formed between <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> and anti-codon.</li>\n</ul>\n<p>(Or)</p>\n<ul>\n<li>When <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> is written in 5\u2019, 3\u2019 direction, the first <span class=\"customMeta\" data-dictid=\"94a2f0970016927771932885a3d362\">nucleotide</span> of the <span class=\"customMeta\" data-dictid=\"8c6868d8e61692777181a62962858e\">anticodon</span> of <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> is not specific</li>\n</ul>\n<p><strong>Degeneracy</strong></p>\n<p>More than one <span class=\"customMeta\" data-dictid=\"3faf36c69716927771840561232eaa\">codon</span> coding for a single <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid because of the <span class=\"customMeta\" data-dictid=\"56c14fcf2b169277720220dfca1592\">wobble</span> phenomenon.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Codon Recognition</strong>: Ensures the correct <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid is added to the <span class=\"customMeta\" data-dictid=\"287fd897ad1692777196f583338128\">polypeptide</span> chain during translation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Variable Arm</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Located between the T\u03c8C arm and the <span class=\"customMeta\" data-dictid=\"8c6868d8e61692777181a62962858e\">anticodon</span> loop. Its length varies among different <span class=\"customMeta\" data-dictid=\"7d67967edd1692777200906dde9e61\">tRNA</span> species and contributes to the <span class=\"customMeta\" data-dictid=\"22e8a6f65016927772003e97740ab2\">tertiary</span> structure of tRNA.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Structural Flexibility</strong>: Aids in interactions with the <span class=\"customMeta\" data-dictid=\"3230bf6e7816927771973439687f01\">ribosome</span> and other translation factors.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/7uZ5jsW5B2V2gE9IdMLb1740144933.mp3",
+      "video": "",
+      "uid": "1c470045"
+    },
+    {
+      "text": "Which of the following types of rRNA is associated with the 40S ribosomal subunit in eukaryotic cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5S rRNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "18S rRNA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "28S rRNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "16S rRNA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 18S rRNA",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/xLLZ5vSXiNmYQz6wA1Tj1736319431.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:721px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p><strong>Type of RNA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<p><strong>Characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p>mRNA (messenger RNA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<ul>\n<li>Single-stranded</li>\n<li>Varies in length depending on the encoded protein</li>\n<li>Contains exons and introns (in eukaryotes)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<ul>\n<li>Carries genetic information from DNA to the ribosome</li>\n<li>Encodes the <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid sequence of proteins</li>\n<li>Undergoes processing such as capping, polyadenylation, and <span class=\"customMeta\" data-dictid=\"5948ed9b541692777199d94749e06a\">splicing</span> in eukaryotes</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p>tRNA (transfer RNA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<ul>\n<li>Small, typically 73-93 nucleotides</li>\n<li>Cloverleaf structure</li>\n<li>Contains an <span class=\"customMeta\" data-dictid=\"8c6868d8e61692777181a62962858e\">anticodon</span> and an <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acid <span class=\"customMeta\" data-dictid=\"ccd357daaf16927771825777ea6a0d\">attachment</span> site</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<ul>\n<li>Transfers specific <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acids to the <span class=\"customMeta\" data-dictid=\"3230bf6e7816927771973439687f01\">ribosome</span> during protein synthesis</li>\n<li>Recognizes codons on <span class=\"customMeta\" data-dictid=\"d6f42e0fac169277719339c004a084\">mRNA</span> through its <span class=\"customMeta\" data-dictid=\"8c6868d8e61692777181a62962858e\">anticodon</span> region</li>\n<li>Plays a critical role in translating the <span class=\"customMeta\" data-dictid=\"0ceffbe03f169277718876410dc23a\">genetic code</span> into protein</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p>rRNA (ribosomal RNA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<ul>\n<li>Forms the core of ribosome's structure</li>\n<li>Eukaryotic ribosomes: 18S (40S subunit), 5.8S, 28S, 5S (components of the 60S subunit)</li>\n<li>Prokaryotic ribosomes: 16S, 23S, 5S</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<ul>\n<li>Major structural and functional components of ribosomes</li>\n<li>Catalyzes <span class=\"customMeta\" data-dictid=\"53172b32401692777195efbbb6b2e8\">peptide</span> bond formation during protein synthesis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p>snRNA (small nuclear RNA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<ul>\n<li>Small, usually less than 200 nucleotides</li>\n<li>Found in the nucleus</li>\n<li>Component of the spliceosome</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<ul>\n<li>Involved in the processing of <span class=\"customMeta\" data-dictid=\"a4cdf973d116927771961213e54254\">pre-mRNA</span> in eukaryotes</li>\n<li>Essential for <span class=\"customMeta\" data-dictid=\"5948ed9b541692777199d94749e06a\">splicing</span> introns from pre-mRNA</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p>miRNA (microRNA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<ul>\n<li>Small, approximately 22 nucleotides</li>\n<li>Single-stranded</li>\n<li>Forms hairpin structures</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<ul>\n<li>Regulates <span class=\"customMeta\" data-dictid=\"e90d7fdd7316927771880df273d8ef\">gene expression</span> post-transcriptionally</li>\n<li>Binds to <span class=\"customMeta\" data-dictid=\"60d189ec981692777184053168bba4\">complementary</span> sequences on target mRNAs, resulting in translational <span class=\"customMeta\" data-dictid=\"2c4392491a169277719764b937f110\">repression</span> or <span class=\"customMeta\" data-dictid=\"d6f42e0fac169277719339c004a084\">mRNA</span> degradation</li>\n<li>Plays a role in various biological processes including development, differentiation, and apoptosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:109px\">\n<p>siRNA (small <span class=\"customMeta\" data-dictid=\"653140d1dc16927771903445309f4e\">interfering</span> RNA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:235px\">\n<ul>\n<li>Short, double-stranded RNA, about 20-25 nucleotides</li>\n<li>Originates from longer double-stranded RNA</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:280px\">\n<ul>\n<li>Involved in the <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> <span class=\"customMeta\" data-dictid=\"f087a3103216927771903f59008962\">interference</span> (RNAi) pathway</li>\n<li>Mediates the <span class=\"customMeta\" data-dictid=\"d395f610461692777185cbe8b8806d\">degradation</span> of specific mRNAs</li>\n<li>Used experimentally to silence gene expression</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jAtlLFZfY6tanDXfXC6y1739981942.mp3",
+      "video": "",
+      "uid": "0e59ce96"
+    },
+    {
+      "text": "Which of the following statements accurately reflects a difference between DNA and RNA, considering their roles in genetic information processing and stability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RNA's 2'-hydroxyl group enhances its stability compared to DNA.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RNA polymerases need a primer; DNA polymerases do not.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "RNA forms complex structures; DNA remains a double helix",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "DNA degrades more rapidly than RNA due to the presence of a 2'-hydroxyl group.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. RNA forms complex structures; DNA remains a double helix",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>DNA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>RNA</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Sugar</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Deoxyribose (lacks 2' <span class=\"customMeta\" data-dictid=\"71c394a39516927771899f0a1b8179\">hydroxyl</span> group) <strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ribose (has 2' <span class=\"customMeta\" data-dictid=\"71c394a39516927771899f0a1b8179\">hydroxyl</span> group)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bases</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Adenine (A), <span class=\"customMeta\" data-dictid=\"7efb00343416927771883f12a710bc\">Guanine</span> (G), <span class=\"customMeta\" data-dictid=\"6d6d5980961692777185515f54983b\">Cytosine</span> (C), <span class=\"customMeta\" data-dictid=\"1946ad8139169277720097cac9e8f5\">Thymine</span> (T)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Adenine (A), <span class=\"customMeta\" data-dictid=\"7efb00343416927771883f12a710bc\">Guanine</span> (G), <span class=\"customMeta\" data-dictid=\"6d6d5980961692777185515f54983b\">Cytosine</span> (C), <span class=\"customMeta\" data-dictid=\"8432fa69e2169277720189b48cbc82\">Uracil</span> (U)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Structure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Double-stranded helix, <span class=\"customMeta\" data-dictid=\"18ee26e04f169277718163ce592dc9\">antiparallel</span> strands, <span class=\"customMeta\" data-dictid=\"60d189ec981692777184053168bba4\">complementary</span> <span class=\"customMeta\" data-dictid=\"cb9b47b2241692777182336f8b2e9e\">base pairing</span> (A-T, G-C)</p>\n<p>DNA follows both Chargaff rule of <span class=\"customMeta\" data-dictid=\"cb9b47b2241692777182336f8b2e9e\">base pairing</span> and Watson and Crick <span class=\"customMeta\" data-dictid=\"cb9b47b2241692777182336f8b2e9e\">base pairing</span> rule.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Single-stranded, can fold into complex structures with intrachain <span class=\"customMeta\" data-dictid=\"cb9b47b2241692777182336f8b2e9e\">base pairing</span> (A-U, G-C) <strong>(Option C)</strong><br/>\n\t\t\tDo not follow Chargaff's Rule of Base Pairing.</p>\n<p>Watson and Crick <span class=\"customMeta\" data-dictid=\"cb9b47b2241692777182336f8b2e9e\">Base pairing</span> rule is followed here.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Function</strong></p>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Stores genetic information</p>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Various roles in gene expression:</p>\n<p><strong>Messenger <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> (mRNA) -</strong></p>\n<p>Carries genetic information from DNA to ribosomes for protein synthesis</p>\n<p><strong>Ribosomal <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> (rRNA) -</strong></p>\n<p>Major component of ribosomes, involved in protein synthesis</p>\n<p><strong>Transfer <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> (tRNA) -</strong></p>\n<p>Transports <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acids to ribosomes during protein synthesis</p>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Stability</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>More stable due to lack of 2'-hydroxyl group B <strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Less stable, more <span class=\"customMeta\" data-dictid=\"55691242bb1692777199360f64cb67\">susceptible</span> to hydrolysis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Degradation Susceptibility</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Less <span class=\"customMeta\" data-dictid=\"607476ab371692777196d0cb2f13bc\">prone</span> to degradation, stable over generations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>More <span class=\"customMeta\" data-dictid=\"607476ab371692777196d0cb2f13bc\">prone</span> to degradation, shorter lifespan, important for regulating gene expression</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Synthesis <span class=\"customMeta\" data-dictid=\"930dac4e5e169277719605287af20d\">Primer</span> Requirement</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Requires <span class=\"customMeta\" data-dictid=\"cc65bdc03f169277719726a675e8a7\">RNA</span> <span class=\"customMeta\" data-dictid=\"930dac4e5e169277719605287af20d\">primer</span> for initiation<br/>\n<strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Can initiate <span class=\"customMeta\" data-dictid=\"3fda45538a1692777199ec2a5478a5\">synthesis</span> <span class=\"customMeta\" data-dictid=\"233d458dd316927771854358419c86\">de</span> novo, no <span class=\"customMeta\" data-dictid=\"930dac4e5e169277719605287af20d\">primer</span> needed</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Proofreading and Fidelity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>High fidelity with 3' to 5' <span class=\"customMeta\" data-dictid=\"263bc855f5169277718792b77f88ff\">exonuclease</span> activity for proofreading</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Higher error rate but can backtrack and cleave incorrect nucleotides.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/6gbfF6pdMADt54gddy9i1739981870.mp3",
+      "video": "",
+      "uid": "7e48ae3c"
+    },
+    {
+      "text": "Which of the following is not caused by a defect of ds DNA repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cockayne syndrome (CS)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Fanconi\u2019s anemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Severe Combined Immunodeficiency (SCID)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bloom's syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cockayne syndrome (CS)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Disorder</strong></th>\n<th><strong>Defective Repair Mechanism</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Ataxia telangiectasia</strong></td>\n<td>Non-Homologous End Joining (NHEJ)</td>\n</tr>\n<tr>\n<td><strong>Bloom\u2019s syndrome</strong> <strong>(Option D ruled out)</strong></td>\n<td>Homologous DNA Repair (HDR)</td>\n</tr>\n<tr>\n<td><strong>Severe <span class=\"customMeta\" data-dictid=\"4dc8c69a7016927771850f8a074583\">Combined Immunodeficiency</span> (SCID)</strong> <strong>(Option C ruled out)</strong></td>\n<td>Non-Homologous End Joining (NHEJ)</td>\n</tr>\n<tr>\n<td><strong>Fanconi\u2019s anemia</strong> <strong>(Option B ruled out)</strong></td>\n<td>Fanconi <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">Anemia</span> Repair <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">Pathway</span> (Interacts with HDR)</td>\n</tr>\n<tr>\n<td><strong>HBOC (Human Breast and <span class=\"customMeta\" data-dictid=\"4af6983ff31692777194b80e4a7e57\">Ovarian Cancer</span> Syndrome)</strong></td>\n<td>Homologous DNA Repair (HDR) (BRCA1/BRCA2 mutation)</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/BBpi3QTWfsMwt0q5gEO91739808125.mp3",
+      "video": "",
+      "uid": "83f6d014"
+    }
+  ]
+}

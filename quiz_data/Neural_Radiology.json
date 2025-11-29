@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "id": "test7",
+    "title": "Neural_Radiology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 60-year-old man is brought to the emergency department with a sudden onset of weakness for an hour on one side of his body. He has a history of deep vein thrombosis but is not compliant with his medications. A CT scan is performed, which shows no acute hemorrhage. An MRI of the brain was performed below. Which MRI sequence is most appropriate for detecting early ischemic changes in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T1 weighted",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fluid-attenuated inversion recovery",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "T2 weighted",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diffusion-weighted imaging",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Diffusion-weighted imaging",
+      "question_images": [
+        "https://image.prepladder.com/notes/ZOX2KlADqMSyEFFy8VxN1743940666.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/x6pq9VwPPKWHUpTNXCd81743940733.png",
+        "https://image.prepladder.com/notes/C6qhV56NyZ2X13uAKzzq1743940778.png",
+        "https://image.prepladder.com/notes/vAOgSWJoZ7P9OBrKK10F1743940829.png",
+        "https://image.prepladder.com/notes/ogC8y49wv1O1kSRTEZrT1743940871.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:668px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Principle</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>When the patient is placed in an <span class=\"customMeta\" data-dictid=\"7ce7bcb2f316927771938e0bea7f4d\">MRI</span> machine, the <strong>protons </strong>in the body arrange themselves in a specific fashion, that is, <span class=\"customMeta\" data-dictid=\"635a7ea50e16927771944f08f17aed\">parallel</span> or <span class=\"customMeta\" data-dictid=\"18ee26e04f169277718163ce592dc9\">antiparallel</span> to the external <span class=\"customMeta\" data-dictid=\"c731b7ca621692777191324e5d32e7\">magnetic field</span> <strong>(B\u2080)</strong>.</li>\n<li>When <strong>radiofrequency (FR) waves</strong> are passed through the patient, they induce the MR coil/antenna, which is digitally processed into images.</li>\n<li>The time between each RF pulse is called the <strong>repetition time (TR).</strong></li>\n<li>The time taken between the <span class=\"customMeta\" data-dictid=\"8265e091151692777187f264d73f3b\">excitation</span> of protons to the reading of an echo signal is called<strong> echo time (TE)</strong>.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Contraindications </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Absolute:\n\t\t\t\t<ul>\n<li>Cardiac pacemaker</li>\n<li>Cochlear implants</li>\n<li>Aneurysmal clips</li>\n</ul>\n</li>\n<li>Relative:\n\t\t\t\t<ul>\n<li>Claustrophobia</li>\n<li>Tattoos</li>\n<li>Recent metal implants & prosthetics</li>\n<li>Dental implants</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:697px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T1 weighted <span class=\"customMeta\" data-dictid=\"7ce7bcb2f316927771938e0bea7f4d\">MRI</span> </strong><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T2 weighted <span class=\"customMeta\" data-dictid=\"7ce7bcb2f316927771938e0bea7f4d\">MRI</span> </strong><strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><img alt=\"RA036\" data-author=\"\" data-hash=\"7797\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/x6pq9VwPPKWHUpTNXCd81743940733.png\"/></p>\n<ul>\n<li>T1 is the time taken for the <span class=\"customMeta\" data-dictid=\"7ba18aa5e616927771918a45051a40\">longitudinal</span> <span class=\"customMeta\" data-dictid=\"06f6ec6c331692777191cbe09a6122\">magnetization</span> to return to 63% of its original value.</li>\n</ul>\n<p><strong>Observations: </strong></p>\n<ul>\n<li>Hyperintense:\n\t\t\t\t<ul>\n<li><strong>White matter is more intense than gray matter</strong></li>\n<li>Fat appears bright</li>\n<li>Cerebrospinal fluid is of low-intensity</li>\n</ul>\n</li>\n<li>Hypointense:\n\t\t\t\t<ul>\n<li>Melanin</li>\n<li>Proteinaceous material</li>\n<li>Gadolinium-based contrast agents</li>\n<li>Late <span class=\"customMeta\" data-dictid=\"159e1426d61692777199d9361738d0\">subacute</span> hemorrhage</li>\n</ul>\n</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><img alt=\"RA037\" data-author=\"\" data-hash=\"7798\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/C6qhV56NyZ2X13uAKzzq1743940778.png\"/></p>\n<ul>\n<li>T2 is the time taken for the <span class=\"customMeta\" data-dictid=\"a6260fa86416927772008d36bd7e5f\">transverse</span> <span class=\"customMeta\" data-dictid=\"06f6ec6c331692777191cbe09a6122\">magnetization</span> to <span class=\"customMeta\" data-dictid=\"6a867651ba1692777185bb15ba2f9c\">decay</span> to 37% of its original value.</li>\n</ul>\n<p><strong>Observations:</strong></p>\n<ul>\n<li>Hyperintense:\n\t\t\t\t<ul>\n<li>Cerebrospinal fluid</li>\n<li>Pathologies involving increased tissue water content</li>\n</ul>\n</li>\n<li>Hypointense:\n\t\t\t\t<ul>\n<li><strong>White matter is <span class=\"customMeta\" data-dictid=\"9912c2745b1692777189895dadd770\">hypointense</span> compared to gray matter</strong></li>\n<li>Fat</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:376px\">\n<ul>\n<li>It has a short TR and TE</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:321px\">\n<ul>\n<li>It has a long TR and TE\u00a0</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"text-align:center\"><strong>Newer technologies in MRI</strong></td>\n</tr>\n<tr>\n<td>\n<p><strong>Diffusion-Weighted <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">Imaging</span> (DWI)</strong></p>\n<p><img alt=\"RA038\" data-author=\"\" data-hash=\"7799\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"338\" src=\"https://image.prepladder.com/notes/vAOgSWJoZ7P9OBrKK10F1743940829.png\" width=\"300\"/></p>\n</td>\n<td>\n<ul>\n<li>Any <span class=\"customMeta\" data-dictid=\"54e0888a6616927771945a99208287\">pathology</span> that affects the <span class=\"customMeta\" data-dictid=\"aff8304142169277718661b3b8980a\">dispersion</span> of water is detected by this method.</li>\n<li>The shift of <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> fluid into the <span class=\"customMeta\" data-dictid=\"a621be29da16927771901bc91014d1\">intracellular</span> space causes restricted <strong>Brownian motion </strong>and gets detected as restricted <span class=\"customMeta\" data-dictid=\"9c760dcb641692777186f4cda5dc95\">diffusion</span> in the DWI.</li>\n<li>The skull is not visualized in this method.</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>Applications: </strong></p>\n<ul>\n<li>Acute brain infarction:\n\t\t\t\t<ul>\n<li>The failure of the sodium-potassium <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> pump leads to cytotoxic edema.</li>\n<li>Detected within <strong>minutes of onset</strong>.</li>\n</ul>\n</li>\n<li>Ischemia is seen as a bright lesion.</li>\n<li>Regions of active demyelination.</li>\n<li>Infections like cerebral abscess.</li>\n<li>Cellular tumors like <span class=\"customMeta\" data-dictid=\"c9b2c1943e1692777188917d65bd7e\">glioblastoma</span> and lymphoma.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Fluid-Attenuated <span class=\"customMeta\" data-dictid=\"94fdb58dbf16927771904508108f50\">Inversion</span> Recovery (FLAIR) </strong><strong>(Option B)</strong></p>\n<p><img alt=\"RA039\" data-author=\"\" data-hash=\"7800\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"377\" src=\"https://image.prepladder.com/notes/ogC8y49wv1O1kSRTEZrT1743940871.png\" width=\"300\"/></p>\n</td>\n<td>\n<ul>\n<li>This is useful in identifying:\n\t\t\t\t<ul>\n<li>Demyelinating plaques</li>\n<li>Edema</li>\n<li>Infarcts after 6 hours</li>\n<li>Differentiation of <span class=\"customMeta\" data-dictid=\"dd3534c97c16927771823c0d04f685\">arachnoid</span> <span class=\"customMeta\" data-dictid=\"1405ad7b46169277718580acad7562\">cyst</span> from other complex cysts</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Hyperintensity may be seen in cerebral or cerebellar <span class=\"customMeta\" data-dictid=\"666497f9c41692777199edd6cd1884\">sulci</span> due to:\n\t\t\t\t<ul>\n<li>Blood product in <span class=\"customMeta\" data-dictid=\"0a5d82eeef169277719934b86fb07b\">subarachnoid</span> hemorrhage</li>\n<li>Pus in meningitis</li>\n<li>Leptomeningeal spread of tumor</li>\n<li>Artefact due to oxygen administration during the scanning.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5f285fe8"
+    },
+    {
+      "text": "A 35-year-old male presents after a road traffic accident. He experienced a brief loss of consciousness, followed by a lucid interval. On examination, he has a Glasgow Coma Scale score of 13 and exhibits signs of a head injury. A CT scan of the head was performed, and the image revealed the following findings. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subdural hematoma (SDH)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Epidural hematoma (EDH)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Subarachnoid hemorrhage (SAH)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cerebral contusion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Epidural hematoma (EDH)",
+      "question_images": [
+        "https://image.prepladder.com/notes/rYxgpyGzLTFgvaTujNXi1743943000.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/4Wip1p7oSSGJlXdEhXc81743943055.png",
+        "https://image.prepladder.com/notes/8pL4D4VlT5kGxLua9eQU1743943113.png",
+        "https://image.prepladder.com/notes/a3KzpbpXIUTJuCcf9cTT1743943151.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:722px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Extradural <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">Hemorrhage</span> (EDH)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subdural <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">Hemorrhage</span> (SDH) </strong><strong>(Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type of Hemorrhage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Arterial Hemorrhage</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Venous Hemorrhage</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Shape</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Biconvex or lentiform</p>\n<p><img alt=\"RA061\" data-author=\"\" data-hash=\"7821\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/8pL4D4VlT5kGxLua9eQU1743943113.png\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Crescent or sickle-shaped</p>\n<p><img alt=\"RA062\" data-author=\"\" data-hash=\"7822\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/a3KzpbpXIUTJuCcf9cTT1743943151.png\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Limited by sutures; can cross the midline</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>Follows the brain surface; crosses sutures, does not cross midline</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Rupture of the middle meningeal <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> (MMA)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>Rupture of <span class=\"customMeta\" data-dictid=\"721937292f1692777185048f04ce29\">cortical</span> <span class=\"customMeta\" data-dictid=\"ec4db08de51692777183e82739c83d\">bridging</span> veins</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Onset of Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Often presents with a <span class=\"customMeta\" data-dictid=\"10b50278251692777191a626ee1604\">lucid</span> interval</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>Symptoms may develop gradually, often without a <span class=\"customMeta\" data-dictid=\"10b50278251692777191a626ee1604\">lucid</span> interval</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Force Required</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Requires more force; associated with adjacent bony rupture</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>Can occur with trivial trauma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Midline Crossing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Can cross the midline</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>Does not cross the midline</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Lucid Interval</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Yes; patient appears normal before deterioration</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>No; deterioration may be more gradual</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:156px\">\n<p><strong>Clinical Signs</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:275px\">\n<p>Symptoms may include headache, loss of consciousness, and <span class=\"customMeta\" data-dictid=\"da6db7b0e21692777203c4075458d3\">focal</span> neurological deficits</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:291px\">\n<p>Symptoms may include headache, confusion, and potential <span class=\"customMeta\" data-dictid=\"da6db7b0e21692777203c4075458d3\">focal</span> deficits</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/d1vpAHsJ7e6LQ2lpzqXu1746429390.mp3",
+      "video": "",
+      "uid": "03fe5f00"
+    },
+    {
+      "text": "A 45-year-old male with a significant history of smoking presents with a sudden onset of a severe headache. He reports accompanying symptoms of palpitations, photophobia, and neck stiffness. On examination, signs of meningeal irritation are noted. The patient also has hyperflexible joints and mentions that his symptoms began after experiencing a minor jerk while in the car. A CT scan reveals specific findings given below. What is the most likely cause of this patient's symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meningitis secondary to a bacterial infection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cervical spine injury leading to meningeal irritation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Migraine with aura exacerbated by the minor jerk",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rupture of a cerebral aneurysm",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Rupture of a cerebral aneurysm",
+      "question_images": [
+        "https://image.prepladder.com/notes/qDInvXJo7QfEpjgyeOVF1743943264.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/qDInvXJo7QfEpjgyeOVF1743943264.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:690px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Presence of blood in the <span class=\"customMeta\" data-dictid=\"0a5d82eeef169277719934b86fb07b\">subarachnoid</span> space, typically from a ruptured cerebral <span class=\"customMeta\" data-dictid=\"f2c92eaffe16927771819978aa5666\">aneurysm</span> or trauma.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Sudden, severe headache (often described as a \"thunderclap headache\")</li>\n<li>Worst headache ever experienced by the patient.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Etiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Traumatic: </strong>Head injuries causing <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> in the <span class=\"customMeta\" data-dictid=\"0a5d82eeef169277719934b86fb07b\">subarachnoid</span> space.</li>\n<li><strong>Non-Traumatic: </strong>Most commonly due to <span class=\"customMeta\" data-dictid=\"e73553a3a5169277719787fd5f4680\">rupture</span> of a cerebral aneurysm.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Initial Imaging</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Non-Contrast CT (NCCT):</strong> First-line <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> for suspected SAH, effective in the <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> setting.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Radiological Findings (NCCT)</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Appearance of Blood:</strong> <span class=\"customMeta\" data-dictid=\"1dfb6906b91692777189e0acce4f86\">Hyperdense</span> (white) compared to surrounding <span class=\"customMeta\" data-dictid=\"99a9bf133e1692777184ec4b1011fe\">cerebrospinal</span> fluid (CSF).</p>\n\t\t\t\u00a0\n\n\t\t\t<p>Common Sites for Blood Accumulation:</p>\n<ul>\n<li>Interhemispheric Fissure</li>\n<li>Sylvian Fissure</li>\n<li>Suprasellar Cistern</li>\n<li>Perimesencephalic Cistern</li>\n</ul>\n<p><br/>\n\t\t\tDistinctive Shape: Blood may take on a pentagon or star shape, <span class=\"customMeta\" data-dictid=\"047f8930dd1692777197fed61e213c\">referred</span> to as the \"<strong>Star of Death.\"</strong></p>\n<img alt=\"RA063\" data-author=\"\" data-hash=\"7823\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/qDInvXJo7QfEpjgyeOVF1743943264.png\"/></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:163px\">\n<p><strong>Additional Investigations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:527px\">\n<p><strong>CT Angiography:</strong> Visualizes potential aneurysms or <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> malformations; useful for <span class=\"customMeta\" data-dictid=\"e73553a3a5169277719787fd5f4680\">rupture</span> suspicion.</p>\n<p><strong>Digital <span class=\"customMeta\" data-dictid=\"408be3f8d81692777199619278702d\">Subtraction</span> <span class=\"customMeta\" data-dictid=\"c67cc1bcd3169277718150b3c9d6ab\">Angiography</span> (DSA):</strong> Gold standard for diagnosing cerebral aneurysms; provides detailed <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> images and <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> options (e.g., <span class=\"customMeta\" data-dictid=\"0dc32a9edf1692777187a82b199252\">endovascular</span> coiling).</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "66f17478"
+    },
+    {
+      "text": "A 65-year-old male patient with a history of hypertension presents with a sudden onset of severe headache, vomiting, and right-sided weakness. Additionally, he exhibits altered sensorimotor integration and difficulty with voluntary movement control. His blood pressure is recorded at 190/110 mmHg. A CT scan of the head is performed with findings given below Based on the findings, Which artery is most likely involved in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior choroidal artery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lenticulostriate artery",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Posterior cerebral artery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Middle meningeal artery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lenticulostriate artery",
+      "question_images": [
+        "https://image.prepladder.com/notes/J6xUfAes0XFfiz8DCND41743953260.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/J6xUfAes0XFfiz8DCND41743953260.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5a8440cf"
+    },
+    {
+      "text": "A 35-year-old male presents with a 2-week history of worsening headache, fever, and progressive neurological deficits, including weakness in his right arm. He has no significant past medical history. On examination, he exhibits right-sided hemiparesis and mild confusion. Blood tests show mild leukocytosis. A CT image is given below. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metastatic disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Brain abscess",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Neurocysticercosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lymphoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Brain abscess",
+      "question_images": [
+        "https://image.prepladder.com/notes/j1WkE7hNR3JH7RRYOnjD1744183459.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/2HXHcqzpk5tRpF73Uwue1744183460.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "61c9a5a5"
+    },
+    {
+      "text": "A 45-year-old woman presents with progressive SNHL and non-pulsatile tinnitus in the right ear. MRI reveals a solid, enhancing mass in the internal auditory canal extending into the cerebellopontine angle, creating an \"ice cream cone\" appearance. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glioblastoma Multiforme",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oligodendroglioma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vestibular Schwannoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Meningioma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Vestibular Schwannoma",
+      "question_images": [
+        "https://image.prepladder.com/notes/dfW3ZTHwVc3HCpE7sz0b1744190074.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/vPUOLBu4EffLN3rcHkuG1744190074.png",
+        "https://image.prepladder.com/notes/GSRjpwbcEnZoprgIE74C1744190074.png",
+        "https://image.prepladder.com/notes/bxHgsWDrwCE1Izsfanm91744190075.png",
+        "https://image.prepladder.com/notes/udWaTvLXquyYloIRAqnK1744190076.png",
+        "https://image.prepladder.com/notes/rWGUY34HdH4aVDTlVejD1744190076.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:70%\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3 style=\"text-align:center\"><strong>Vestibular <span class=\"customMeta\" data-dictid=\"491e5b2e851692777198ba329e42ce\">Schwannoma</span> </strong><strong>(Option C)</strong></h3>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RA476\" data-author=\"\" data-hash=\"8326\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/vPUOLBu4EffLN3rcHkuG1744190074.png\"/></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Schwannomas are <strong>benign tumors</strong> that originate from Schwann cells forming the nerve sheath.</li>\n<li>Commonly arise from superior & <span class=\"customMeta\" data-dictid=\"49c4ef5b9d1692777190c0277f8344\">inferior</span> <span class=\"customMeta\" data-dictid=\"e8b3c606051692777201faf2a1a357\">vestibular</span> divisions of the 8th <span class=\"customMeta\" data-dictid=\"6b7b5460171692777185e6e2475f8c\">cranial</span> nerve</li>\n<li>Usually solitary,<strong> B/L <span class=\"customMeta\" data-dictid=\"54d290087e1692777180c6cc682930\">acoustic</span> tumors</strong> are seen in <strong>neurofibromatosis type 2</strong> <strong>(NF2)</strong>.</li>\n<li>presents with <strong>sensorineural hearing loss</strong> & <strong>nonpulsatile tinnitus</strong>.</li>\n<li>On contrast-enhanced scans, it appears as solid,<strong> <span class=\"customMeta\" data-dictid=\"bfa856c77716927771939978c5afd0\">nodular</span> enhancing masses </strong>in the internal <span class=\"customMeta\" data-dictid=\"f17057f75016927771829e70074368\">auditory</span> <span class=\"customMeta\" data-dictid=\"371930068716927771839cba840631\">canal</span> extending into the <strong>cerebellopontine angle cistern</strong>.</li>\n<li>Extracanalicular extension can produce an <strong>\"ice cream cone\"</strong> appearance.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Meningioma </strong><strong>(Option D)</strong></td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"RA477\" data-author=\"\" data-hash=\"8327\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"404\" src=\"https://image.prepladder.com/notes/GSRjpwbcEnZoprgIE74C1744190074.png\" width=\"400\"/></p>\n<p style=\"text-align:center\"><img alt=\"RA478\" data-author=\"\" data-hash=\"8328\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"440\" src=\"https://image.prepladder.com/notes/bxHgsWDrwCE1Izsfanm91744190075.png\" width=\"400\"/></p>\n<ul>\n<li>Meningiomas arise from <strong>arachnoidal cap cells</strong> in the brain and <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord coverings.</li>\n<li>They are the <strong>most common <span class=\"customMeta\" data-dictid=\"1bbae82f1f16927771824f797639fa\">benign</span> <span class=\"customMeta\" data-dictid=\"cd42e0ddad1692777190d18c595ec5\">intracranial</span> tumors</strong>.</li>\n<li>Most common in females</li>\n<li>Mostly <span class=\"customMeta\" data-dictid=\"a325d0c14e16927771992fe8a96758\">sporadic</span> but can be <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to NF-2 or prior <span class=\"customMeta\" data-dictid=\"6b7b5460171692777185e6e2475f8c\">cranial</span> irradiation.</li>\n<li>Meningiomas are <span class=\"customMeta\" data-dictid=\"bec08dbe0c16927771864d7774d7b0\">dural</span> based<strong> extra-axial </strong>masses that appear <span class=\"customMeta\" data-dictid=\"ad45f1e11716927771901f3d9b18eb\">isointense</span> to <span class=\"customMeta\" data-dictid=\"4baa7caf471692777188e7f07ce90e\">gray matter</span> on both T1 and T2-weighted images.</li>\n<li>They demonstrate intense<strong> <span class=\"customMeta\" data-dictid=\"d9ec45007b1692777189e3b26e44ca\">homogeneous</span> <span class=\"customMeta\" data-dictid=\"4749be0e3f1692777187a4b4100c1d\">enhancement</span> </strong>on post-contrast imaging, accompanied by a <strong>dural tail sign</strong>.</li>\n<li><strong>Characteristic <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> features:</strong></li>\n</ul>\n<ul>\n<li><strong>CSF <span class=\"customMeta\" data-dictid=\"7aa38569251692777184021705e8de\">cleft</span> sign </strong>(thin layer of <span class=\"customMeta\" data-dictid=\"123c47549916927771854892334fb9\">CSF</span> around the mass)</li>\n<li>Cortical buckling</li>\n<li>Widening of the <span class=\"customMeta\" data-dictid=\"0a5d82eeef169277719934b86fb07b\">subarachnoid</span> space with visible pial arteries/veins,</li>\n<li><strong>Hyperostosis</strong> or <span class=\"customMeta\" data-dictid=\"8f88b9c691169277718754ca072062\">erosion</span> of the calvarium.</li>\n<li><strong>Mother in law sign</strong><strong> </strong>(early <span class=\"customMeta\" data-dictid=\"4749be0e3f1692777187a4b4100c1d\">enhancement</span> during the arterial phase and remain opacified long after the <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> phase has passed)</li>\n<li>Calcification</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Glioblastoma Multiforme </strong><strong>(Option A)</strong></td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid; border-width:1px; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"RA479\" data-author=\"\" data-hash=\"8329\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"404\" src=\"https://image.prepladder.com/notes/udWaTvLXquyYloIRAqnK1744190076.png\" width=\"400\"/></p>\n<ul>\n<li><strong>Glioblastomas</strong> are aggressive, poorly differentiated <strong>WHO <span class=\"customMeta\" data-dictid=\"d4ae50897e16927771884b5c46ba7d\">grade</span> 4</strong> astrocytic tumors</li>\n<li>It appears as <span class=\"customMeta\" data-dictid=\"bbe1b94c491692777188fe4f85b1ce\">heterogeneous</span> tumors with thick, <strong>irregular enhancing margins </strong>and<strong> central necrosis</strong>. They may also contain intratumoral vessels and hemorrhage.</li>\n<li>T2 signal abnormalities surrounding the tumor represent a mix of <span class=\"customMeta\" data-dictid=\"c8013ecf46169277720128cab0a7b4\">vasogenic</span> <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> and infiltrating <span class=\"customMeta\" data-dictid=\"c82360aadd16927771936d67fa30a4\">neoplastic</span> cells.</li>\n<li>They can invade the <span class=\"customMeta\" data-dictid=\"7e902103fb16927771857729aade8b\">corpus</span> callosum,<strong> crossing </strong>the <strong>midline </strong>in a<strong> butterfly configuration</strong>.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Oligodendroglioma </strong><strong>(Option B)</strong></td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-color:#000000; border-style:solid; border-width:1px; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"RA480\" data-author=\"\" data-hash=\"8330\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"445\" src=\"https://image.prepladder.com/notes/rWGUY34HdH4aVDTlVejD1744190076.png\" width=\"600\"/></p>\n<ul>\n<li><strong>Oligodendroglioma </strong><strong>(Option B)</strong><strong>Oligodendrogliomas</strong> are <span class=\"customMeta\" data-dictid=\"89275101301692777186567d1912a0\">diffuse</span> infiltrating glial tumors originating from oligodendrocytes and are characterized by <strong>IDH mutations</strong> and<strong> 1p/19q codeletion</strong>.</li>\n<li>These tumors can be either <strong>WHO <span class=\"customMeta\" data-dictid=\"d4ae50897e16927771884b5c46ba7d\">grade</span> 2</strong> (well-differentiated oligodendrogliomas) or <strong>WHO <span class=\"customMeta\" data-dictid=\"d4ae50897e16927771884b5c46ba7d\">grade</span> 3</strong> (anaplastic oligodendrogliomas).</li>\n<li>Typically occurs in the <strong>frontal lobe</strong>.</li>\n<li>They are slow-growing, non-encapsulated, and tend to <span class=\"customMeta\" data-dictid=\"8fd5e2898d16927771900855b98180\">infiltrate</span> the overlying<strong> cortex</strong>.</li>\n<li><strong>CT</strong>: Oligodendrogliomas are <span class=\"customMeta\" data-dictid=\"7f06e594de1692777190bfb4be030b\">isodense</span> to <span class=\"customMeta\" data-dictid=\"11309a56bc1692777189e89a8d3041\">hypodense</span> with<strong> calcification</strong></li>\n<li><strong>MRI</strong>: Tumors are <span class=\"customMeta\" data-dictid=\"9912c2745b1692777189895dadd770\">hypointense</span> on T1 and <span class=\"customMeta\" data-dictid=\"6873f1dcce16927771890fcdc546b0\">hyperintense</span> on T2. They generally do not enhance with contrast</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "fbc80db9"
+    },
+    {
+      "text": "A 10-year-old boy presents with progressive headaches, vision changes, and growth delay. Neurological examination reveals bitemporal hemianopia. MRI of the brain shows a large, lobulated, multiloculated cystic lesion with a small enhancing solid component and calcifications in the suprasellar region. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pituitary adenoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Craniopharyngioma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Melanoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Astrocytoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Craniopharyngioma",
+      "question_images": [
+        "https://image.prepladder.com/notes/VTXmyG6QEZPM8r175MD21744194415.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/JzL4SNuNHc10y9iD3Kko1744194758.png",
+        "https://image.prepladder.com/notes/64or5umFZ90iMtJRutYP1744194621.png",
+        "https://image.prepladder.com/notes/18m0rQJTtHaJbPnSROia1744194621.png",
+        "https://image.prepladder.com/notes/SZ4FwgJ22VMURhDfe7zi1744194622.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3 style=\"text-align:center\"><strong>Craniopharyngioma </strong><strong>(Option B)</strong></h3>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RA1042\" data-author=\"\" data-hash=\"8342\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/JzL4SNuNHc10y9iD3Kko1744194758.png\"/>\n<ul>\n<li>Craniopharyngiomas are <strong>suprasellar tumors</strong> that develop from remnants of the <span class=\"customMeta\" data-dictid=\"033ae9cbaf16927771858933478ef9\">craniopharyngeal</span> <span class=\"customMeta\" data-dictid=\"6198b5f22b16927771867e4ef8108f\">duct</span> or <strong>Rathke\u2019s pouch</strong>.</li>\n<li>It <span class=\"customMeta\" data-dictid=\"c6486470671692777184e25019e1f0\">compress</span> <strong>Optic chaism </strong>leads to <strong>bitemporal hemianopia.</strong></li>\n<li><strong>Adamantinomatous subtype</strong></li>\n</ul>\n<ul>\n<li>It<strong> </strong>is more common</li>\n<li>Seen in<strong> children</strong></li>\n<li>Typically appear as <strong>large, lobulated, multiloculated <span class=\"customMeta\" data-dictid=\"38c41e122116927771859b63deb0ed\">cystic</span> lesions</strong> with a small enhancing solid component and<strong> calcifications</strong>.</li>\n</ul>\n<ul>\n<li><strong>Papillary subtype </strong></li>\n</ul>\n<ul>\n<li>Seen in Adults</li>\n<li>Primarily solid lesion</li>\n<li>Rarely exhibit calcifications</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3 style=\"text-align:center\"><strong>Pituitary <span class=\"customMeta\" data-dictid=\"c3c9726266169277718021f4f0fa16\">Adenoma</span> </strong><strong>(Option A)</strong></h3>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RA1018\" data-author=\"\" data-hash=\"8339\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/64or5umFZ90iMtJRutYP1744194621.png\"/><img alt=\"RA1019\" data-author=\"\" data-hash=\"8340\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/18m0rQJTtHaJbPnSROia1744194621.png\"/></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pituitary Microadenomas </strong></p>\n<ul>\n<li><strong>Less than 10 mm</strong> in size.</li>\n<li>Microadenomas appear <span class=\"customMeta\" data-dictid=\"ad45f1e11716927771901f3d9b18eb\">isointense</span> to the <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> on T1-weighted images and slightly <span class=\"customMeta\" data-dictid=\"6873f1dcce16927771890fcdc546b0\">hyperintense</span> on T2-weighted images.</li>\n<li>In <strong>dynamic contrast-enhanced MRI</strong>, they <strong>enhance slowly compared</strong> to the surrounding <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> gland.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pituitary Macroadenomas</strong></p>\n<ul>\n<li><strong>Larger than 10 mm</strong> in size.</li>\n<li>Most of the macroadenomas are<strong> nonfunctioning.</strong></li>\n<li>They may cause <span class=\"customMeta\" data-dictid=\"d8216cf7571692777187baa94b8612\">endocrine</span> disturbances or <span class=\"customMeta\" data-dictid=\"c6486470671692777184e25019e1f0\">compress</span> the <span class=\"customMeta\" data-dictid=\"1b9a354cdb1692777194802683234d\">optic</span> chiasm, leading to <span class=\"customMeta\" data-dictid=\"3b17da47ce16927771831d5dde3af3\">bitemporal</span> hemianopia.</li>\n<li>Typically appear as <strong>sellar-suprasellar masses</strong> with a <strong>\u201csnowman\u201d </strong>or <strong>\u201cfigure of eight\u201d </strong>appearance due to a <strong>waist at the <span class=\"customMeta\" data-dictid=\"1c1845d29e16927771860d473fc57c\">diaphragma</span> sellae</strong>.</li>\n<li>The <span class=\"customMeta\" data-dictid=\"02db2e09e91692777198e14771cb3b\">sella</span> is usually enlarged.</li>\n<li>These tumors can invade the <span class=\"customMeta\" data-dictid=\"34f284128d1692777183e1cf6e17d7\">cavernous</span> sinuses.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3><strong>Melanoma </strong><strong>(Option C)</strong></h3>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RA1020\" data-author=\"\" data-hash=\"8341\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/SZ4FwgJ22VMURhDfe7zi1744194622.png\"/>\n<ul>\n<li><strong>T1 Imaging</strong>: Typically <strong>hyperintense</strong> due to <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> or<strong> melanin</strong>.</li>\n<li><strong>T2 Imaging</strong>: Typically<strong> hypointense</strong>.</li>\n<li>T1 C+ Imaging: Shows <span class=\"customMeta\" data-dictid=\"4749be0e3f1692777187a4b4100c1d\">enhancement</span> usually in a <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> rim pattern or a diffusely <span class=\"customMeta\" data-dictid=\"bbe1b94c491692777188fe4f85b1ce\">heterogeneous</span> pattern.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8a42ec71"
+    }
+  ]
+}

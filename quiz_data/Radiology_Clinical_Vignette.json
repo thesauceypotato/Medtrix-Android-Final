@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "id": "test12",
+    "title": "Radiology_Clinical_Vignette",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 76 year old elderly man presents\u201dwith confusion. He is on antihypertensive medication, and on aspirin after a recent MI. He recalls a trivial fall from chair 3 weeks ago. Other neurological examination was normal. What is the likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epidural hemorrhage",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Subarachnoid hemorrhage",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Subdural hemorrhage",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Normal",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Subdural hemorrhage",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(1035).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "280b2d31",
+      "audio": ""
+    },
+    {
+      "text": "The following MRI image shows a malignancy. What is the visual field defect observed in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete blindness",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Homonymous hemianopia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Binasal hemianopia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bitemporal hemianopia",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Bitemporal hemianopia",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(897).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4a13b82e",
+      "audio": ""
+    },
+    {
+      "text": "Identify the diagnosis from the given CT scan.",
+      "options": [
+        {
+          "label": "A",
+          "text": "PUJ obstruction",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Renal cyst",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Renal tumour",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multicystic kidney",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. PUJ obstruction",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/3(782).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4d241b44",
+      "audio": ""
+    },
+    {
+      "text": "A 56-year-old woman presented with chronic lower back pain. MRI of the lower back shows the following findings. Identify the diagnosis.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Renal osteodystrophy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Spinal Tuberculosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Spinal metastasis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spondylolisthesis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Spondylolisthesis",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4(716).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "11a23c8d",
+      "audio": ""
+    },
+    {
+      "text": "All lung carcinomas for diagnosis requires CECT thorax but MRI is useful in which of the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small cell lung carcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adenocarcinoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Carcinoid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pancoast tumor",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pancoast tumor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "af481513",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old man presented with personality changes, abnormal movements, jaundice and pruritus. MRI of the brain was taken and is given below. What is the probable diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wilson\u2019s disease",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Huntington\u2019s disease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hemochromatosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Wilson\u2019s disease",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/5(676).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ad31e21c",
+      "audio": ""
+    },
+    {
+      "text": "An USG in a 48-year-old woman showed the wall-echo-shadow sign. What is the most probable diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute cholecystitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chronic cholecystitis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "GB adenomyomatosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "GB cancer",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Chronic cholecystitis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fd993b92",
+      "audio": ""
+    },
+    {
+      "text": "The chest x-ray of a child who presented with progressive breathlessness is given below. What is the likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetralogy of Fallot",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Coarctation of aorta",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Transposition of great arteries",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ebstein\u2019s anomaly",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Tetralogy of Fallot",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6(563).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4f5f03cc",
+      "audio": ""
+    },
+    {
+      "text": "A 69-year-old man has been experiencing worsening headaches and new-onset seizures. MRI with contrast was done and is given below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glioblastoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ependymoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Meningioma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acoustic schwannoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Glioblastoma",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/7(499).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7cf41af1",
+      "audio": ""
+    },
+    {
+      "text": "A patient presented with breathlessness and pleuritic chest pain. D-dimer levels were elevated and pulmonary embolism was suspected. What is the next best investigation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MRI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "V/Q scan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Plain CT",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CT angiography",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CT angiography",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9bd3dbd4",
+      "audio": ""
+    }
+  ]
+}

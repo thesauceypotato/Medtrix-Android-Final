@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "id": "test30",
+    "title": "Membrane Potentials",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "The extracellular concentration of a positive ion (with valency1) is 10 mmol/L and its intracellular concentration is 10 mmol/L, the potential across the membrane using the Nernst equation is (mV):",
+      "options": [
+        {
+          "label": "A",
+          "text": "-60",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "-10",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "60",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "10",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 60",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>60 The potential across the membrane using the Nernst equation is +60mV. EMF (millivolts) = 1/z 61x log Concentration on one side/Concentration on another side. Where Z is valency . Deriving the numerical value: EMF=61*log 100/10 =61*log10. =61*1 (since log 10 =1) =61mV Deciding the charge: The higher potassium concentration in the extracellular fluid means the potassium ions diffuse into the cell. To prevent this, a positive potential is required inside the cell. Hence, the potential across the membrane using the Nernst equation is +60mV .</p>\n<p><strong>Highyeild:</strong></p><p>The Nernst equation is used to calculate the value of the equilibrium potential of a particular cell for a particular ion:- where Vm = equilibrium potential for any ion [V]; z = valence of the ion, [C]0= concentration of ion X outside of the cell [mol]; [C]i = concentration of ion X inside the cell [mol].</p>\n<p><strong>Extraedge:</strong></p><p>The table below summarizes the main direction of movement for various ions and the overall impact this has on the resting membrane potential of a neuron:- lon Overall direction of movement Overall impact on resting potential Potassium Extracellular Makes it more negative Sodium Intracellular Makes it more positive Chloride Intracellular Makes it more negative (small impact) Organic anions Cannot cross the membrane Makes it more negative (small impact) Stimulus starts the rapid change in voltage or action potential. In patch-clamp mode, sufficient current must be administered to the cell in order to raise the voltage above the threshold voltage to start membrane depolarization. Depolarization is caused by a rapid rise in membrane potential opening of sodium channels in the cellular membrane, resulting in a large influx of sodium ions. Membrane Repolarization results from rapid sodium channel inactivation as well as a large efflux of potassium ions resulting from activated potassium channels. Hyperpolarization is a lowered membrane potential caused by the efflux of potassium ions and closing of the potassium channels. Resting state is when membrane potential returns to the resting voltage that occurred before the stimulus occurred.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "79e34f0d",
+      "audio": ""
+    },
+    {
+      "text": "A 35-year-old woman collapsed due to an anxiety attack. The Emergency Medical Team who arrives on the scene notes that she is hyperventilating and suspects that she is suffering from tetany, a continuous contraction of skeletal muscle fibers caused by an increase in the excitability of nerves and muscle membranes. The increased membrane excitability is caused by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased release of inhibitory neurotransmitters from nerve terminals",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Depolarization of the nerve and muscle membranes",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous release of calcium from the sarcoplasmic reticulum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Activation of sodium channels at more negative membrane potentials",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Depolarization of the nerve and muscle membranes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Depolarization of the nerve and muscle membranes Membrane excitability is related to the ease with which depolarization opens channels.</p>\n<p><strong>Highyeild:</strong></p><p>The opening of the Na+ channel in response to depolarization is, in part, related to the extracellular Ca2+ concentration; the lower the extracellular Ca2+ concentration, the easier it is for Na+ channels to open when the membrane depolarizes. Hyperventilation (lowering arterial tension) decreases extracellular Ca2+ concentration by increasing arterial pH. When pH rises, H+ is released from plasma proteins in exchange for Ca2+, and ionized Ca2+ concentration decreases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "61ca24fe",
+      "audio": ""
+    },
+    {
+      "text": "A 32-year-old woman undergoing surgery for appendicitis develops malignant hyperthermia following halothane anesthesia. The life-threatening increase in metabolic rate and body temperature is attributed to a mutation of the ryanodine receptor in skeletal muscle, resulting in which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excess calcium is released from the sarcoplasmic reticulum (SR) during muscle contraction.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The rapid repetitive firing of the presynaptic terminals of motor neurons.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The inability of skeletal muscle cells to repolarize.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "An increase in the refractory period of the motor neurons.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Excess calcium is released from the sarcoplasmic reticulum (SR) during muscle contraction.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Excess calcium is released from the sarcoplasmic reticulum (SR) during muscle contraction. Malignant Hyperthermia is associated with a genetic defect in the RyR1Q calcium channel of the skeletal muscle sarcoplasmic reticulum that permits uncontrolled calcium release from the sarcoplasmic reticulum when precipitating drugs are given.</p>\n<p><strong>Highyeild:</strong></p><p>The ryanodine receptor or calcium release channel on the sarcoplasmic reticulum (SR) is normally opened when skeletal muscle is activated. The flow of calcium through the open ryanodine receptor binds to troponin and initiates muscle contraction. The metabolic activity accompanying muscle contraction can warm the body. If a mutation in the ryanodine receptor causes the uncontrolled release of calcium from the SR, the body temperature can rise to levels that cause brain damage.</p>\n<p><strong>Extraedge:</strong></p><p>Serotonin Syndrome: Serotonin syndrome occurs when an overdose of a single drug, or concurrent use of several drugs, results in excess serotonergic activity in the central nervous system. SHT2 receptors are thought to be involved. Dantrolene is of no value. Neuroleptic malignant syndrome: is idiosyncratic and appears to be associated with hypersensitivity to the parkinsonism-inducing effects of D2-blocking antipsychotics in certain individuals.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "517cc8a2",
+      "audio": ""
+    },
+    {
+      "text": "At which point on the action potential shown in the diagram below is the membrane closest to the Na+ equilibrium potential?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Point A",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Point B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Point C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Point D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Point A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Point A The Na+ equilibrium potential is approximately +60 mV and is based on the ratio of the intracellular and extracellular Na+ concentrations. During an action potential, the peak of the action potential (point A) is close, but not equal, to the Na+ equilibrium potential.</p>\n<p><strong>Highyeild:</strong></p><p>The membrane potential doesn\u2019t reach the Na+ equilibrium potential because the Na+ channels start to inactivate and the K+ channels begin to activate during the upstroke of the action potential. The increase in the Na+ influx leads to further A positive feedback cycle rapidly moves the membrane potential toward its peak value, which is close but not equal to the Na+ equilibrium potential.</p>\n<p><strong>Extraedge:</strong></p><p>What is an action potential? An action potential is a rapid rise and subsequent fall in voltage or membrane potential across a cellular membrane with a characteristic pattern. The stimulus starts the rapid change in voltage or action potential. In patch-clamp mode, sufficient current must be administered to the cell to raise the voltage above the threshold voltage to start membrane depolarization. Depolarization is caused by a rapid rise in membrane potential opening of sodium channels in the cellular membrane, resulting in a large influx of sodium ions. Membrane Repolarization results from rapid sodium channel inactivation as well as a large efflux of potassium ions resulting from activated potassium channels. Hyperpolarization is a lowered membrane potential caused by the efflux of potassium ions and the closing of the potassium channels. The resting state is when membrane potential returns to the resting voltage that occurred before the stimulus occurred.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dd36951b",
+      "audio": ""
+    },
+    {
+      "text": "Suppose a resting myocardial cell membrane is altered to be relatively more permeable to sodium than to potassium, then the resting membrane potential would be nearest to which of the following values?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-96 mV",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "-90 mV",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "+60 mV",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "+134 mV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. +60 mV",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>+60 mV If a cell membrane is relatively permeable to one ion and impermeable to other ions , then the resting membrane potential of the cell will be near the equilibrium potential for the ion that it is more permeable. In this case, the membrane is most permeable to sodium, so the resting membrane potential will be closest to the sodium equilibrium potential, which is +60 mV. So, the correct answer is C and the rest of the other options are false.</p>\n<p><strong>Highyeild:</strong></p><p>The resting membrane potential of a neuron is usually -65 millivolts. The interior of the cell has a more negative charge as compared to the exterior of the cell. But when a stimulus arrives, the sodium channels of the neuron \u201copen\u201d to allow Na+ ions to move passively into the cell. This will make the neuron becomes less negative, i.e., -55 mV, which could further go beyond the threshold until it becomes positive (e.g., 30 mV).</p>\n<p><strong>Extraedge:</strong></p><p>Summary of resting potential values in different types of cells Cell Kinds Values Chondrocytes -8mV Skeletal muscle cells -95 mV Erythrocytes -8.4 mV Astroglia -80 to -90 mV Cochlea -15 to -40mV Neurons -60 to -70 mV Photoreceptors -40 mV Involuntary muscles -60 mV Smooth muscles of the aorta -45mV</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a72fd345",
+      "audio": ""
+    },
+    {
+      "text": "The true statement regarding the action potential in a nerve is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depolarization is a result of the outward movement of potassium ions.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The action potential occurs due to the sudden opening of Na+ channels.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The action potential occurs when the potential reaches a threshold at -75 mV.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The resting membrane potential is -95 mV.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The action potential occurs due to the sudden opening of Na+ channels.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>The action potential occurs due to the sudden opening of Na+ channels. The action potential occurs due to the sudden opening of Na+ channels- at the onset of the action potential, the sodium channels instantaneously become activated and allow up to a 5000-fold increase in sodium conductance.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option: A. The depolarization is a result of the outward movement of potassium ions-Depolarization Stage. At this time, the membrane suddenly becomes permeable to sodium ions, allowing tremendous numbers of positively charged sodium ions to diffuse to the interior of the axon. Option: C. The action potential occurs when the potential reaches a threshold at -65 mV. Option: D. The resting membrane potential is -90 mV. In neurons, the resting membrane potential is usually about -70 mV.</p>\n<p><strong>Extraedge:</strong></p><p>What is an action potential? An action potential is a rapid rise and subsequent fall in voltage or membrane potential across a cellular membrane with a characteristic pattern. The stimulus starts the rapid change in voltage or action potential. In patch-clamp mode, sufficient current must be administered to the cell to raise the voltage above the threshold voltage to start membrane depolarization. Depolarization is caused by a rapid rise in membrane potential opening of sodium channels in the cellular membrane, resulting in a large influx of sodium ions. Membrane Repolarization results from rapid sodium channel inactivation as well as a large efflux of potassium ions resulting from activated potassium channels. Hyperpolarization is a lowered membrane potential caused by the efflux of potassium ions and the closing of the potassium channels. The resting state is when membrane potential returns to the resting voltage that occurred before the stimulus occurred.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "97304a2c",
+      "audio": ""
+    },
+    {
+      "text": "Gibbs-Donnan equilibrium explains the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Effect of one non-diffusible ion on the distribution of another non-diffusible ion.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Effect of one permeant ion on the distribution of another permeant ion.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Effect of a permeant ion on the distribution of non-diffusible ions.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Effect of a non-diffusible ion on the distribution of permeant ions.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Effect of a non-diffusible ion on the distribution of permeant ions.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Effect of a non-diffusible ion on the distribution of permeant ions. Gibbs Donnan equilibrium explains the effect of non-diffusible ions on the distribution of permeant ions.</p>\n<p><strong>Highyeild:</strong></p><p>Donnan equilibrium across a cell membrane (schematic):- The Donnan effect is tactic pressure attributable to cations (Na+ and K+) attached to dissolved plasma proteins. In the simple model system above, Cl- will diffuse from 1 \u21922, and Na+ will follow to maintain electroneutrality. In compartment 2 then, Cl- will be present and [Na+]equil. > [Na]initial at Donnan equilibrium. Because of the asymmetrical distribution of the permeant ions, there must be a Vm that simultaneously satisfies their equilibrium distributions.</p>\n<p><strong>Extraedge:</strong></p><p>Gibbs-Donnan equilibrium explains the effect of a permeant ion on the distribution of non-diffusible ions. The equilibrium occurs when a semi-permeable membrane separates two solutions containing non-diffusible ions and permeant ions at different concentrations. The non-diffusible ions cannot cross the membrane, while the permeant ions can.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cf6e2474",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following would cause an immediate reduction in the amount of potassium leaking out of a cell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the permeability of the membrane to potassium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hyperpolarizing the membrane potential",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Decreasing the extracellular potassium concentration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Reducing the activity of the sodium-potassium pump",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hyperpolarizing the membrane potential",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hyperpolarizing the membrane potential Hyperpolarizing the membrane makes the inside of the cell more negative and therefore, makes it more difficult for potassium to flow out of the cell.</p>\n<p><strong>Highyeild:</strong></p><p>The amount of potassium leaking out of the cell depends on its membrane potential, its concentration gradient, and its membrane conductance. According to the Nernst equation, the electrical gradient for K+ is inward and the concentration gradient is outward. Decreasing the extracellular potassium concentration would increase the flow of potassium out of the cell, as would increasing the permeability of the membrane to potassium. Altering the activity of the sodium-potassium pump or the extracellular sodium concentration has no immediate effect on the flow of potassium across the membrane. Decreasing the activity of the sodium-potassium pump will ultimately depolarize the membrane, however, resulting in an increased flow of potassium out of the cell.</p>\n<p><strong>Extraedge:</strong></p><p>Hyperpolarization is when the membrane potential becomes more negative at a particular spot on the neuron's membrane. The slow K+ gates remain open longer than is needed to restore the resting state. This excessive efflux causes hyperpolarization of the membrane.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "850f6989",
+      "audio": ""
+    },
+    {
+      "text": "End plate potential follows which law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All or none law",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Depolarisation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperpolarization",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Propagation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. All or none law",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>All or none law The events occurring during the transmission of impulses from the motor nerve to the muscle are somewhat similar to those occurring at neuron-to-neuron synapses . The End Plate Potential (EPP) follows the All or None Law.</p>\n<p><strong>Highyeild:</strong></p><p>The impulse arriving at the end of the motor neuron increases the permeability of its endings to Ca2+. Ca2+ enters the endings and triggers a marked increase in exocytosis of the acetylcholine-containing vesicles. The acetylcholine diffuses to the muscle-type nicotinic acetylcholine receptors, which are concentrated at the tops of the junctional folds of the membrane of the motor end plate. The binding of acetylcholine to these receptors increases the Na+ and K+ conductance of the membrane, and the resultant influx of Na+ produces a depolarizing potential, the end plate potential.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option B. Depolarization is a process in which the membrane potential of a cell becomes less negative , or more positive, than its resting potential. This occurs when positively charged ions, such as sodium (Na+) or calcium ( Ca2+ ), enter the cell, or negatively charged ions, such as chloride ( Cl- ) ions, leave the cell. Option C. Hyperpolarization is a process in which the membrane potential of a cell becomes more negative than its resting potential, typically due to the efflux of potassium (K+) ions from the cell or the influx of chloride (Cl-) ions into the cell . Option D. The End Plate Potential ( EPP ) is not related to propagation.</p>\n<p><strong>Extraedge:</strong></p><p>An all-or-none action potential is generated in an axon when membrane depolarization reaches a level at which voltage-gated Na+ channels open, increasing PNa. This results in an inward current of Na+, which causes further depolarization, which then opens additional Na+ channels. This regenerative (positive feedback) cycle quickly produces an overshooting action potential.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d7c97c8",
+      "audio": ""
+    },
+    {
+      "text": "The resting transmembrane potential (Vm ) of a nerve axon is essential for signal generation. Instantaneous elimination of which of the following would most rapidly bring Vm close to 0 mV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Active transport of K+ out of the cell",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Active transport of Na+ out of the cell",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Concentration gradient for Na+",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High membrane permeability to K+",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. High membrane permeability to K+",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>High membrane permeability to K+ The immediate cause of the resting potential is the high membrane permeability to K+ compared with other ions; if this permeability were to be eliminated, Vm would instantly depolarize to within several mV of 0 mV. It would not quite reach 0 mV because of the electrogenic effect of the Na+-K+-ATPase (which pumps three Na+ ions out for every two K+ ions pumped in).</p>\n<p><strong>Highyeild:</strong></p><p>The diffusion of K+ down its concentration gradient in the absence of diffusion of anions out of the cell or diffusion of other cations into the cell causes a slight separation of charge across the membrane that generates most of the resting potential.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option B & C: The active transport of K+ into the cell (not, as in Option A, out of the cell) is necessary for setting up the concentration gradient that results in the diffusion of K+ out of the cell. This gradient (and therefore Vm) would take a long time to dissipate if active transport were stopped. Because the membrane is effectively impermeable to Na+ at rest, the transport and concentration gradient for Na+ has very little effect on the resting potential .</p>\n<p><strong>Extraedge:</strong></p><p>The resting potential is generated by the high permeability of the membrane to K+ compared with other ions, which allows a very small amount of K+ to diffuse out of the cell in the absence of net diffusion of other ions, causing a charge separation across the membrane.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "284d4fdf",
+      "audio": ""
+    },
+    {
+      "text": "Hyperkalemia reduces the excitability of neurons and muscle cells. Which of the following best describes the effect of increased extracellular potassium [K+]?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depolarizes the cell, thus reducing action potential amplitude.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Depolarizes the cell, thus inactivating voltage-gated Na+ channels.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hyperpolarizes the cell, which increases the action potential threshold.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increases the activity of the Na-K-ATPase, which hyperpolarizes the cell.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Depolarizes the cell, thus inactivating voltage-gated Na+ channels.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Depolarizes the cell, thus inactivating voltage-gated Na+ channels. Sustained depolarization, as occurs with hyperkalemia, inactivates voltage-gated Na+ channels, which remain inactivated until the membrane repolarizes, thus blocking action potential generation.</p>\n<p><strong>Highyeild:</strong></p><p>An action potential is generated when membrane depolarization reaches a level at which voltage-gated Na+ channels open, increasing PNa+ (or, in electrical terms, gNa), which results in an inward current of Na+, which causes further depolarization, opening additional Na+ channels in a positive feedback cycle. Inactivation of Na+ channels during an action potential prevents subsequent action potential initiation during the brief absolute refractory period, whereas the relative refractory period continues shortly thereafter because the delayed rectifier K+ channels remain open for a somewhat longer period.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options: If action potentials are generated, their amplitude will be reduced (Option A), but this is a consequence rather than a cause of reduced excitability . Hyperpolarization also can reduce excitability by increasing the depolarization needed to reach the action potential threshold (options C and D), but this would be produced by hypokalemia, not by hyperkalemia. There is no evidence that prolonged hyperkalemia decreases the number of Na+ channels in the membrane.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2de99107",
+      "audio": ""
+    },
+    {
+      "text": "Antidromic conduction is seen in:-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Axon",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Synapse",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Axon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Axon Antidromic conduction is seen in Axon. An antidromic impulse in an axon refers to conduction opposite of the normal (orthodromic) direction.</p>\n<p><strong>Highyeild:</strong></p><p>An axon can conduct in either direction. When an action potential is initiated in the middle of it, two impulses traveling in opposite directions are set up by electrotonic depolarization on either side of the initial current sink. In the natural situation, impulses pass in one direction only, i.e., from synaptic junctions or receptors along axons to their termination. Such conduction is called orthodromic. Conduction in the opposite direction is called antidromic. Because synapses, unlike axons, permit conduction in one direction only, an antidromic impulse will fail to pass the first synapse they encounter and die out at that point. The apparatus for protein synthesis in neurons are located primarily in the soma, with the transport of proteins and polypeptides to the axonal ending by the axoplasmic flow. Thus, the cell body maintains the functional and anatomic integrity of the axon. Orthograde transport occurs along microtubules located along the length of the axon; it requires two molecular motors, dynein, and kinesin. Orthograde transport moves from the cell body toward the axon terminals. It has both fast and slow components, fast axonal transport occurs at about 400 mm/day, and slow axonal transport occurs at 0.5\u201310 mm/day. Retrograde transport from the nerve ending to the cell body occurs at about 200 mm/day.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Option B. Synapse permits conduction in one direction only.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "77eaadf0",
+      "audio": ""
+    },
+    {
+      "text": "The permeability to which of the following ions increases during the depolarization of a nerve fiber:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ca++",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cl-",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Na+",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mg++",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Na+",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Na+ The ion permeability that increases during the depolarization of a nerve fiber is primarily the permeability to sodium ions (Na+). Depolarization Stage. At this time, the membrane suddenly becomes permeable to sodium ions, allowing tremendous numbers of positively charged sodium ions to diffuse to the interior of the axon. The normal \u201cpolarized\u201d state of \u221290 millivolts is immediately neutralized by the inflowing positively charged sodium ions, with the potential rising rapidly in the positive direction\u2014a process called depolarization. In large nerve fibers, the great excess of positive Na+ moving to the inside causes the membrane potential to actually \u201covershoot\u201d.</p>\n<p><strong>Highyeild:</strong></p><p>An action potential is generated when membrane depolarization reaches a level at which voltage-gated Na+ channels open, increasing PNa (or, in electrical terms, gNa), which results in an inward current of Na+, which causes further depolarization, opening additional Na+ channels in a positive feedback cycle. Inactivation of Na+ channels during an action potential prevents subsequent action potential initiation during the brief absolute refractory period, whereas the relative refractory period continues shortly thereafter because the delayed rectifier K+ channels remain open for a somewhat longer period.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- The permeability to calcium ions (Ca++) and magnesium ions (Mg++) generally remains relatively constant during the depolarization of a nerve fiber. The permeability to chloride ions (Cl-) can also change, but this usually happens later in the action potential and plays a role in repolarization rather than depolarization.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b23c0d66",
+      "audio": ""
+    },
+    {
+      "text": "The resting membrane potential of the nerve is determined by the concentration of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Potassium",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chloride",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Magnesium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Potassium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Potassium The resting membrane potential of a nerve is primarily determined by the concentration gradient of potassium ions (K+) inside and outside the cell. In neurons, the concentration of K+ is much higher inside than outside the cell, while the reverse is the case for Na+. The outward K+ concentration gradient results in the passive movement of K+ out of the cell when K+ -selective channels are open. Similarly, the inward Na+ concentration gradient results in the passive movement of Na+ into the cell when Na+-selective channels are open.</p>\n<p><strong>Highyeild:</strong></p><p>Because there are more open K+ channels than Na+ channels at rest, the membrane permeability to K+ Is greater. Consequently, the intracellular and extracellular K+ concentrations are the prime determinants of the resting membrane potential, which is therefore close to the equilibrium potential for K+.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- While other ions such as sodium (Na+), chloride (Cl-), and calcium (Ca++) also play important roles in nerve function, they do not primarily determine the resting membrane potential.</p>\n<p><strong>Extraedge:</strong></p><p>What is an action potential? An action potential is a rapid rise and subsequent fall in voltage or membrane potential across a cellular membrane with a characteristic pattern. The stimulus starts the rapid change in voltage or action potential. In patch-clamp mode, sufficient current must be administered to the cell to raise the voltage above the threshold voltage to start membrane depolarization. Depolarization is caused by a rapid rise in membrane potential opening of sodium channels in the cellular membrane, resulting in a large influx of sodium ions. Membrane Repolarization results from rapid sodium channel inactivation as well as a large efflux of potassium ions resulting from activated potassium channels. Hyperpolarization is a lowered membrane potential caused by the efflux of potassium ions and the closing of the potassium channels. The resting state is when membrane potential returns to the resting voltage that occurred before the stimulus occurred.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fedcc5dd",
+      "audio": ""
+    },
+    {
+      "text": "Due to the activation of ion channels of the external membrane of the excitable cell, its rest potential has significantly increased. What channels were activated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fast calcium channels",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sodium and calcium channels",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Potassium channels",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Natrium channels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Potassium channels",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Potassium channels The activation of ion channels on the external membrane of an excitable cell that results in a significant increase in the resting potential is most likely due to the opening of potassium (K+) channels. A negative overshoot called hyperpolarization occurs when potassium gates stay open longer than Na gates, so the amount of potassium that leaves the cell is greater than the amount of sodium that entered. Therefore, the membrane voltage drops to 1 or 2 mV more negatively than the original RMP (when RMP becomes more negative, it means that RMP increased). Therefore, the most likely scenario for a significant increase in the resting membrane potential is the activation of potassium channels.</p>\n<p><strong>Highyeild:</strong></p><p>The resting membrane potential of most excitable cells falls in the range of \u221270 to \u221280 mV. These values can best be explained by the concept of the relative permeabilities of the cell membrane. Thus the resting membrane potential is close to the equilibrium potentials for K+ and Cl\u2212 because the permeability to these ions at rest is high. The resting membrane potential is far from the equilibrium potentials for Na+ and Ca2+ because the permeability to these ions at rest is low.</p>\n<p><strong>Random:</strong></p><p>Explanation for Incorrect Options:- Fast calcium channels and sodium (Na+) and calcium (Ca++) channels primarily mediate depolarization of the cell membrane, and the activation of these channels would lead to a decrease in the resting potential. The activation of sodium channels alone would also cause depolarization, not hyperpolarization.</p>\n<p><strong>Extraedge:</strong></p><p>What is an action potential? An action potential is a rapid rise and subsequent fall in voltage or membrane potential across a cellular membrane with a characteristic pattern. The stimulus starts the rapid change in voltage or action potential. In patch-clamp mode, sufficient current must be administered to the cell to raise the voltage above the threshold voltage to start membrane depolarization. Depolarization is caused by a rapid rise in membrane potential opening of sodium channels in the cellular membrane, resulting in a large influx of sodium ions. Membrane Repolarization results from rapid sodium channel inactivation as well as a large efflux of potassium ions resulting from activated potassium channels. Hyperpolarization is a lowered membrane potential caused by the efflux of potassium ions and the closing of the potassium channels. The resting state is when membrane potential returns to the resting voltage that occurred before the stimulus occurred.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0a2b19e1",
+      "audio": ""
+    }
+  ]
+}

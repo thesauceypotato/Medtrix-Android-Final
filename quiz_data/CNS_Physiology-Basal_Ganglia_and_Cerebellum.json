@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "id": "test4",
+    "title": "CNS_Physiology-Basal_Ganglia_and_Cerebellum",
+    "category": "Cerebellum / BTR"
+  },
+  "questions": [
+    {
+      "text": "Which of the following statements about the basal ganglia and their associated neurotransmitters is CORRECT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The caudate nucleus primarily uses acetylcholine as its neurotransmitter.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The globus pallidus internus (GPi) exerts an excitatory influence on the thalamus.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The subthalamic nucleus (STN) uses glutamate as its principal neurotransmitter to excite the globus pallidus internus (GPi).",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The substantia nigra pars reticulata (SNr) inhibits the thalamus using dopamine.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The subthalamic nucleus (STN) uses glutamate as its principal neurotransmitter to excite the globus pallidus internus (GPi).",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/AUko6UbnotAV2G5hBcvt1744996112.mp3",
+      "video": "",
+      "uid": "8a0563d9"
+    },
+    {
+      "text": "Which statement correctly describes the effect of each basal ganglia pathway?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The direct pathway decreases inhibitory output from the internal segment of the globus pallidus.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The indirect pathway decreases inhibitory output from the internal segment of the globus pallidus.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The direct pathway increases inhibitory output from the external segment of the globus pallidus.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The indirect pathway increases inhibitory output from the external segment of the globus pallidus.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The direct pathway decreases inhibitory output from the internal segment of the globus pallidus.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:630px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Direct Pathway</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indirect Pathway</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Facilitates motor activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suppresses motor activity</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Input</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Excitatory input from the cerebral cortex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Excitatory input from the cerebral cortex</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Target</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Striatum (caudate <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> and putamen)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Striatum (caudate <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> and putamen)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Striatum Output</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits internal segment of <span class=\"customMeta\" data-dictid=\"86c230abe316927771889bbef8df5d\">globus</span> pallidus (GPi)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibits external segment of <span class=\"customMeta\" data-dictid=\"86c230abe316927771889bbef8df5d\">globus</span> pallidus (GPe)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>GPi/SNr Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of thalamus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of thalamus</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thalamus Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased thalamic activation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreased thalamic activation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Motor <span class=\"customMeta\" data-dictid=\"cab8787ce916927771852a7e72f34d\">Cortex</span> Effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Enhanced motor activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced motor activity</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subthalamic <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">Nucleus</span> (STN)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not directly involved</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activated by <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> from GPe</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PLuuA84wLdefAeZutKAT1744996886.mp3",
+      "video": "",
+      "uid": "d6d3f961"
+    },
+    {
+      "text": "A 55-year-old man presents with resting tremors, bradykinesia, rigidity, and postural instability. His symptoms have progressively worsened over the past year. Based on the clinical presentation, which of the following is the most likely underlying pathology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Degeneration of dopaminergic neurons in the substantia nigra pars compacta",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Degeneration of cholinergic neurons in the basal forebrain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Degeneration of GABAergic neurons in the striatum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Degeneration of serotonergic neurons in the raphe nuclei",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Degeneration of dopaminergic neurons in the substantia nigra pars compacta",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/IFhyg03cuKfTWPWTGgrK1744997121.mp3",
+      "video": "",
+      "uid": "0c07d4f8"
+    },
+    {
+      "text": "Which statement correctly describes the cerebellar structure and its nuclei?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior and posterior lobes regulate posture and balance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Flocculonodular lobe coordinates fine motor skills.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dentate nucleus is key in motor planning and execution.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Granule cells are the primary output neurons of the cerebellar cortex.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dentate nucleus is key in motor planning and execution.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/AipkUn2GenvNKncpNWSm1736069836.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/hug67sW4m3JCrBULAOhK1744997424.mp3",
+      "video": "",
+      "uid": "26f7ae07"
+    },
+    {
+      "text": "Which of the following accurately describes the primary function of the mossy fibers in the internal circuitry of the cerebellum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transmit motor commands to the cerebellum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Provide excitatory input to granule cells.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Relay sensory information to the deep cerebellar nuclei.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "inhibit the activity of the deep cerebellar nuclei.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Provide excitatory input to granule cells.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/kso47M3b6yVT5KXtWBcf1736070001.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/b9qzkXhcifKjKUcRgR5y1744997665.mp3",
+      "video": "",
+      "uid": "d784f5e4"
+    },
+    {
+      "text": "Which of the following statements about the functional divisions of the cerebellum is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The vestibulocerebellum controls balance and eye movements.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Spinocerebellum coordinates axial and proximal limb movements",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cerebrocerebellum handles movement planning and programming",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The flocculonodular lobe coordinates fine motor movements.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The flocculonodular lobe coordinates fine motor movements.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/0VRTxLDrExHzDVS1iQ4u1736070183.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:623px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Functional Division</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Spinocerebellum</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Coordination of <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> and <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> limb movements <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Coordinates and smoothens voluntary movements, particularly those involving the <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> body and <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> limbs.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Central portion of the cerebellum</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cerebrocerebellum</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Planning and programming of movements <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involved in motor planning and timing, especially for complex, precise movements.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lateral parts of the cerebellar hemispheres</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vestibulocerebellum</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Balance and eye movements</p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Modulates motor commands to maintain <span class=\"customMeta\" data-dictid=\"115643fed616927771961316effc71\">posture</span> and balance.</p>\n<p>Integrates information from the <span class=\"customMeta\" data-dictid=\"e8b3c606051692777201faf2a1a357\">vestibular</span> system to coordinate head and eye movements.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p>Flocculonodular lobe</p>\n\t\t\t\u00a0</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Flocculonodular Lobe</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Balance and eye movements</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Part of the vestibulocerebellum, responsible for balance and <span class=\"customMeta\" data-dictid=\"d52b8551541692777187be85e4bb2f\">equilibrium</span> of the body.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><br/>\n\t\t\tFlocculonodular <span class=\"customMeta\" data-dictid=\"d7dd6ae43c1692777191cf75c0bd58\">lobe</span> \u00a0</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/yjYZIDADupQAhdl1Y3Ny1744998319.mp3",
+      "video": "",
+      "uid": "7378125f"
+    },
+    {
+      "text": "A 72-year-old man presents with uncoordinated movements and difficulty in performing rapid alternating tasks, speech difficulty, and experiences rapid, tremulous eye movements. Which of the following features is not typically associated with cerebellar disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertonia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dysarthria",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ataxia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rebound Phenomenon",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hypertonia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hypotonia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreased muscle tone, often on the same side as the cerebellar lesion.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ataxia <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Uncoordinated movements, often leading to a \"drunken\" gait.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dysdiadochokinesia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inability to perform rapid <span class=\"customMeta\" data-dictid=\"1b5a7ceea716927771815e7283e571\">alternating</span> movements, such as flipping the hands back and forth.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dysmetria (Past pointing)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Movements that overshoot or undershoot the intended target.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intention tremor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tremors occurring when moving toward a target</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dysarthria <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Jumbled speech due to lack of <span class=\"customMeta\" data-dictid=\"3820ba101416927771858fe257e119\">coordination</span> in the muscles involved in speech</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nystagmus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rapid, tremulous eye movements</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rebound Phenomenon <strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Limb jerking back after resistance is suddenly removed</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decomposition of movement</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can't move multiple joints simultaneously.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No <span class=\"customMeta\" data-dictid=\"408bcde7f01692777198acadb8e1c6\">sensory</span> deficit</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not typically present in cerebellar diseases.</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PAAkHg4o3syrJFY7X8PG1744998597.mp3",
+      "video": "",
+      "uid": "a5674419"
+    },
+    {
+      "text": "Match the parts of the Papez circuit with their correct functions: Part of Papez Circuit Function 1) Cingulate Gyrus A) Conversion of short-term memory to long-term memory 2) Parahippocampal Gyrus B) Controls heart rate, blood pressure, cognitive and emotional processing 3) Hippocampus C) Responsible for controlling recent memories of the brain 4) Mammillary Body and Anterior Nucleus of Thalamus D) Spatial memory, the memory of three-dimensional space",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 - A, 2 - B, 3 - D, 4 - C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 - B, 2 - D, 3 - A, 4 - C",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1 - D, 2 - C, 3 - A, 4 - B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 - C, 2 - A, 3 - B, 4 - D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1 - B, 2 - D, 3 - A, 4 - C",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ElIYDw2kJ4LcOiPhaGxD1736514427.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:608px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Part of Papez Circuit</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Cingulate Gyrus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Controls heart rate, blood pressure, cognitive and emotional processing.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Parahippocampal <span class=\"customMeta\" data-dictid=\"231fafb8e116927771888a0efe57f1\">Gyrus</span> and <span class=\"customMeta\" data-dictid=\"433fcc5f441692777187d3963abc73\">Entorhinal</span> Cortex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Spatial memory, the memory of three-dimensional space.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Hippocampus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Responsible for the conversion of <span class=\"customMeta\" data-dictid=\"904d09486e1692777198e653e46672\">short-term memory</span> to long-term memory.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Mammillary Body and <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">Anterior</span> <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">Nucleus</span> of Thalamus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Responsible for controlling recent memories of the brain.</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ec4qI86U1GPZUOGOYnd71744998988.mp3",
+      "video": "",
+      "uid": "d1f9899a"
+    },
+    {
+      "text": "Which of the following statements about the amygdala is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Controls emotions and motivations",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Connected with the prefrontal cortex & hippocampus for emotional memory processing",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Damage can result in a loss of sexual behaviour.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The prefrontal cortex develops working memory",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Damage can result in a loss of sexual behaviour.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Part of the <span class=\"customMeta\" data-dictid=\"5a3b591e581692777181a270cc1ca1\">Amygdala</span> Circuit</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Function </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Amygdala</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Controls emotions and motivations.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Prefrontal Cortex</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Responsible for the development of working memory <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Hippocampus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Converts <span class=\"customMeta\" data-dictid=\"904d09486e1692777198e653e46672\">short-term memory</span> to long-term memory</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/0s74axTmhzWSnvtkHC2x1745082775.mp3",
+      "video": "",
+      "uid": "989ce2f9"
+    },
+    {
+      "text": "A 24-year-old man is brought to the emergency room after a motor vehicle accident. He displays significant behavioral changes including placing non-food objects in his mouth, increased sexual advances towards staff, and appears to have no fear when approached by the medical team. Which of the following brain structures is MOST likely to be damaged in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebellum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Amygdala",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hippocampus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Parietal lobe",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Amygdala",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/O37ZbXHNaWXlpAwBcWMs1745083098.mp3",
+      "video": "",
+      "uid": "a03adde5"
+    },
+    {
+      "text": "Which of the following nuclei has a function of thermoregulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medial preoptic nuclei",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lateral nuclei",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Para-ventricle nuclei",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Arcuate nuclei",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Medial preoptic nuclei",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/QPithgoMDtsxiTfzsagU1736070986.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mzq9zrKTzMfQGgeV6du81745083401.mp3",
+      "video": "",
+      "uid": "218291d9"
+    },
+    {
+      "text": "A 45-year-old man presents with significant behavioral changes following a traumatic brain injury. He experiences frequent unprovoked outbursts of anger and aggression, triggered by minimal stimuli, along with emotional blunting and decreased pleasure. Based on his presentation, which brain region is MOST likely affected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hippocampus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Medial forebrain bundle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Central gray area",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ventromedial hypothalamus",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ventromedial hypothalamus",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:731px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Centres</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function/Response</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Reward Centers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Medial <span class=\"customMeta\" data-dictid=\"a3b45f45fc1692777203eceaf9f4d3\">forebrain</span> bundle</p>\n<p>Lateral and ventromedial <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> of the hypothalamus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lateral hypothalamus: Strong <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> leads to rage; weaker <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> induces reward</p>\n<p>Plays a dual role in both aggressive and rewarding behaviours</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Punishment Centers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The central grey area surrounding the <span class=\"customMeta\" data-dictid=\"95b84bf8de16927771812bd9541daf\">aqueduct</span> of <span class=\"customMeta\" data-dictid=\"ddc0e11a441692777199100d8d8778\">Sylvius</span> in the mesencephalon</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elicits potent <span class=\"customMeta\" data-dictid=\"5dd5f335f01692777182e69ef6557f\">aversive</span> responses</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary Rage Centers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"a71c8cfa8216927771955861218d80\">periventricular</span> zone of the hypothalamus</p>\n<p>Lateral hypothalamus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intense <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> triggers rage responses: Defensive posturing, aggression, <span class=\"customMeta\" data-dictid=\"bd1c98736616927771820954b0a744\">autonomic</span> responses like <span class=\"customMeta\" data-dictid=\"a73478dd6616927771953eb7601560\">piloerection</span> and <span class=\"customMeta\" data-dictid=\"e419fd4e241692777196d038d1b71a\">pupil</span> dilation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inhibitory Mechanisms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ventromedial <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> of the hypothalamus</p>\n<p>Hippocampi</p>\n<p>Anterior <span class=\"customMeta\" data-dictid=\"fae243395d16927771917dbd1992e9\">limbic</span> cortex: <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">Anterior</span> cingulate <span class=\"customMeta\" data-dictid=\"f46588d97c16927771882c69136596\">gyri</span> and <span class=\"customMeta\" data-dictid=\"3f19bcf4f616927771997e75b6d847\">subcallosal</span> gyri</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Suppress or <span class=\"customMeta\" data-dictid=\"6b3de87b7c16927771901326efbcd2\">inhibit</span> rage responses</p>\n<p>Maintain emotional control and regulate aggressive behaviors</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/FtMaG29dvzVpJL71Cs0y1745083897.mp3",
+      "video": "",
+      "uid": "bab32d97"
+    },
+    {
+      "text": "In a patient experiencing severe hemorrhage resulting in isotonic fluid loss, which of the following accurately describes the role of osmoreceptors and their effect on the thirst mechanism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased blood osmolality stimulates the supra-optic nucleus to secrete ADH",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Angiotensin II indirectly stimulates the lateral nucleus of the hypothalamus",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Osmoreceptors in the OVLT and MnPO are stimulated by decreased blood osmolality",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Stimulated SFO osmoreceptors increase ANP secretion, which reduces ADH.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Angiotensin II indirectly stimulates the lateral nucleus of the hypothalamus",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/iSUGcR7u6vWQ9WmfySA81736071149.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ctIl8XpUzUjvkrHPaJBT1745084970.mp3",
+      "video": "",
+      "uid": "5e9e0c30"
+    },
+    {
+      "text": "Which of the following statements is true about the control of feeding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both orexigenic and anorexigenic signals are present in the pre-ventricular nucleus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Leptin, Peptide YY and CCK are all orexigenic signals",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "POMC Fragmentation produces alpha MSH promotes food intake",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Orexin peptide produced from the lateral nucleus of the hypothalamus plays an essential role in regulating sleep",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Orexin peptide produced from the lateral nucleus of the hypothalamus plays an essential role in regulating sleep",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/yNb5PrOFeFQ9ms9BL4VE1736071469.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/AdGdK65JMsDumjFtvG391745085696.mp3",
+      "video": "",
+      "uid": "26bdc959"
+    },
+    {
+      "text": "Which statement best describes the center-surround model of the basal ganglia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The direct pathway broadly inhibits motor actions, while the indirect pathway facilitates specific actions.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The direct pathway facilitates specific motor actions, while the indirect pathway suppresses competing actions.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The indirect pathway reduces inhibitory output from the GPi, while the direct pathway increases inhibitory output.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both pathways uniformly facilitate all motor actions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The direct pathway facilitates specific motor actions, while the indirect pathway suppresses competing actions.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ATYtr2k9EMWfLpcwy73M1736071689.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/pFK2ew3GmWe3aAaW9X3p1745085937.mp3",
+      "video": "",
+      "uid": "33b45810"
+    },
+    {
+      "text": "Which of the following statements about climbing and mossy fibers is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Climbing and mossy fibers provide the primary input to the cerebellar cortex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The Vestibulocerebellar serves as the pathway for climbing fibers.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mossy fibers are the terminal endings of the olivocerebellar tracts.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mossy fibers use aspartate to provide excitatory signals to the Purkinje cells.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Climbing and mossy fibers provide the primary input to the cerebellar cortex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Source/Tracts</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fiber Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Olivocerebellar tracts</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Climbing Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Aspartate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Proprioceptive input from the entire body</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vestibulocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the labyrinth.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Spinocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the Muscle spindle, the Golgi <span class=\"customMeta\" data-dictid=\"606c2acae5169277720052151cb04c\">Tendon</span> Organ.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cuneocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the Muscle spindle, Golgi <span class=\"customMeta\" data-dictid=\"606c2acae5169277720052151cb04c\">Tendon</span> Organ.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tectocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from visual & auditory.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pontocerebellar</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mossy Fibers</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glutamate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Receives information from the motor & other parts of the cerebral cortex.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/aCQHaotk2fJEhbXIdwkh1744998028.mp3",
+      "video": "",
+      "uid": "82906395"
+    }
+  ]
+}

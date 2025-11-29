@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "id": "test16",
+    "title": "Interferential_Statistics",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following correctly describes Type I and Type II errors in hypothesis testing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I rejects a true null hypothesis; Type II accepts a false null hypothesis.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type I accepts a false null hypothesis; Type II rejects a true null hypothesis.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Type I rejects a true alternative hypothesis; Type II accepts a false alternative hypothesis.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Type I: Accepting a true null hypothesis; Type II: Rejecting a false null hypothesis.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type I rejects a true null hypothesis; Type II accepts a false null hypothesis.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Type I Error</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Type II Error</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rejecting a true null hypothesis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Accepting a false null hypothesis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Also Known As</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>False positive.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>False-negative.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Implication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Concluding there is an effect when there is none.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Concluding there is no effect when there is one.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Probability Notation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alpha (\u03b1)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Beta (\u03b2)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Consequences</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Believing a result is significant when it is not.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Missing a significant result.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Example</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Concluding a drug has an effect when it does not.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Concluding a drug does not have an effect when it does.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Testing Goal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Minimise \u03b1 to reduce the <span class=\"customMeta\" data-dictid=\"946a9a6be11692777201eb269e8327\">Type I</span> error rate.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Minimise \u03b2 to reduce the <span class=\"customMeta\" data-dictid=\"bd04ba63bc1692777201f54e0ee060\">Type II</span> error rate.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Qoog5g4CXCDZsdLaVvnf1741596348.mp3",
+      "video": "",
+      "uid": "3332740c"
+    },
+    {
+      "text": "A study was conducted to determine the effectiveness of a new antihypertensive. The study is designed with a significance level (alpha) of 0.05 and a sample size of 50 participants. The type II error is calculated as 0.25. Which of the following is the power of this study, and how can it be increased?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The power of the study is 75% and can be increased by decreasing the sample size.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The power of the study is 70%, and it can be increased by increasing the sample size.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The power of the study is 75% and it can be increased by increasing the sample size.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The power of the study is 95% and it can be increased by increasing the sample size.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The power of the study is 75% and it can be increased by increasing the sample size.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/5s4HiXCsrNNRj7t8XzPw1741597118.mp3",
+      "video": "",
+      "uid": "1fd379e1"
+    },
+    {
+      "text": "A clinic wants to analyze the cumulative number of patients who have completed a new vaccination program over the past year to evaluate the program's uptake and identify any trends in vaccination rates. Which type of graph should they use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Line Chart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ogive",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pie Chart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Box Plot",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ogive",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/K0JsFMii235gsHehjQcA1734023473.png",
+        "https://image.prepladder.com/notes/MDSIPyvGf68cWYFqFaPu1734023522.png",
+        "https://image.prepladder.com/notes/xEPHzurMNRUKm0uSdiei1734023566.png",
+        "https://image.prepladder.com/notes/CanfMi1WyGRR8EYIjDYa1734022989.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/KgTgtczCeASpVtcIh1SP1744663267.mp3",
+      "video": "",
+      "uid": "52f9dbf6"
+    },
+    {
+      "text": "A hospital conducted a study on the recovery times (in days) of patients after a specific surgical procedure. The data was summarized using a box and whisker plot as shown below: Which of the following statements best describes the skewness of the recovery time data shown in the plot above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The data has no skewness.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The data is positively skewed.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The data is negatively skewed.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The data is both positively and negatively skewed.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The data has no skewness.",
+      "question_images": [
+        "https://image.prepladder.com/content/UcXIU9ZIh2YsX4hkh07B1726803623.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/0b8nWV0Van8vepqJKsx91726803645.jpg",
+        "https://image.prepladder.com/content/V7Ilhh3xbR4UsaoAzeRd1726803665.jpg",
+        "https://image.prepladder.com/content/k4aanPx93eRGhtIrf4Ow1726803687.jpg",
+        "https://image.prepladder.com/content/QA7cXGDbXOcZ6Eb815IZ1726803830.png",
+        "https://image.prepladder.com/content/mYoUyEMyekgUDRbahu0D1726803847.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GHKZsm9xcEvJ6Se1ihHg1747422477.mp3",
+      "video": "",
+      "uid": "95a1732f"
+    },
+    {
+      "text": "A researcher is conducting a study to estimate the prevalence of diabetes among patients with obesity. The researcher divides the patients into two gender groups (male and female) and then selects the study sample from each of these two groups separately. Which type of random probability sampling method is being used in this study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple Random Sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Systematic Random Sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified Random Sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cluster Random Sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stratified Random Sampling",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/buIbG4tsE2fqbJLwmZ261734068589.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/1bFolDOOvPYksHtJXZKa1747421150.mp3",
+      "video": "",
+      "uid": "e35e198a"
+    }
+  ]
+}

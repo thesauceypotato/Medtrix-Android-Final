@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "id": "test17",
+    "title": "Introduction_to_Epidemiology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "What are rate, ratio, and proportion commonly referred to as in the context of epidemiology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tools for risk assessment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tools for biostatistical analysis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Basic tools of measurement in epidemiology",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Measures of central tendency",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Basic tools of measurement in epidemiology",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>Measure</strong></th>\n<th><strong>Definition</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Ratio</strong></td>\n<td>A comparison of two numbers, e.g., male to female ratio</td>\n</tr>\n<tr>\n<td><strong>Proportion</strong></td>\n<td>A type of ratio where the numerator is part of the denominator, e.g., % of infected</td>\n</tr>\n<tr>\n<td><strong>Rate</strong></td>\n<td>A proportion with a time component, e.g., <span class=\"customMeta\" data-dictid=\"17cd3771bb1692777190950c142dbe\">incidence</span> rate per year</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/HbVDTHN29k9b0o14MXbk1744706266.mp3",
+      "video": "",
+      "uid": "603de476"
+    },
+    {
+      "text": "In a small town with a population of 2,00,000 people, a public health team is investigating an outbreak of gastroenteritis. Over one month, 1,500 new cases of gastroenteritis are reported. Calculate the incidence rate of gastroenteritis in the above population.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.75 per 1,000 population",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1.5 per 1,000 population",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "7.5 per 1,000 population",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "15 per 1,000 population",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 7.5 per 1,000 population",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/B4uwwpwYpnHIvUwjMZfD1725013029.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/g0jBmGMITTkNk6sO7m7Q1744783998.mp3",
+      "video": "",
+      "uid": "1ef30ce0"
+    },
+    {
+      "text": "A health survey reported 5 confirmed cases of Chronic Kidney Disease in a community of 100 people in December. By the end of January, 3 new cases of CKD were diagnosed. Prevalence was reported for Dec and Jan, particularly on Jan 31st. Which of the following statements is true in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Point prevalence is more than period prevalence",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Point prevalence is less than period prevalence",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Point prevalence is equal to period prevalence",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Point prevalence and Period prevalence cannot be compared",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Point prevalence is equal to period prevalence",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/7SH0EWu5N98YUgpkIRaV1725013628.jpg",
+        "https://image.prepladder.com/content/FwzyY4iABP5XA4E49SCa1725013746.jpg",
+        "https://image.prepladder.com/content/kdoxn6tpiqISUxo9APWe1725013746.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/t6WTFz5uTxWZsknVgRKl1744782374.mp3",
+      "video": "",
+      "uid": "93df66b4"
+    }
+  ]
+}

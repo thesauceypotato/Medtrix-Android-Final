@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEDTRIX | Pro Dashboard</title>
+    <style>
+        :root {
+            --primary: #0056b3; --accent: #00a8cc; --bg: #f4f7f6;
+            --card-bg: #ffffff; --text: #333; --header-text: #fff;
+            --shadow: rgba(0,0,0,0.1); --success: #28a745;
+            --brand-color: #00e5ff; --brand-glow: rgba(0, 229, 255, 0.4);
+            --weakness-bg: #ffe0e6;
+            --weakness-border: #dc3545;
+        }
+        [data-theme="dark"] {
+            --primary: #1a1a1a; --accent: #bb86fc; --bg: #121212;
+            --card-bg: #1e1e1e; --text: #e0e0e0; --header-text: #e0e0e0;
+            --shadow: rgba(0,0,0,0.5); --brand-color: #ffffff; --brand-glow: rgba(255, 255, 255, 0.3);
+            --weakness-bg: #3c1f24;
+            --weakness-border: #f44336;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); padding-bottom: 100px; transition: 0.3s; }
+
+        /* HEADER - FIXED PADDING FOR OVERLAP */
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: var(--header-text); 
+            padding: 20px 20px 80px 20px;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        .brand-row { display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 10px; flex-wrap: wrap; }
+        .logo-img {
+            width: 60px; height: 60px; object-fit: cover; border-radius: 50%;
+            border: 3px solid var(--brand-color); box-shadow: 0 0 20px var(--brand-glow);
+            transition: transform 0.3s;
+        }
+        .logo-img:hover { transform: scale(1.1); }
+        h1 {
+            font-family: 'Verdana', sans-serif; letter-spacing: 3px; font-size: 1.8rem;
+            font-weight: 700; text-transform: uppercase; color: var(--brand-color);
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2); margin: 0;
+        }
+        .quote-box { font-size: 0.9rem; opacity: 0.95; font-style: italic; margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; }
+        .theme-toggle {
+            position: absolute; top: 15px; right: 15px; background: rgba(255,255,255,0.2);
+            border: none; color: white; padding: 6px 12px; border-radius: 20px; cursor: pointer;
+            font-size: 0.8rem; backdrop-filter: blur(4px);
+        }
+
+        /* STATS CONTAINER */
+        .stats-container {
+            max-width: 800px; 
+            margin: -50px auto 20px;
+            background: var(--card-bg);
+            padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px var(--shadow);
+            width: 92%; display: flex; flex-direction: column; gap: 20px;
+            position: relative; z-index: 10;
+        }
+
+        /* Top Row */
+        .stats-main { display: flex; justify-content: space-around; align-items: center; width: 100%; flex-wrap: wrap; gap: 10px; }
+        .stat-item { text-align: center; min-width: 80px; }
+        .stat-item h3 { font-size: 1.4rem; color: var(--accent); margin: 0; }
+        [data-theme="dark"] .stat-item h3 { color: #fff; }
+        .stat-item p { font-size: 0.75rem; opacity: 0.8; font-weight: 600; text-transform: uppercase; }
+        
+        /* RPG Level Badge */
+        #user-level { 
+            width: 100%; text-align: center; font-weight: bold; 
+            color: var(--accent); margin-top: 5px; font-size: 0.9rem; letter-spacing: 1px;
+        }
+
+        /* Rings */
+        .ring-wrapper { display: flex; flex-direction: column; align-items: center; gap: 5px; }
+        .progress-circle {
+            width: 60px; height: 60px; border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            background: conic-gradient(var(--accent) 0%, rgba(128,128,128,0.1) 0%);
+            transition: background 1s ease;
+        }
+        .progress-inner {
+            width: 50px; height: 50px; background: var(--card-bg);
+            border-radius: 50%; display: flex; align-items: center; justify-content: center;
+            font-weight: bold; font-size: 0.9rem;
+        }
+        .ring-label { font-size: 0.7rem; font-weight: 700; opacity: 0.7; text-transform: uppercase; }
+
+        /* Performance Row */
+        .perf-row { 
+            display: flex; justify-content: space-between; background: rgba(0,0,0,0.03); 
+            padding: 15px; border-radius: 12px; width: 100%;
+        }
+        [data-theme="dark"] .perf-row { background: rgba(255,255,255,0.05); }
+        .perf-item { text-align: center; flex: 1; border-right: 1px solid rgba(128,128,128,0.2); }
+        .perf-item:last-child { border-right: none; }
+        .perf-val { font-size: 1.2rem; font-weight: 800; color: var(--text); }
+        .perf-lbl { font-size: 0.7rem; text-transform: uppercase; opacity: 0.7; margin-top: 2px; }
+
+        /* CONTROLS */
+        .controls { max-width: 600px; margin: 0 auto 30px; padding: 0 20px; display: flex; flex-direction: column; gap: 15px; }
+        .search-row { display: flex; gap: 10px; flex-wrap: wrap; }
+        input#searchBar {
+            flex-grow: 1; padding: 12px 20px; border-radius: 50px; border: none;
+            background: var(--card-bg); color: var(--text); font-size: 1rem;
+            box-shadow: 0 4px 10px var(--shadow); outline: none; min-width: 200px;
+        }
+        select#catJump {
+            padding: 0 20px; border-radius: 50px; border: none;
+            background: var(--card-bg); color: var(--text);
+            box-shadow: 0 4px 10px var(--shadow); outline: none; cursor: pointer; height: 45px;
+        }
+        .filter-tabs { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; }
+        .filter-btn {
+            background: var(--card-bg); border: none; padding: 8px 16px;
+            border-radius: 20px; cursor: pointer; color: var(--text); font-weight: 600;
+            box-shadow: 0 2px 5px var(--shadow); transition: 0.2s; font-size: 0.9rem;
+        }
+        .filter-btn.active { background: var(--accent); color: white; }
+        [data-theme="dark"] .filter-btn.active { background: #fff; color: #000; }
+        .random-btn {
+            background: linear-gradient(45deg, #ff9800, #f57c00); color: white; border: none;
+            padding: 12px; border-radius: 50px; font-weight: bold; cursor: pointer;
+            box-shadow: 0 4px 10px rgba(245, 124, 0, 0.3); width: 100%;
+        }
+
+        /* CATEGORIES & GRID */
+        .category-section { max-width: 1100px; margin: 20px auto; padding: 0 20px; display: none; }
+        .cat-header { 
+            display: flex; align-items: center; margin-bottom: 15px; cursor: pointer;
+            border-bottom: 2px solid var(--accent); padding-bottom: 10px; user-select: none;
+        }
+        .cat-header::after { content: '▼'; margin-left: auto; font-size: 0.8rem; color: var(--text); transition: 0.3s; }
+        .category-section.collapsed .cat-header::after { transform: rotate(-90deg); }
+        .category-section.collapsed .quiz-grid { display: none; }
+        .cat-badge { padding: 4px 10px; border-radius: 15px; color: white; font-weight: bold; font-size: 0.8rem; margin-right: 10px; background: var(--accent); }
+        [data-theme="dark"] .cat-badge { background: #fff !important; color: #000 !important; }
+        .cat-title { font-size: 1.2rem; font-weight: 700; display: flex; align-items: center; }
+        .topic-count { margin-left: 10px; padding: 2px 8px; background: rgba(0,0,0,0.05); border-radius: 8px; font-size: 0.8rem; opacity: 0.7; }
+        [data-theme="dark"] .topic-count { background: rgba(255,255,255,0.1); }
+        .quiz-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; }
+        .quiz-card {
+            background: var(--card-bg); padding: 15px; border-radius: 12px;
+            display: flex; align-items: center; box-shadow: 0 2px 5px var(--shadow);
+            transition: 0.2s; border-left: 4px solid transparent; position: relative; cursor: pointer;
+        }
+        .quiz-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px var(--shadow); }
+        .check-box {
+            width: 24px; height: 24px; border: 2px solid var(--accent); border-radius: 50%;
+            margin-right: 15px; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+        }
+        [data-theme="dark"] .check-box { border-color: #fff; }
+        .check-box.checked { background: var(--success); border-color: var(--success) !important; color: white; }
+        .check-box.checked::after { content: '✓'; font-size: 14px; }
+        .quiz-link { text-decoration: none; color: var(--text); font-weight: 600; flex-grow: 1; margin-right: 30px; font-size: 0.95rem; }
+        .star-btn { position: absolute; right: 15px; font-size: 1.2rem; cursor: pointer; color: #ccc; transition: 0.2s; }
+        .star-btn.active { color: #ffc107; transform: scale(1.2); }
+        [data-theme="dark"] .star-btn.active { color: #fff; text-shadow: 0 0 5px #fff; }
+        
+        /* NEW: WEAKNESS DETECTOR STYLES */
+        .cat-weakness { 
+            border: 2px solid var(--weakness-border); 
+            background: var(--weakness-bg);
+            border-radius: 10px; padding: 15px; 
+        }
+        .cat-weakness .cat-badge { background: #dc3545 !important; }
+        .cat-weakness .cat-title { color: #dc3545 !important; }
+        .cat-weakness .quiz-card { border-left-color: #dc3545; }
+
+        /* MODAL & IFRAME STYLES */
+        #quiz-modal {
+            display: none; position: fixed; z-index: 999; left: 0; top: 0;
+            width: 100%; height: 100%; background-color: rgba(0,0,0,0.9);
+        }
+        .modal-content {
+            position: relative; margin: 2% auto; width: 95%; height: 90%;
+            background: #fff; border-radius: 8px; overflow: hidden;
+        }
+        .close-modal {
+            position: absolute; top: -30px; right: 10px; color: white;
+            font-size: 28px; font-weight: bold; cursor: pointer;
+        }
+        iframe#quiz-frame { width: 100%; height: 100%; border: none; }
+
+        footer { text-align: center; margin-top: 50px; opacity: 0.6; font-size: 0.8rem; }
+        .footer-actions { display: flex; justify-content: center; gap: 15px; margin-top: 10px; }
+        .footer-btn { background: none; border: 1px solid var(--text); padding: 5px 10px; border-radius: 5px; cursor: pointer; color: var(--text); font-size: 0.8rem; opacity: 0.7; }
+        
+        .cat-favorites { border: 2px dashed var(--accent); background: rgba(0,0,0,0.02); border-radius: 10px; padding: 15px; }
+        [data-theme="dark"] .cat-favorites { border-color: #fff; background: rgba(255,255,255,0.05); }
+        #source-links { display: none; }
+        
+        @media (max-width: 600px) {
+            header { padding-top: 50px; padding-bottom: 80px; }
+            h1 { font-size: 1.5rem; }
+            .logo-img { width: 50px; height: 50px; }
+            .stats-container { padding: 15px 10px; margin-top: -60px; }
+            .search-row { flex-direction: column; }
+            select#catJump { width: 100%; max-width: none; }
+            .modal-content { width: 100%; height: 100%; margin: 0; border-radius: 0; }
+            .close-modal { top: 10px; right: 10px; color: #333; background: rgba(255,255,255,0.8); padding: 0 10px; border-radius: 50%; }
+        }
+    </style>
+</head>
+<body>
+
+<a id="medtrix-nav-btn" href="qbanks.html" target="_top" style="
+    position: fixed; 
+    top: 15px; 
+    left: 15px; 
+    z-index: 99999; 
+    background: #0056b3; 
+    color: white; 
+    padding: 10px 15px; 
+    border-radius: 25px; 
+    text-decoration: none; 
+    font-family: sans-serif; 
+    font-weight: bold; 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    border: 2px solid white;
+    transition: transform 0.2s;
+    cursor: pointer;
+">
+    &larr; Library
+</a>
+
+
+<header>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙 Theme</button>
+    <div class="brand-row">
+        <img src="logo_medtrix.jpeg" alt="MEDTRIX" class="logo-img">
+        <h1>MEDTRIX</h1>
+    </div>
+    <div id="dailyQuote" class="quote-box">"Medicine is a science of uncertainty and an art of probability."</div>
+</header>
+
+<div class="stats-container">
+    <div class="stats-main">
+        <div class="stat-item"><h3 id="streakCount">0 🔥</h3><p>Streak</p></div>
+        <div class="ring-wrapper">
+            <div class="progress-circle" id="progressRing"><div class="progress-inner" id="percentText">0%</div></div>
+            <div class="ring-label">Done</div>
+        </div>
+        <div class="ring-wrapper">
+            <div class="progress-circle" id="strikeRing"><div class="progress-inner" id="strikeText">-%</div></div>
+            <div class="ring-label">Avg Score</div>
+        </div>
+        <div class="stat-item"><h3 id="doneCount">0</h3><p>Topics</p></div>
+        
+        <div id="user-level">Level: Intern 🩺</div>
+    </div>
+    
+    <div class="perf-row">
+        <div class="perf-item">
+            <div class="perf-val" id="avgTime">0s</div>
+            <div class="perf-lbl">Avg Time</div>
+        </div>
+        <div class="perf-item">
+            <div class="perf-val" id="todayCount">0</div>
+            <div class="perf-lbl">Today</div>
+        </div>
+        <div class="perf-item">
+            <div class="perf-val" id="totalSolved">0</div>
+            <div class="perf-lbl">Total Qs</div>
+        </div>
+    </div>
+</div>
+
+<div class="controls">
+    <button class="random-btn" onclick="openRandomQuiz()">🎲 Surprise Me (Random Quiz)</button>
+    <div class="search-row">
+        <input type="text" id="searchBar" onkeyup="applyFilters()" placeholder="🔍 Search topics...">
+        <select id="catJump" onchange="jumpToCategory(this.value)">
+            <option value="">Go to...</option>
+            <option value="cat-favorites">★ Favorites</option>
+            <option value="cat-weakness">🚨 Needs Attention</option>
+            <option value="cat-prep">Prepladder</option>
+            <option value="cat-prep-rr">Rapid Revision</option>
+            <option value="cat-cereb">Cerebellum</option>
+            <option value="cat-dams">DAMS & PYQs</option>
+            <option value="cat-dqb">DQB (AIIMS)</option>
+            <option value="cat-btr">BTR</option>
+            <option value="cat-other">Others</option>
+        </select>
+    </div>
+    <div class="filter-tabs">
+    <button class="filter-btn active" onclick="setFilter('all', this)">All</button>
+    <button class="filter-btn" onclick="setFilter('todo', this)">To Do</button>
+    <button class="filter-btn" onclick="setFilter('done', this)">Completed</button>
+    
+    <button class="filter-btn" onclick="setFilter('weak', this)" style="color:var(--weakness-border);">🚨 Weakness</button> 
+</div>
+</div>
+
+<div id="cat-weakness" class="category-section cat-weakness" style="display:none;">
+    <div class="cat-header" onclick="toggleAccordion('cat-weakness')">
+        <span class="cat-badge" style="background:#dc3545;">🚨</span>
+        <span class="cat-title" style="color:#dc3545;">Needs Attention <span class="topic-count" id="count-weakness">0</span></span>
+    </div>
+    <div class="quiz-grid" id="grid-weakness"></div>
+</div>
+
+<div id="cat-favorites" class="category-section cat-favorites"><div class="cat-header" onclick="toggleAccordion('cat-favorites')"><span class="cat-badge">★</span><span class="cat-title">Quick Access</span></div><div class="quiz-grid" id="grid-favorites"></div></div>
+<div id="cat-prep" class="category-section cat-prep"><div class="cat-header" onclick="toggleAccordion('cat-prep')"><span class="cat-badge">PL</span><span class="cat-title">Prepladder <span class="topic-count" id="count-prep">0</span></span></div><div class="quiz-grid" id="grid-prep"></div></div>
+<div id="cat-prep-rr" class="category-section cat-prep"><div class="cat-header" onclick="toggleAccordion('cat-prep-rr')"><span class="cat-badge">RR</span><span class="cat-title">Rapid Revision <span class="topic-count" id="count-prep-rr">0</span></span></div><div class="quiz-grid" id="grid-prep-rr"></div></div>
+<div id="cat-cereb" class="category-section cat-cereb"><div class="cat-header" onclick="toggleAccordion('cat-cereb')"><span class="cat-badge">CEREB</span><span class="cat-title">Cerebellum <span class="topic-count" id="count-cereb">0</span></span></div><div class="quiz-grid" id="grid-cereb"></div></div>
+<div id="cat-dams" class="category-section cat-dams"><div class="cat-header" onclick="toggleAccordion('cat-dams')"><span class="cat-badge">DAMS</span><span class="cat-title">DAMS & PYQs <span class="topic-count" id="count-dams">0</span></span></div><div class="quiz-grid" id="grid-dams"></div></div>
+<div id="cat-dqb" class="category-section"><div class="cat-header" onclick="toggleAccordion('cat-dqb')"><span class="cat-badge">DQB</span><span class="cat-title">DQB (AIIMS) <span class="topic-count" id="count-dqb">0</span></span></div><div class="quiz-grid" id="grid-dqb"></div></div>
+<div id="cat-btr" class="category-section"><div class="cat-header" onclick="toggleAccordion('cat-btr')"><span class="cat-badge">BTR</span><span class="cat-title">BTR Institute <span class="topic-count" id="count-btr">0</span></span></div><div class="quiz-grid" id="grid-btr"></div></div>
+<div id="cat-other" class="category-section"><div class="cat-header" onclick="toggleAccordion('cat-other')"><span class="cat-badge">ETC</span><span class="cat-title">Other Resources <span class="topic-count" id="count-other">0</span></span></div><div class="quiz-grid" id="grid-other"></div></div>
+
+<div id="quiz-modal">
+    <div class="modal-content">
+        <span class="close-modal" onclick="closeModal()">&times;</span>
+        <iframe id="quiz-frame" src=""></iframe>
+    </div>
+</div>
+
+<footer>
+    MEDTRIX Pro • <span class="reset-link" onclick="resetProgress()">Reset Data</span>
+    <div class="footer-actions">
+        <button class="footer-btn" onclick="exportData()">💾 Backup</button>
+        <input type="file" id="importFile" onchange="importData(this)" style="display:none;">
+        <button class="footer-btn" onclick="document.getElementById('importFile').click()">📂 Restore</button>
+    </div>
+</footer>
+
+<div id="source-links">
+    <a href="anaesthesia_e_qb.html">Anaesthesia E Qb</a>
+    <a href="anant_e_qb.html">Anant E Qb</a>
+    <a href="anant_pyq.html">Anant Pyq</a>
+    <a href="anesthesia_pyq.html">Anesthesia Pyq</a>
+    <a href="biochem_e_qb.html">Biochem E Qb</a>
+    <a href="biochem_pyq.html">Biochem Pyq</a>
+    <a href="CEREB Anatomy.html">CEREB Anatomy</a>
+    <a href="CEREB Anesthesia.html">CEREB Anesthesia</a>
+    <a href="CEREB Biochemistry.html">CEREB Biochemistry</a>
+    <a href="CEREB BTR.html">CEREB BTR</a>
+    <a href="CEREB BTR's.html">CEREB BTR's</a>
+    <a href="CEREB Champion's_Batch.html">CEREB Champion's Batch</a>
+    <a href="CEREB Dermatology.html">CEREB Dermatology</a>
+    <a href="CEREB ENT.html">CEREB ENT</a>
+    <a href="CEREB Forensic_Medicine.html">CEREB Forensic Medicine</a>
+    <a href="CEREB Grand_Tests.html">CEREB Grand Tests</a>
+    <a href="CEREB Late_Night_PYQ_Marathons.html">CEREB Late Night PYQ Marathons</a>
+    <a href="CEREB Medicine.html">CEREB Medicine</a>
+    <a href="CEREB Microbiology.html">CEREB Microbiology</a>
+    <a href="CEREB Mid_Day_Modules.html">CEREB Mid Day Modules</a>
+    <a href="CEREB Obstetrics_&_Gynecology.html">CEREB Obstetrics & Gynecology</a>
+    <a href="CEREB Ophthalmology.html">CEREB Ophthalmology</a>
+    <a href="CEREB Orthopedics.html">CEREB Orthopedics</a>
+    <a href="CEREB Pathology.html">CEREB Pathology</a>
+    <a href="CEREB Pediatrics.html">CEREB Pediatrics</a>
+    <a href="CEREB Pharmacology.html">CEREB Pharmacology</a>
+    <a href="CEREB Physiology.html">CEREB Physiology</a>
+    <a href="CEREB Preventive_&_Social_Medicine.html">CEREB Preventive & Social Medicine</a>
+    <a href="CEREB previous_year_tests.html">CEREB previous year tests</a>
+    <a href="CEREB Psychiatry.html">CEREB Psychiatry</a>
+    <a href="CEREB Radiology.html">CEREB Radiology</a>
+    <a href="CEREB Surgery.html">CEREB Surgery</a>
+    <a href="CEREB_Anatomy.html">CEREB_Anatomy</a>
+    <a href="CEREB_Anesthesia.html">CEREB_Anesthesia</a>
+    <a href="CEREB_Biochemistry.html">CEREB_Biochemistry</a>
+    <a href="CEREB_Dermatology.html">CEREB_Dermatology</a>
+    <a href="CEREB_ENT.html">CEREB_ENT</a>
+    <a href="CEREB_Forensic_Medicine.html">CEREB_Forensic_Medicine</a>
+    <a href="CEREB_Medicine.html">CEREB_Medicine</a>
+    <a href="CEREB_Microbiology.html">CEREB_Microbiology</a>
+    <a href="CEREB_Obstetrics_&_Gynecology.html">CEREB_Obstetrics_&_Gynecology</a>
+    <a href="CEREB_Ophthalmology.html">CEREB_Ophthalmology</a>
+    <a href="CEREB_Orthopedics.html">CEREB_Orthopedics</a>
+    <a href="CEREB_Pathology.html">CEREB_Pathology</a>
+    <a href="CEREB_Pediatrics.html">CEREB_Pediatrics</a>
+    <a href="CEREB_Pharmacology.html">CEREB_Pharmacology</a>
+    <a href="CEREB_Physiology.html">CEREB_Physiology</a>
+    <a href="CEREB_Preventive_&_Social_Medicine.html">CEREB_Preventive_&_Social_Medicine</a>
+    <a href="CEREB_Psychiatry.html">CEREB_Psychiatry</a>
+    <a href="CEREB_Radiology.html">CEREB_Radiology</a>
+    <a href="CEREB_Surgery.html">CEREB_Surgery</a>
+    <a href="DAMS_CBT_1-4_combined.html">DAMS_CBT_1-4_combined</a>
+    <a href="DAMS_CT_FMGE.html">DAMS_CT_FMGE</a>
+    <a href="DAMS_CT_MBBS.html">DAMS_CT_MBBS</a>
+    <a href="DAMS_CT_NEETPG.html">DAMS_CT_NEETPG</a>
+    <a href="DAMS_DVT_Test.html">DAMS_DVT_Test</a>
+    <a href="DAMS_FMGE_Mock.html">DAMS_FMGE_Mock</a>
+    <a href="DAMS_Grand_Test_1-30.html">DAMS_Grand_Test_1-30</a>
+    <a href="DAMS_Grand_Test_30+.html">DAMS_Grand_Test_30+</a>
+    <a href="DAMS_Grand_Test_old.html">DAMS_Grand_Test_old</a>
+    <a href="DAMS_INICET_Mock.html">DAMS_INICET_Mock</a>
+    <a href="DAMS_MIQ.html">DAMS_MIQ</a>
+    <a href="DAMS_Mock_Test.html">DAMS_Mock_Test</a>
+    <a href="DAMS_NEETPG_Mock_combined.html">DAMS_NEETPG_Mock_combined</a>
+    <a href="DAMS_NEETPG_Mock.html">DAMS_NEETPG_Mock</a>
+    <a href="DAMS_Previous_Year_Paper.html">DAMS_Previous_Year_Paper</a>
+    <a href="DAMS_Subject_Test.html">DAMS_Subject_Test</a>
+    <a href="DAMS_SWT_Revision.html">DAMS_SWT_Revision</a>
+    <a href="DAMS_Transform_10X.html">DAMS_Transform_10X</a>
+    <a href="derma_e_qb.html">Derma E Qb</a>
+    <a href="derma_pyq.html">Derma Pyq</a>
+    <a href="DQB AIIMS_2014-2018.html">DQB AIIMS_2014-2018</a>
+    <a href="DQB Anatomy.html">DQB Anatomy</a>
+    <a href="DQB Anesthesia.html">DQB Anesthesia</a>
+    <a href="DQB Biochemistry.html">DQB Biochemistry</a>
+    <a href="DQB Dermatology.html">DQB Dermatology</a>
+    <a href="DQB ENT.html">DQB ENT</a>
+    <a href="DQB FMGE_PYQ.html">DQB FMGE_PYQ</a>
+    <a href="DQB FMT.html">DQB FMT</a>
+    <a href="DQB Gynaecology.html">DQB Gynaecology</a>
+    <a href="DQB INICET_PYQ.html">DQB INICET_PYQ</a>
+    <a href="DQB Medicine.html">DQB Medicine</a>
+    <a href="DQB Microbiology.html">DQB Microbiology</a>
+    <a href="DQB NEETPG_PYQ.html">DQB NEETPG_PYQ</a>
+    <a href="DQB Obstetrics.html">DQB Obstetrics</a>
+    <a href="DQB Ophthalmology.html">DQB Ophthalmology</a>
+    <a href="DQB Orthopaedics.html">DQB Orthopaedics</a>
+    <a href="DQB Pathology.html">DQB Pathology</a>
+    <a href="DQB Pediatrics.html">DQB Pediatrics</a>
+    <a href="DQB Pharmacology.html">DQB Pharmacology</a>
+    <a href="DQB Physiology.html">DQB Physiology</a>
+    <a href="DQB PSM.html">DQB PSM</a>
+    <a href="DQB Psychiatry.html">DQB Psychiatry</a>
+    <a href="DQB Radiology.html">DQB Radiology</a>
+    <a href="DQB Surgery.html">DQB Surgery</a>
+    <a href="DQB UPSC_CMS_PYQs.html">DQB UPSC_CMS_PYQs</a>
+    <a href="ent_e_qb.html">Ent E Qb</a>
+    <a href="ent_pyq.html">Ent Pyq</a>
+    <a href="fmt_e_qb.html">Fmt E Qb</a>
+    <a href="fmt_pyq.html">Fmt Pyq</a>
+    <a href="gyne__e_qb.html">Gyne  E Qb</a>
+    <a href="medicine_e_qb.html">Medicine E Qb</a>
+    <a href="medicine_pyq.html">Medicine Pyq</a>
+    <a href="micro_e_qb.html">Micro E Qb</a>
+    <a href="micro_pyq.html">Micro Pyq</a>
+    <a href="obg_pqy.html">Obg Pqy</a>
+    <a href="obs_e_qbank.html">Obs E Qbank</a>
+    <a href="ophth_e_qb.html">Ophth E Qb</a>
+    <a href="ophth_pyq.html">Ophth Pyq</a>
+    <a href="ortho_e_qb.html">Ortho E Qb</a>
+    <a href="ortho_pyq.html">Ortho Pyq</a>
+    <a href="patho_e_qbank.html">Patho E Qbank</a>
+    <a href="patho_pyq.html">Patho Pyq</a>
+    <a href="pedia_e_q_bank.html">Pedia E Q Bank</a>
+    <a href="pedia_pyq.html">Pedia Pyq</a>
+    <a href="pharma_eqb.html">Pharma Eqb</a>
+    <a href="pharma_pyq.html">Pharma Pyq</a>
+    <a href="physio__e_q_bank.html">Physio  E Q Bank</a>
+    <a href="physio_pyq.html">Physio Pyq</a>
+    <a href="Prep_RR_Qb_Anaesthesia.html">Prep Rr Qb Anaesthesia</a>
+    <a href="Prep_RR_Qb_Anatomy.html">Prep Rr Qb Anatomy</a>
+    <a href="Prep_RR_Qb_Biochemistry.html">Prep Rr Qb Biochemistry</a>
+    <a href="Prep_RR_Qb_Dermatology.html">Prep Rr Qb Dermatology</a>
+    <a href="Prep_RR_Qb_ENT.html">Prep Rr Qb Ent</a>
+    <a href="Prep_RR_Qb_Forensic_Medicine.html">Prep Rr Qb Forensic Medicine</a>
+    <a href="Prep_RR_Qb_Gynaecology___Obstetrics.html">Prep Rr Qb Gynaecology   Obstetrics</a>
+    <a href="Prep_RR_Qb_Medicine.html">Prep Rr Qb Medicine</a>
+    <a href="Prep_RR_Qb_Microbiology.html">Prep Rr Qb Microbiology</a>
+    <a href="Prep_RR_Qb_Ophthalmology.html">Prep Rr Qb Ophthalmology</a>
+    <a href="Prep_RR_Qb_Orthopaedics.html">Prep Rr Qb Orthopaedics</a>
+    <a href="Prep_RR_Qb_Pathology.html">Prep Rr Qb Pathology</a>
+    <a href="Prep_RR_Qb_Pediatrics.html">Prep Rr Qb Pediatrics</a>
+    <a href="Prep_RR_Qb_Pharmacology.html">Prep Rr Qb Pharmacology</a>
+    <a href="Prep_RR_Qb_Physiology.html">Prep Rr Qb Physiology</a>
+    <a href="Prep_RR_Qb_PSM.html">Prep Rr Qb Psm</a>
+    <a href="Prep_RR_Qb_Psychiatry.html">Prep Rr Qb Psychiatry</a>
+    <a href="Prep_RR_Qb_Radiology.html">Prep Rr Qb Radiology</a>
+    <a href="Prep_RR_Qb_Surgery.html">Prep Rr Qb Surgery</a>
+    <a href="prep_target_tests_combined.html">Prep Target Tests Combined</a>
+    <a href="prep_tests_combined.html">Prep Tests Combined</a>
+    <a href="prepx_Anaesthesia.html">Prepx Anaesthesia</a>
+    <a href="prepx_Anatomy.html">Prepx Anatomy</a>
+    <a href="prepx_Biochemistry.html">Prepx Biochemistry</a>
+    <a href="prepx_Dermatology.html">Prepx Dermatology</a>
+    <a href="prepx_ENT.html">Prepx Ent</a>
+    <a href="prepx_Forensic_Medicine.html">Prepx Forensic Medicine</a>
+    <a href="prepx_Gynaecology___Obstetrics.html">Prepx Gynaecology   Obstetrics</a>
+    <a href="prepx_Medicine.html">Prepx Medicine</a>
+    <a href="prepx_Microbiology.html">Prepx Microbiology</a>
+    <a href="prepx_Ophthalmology.html">Prepx Ophthalmology</a>
+    <a href="prepx_Orthopaedics.html">Prepx Orthopaedics</a>
+    <a href="prepx_Pathology.html">Prepx Pathology</a>
+    <a href="prepx_Pediatrics.html">Prepx Pediatrics</a>
+    <a href="prepx_Pharmacology.html">Prepx Pharmacology</a>
+    <a href="prepx_Physiology.html">Prepx Physiology</a>
+    <a href="prepx_PSM.html">Prepx Psm</a>
+    <a href="prepx_Psychiatry.html">Prepx Psychiatry</a>
+    <a href="prepx_Radiology.html">Prepx Radiology</a>
+    <a href="prepx_Surgery.html">Prepx Surgery</a>
+    <a href="previous papers _fmge_papers.html">Previous Papers  Fmge Papers</a>
+    <a href="previous papers inicet-aiims.html">Previous Papers Inicet-Aiims</a>
+    <a href="previous papers neet_pg_papers.html">Previous Papers Neet Pg Papers</a>
+    <a href="psm_e_qbank.html">Psm E Qbank</a>
+    <a href="psm_pyq.html">Psm Pyq</a>
+    <a href="psyc_e_qb.html">Psyc E Qb</a>
+    <a href="psyc_pyq.html">Psyc Pyq</a>
+    <a href="radio__e_qb.html">Radio  E Qb</a>
+    <a href="radio_pyq.html">Radio Pyq</a>
+    <a href="surgery_e_qb.html">Surgery E Qb</a>
+    <a href="surgery_pyq.html">Surgery Pyq</a>
+    </div>
+
+    <script>
+        let currentFilter = 'all'; 
+        const quotes = ["Medicine is a science of uncertainty and an art of probability.", "Wherever the art of Medicine is loved, there is also a love of Humanity.", "Study hard until you can say 'Doctor, I concur'.", "Don't stop when you're tired. Stop when you're done.", "The good physician treats the disease; the great physician treats the patient who has the disease."];
+        document.getElementById('dailyQuote').innerText = quotes[Math.floor(Math.random() * quotes.length)];
+
+        // --- LISTENER FOR ANALYTICS ---
+        window.addEventListener('message', function(e) {
+            if(e.data.type === 'QUIZ_STATS') {
+                console.log("Stats Received:", e.data);
+                updateGlobalStats(e.data);
+                updateSubjectStats(e.data); // NEW: Process subject-specific data
+            }
+        });
+
+        // NEW FUNCTION: Subject-Specific Stats Tracker
+        function updateSubjectStats(data) {
+            // Extract the core subject name (e.g., "Surgery E Qb" -> "Surgery")
+            const fullSubjectName = data.subject || "Unknown";
+            let coreSubject = fullSubjectName.split(' ')[0].replace('_', '');
+            
+            let subjectStats = JSON.parse(localStorage.getItem('medtrix_subject_stats') || '{}');
+            
+            if (!subjectStats[coreSubject]) {
+                subjectStats[coreSubject] = { correct: 0, total: 0, links: {} };
+            }
+
+            const newAttempts = data.questionsAttempted || 0;
+            const strikeRate = parseFloat(data.strikeRate || 0);
+            const approxCorrect = Math.round((newAttempts * strikeRate) / 100);
+            
+            // Update subject totals
+            subjectStats[coreSubject].total += newAttempts;
+            subjectStats[coreSubject].correct += approxCorrect;
+            
+            // Track the specific quiz link to open later
+            subjectStats[coreSubject].links[data.link || fullSubjectName] = true;
+
+            localStorage.setItem('medtrix_subject_stats', JSON.stringify(subjectStats));
+        }
+
+
+        function updateGlobalStats(data) {
+            let stats = JSON.parse(localStorage.getItem('medtrix_global_stats') || '{"correct":0, "total":0, "time":0, "sessions":0}');
+            
+            const newAttempts = data.questionsAttempted || 0;
+            const strikeRate = parseFloat(data.strikeRate || 0);
+            const approxCorrect = Math.round((newAttempts * strikeRate) / 100);
+            
+            stats.total += newAttempts;
+            stats.correct += approxCorrect;
+            stats.sessions = (stats.sessions || 0) + 1;
+            
+            localStorage.setItem('medtrix_global_stats', JSON.stringify(stats));
+            
+            const today = new Date().toDateString();
+            let daily = JSON.parse(localStorage.getItem('medtrix_daily_stats') || '{}');
+            if(daily.date !== today) { daily = { "date": today, "count": 0 }; }
+            daily.count += newAttempts;
+            localStorage.setItem('medtrix_daily_stats', JSON.stringify(daily));
+
+            updateStats();
+        }
+
+        function toggleTheme() {
+            const newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('medtrix-theme', newTheme);
+            updateStats();
+        }
+        if(localStorage.getItem('medtrix-theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+
+        function checkStreak() {
+            const lastVisit = localStorage.getItem('lastVisit');
+            const today = new Date().toDateString();
+            let streak = parseInt(localStorage.getItem('studyStreak') || 0);
+            if (lastVisit !== today) {
+                const yesterday = new Date(); yesterday.setDate(yesterday.getDate() - 1);
+                if (lastVisit === yesterday.toDateString()) streak++;
+                else if(lastVisit !== today) streak = 1;
+                localStorage.setItem('lastVisit', today);
+                localStorage.setItem('studyStreak', streak);
+            }
+            document.getElementById('streakCount').innerText = streak + " 🔥";
+        }
+
+        function updateLevel(totalQs) {
+            let title = "Intern 🩺";
+            let color = "var(--text)"; 
+            
+            if (totalQs > 500) { title = "Junior Resident 🏥"; color = "#00a8cc"; }
+            if (totalQs > 1500) { title = "Senior Resident 💉"; color = "#ff9800"; }
+            if (totalQs > 3000) { title = "Chief Surgeon 🏆"; color = "#d32f2f"; }
+            if (totalQs > 5000) { title = "God of Medicine ⚡"; color = "#ffd700"; }
+
+            const badge = document.getElementById('user-level');
+            badge.innerText = "Level: " + title;
+            badge.style.color = color;
+        }
+
+        function exportData() {
+            const data = JSON.stringify(localStorage);
+            const blob = new Blob([data], {type: "application/json"});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = "medtrix_backup.json";
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+
+        function importData(input) {
+            const file = input.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    if (confirm("Overwrite current progress?")) {
+                        localStorage.clear();
+                        for (let key in data) localStorage.setItem(key, data[key]);
+                        alert("Data restored!");
+                        location.reload();
+                    }
+                } catch (err) { alert("Invalid file."); }
+            };
+            reader.readAsText(file);
+        }
+
+        function toggleStatus(btn, id) {
+            btn.classList.toggle('checked');
+            localStorage.setItem(id, btn.classList.contains('checked'));
+            updateStats(); applyFilters(); 
+        }
+
+        function toggleStar(btn, id, linkText) {
+            btn.classList.toggle('active');
+            localStorage.setItem('fav_' + id, btn.classList.contains('active'));
+            location.reload(); 
+        }
+
+        function openModal(url) {
+            const modal = document.getElementById('quiz-modal');
+            const frame = document.getElementById('quiz-frame');
+            frame.src = url;
+            modal.style.display = 'block';
+        }
+        function closeModal() {
+            document.getElementById('quiz-modal').style.display = 'none';
+            document.getElementById('quiz-frame').src = "";
+            updateStats();
+        }
+
+        // Renders all Weak Subjects
+        function renderWeakSubjects(subjectStats) {
+            const weakGrid = document.getElementById('grid-weakness');
+            const weakSection = document.getElementById('cat-weakness');
+            weakGrid.innerHTML = '';
+            let weakCount = 0;
+            
+            for (const subject in subjectStats) {
+                const stats = subjectStats[subject];
+                if (stats.total > 50 && (stats.correct / stats.total) < 0.50) { // Flag if >50 questions attempted and score is <50%
+                    
+                    // Find a link for this subject (just take the first one)
+                    const firstLink = Object.keys(stats.links)[0];
+                    if (!firstLink) continue;
+
+                    // Create the card
+                    const card = document.createElement('div'); 
+                    card.className = 'quiz-card';
+                    card.style.borderLeft = '4px solid var(--weakness-border)';
+                    card.setAttribute('data-url', firstLink);
+                    card.onclick = () => openModal(firstLink);
+
+                    // Calculate the exact weakness score
+                    const percent = Math.round((stats.correct / stats.total) * 100);
+
+                    const titleDiv = document.createElement('div');
+                    titleDiv.className = 'quiz-link';
+                    titleDiv.innerHTML = `${subject.toUpperCase()} <span style="font-size:0.8em; color:#dc3545;">(${percent}%)</span>`;
+
+                    card.appendChild(titleDiv);
+                    weakGrid.appendChild(card);
+                    weakCount++;
+                }
+            }
+
+            document.getElementById('count-weakness').innerText = `[${weakCount}]`;
+            weakSection.style.display = weakCount > 0 ? 'block' : 'none';
+        }
+
+
+        function updateStats() {
+            const allChecks = document.querySelectorAll('.quiz-grid:not(#grid-favorites) .check-box');
+            const doneChecks = document.querySelectorAll('.quiz-grid:not(#grid-favorites) .check-box.checked');
+            const total = allChecks.length;
+            const done = doneChecks.length;
+            const percent = total > 0 ? Math.round((done / total) * 100) : 0;
+
+            document.getElementById('doneCount').innerText = done;
+            
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            const accentColor = isDark ? '#ffffff' : '#00a8cc';
+            document.getElementById('progressRing').style.background = `conic-gradient(${accentColor} ${percent}%, rgba(128,128,128,0.1) 0%)`;
+            document.getElementById('percentText').innerText = percent + "%";
+
+            const stats = JSON.parse(localStorage.getItem('medtrix_global_stats') || '{"correct":0, "total":0, "sessions":0}');
+            
+            let strikeRate = 0;
+            if(stats.total > 0) strikeRate = Math.round((stats.correct / stats.total) * 100);
+            document.getElementById('strikeText').innerText = stats.total > 0 ? strikeRate + "%" : "-";
+            
+            let strikeColor = isDark ? '#ffffff' : '#6c757d';
+            if(stats.total > 0) {
+                if(strikeRate >= 70) strikeColor = '#28a745';
+                else if(strikeRate >= 40) strikeColor = '#ffc107';
+                else strikeColor = '#dc3545';
+            }
+            document.getElementById('strikeRing').style.background = `conic-gradient(${strikeColor} ${strikeRate}%, rgba(128,128,128,0.1) 0%)`;
+
+            document.getElementById('avgTime').innerText = stats.sessions > 0 ? (stats.total / stats.sessions).toFixed(1) : "0";
+            document.getElementById('totalSolved').innerText = stats.total;
+            
+            const todayData = JSON.parse(localStorage.getItem('medtrix_daily_stats') || '{}');
+            const todayKey = new Date().toDateString();
+            const todayCount = (todayData.date === todayKey) ? todayData.count : 0;
+            document.getElementById('todayCount').innerText = todayCount;
+            
+            updateLevel(stats.total);
+
+            // RENDER WEAKNESSES
+            const subjectStats = JSON.parse(localStorage.getItem('medtrix_subject_stats') || '{}');
+            renderWeakSubjects(subjectStats);
+        }
+
+        function setFilter(type, btn) {
+            currentFilter = type;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            applyFilters();
+        }
+function applyFilters() {
+    const searchInput = document.getElementById('searchBar').value.toLowerCase();
+    const cards = document.getElementsByClassName('quiz-card');
+    const weaknessUrls = new Set();
+
+    // 1. If 'weakness' filter is active, build a list of weak subject URLs
+    if (currentFilter === 'weak') {
+        document.getElementById('grid-weakness').querySelectorAll('.quiz-card').forEach(card => {
+            weaknessUrls.add(card.getAttribute('data-url'));
+        });
+    }
+
+    for (let card of cards) {
+        const text = card.innerText.toLowerCase();
+        const isChecked = card.querySelector('.check-box').classList.contains('checked');
+        const cardUrl = card.getAttribute('data-url'); // Get the URL for weakness check
+
+        let matchesSearch = text.indexOf(searchInput) > -1;
+        let matchesFilter = true;
+
+        if (currentFilter === 'todo' && isChecked) matchesFilter = false;
+        if (currentFilter === 'done' && !isChecked) matchesFilter = false;
+
+        // 2. NEW LOGIC: Check if the card belongs to a weak subject
+        if (currentFilter === 'weak') {
+            // Only show cards whose URL is in the weaknessUrls set
+            matchesFilter = weaknessUrls.has(cardUrl);
+        }
+
+        card.style.display = (matchesSearch && matchesFilter) ? "flex" : "none";
+    }
+
+    // 3. Update category section visibility
+    document.querySelectorAll('.category-section').forEach(section => {
+        const visible = section.querySelectorAll('.quiz-card[style="display: flex;"]').length > 0;
+        // Ensure the Weakness section itself is only visible if it contains cards AND the filter isn't active
+        if (section.id === 'cat-weakness') {
+             section.style.display = (visible && currentFilter === 'weak') ? 'block' : 'none';
+        } else {
+             // For all other sections, hide them if the weakness filter is active, UNLESS it's the weakness section itself
+             section.style.display = (visible && currentFilter !== 'weak') ? 'block' : 'none';
+        }
+    });
+}
+
+        function toggleAccordion(id) { document.getElementById(id).classList.toggle('collapsed'); }
+
+        function jumpToCategory(id) {
+            if(!id) return;
+            const section = document.getElementById(id);
+            section.style.display = 'block'; section.classList.remove('collapsed');
+            section.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function openRandomQuiz() {
+            const cards = document.querySelectorAll('.quiz-grid:not(#grid-favorites) .quiz-card');
+            const todoCards = [];
+            cards.forEach(card => {
+                if (!card.querySelector('.check-box').classList.contains('checked')) {
+                    const link = card.getAttribute('data-url');
+                    if(link) todoCards.push(link);
+                }
+            });
+            if (todoCards.length === 0) { alert("You completed everything!"); return; }
+            const randomUrl = todoCards[Math.floor(Math.random() * todoCards.length)];
+            openModal(randomUrl);
+        }
+
+        function resetProgress() {
+            if(confirm("Reset ALL progress?")) { localStorage.clear(); location.reload(); }
+        }
+
+        window.onload = function() {
+            checkStreak();
+            const sourceDiv = document.getElementById('source-links');
+            const links = sourceDiv.getElementsByTagName('a');
+            const categoryCounts = { 'prep': 0, 'prep-rr': 0, 'cereb': 0, 'dams': 0, 'dqb': 0, 'btr': 0, 'other': 0 };
+
+            const createCard = (link, uniqueID, linkText) => {
+                const card = document.createElement('div'); card.className = 'quiz-card';
+                card.setAttribute('data-url', uniqueID);
+                
+                const check = document.createElement('div'); check.className = 'check-box';
+                if(localStorage.getItem(uniqueID) === 'true') check.classList.add('checked');
+                check.onclick = (e) => { e.stopPropagation(); toggleStatus(check, uniqueID); };
+
+                const newLink = document.createElement('div'); 
+                newLink.className = 'quiz-link'; newLink.innerText = linkText;
+                card.onclick = () => openModal(uniqueID);
+
+                const star = document.createElement('div'); star.className = 'star-btn';
+                star.innerHTML = '★';
+                if(localStorage.getItem('fav_' + uniqueID) === 'true') star.classList.add('active');
+                star.onclick = (e) => { e.stopPropagation(); toggleStar(star, uniqueID, linkText); };
+
+                card.appendChild(check); card.appendChild(newLink); card.appendChild(star);
+                return card;
+            };
+
+            for (let link of links) {
+                const href = link.getAttribute('href');
+                const text = link.innerText;
+                const fullStr = (href + " " + text).toLowerCase();
+                let cleanName = text.replace(/_/g, ' ').replace('.html', '').replace(/prepx/i, '').replace(/prep rr/i, '').replace(/e_qb/i, '').trim();
+
+                let gridId = 'grid-other'; let sectionId = 'cat-other'; let countKey = 'other';
+                if (fullStr.includes('prep rr')) { gridId='grid-prep-rr'; sectionId='cat-prep-rr'; countKey='prep-rr'; }
+                else if (fullStr.includes('prepx')) { gridId='grid-prep'; sectionId='cat-prep'; countKey='prep'; }
+                else if (fullStr.includes('cereb')) { gridId='grid-cereb'; sectionId='cat-cereb'; countKey='cereb'; }
+                else if (fullStr.includes('dams') || fullStr.includes('e_qb') || fullStr.includes('pyqs')) { gridId='grid-dams'; sectionId='cat-dams'; countKey='dams'; }
+                else if (fullStr.includes('dqb')) { gridId='grid-dqb'; sectionId='cat-dqb'; countKey='dqb'; }
+                else if (fullStr.includes('btr')) { gridId='grid-btr'; sectionId='cat-btr'; countKey='btr'; }
+
+                const grid = document.getElementById(gridId);
+                const section = document.getElementById(sectionId);
+                grid.appendChild(createCard(link, href, cleanName));
+                section.style.display = 'block';
+                categoryCounts[countKey]++;
+
+                if(localStorage.getItem('fav_' + href) === 'true') {
+                    document.getElementById('grid-favorites').appendChild(createCard(link, href, cleanName));
+                    document.getElementById('cat-favorites').style.display = 'block';
+                }
+            }
+
+            for (const [key, count] of Object.entries(categoryCounts)) {
+                const el = document.getElementById(`count-${key}`);
+                if (el) el.innerText = `[${count}]`;
+            }
+            updateStats();
+        };
+    </script>
+    
+<script>
+    function filterTests() {
+      var input, filter, container, buttons, button, txtValue, i;
+      input = document.getElementById("testSearch");
+      filter = input.value.toUpperCase();
+      
+      // Target the button grid specifically
+      // We look for the container inside 'internal-index' that holds buttons
+      container = document.getElementById("internal-index");
+      buttons = container.getElementsByTagName("button");
+      
+      for (i = 0; i < buttons.length; i++) {
+        button = buttons[i];
+        // Skip the "Back" button if it happens to be inside (usually fixed positioned, but good to be safe)
+        if (button.id === "back-to-index") continue;
+
+        txtValue = button.textContent || button.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+          button.style.display = "";
+        } else {
+          button.style.display = "none";
+        }
+      }
+    }
+</script>
+
+</body>
+    </html>

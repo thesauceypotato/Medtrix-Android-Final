@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "id": "test35",
+    "title": "Hematology-Multiple_Myeloma",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 70-year-old woman presents to the emergency department with severe back pain and weakness in her legs. She has been experiencing fatigue and increased thirst for the past month. Laboratory tests reveal: Serum calcium : 13 mg/dL Serum creatinine : 150 \u03bcmol/L (1.7 mg/dL) Hemoglobin : 8.5 g/dL Alkaline phosphatase (ALP) : 70 U/L (normal range) Serum phosphate : 3.5 mg/dL (normal) Imaging reveals findings as shown:  Based on this clinical presentation, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Osteoporosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paget\u2019s disease of bone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Multiple Myeloma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Renal osteodystrophy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Multiple Myeloma",
+      "question_images": [
+        "https://image.prepladder.com/notes/RlvkJWbK7KovOFTCcnVf1744403914.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3><strong>Diagnostic Criteria for Multiple Myeloma</strong><strong> (Option C)</strong></h3>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Presence of clonal <span class=\"customMeta\" data-dictid=\"5b9831f3aa169277718395d7361df6\">bone marrow</span> <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> cells or biopsy-proven bony/extramedullary <span class=\"customMeta\" data-dictid=\"d5111b80db16927771958b92f25b19\">plasmacytoma</span> and anyone or more of the following myeloma-defining events:</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Evidence of one or more indicators of <strong>end-organ damage</strong> attributed to the <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> cell disorder, specifically: <strong>(CRAB)</strong></p>\n<ul>\n<li><strong>Hypercalcemia</strong>: <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">Serum</span> <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> >0.25 mmol/L above the upper limit of normal or >2.75 mmol/L<strong> (>11 mg/dL)</strong>.</li>\n<li><strong>Renal Insufficiency</strong>: <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">Creatinine</span> <span class=\"customMeta\" data-dictid=\"3a3fb1b8a816927771840e6a344cc0\">clearance</span> <40 mL/min or <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">creatinine</span> >177 \u03bcmol/L <strong>(>2 mg/dL)</strong>.</li>\n<li><strong>Anemia</strong>: <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">Hemoglobin</span> >20 g/L below the lower limit of normal or haemoglobin <strong><100 g/L or <10g/100ml</strong>.</li>\n<li><strong>Bone Lesions</strong>: One or more <strong>osteolytic lesions </strong>identified on skeletal radiography, CT, or PET-CT.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biomarkers of Malignancy</strong> <strong>(any one of the following)</strong>:</p>\n<ul>\n<li>Clonal <span class=\"customMeta\" data-dictid=\"5b9831f3aa169277718395d7361df6\">bone marrow</span> <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> cells \u226560%.</li>\n<li>Involved: uninvolved serum-free <span class=\"customMeta\" data-dictid=\"578fe8d7dd16927771913c847ed254\">light chain</span> ratio \u2265100.</li>\n<li>1 <span class=\"customMeta\" data-dictid=\"da6db7b0e21692777203c4075458d3\">focal</span> <span class=\"customMeta\" data-dictid=\"d5e7bb15851692777191b39417c26a\">lesion</span> on <span class=\"customMeta\" data-dictid=\"7ce7bcb2f316927771938e0bea7f4d\">MRI</span> studies.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "57bfb053"
+    },
+    {
+      "text": "A 58-year-old male presents with fatigue, bone pain, and an elevated serum protein level. Bone marrow biopsy reveals 40% plasma cells. Cytogenetic studies show the following abnormalities: t(4;14), del 17p, and gain of 1q. Based on the mSMART 3.0 classification, which of the following best describes the patient\u2019s risk stratification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard-risk myeloma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Double-hit myeloma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "High-risk myeloma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Triple-hit myeloma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Triple-hit myeloma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:524px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>mSMART 3.0: <span class=\"customMeta\" data-dictid=\"dda6ab11271692777184264b752d39\">Classification</span> of Active MM</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High-Risk </strong><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Standard-Risk </strong><strong>(Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>High-risk genetic Abnormalities:</li>\n</ul>\n<ul>\n<li><strong>t(4;14)</strong></li>\n<li>t(14;16)</li>\n<li>t(14;20)</li>\n<li><strong>Del 17p</strong></li>\n<li>p53 mutation</li>\n<li><strong>Gain 1q </strong></li>\n</ul>\n<ul>\n<li>RISS Stage 3</li>\n<li>High <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">Plasma</span> Cell S-phase</li>\n<li>GEP: High-risk signature</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>All others, including:</p>\n<ul>\n<li>Trisomies</li>\n<li>t(11;14)</li>\n<li>t(6;14)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Double Hit Myeloma</strong>: Any 2 high-risk genetic abnormalities. <strong>(Option B)</strong></li>\n<li><strong>Triple Hit Myeloma</strong>: 3 or more high-risk genetic abnormalities. <strong>(Option D)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5766d3b5"
+    },
+    {
+      "text": "In multiple myeloma, osteoblast suppression is primarily associated with which of the following factors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased expression of RANKL by osteoblasts.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Enhanced production of macrophage inflammatory protein-1 alpha (MIP-1alpha).",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Elevated levels of Dickkopf 1 (DKK1) blocking Wnt signaling.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Decreased levels of IL-3 and IL-7.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Elevated levels of Dickkopf 1 (DKK1) blocking Wnt signaling.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/RgbED5B63s30dSTHpPSV1746520196.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Increased <span class=\"customMeta\" data-dictid=\"c21bdae5e116927771947204c2076c\">osteoclast</span> activity</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>This is driven by elevated<strong> <span class=\"customMeta\" data-dictid=\"cebebc510416927771979a104a1d7b\">RANKL</span> </strong>expression <strong>(Option A ruled out)</strong> from osteoblasts and possibly <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> cells, along with <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> levels of its decoy receptor, <strong>osteoprotegerin (OPG)</strong>.</li>\n<li>This <span class=\"customMeta\" data-dictid=\"2cc844bc9c1692777189739abf1dc5\">imbalance</span> (high RANKL/OPG ratio) promotes <span class=\"customMeta\" data-dictid=\"c21bdae5e116927771947204c2076c\">osteoclast</span> <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> and bone resorption.</li>\n<li>Additionally, <strong>macrophage <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">inflammatory</span> protein-1 <span class=\"customMeta\" data-dictid=\"a9268f2e1d16927771814cfef69cf4\">alpha</span> (MIP-1alpha) </strong><strong>(Option B ruled out)</strong>, IL-3, IL-6, and stromal-derived factor 1 <span class=\"customMeta\" data-dictid=\"a9268f2e1d16927771814cfef69cf4\">alpha</span> (SDF-1alpha) contribute to <span class=\"customMeta\" data-dictid=\"c21bdae5e116927771947204c2076c\">osteoclast</span> overactivity.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Osteoblast suppression</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Suppression is <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to increased levels of IL-3, IL-7, and Dickkopf 1 (DKK1), which inhibits <span class=\"customMeta\" data-dictid=\"8e55f8d71d1692777194a10c3d3d9d\">osteoblast</span> differentiation.</li>\n<li>DKK1, secreted by MM cells, blocks Wnt <span class=\"customMeta\" data-dictid=\"f9016f36fd1692777198b0fd5e9c6d\">signaling</span> and is associated with the presence of bone lesions. <strong>(Option C)</strong></li>\n<li>Elevated levels of IL-3 and IL-7 further <span class=\"customMeta\" data-dictid=\"6b3de87b7c16927771901326efbcd2\">inhibit</span> <span class=\"customMeta\" data-dictid=\"8e55f8d71d1692777194a10c3d3d9d\">osteoblast</span> function. <strong>(Option D ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3cae13d0"
+    },
+    {
+      "text": "A 65-year-old male presents with severe back pain, fatigue, confusion, and lethargy. Imaging reveals multiple osteolytic lesions; lab tests show elevated calcium and anemia, and serum protein electrophoresis identifies a monoclonal spike. Given this presentation, which complication is most likely contributing to his neurologic symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spinal cord compression from vertebral collapse",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hyperviscosity syndrome from increased serum proteins",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypercalcemia from bone destruction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Peripheral neuropathy due to plasma cell infiltration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hypercalcemia from bone destruction",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bone manifestation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bone pain </strong>is the<strong> most common symptom</strong>, affecting ~70% of patients. Persistent pain often indicates a <span class=\"customMeta\" data-dictid=\"e32252a2c41692777194fe542b3e35\">pathologic</span> fracture.</p>\n<ul>\n<li>Caused by tumour cell proliferation, <span class=\"customMeta\" data-dictid=\"c21bdae5e116927771947204c2076c\">osteoclast</span> activation, and <span class=\"customMeta\" data-dictid=\"8e55f8d71d1692777194a10c3d3d9d\">osteoblast</span> suppression.</li>\n<li>Osteoclast <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> is driven by cytokines like IL-1, VEGF, RANK ligand, and TNF, leading to bone destruction and <span class=\"customMeta\" data-dictid=\"d54da38aaa1692777191560f60c0f9\">lytic</span> lesions.</li>\n<li>Osteoblast <span class=\"customMeta\" data-dictid=\"7b7c55fbdd16927771990b50bda606\">suppression</span> is mediated by DKK-1, resulting in minimal new bone formation.</li>\n</ul>\n<p><strong>Hypercalcemia</strong>: Results from bone destruction, causing both <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> and chronic complications. Vertebral collapse may lead to <span class=\"customMeta\" data-dictid=\"d816ba952f1692777199fc69bd7c56\">spinal</span> cord compression.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Infections</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>2nd most common clinical issue</li>\n<li>Frequent pathogens include <em>S. pneumoniae, S. aureus,</em> and <em>K. pneumoniae</em> in the lungs, and <em>E. coli</em> in the <span class=\"customMeta\" data-dictid=\"0b72f5e96b16927772018dec8a87e2\">urinary</span> tract.</li>\n<li><strong>Immune dysfunction</strong> is caused by<strong> hypogammaglobulinemia</strong>, <span class=\"customMeta\" data-dictid=\"458e050fdc16927771809854c9fd53\">abnormal</span> T-cell function (reduced TH1, increased TH17), and impaired <span class=\"customMeta\" data-dictid=\"f0ff39a3fa1692777184cf743ca1e7\">complement</span> activity.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Renal Manifestation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Common causes include<strong> hypercalcemia</strong> (most common), <span class=\"customMeta\" data-dictid=\"51ad856e041692777181f80c9d507a\">amyloid</span> deposits, hyperuricemia, infections, NSAIDs, iodinated contrast, bisphosphonates, and <span class=\"customMeta\" data-dictid=\"aa6a0dfcb61692777193561ed10fac\">myeloma</span> cell infiltration.</p>\n<ul>\n<li><strong>Light Chain Damage</strong>: Excessive light chains in tubules cause damage, leading to adult<strong> Fanconi's syndrome </strong>(proximal <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> <span class=\"customMeta\" data-dictid=\"98d387b7bd1692777201278b27be72\">tubular</span> acidosis) with loss of glucose, <span class=\"customMeta\" data-dictid=\"543f207eb51692777181723491a358\">amino</span> acids, and impaired <span class=\"customMeta\" data-dictid=\"4aa6035df41692777190b41d4a1583\">kidney</span> function.</li>\n<li><strong>Proteinuria</strong>: Mainly <span class=\"customMeta\" data-dictid=\"578fe8d7dd16927771913c847ed254\">light chain</span> proteinuria, minimal <span class=\"customMeta\" data-dictid=\"1fa594dc2b169277718104d76aa4e2\">albumin</span> unless <span class=\"customMeta\" data-dictid=\"c9bd75ce5f1692777188f7fe800061\">glomeruli</span> are involved.</li>\n<li><strong>Decreased <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap </strong>due to cationic M component causing <span class=\"customMeta\" data-dictid=\"f7dbd0ab551692777184f9b1a73c6d\">chloride</span> retention. <strong>Pseudohyponatremia</strong> may occur due to <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> water content from increased proteins (Increased proteins retain water, leading to falsely low sodium levels)</li>\n<li>Patients are <span class=\"customMeta\" data-dictid=\"55691242bb1692777199360f64cb67\">susceptible</span> to <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> failure, especially if dehydrated.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Anemia</strong>: Normocytic, normochromic anaemia occurs in ~80% of patients due to <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> replacement, <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"ec50ec51401692777187009530441d\">erythropoietin</span> production, and therapy effects. Some may develop megaloblastic anaemia due to <span class=\"customMeta\" data-dictid=\"c66705291e1692777203ed3498a606\">folate</span> or B12 deficiency.</li>\n<li><strong>Clotting Abnormalities</strong>: Dysfunctional antibody-coated platelets and interactions between the M component and <span class=\"customMeta\" data-dictid=\"58c17961c71692777184ab55a9c4df\">clotting</span> factors can lead to <span class=\"customMeta\" data-dictid=\"58c17961c71692777184ab55a9c4df\">clotting</span> issues.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hyperviscosity Syndrome</strong>: Caused by high <span class=\"customMeta\" data-dictid=\"4eacb958f416927771942c6b96a705\">paraprotein</span> concentrations (especially IgM, IgG3, IgA), leading to increased <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> viscosity. Symptoms include headache, visual disturbances, fatigue, and coma. <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurologic Symptoms</strong>: Causes include <span class=\"customMeta\" data-dictid=\"78912d4b7f16927771890c20495303\">hypercalcemia</span> (lethargy, confusion) <strong>(Option C)</strong>, <span class=\"customMeta\" data-dictid=\"e8716e1e311692777189738429bab5\">hyperviscosity</span> (ataxia, coma), and bony damage (cord compression, <span class=\"customMeta\" data-dictid=\"02f52172cf1692777197fe1be2e386\">radicular</span> pain). Peripheral nerve <span class=\"customMeta\" data-dictid=\"669bdcb3111692777190e018ae930e\">infiltration</span> by <strong>amyloid</strong> can cause neuropathy. <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tumor Expansion</strong>: Although <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> cells spread widely, tumour expansion predominantly occurs within bone and bone marrow, with minimal involvement of <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> nodes, spleen, or gut-associated <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> tissue.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c9feaf07"
+    },
+    {
+      "text": "A 68-year-old woman presents to the clinic with increasing fatigue and bone pain. Laboratory tests reveal normocytic anemia, a high serum calcium level, and a serum protein electrophoresis that shows a significant monoclonal spike. Which cytokine is likely contributing to her anemia by inhibiting iron release?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interleukin-1 (IL-1)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-6 (IL-6)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-5 (IL-5)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vascular endothelial growth factor (VEGF)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Interleukin-6 (IL-6)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3><strong>Hematologic Abnormalities in Myeloma</strong></h3>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Anemia</strong>:</li>\n</ul>\n<p>Normocytic and normochromic <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> affects ~80% of <span class=\"customMeta\" data-dictid=\"aa6a0dfcb61692777193561ed10fac\">myeloma</span> patients.</p>\n<p>Caused by:</p>\n<ul>\n<li>Replacement of normal <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> by tumor cells.</li>\n<li>Tumor-induced <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of hematopoiesis.</li>\n<li>Reduced <span class=\"customMeta\" data-dictid=\"ec50ec51401692777187009530441d\">erythropoietin</span> production from the kidneys.</li>\n<li>Long-term therapy effects.</li>\n</ul>\n<ul>\n<li><strong>IL-6 Overproduction</strong>: Produced by <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> <span class=\"customMeta\" data-dictid=\"c077aecdcd1692777199503c836d9c\">stroma</span> and <span class=\"customMeta\" data-dictid=\"aa6a0dfcb61692777193561ed10fac\">myeloma</span> cells, contributing to <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> by increasing <span class=\"customMeta\" data-dictid=\"8b891dde731692777188b56c9cb5f3\">hepcidin</span> levels, which inhibits iron release from macrophages and reduces intestinal iron absorption.</li>\n<li><strong>Clotting Abnormalities</strong>:</li>\n</ul>\n<ul>\n<li>Result from dysfunctional antibody-coated platelets or interactions with <span class=\"customMeta\" data-dictid=\"58c17961c71692777184ab55a9c4df\">clotting</span> factors.</li>\n<li>Amyloid damage to endothelial cells may contribute.</li>\n</ul>\n<ul>\n<li><strong>Hypercoagulable States</strong>: Result from <span class=\"customMeta\" data-dictid=\"144d78fe4816927771852de984c62f\">defective</span> <span class=\"customMeta\" data-dictid=\"18c2380be716927772020c9b2863de\">fibrin</span> structure and <span class=\"customMeta\" data-dictid=\"efd9265c421692777202931bbcc4be\">fibrinolysis</span> due to elevated <span class=\"customMeta\" data-dictid=\"f8fab286571692777189bdfd087071\">immunoglobulin</span> levels, <span class=\"customMeta\" data-dictid=\"0f0b2969921692777180de24f0b0c0\">acquired</span> protein C resistance, and increased <span class=\"customMeta\" data-dictid=\"5719f0acf416927771967e59e7c469\">proinflammatory</span> cytokines.</li>\n<li><strong>Bleeding Complications</strong>: Generally uncommon but more frequent with <span class=\"customMeta\" data-dictid=\"68bae589ad169277718918627baff4\">IgA</span> paraproteins, high <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> <span class=\"customMeta\" data-dictid=\"f8fab286571692777189bdfd087071\">immunoglobulin</span> levels, and increased <span class=\"customMeta\" data-dictid=\"1ffaec13de169277719828374cfda0\">serum</span> viscosity. <span class=\"customMeta\" data-dictid=\"0f0b2969921692777180de24f0b0c0\">Acquired</span> von Willebrand factor <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> may occur.</li>\n<li><strong>Raynaud\u2019s phenomenon</strong> and impaired <span class=\"customMeta\" data-dictid=\"337d16dac5169277718474b97f6e4a\">circulation</span> can occur if the <span class=\"customMeta\" data-dictid=\"6bbbc1011e1692777191fe359176fa\">M component</span> forms cryoglobulins.</li>\n<li><strong>Thrombocytopenia</strong>: Rare in the early stages of myeloma, even with significant <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> involvement.</li>\n<li><strong>Thrombocytosis</strong>: May indicate <span class=\"customMeta\" data-dictid=\"77d120b4501692777189604740c430\">hyposplenism</span> due to <span class=\"customMeta\" data-dictid=\"51ad856e041692777181f80c9d507a\">amyloid</span> deposition in the spleen.</li>\n<li><strong>Lupus anticoagulants</strong>: Have been observed in some <span class=\"customMeta\" data-dictid=\"aa6a0dfcb61692777193561ed10fac\">myeloma</span> patients.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4948f759"
+    },
+    {
+      "text": "A 68-year-old male presents with fatigue, bone pain, anemia, hypercalcemia, and elevated creatinine. Imaging reveals multiple lytic bone lesions, and serum electrophoresis shows an M spike. Bone marrow biopsy reveals 15% clonal plasma cells. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multiple myeloma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Solitary plasmacytoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Smouldering multiple myeloma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Monoclonal Gammopathy of Undetermined Significance",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Multiple myeloma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "16c7761a"
+    },
+    {
+      "text": "A 65-year-old male presents with fatigue, bone pain, and recurrent infections. Laboratory tests show anemia, elevated serum creatinine, and hypercalcemia. An X-ray of the skull reveals findings as shown in the image. Which of the following findings is not consistent with a diagnosis in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biopsy shows increased plasma cells in the bone marrow >30% cellularity.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Immunofixation identifies heavy or light chain isotypes of abnormal proteins.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Biopsy shows the presence of Russell and Dutcher bodies in the bone marrow.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Serum electrophoresis reveals a broad, plateau-like peak in the beta region.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Serum electrophoresis reveals a broad, plateau-like peak in the beta region.",
+      "question_images": [
+        "https://image.prepladder.com/notes/q0TZpjlJSBR0BoU3a6v71744406103.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/BcZziBk1xynVlWlzHrpX1744406557.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5b2b996c"
+    },
+    {
+      "text": "Match the following conditions with the respective criteria used for their diagnosis . Condition Criteria 1. Plasma Cell Leukemia a) Clonal bone marrow plasma cells \u226560% 2. Multiple Myeloma b) Serum monoclonal protein (lgG or IgA) >30 g/L 3. Monoclonal Gammopathy of Undetermined Significance c) Plasma cell count >2000 plasma cells/\u03bcL 4. Smouldering Multiple Myeloma d) Clonal bone marrow plasma cells<10%",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-c, 2-a, 3-d, 4-b",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-d, 3-b, 4-c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-d, 2-b, 3-c, 4-a",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-b, 2-c, 3-a, 4-d",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-c, 2-a, 3-d, 4-b",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8be0b8aa"
+    },
+    {
+      "text": "A 58-year-old male presents with persistent back pain, fatigue, and recurrent minor fractures. Laboratory tests show anemia, elevated serum creatinine, and hypercalcemia. An X-ray of the skull is taken, which is shown below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metastasis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multiple myeloma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Eosinophilic granuloma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hyperparathyroidism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Multiple myeloma",
+      "question_images": [
+        "https://image.prepladder.com/notes/q0TZpjlJSBR0BoU3a6v71744406103.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/q0TZpjlJSBR0BoU3a6v71744406103.png",
+        "https://image.prepladder.com/notes/s71vUEcePHGJi9w5NGzA1744406927.png",
+        "https://image.prepladder.com/notes/PXsr7U1ibV2YXXURVZDF1744407623.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7d6972fd"
+    },
+    {
+      "text": "A 58-year-old male presents with fatigue, bone pain, and recurrent infections. Lab tests show elevated \u03b22-microglobulin and low albumin levels. Which of the following drugs is not part of his initial therapy for transplant-eligible patients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bortezomib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lenalidomide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cyclophosphamide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Dexamethasone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cyclophosphamide",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ZmglFNqtyGLKSDDkz5Mo1744407953.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "90ff764b"
+    },
+    {
+      "text": "A 64-year-old man presents with fever, fatigue, and recurrent infections. On further evaluation, his serum IgM level is 5g/dl. Which of the following is least likely to be associated with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peripheral neuropathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bone pain",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Retinal vessel segmentation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Recurrent infections",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bone pain",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d0a42dd4"
+    },
+    {
+      "text": "Which of the following components does not characterise POEMS syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peripheral edema",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Skin changes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Endocrine manifestations",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Organomegaly",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Peripheral edema",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:764px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>P</strong>olyneuropathy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>O</strong>rganomegaly <strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>E</strong>ndocrine <strong>M</strong>anifestations <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>S</strong>kin changes</p>\n<p><strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Patients typically experience severe, progressive <span class=\"customMeta\" data-dictid=\"068d6642471692777198d89a1be687\">sensorimotor</span> <span class=\"customMeta\" data-dictid=\"04863b50b516927771967b59757561\">polyneuropathy</span> <span class=\"customMeta\" data-dictid=\"8d0fca798b1692777191b6cd41880f\">linked</span> to <span class=\"customMeta\" data-dictid=\"934e9f88af169277719847f1a0728f\">sclerotic</span> bone lesions associated with myeloma.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hepatomegaly</li>\n<li>Lymphadenopathy</li>\n<li>Splenomegaly</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Women may experience amenorrhea.</li>\n<li>Males may have <span class=\"customMeta\" data-dictid=\"960bd9fb3d1692777189abb8d8f4cf\">impotence</span> and gynecomastia.</li>\n<li>Hyperprolactinemia is also seen.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hyperpigmentation</li>\n<li>Hypertrichosis</li>\n<li>Skin thickening,</li>\n<li>Digital clubbing.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "13199e02"
+    }
+  ]
+}

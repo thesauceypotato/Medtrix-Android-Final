@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "id": "test74",
+    "title": "Pulmonology-ABG_analysis",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 30-year-old male presents with: ABG: pH: 7.20, PaCO2: 25 mmHg, HCO3-: 10 mEq/L, Na+: 140 mEq/L, Cl-: 100 mEq/L, and Blood lactate: 12 mmol/L. Calculate: Anion gap Expected PaCO2 compensation",
+      "options": [
+        {
+          "label": "A",
+          "text": "AG=30, Expected PaCO2=25\u00b12",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "AG=30, Expected PaCO2=30\u00b12",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "AG=25, Expected PaCO2=25\u00b12",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "AG=25, Expected PaCO2=30\u00b12",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. AG=30, Expected PaCO2=25\u00b12",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4aa56122"
+    },
+    {
+      "text": "Match the acid base disorder with their respective etiology Condition Acid - base disorder 1. Ureterostomy a. High anion gap Metabolic acidosis 2. Opium poisoning b. Normal anion gap metabolic acidosis 3. Prolonged NG suction c. Respiratory acidosis 4. Salicylate poisoning d. Metabolic alkalosis",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-b, 2-a, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-b , 2-c ,3-d, 4-a",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-d, 2-b, 3-a, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1-b , 2-c ,3-d, 4-a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:767px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Condition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Acid - base disorder </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Reasoning </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Ureterostomy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Normal <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> acidosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Urine enters the bowel, where the <span class=\"customMeta\" data-dictid=\"31ae8f4dc51692777193069d92be37\">mucosa</span> reabsorbs <span class=\"customMeta\" data-dictid=\"0b72f5e96b16927772018dec8a87e2\">urinary</span> <span class=\"customMeta\" data-dictid=\"f7dbd0ab551692777184f9b1a73c6d\">chloride</span> and exchanges it for bicarbonate. This leads to a net increase in <span class=\"customMeta\" data-dictid=\"f7dbd0ab551692777184f9b1a73c6d\">chloride</span> in body fluids, causing a decrease in the strong <span class=\"customMeta\" data-dictid=\"4b2f2a6d0a16927771902f60fa9ff7\">ion</span> difference. The loss of <span class=\"customMeta\" data-dictid=\"2311c3b4ac16927771831d4c919043\">bicarbonate</span> also contributes to a normal <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> (NAGMA).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Opium poisoning</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Respiratory acidosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Opium <span class=\"customMeta\" data-dictid=\"072b8af16e1692777196f21b086f92\">poisoning</span> depresses the <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> center, leading to <span class=\"customMeta\" data-dictid=\"272d378524169277718972cc77dc98\">hypoventilation</span> and an increase in CO\u2082, causing <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> acidosis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Prolonged NG suction</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Metabolic alkalosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">NG <span class=\"customMeta\" data-dictid=\"bdc0a4cb9016927771995488a2b961\">suction</span> removes stomach acid (HCl), causing a relative <span class=\"customMeta\" data-dictid=\"7a1ae24f701692777187a7f60bbd9f\">excess</span> of <span class=\"customMeta\" data-dictid=\"2311c3b4ac16927771831d4c919043\">bicarbonate</span> and leading to <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> alkalosis.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Salicylate poisoning</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">High <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">Metabolic</span> acidosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Salicylate <span class=\"customMeta\" data-dictid=\"072b8af16e1692777196f21b086f92\">poisoning</span> leads to accumulation of organic acids, causing a high <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> acidosis</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4c07870a"
+    },
+    {
+      "text": "A 28-year-old pregnant woman at 32 weeks gestation is brought to the emergency department with severe abdominal pain and vomiting for the past 24 hours. She appears distressed and is breathing rapidly. Her vitals show BP 110/70 mmHg, HR 112/min, and RR 28/min. Based on the Davenport diagram provided, which areas would best represent her likely acid-base status initially and after 12 hours of untreated progression?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initially: Area C, After 12 hours: Area E",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Initially: Area D, After 12 hours: Area F",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Initially: Area A, After 12 hours: Area B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Initially: Area F, After 12 hours: Area C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Initially: Area C, After 12 hours: Area E",
+      "question_images": [
+        "https://image.prepladder.com/notes/s8w6oWYzh86Oos07MXha1744320108.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/s8w6oWYzh86Oos07MXha1744320108.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a9980272"
+    },
+    {
+      "text": "A 50-year-old alcoholic presents with severe abdominal pain. His ABG shows pH: 7.20 HCO3: 12 mEq/L Na+: 140 mEq/L Cl-: 98 mEq/L. Which of the following options correctly justifies the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delta ratio 0.4 - Pure NAGMA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Delta ratio 1.8 - Pure HAGMA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Delta ratio 0.6 - Mixed HAGMA and NAGMA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delta ratio 2.2 - HAGMA with metabolic alkalosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Delta ratio 1.8 - Pure HAGMA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "59c44d30"
+    },
+    {
+      "text": "A 45-year-old diabetic patient presents to emergency with nausea and vomiting for 2 days. His ABG shows: pH: 7.28 pCO2: 35 mmHg HCO3: 12 mEq/L Na+: 138 mEq/L Cl-: 102 mEq/L What is the acid-base disorder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metabolic acidosis with respiratory alkalosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Metabolic acidosis with respiratory acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mixed metabolic and respiratory acidosis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Mixed metabolic and respiratory acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "60228fa5"
+    },
+    {
+      "text": "A 68-year-old woman with a history of chronic kidney disease and recent severe pneumonia is admitted to the intensive care unit. She has been experiencing increased shortness of breath, confusion, and fatigue. Laboratory tests reveal the following: Arterial blood gas: pH 7.28, HCO\u2083\u207b 18 mmol/L, PaCO\u2082 50 mmHg Serum electrolytes: Na\u207a 140 mmol/L, K\u207a 4.2 mmol/L, Cl\u207b 100 mmol/L Based on the laboratory results and clinical presentation, what type of acid-base disorder is this patient experiencing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metabolic acidosis\u2014respiratory alkalosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metabolic acidosis\u2014respiratory acidosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis\u2014respiratory acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metabolic acidosis\u2014metabolic alkalosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Metabolic acidosis\u2014respiratory acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Mixed Acid-Base Disorders</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Examples</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Mixed <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">Metabolic</span> and Respiratory</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Metabolic acidosis\u2014respiratory alkalosis<strong> </strong></p>\n<p style=\"text-align: center;\"><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Lactic acidosis, <span class=\"customMeta\" data-dictid=\"fe9ab8afe416927771980091186846\">sepsis</span> in ICU</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Metabolic acidosis\u2014respiratory acidosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Severe pneumonia, <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Metabolic alkalosis\u2014respiratory alkalosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Liver disease and diuretics</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Metabolic alkalosis\u2014respiratory acidosis</p>\n<p style=\"text-align: center;\"><strong>(Option C ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">COPD on diuretics</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Mixed <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">Metabolic</span> Disorders</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Metabolic acidosis\u2014metabolic alkalosis</p>\n<p style=\"text-align: center;\"><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Uremia with vomiting</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Metabolic acidosis\u2014metabolic acidosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\">Diarrhea and <span class=\"customMeta\" data-dictid=\"b82539c9ae1692777191a3f7ddd7bb\">lactic</span> acidosis, <span class=\"customMeta\" data-dictid=\"6904566e541692777200fb8d790a3f\">toluene</span> toxicity, treatment of <span class=\"customMeta\" data-dictid=\"a5603ff98316927771865d7ae41f16\">diabetic</span> ketoacidosis</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "60044059"
+    },
+    {
+      "text": "A 72-year-old man with a history of chronic kidney disease and COPD presents to the emergency department with confusion, shortness of breath, and fatigue. He has been experiencing increased nausea and vomiting over the past week. Laboratory tests reveal: Arterial blood gas: pH 7.29, HCO\u2083\u207b 18 mmol/L, PaCO\u2082 60 mmHg Serum electrolytes: Na\u207a 138 mmol/L, K\u207a 4.8 mmol/L, Cl\u207b 102 mmol/L Based on the provided laboratory results, what type of acid-base disorder is this patient experiencing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory acidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mixed respiratory and metabolic acidosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fully compensated metabolic acidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mixed respiratory and metabolic acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ec65ddc4"
+    },
+    {
+      "text": "A 65-year-old man with a history of chronic obstructive pulmonary disease (COPD) presents to the emergency department with light-headedness and confusion along with tingling sensation of his limbs. He has also been experiencing persistent vomiting for the past three days. Arterial blood gas shows the following findings pH - 7.48 HCO3- - 38 mEq/L PaCO2 - 40 mm hg Based on the provided laboratory results, how would you classify the patient's metabolic disorder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fully compensated metabolic alkalosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Partially compensated metabolic alkalosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Uncompensated metabolic alkalosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Normal acid-base balance",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Partially compensated metabolic alkalosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "799c4141"
+    },
+    {
+      "text": "A 50-year-old woman with a history of hypertension presents to the emergency department with confusion and muscle cramps. She reports having persistent vomiting for the last two days after taking an over-the-counter medication for indigestion. On examination, she has a blood pressure of 130/85 mmHg and shows signs of mild dehydration. Laboratory results reveal: Arterial blood gas: pH 7.48, HCO\u2083\u207b 30 mmol/L, PaCO\u2082 45 mmHg Serum electrolytes: Na\u207a 140 mmol/L, K\u207a 3.0 mmol/L, Cl\u207b 88 mmol/L What is the most likely diagnosis for this patient based on the laboratory findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory acidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Respiratory alkalosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Metabolic alkalosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0e5fdd7e"
+    },
+    {
+      "text": "A 60-year-old man with a history of chronic kidney disease presents to the emergency department with fatigue and shortness of breath. He has been experiencing nausea and vomiting for the past two days. Laboratory tests reveal: Arterial blood gas: pH 7.30, HCO\u2083\u207b 12 mmol/L, PaCO\u2082 30 mmHg Serum electrolytes: Na\u207a 140 mmol/L, Cl\u207b 104 mmol/L, K\u207a 5.0 mmol/L Based on the provided laboratory results, how would you classify the patient\u2019s metabolic disorder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fully compensated metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Partially compensated metabolic acidosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Uncompensated metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Normal acid-base balance",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Partially compensated metabolic acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "587bbfdd"
+    },
+    {
+      "text": "A 45-year-old woman presents to the emergency department with diarrhea for the past three days. She reports fatigue and mild abdominal cramping. Laboratory tests show the following: Arterial blood gas pH 7.30 HCO\u2083\u207b 15 mmol/L PaCO\u2082 38 mmHg Serum electrolytes Na\u207a 140 mmol/L Cl\u207b 115 mmol/L K\u207a 4.5 mmol/L What is the type of metabolic acidosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal Anion Gap Metabolic Acidosis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "High Anion Gap Metabolic Acidosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Respiratory Acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Normal Anion Gap Metabolic Acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b90fdb21"
+    },
+    {
+      "text": "A 62-year-old female with known COPD presents with increased muscle weakness and difficulty in breathing. On examination she appears confused and her arterial blood gas (ABG) results are as follows: pH : 7.29 PaCO\u2082 : 65 mm Hg HCO\u2083\u207b : 26 mEq/L PaO\u2082 : 65 mm Hg. Which of the following best describes the underlying mechanism for this patient's presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased metabolic rate leading to excess CO\u2082 production",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Impaired ventilatory control due to central respiratory depression",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Impaired responsiveness of the respiratory reflexes to states of hypoxia and hypercapnia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Decreased oxygen-carrying capacity of the blood",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Impaired responsiveness of the respiratory reflexes to states of hypoxia and hypercapnia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:757px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Respiratory Acidosis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Causes </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Respiratory <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> results from impaired <span class=\"customMeta\" data-dictid=\"a58f1f33f81692777201ad5e0d60ca\">ventilation</span> due to <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> disease, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> muscle fatigue, or abnormalities in <span class=\"customMeta\" data-dictid=\"f14b6fe4d3169277720152885b1b38\">ventilatory</span> control</p>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Central <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> depression:</strong> Drugs (sedatives, anesthetics), alcohol, trauma, or <span class=\"customMeta\" data-dictid=\"cd42e0ddad1692777190d18c595ec5\">intracranial</span> tumors.<strong>(Type 2 <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure)</strong></li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Respiratory muscle fatigue:</strong> <span class=\"customMeta\" data-dictid=\"29e1987f81169277719209260ba0f1\">Motor neuron</span> diseases, <span class=\"customMeta\" data-dictid=\"8b19cd5e161692777193ad958e52e0\">neuromuscular</span> <span class=\"customMeta\" data-dictid=\"9f0942c0b51692777190ee876713e5\">junction</span> disorders, skeletal muscle disease.<strong>(Type 2 <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure)</strong></li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Mechanical <span class=\"customMeta\" data-dictid=\"a58f1f33f81692777201ad5e0d60ca\">ventilation</span> issues:</strong> Improper settings, increased CO\u2082 production, high <span class=\"customMeta\" data-dictid=\"f934e237e81692777196cb5efd18f0\">positive end-expiratory pressure</span> (PEEP) in low <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> output <strong>(Type 3 <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure)</strong></li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Obstructive lung disease:</strong> End-stage conditions, <span class=\"customMeta\" data-dictid=\"cc2003e35d1692777184a26dae1a68\">chronic obstructive <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> disease</span> (COPD). <strong>(Type 1 <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure)</strong></li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Restrictive lung disorders:</strong> Both <span class=\"customMeta\" data-dictid=\"06e0403a9c16927771846fde1c53f8\">chest wall</span> and lung issues <strong>(Type 1 <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> failure)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Types </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li style=\"text-align: center;\"><strong>Acute </strong>Respiratory Acidosis<strong>:</strong> <span class=\"customMeta\" data-dictid=\"8c77461be01692777184e67e678209\">Compensatory</span> rise in HCO\u2083\u207b by 1 mmol/L for every 10-mmHg increase in PaCO\u2082 due to <span class=\"customMeta\" data-dictid=\"12a6f23332169277718402ca6703e2\">cellular</span> buffering.</li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Chronic </strong>Respiratory <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">Acidosis</span> (<strong>>24 hrs</strong>)<strong>: </strong>Renal <span class=\"customMeta\" data-dictid=\"c623a72bdd16927771808d60122016\">adaptation</span> elevates HCO\u2083\u207b by 4 mmol/L per 10-mmHg PaCO\u2082 increase; HCO\u2083\u207b rarely exceeds 38 mmol/L.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li style=\"text-align: center;\"><strong>Acute </strong>hypercapnia<strong>:</strong> Anxiety, dyspnea, confusion, hallucinations, possible <span class=\"customMeta\" data-dictid=\"3c305b384216927771969ca4166493\">progression</span> to coma.</li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Chronic </strong>hypercapnia<strong>:</strong> Sleep disturbances, memory loss, daytime sleepiness, personality changes, motor disturbances (tremor, myoclonus, asterixis), headache, papilledema, and <span class=\"customMeta\" data-dictid=\"da6db7b0e21692777203c4075458d3\">focal</span> muscle weakness.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li style=\"text-align: center;\"><strong>Main goal: </strong>Improve lung function.</li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Acute</strong>: <span class=\"customMeta\" data-dictid=\"93fc46142c169277718989349069a3\">Immediate cause</span> <span class=\"customMeta\" data-dictid=\"82343f61171692777197b4a08bc719\">reversal</span> with measures like <span class=\"customMeta\" data-dictid=\"83e66fab2f1692777190a43a6e300f\">intubation</span> and assisted ventilation; careful oxygen <span class=\"customMeta\" data-dictid=\"38938f6b8f16927772000e7292bb2e\">titration</span> for patients with chronic CO\u2082 retention.</li>\n</ul>\n<p style=\"text-align: center;\">\u00a0</p>\n<ul>\n<li style=\"text-align: center;\"><strong>Chronic</strong>: Avoid rapid CO\u2082 reduction (as it can cause<strong> </strong><strong>CO\u2082</strong><strong> <span class=\"customMeta\" data-dictid=\"67d67b341916927772029cd0d951df\">washout</span> a</strong>nd loss of <strong>respiratory </strong><strong>drive</strong>); gradual reduction to <span class=\"customMeta\" data-dictid=\"3c8a051a89169277718256c92278c5\">baseline</span> PaCO\u2082; provide Cl\u207b and K\u207a to aid <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> HCO\u2083\u207b excretion.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "cbf5158f"
+    },
+    {
+      "text": "A 75-year-old man presents to the emergency department with severe abdominal pain, vomiting, frequent urination, confusion, and labored, deep breathing and he is difficult to arouse. Lab investigations reveal the following findings Na+ - 135 mEq/L K+ - 5.2 mEq/L Cl - 100 mEq/L HCO3 - 15 mEq/L Serum pH - 7.15 What is the least likely cause of these findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methanol poisoning",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diabetic ketoacidosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Renal tubular acidosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Renal failure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Renal tubular acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:788px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Metabolic <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Definition</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li style=\"text-align:center\">Primary decrease in HCO3\u207b or increase in H\u207a ions</li>\n<li style=\"text-align:center\">Characterized by \u2193 pH and \u2193 HCO3\u207b</li>\n<li style=\"text-align:center\">Compensatory mechanism: \u2193 PaCO2 through <span class=\"customMeta\" data-dictid=\"e07ff4a5ce1692777189b9e95326f3\">hyperventilation</span> (Kussmaul breathing)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Types </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>High <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap (AG > 12 mEq/L)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Normal <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">anion</span> gap (AG 6-12 mEq/L)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3 style=\"text-align:center\"><strong>Causes </strong></h3>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3 style=\"text-align:center\"><strong>(Mnemonic: MUDPILES)</strong></h3>\n<ul>\n<li style=\"text-align:center\"><strong>M</strong>: Methanol<strong> (Option A)</strong></li>\n<li style=\"text-align:center\"><strong>U</strong>: Uremia (Renal failure)<strong> (Option D)</strong></li>\n<li style=\"text-align:center\"><strong>D</strong>: Diabetic <span class=\"customMeta\" data-dictid=\"27b295ed331692777190e5e04eaa18\">ketoacidosis</span> (DKA)<strong> (Option B)</strong></li>\n<li style=\"text-align:center\"><strong>P</strong>: Paraldehyde, Phenformin, Propylene glycol</li>\n<li style=\"text-align:center\"><strong>I</strong>: Iron tablets, Isoniazid</li>\n<li style=\"text-align:center\"><strong>L</strong>: Lactic acidosis</li>\n<li style=\"text-align:center\"><strong>E</strong>: <span class=\"customMeta\" data-dictid=\"8e2fdef08316927771877389af9cc7\">Ethylene</span> glycol</li>\n<li style=\"text-align:center\"><strong>S</strong>: Salicylates (late phase)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3><strong>(Mnemonic: HARD UP)</strong></h3>\n<ul>\n<li><strong>H</strong>: Hyperalimentation (TPN)</li>\n<li><strong>A</strong>: Acetazolamide</li>\n<li><strong>R</strong>: Renal <span class=\"customMeta\" data-dictid=\"98d387b7bd1692777201278b27be72\">Tubular</span> <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">Acidosis</span> <strong> </strong><strong>(Option C)</strong></li>\n<li><strong>D</strong>: Diarrhea</li>\n<li><strong>U</strong>: Ureteral diversion</li>\n<li><strong>P</strong>: Pancreatic fistula</li>\n<li>GIT fistulas</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h2 style=\"text-align:center\"><strong>Clinical Features</strong></h2>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">General Features:</p>\n<ul>\n<li style=\"text-align:center\">Lethargy</li>\n<li style=\"text-align:center\">Confusion</li>\n<li style=\"text-align:center\">Fatigue</li>\n<li style=\"text-align:center\">Nausea/vomiting</li>\n<li style=\"text-align:center\">Deep, rapid breathing (Kussmaul)</li>\n</ul>\n<p style=\"text-align:center\">\u00a0</p>\n<p style=\"text-align:center\">Specific Features:</p>\n<ul>\n<li style=\"text-align:center\">DKA: Fruity breath, polyuria, polydipsia</li>\n<li style=\"text-align:center\">Uremia: Itching, volume overload</li>\n<li style=\"text-align:center\">Lactic acidosis: Shock, hypotension</li>\n<li style=\"text-align:center\">Toxic ingestion: Visual disturbances (methanol), <span class=\"customMeta\" data-dictid=\"28ddbfbaa51692777194aa6875fac4\">oxalate</span> crystals (ethylene glycol)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e34a3ff6"
+    },
+    {
+      "text": "An intern reviews the following electrolyte levels for a patient: Sodium (Na\u207a): 140 mEq/L Chloride (Cl\u207b): 100 mEq/L Bicarbonate (HCO\u2083\u207b): 24 mEq/L Potassium (K\u207a): 4.0 mEq/L What is the calculated anion gap for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12 mEq/L",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "16 mEq/L",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "20 mEq/L",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "24 mEq/L",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 16 mEq/L",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Maintenance of <span class=\"customMeta\" data-dictid=\"53e82fca731692777181e629a02799\">Anion</span> Gap</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Major unmeasured anions:</p>\n<ul>\n<li style=\"text-align: center;\">Proteins (mainly <strong>albumin</strong>)</li>\n<li style=\"text-align: center;\">Phosphate</li>\n<li style=\"text-align: center;\">Sulfate</li>\n<li style=\"text-align: center;\">Organic acids</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Major unmeasured cations:</p>\n<ul>\n<li style=\"text-align: center;\">Calcium</li>\n<li style=\"text-align: center;\">Magnesium</li>\n<li style=\"text-align: center;\">Potassium</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dab347ef"
+    },
+    {
+      "text": "A 28-year-old anxious female presents with hyperventilation during a panic attack. ABG shows: pH: 7.48 PaCO2: 20 mmHg HCO3-: 22 mEq/L Which acid-base disorder is present?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uncompensated respiratory alkalosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Partially compensated respiratory alkalosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fully compensated respiratory alkalosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mixed respiratory and metabolic alkalosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Partially compensated respiratory alkalosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2b2cacc4"
+    },
+    {
+      "text": "A 65-year-old male with severe COPD presents with worsening breathlessness. His ABG shows: pH : 7.28, PaCO2 : 65 mmHg, HCO3 -: 30 mEq/L Which stage of respiratory acidosis does this represent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uncompensated respiratory acidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Partially compensated respiratory acidosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Fully compensated respiratory acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mixed respiratory and metabolic acidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Partially compensated respiratory acidosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0845df7b"
+    },
+    {
+      "text": "Which of the following statements regarding the test shown in the image, which is done prior to arterial blood sampling is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preferred site for arterial sampling is the radial artery between the flexor carpi radialis tendon and the styloid process",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Both ulnar and radial arteries should be released simultaneously after occlusion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The presence of collaterals is confirmed if the hand becomes flushed after releasing one artery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pressure should be applied to the site for 5 minutes after blood sampling to prevent hematoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Both ulnar and radial arteries should be released simultaneously after occlusion",
+      "question_images": [
+        "https://image.prepladder.com/notes/VJXSVghA9JprCO52PPrH1744319541.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:739px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Modified Allen Test</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anatomy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2022 <span class=\"customMeta\" data-dictid=\"4fff084ff9169277719765c9d85a8e\">Radial</span> artery: <span class=\"customMeta\" data-dictid=\"fc380e21321692777191739bd99191\">Lateral</span> forearm</p>\n<p>\u2022 <span class=\"customMeta\" data-dictid=\"d7fd512e881692777201909450fd8c\">Ulnar</span> artery: <span class=\"customMeta\" data-dictid=\"db46007ad21692777192dcc160a2e2\">Medial</span> forearm</p>\n<p>\u2022 Deep arch: Mainly from <span class=\"customMeta\" data-dictid=\"4fff084ff9169277719765c9d85a8e\">radial</span> artery</p>\n<p>\u2022 <span class=\"customMeta\" data-dictid=\"ebb480187d1692777199e233e9e356\">Superficial</span> arch: Mainly from <span class=\"customMeta\" data-dictid=\"d7fd512e881692777201909450fd8c\">ulnar</span> artery</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Preferred Site for arterial sampling</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Radial <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> between <span class=\"customMeta\" data-dictid=\"3674af39031692777202252504982a\">flexor</span> carpi <span class=\"customMeta\" data-dictid=\"282d33f842169277719716e285a377\">radialis</span> <span class=\"customMeta\" data-dictid=\"606c2acae5169277720052151cb04c\">tendon</span> and <span class=\"customMeta\" data-dictid=\"29e4241b931692777199403b75a8e3\">styloid</span> process <strong>(Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2022 Before <span class=\"customMeta\" data-dictid=\"4fff084ff9169277719765c9d85a8e\">radial</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> cannulation</p>\n<p>\u2022 Prior to arterial line placement</p>\n<p>\u2022 Before <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> catheterization</p>\n<p>\u2022 Pre-radial <span class=\"customMeta\" data-dictid=\"258a5bb5841692777203cfb8e31f55\">forearm</span> <span class=\"customMeta\" data-dictid=\"7eae099d8d1692777202469603e6ed\">flap</span> harvest</p>\n<p>\u2022 Before <span class=\"customMeta\" data-dictid=\"b905d8d51416927771821f9cceb3a3\">arterial blood</span> gas sampling</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Modified <span class=\" custommeta\"=\"\" data-dictid=\"ad883bfd3f1692777181ca1dd644b8\"/>Allen Test 1\" data-author=\"NA\" data-hash=\"8959\" data-license=\"NA\" data-source=\"NA\" data-tags=\"\" height=\"293\" src=\"https://image.prepladder.com/notes/KhDfZYfvfDJ9LUOvcdhk1744319650.png\" width=\"293\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n<figure class=\"caption_element\"><img alt=\"Modified <span class=\" custommeta\"=\"\" data-dictid=\"ad883bfd3f1692777181ca1dd644b8\"/>Allen Test steps\" data-author=\"NA\" data-hash=\"8960\" data-license=\"NA\" data-source=\"NA\" data-tags=\"\" src=\"https://image.prepladder.com/notes/Lrej1yO5mqNw6aUnGuk41744319738.png\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n<ul>\n<li>Sequential release allows assessment of individual <span class=\"customMeta\" data-dictid=\"4de12d1ef31692777184db1d11c6bd\">collateral</span> flow</li>\n<li>Cannot evaluate <span class=\"customMeta\" data-dictid=\"4de12d1ef31692777184db1d11c6bd\">collateral</span> <span class=\"customMeta\" data-dictid=\"337d16dac5169277718474b97f6e4a\">circulation</span> if both are released together <strong>(Option B)</strong></li>\n<li>Examines one hand at a time</li>\n<li>Avoid elbow overextension</li>\n<li>Palm should initially blanch</li>\n<li>Normal color should return quickly</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Interpretation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Positive Test: <strong>(Option C)</strong></p>\n<p>\u2022 Color returns within 10 seconds \u2192 Adequate <span class=\"customMeta\" data-dictid=\"4de12d1ef31692777184db1d11c6bd\">collateral</span> flow</p>\n\t\t\t\u00a0\n\n\t\t\t<p>Negative Test:</p>\n<p>\u2022 Persistent <span class=\"customMeta\" data-dictid=\"dd5d862f051692777194647422e1c9\">pallor</span> after release \u2192 inadequate <span class=\"customMeta\" data-dictid=\"4de12d1ef31692777184db1d11c6bd\">collateral</span> flow \u2192May need additional testing</p>\n<p>\u2022 Consider temperature effects</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Precaution</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pressure applied on blood <span class=\"customMeta\" data-dictid=\"521de62abe16927771989a90d0e9e8\">sampling</span> site for 5 minutes after <span class=\"customMeta\" data-dictid=\"521de62abe16927771989a90d0e9e8\">sampling</span> is done <strong>(Option D)</strong><strong> </strong>to prevent hematoma</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "963738b3"
+    },
+    {
+      "text": "A 28-year-old woman presents to the emergency department with anxiety, dizziness, and circumoral numbness. She also reports chest tightness and difficulty taking a deep breath. Physical examination reveals tachypnea and carpopedal spasms. Arterial blood gas shows pH: 7.48, PaCO2: 28 mmHg, HCO3: 22 mEq/L, PaO2: 98 mmHg. Which of the following sets of additional findings would be most consistent with this acid-base disorder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypoxemia, cyanosis, and metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paresthesias, reduced cerebral blood flow and decreased ionized calcium",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hypertension, pulmonary edema, and increased ionized calcium",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Somnolence, asterixis, and increased cerebral blood flow",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Paresthesias, reduced cerebral blood flow and decreased ionized calcium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:689px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Cause</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Neurological</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 Dizziness</p>\n<p style=\"text-align: center;\">\u2022 Mental confusion</p>\n<p style=\"text-align: center;\">\u2022 Paresthesias</p>\n<p style=\"text-align: center;\">\u2022 <span class=\"customMeta\" data-dictid=\"a042d4d7881692777184ae941a44b9\">Circumoral</span> numbness</p>\n<p style=\"text-align: center;\">\u2022 Seizures (severe cases)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 Due to <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> cerebral blood flow</p>\n<p style=\"text-align: center;\">\u2022 From rapid \u2193 PaCO2</p>\n<p style=\"text-align: center;\">\u2022 May occur without hypoxemia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Cardiovascular</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 Chest tightness/pain</p>\n<p style=\"text-align: center;\">\u2022 Palpitations</p>\n<p style=\"text-align: center;\">\u2022 Arrhythmias</p>\n<p style=\"text-align: center;\">\u2022 Possible <span class=\"customMeta\" data-dictid=\"40ebcbf95e169277718613d7c2d999\">ECG</span> changes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 Due to <span class=\"customMeta\" data-dictid=\"bc8bc758371692777185eff2ccabb7\">coronary</span> vasoconstriction</p>\n<p style=\"text-align: center;\">\u2022 \u2193 ionized <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> effects</p>\n<p style=\"text-align: center;\">\u2022 <span class=\"customMeta\" data-dictid=\"26c59156491692777183e66150a323\">Bohr effect</span> on O2 delivery</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Neuromuscular</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 <span class=\"customMeta\" data-dictid=\"ae4dc0619116927771831407152055\">Carpopedal</span> spasms</p>\n<p style=\"text-align: center;\">\u2022 Tetany</p>\n<p style=\"text-align: center;\">\u2022 Muscle twitching</p>\n<p style=\"text-align: center;\">\u2022 Weakness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 From \u2193 ionized calcium</p>\n<p style=\"text-align: center;\">\u2022 Enhanced nerve excitability</p>\n<p style=\"text-align: center;\">\u2022 Similar to hypocalcemia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Laboratory</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 \u2191 pH</p>\n<p style=\"text-align: center;\">\u2022 \u2193 PaCO2</p>\n<p style=\"text-align: center;\">\u2022 \u2193 Ionized calcium</p>\n<p style=\"text-align: center;\">\u2022 \u2193 K+, \u2193 PO4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 Acute: \u2193 HCO3- by 2 mEq/L per 10 mmHg \u2193 PaCO2</p>\n<p style=\"text-align: center;\">\u2022 Chronic: \u2193 HCO3- by 4-5 mEq/L per 10 mmHg \u2193 PaCO2</p>\n<p style=\"text-align: center;\">\u2022 <span class=\"customMeta\" data-dictid=\"2e0552462e16927771871413861fb7\">Electrolyte</span> shifts into cells</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Underlying Disease:</strong></p>\n<p style=\"text-align: center;\">\u2022 Treat primary condition</p>\n<p style=\"text-align: center;\">\u2022 Address anxiety if present</p>\n<p style=\"text-align: center;\">\u2022 Manage <span class=\"customMeta\" data-dictid=\"fe9ab8afe416927771980091186846\">sepsis</span> if present</p>\n<p style=\"text-align: center;\">\u00a0</p>\n<p style=\"text-align: center;\"><strong>Hyperventilation Syndrome:</strong></p>\n<p style=\"text-align: center;\">\u2022 Reassurance</p>\n<p style=\"text-align: center;\">\u2022 Rebreathing techniques</p>\n<p style=\"text-align: center;\">\u2022 Paper bag breathing if needed</p>\n<p style=\"text-align: center;\">\u2022 \u03b2-blockers if needed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">\u2022 Primary focus on the underlying cause</p>\n<p style=\"text-align: center;\">\u2022 Avoid sedatives for anxiety</p>\n<p style=\"text-align: center;\">\u2022 Monitor during mechanical ventilation</p>\n<p style=\"text-align: center;\">\u2022 Adjust <span class=\"customMeta\" data-dictid=\"072a58ab7d169277720130e58f9614\">ventilator</span> settings if needed</p>\n<p style=\"text-align: center;\">\u2022 Regular monitoring of blood gases</p>\n<p style=\"text-align: center;\">\u2022 Address psychological factors</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "310877fd"
+    },
+    {
+      "text": "A 25-year-old pregnant woman at 28 weeks gestation presents with light-headedness and tingling in her fingers. Her vitals show RR 24/min, and arterial blood gas reveals: pH: 7.46, PaCO2: 32 mmHg, HCO3: 23 mEq/L. Which of the following best explains the pathogenesis of her acid-base disturbance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct CNS depression causing decreased respiratory drive",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Progesterone-mediated increase in ventilatory response",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Compensatory hyperventilation from metabolic acidosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Compensatory hyperventilation from metabolic acidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Progesterone-mediated increase in ventilatory response",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:683px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Pathogenic Mechanism</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>CNS Stimulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Pain</p>\n<p style=\"text-align:center\">\u2022 Anxiety/panic</p>\n<p style=\"text-align:center\">\u2022 Fever</p>\n<p style=\"text-align:center\">\u2022 Stroke</p>\n<p style=\"text-align:center\">\u2022 Meningitis</p>\n<p style=\"text-align:center\">\u2022 Brain tumor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Direct <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> of <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> center</p>\n<p style=\"text-align:center\">\u2022 Increased <span class=\"customMeta\" data-dictid=\"f14b6fe4d3169277720152885b1b38\">ventilatory</span> drive</p>\n<p style=\"text-align:center\">\u2022 Often <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> presentation</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Hypoxemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 High altitude</p>\n<p style=\"text-align:center\">\u2022 Pneumonia</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> edema</p>\n<p style=\"text-align:center\">\u2022 Severe anemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">Stimulation</span> of <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> chemoreceptors</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"8c77461be01692777184e67e678209\">Compensatory</span> hyperventilation</p>\n<p style=\"text-align:center\">\u2022 Attempt to increase O2 delivery</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Hormonal/Drug</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Pregnancy</p>\n<p style=\"text-align:center\">\u2022 Progesterone</p>\n<p style=\"text-align:center\">\u2022 Salicylates</p>\n<p style=\"text-align:center\">\u2022 Methylxanthines</p>\n<p style=\"text-align:center\">\u2022 Catecholamines</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Increased sensitivity to CO2</p>\n<p style=\"text-align:center\">\u2022 Direct <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> stimulation</p>\n<p style=\"text-align:center\">\u2022 Enhanced <span class=\"customMeta\" data-dictid=\"f14b6fe4d3169277720152885b1b38\">ventilatory</span> response</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Systemic Disease</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Sepsis</p>\n<p style=\"text-align:center\">\u2022 Liver failure</p>\n<p style=\"text-align:center\">\u2022 Heart failure</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> embolism</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Multiple mechanisms</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"9d21dd5d3116927771907405b181bc\">Inflammatory</span> mediators</p>\n<p style=\"text-align:center\">\u2022 Altered <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> demands</p>\n<p style=\"text-align:center\">\u2022 Early marker of disease</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Mechanical</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Mechanical ventilation</p>\n<p style=\"text-align:center\">\u2022 Iatrogenic</p>\n<p style=\"text-align:center\">\u2022 Exercise</p>\n<p style=\"text-align:center\">\u2022 Heat exposure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 External factors affecting ventilation</p>\n<p style=\"text-align:center\">\u2022 Inappropriate <span class=\"customMeta\" data-dictid=\"072a58ab7d169277720130e58f9614\">ventilator</span> settings</p>\n<p style=\"text-align:center\">\u2022 Increased <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> demands</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6b80113c"
+    },
+    {
+      "text": "A 65-year-old man with severe COPD presents with worsening confusion and somnolence. Arterial blood gas shows: pH: 7.25 PaCO2: 70 mmHg HCO3: 32 mEq/L PaO2: 55 mmHg. Which of the following represents the most appropriate initial management approach?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapidly normalize PaCO2 with mechanical ventilation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Provide controlled oxygen therapy and treat underlying COPD exacerbation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Give sodium bicarbonate to correct acidemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Observe and monitor without intervention",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Provide controlled oxygen therapy and treat underlying COPD exacerbation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:728px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Acute Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Chronic Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Special Considerations</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Respiratory Support</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Controlled O2 therapy</p>\n<p style=\"text-align:center\">\u2022 Consider NIV/CPAP</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"83e66fab2f1692777190a43a6e300f\">Intubation</span> if needed</p>\n<p style=\"text-align:center\">\u2022 Monitor O2 saturation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Long-term O2 therapy</p>\n<p style=\"text-align:center\">\u2022 Home <span class=\"customMeta\" data-dictid=\"0e4135f3bc1692777193047657d8c5\">NIV</span> if indicated</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> rehabilitation</p>\n<p style=\"text-align:center\">\u2022 Sleep study if needed</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Avoid high O2 in COPD</p>\n<p style=\"text-align:center\">\u2022 Target SpO2 88-92%</p>\n<p style=\"text-align:center\">\u2022 Low <span class=\"customMeta\" data-dictid=\"9de1765e531692777200d737a38c98\">tidal</span> volume(5-6 ml/kg)</p>\n<p style=\"text-align:center\">\u2022 Monitor for CO2 retention</p>\n<p style=\"text-align:center\">\u2022 Consider sleep disorders</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Medical Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Bronchodilators</p>\n<p style=\"text-align:center\">\u2022 Corticosteroids if indicated</p>\n<p style=\"text-align:center\">\u2022 Treat infection if present</p>\n<p style=\"text-align:center\">\u2022 Avoid sedation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Optimize <span class=\"customMeta\" data-dictid=\"6a75d857ea1692777185f9245b02b8\">COPD</span> medications</p>\n<p style=\"text-align:center\">\u2022 Manage comorbidities</p>\n<p style=\"text-align:center\">\u2022 Vaccinations</p>\n<p style=\"text-align:center\">\u2022 Smoking cessation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Drug interactions</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"79506a117416927771988bbe7a8302\">Side effect</span> monitoring</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"5f8b7d103016927771806be7e4190b\">Adherence</span> assessment</p>\n<p style=\"text-align:center\">\u2022 Prevention strategies</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Monitoring</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Frequent ABGs</p>\n<p style=\"text-align:center\">\u2022 Continuous vitals</p>\n<p style=\"text-align:center\">\u2022 Mental status</p>\n<p style=\"text-align:center\">\u2022 Work of breathing</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Regular PFTs</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"53ddc0755c1692777195e8d5f9fc68\">Periodic</span> ABGs</p>\n<p style=\"text-align:center\">\u2022 Symptom diary</p>\n<p style=\"text-align:center\">\u2022 Quality of life measures</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Avoid rapid correction</p>\n<p style=\"text-align:center\">\u2022 Watch for complications</p>\n<p style=\"text-align:center\">\u2022 Monitor <span class=\"customMeta\" data-dictid=\"05bef24e711692777193a154b462b4\">nutrition</span> status</p>\n<p style=\"text-align:center\">\u2022 Follow electrolytes</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a5597458"
+    },
+    {
+      "text": "A 68-year-old man with severe COPD presents with progressive confusion, daytime sleepiness, and morning headaches over the past month. On examination, he has a coarse tremor and asterixis. Arterial blood gas shows pH 7.32, PaCO2 68 mmHg, HCO3- 34 mEq/L. Which combination of additional findings would be most consistent with this patient's acid-base disorder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acute anxiety, hallucinations, and respiratory distress",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sleep disorders, personality changes, and polycythemia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acute dyspnea, psychosis, and normal bicarbonate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Muscle weakness, confusion, and metabolic acidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sleep disorders, personality changes, and polycythemia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:756px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Acute <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">Respiratory</span> Acidosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Chronic <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">Respiratory</span> Acidosis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Neurological</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Anxiety (due to <span class=\"customMeta\" data-dictid=\"1f0bd058f91692777189f9a7c1992e\">hypercapnia</span> stimulating <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> center)</p>\n<p style=\"text-align:center\">\u2022 Confusion (from rapid rise in CO2 affecting brain function)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"1cb2d1482916927771964c2890313e\">Psychosis</span> (due to <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> cerebral effects of hypercapnia)</p>\n<p style=\"text-align:center\">\u2022 Hallucinations (from <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> CO2 narcosis)</p>\n<p style=\"text-align:center\">\u2022 May progress to <span class=\"customMeta\" data-dictid=\"e39842f67b1692777184171cd1852a\">coma</span> (severe CO2 <span class=\"customMeta\" data-dictid=\"9cecc0269c1692777193b12fa5a9c4\">narcosis</span> affecting consciousness)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Daytime <span class=\"customMeta\" data-dictid=\"beeeac6882169277719829db4504e9\">somnolence</span> (chronic CO2 retention)</p>\n<p style=\"text-align:center\">\u2022 Memory loss (chronic cerebral <span class=\"customMeta\" data-dictid=\"c623a72bdd16927771808d60122016\">adaptation</span> to elevated CO2)</p>\n<p style=\"text-align:center\">\u2022 Personality changes (long-term effects of CO2 on brain)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"8fc96e0f801692777182e62c6fa8dc\">Asterixis</span> (metabolic <span class=\"customMeta\" data-dictid=\"539bcbde1816927771869c822915a9\">derangement</span> from chronic CO2 retention)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"bb6d2476421692777200c2af1ac0c8\">Tremor</span> (neuromuscular effects of chronic hypercapnia)</p>\n<p style=\"text-align:center\">\u2022 Myoclonic jerks (neuromuscular <span class=\"customMeta\" data-dictid=\"982688ae75169277719041afa70c42\">irritability</span> from chronic CO2)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Respiratory</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> <span class=\"customMeta\" data-dictid=\"c92aa64edb16927771867805a38cc6\">dyspnea</span> (compensatory response to high CO2)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">Respiratory</span> <span class=\"customMeta\" data-dictid=\"afafb9026e1692777186e3dd168fa8\">distress</span> (immediate response to acidemia)</p>\n<p style=\"text-align:center\">\u2022 Use of <span class=\"customMeta\" data-dictid=\"9088e1c7f616927771802e7f6d2541\">accessory</span> muscles (attempt to increase ventilation)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"9bde62b1091692777183cd433d9d47\">Bronchospasm</span> (airway response to <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> acidosis)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Chronic <span class=\"customMeta\" data-dictid=\"c92aa64edb16927771867805a38cc6\">dyspnea</span> (adaptation to chronic CO2 retention)</p>\n<p style=\"text-align:center\">\u2022 Sleep disorders (central effects of chronic hypercapnia)</p>\n<p style=\"text-align:center\">\u2022 Morning headaches (nocturnal CO2 retention)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"4534214488169277718575e08a9bc0\">Cor</span> pulmonale signs (right heart strain from chronic hypoxia)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Laboratory</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 \u2193 pH</p>\n<p style=\"text-align:center\">\u2022 \u2191 PaCO2</p>\n<p style=\"text-align:center\">\u2022 HCO3- \u2191 by 1 mEq/L per 10 mmHg \u2191 PaCO2</p>\n<p style=\"text-align:center\">\u2022 Often with hypoxemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 \u2193 pH (less severe)</p>\n<p style=\"text-align:center\">\u2022 \u2191 PaCO2</p>\n<p style=\"text-align:center\">\u2022 HCO3- \u2191 by 4 mEq/L per 10 mmHg \u2191 PaCO2</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"7fd466a9c016927771962d5b061b0f\">Polycythemia</span> may develop</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Common Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 Severe asthma/bronchospasm</p>\n<p style=\"text-align:center\">\u2022 Upper <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> obstruction</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"e1a4a12fb416927771841c46faf6fb\">CNS</span> depression (drugs/trauma)</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"8b19cd5e161692777193ad958e52e0\">Neuromuscular</span> weakness</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">\u2022 COPD</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"c5ff3f2d211692777194ddf14e24c4\">Obesity</span> hypoventilation</p>\n<p style=\"text-align:center\">\u2022 <span class=\"customMeta\" data-dictid=\"8b19cd5e161692777193ad958e52e0\">Neuromuscular</span> disorders</p>\n<p style=\"text-align:center\">\u2022 Kyphoscoliosis</p>\n<p style=\"text-align:center\">\u2022 Central hypoventilation</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7bbaf3c9"
+    }
+  ]
+}

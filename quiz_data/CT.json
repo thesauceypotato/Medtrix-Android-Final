@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "CT",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is not a true statement about CT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MDCT offers a better 3D reconstruction",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The higher the pitch, the lower will be the CT quality",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Helical CT is faster than non-helical CT",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The higher the pitch, the higher will be the radiation dose",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The higher the pitch, the higher will be the radiation dose",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/image-20240408180644-1.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture12.jpg"
+      ],
+      "explanation": "<p><strong>Ans. D. Higher the pitch, the higher will be the radiation dose</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. MDCT offers a better 3D reconstruction. Multidetector CT (MDCT) allows for faster data acquisition and finer spatial resolution , facilitating superior 3D reconstruction of images.</li><li>\u2022 Option A. MDCT offers a better 3D reconstruction.</li><li>\u2022 faster data acquisition and finer spatial resolution</li><li>\u2022 Option B. The higher the pitch, the lower will be the CT quality. Increasing the pitch , which refers to the table movement speed relative to the X-ray beam's width , an lead to decreased image quality due to potential artifacts and increased noise.</li><li>\u2022 Option B. The higher the pitch, the lower will be the CT quality.</li><li>\u2022 Increasing the pitch</li><li>\u2022 table movement speed relative to the X-ray beam's width</li><li>\u2022 Option C. Helical CT is faster than non-helical CT. Helical (spiral) CT uses continuous data acquisition as the patient moves through the scanner, leading to quicker scans compared to the step-and-shoot approach of non-helical CT.</li><li>\u2022 Option C. Helical CT is faster than non-helical CT.</li><li>\u2022 continuous data acquisition</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 :</li><li>\u27a4 A higher pitch in CT scanning correlates with a faster table movement and typically results in a lower radiation dose to the patient, contrary to the notion that it increases dose exposure .</li><li>\u27a4 higher pitch in CT scanning</li><li>\u27a4 faster table movement</li><li>\u27a4 lower radiation dose</li><li>\u27a4 contrary to the notion</li><li>\u27a4 increases dose exposure</li><li>\u27a4 Figure 1 CT Scanner</li><li>\u27a4 Figure</li><li>\u27a4 1</li><li>\u27a4 CT Scanner</li><li>\u27a4 Ref : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 928</li><li>\u27a4 Ref</li><li>\u27a4 : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 928</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "def389ed",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are correctly paired with HU on CT except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fat: 0-20",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Contrast: 130",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acute hemorrhage: 60-70",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Calcification: 800-1000",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fat: 0-20",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture13.jpg"
+      ],
+      "explanation": "<p><strong>Ans. A. Fat: 0-20</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Contrast: 130. Iodinated contrast material used in CT imaging generally appears bright with HU around 130, which is a correct pairing.</li><li>\u2022 Option B. Contrast: 130.</li><li>\u2022 Iodinated contrast material</li><li>\u2022 CT imaging</li><li>\u2022 appears bright</li><li>\u2022 Option C. Acute hemorrhage: 60-70. Acute blood can be identified on a CT scan within this HU range , making this pairing correct.</li><li>\u2022 Option C. Acute hemorrhage: 60-70.</li><li>\u2022 identified on a CT scan</li><li>\u2022 HU range</li><li>\u2022 Option D. Calcification: 800-1000. Calcifications are dense materials that have high HU values within the range of 800-1000, correctly paired here.</li><li>\u2022 Option D. Calcification: 800-1000.</li><li>\u2022 dense materials that have high HU values</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The correct Hounsfield Unit (HU) range for fat on a CT scan is typically negative, between - 80 to -100 HU , not 0-20 as incorrectly stated.</li><li>\u27a4 Hounsfield Unit</li><li>\u27a4 range for fat on a CT scan</li><li>\u27a4 negative,</li><li>\u27a4 80 to -100 HU</li><li>\u27a4 HU values:</li><li>\u27a4 HU values:</li><li>\u27a4 Ref : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 6</li><li>\u27a4 Ref</li><li>\u27a4 : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 6</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c4037fb1",
+      "audio": ""
+    },
+    {
+      "text": "A radiologist is reporting a CECT of a patient diagnosed to have a renal lesion on USG. He is inclined to make a diagnosis of right renal cyst. What is the Hounsfield number for the lesion if his diagnosis is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\u201380",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "-100",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "+100",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture14.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture15.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. 0</strong></p>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 :</li><li>\u27a4 The correct Hounsfield Unit (HU) for a simple renal cyst on a contrast-enhanced CT scan is 0 , reflecting its water-like density .</li><li>\u27a4 Hounsfield Unit</li><li>\u27a4 simple renal cyst on a contrast-enhanced CT scan is 0</li><li>\u27a4 water-like density</li><li>\u27a4 Ref : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018) , page 430</li><li>\u27a4 Ref</li><li>\u27a4 : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018) , page 430</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "796d549a",
+      "audio": ""
+    },
+    {
+      "text": "Identify the imaging modality shown in the figure:",
+      "options": [
+        {
+          "label": "A",
+          "text": "MRI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CT",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Angiography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Contrast study",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. CT",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture16.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture17_wlQUlus.jpg",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture18.jpg"
+      ],
+      "explanation": "<p><strong>Ans. B. CT</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation :</li><li>\u2022 Option A. MRI. Magnetic Resonance Imaging (MRI) does not typically depict cortical bone as white , as it uses magnetic fields and radio waves to generate images , and the cortical bone appears dark or with low signal due to lack of hydrogen atoms.</li><li>\u2022 Option A. MRI.</li><li>\u2022 not typically depict cortical bone</li><li>\u2022 white</li><li>\u2022 uses magnetic fields</li><li>\u2022 radio waves to generate images</li><li>\u2022 Option C. Angiography. This is a technique used to visualize the inside of blood vessels and organs , often using a contrast medium, but it does not provide detailed images of bone structures.</li><li>\u2022 Option C. Angiography.</li><li>\u2022 technique used to visualize the inside of blood vessels</li><li>\u2022 organs</li><li>\u2022 Option D. Contrast study. Contrast studies or fluoroscopy, such as HSG, IVP, and ERCP, involve real-time imaging with the use of iodinated contrast . They are typically used to image hollow structures or vessels, not solid structures like bones.</li><li>\u2022 Option D. Contrast study.</li><li>\u2022 fluoroscopy, such as HSG, IVP, and ERCP, involve real-time imaging</li><li>\u2022 use of iodinated contrast</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The images are from a CT scan , as evidenced by the white appearance of the cortical bone , a characteristic of CT imaging's high-resolution capability for bony structures.</li><li>\u27a4 CT scan</li><li>\u27a4 white appearance of the cortical bone</li><li>\u27a4 CT imaging's high-resolution capability for bony structures.</li><li>\u27a4 CONTRAST STUDIES</li><li>\u27a4 CONTRAST STUDIES</li><li>\u27a4 Ref : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 429</li><li>\u27a4 Ref : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 429</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "933ecc36",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are true about the technique shown in the image below except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provide endoluminal view",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Can also be done using MRI",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Colonic distension with CO2 is necessary",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IOC for acute diverticulitis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. IOC for acute diverticulitis",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture18_f6oVdvd.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. IOC for acute diverticulitis</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Provides an endoluminal view. This is true as the technique visualizes the inside of the colon.</li><li>\u2022 Option A. Provides an endoluminal view.</li><li>\u2022 true</li><li>\u2022 Option B. Can also be done using MRI. This is true ; virtual colonoscopy can be performed using MRI for detailed images of soft tissue structures within the colon.</li><li>\u2022 Option B. Can also be done using MRI.</li><li>\u2022 true</li><li>\u2022 Option C. Colonic distension with CO2 is necessary. True, colonic distension is required to separate the walls of the colon for better visualization.</li><li>\u2022 Option C. Colonic distension with CO2 is necessary.</li><li>\u2022 True,</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 :</li><li>\u27a4 Virtual colonoscopy is contraindicated in the acute phase of diverticulitis due to the risk of complications such as perforation.</li><li>\u27a4 Virtual colonoscopy</li><li>\u27a4 acute phase of diverticulitis</li><li>\u27a4 Ref : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 297</li><li>\u27a4 Ref</li><li>\u27a4 : Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 297</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8a1bd479",
+      "audio": ""
+    },
+    {
+      "text": "The walls of the CT scanner rooms are coated with which of the following compounds:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tungsten",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iron",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lead",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glass",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Lead",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Lead</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 :</li><li>\u2022 Option A. Tungsten. Although tungsten has high density and atomic number suitable for radiation shielding , it is not commonly used for structural shielding due to its cost and practicality.</li><li>\u2022 Option A. Tungsten.</li><li>\u2022 tungsten has high density</li><li>\u2022 atomic number</li><li>\u2022 radiation shielding</li><li>\u2022 Option B. Iron. Iron, while dense , is not typically used for shielding CT scanner rooms because it is not as effective as lead in absorbing radiation.</li><li>\u2022 Option B. Iron.</li><li>\u2022 while dense</li><li>\u2022 used for shielding CT scanner rooms</li><li>\u2022 not as effective as lead</li><li>\u2022 Option D. Glass. Standard glass is not an effective material for radiation shielding; specialized leaded glass may be used in some settings but not typically for room coatings.</li><li>\u2022 Option D. Glass.</li><li>\u2022 not an effective material</li><li>\u2022 radiation shielding;</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective</li><li>\u27a4 :</li><li>\u27a4 Lead is used to coat the walls of CT scanner rooms as it effectively absorbs ionizing radiation , providing essential protection in medical imaging facilities.</li><li>\u27a4 Lead is used to coat the walls of CT scanner rooms</li><li>\u27a4 absorbs ionizing radiation</li><li>\u27a4 essential protection in medical imaging facilities.</li><li>\u27a4 Ref: Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition(2018),page 222</li><li>\u27a4 Ref:</li><li>\u27a4 Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition(2018),page 222</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "62cfa206",
+      "audio": ""
+    },
+    {
+      "text": "Congenital Zika virus infection shows microcephaly with gray matter-white matter zone calcification. The investigation of choice to detect congenital Zika virus infection is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "MRI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "X-RAY",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CT angiography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "NCCT",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. NCCT",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture19_tWnRfgz.jpg"
+      ],
+      "explanation": "<p><strong>Ans. D. NCCT</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 :</li><li>\u2022 Option A. MRI. Magnetic Resonance Imaging (MRI) is highly sensitive for soft tissue contrast and brain structure anomalies but less sensitive for calcifications.</li><li>\u2022 Option A. MRI.</li><li>\u2022 highly sensitive for soft tissue contrast</li><li>\u2022 brain structure anomalies</li><li>\u2022 Option B. X-Ray. Standard X-ray imaging can detect large calcifications but lacks the sensitivity and specificity of cross-sectional imaging for detailed brain assessment.</li><li>\u2022 Option B. X-Ray.</li><li>\u2022 detect large calcifications</li><li>\u2022 lacks the sensitivity</li><li>\u2022 specificity of cross-sectional imaging</li><li>\u2022 Option C. CT Angiography. CT angiography is used primarily to visualize blood vessels and is not the investigation of choice for detecting brain calcifications.</li><li>\u2022 Option C. CT Angiography.</li><li>\u2022 primarily to visualize blood vessels</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Non-Contrast Computed Tomography (NCCT) is the preferred diagnostic tool for identifying intracranial calcifications associated with congenital Zika virus infection , offering clear delineation of calcified structures within the brain .</li><li>\u27a4 Non-Contrast Computed Tomography</li><li>\u27a4 preferred diagnostic tool</li><li>\u27a4 intracranial calcifications</li><li>\u27a4 congenital Zika virus infection</li><li>\u27a4 clear delineation of calcified structures within the brain</li><li>\u27a4 Ref: Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018),page 802</li><li>\u27a4 Ref:</li><li>\u27a4 Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018),page 802</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e3ea96aa",
+      "audio": ""
+    },
+    {
+      "text": "According to recent guidelines, Spiral CT is recommended in children due to decreased radiation exposure. Which of the following is the most essential element that allows acquisition in a spiral mode?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slip ring",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Faraday cage",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quenching elements",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Circular gantry",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Slip ring",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A. Slip ring</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 :</li><li>\u2022 Option B. Faraday cage. A Faraday cage is used to block external electromagnetic fields ; it's not specifically involved in spiral CT acquisition.</li><li>\u2022 Option B. Faraday cage.</li><li>\u2022 block external electromagnetic fields</li><li>\u2022 Option C. Quenching elements. Quenching elements are used in MRI systems to rapidly dissipate energy from the superconducting magnet , unrelated to CT scanning.</li><li>\u2022 Option C. Quenching elements.</li><li>\u2022 MRI systems to rapidly dissipate energy from the superconducting magnet</li><li>\u2022 Option D. Circular gantry. While a circular gantry is part of the CT scanner's architecture , it does not specifically enable spiral scanning.</li><li>\u2022 Option D. Circular gantry.</li><li>\u2022 part of the CT scanner's architecture</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Slip rings are integral to spiral CT scanners , enabling continuous rotation of the gantry during scanning , which facilitates the acquisition of helical data and reduces radiation exposure to the patient.</li><li>\u27a4 Slip rings are integral to spiral CT scanners</li><li>\u27a4 enabling continuous rotation</li><li>\u27a4 gantry during scanning</li><li>\u27a4 acquisition of helical data</li><li>\u27a4 reduces radiation</li><li>\u27a4 Ref: Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 916</li><li>\u27a4 Ref:</li><li>\u27a4 Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 916</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d6bad96",
+      "audio": ""
+    },
+    {
+      "text": "A 35-year-old male patient suffered a fall from the 2 nd floor. A burst fracture of L2 is suspected. What will be the investigation of choice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USG",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MRI",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NCCT",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "X-RAY",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. NCCT",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture20.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. NCCT</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. USG (Ultrasonography). USG is not suitable for spinal injuries due to its poor penetration through bone.</li><li>\u2022 Option A. USG (Ultrasonography).</li><li>\u2022 not suitable for spinal injuries</li><li>\u2022 Option B. MRI (Magnetic Resonance Imaging). While MRI excellently delineates soft tissue and spinal cord injuries , it's not typically the initial test for acute bony trauma.</li><li>\u2022 Option B. MRI (Magnetic Resonance Imaging).</li><li>\u2022 excellently delineates soft tissue and spinal cord injuries</li><li>\u2022 Option D. X-RAY. While X-rays can reveal some fractures , they may not provide the necessary detail to assess the full extent of a burst fracture.</li><li>\u2022 Option D. X-RAY.</li><li>\u2022 reveal some fractures</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 NCCT is the preferred initial imaging study for a suspected burst fracture due to its rapid, detailed visualization of bony injuries and the spinal canal , essential in the setting of high-energy trauma.</li><li>\u27a4 NCCT</li><li>\u27a4 preferred initial imaging study for a suspected burst fracture</li><li>\u27a4 rapid,</li><li>\u27a4 detailed visualization of bony injuries</li><li>\u27a4 spinal canal</li><li>\u27a4 Ref: Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 834</li><li>\u27a4 Ref:</li><li>\u27a4 Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 834</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b46f1261",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old female with a history of smoking and hypertension presents to the emergency department with sudden onset shortness of breath and chest pain. She also reports feeling lightheaded and dizzy. On physical examination, her respiratory rate is 24 breaths per minute, heart rate is 110 beats per minute, and blood pressure is 160/90 mmHg. There is edema of the right lower limb. Which is the best investigation for the given clinical scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CECT",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "HRCT",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "MRI",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "V/Q scan",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. CECT",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/04/08/picture21.jpg"
+      ],
+      "explanation": "<p><strong>Ans. A. CECT</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 :</li><li>\u2022 Option B. HRCT (High-Resolution Computed Tomography). HRCT is excellent for detailed lung parenchyma imaging but is not the first choice for suspected pulmonary embolism.</li><li>\u2022 Option B. HRCT (High-Resolution Computed Tomography).</li><li>\u2022 excellent for detailed lung parenchyma imaging</li><li>\u2022 Option C. MRI (Magnetic Resonance Imaging). MRI is less commonly used in acute settings due to longer scan times and is not the investigation of choice for pulmonary embolism.</li><li>\u2022 Option C. MRI (Magnetic Resonance Imaging).</li><li>\u2022 less commonly used in acute settings due to longer scan times</li><li>\u2022 Option D. V/Q scan (Ventilation/Perfusion scan). A V/Q scan is an alternative when CTPA is contraindicated , but CECT is superior in diagnostic accuracy for pulmonary embolism.</li><li>\u2022 Option D. V/Q scan (Ventilation/Perfusion scan).</li><li>\u2022 alternative when CTPA is contraindicated</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 In a patient with risk factors for thromboembolic disease presenting with sudden respiratory symptoms and unilateral edema , CECT , particularly CT pulmonary angiography , is the best investigation to confirm a diagnosis of pulmonary embolism.</li><li>\u27a4 risk factors for thromboembolic disease</li><li>\u27a4 sudden respiratory symptoms</li><li>\u27a4 unilateral edema</li><li>\u27a4 CECT</li><li>\u27a4 CT pulmonary angiography</li><li>\u27a4 Figure 7 CTPA showing massive saddle embolus in main pulmonary artery</li><li>\u27a4 Ref: Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 140</li><li>\u27a4 Ref:</li><li>\u27a4 Grainger & Allison's Diagnostic Radiology Essentials, 2nd Edition (2018), page 140</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d5939315",
+      "audio": ""
+    },
+    {
+      "text": "A 65-year-old male with a history of hypertension presents to the emergency department with severe chest and back pain that started suddenly. He describes the pain as sharp and tearing and rates it as 10/10 in intensity. On physical examination, his blood pressure is 180/100 mmHg, heart rate is 110 beats per minute, and he appears to be in distress. What initial investigation will you perform?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CTA",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "CXR",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PET scan",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "MRI",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. CTA",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/05/22/image-20230522162052-1.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ba3a8b0d",
+      "audio": ""
+    },
+    {
+      "text": "A 23-year-old man was brought to the casualty with a head injury following an RTA. What is the investigation of choice for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MR angiography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Contrast-enhanced CT",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diffusion-weighted MRI",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Non-contrast CT",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Non-contrast CT",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/05/22/image-20230522162150-1.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2271dfb2",
+      "audio": ""
+    },
+    {
+      "text": "What is the main purpose of CT perfusion imaging in stroke diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To detect ischemic changes in the brain tissue",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To identify the location where reperfusion will be beneficial",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "To visualize the cerebral vasculature",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "To evaluate the presence of hemorrhage in the brain",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. To identify the location where reperfusion will be beneficial",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/05/22/image-20230522162244-1.png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f3be8e45",
+      "audio": ""
+    }
+  ]
+}

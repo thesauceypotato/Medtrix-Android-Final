@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "id": "test68",
+    "title": "Neoplasia-Diagnosis_of_Tumors_and_Paraneoplastic_Syndromes",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following is used in immunohistochemical (IHC) staining as a chromogen to diagnose tumours of unknown origin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diaminobenzidine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Congo Red",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Masson's Trichrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mucicarmine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Diaminobenzidine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6b6982b5"
+    },
+    {
+      "text": "Which of the following is a marker for breast cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CA-19-9",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CA-125",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CA-15-3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "\u03b2 - HCG",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. CA-15-3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:631px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tumor\u00a0marker</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Associated conditions</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alpha-fetoprotein\u00a0(AFP)</strong></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hepatocellular carcinoma\u00a0(HCC)</li>\n<li>Hepatoblastoma</li>\n<li>Yolk <span class=\"customMeta\" data-dictid=\"59ae5630de16927771988a866d1dea\">sac</span> tumour\u00a0(endodermal <span class=\"customMeta\" data-dictid=\"b0046463171692777198e0beea83e7\">sinus</span> tumour)</li>\n<li>Nonseminomatous <span class=\"customMeta\" data-dictid=\"b3623bc67216927771889eb144d9ed\">germ</span> cell tumour of testis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>\u2191\u00a0AFP:\u00a0abdominal wall defects,\u00a0neural tube defects</li>\n<li>\u2193\u00a0AFP: associated with\u00a0trisomy 21, 18,\u00a0and 13\u00a0</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>\u03b2-HCG (Option D)</strong></p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Nonseminomatous testicular\u00a0germ cell tumours\u00a0(choriocarcinoma, embryonal cell\u00a0carcinoma,\u00a0mixed\u00a0germ cell tumour,\u00a0seminoma)</li>\n<li>Ovarian cancer:\u00a0choriocarcinoma\u00a0(gestational trophoblastic disease)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Carcinoembryonic antigen\u00a0(CEA)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Colorectal cancer</li>\n<li>Pancreatic cancer</li>\n<li>Breast cancer</li>\n<li>Lung cancer\u00a0(especially in\u00a0non-small\u00a0cell cancers)</li>\n<li>Gastric cancer</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prostate-specific antigen\u00a0(PSA)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Prostate cancer</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Benign prostatic hyperplasia</li>\n<li>Prostatitis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Calcitonin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Medullary <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> cancer\u00a0(both <span class=\"customMeta\" data-dictid=\"a325d0c14e16927771992fe8a96758\">sporadic</span> and associated with\u00a0MEN 1\u00a0and\u00a0MEN 2)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alkaline phosphatase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Metastases\u00a0to bone or\u00a0liver</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Paget disease of the bone</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Placental <span class=\"customMeta\" data-dictid=\"b95c7f7b821692777181df660ee7ff\">alkaline</span> phosphatase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Seminoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lactate dehydrogenase</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ovarian cancer\u00a0(dysgerminoma)</li>\n<li>Testicular <span class=\"customMeta\" data-dictid=\"b3623bc67216927771889eb144d9ed\">germ</span> cell tumours\u00a0(both\u00a0seminoma\u00a0and\u00a0nonseminoma)</li>\n<li>Lymphomas</li>\n<li>Ewing's sarcoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neuron specific enolase\u00a0(NSE)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Neuroendocrine tumors</li>\n<li>Small cell lung cancer</li>\n<li>Carcinoid tumour</li>\n<li>Neuroblastoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CA 19\u20139 (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Pancreatic adenocarcinoma</li>\n<li>Colon cancer</li>\n<li>Cholangiocarcinoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CA 15\u20133\u00a0and\u00a0CA 27\u201329</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Breast cancer</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CA 125 (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ovarian carcinoma</li>\n<li>Other <span class=\"customMeta\" data-dictid=\"29c037b45616927771886c286ed45b\">gynecologic</span> malignancies</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>S-100 protein\u00a0(S100A) and (S100B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Malignant melanoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SMRP</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mesothelioma</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1502a1c7"
+    },
+    {
+      "text": "Which of the following is used to determine treatment response in patients with colorectal cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha-fetoprotein",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Carcinoembryonic antigen",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Human Chorionic Gonadotropin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Calcitonin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Carcinoembryonic antigen",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "70b499cb"
+    },
+    {
+      "text": "What needle size is typically employed for Fine Needle Aspiration Cytology (FNAC) procedures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "18-gauge needle",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "22-gauge needle",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "25-gauge needle",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "30-gauge needle",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 25-gauge needle",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/SsRqlbA6m4r5XH0nRrFo1737028542.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cVJLiUO3xk6wTgU9Af701747311484.mp3",
+      "video": "",
+      "uid": "33001e79"
+    },
+    {
+      "text": "Which of the following conditions is FNAC helpful in establishing diagnosis ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicular adenoma of the thyroid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Testicular cancer",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hydatid cyst",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Medullary thyroid carcinoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Medullary thyroid carcinoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Contraindications /limitations</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thyroid disorders</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Follicular disorders of the <span class=\"customMeta\" data-dictid=\"799202e6fe16927772009a1501b0a8\">thyroid</span> (Limitation) <strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Breast lesions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Infections, septicemia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymph <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> evaluation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bleeding disorders</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pancreatic malignancy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hydatid cyst- Risk of <span class=\"customMeta\" data-dictid=\"d6d717efa216927771819fee139235\">anaphylaxis</span> <strong>(Option C ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Most solid organ masses accessible via FNAC</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Testicular cancer- Increased risk of spread of cancer <strong>(Option B ruled out)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "28304691"
+    },
+    {
+      "text": "A 45-year-old female presents with a breast lump. On biopsy, the tissue shows anaplastic cells without any differentiation. Immunohistochemistry (IHC) staining is performed to characterise the tumour further. Which marker would be most appropriate to confirm the epithelial origin of the tumour cells in breast cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CD20",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "p63",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "TTF-1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CK7",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. CK7",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2e78409f"
+    },
+    {
+      "text": "Match the given neoplasias with their respective immunohistochemistry markers. 1. Carcinoma A. S100 2. Sarcoma B. Leucocyte common antigen 3. Lymphoma C. Cytokeratin 4. Melanoma D. Vimentin",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-C, 2-A, 3-B, 4-D",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-A, 2-C, 3-B, 4-D",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-C, 2-D, 3-B, 4-A",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-A, 2-D, 3-B, 4-C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-C, 2-D, 3-B, 4-A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. Carcinoma(epithelial origin/squamous cell carcinoma)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cytokeratin</p>\n<p>Cytokeratin 1, <span class=\"customMeta\" data-dictid=\"bc3875332b1692777185e2c8163a73\">cytokeratin</span> 10</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. Sarcoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Vimentin, desmin(skeletal muscle)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Leucocyte common antigen, CD 45</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4. Melanoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>S100, HMB45,Melan A</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "3bffafce"
+    },
+    {
+      "text": "A 60-year-old male was diagnosed with a lung malignancy two months ago. He now came with complaints of malaise, abdominal pain, bone pain, lethargy, and confusion. The intern suspects a condition related to lung cancer and decides to send a blood test. Which of the following would be the appropriate test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erythropoietin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adrenocorticotrophic hormone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Parathyroid hormone-related protein",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Antidiuretic hormone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Parathyroid hormone-related protein",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b7a1062c"
+    },
+    {
+      "text": "Which of the following paraneoplastic syndrome is not associated with lung cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acanthosis nigricans",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Myasthenia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Red cell aplasia",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Red cell aplasia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cushing syndrome</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Small cell <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> of the lung, Pancreatic tumours</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SIADH</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Small cell <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> of the lung</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypercalcemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Squamous cell <span class=\"customMeta\" data-dictid=\"988c19e3131692777183b6744d1920\">carcinoma</span> of the lung</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Myasthenia(Lambert-Eaton) (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bronchogenic carcinoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acanthosis <span class=\"customMeta\" data-dictid=\"50255f706b169277719388336f0dd4\">nigricans</span> (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adenocarcinoma lung</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dermatomyositis (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bronchogenic carcinoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypertrophic osteoarthropathy</strong></p>\n<p><strong>and <span class=\"customMeta\" data-dictid=\"4defbc994e16927771848875f94fee\">clubbing</span> of the fingers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Adenocarcinoma lung</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous <span class=\"customMeta\" data-dictid=\"3e745919391692777200fae21b7251\">thrombosis</span> (Trousseau</strong></p>\n<p><strong>phenomenon</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pancreatic carcinoma, Bronchogenic carcinoma</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1c83da02"
+    },
+    {
+      "text": "An appendix specimen, whose HPE is shown below, had a 2 cm submucosal nodule identified. Electron microscopy showed numerous neurosecretory granules in the cytoplasm. Twenty-four-hour urine analysis showed an elevation of 5-hydroxy indoleacetic acid (5-HIAA). Which of the following would not be seen in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flushing",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diarrhea",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Valvular heart disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bronchodilation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Bronchodilation",
+      "question_images": [
+        "https://image.prepladder.com/content/1wBXBMbN3QWMYVjkU9311737028641.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/WZx95CKfewZnjAQGhaZw1737028684.png",
+        "https://image.prepladder.com/content/ZnJ8CkJAkdK8wx3uxK9W1736958838.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "70c058a5"
+    }
+  ]
+}

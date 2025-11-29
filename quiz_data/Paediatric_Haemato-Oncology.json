@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "id": "test10",
+    "title": "Paediatric_Haemato-Oncology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "An 8-year-old child is brought to the pediatric clinic with complaints of fatigue and pallor. The pediatrician conducts a complete blood count (CBC) to evaluate the child\u2019s hemoglobin levels. According to WHO criteria, anemia is classified based on specific hemoglobin thresholds for different age groups. What hemoglobin level would classify this 8-year-old child as anemic according to WHO criteria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "<10 g/dl",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "<11g/dl",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "<12 g/dl",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "<13 g/dl",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. <12 g/dl",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:404px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Children 6 months to 5 years</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hb <11g/dl</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Children 6 years to 14 years</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hb <12 g/dl</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/8WBgqc3a9lZPMwZp31uO1743769038.mp3",
+      "video": "",
+      "uid": "a040aaa3"
+    },
+    {
+      "text": "A 6-year-old child is diagnosed with folate deficiency based on laboratory tests but shows no signs of Vitamin B12 deficiency. The pediatrician plans to initiate treatment to address the folate deficiency. Which of the following treatment options should be avoided in this child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oral folic acid supplementation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Parenteral folic acid supplementation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "High-dose folic acid supplementation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Dietary modification to include folate-rich food",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. High-dose folic acid supplementation",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/IdlQz9k7K0E929Qf2JqK1742192110.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:639px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Vit B12 <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Folate <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> causes</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pure <span class=\"customMeta\" data-dictid=\"e7f3ecfe8116927772011bfbf3c435\">vegetarian</span> <span class=\"customMeta\" data-dictid=\"a888b8e5491692777201b2b7f4538f\">vegan</span> diet</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Exclusive <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> with goat\u2019s milk</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pernicious anemia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Drugs inhibiting <span class=\"customMeta\" data-dictid=\"c66705291e1692777203ed3498a606\">folate</span> <span class=\"customMeta\" data-dictid=\"5b1a045f5f169277719210c0ac7a1e\">metabolism</span> Antifolates (e.g., methotrexate), Pyrimethamine; trimethoprim, Sulfasalazine, Valproic acid</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Malabsorption: Crohn's disease, chronic pancreatitis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cerebral <span class=\"customMeta\" data-dictid=\"c66705291e1692777203ed3498a606\">folate</span> <span class=\"customMeta\" data-dictid=\"209b85faf71692777185767d43e3bd\">deficiency</span> (genetic or acquired)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Metabolic: homocystinuria</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Defects in absorption: <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">Gastric</span> achlorhydria, Diseases of the upper small intestine- Tropical sprue</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/HPeOTUNDOXnoBB6VDCVR1743769296.mp3",
+      "video": "",
+      "uid": "c6eee8a5"
+    },
+    {
+      "text": "A 12-year-old boy presents with complaints of feeling excessively tired. He gives a history of repeated blood transfusions. A skull radiograph revealed the following findings. Which of the following is the most probable cause of this radiographic finding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased osteoclastic activity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased marrow hyperplasia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Decreased bone remodeling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased osteoblastic activity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Increased marrow hyperplasia",
+      "question_images": [
+        "https://image.prepladder.com/notes/ZtYu6lgFBUPBTbOWV8SP1742192201.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/teEfKjXizWT7RTzHmx7N1743769396.mp3",
+      "video": "",
+      "uid": "574fd9a7"
+    },
+    {
+      "text": "A 6-year-old child presents with progressive bone marrow failure, short stature, and multiple congenital abnormalities. The child also has distinct skin lesions as shown below. Radiological imaging reveals the following features. Which of the following is the most appropriate management strategy for this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High-dose corticosteroids",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hematopoietic stem cell transplantation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Blood transfusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Targeted gene therapy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hematopoietic stem cell transplantation",
+      "question_images": [
+        "https://image.prepladder.com/content/jPblwlbMg1QmRzbBal1g1739763935.png",
+        "https://image.prepladder.com/notes/kXHBJqqqTt7UGuLHV5U11742192393.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inheritance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autosomal recessive</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Absent thumbs, absent radius, microcephaly, <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> abnormalities, short stature, caf\u00e9-au-lait spots</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Supportive care - PRBC and platelets transfusion, antibiotics for infection, oral androgens</li>\n<li>Hematopoietic stem cell transplant (curative)</li>\n<li>Horse anti-thymocyte globulin, <span class=\"customMeta\" data-dictid=\"fa041055ec16927771858fe49c76d3\">cyclosporine</span> (contraindicated in children)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk of <span class=\"customMeta\" data-dictid=\"0c7efd2b8716927771914c8cb19e54\">malignancy</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>AML, myelodysplasia, oral or liver cancer</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/sjGBjXGzXv9X0VcvkDwS1743769599.mp3",
+      "video": "",
+      "uid": "f5ad1f84"
+    },
+    {
+      "text": "Match the following bleeding and clotting disorders with their corresponding pathology. 1 Glanzmann Thrombasthenia a Defect in (GPIIb/IIIa) 2 Bernard-Soulier Syndrome b Defect in GPIb-IX-V 3 Von Willebrand Disease c Defect in (vWF) 4 Haemophilia A d Defect in Factor 8",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-b, 2-a, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-b, 3-c, 4-d",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1-a, 2-b, 3-d, 4-c",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-b, 2-a, 3-d, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1-a, 2-b, 3-c, 4-d",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:622px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Glanzmann Thrombasthenia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>a</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Defect in (GPIIb/IIIa)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bernard-Soulier Syndrome</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>b</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Defect in GPIb-IX-V</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Von Willebrand Disease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>c</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Defect in Von Willebrand Factor (vWF)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemophilia A</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>d</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Defect in Factor 8</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/sixVrJoQQJlKhwx4Jbp21743769852.mp3",
+      "video": "",
+      "uid": "b6d130e1"
+    },
+    {
+      "text": "A child is diagnosed with immune thrombocytopenic purpura (ITP). The most recent platelet count is 32,000/\u03bcL, and the child does not exhibit any signs of active bleeding. What is the appropriate next step in management for this child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prednisolone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Platelet transfusion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Splenectomy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Wait and watch",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Wait and watch",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ChIruXoCzUqrs5iYM9Sh1743770149.mp3",
+      "video": "",
+      "uid": "bfc40746"
+    },
+    {
+      "text": "A 5-year-old child is diagnosed with acute lymphoblastic leukaemia (ALL). The initial diagnostic workup includes a white blood cell count of 15,000/\u00b5L, and cytogenetic analysis reveals hyperdiploidy. The child begins treatment with a standard chemotherapy regimen and responds well. Which of the following factors is most indicative of a favourable prognosis for this child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The child\u2019s age at diagnosis >1 and < 10 years of age",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "The elevated initial white blood cell count ( >50000/\u00b5L )",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The presence of the Philadelphia chromosome - t(9;22)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Presence of t(4;11) translocation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. The child\u2019s age at diagnosis >1 and < 10 years of age",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:479px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Favourable </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unfavourable </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hyperdiploidy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hypodiploidy</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>t(12;21)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>t(4;11) , t(9;22) <strong>(Option C and D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Age 1-10 years</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Age <1 year and >10 years</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Leukocyte count t <50,000/\u00b5L</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Leukocyte count t >50,000/\u00b5L <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Female</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Male</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/agrjD9eOVZgn2yHF2Cjo1743770709.mp3",
+      "video": "",
+      "uid": "daeddb6b"
+    },
+    {
+      "text": "In a patient with more than 20% blast cells observed in a smear, which of the following chromosomal abnormalities is NOT useful in differentiating Acute Myeloid Leukemia (AML) from Acute Lymphoblastic Leukemia (ALL)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "t(8;21)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "t(15;17)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "t(12;21)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "t(9;22)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. t(9;22)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NqEKUbpNitO9Ml0DoOQd1743771206.mp3",
+      "video": "",
+      "uid": "3a6651ee"
+    },
+    {
+      "text": "Based on the Ann Arbor staging system, which stage is described by the following features: involvement of two or more lymph node regions on the same side of the diaphragm, without extranodal involvement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IA E",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "X",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IIIB E",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IIB",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. IIB",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage I</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Involvement of a single <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> region or a single extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organ or site</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage II</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>involvement of two or more <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> regions on the same side of the <span class=\"customMeta\" data-dictid=\"5b42867b61169277718692205c2447\">diaphragm</span> or <span class=\"customMeta\" data-dictid=\"8fb8df140b1692777191702bbc9358\">localized</span> involvement of an extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organ or site </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage III</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>involvement of <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> regions or structures on both sides of the diaphragm</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Abdominal disease is limited to the upper abdomen</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III2</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Abdominal disease involving the lower abdomen</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage IV</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>diffuse or <span class=\"customMeta\" data-dictid=\"f4006059f916927771865569d4da7d\">disseminated</span> involvement of one or more extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organs,</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Additional Substaging </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No B symptoms</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>B</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>presence of <a href=\"https://radiopaedia.org/articles/b-symptoms?lang=us\">B symptoms</a> (including <a href=\"https://radiopaedia.org/articles/pyrexia?lang=us\">fever</a>, <a href=\"https://radiopaedia.org/articles/night-sweats?lang=us\">night sweats</a>, and <a href=\"https://radiopaedia.org/articles/weight-loss?lang=us\">weight loss</a> of \u226510% of body weight over 6 months)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>E</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>involvement of a single, <span class=\"customMeta\" data-dictid=\"7fa42cc96416927771877d60e9fae2\">extranodal</span> site, <span class=\"customMeta\" data-dictid=\"2a2420d6bc1692777185ac0cb7e93d\">contiguous</span> or <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> to a known nodal site (stages I to III only; additional <span class=\"customMeta\" data-dictid=\"7fa42cc96416927771877d60e9fae2\">extranodal</span> involvement is stage IV)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>X</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>bulky nodal disease: nodal mass >1/3 of <span class=\"customMeta\" data-dictid=\"09d1aa62351692777190c98d0dbb12\">intrathoracic</span> <span class=\"customMeta\" data-dictid=\"afb15e4a331692777186e495b370a1\">diameter</span> or 10 cm in dimension</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/zNh3iXdYSL57vP2HyMu61743771507.mp3",
+      "video": "",
+      "uid": "933d3312"
+    },
+    {
+      "text": "A 17-year-old male is diagnosed with classical Hodgkin\u2019s lymphoma, and staging investigations reveal stage IIA disease, with involvement of lymph nodes only above the diaphragm but no B symptoms. Which of the following treatment regimens is considered the standard approach for initial therapy in this stage of the disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radiotherapy alone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Single-agent therapy with vinblastine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chemotherapy with ABVD regimen",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chemotherapy with vinblastine, etoposide and prednisolone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Chemotherapy with ABVD regimen",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ann <span class=\"customMeta\" data-dictid=\"be003ab8e216927771824f1270479c\">Arbor</span> <span class=\"customMeta\" data-dictid=\"8ea2e3870f16927771990a138acbc1\">staging</span> of Hodgkin Lymphoma</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>I</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Single <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> or extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> site involved</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>II</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2 or more regions on the same side of the <span class=\"customMeta\" data-dictid=\"5b42867b61169277718692205c2447\">diaphragm</span> are involved</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymph <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> (LN) regions on both sides of the <span class=\"customMeta\" data-dictid=\"5b42867b61169277718692205c2447\">diaphragm</span> are involved</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diffuse or <span class=\"customMeta\" data-dictid=\"f4006059f916927771865569d4da7d\">disseminated</span> disease +/- LN involvement</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Low-risk disease</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High-risk disease</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage I, II, IIIA</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Stage IIIB, IV</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Absence of B symptoms, no evidence of bulky disease</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Presence of B symptoms, bulky mediastinal/peripheral lymphadenopathy, <span class=\"customMeta\" data-dictid=\"7fa42cc96416927771877d60e9fae2\">extranodal</span> extension</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Treatment: 2-4 cycles of <span class=\"customMeta\" data-dictid=\"8602c4b260169277718439bb122cb0\">chemotherapy</span> (ABVD regimen), low-dose field radiation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Treatment: 4-6 cycles of <span class=\"customMeta\" data-dictid=\"8602c4b260169277718439bb122cb0\">chemotherapy</span> (ABVD) with/without radiotherapy.</p>\n<p>Hematopoietic stem cell transplant<strong> </strong>in <span class=\"customMeta\" data-dictid=\"b4b361c37616927771979541177070\">relapse</span> or in <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> cases.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/dKZM2vgwyJvnNxhg5ozi1743771614.mp3",
+      "video": "",
+      "uid": "108ad2b1"
+    },
+    {
+      "text": "Which of the following statements regarding Burkitt\u2019s lymphoma is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is commonly associated with Epstein-Barr virus (EBV) infection, especially in endemic cases",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The disease predominantly affects children and young adults",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The standard treatment typically involves low-intensity chemotherapy due to its slow-growing nature",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The tumor cells typically show translocation t(8;14) involving the MYC gene",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The standard treatment typically involves low-intensity chemotherapy due to its slow-growing nature",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/DF1kJtaWNo1nCCO5rtHA1743771740.mp3",
+      "video": "",
+      "uid": "eae852af"
+    }
+  ]
+}

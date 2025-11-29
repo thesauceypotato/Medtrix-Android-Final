@@ -1,0 +1,679 @@
+{
+  "meta": {
+    "id": "test16",
+    "title": "Ophthalmology_MIQ_Series",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Identify the cell of retina marked here",
+      "options": [
+        {
+          "label": "A",
+          "text": "Photoreceptor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ganglion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amacrine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Muller",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Muller",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(1255).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f1ce773a",
+      "audio": ""
+    },
+    {
+      "text": "Identify the chart and its tested from what distance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Snellens, 6m",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ETDRS, 4m",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "ETDRS, 6 m",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Snellens, 4 m",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. ETDRS, 4m",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(1014).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c74d1faf",
+      "audio": ""
+    },
+    {
+      "text": "Earliest feature of diabetic retinopathy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dot blot hemorrages",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Microaneurysms",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hard exudates",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Intra retinal microvascular abnormality",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Microaneurysms",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "766f87e7",
+      "audio": ""
+    },
+    {
+      "text": "A patient is not able to see from lateral half of both visual fields. The likely defect is in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left optic tract",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Left occipital lobe",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Optic chiasma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Right optic nerve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Optic chiasma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "35b46eb0",
+      "audio": ""
+    },
+    {
+      "text": "A patient has IOP of 26 mm Hg with thick cornea and normal visual fields and optic disc. Gonioscopy showed open angles. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary angle closure glaucoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ocular Hypertension",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Primary angle closure suspect",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Primary angle closure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ocular Hypertension",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "92d4a6a5",
+      "audio": ""
+    },
+    {
+      "text": "A patient has been on systemic corticosteroids for years. He notes blurred vision. Which of the following findings are most likely related to the drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior Subcapsular cataract",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Posterior Subcapsular cataract",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Corneal edema",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Iris neovascularization",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Posterior Subcapsular cataract",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9d8a1faa",
+      "audio": ""
+    },
+    {
+      "text": "A patient comes to OPD with severe pain in the left eye. He uses contact lens frequently. There was not much finding seen on examination in slit lamp. What would be the culture used to identify the organism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Theyer-Martin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sabouraud's agar",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lowenstein-Jensen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Non-nutrient e.coli-enriched agar",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Non-nutrient e.coli-enriched agar",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a635bd24",
+      "audio": ""
+    },
+    {
+      "text": "All of the following pass through the common tendinous ring EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inferior division of oculomotor nerve",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nasociliary nerve",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Abducent nerve",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Frontal nerve",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Frontal nerve",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0701441f",
+      "audio": ""
+    },
+    {
+      "text": "In which position is Right inferior oblique tested?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dextroelevation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Levodepression",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dextroversion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Levoelevation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Levoelevation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b25a42fb",
+      "audio": ""
+    },
+    {
+      "text": "A patient with +1DS refractive error in right and +3DS in left is considered as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Astigmatism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anisocoria",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anisometropia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Amblyopia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Anisometropia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "927cc53c",
+      "audio": ""
+    },
+    {
+      "text": "In a child with crossed eyes, the first management will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diplopia charting",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Surgical correction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Refraction under atropine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Patching of eyes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Refraction under atropine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9edea1b5",
+      "audio": ""
+    },
+    {
+      "text": "A 66 yrs old patient came to your clinic with peculiar complaint of 'the edge of table seems uneven sonetimes' The doctor did a couple of test after examining the eyes, one of which is shown here. Which is true for the ongoing condition",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amsler grid could have been done as an objective test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Its a type of central retinal detachment",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Outer retinal layers are mostly affected",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The condition can be observed and spontaneously resolute",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Outer retinal layers are mostly affected",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/3(883).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4b593f08",
+      "audio": ""
+    },
+    {
+      "text": "All are optic disc changes seen in glaucoma except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bending of vessels as coming out of optic disc",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Siedel scotoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nasal shifting of blood vessels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thinning of neuro-retinal rim",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Siedel scotoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "86380fe0",
+      "audio": ""
+    },
+    {
+      "text": "12 years old boy suffered orbit injury with a cricket ball. Next day develop diplopia with up gaze. The boy develops headache, dizziness, vomiting on looking up. Also develops bradycardia and hypotension on looking up. No congestion or proptosis of eye. Probable cause:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fracture floor of orbit",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Fracture roof of orbit",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intracranial hemorrhage",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Papilledema",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fracture floor of orbit",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0e6659b2",
+      "audio": ""
+    },
+    {
+      "text": "A 10-year-old boy presents to the outpatient department with complaints of itching and a foreign body sensation in his eye. Upon examination, a shield ulcer is observed. The condition commonly associated with these findings is probably due to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autoimmune",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Allergy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Infection",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cicatricial",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Allergy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "789fa788",
+      "audio": ""
+    },
+    {
+      "text": "A 5 month child has whitish, foamy, triangular lesions that appear on the conjunctiva. All are true for the condition except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its due to Vitamin deficiency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Its more common in temporal conjunctiva",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The foamy appearance is due to bacteria",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "In WHO staging, it is in X1A stage",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. In WHO staging, it is in X1A stage",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5f3374ac",
+      "audio": ""
+    },
+    {
+      "text": "An 18-month-old child was taken to ophthalmologist exhibiting a white eye reflex, and ultrasonography revealed an intraocular mass with calcifications. The family history indicated that the child\u2019s father had a similar condition and underwent the removal of one eye (enucleation). What is the likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retinoblastoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Persistent hyperplastic primary vitreous",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Toxocara infestation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Choroidal melanoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Retinoblastoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3a181070",
+      "audio": ""
+    },
+    {
+      "text": "On examination, it was noted that the upper eyelid did not follow the eyeball in down gaze. This sign is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Munson sign",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lagophthalmous",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lid lag sign",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Epicanthus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Lid lag sign",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "276b5dac",
+      "audio": ""
+    },
+    {
+      "text": "An elderly diabetic patient presented with complaints of blurring of vision. He underwent cataract surgery 1 month ago. The patient\u2019s fundus fluorescein angiography is shown here. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central serous retinopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Macular hole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cystoid macular edema",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Age-related macular degeneration",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cystoid macular edema",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4(801).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c562b04a",
+      "audio": ""
+    },
+    {
+      "text": "Identify the following type of cataract",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuneiform cataract",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Rosette cataract",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Morgagnian cataract",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Snow flake cataract",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Morgagnian cataract",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(1257).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9399dd08",
+      "audio": ""
+    }
+  ]
+}

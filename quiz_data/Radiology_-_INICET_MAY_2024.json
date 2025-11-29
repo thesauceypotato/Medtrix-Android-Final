@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "id": "test15",
+    "title": "Radiology - INICET MAY 2024",
+    "category": "INICET PYQ"
+  },
+  "questions": [
+    {
+      "text": "Patient presented with stab wound over right chest. A Supine CXR / CXR AP view image given below. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Right hemothorax",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Right pneumothorax",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary contusion",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Diaphragmatic rupture",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Right hemothorax",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1726933057351-QT53IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Right hemothorax The radiograph shows a meniscus-shaped fluid level in the pleural space. This is because blood and other fluids form a curve due to gravity. The pleural space where blood accumulates will appear as an area of increased opacity (whiteness) on the X-ray Hence the diagnosis is hemothorax</p>\n<p><strong>Highyeild:</strong></p><p>A hemothorax , literally means blood within the chest, is a term usually used to describe a pleural effusion due to accumulation of blood. If a hemothorax occurs concurrently with a pneumothorax it is then termed a hemopneumothorax. A tension hemothorax refers to hemothorax that results from massive intrathoracic bleeding, causing ipsilateral lung compression and mediastinal displacement Radiographic features- Opacity in the Pleural Space: The pleural space where blood accumulates will appear as an area of increased opacity) on the X-ray. This is because blood is denser than air and thus blocks more X-ray photons. Meniscus Sign: In cases of significant hemothorax, you might see a meniscus-shaped fluid level in the pleural space. This is because blood and other fluids form a curve due to gravity. This sign is often more prominent in upright or lateral views. Loss of Normal Lung Contours: The normal lung markings may become obscured by the dense opacity of blood. This can make the lung fields appear less distinct or less well-defined. Possible Mediastinal Shift: In severe cases of hemothorax, the accumulation of blood can push structures in the mediastinum (such as the heart and trachea) towards the opposite side of the chest. Blunting of the Costophrenic Angles: The costophrenic angles, where the diaphragm meets the rib cage, might appear blunted or obscured due to the presence of fluid or blood</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option: B. Right Pneumothorax: Air in Pleural Space: Appears as a dark (radiolucent) area on the X-ray due to the presence of air. In a supine X-ray, this may be seen as a crescent of air under the chest wall or along the anterior chest. Option: C. Pulmonary Contusion: Appears as irregular, patchy opacities or infiltrates within the lung parenchyma, indicating edema and bleeding within lung tissue, rather than a distinct opacity in the pleural space. Status post bilateral chest tube placement with resolution of right hemopneumothorax and left pneumothorax and development of right pulmonary contusion. Option: D. Diaphragmatic Rupture: May show displacement of abdominal organs into the thoracic cavity or an elevated hemidiaphragm. On X-ray, there may be visible herniation of abdominal organs into the thoracic cavity, which is not a feature of hemothorax.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b29cc30a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following contrast agents is safe to use in renal failure patients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gadolinium contrast used in MRI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "lodinated ionic contrast agent",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "lodinated non-ionic contrast agent ast agent",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound contrast agent",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ultrasound contrast agent",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ultrasound contrast agent Ultrasound contrast agents are composed of microbubbles filled with gas encapsulated by a shell. These agents are safe for use in patients with renal failure because they are eliminated via exhalation through the lungs rather than through renal filtration. This makes them ideal for patients with compromised renal function as they do not burden the kidneys.</p>\n<p><strong>Highyeild:</strong></p><p>Ultrasound contrast agents are composed of microbubbles encapsulated with gas and stabilized by a shell, typically consisting of substances like sulfur hexafluoride or perfluorocarbons enclosed in albumin or phospholipids. These microbubbles enhance ultrasound imaging by resonating in response to ultrasound waves, amplifying the signal reflected back to the transducer. This mechanism significantly improves the visualization of blood flow dynamics, aiding in the assessment of cardiac function, vascular perfusion, and abdominal pathology such as liver lesions or renal perfusion. Additionally, they play a crucial role in oncologic imaging by highlighting tumor vascularity and monitoring treatment response One of the notable advantages of ultrasound contrast agents is their safety profile. Unlike iodinated or gadolinium-based contrast agents used in other imaging modalities, ultrasound contrast agents are not nephrotoxic and do not rely on renal excretion for elimination. This makes them particularly suitable for patients with renal impairment who may be at risk of contrast-induced nephropathy . They are administered intravenously and exhibit a transient enhancement, providing real-time imaging capabilities during procedures. Despite their efficacy, ultrasound contrast agents have limitations, including reduced penetration in areas with excessive gas or bone, which may hinder visualization beyond certain depths. Nonetheless, their ability to improve diagnostic accuracy and safety profile underscores their importance in modern medical imaging practices.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Gadolinium contrast used in MRI: Gadolinium-based contrast agents (GBCAs) are primarily eliminated by the kidneys. In patients with renal failure, there is an increased risk of nephrogenic systemic fibrosis (NSF), a rare but serious condition. Option: B. Iodinated ionic contrast agent: Iodinated contrast agents used in CT scans and some types of angiography are also eliminated through renal excretion. In patients with renal failure, these agents can worsen kidney function and increase the risk of contrast-induced nephropathy (CIN). Option: C. Iodinated non-ionic contrast agent: Non-ionic iodinated contrast agents are safer than ionic contrast agents in terms of reducing the risk of adverse reactions. However, they are still eliminated through renal excretion and carry a risk of causing contrast-induced nephropathy (CIN) in patients with renal impairment.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1b1aeef6",
+      "audio": ""
+    },
+    {
+      "text": "Mt. Fuji sign is seen in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tension pneumomediastinum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tension pneumothorax",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tension pneumoperitoneum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tension Pneumocephalus",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Tension Pneumocephalus",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Tension Pneumocephalus Tension pneumocephalus occurs when there is an accumulation of air under pressure within the cranial vault, often due to trauma or surgical procedures involving the head or sinuses. The air accumulation can cause compression of the brain tissue, leading to neurological symptoms and characteristic radiographic findings such as the Mt. Fuji sign.</p>\n<p><strong>Highyeild:</strong></p><p>Tension pneumocephalus is a neurosurgical emergency that occurs when subdural air causes a mass effect over the underlying brain parenchyma, often from a ball-valve mechanism causing one-way entry of air into the subdural space Clinical presentation Tension pneumocephalus has a varied clinical presentation : severe restlessness deteriorating consciousness focal neurological deficits cardiac arrest Radiographic features- Initially, subdural air compresses the frontal lobes resulting in the peaking sign. As it progresses the frontal lobes become separated creating a characteristic appearance, aptly termed the Mount Fuji sign An additional reported sign of tension pneumocephalus is the presence of multiple small air bubbles in the subarachnoid space. This has been referred to as the air bubble sign These features are, however, not pathognomonic for tension pneumocephalus and can be seen in patients with normal intracranial pressures. Regardless of the exact pattern of intracranial gas, clinical deterioration is the key indicator for surgical intervention.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Tension pneumomediastinum : This involves air accumulation in the mediastinum, typically due to trauma or rupture of the tracheobronchial tree. Option: B. Tension pneumothorax : This refers to air accumulation under pressure in the pleural cavity, causing compression of the lung and mediastinal structures. Option: C. Tension pneumoperitoneum : This involves air under pressure in the peritoneal cavity, often seen in conditions like perforated bowel or iatrogenic causes.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "11f5f7a3",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is correct about CT scan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CT score of water is 0",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "CT consists of unfiltered x-ray beams",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is the investigation of choice for gallstones",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "20mSv for NCCT head",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. CT score of water is 0",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>CT score of water is 0 In CT imaging, a scale called Hounsfield units (HU) is used to measure the radiodensity of various tissues and substances. Water has a Hounsfield unit value of 0, which serves as a reference point. This means that on a CT scan, the radiodensity of pure water is assigned a value of 0 HU</p>\n<p><strong>Highyeild:</strong></p><p>The HU values aid radiologists in interpreting CT scans by providing a quantitative measure of tissue density. This helps in diagnosing and characterizing conditions, as well as in differentiating between types of tissues and lesions. Normalization : HU values are normalized against water, making it a useful reference point. This normalization simplifies comparison across different CT scanners and imaging studies. Reconstruction and Calibration : CT scanners are calibrated to ensure that the HU values are accurate and consistent. Variations in calibration can affect the precision of HU measurements and subsequently impact diagnostic accuracy.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. CT consists of unfiltered x-ray beams- CT (Computed Tomography) Uses x-ray beams that are passed through the body and are detected after passing through tissue. These x-ray beams are filtered to remove low-energy x-rays, which helps to reduce patient dose and improve image quality. Option: C. It is the investigation of choice for gallstones CT scan is not typically the first-line investigation for gallstones. Ultrasound is usually the initial imaging modality of choice for detecting gallstones due to its high sensitivity and specificity for this purpose. Option: D. 20mSv for NCCT head This statement is incorrect. The effective dose of a non-contrast CT (NCCT) scan of the head is typically much lower than 20 mSv. It is usually in the range of 1-2 mSv</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5a1cf2a2",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following structures is the arrow pointing to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior end of rib",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Costal cartilage",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Posterior end of rib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Descending/Right pulmonary artery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Anterior end of rib",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1726933066943-QT174IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Anterior end of rib Anterior ribs identification Costal Cartilage Transition: The anterior ribs will show a transition from bone to costal cartilage. On a PA X-ray, the anterior ends of the ribs may appear as more radiolucent areas compared to the dense bone of the rib shaft. Costal Cartilage Location: Anterior ribs typically end at or near the costal cartilage, which is visible as a less dense (darker) area in the X-ray image. Compare with Posterior Ribs: Posterior Rib Characteristics: The posterior ribs will appear steeper and more oblique due to their attachment to the vertebrae. These will be positioned more laterally and closer to the spine compared to the anterior ribs.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aabf0ac8",
+      "audio": ""
+    },
+    {
+      "text": "Identify the fracture site in the X-ray shown below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "5th & 6th rib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6th and 7th rib",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "5th, 6th & 7th rib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "7th and 8th rib",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 6th and 7th rib",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1726933058703-QT190IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>6th and 7th rib The fracture is noted involving the 6th and 7th posterior ribs</p>\n<p><strong>Highyeild:</strong></p><p>How to Identify Rib Fractures: Examine the Continuity of the Rib Cage: Look at the continuity of the rib bones. Fractures typically appear as breaks or discontinuities in the normally smooth, continuous lines of the rib bones. Check for Displacement: Fractures can sometimes cause segments of the rib to be displaced. Look for any misalignment or displacement of the rib segments which can indicate a fracture. Look for Fracture Lines: A fracture line may appear as a thin, dark line across the rib bone where the cortex (outer layer of the bone) is interrupted.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "30b0555d",
+      "audio": ""
+    },
+    {
+      "text": "Identify the normal anatomical variation given in the following CT image:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tracheal diverticulum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Esophageal duplication",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Aberrant right subclavian artery",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Right aortic arch",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Aberrant right subclavian artery",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1726933059409-QT191IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Aberrant right subclavian artery This is a relatively c ommon anatomical variation where the right subclavian artery originates from the left side of the aortic arch instead of the usual right side. It then courses posterior to the esophagus and can sometimes compress the esophagus, but it is often asymptomatic and discovered incidentally on imaging.</p>\n<p><strong>Highyeild:</strong></p><p>Aberrant right subclavian arteries (ARSA) , also known as arteria lusoria , are among the commonest aortic arch anomalies. Course Instead of being the first branch (with the right common carotid as the brachiocephalic artery), it arises on its own as the fourth branch, distal to the left subclavian artery. It then hooks back to reach the right side with its relationship to the esophagus variable 80% posterior to the esophagus 15% between esophagus and trachea 5% anterior to the trachea Clinical presentation They are often asymptomatic, but ~10% of people may complain of tracheo-esophageal symptoms, almost always as dysphagia, termed dysphagia lusoria Associations aneurysmal dilatation (aberrant subclavian arterial aneurysms) of the proximal portion of an aberrant right subclavian artery can occur, a pouch-like aneurysmal dilatation is called a diverticulum of Kommerell if there is a retro-esophageal course it can get compressed between the esophagus and the vertebra the incidence of stenosis/occlusion in this segment is higher Trisomy 21 , trisomy 18 and other chromosomal defects</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Tracheal Diverticulum: This is a pouch or sac that forms on the wall of the trachea. It is a rare condition and can be congenital or acquired. On imaging, it appears as a well-defined outpouching from the trachea Option: B. Esophageal Duplication: This is a rare congenital anomaly where there is an extra segment or duplication of the esophagus, which can be cystic or tubular. On imaging, it may appear as an extra, cystic structure adjacent to the esophagus. Option: D. Right Aortic Arch: A right aortic arch is a variation where the aortic arch curves to the right instead of the usual left. It often accompanies a mirrored branching pattern of the great vessels Mirror-image right aortic arch. This contrast-enhanced axial CT scan at the level of the aortic arch demonstrates a right sided-aortic arch. There is no retro tracheal, retroesophageal aberrant left subclavian artery. This is the mirror-image variety with a high association with congenital heart disease.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "81c7eaa5",
+      "audio": ""
+    }
+  ]
+}

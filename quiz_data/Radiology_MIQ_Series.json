@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "id": "test25",
+    "title": "Radiology_MIQ_Series",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 37-year-old man was brought to the emergency room after a high-speed collision. His Glascow Coma Score (GCS) was 6 on admission. An NECT scan was obtained that showed only a few scattered punctate foci of parenchymal hemorrhage. The patient remained in a coma. Several days later, an MR scan was obtained for delineation of injury extent. What is the best sequence to use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T1WI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "FLAIR",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "SWI",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "DWI",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. SWI",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/53496341.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "119903aa",
+      "audio": ""
+    },
+    {
+      "text": "57-year-old male patient with a functioning renal allograft developed symptoms of crampy abdominal pain and diarrhea. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ischemic colitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Crohn disease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ulcerative colitis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pseudomembranous colitis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pseudomembranous colitis",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/23938172.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e9e97646",
+      "audio": ""
+    },
+    {
+      "text": "Patient having high grade fever with foul smelling sputum with fluid filled image of lungs \u2013",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pneumatocele",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lung abscess",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Tuberculosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lung abscess",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/72830693.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dd85b200",
+      "audio": ""
+    },
+    {
+      "text": "Match the following CXR images with diagnosis. Theme congenital heart disease",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-1, B-2, C-3, D-4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-2, B-1, C-4, D-3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "A-3, B-4, C-2, D-1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A-4, B-3, C-1, D-2",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. A-2, B-1, C-4, D-3",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/71772474.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "30d45cd9",
+      "audio": ""
+    },
+    {
+      "text": "30 year old with BMI 18 with progressive di\ufb03culty in swallowing in both solids and liquids for 8 months. Barium swallow is shown to you. What other investigation should be done in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UGI endoscopy + Manometry",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "UGIE + CECT",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "UGIE + PET",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "UGIE + 24hr ph monitoring.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. UGI endoscopy + Manometry",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6237405.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "458b0cfc",
+      "audio": ""
+    },
+    {
+      "text": "18 year old boy presented with pain in arm after a fall. Xray was done and is shown below. Most likely cause is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aneurysmal Bone Cyst",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Giant Cell tumour",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ewing Sarcoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Simple Bone cyst",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Simple Bone cyst",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/24981856.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c1ef2c89",
+      "audio": ""
+    },
+    {
+      "text": "A child was brought to the emergency department with complaints of recurrent Vomiting. The vomiting's Were projectile and non-bilious. Identify the condition using the radiograph below?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Annular pancreas",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CHPS",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Duodenal atresia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Meckles diverticulum",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. CHPS",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/26620647.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4ccc18c3",
+      "audio": ""
+    },
+    {
+      "text": "A patient is being evaluated for recurrent urinary tract infections. His abdominal CT scan is shown below. Which of the following most likely prevented the proper ascent of the anomalous organ seen on the CT scan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Superior mesenteric artery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Inferior mesenteric artery",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Coelic trunk",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inferior vena cava",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Inferior mesenteric artery",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/60646878.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "07989497",
+      "audio": ""
+    },
+    {
+      "text": "Best imaging modality in patients with breast implants is",
+      "options": [
+        {
+          "label": "A",
+          "text": "MRI scan",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "CT scan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mammography",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Radionuclide scan",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. MRI scan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5a39080f",
+      "audio": ""
+    },
+    {
+      "text": "47-year-old female patient with acute myelogenous leukemia presents with neutropenia, fever And cough. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lung Cancer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary alveolar proteinosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Angioinvasive aspergillosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tuberculosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Angioinvasive aspergillosis",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/687751610.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f1a69f14",
+      "audio": ""
+    },
+    {
+      "text": "3 Year-old male patient with barky cough. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Croup",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Head and neck infantile hemangioma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Retropharyngeal abscess",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Epiglottitis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Croup",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/29434911.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f3132b4a",
+      "audio": ""
+    },
+    {
+      "text": "A false negative F-18 FDG PET study is MOST likely to occur in which one of the following lung carcinomas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bronchioloalveolar",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Small cell",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Squamous cell",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Large cell",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Bronchioloalveolar",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5224fe0d",
+      "audio": ""
+    },
+    {
+      "text": "Child with abdominal pain on ultrasound shows the following finding, what could be final diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Appendicitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Meckel\u2019s Diverticulum",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Intussusception",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Diverticulosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Intussusception",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/125529013.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7d72fe50",
+      "audio": ""
+    },
+    {
+      "text": "A 5-month-old male is brought to the emergency department with lethargy after a reported fall from a couch. In addition to obtaining a stat neurosurgical consult, the head CT findings necessitate a thorough work-up for which diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus (HSV) encephalitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Neoplasm",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stroke",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Child abuse",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Child abuse",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/87111314.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eeb97272",
+      "audio": ""
+    },
+    {
+      "text": "A 69-year-old man has been experiencing worsening headaches and new-onset seizures. MRI with contrast was done and is given below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glioblastoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ependymoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Meningioma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acoustic schwannoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Glioblastoma",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/152203115.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7cf41af1",
+      "audio": ""
+    }
+  ]
+}

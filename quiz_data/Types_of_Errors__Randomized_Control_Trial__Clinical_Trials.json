@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "id": "test29",
+    "title": "Types_of_Errors__Randomized_Control_Trial__Clinical_Trials",
+    "category": "Prepladder / RR"
+  },
+  "questions": [
+    {
+      "text": "Which of the following best describes a bias?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Random variation in data collection between exposure and disease",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Systematic error in determining an association between exposure and disease",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Measure of strength of association between exposure and disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Direct estimation of frequency of exposure between disease and non-disease groups",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Systematic error in determining an association between exposure and disease",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Types of Bias</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subject Bias</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Investigator Bias </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Analysis Bias</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Recall bias</li>\n<li>Hawthorne bias</li>\n<li>Reporting bias</li>\n<li>Non-response bias</li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Selection bias\n\t\t\t\t<ol>\n<li>Berksonian</li>\n<li>Neyman</li>\n<li>Reporting</li>\n</ol>\n</li>\n<li>Publication bias</li>\n<li>Misclassification bias</li>\n<li>Interviewer bias</li>\n<li>Pygmalion bias</li>\n<li>Golem bias (blunting of response due to demotivated observer)</li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Statistical bias</li>\n</ol>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/z9azoOgc0Wft7BPxGtmX1745949341.mp3",
+      "video": "",
+      "uid": "31370f9e"
+    },
+    {
+      "text": "A case-control study is being conducted by researchers to investigate the association between the onset of cardiovascular disease (CVD) and a high-calorie diet. Which of the following scenarios best reflects a form of Neyman bias?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asking participants to recall and report their dietary habits over the past five years.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Excluding cases who had CVD in the past but have since died or fully recovered.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Including cases as patients admitted with CVD and controls as patients admitted for non-CVD causes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Publishing findings with a strong association, while those with inconclusive associations are unpublished.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Excluding cases who had CVD in the past but have since died or fully recovered.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neyman bias</strong><br/>\n<strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Known as prevalence-incidence bias occurs when a study excludes individuals who have died or recovered from the disease.</li>\n<li>Missing cases lead to an underestimation of the true association.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Berksonian bias</strong></p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A <span class=\"customMeta\" data-dictid=\"88261f221b169277719869abab319a\">selection bias</span> by choosing hospitalised patients with multiple comorbidities as the study population</li>\n<li>Leads to a distorted association between exposure and outcome.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reporting bias</strong><br/>\n<strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Information reporting is influenced by the knowledge of the desired outcome or the interest of the researchers.</li>\n<li>E.g., CVD patients may attribute their condition to past dietary habits leading to high-fat consumption, while those without CVD may underreport unhealthy eating habits.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Publication bias</strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Studies with positive or significant results are more likely to be published than studies with negative or non-significant results.</li>\n<li>This leads to an overrepresentation of studies showing a strong association between high-fat diets and CVD, potentially misleading readers.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/HPClEmAruNS5v76uI9kN1745949826.mp3",
+      "video": "",
+      "uid": "941dc12a"
+    },
+    {
+      "text": "A researcher is investigating the association between a new dietary supplement and the development of a rare type of cancer. The study includes 100 patients with the cancer and 100 healthy individuals. All of the following biases can occur in this type of study except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recall Bias",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Selection Bias",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ascertainment Bias",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pygmalion Bias",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pygmalion Bias",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/X43IGk3DWqZZCM5FKMIO1745950039.mp3",
+      "video": "",
+      "uid": "7f452411"
+    },
+    {
+      "text": "Which of the following statements best describes the purpose of double blinding in clinical trials",
+      "options": [
+        {
+          "label": "A",
+          "text": "It fails to avoid performance bias",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It avoids both subject and observer bias",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Patients and the control group are unaware of their enrollment in a research trial.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It avoids selection bias",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It avoids both subject and observer bias",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Blinding levels in Clinical trials</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. Single-blinded blinding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Participants are unaware of the intervention</li>\n<li>Prevent biases that arise from knowledge of the treatment.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. Double-blinded blinding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Both the researchers and participants are unaware of the intervention given <strong>(prevents observer and subject bias)</strong> <strong>(</strong><strong>Option </strong><strong> B and C)</strong></li>\n<li>Most <strong>common</strong> <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> of blinding</li>\n<li>Avoids <strong>performance bias</strong> (associated with knowledge of treatment) <strong>(</strong><strong>Option </strong><strong> A)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. Triple-blinded blinding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Researchers, participants, and analysers are unaware of the intervention.</li>\n<li>The <strong>best</strong> <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> of blinding.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/fhSqDF9o5RCjHzfwWYT81746271518.mp3",
+      "video": "",
+      "uid": "033ca7a4"
+    },
+    {
+      "text": "Which of the following statements regarding experimental studies is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interventional study can confirm/discard a hypothesis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Healthy individuals are a unit of study in randomised clinical trials",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cost and ethical concerns are seen in experimental studies",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Experimental studies often include control groups to compare the effects of the intervention.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Healthy individuals are a unit of study in randomised clinical trials",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:516px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Experimental study</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Unit of study</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align:center\">RCT</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align:center\">Diseased individuals</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align:center\">Field trials (e.g. Vaccine trials)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p style=\"text-align:center\">Healthy Individuals</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:676px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Advantages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:bottom\">\n<p><strong>Disadvantages</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Provides evidence for the direct effect of an intervention and its outcome. Hence, a disease can be confirmed using Experimental or Interventional <span class=\"customMeta\" data-dictid=\"bbb38c23561692777187447f54619d\">epidemiology</span> <strong>(Option A)</strong>.</li>\n<li>For example, vaccines and drug manufacturing took place after the confirmation of the <span class=\"customMeta\" data-dictid=\"2d364aeaf7169277718529fa58f6ea\">COVID-19</span> virus.</li>\n</ul>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Cost:</strong> Experimental studies, especially large-scale RCTs, can be expensive to conduct <strong>(Option C).</strong></li>\n</ul>\n<br/>\n\t\t\t\u00a0</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Evaluate the <span class=\"customMeta\" data-dictid=\"7f80be61231692777187391e91e867\">efficacy</span> of new drugs, vaccines, and therapies and compare between two interventional groups.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Ethical concerns:</strong> Ethical considerations often pose limitations on experimental studies <strong>(Option C).</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/okApPBNLceL1VKOpgrKh1726234806.mp3",
+      "video": "",
+      "uid": "f3d346b5"
+    }
+  ]
+}

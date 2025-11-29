@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "id": "test32",
+    "title": "Clinical Trial",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "In a clinical trial, a drug X was evaluated for Hypertension. It was used in healthy human volunteers and the drug caused severe gastritis in them. Which phase of the clinical trial was found out?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase 0",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase 1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Phase 2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phase 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Phase 1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase 1</p>\n<p><strong>Highyeild:</strong></p><p>Phase I: Human Pharmacology and Safety The drug is tested in 10-100 human healthy volunteers Patients are rarely involved in phase I except in testing anticancer drugs/rare diseases Importance is on safety and tolerability in humans using maximum tolerated dose(MTD) as the endpoint Pharmacokinetic parameters( adme) are also tested The study is open-label, and no blinding is done It extends up to 1 year</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:A. Phase 0 clinical trial is the first phase of three or four phases of research studies used to test a new treatment on humans. The major goal of a clinical trial is to determine whether a drug or procedure is safe for human use. Option:C. Phase 2 trials are designed to determine whether the new treatment has sufficiently promising efficacy to warrant further investigation in a large-scale randomized phase 3 trial, as well as to further assess safety. These studies usually involve a few hundred patients. Option:D. Phase 4 of a clinical trial is done with a very small number of people, usually fewer than 15. Investigators use a very small dose of medication to make sure it isn\u2019t harmful to humans before they start using it in higher doses for later phases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0cfa0468",
+      "audio": ""
+    },
+    {
+      "text": "The following are true about the micro-dosing study:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conducted before phase 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Involves limited human exposure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Done to look for the Pharmacodynamic profile of the drug",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1/100th or < 100 microgram dose tested",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Done to look for the Pharmacodynamic profile of the drug",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Done to look for the Pharmacodynamic profile of the drug</p>\n<p><strong>Highyeild:</strong></p><p>Microdosing: Conducted before phase 1 human clinical trial Involves limited human exposure No therapeutic/diagnostic intent in this phase Done for a pharmacokinetic profile of the drug 1/100th or < 100 microgram dose tested Helps in choosing drugs with more success rate Helps in the reduction and replacement of animal testing</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6221c4c3",
+      "audio": ""
+    },
+    {
+      "text": "Following are the important things to look for when a drug is under phase 1 trail except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Safety",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Efficacy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Dose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pharmacokinetics",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Efficacy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Efficacy Phase 1 trial The drug is tested on 10-100 healthy volunteers Patients are rarely involved in phase I except in testing anticancer drugs/rare diseases Importance is on the safety profile and pk profile (dose range) in humans The study is open-label, and no blinding is done It extends up to 1 year The following are important parameters that looked First is the safety of the drug Single/multiple doses Dose range and ROA determined PD Data PK Data Maximum tolerated dose Efficacy is looked for in PHASE II TRAIL therefore called therapeutic exploratory and Phase I is also called human safety pharmacology to check safety</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7c864d5a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following phase of a clinical trial is also called a therapeutic confirmatory trial and a PIVOTAL study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase III",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Phase IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Phase III",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase III Phase I Human pharmacology and safety Phase II Therapeutic exploration and dosage ranging Phase III Phase IV Therapeutic confirmation/comparison (PIVOTAL study) Post marketing surveillance/studies:</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a7f1c2ff",
+      "audio": ""
+    },
+    {
+      "text": "Phase I trial is done to test mainly:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Safety",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Efficacy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pharmacokinetics",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Safety",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Safety</p>\n<p><strong>Highyeild:</strong></p><p>Phase I trial is also called Human pharmacology and safety it is primarily to test the safety of the drug Phase I: Human Pharmacology and Safety Goals: Evaluation of safety and tolerability in humans using maximum tolerated dose (MTD) as the endpoint Determination of qualitative and quantitative aspects of toxicity Determination of dose-limiting toxicity Characterization of pharmacokinetic parameters(ADME)</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:B. Efficacy (Emax) is the maximum response achievable from an applied or dosed agent, for instance, a small molecule drug. Intrinsic activity is a relative term for a drug's efficacy relative to a drug with the highest observed efficacy Option:C. Dose: The dosage of the drug depends on the patient's body weight. The doses of the drug depend on the weight of the patient. It means, that two patients with the same disease may receive a different amount of the same drug Option:D. Pharmacokinetics: sometimes abbreviated as PK, is a branch of pharmacology dedicated to determining the fate of substances administered to a living organism.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ee715137",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following schedule covers prescription by a registered medical practitioner?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schedule P",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Schedule H",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Schedule W",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Schedule X",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Schedule H",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Schedule H</p>\n<p><strong>Highyeild:</strong></p><p>SCHEDULE 'H' List of substances (prescription) that should be sold by retail only on prescriptions of R.M.P. Labelled with the symbol Rx and conspicuously displayed on the left top corner of the label. Labelled with the following words 'To be sold by retail on the prescription of a Registered Medical Practitioner only.'</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option: A. Schedule P : Contains regulations regarding the life period and storage of various drugs. Schedule P-I: Contains regulations regarding retail package size of various drugs Option: C. Schedule W : Contains Generic Drugs List. Option: D. Schedule X is a class of prescription drugs in India appearing as an appendix to the Drugs and Cosmetics Rules introduced in 1945. These are drugs that cannot be purchased over the counter without the prescription of a qualified doctor . Also, the retailer has to preserve the prescription for two years.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c00317f7",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drug require TDM?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenytoin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Warfarin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Metformin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Propranolol",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Phenytoin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phenytoin</p>\n<p><strong>Highyeild:</strong></p><p>Drugs requiring Therapeutic drug monitoring Mnemonic \u201c Look At TDM Concentration\u201d L: Lithium At Aminoglycosides Antiepileptic drugs like phenytoin carbamazepine phenobarbitone T: Theophylline, TCAs D: Digoxin M: Methotrexate Concentration: calcineurin inhibitors like cyclosporine</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:B. warfarin is an oral anticoagulant that helps prevent the formation of harmful blood clots in the legs, lungs, brain, and heart. Option:C. Metformin is a medicine used to treat type 2 diabetes mellitus. It helps control blood sugar levels and thus prevent serious complications of diabetes. It is also used to treat a menstrual period-related disorder known as Polycystic ovary syndrome (PCOS) in women. Option:D. Propranolol is a medication of the beta blocker class. It is used to treat high blood pressure, several types of irregular heart rate, thyrotoxicosis, capillary hemangiomas, performance anxiety, and essential tremors, as well as to prevent migraine headaches</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "93f7ad1e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is correct about the \u201cExpiry period of a drug\u201d?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drug will become toxic after the expiry period",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Drug efficacy decreases after the expiry period",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Drug will have more potency after the expiry period",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Manufacture is liable after the expiry period of a drug",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Drug efficacy decreases after the expiry period",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Drug efficacy decreases after the expiry period</p>\n<p><strong>Highyeild:</strong></p><p>After the expiry period of a drug, the drug\u2019s efficacy decreases In India, the Drugs and Cosmetics Act (1940) specifies the life period (mostly 1\u20135 years) of drugs and the conditions of storage carry the date of manufacture and date of expiry on their label The period between the two dates is called the \u2018life period\u2019 or \u2018shelf-life\u2019 of the drug The expiry date does not mean that the medicine has been found to lose potency or become toxic after it but simply that the quality of the medicine is not assured beyond the expiry date, and the manufacturer is not liable if any harm arises from the use of the product</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:A. Drug will become toxic after the expiry period Option:C. Drug will have more potency after the expiry period Option:D . Manufacture is liable after the expiry period of a drug note: a,c, and d are incorrect statements.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4cb402fa",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following phase of clinical trials is carried out after a new drug is marketed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase 4",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Phase 0",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Phase 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase 4</p>\n<p><strong>Highyeild:</strong></p><p>After a new drug is marketed PHASE IV trial is conduct Phase IV is also called Post-marketing surveillance/studies Phase IV: Postmarketing surveillance/data gathering studies After the drug has been marketed for general use, practicing physicians are identified through whom data are collected on a structured proforma about the efficacy, acceptability , and adverse effects of the drug in the real field situation (similar to prescription event monitoring). Patients treated in the normal course form the study population: numbers , therefore, are much larger. Uncommon/idiosyncratic adverse effects, or those that occur only after long-term use and unsuspected drug interactions are detected at this stage. Patterns of drug utilization and additional indications may emerge from the surveillance data.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:A. Phase 1 clinical trial is the first phase of three or four phases of research studies used to test a new treatment on humans. The major goal of a clinical trial is to determine whether a drug or procedure is safe for human use. Option:B. Phase 2 trials are designed to determine whether the new treatment has sufficiently promising efficacy to warrant further investigation in a large-scale randomized phase 3 trial, as well as to further assess safety. These studies usually involve a few hundred patients. Option:D. Phase 0 of a clinical trial is done with a very small number of people, usually fewer than 15. Investigators use a very small dose of medication to make sure it isn\u2019t harmful to humans before they start using it in higher doses for later phases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "41d56e8b",
+      "audio": ""
+    },
+    {
+      "text": "Investigational New Drug Application (INDA) should be applied before conducting which of the following phase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clinical trial Phase 1",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Clinical trial Phase 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Clinical trial Phase 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Clinical trial Phase 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Clinical trial Phase 1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Clinical trial Phase 1 New drug application(NDA) is applied before conducting Clinical trial Phase 4 Investigational New Drug Application(INDA) should be applied before conducting Clinical trial Phase 1 When a compound deserving trial in man is identified by animal studies, the regulatory authorities are approached who on satisfaction issue an \u2018investigational new drug\u2019 (IND) license. The drug is formulated into a suitable dosage form and clinical trials are conducted in a logical phased manner. To minimize any risk, initially, few subjects receive the drug under close supervision. Later, larger numbers are treated with only relevant monitoring. Standards for the design, ethics, conduct, monitoring, auditing, recording and analyzing data and reporting of clinical trials have been laid down in the form of \u2018Good Clinical Practice\u2019 (GCP) guidelines by an International Conference on Harmonization (ICH)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "658843d4",
+      "audio": ""
+    },
+    {
+      "text": "The following trials are open-label studies except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Micro dosing studies",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phase 3",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Phase 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase 3 Micro dosing studies: open-label studies Phase 1: open-label studies Phase 2: randomized controlled trails Phase 3: randomized controlled trails Phase 4: open-label studies</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "00960ff8",
+      "audio": ""
+    },
+    {
+      "text": "The phase of the trial which looks for new adverse drug reactions or adverse drug events of drugs is-",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase 2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase 3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phase 4",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Phase 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase 4</p>\n<p><strong>Highyeild:</strong></p><p>In the PHASE IV trail, we look for new adverse drug reactions and adverse drug event Phase IV: Postmarketing surveillance/data gathering studies After the drug has been marketed for general use, practicing physicians are identified through whom data are collected on a structured proforma about the efficacy, acceptability , and adverse effects of the drug in the real field situation (similar to prescription event monitoring). Patients treated in the normal course form the study population: numbers , therefore, are much larger. Uncommon/idiosyncratic adverse effects, or those that occur only after long-term use and unsuspected drug interactions are detected at this stage. Patterns of drug utilization and additional indications may emerge from the surveillance data</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:A. Phase 1 clinical trial is the first phase of three or four phases of research studies used to test a new treatment on humans. The major goal of a clinical trial is to determine whether a drug or procedure is safe for human use. Option:B. Phase 2 trials are designed to determine whether the new treatment has sufficiently promising efficacy to warrant further investigation in a large-scale randomized phase 3 trial, as well as to further assess safety. These studies usually involve a few hundred patients. Option:D. Phase 0 of a clinical trial is done with a very small number of people, usually fewer than 15. Investigators use a very small dose of medication to make sure it isn\u2019t harmful to humans before they start using it in higher doses for later phases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "31af8429",
+      "audio": ""
+    },
+    {
+      "text": "The highest rate of drug failure is seen in which of the following phase of the trial?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase 1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase 2",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Phase 3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phase 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Phase 2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase 2</p>\n<p><strong>Highyeild:</strong></p><p>Phase 2 trials have the highest rate of drug failures, Only \u223c25% of drug candidates move on to phase 3. Phase II: Therapeutic exploration and dose-ranging This is conducted by physicians who are trained as clinical investigators, and involve 100\u2013500 patients selected according to specific inclusion and exclusion criteria. The primary aim is the establishment of therapeutic efficacy, dose range, and ceiling effect in a controlled setting. Tolerability and pharmacokinetics are studied as an extension of phase I. The study is mostly controlled and randomized and may be blinded or open-label. It is generally carried out at 2\u20134 centers. The candidate drug may get dropped at this stage if the desired level of clinical efficacy is not obtained</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options:- Option:A. Phase 1 clinical trial is the first phase of three or four phases of research studies used to test a new treatment on humans. The major goal of a clinical trial is to determine whether a drug or procedure is safe for human use. Option:B. Phase 2 trials are designed to determine whether the new treatment has sufficiently promising efficacy to warrant further investigation in a large-scale randomized phase 3 trial, as well as to further assess safety. These studies usually involve a few hundred patients. Option:D. Phase 0 of a clinical trial is done with a very small number of people, usually fewer than 15. Investigators use a very small dose of medication to make sure it isn\u2019t harmful to humans before they start using it in higher doses for later phases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "08464fa0",
+      "audio": ""
+    },
+    {
+      "text": "Approximately 3\u20135 years of duration is required to conduct which phase of a clinical trial?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phase I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phase II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phase IV",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phase III",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Phase III",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phase III</p>\n<p><strong>Highyeild:</strong></p><p>Approximately 1-2 years of duration is required to conduct Phase I of the clinical trial Approximately 2\u20133 years of duration is required to conduct Phase II of the clinical trial Approximately 3\u20135 years of duration is required to conduct Phase III of the clinical trial No fixed duration for the Phase IV trial</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "913a1c87",
+      "audio": ""
+    },
+    {
+      "text": "An animal toxicity study, in which repeated doses are given for 2 to 12 weeks depending on the duration of intended treatment in man. Doses are selected based on ED50 and LD50. Animals were examined for overt effects, food intake, body weight, hematology, and organ toxicity. What kind of study is this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subacute toxicity study",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Acute toxicity study",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chronic toxicity study",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Reproductive toxicity study",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Subacute toxicity study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Subacute toxicity study</p>\n<p><strong>Highyeild:</strong></p><p>Sub chronic Toxicity (Sub acute Toxicity) Sub chronic Toxicity (Sub acute Toxicity) Estimates the potential harmful effects of either single or multiple exposures, during the period of NOT less than 24 hours to a period not greater than 10% of the life span of the animal model, to medical devices, materials or their extracts in suitable animal model Note: These tests may be waived for materials which has chronic toxicity data Acute Toxicity study \u2013 single escalating doses are given to small groups of animals that are observed for overt effects and mortality for 1 to 3 days. Sub-acute toxicity study - An animal toxicity study, in which repeated doses are given for 2 to 12 weeks depending on the duration of intended treatment in man. Doses are selected based on ED50 and LD50. Animals were examined for overt effects, food intake, body weight, hematology, and organ toxicity. What kind of study is this? Chronic toxicity study \u2013 drug is given for 6 to 12 months and effects are studied as in subacute toxicity study. Reproductive study \u2013 effects on spermatogenesis, ovulation, fertility, and developing fetus are studies.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7653d362",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "id": "test34",
+    "title": "Ferroptosis",
+    "category": "Prepladder / RR"
+  },
+  "questions": [
+    {
+      "text": "Which of the following form of cell death is induced by lipid peroxidation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyroptosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Necroptosis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ferroptosis",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Programmed necrosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ferroptosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ferroptosis Ferroptosis is an iron-dependent pathway of cell death induced by lipid peroxidation . It is triggered when excessive intracellular levels of iron or reactive oxygen species (ROS) overwhelm the glutathione-dependent antioxidant defences causing an increase in membrane lipid peroxidation . This leads to a loss of plasma membrane permeability , which ultimately leads to cell death . Unlike necrosis, the process is regulated by specific signals and can, therefore, be prevented by reducing iron levels .</p>\n<p><strong>Highyeild:</strong></p><p>Pyroptosis is a form of apoptosis that is accompanied by the release of the fever-inducing cytokine IL-1 (pyro refers to fever). A complex called Inflammasome is activated when a microorganism enters the host cell and in turn activated caspase-1 (also known as an interleukin-1\u03b2converting enzyme) . Unlike classical apoptosis, this pathway of cell death is characterised by the release of inflammatory mediators .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. A pyroptosis is a form of apoptosis that is accompanied by the release of the fever-inducing cytokine IL-1 . It does not involve lipid peroxidation. Option: B. Necroptosis is programmed cell death without caspase activation . It does not involve lipid peroxidation. Option: D. Programmed necrosis. Necroptosis, also called programmed necrosis , is programmed cell death without caspase activation . It does not involve lipid peroxidation.</p>\n<p><strong>Extraedge:</strong></p><p>Ultrastructurally, the most prominent features are the loss of mitochondrial cristae and ruptured outer mitochondrial membrane . Ferroptosis has been linked to cell death in a variety of human pathologies including cancer, neurodegenerative diseases, and stroke . Iron supplements are thus not given in patients with inflammation RECALL from Pediatrics that when treating patients with Severe Acute Malnutrition , even when the patient has anaemia , Iron is not given initially due to the danger of promoting the free radical generation and bacterial proliferation . Thus Iron is only added after a week of therapy after treatment with antibiotics and when the child has a good appetite and starts gaining weight.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bf797bd1",
+      "audio": ""
+    }
+  ]
+}

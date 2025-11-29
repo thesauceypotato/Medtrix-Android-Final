@@ -1,0 +1,1687 @@
+{
+  "meta": {
+    "id": "test8",
+    "title": "Anesthesia E&D - Mission 2.0, Lap 2 - 24-03-2025 - 2025-03-24",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match the following medical gases with their correct PIN Index Safety System (PISS) configurations:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-1, B-2, C-3, D-4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-3, B-4, C-2, D-1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A-3, B-1, C-2, D-4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A-3, B-2, C-4, D-1",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. A-3, B-2, C-4, D-1",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_bo4Mo0E.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d0bd0f9c",
+      "audio": ""
+    },
+    {
+      "text": "Match the following central venous catheter insertion sites with their commonly associated complications: Sites: i. Subclavian vein ii. Right Internal Jugular vein iii. Left Internal Jugular vein iv. Femoral vein Complications: a. Increased risk of line-related sepsis b. Increased risk of pleural effusion c. Comparatively safe and easily accessible d. Increased risk of pneumothorax",
+      "options": [
+        {
+          "label": "A",
+          "text": "i\u2013a, ii\u2013c, iii\u2013b, iv\u2013d",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "i\u2013a, ii\u2013d, iii\u2013b, iv\u2013c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "i\u2013d, ii\u2013a, iii\u2013c, iv\u2013b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "i\u2013d, ii\u2013c, iii\u2013b, iv\u2013a",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. i\u2013d, ii\u2013c, iii\u2013b, iv\u2013a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) i\u2013d, ii\u2013c, iii\u2013b, iv\u2013a</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e965a900",
+      "audio": ""
+    },
+    {
+      "text": "A 36-year-old male is brought to the emergency department following a road traffic accident. On examination, his Glasgow Coma Score (GCS) is E2V2M4. A non-contrast CT scan (NCCT) of the brain reveals an image as below. Based on the American Society of Anesthesiologists (ASA) physical status classification, what ASA grade should be assigned to this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ASA I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ASA V",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "ASA III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ASA IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. ASA V",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_ba8Uepe.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "15bfa4fd",
+      "audio": ""
+    },
+    {
+      "text": "A 78-year-old male with severe chronic obstructive pulmonary disease (COPD) is admitted to the ICU with acute respiratory distress syndrome (ARDS). He is intubated and placed on mechanical ventilation. The treating physician decides to apply Positive End Expiratory Pressure (PEEP) to improve oxygenation. Following the adjustment, various physiological parameters are closely monitored to evaluate the effects of PEEP on the patient's respiratory and cardiovascular status.What is one of the effects of applying PEEP (Positive End Expiratory Pressure) in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased airway resistance",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased Functional Residual Capacity (FRC)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Increase in cardiac output",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased renal blood flow",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Increased Functional Residual Capacity (FRC)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) Increased Functional Residual Capacity (FRC)</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4eb0b93e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following modes of ventilation is generally not used for weaning patients from mechanical ventilation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Controlled Mechanical Ventilation (CMV)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Synchronized Intermittent Mandatory Ventilation (SIMV)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pressure Support Ventilation (PSV)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Assist-Control Ventilation (ACV)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Controlled Mechanical Ventilation (CMV)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) Controlled Mechanical Ventilation (CMV)</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "521f4892",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements is true about the position of the patient shown in the image? Prevents air embolism during central venous catheter placement Widely accepted position to perform pelvic surgeries Contraindicated in patients with shock Helpful in cases with high intracranial pressure Increased risk of aspiration due to high intra-abdominal pressure",
+      "options": [
+        {
+          "label": "A",
+          "text": "3, 4, 5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 2, 5",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "2, 3, 5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1, 2, 5",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_5n3Z00K.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) 1, 2, 5</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "60adfc7f",
+      "audio": ""
+    },
+    {
+      "text": "Identify Quincke spinal needle from the below images.",
+      "options": [
+        {
+          "label": "A",
+          "text": "",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. ",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_YVMs4uZ.png"
+      ],
+      "explanation": "<p><strong>Ans. C)</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "61e91c56",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old male is admitted to the ICU with signs of septic shock secondary to a perforated bowel. He is hypotensive despite fluid resuscitation and is being prepared for emergency exploratory laparotomy. The anesthesiology team is planning for rapid sequence induction. Considering the patient\u2019s hemodynamic instability, which of the following induction agents should be avoided?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Midazolam",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ketamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Etomidate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fentanyl",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Etomidate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b8b74733",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following medications is most commonly used for topical anesthesia in ophthalmology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lidocaine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tetracaine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Proparacaine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Benzocaine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Proparacaine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.\u00a0C) Proparacaine</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "99acf54d",
+      "audio": ""
+    },
+    {
+      "text": "On pre-operative airway assessment, which of the following findings would suggest that intubation may be challenging?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ability to bite upper lip with lower incisors",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thyromental distance of 5.5 cm",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Inter-incisor distance of 4 cm",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mallampati class II",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Thyromental distance of 5.5 cm",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0e1cae6d",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements regarding the Laryngeal Mask Airway (LMA) Supreme are true? It is a second-generation supraglottic airway device with a modified cuff and drainage tube. The fixation tab of LMA Supreme should rest approximately 4\u20135 cm above the upper lip for optimal placement. It allows for gastric access and reduces the risk of gastric aspiration. LMA Supreme is not suitable for laparoscopic procedures due to poor airway sealing. It features an integrated bite block and is single-use.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 3, 5",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2, 4, 5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 2, 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 3, 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 3, 5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) 1, 3, 5</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6db3d51a",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year-old primigravida undergoes an elective lower segment cesarean section under spinal anesthesia. Within minutes of spinal block administration, she begins to complain of lightheadedness and nausea. Her pulse is noted to be 120/min and blood pressure has dropped to 80/50 mmHg. She is placed in the left lateral position and given intravenous fluids. Which of the following is the most likely primary mechanism responsible for her hypotension and tachycardia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased cardiac output due to sympathetic stimulation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Blockade of parasympathetic nerve fibers leading to increased heart rate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blockade of sympathetic nerve fibers causing vasodilation in the lower extremities",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Direct negative inotropic effect of the anesthetic on the myocardium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Blockade of sympathetic nerve fibers causing vasodilation in the lower extremities",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "31c5de44",
+      "audio": ""
+    },
+    {
+      "text": "Which landmark is crucial for correct needle insertion in the block given below ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thoracic vertebrae",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sacral hiatus",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Lumbar vertebrae",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Coccygeal vertebrae",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sacral hiatus",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_jDIPVXF.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1ae3fbc6",
+      "audio": ""
+    },
+    {
+      "text": "Identify the brachial plexus block being given in the image below",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supraclavicular block",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Interscaelene block",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Axillary block",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Infraclavicular block",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Interscaelene block",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_W5C44IW.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) Interscaelene block</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "733841ec",
+      "audio": ""
+    },
+    {
+      "text": "According to the latest CPR guidelines, what is the recommended depth of chest compressions for an infant during CPR?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.5 inches",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "2.4 inches",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2 inches",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1 inch",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1.5 inches",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) 1.5 inches</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ba58ba3e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements correctly matches the preferred inhalational anesthetic agent for a specific clinical situation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In neurosurgery, Sevoflurane is preferred over Isoflurane due to its favorable pharmacokinetic properties.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Isoflurane is ideal for day-care (ambulatory) surgery because of its rapid recovery characteristics.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Desflurane is preferred in patients with increased intracranial pressure due to its minimal cerebral vasodilation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Halothane is the inhalational agent of choice for patients with a history of malignant hyperthermia.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. In neurosurgery, Sevoflurane is preferred over Isoflurane due to its favorable pharmacokinetic properties.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) In neurosurgery, Sevoflurane is preferred over Isoflurane due to its favorable pharmacokinetic properties.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cd475827",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is the major constituent of soda lime used in anesthesia breathing circuits for carbon dioxide absorption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sodium hydroxide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Potassium hydroxide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Calcium hydroxide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Barium hydroxide",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Calcium hydroxide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Calcium hydroxide</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "222027fd",
+      "audio": ""
+    },
+    {
+      "text": "A 5-year-old child in a pediatric ICU suddenly develops pulseless ventricular tachycardia (pVT) and does not respond to initial defibrillation. The team prepares for CPR with advanced cardiac life support protocols. Which of the following statements regarding drug administration in pediatric cardiac arrest is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The correct epinephrine dose is 1 mg IV/IO every 3\u20135 minutes regardless of weight",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone can be given at a dose of 6 mg/kg IV/IO",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Adenosine initial dose is 0.1 mg/kg rapid IV bolus with a max of 6 mg",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atropine is administered at 0.1 mg/kg IV/IO as a single dose",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Adenosine initial dose is 0.1 mg/kg rapid IV bolus with a max of 6 mg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Adenosine initial dose is 0.1 mg/kg rapid IV bolus with a max of 6 mg</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3828cd4e",
+      "audio": ""
+    },
+    {
+      "text": "Match the drug with the recommended time to discontinue prior to surgery.",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-1, B-2, C-3, D-4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-4, B-3, C-1, D-2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A-4, B-3, C-2, D-1",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A-3, B-2, C-1, D-4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A-4, B-3, C-2, D-1",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_RuWI3IG.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.\u00a0C) A-4, B-3, C-2, D-1</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e521d82a",
+      "audio": ""
+    },
+    {
+      "text": "A 60-year-old man with chronic obstructive pulmonary disease (COPD) is undergoing surgery under general anesthesia. Which inhalational agent is most suitable for this patient due to its bronchodilatory effects and minimal airway irritation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desflurane",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sevoflurane",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Halothane",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Isoflurane",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sevoflurane",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) Sevoflurane</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "95bec71c",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is true regarding the different types of Laryngeal Mask Airways (LMAs)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Classic LMA is designed with an additional channel for gastric drainage to reduce the risk of aspiration.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The LMA Supreme combines features of the ProSeal LMA with a built-in bite block and improved cuff design for a better seal and easier insertion.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The LMA Fastrach is primarily used for general anesthesia and airway management without the ability to facilitate tracheal intubation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The ProSeal LMA is designed to facilitate blind or fiberoptic-guided tracheal intubation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. The LMA Supreme combines features of the ProSeal LMA with a built-in bite block and improved cuff design for a better seal and easier insertion.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) The LMA Supreme combines features of the ProSeal LMA with a built-in bite block and improved cuff design for a better seal and easier insertion.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4635952a",
+      "audio": ""
+    },
+    {
+      "text": "Identify the manouvere being performed in the image below.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Head tilt- chin lift",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MILS",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Jaw thrust",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both A and C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. MILS",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_Ddjxocy.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) MILS</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "006e847a",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old male undergoes a short dental procedure under general anesthesia with nitrous oxide and oxygen. At the end of the procedure, nitrous oxide is discontinued abruptly, and the patient is allowed to breathe room air. Within minutes, he becomes disoriented, tachypneic, and hypoxic. Which of the following best explains his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diffusion Hypoxia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Second Gas Effect",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperoxia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bronchospasm",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Diffusion Hypoxia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) Diffusion Hypoxia</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "abf96212",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old woman undergoing laparoscopic cholecystectomy is administered rocuronium for neuromuscular blockade. At the end of the procedure, the anesthesiologist plans to reverse the blockade rapidly. Which of the following agents acts by encapsulating the neuromuscular blocking drug and is most appropriate in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neostigmine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Edrophonium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sugammadex",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Atropine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sugammadex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Sugammadex</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "83425275",
+      "audio": ""
+    },
+    {
+      "text": "A 34-year-old woman undergoing treatment in critical care receives a continuous infusion of an intravenous anesthetic over 3 days. She develops bradycardia, hypotension, and metabolic acidosis. Arterial blood gas shows a pH of 7.21, lactate 6.1 mmol/L, and bicarbonate 16 mEq/L. ECG shows peaked T waves and widening of the QRS complex. Which of the following best explains the mechanism of this complication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibition of mitochondrial \u03b2-oxidation leading to impaired fatty acid metabolism",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Competitive antagonism of NMDA receptors in the CNS",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prolonged blockade of cardiac sodium channels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased sympathetic stimulation leading to vasodilation and lactic acidosis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Inhibition of mitochondrial \u03b2-oxidation leading to impaired fatty acid metabolism",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) Inhibition of mitochondrial\u00a0\u03b2-oxidation leading to impaired fatty acid metabolism</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3963c63f",
+      "audio": ""
+    },
+    {
+      "text": "During the administration of spinal anesthesia, which of the following is the correct order of layers pierced by the needle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin, supraspinous ligament, interspinous ligament, dura mater, arachnoid mater",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Skin, subcutaneous tissue, supraspinous ligament, epidural space, dura mater",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum, epidural space, dura mater, arachnoid mater",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Skin, subcutaneous tissue, interspinous ligament, ligamentum flavum, subdural space, arachnoid mater",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum, epidural space, dura mater, arachnoid mater",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans.</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1671fd8c",
+      "audio": ""
+    },
+    {
+      "text": "A 68-year-old man with chronic obstructive pulmonary disease (COPD) presents to the emergency department with shortness of breath and oxygen saturation of 86% on room air. He is alert and oriented but in mild respiratory distress. The physician decides to administer supplemental oxygen. Which of the following oxygen delivery devices is most appropriate for this patient to provide a fixed and controlled fraction of inspired oxygen (FiO\u2082)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nasal cannula",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Non-rebreather mask",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Venturi mask",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Simple face mask",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Venturi mask",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Venturi mask</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "df8270fe",
+      "audio": ""
+    },
+    {
+      "text": "56-year-old man is undergoing laparoscopic cholecystectomy under general anesthesia. Thirty minutes into the procedure, the anesthesiologist notes a sudden drop in end-tidal CO\u2082 (ETCO\u2082) on the capnography monitor. The patient is hemodynamically unstable, with a drop in oxygen saturation and a sudden increase in airway pressure. Which of the following is the most likely cause of this intraoperative finding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thyrotoxicosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Malignant hyperthermia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypoventilation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pulmonary embolism",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) Pulmonary embolism</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0b7619fe",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old woman is undergoing a laparoscopic procedure under general anesthesia. During the surgery, the anesthesiologist notices a change in the capnograph waveform.The patient's peak airway pressure is elevated. Which of the following is the most likely cause of this capnographic finding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rebreathing of CO\u2082",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bronchospasm",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Disconnected endotracheal tube",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bronchospasm",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_iLtTzJD.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) Bronchospasm</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8ab86d4d",
+      "audio": ""
+    },
+    {
+      "text": "A 30-year-old woman undergoes an uneventful vaginal delivery with epidural anesthesia. Two days later, she presents with a severe frontal and occipital headache that worsens when she sits or stands and improves when lying flat. Neurological examination is normal. What is the most likely underlying mechanism responsible for her symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebral vasospasm due to subarachnoid blood",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trigeminal nerve irritation from meningeal inflammation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CSF leakage leading to intracranial hypotension",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Intracranial hypertension due to retained anesthetic agents",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. CSF leakage leading to intracranial hypotension",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) CSF leakage leading to intracranial hypotension</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "005d9144",
+      "audio": ""
+    },
+    {
+      "text": "A 29-year-old woman undergoes an emergency cesarean section under spinal anesthesia. Shortly after administration of the spinal drug, she develops sudden apnea, bradycardia, and profound hypotension. On examination, she is unresponsive with dilated pupils and no spontaneous respiratory effort. What is the most likely cause of this clinical scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid embolism",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High spinal block involving the brainstem",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary thromboembolism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Local anesthetic toxicity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High spinal block involving the brainstem",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) High spinal block involving the brainstem</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dbf6872b",
+      "audio": ""
+    },
+    {
+      "text": "A 35-year-old man undergoes an inguinal hernia repair under regional anesthesia. During the procedure, he suddenly develops a metallic taste in his mouth, circumoral numbness, and tinnitus, followed by generalized tonic-clonic seizures. His vitals reveal bradycardia and hypotension. What is the most appropriate immediate management for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer intravenous midazolam and observe",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer intravenous calcium gluconate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Administer intravenous lipid emulsion therapy",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Intubate and perform gastric lavage",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Administer intravenous lipid emulsion therapy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Administer intravenous lipid emulsion therapy</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b0c2c1c9",
+      "audio": ""
+    },
+    {
+      "text": "Which combination of maneuvers is typically employed to maintain an open airway in an unconscious patient without suspected cervical spine injury?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chin lift, neck extension, and mouth inspection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tongue pull, neck brace, and mouth opening",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Jaw push, head stabilization, and nose pinch",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chin lift, head tilt, and jaw thrust",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chin lift, head tilt, and jaw thrust",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) Chin lift, head tilt, and jaw thrust</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "aed4a7e1",
+      "audio": ""
+    },
+    {
+      "text": "A 50-year-old male is brought to the emergency department with altered sensorium after a motor vehicle accident. He is unresponsive with a GCS of 6 and requires emergent intubation. The decision is made to perform rapid sequence induction. Which of the following sequences correctly outlines the standard steps of rapid sequence induction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preoxygenation \u2192 Cricoid pressure \u2192 Sedative agent \u2192 Neuromuscular blockade \u2192 Intubation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Preoxygenation \u2192 Sedative agent \u2192 Neuromuscular blockade \u2192 Intubation \u2192 Cricoid pressure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sedative agent \u2192 Neuromuscular blockade \u2192 Preoxygenation \u2192 Intubation \u2192 Cricoid pressure",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Preoxygenation \u2192 Sedative agent \u2192 Cricoid pressure \u2192 Neuromuscular blockade \u2192 Intubation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Preoxygenation \u2192 Cricoid pressure \u2192 Sedative agent \u2192 Neuromuscular blockade \u2192 Intubation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) Preoxygenation \u2192 Cricoid pressure \u2192 Sedative agent \u2192 Neuromuscular blockade \u2192 Intubation</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "864fc9b9",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old woman is scheduled for elective laparoscopic cholecystectomy under general anesthesia. Prior to induction, the anesthesiologist instructs the patient to breathe 100% oxygen through a face mask for 3 minutes. What is the primary goal of this preoxygenation step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To increase respiratory rate and prevent apnea",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To eliminate nitrogen from the lungs and increase oxygen reservoir",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "To decrease end-tidal CO\u2082 and reduce intracranial pressure",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "To ensure early onset of neuromuscular blockade agents",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. To eliminate nitrogen from the lungs and increase oxygen reservoir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B) To eliminate nitrogen from the lungs and increase oxygen reservoir</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3fce4bdc",
+      "audio": ""
+    },
+    {
+      "text": "Which of these agents have the lowest blood gas partition coefficient ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desflurane",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sevoflurane",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Halothane",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Isoflurane",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Desflurane",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) Desflurane</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2fb5e97b",
+      "audio": ""
+    },
+    {
+      "text": "During manual ventilation using an adult-sized Ambu bag (bag-valve-mask), the built-in pop-off valve is designed to prevent excessive airway pressure. At approximately what pressure (in cm H\u2082O) does the pop-off valve typically open in adults?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 cm H\u2082O",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "25 cm H\u2082O",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "35 cm H\u2082O",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "60 cm H\u2082O",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 35 cm H\u2082O",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_3sPGiXn.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) 35 cm H\u2082O</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "45f7248d",
+      "audio": ""
+    },
+    {
+      "text": "A 29-year-old woman is scheduled for a short elective gynecological procedure under general anesthesia in a day care (ambulatory) setting. An intravenous opioid agent is planned for intraoperative analgesia. Which of the following opioids is most appropriate for this setting due to its ultra-short duration of action and rapid recovery profile?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fentanyl",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sufentanil",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alfentanil",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Remifentanil",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Remifentanil",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) Remifentanil</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "15e53a94",
+      "audio": ""
+    },
+    {
+      "text": "Which of these statements is incorrect about Thiopentone ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is highly lipid soluble",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It achieves maximum concentration in brain after IV infusion",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Redistribution to adipose tissue and muscle is seen",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The rapid decline in its effect is due to renal excretion",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The rapid decline in its effect is due to renal excretion",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) The rapid decline in its effect is due to renal excretion</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7d87be4b",
+      "audio": ""
+    },
+    {
+      "text": "A person has suffered from chest trauma resulting in fracture of 2-6th ribs. He is being given pain relief by IV analgesic agents . Which of these blocks will be helpful in pain relief ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cervical plexus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Supraclavicular block",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thoracic epidural",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lumbar epidural",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Thoracic epidural",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Thoracic epidural</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a1cbfa18",
+      "audio": ""
+    },
+    {
+      "text": "A 67-year-old patient with Non-alcoholic steatohepatitis and chronic kidney disease is posted for kidney transplant procedure under general anaesthesia. What would be the neuromuscular blocking agent of choice in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atracurium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pancuronium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cis-Atracurium",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Rocuronium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cis-Atracurium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Cis-Atracurium</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "51f0a424",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statements regarding high-flow nasal cannula (HFNC) oxygen therapy are true ? HFNC can deliver oxygen at a flow rate up to 60 L/min with humidification and heating. HFNC therapy increases positive end-expiratory pressure (PEEP) and reduces the work of breathing. HFNC reduces dead space by flushing the nasopharyngeal airway of expired air. HFNC causes increased entrainment of room air, lowering FiO\u2082 accuracy. HFNC provides cold and dry gas, which helps in secretion clearance.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2 and 3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1, 2 and 4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 4 and 5",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 4 and 5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1, 2 and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) 1, 2 and 3</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0d0e1cfa",
+      "audio": ""
+    },
+    {
+      "text": "A 45-year-old woman is scheduled for a short outpatient gynecologic procedure. Which of the following statements regarding anesthetic agents used in daycare surgery are incorrect? Remifentanil is preferred due to its ultra-short duration and rapid recovery. Desflurane is avoided due to its delayed recovery profile. Propofol is associated with antiemetic properties beneficial in day care surgeries. Midazolam is avoided due to prolonged sedation. Sevoflurane provides rapid induction and emergence, making it ideal for outpatient use.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2, 4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1, 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2, 3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 2, 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) 2, 4</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ad17f90d",
+      "audio": ""
+    },
+    {
+      "text": "A 35-year-old woman develops jaundice, fever, and elevated liver enzymes one week after undergoing an elective laparoscopic procedure under general anesthesia with halothane. She has no history of liver disease. Which of the following best explains the mechanism underlying her liver injury?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatic ischemia due to reduced splanchnic blood flow during anesthesia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Direct dose-dependent hepatotoxicity of halothane metabolites",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Immune-mediated response to trifluoroacetylated liver proteins",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of unmetabolized halothane in the biliary tract",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Immune-mediated response to trifluoroacetylated liver proteins",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Immune-mediated response to trifluoroacetylated liver proteins</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0d46a02f",
+      "audio": ""
+    },
+    {
+      "text": "Identify the use of this laryngoscope",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pediatric airway",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adult female airway",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Difficult airway",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Adult male airway",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Difficult airway",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_uYcuen4.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Difficult airway</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9ac8fc78",
+      "audio": ""
+    },
+    {
+      "text": "Identify the instrument:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oropharyngeal airway",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ovassapian airway",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nasopharyngeal airway",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Uncuffed endotracheal tube",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Nasopharyngeal airway",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_ZaNbp8G.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Nasopharyngeal airway</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "636ab3e0",
+      "audio": ""
+    },
+    {
+      "text": "A 24-year-old man with a known history of congenital myopathy is posted for elective orthopedic surgery. His brother experienced a fatal reaction during anesthesia involving sudden hyperthermia, muscle rigidity, and acidosis. Based on this history, which of the following agents should be avoided in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Midazolam",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Propofol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Succinylcholine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Dexmedetomidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Succinylcholine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C) Succinylcholine</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "26aaf4d3",
+      "audio": ""
+    },
+    {
+      "text": "Identify the most preferred IV agent for this procedure :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bupivacaine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Benzocaine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Prilocaine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lidocaine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Lidocaine",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_63rY5Qw.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) Lidocaine</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c29f470e",
+      "audio": ""
+    },
+    {
+      "text": "What does phase III represent in the below image ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inspiration",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Expiration of dead space air",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Expiration of mixed air",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alveolar plateau",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Alveolar plateau",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/image_acj8LGW.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D) Alveolar plateau</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "32e65b76",
+      "audio": ""
+    },
+    {
+      "text": "A 36-year-old male undergoes general anesthesia for an emergency abdominal surgery. During the procedure, he receives succinylcholine for muscle relaxation. Prolonged apnea is noted in the recovery room, and he requires mechanical ventilation support. Which of the following enzymes is primarily responsible for the metabolism of succinylcholine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pseudocholinesterase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Acetylcholinesterase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Monoamine oxidase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Catechol-O-methyltransferase (COMT)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Pseudocholinesterase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A) Pseudocholinesterase</strong></p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "65eb39d4",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "COVID-19-Previous_Year_Questions",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 33-year-old male comes with complaints of dry cough, fever and shortness of breath for 2 days along with a loss of taste and smell. He is a social worker who has been traveling a lot. What would be the investigation of choice for this patient to confirm the diagnosis of COVID-19?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PCR",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ELISA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Serology",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Real-time RT-PCR",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Real-time RT-PCR",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8dbd7ae3"
+    },
+    {
+      "text": "Which of the following is amplified in an RT-PCR test for the COVID-19 virus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DNA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Structural protein",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Envelope",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Answer B - DNA\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "64d75bc6"
+    }
+  ]
+}

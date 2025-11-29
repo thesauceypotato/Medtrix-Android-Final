@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "id": "test27",
+    "title": "PSM_New_Season",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "You are administering vitamin A supplements to an 8-month-old infant for two consecutive days. What is the recommended dose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25,000 IU",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "50,000 IU",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "100,000 IU",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "200,000 IU",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 100,000 IU",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "878767c7",
+      "audio": ""
+    },
+    {
+      "text": "A patient with diabetes seeks your guidance on dietary recommendations. You suggest incorporating foods that have a low glycemic index into their diet. Which of the following options would you suggest for this purpose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corn flakes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Brown rice",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sucrose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Papaya",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Papaya",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1ed27de8",
+      "audio": ""
+    },
+    {
+      "text": "What is the cause of the 40-year-old female patient's acute onset leg swelling and loose stools, considering her family members also have similar symptoms and mustard oil is a regular part of their diet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sanguinarine",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Clavine alkaloids",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "BOAA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pyrrolizidine alkaloids",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sanguinarine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a9e2fab7",
+      "audio": ""
+    },
+    {
+      "text": "Which indicator is considered the principal impact indicator in the National Iodine Deficiency Disorders Control Program (NIDDCP), reflecting the effectiveness of salt iodization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Median urinary iodine levels",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Prevalence of goitre",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Neonatal hypothyroidism",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Salt iodine content at the production site",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Median urinary iodine levels",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "319c8da5",
+      "audio": ""
+    },
+    {
+      "text": "During a screening camp at a village, a man was found to have severely impaired vision. According to the WHO definition of blindness, what is the cut-off for visual acuity to define it as blindness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6/60",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3/60",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "1/60",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Perception of light",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 3/60",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "869cbbdd",
+      "audio": ""
+    },
+    {
+      "text": "Which parameter is used to measure the operational efficiency of the National Vector Borne Disease Control Programme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Annual parasite index",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Slide positivity rate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Annual blood examination rate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Annual falciparum incidence",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Annual blood examination rate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "958e4a5a",
+      "audio": ""
+    },
+    {
+      "text": "You are researching the overall burden of COVID on a given population. Which of the following disability indicators is the best measure of this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sullivan\u2019s index",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DALY",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "QALY",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "YLL",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DALY",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6aec5622",
+      "audio": ""
+    },
+    {
+      "text": "Analysis expressing results of health care benefits in terms of results achieved, like the number of lives saved, instead of monetary benefit is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cost benefit analysis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cost effective analysis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Network analysis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Input output analysis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cost effective analysis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3307d67a",
+      "audio": ""
+    },
+    {
+      "text": "What is the application of scientific methods to investigate the study of complex human organizations, services and management called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Operational research",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Applied research",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pure research",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anthropological research",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Operational research",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e71288fb",
+      "audio": ""
+    },
+    {
+      "text": "What type of prevention is the prescriptive screening of a disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primordial",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Primary",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Secondary",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tertiary",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Secondary",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8f006b8c",
+      "audio": ""
+    },
+    {
+      "text": "In a society, people follow certain customs which they think are the right ways of doing things in the less vital areas of human conduct. These customs are called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Folkways",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mores",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Acculturation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Roles",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Folkways",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9380fa79",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not a part of the primary treatment of sewage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Screening",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Grit chamber",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Aeration tank",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Primary sedimentation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Aeration tank",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2a33d1c4",
+      "audio": ""
+    },
+    {
+      "text": "What is the Sullivan\u2019s index?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Life expectancy free from disability",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Life adjusted with disease",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Years of life lost due to premature death",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Standard of living",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Life expectancy free from disability",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d52c8d5",
+      "audio": ""
+    },
+    {
+      "text": "The NIDM is involved in the mitigation and management of disasters in India. Who is the president of this institution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime Minister of India",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "President of India",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Union Home Minister",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Health Minister of India",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Union Home Minister",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cf5a19a6",
+      "audio": ""
+    },
+    {
+      "text": "A 20-year-old female patient had to undergo a cesarean section in an institution due to a complicated delivery. She was discharged on her 5th-day postpartum. How many visits by an ASHA worker is recommended in this case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "7",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "5",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "242c3daf",
+      "audio": ""
+    },
+    {
+      "text": "The probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period is known as the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secondary attack rate",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Case fatality rate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Primary attack rate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tertiary attack rate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Secondary attack rate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3e660e5f",
+      "audio": ""
+    },
+    {
+      "text": "What is known as the change in the occurrence of a disease over very long periods of time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Propagated epidemic",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Secular trend",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cyclical trend",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Modern epidemic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Secular trend",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7542b803",
+      "audio": ""
+    },
+    {
+      "text": "An epidemiologist has determined five independent factors influencing the outcome of a particular disease. Which of the following statistical methods can he use to compare these factors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ANOVA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multiple linear regression",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "T-test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Logistic regression",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Logistic regression",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bd63fb78",
+      "audio": ""
+    },
+    {
+      "text": "What is this graphical representation known as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Funnel plot",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Forest plot",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Scattergram",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ogive",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Funnel plot",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(1219).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3b2a1360",
+      "audio": ""
+    },
+    {
+      "text": "In a normal curve, what is the percentage of distribution of one standard deviation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "68%",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "34%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "99%",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "95%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 68%",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bf0a9ac4",
+      "audio": ""
+    },
+    {
+      "text": "Tribal and hilly areas should have one health sub-center for a population size of how much?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5000",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3000",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "7000",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "10000",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 3000",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b31d8314",
+      "audio": ""
+    },
+    {
+      "text": "Under the Anemia Mukt Bharat programme, what dose of iron and folic acid tablets will you prescribe for a 6-year-old child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 mg iron and 100 mcg folic acid",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "45 mg iron and 400 mcg folic acid",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "50 mg iron and 350 mcg folic acid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "100 mg iron and 500 mcg folic acid",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 45 mg iron and 400 mcg folic acid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "363891fc",
+      "audio": ""
+    },
+    {
+      "text": "Which agency of the UN gives funds for technical assistance and has the following as part of its logo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UNESCO",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "UNDP",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "UNEP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "UNHCR",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. UNDP",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(993).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "067353c7",
+      "audio": ""
+    },
+    {
+      "text": "Identify the organization that has the given emblem:",
+      "options": [
+        {
+          "label": "A",
+          "text": "National Vector Borne Disease Control Programme",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "National Leprosy Eradication Programme",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Integrated Child Development Scheme",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Disease, and Stroke",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. National Leprosy Eradication Programme",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/3(866).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7d9ef588",
+      "audio": ""
+    },
+    {
+      "text": "The dose of iodine for lactating women in India according to the recommended dietary allowance is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "200 \u00b5g/day",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "220 \u00b5g/day",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "250 \u00b5g/day",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "280 \u00b5g/day",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 280 \u00b5g/day",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d9aebf9",
+      "audio": ""
+    }
+  ]
+}

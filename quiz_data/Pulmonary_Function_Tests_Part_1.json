@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "id": "test122",
+    "title": "Pulmonary Function Tests (Part 1)",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "During pulmonary function testing, a 52-year-old smoker inspires a normal breath and then expires completely into the spirometer, expelling a measured volume of air. In a second test, the patient inspires maximally and then expires completely into the spirometer, expelling a second measured volume of air. By subtracting the volume of air obtained in the first test from the volume of air obtained in the second test, it is possible to determine which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Expiratory reserve volume",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Functional residual capacity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inspiratory capacity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Inspiratory reserve volume",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Inspiratory reserve volume",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Inspiratory reserve volume The inspiratory reserve volume (IRV) is defined as the additional volume of air that can be inspired after the completion of a normal inspiration. In the first test, the volume of air completely expired after inspiring a normal breath is the sum of the patient's tidal volume (tv) and expiratory reserve volume (ERV). In the second test, the volume of air completely expired after maximal inspiration is the vital capacity (VC). Vc is equal to the sum of the tidal volume (tv), expiratory reserve volume (ERV), and inspiratory reserve volume (IRV). Thus, subtracting the volume measured in the first test (TV+ ERV) from the volume measured in the second test (TV+ ERV + IRV) leaves only the irv.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is not correct. ERV is the air that can still be forcefully expired after a normal expiration. Option: B. Is not correct. The functional residual capacity is the volume in the lungs after a normal expiration. It is calculated by adding the residual volume and expiratory reserve volume Option: C. Is not correct. Inspiratory capacity is the volume of air that can be inspired from rest (after normal expiration). It is equal to inspiratory reserve volume+ tidal volume.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "79b44c9d",
+      "audio": ""
+    },
+    {
+      "text": "A 65-year-old patient comes to opd for pulmonary function tests. The patient has a 55-pack-year history of smoking. Laboratory testing reveals an arterial carbon dioxide pressure of 40 mm hg and an expired air carbon dioxide pressure of 30 mm hg. His physiologic dead space is determined to be 125 ml. What is the patient's tidal volume?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 ml",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "100 ml",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "250 ml",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "500 ml",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 500 ml",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>500 ml The formula for calculating physiologic dead space(vd ) is tidal volume x ([arterial carbon dioxide pressure - expired air carbon dioxide pressure] divided by the arterial carbon dioxide pressure); or vd = vt x ((paco2- peco2] i paco2). Plugging in the numbers given in the vignette, the answer is 500 ml.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is not correct. Even without using the equation, this value should seem inappropriately low. Additionally, dead space is the smallest volume in the lungs. Option: B. Is not correct. A normal tidal volume is about 5 times this value (on average), so this answer should be ruled out even without using the equation. Additionally, it can be reasoned out because the physiological dead space is supposed to be the smallest lung volume, and this answer choice is less than the given dead space volume. Option: C. is not correct. 220/o chose this. This choice is about half the normal tidal volume as demonstrated by the formula for the calculation of dead space. The vd is equal to the product of the tidal volume and the difference between arterial and expired c02 divided by the arterial c02. Here is the formula written out: vd = vt x ((paco2- peco2) i paco2]. Because the vignette gives us the calculated dead space and the pco2 values, it is possible to work backwards to solve for the tidal volume.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e770b051",
+      "audio": ""
+    },
+    {
+      "text": "A 65-year-old man with a 110-pack-year history of smoking presents to his primary care physician because of shortness of breath, dyspnea on exertion, and cough for 3 months duration. X-ray of the chest reveals a flattened diaphragm bilaterally. The doctor orders pulmonary function tests to evaluate the patient. Which of the following pulmonary function test results would most likely be found in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An increased diffusion capacity for carbon monoxide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased fev1:fvc",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Decreased functional residual capacity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decreased total lung capacity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Decreased fev1:fvc",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreased fev1:fvc This patient's long smoking history and presence of a flattened diaphragm on radiographs are suggestive of chronic obstructive pulmonary disease (copd}. The hallmark of obstructive lung disease is a decreased FEV1:FVC ratio.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. is not correct. Diffusion capacity for carbon monoxide (dlco) is an important test to consider when examining lung function. The test serves to measure the ability of the lungs to transfer gases from the alveolar sacs to the pulmonary capillaries and vasculature. The factors that can increase dlco are polycythemia, asthma (can also have normal dlco) and increased pulmonary blood volume as occurs in exercise. Obstructive diseases, as described in this patient, typically reveal low to normal dlcos depending on the type of disease present; patients with emphysema have low dlco value s, whereas patients with chronic bronchitis (as suggested in this stem) have low to normal dlco values. Patients with obstructive disease due to asthma have been known to have normal to high dlco values, as no damage has typically occurred to the lung parenchyma. Option: C. is not correct. Functional residual capacity (frc} is increased in chronic obstructive pulmonary disease because the patient is unable to expire air fully, resulting in air trapping in the lungs. In restrictive lung disease, FRC is decreased because the lung has restricted expansion so all lung volumes are decreased. Option: D. is not correct. The total lung capacity in patients with chronic obstructive pulmonary disease increases. It decreases in patients with restrictive lung disease.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8890a128",
+      "audio": ""
+    },
+    {
+      "text": "A 26- year-old man presents to his physician complaining of progressive shortness of breath over the past week. He has had a dry, nonproductive cough. He has smoked one pack of cigarettes per day for 5 years. He was diagnosed recently with testicular cancer and treated with orchiectomy and bleomycin. Fine bilateral crackles are heard on lung auscultation. Pulmonary function is tested. Which of the following measurements (relative to normal) would be consistent with the patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased residual volume and decreased fev1:fvc",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased residual volume and increased fev1:fvc",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Decreased total lung capacity and decreased fev1:fvc",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased residual volume and decreased fev1:fvc",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Decreased residual volume and increased fev1:fvc",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decreased residual volume and increased fev1:fvc</p>\n<p><strong>Highyeild:</strong></p><p>The patient likely has interstitial fibrosis, a restrictive pulmonary disease characterized by mesenchymal proliferation, collagen disorganization, and impaired oxygenation. This can result as a complication of bleomycin therapy, although the exact pathogenesis is unknown. Pulmonary fibrosis secondary to bleomycin toxicity usually occurs about 1 month after the initiation of treatment. Patients with pulmonary fibrosis and other restrictive disorders usually present with decreased total lung capacity, functional residual capacity, residual volume, FVC, and FEV1, and normal or increased fev1:fvc (~80%). The acuity of the situation (progressive over days not months or years) and the new use of a chemotherapeutic agent known to cause pulmonary interstitial fibrosis to rule out chronic obstructive pulmonary disease as a cause of this chronic smoker's new-onset shortness of breath. The effects are drug-related.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. is not correct. Patients with pulmonary fibrosis and restrictive lung diseases usually present with increased FEV1: FVC, because the decrease in FVC is relatively greater than the decrease in fev1. Decreased fev1:fvc. Option: C. is not correct. Patients with pulmonary fibrosis and restrictive lung diseases usually present with increased FEV1: FVC, because the decrease in FVC is relatively greater than the decrease in fev1. Decreased fev1:fvc. Option: D. is not correct. This is the pattern for obstructive diseases such as chronic obstructive pulmonary disease, in which the residual volume is increased but the FEV1: FVC is usually decreased.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "24365604",
+      "audio": ""
+    },
+    {
+      "text": "A 67- year-old man presents with dyspnea and a nonproductive cough that has worsened over the past 10 years. He has a 40-pack-year history of cigarette smoking, and he recently retired from a 21-year career as a foreman in a stone-cutting factory. The results of his pulmonary function test are shown in the image. On the basis of this patient's history and pulmonary function test results, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asbestosis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chronic bronchitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Emphysema",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Silicosis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Silicosis",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1701938119919-work.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Silicosis Pulmonary function tests (pfts) are strong indicators of a restrictive lung disease . Restrictive lung diseases are notable for restriction in lung expansion with a subsequent decrease in lung volume, as shown in this patient's test results. Of the answer choices, asbestosis and silicosis are restrictive lung diseases , whereas emphysema, asthma, and chronic bronchitis are obstructive lung diseases. With a history of working in a quarry, the most likely diagnosis is silicosis . Pfts are useful in categorizing lung disease as either obstructive or restrictive. One of the more useful ways of approaching a pft is to look at the total lung capacity (tlc} and to calculate the ratio of the forced expiratory volume in 1 second to the forced vital capacity (fev1: fvc}. A ratio of 0.80, therefore is eliminating an obstructive disease.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Is not correct. Asbestosis is also a restrictive lung disease; however, with a history of working with stone, the likelihood of silicosis is far greater. Asbestosis is associated with ship-building, roofing, and plumbing. It can lead to an increased risk of mesothelioma and bronchogenic carcinoma. Option: B. is not correct. Chronic bronchitis is an obstructive disease, and it is diagnosed using the patient's history and pfts. Although chronic bronchitis is associated with tobacco smoking and air pollutants, patients typically present with a productive cough. This patient presents with a nonproductive cough. Option: C. is not correct. Although this patient has an extensive smoking history, which does place him at risk for emphysema, emphysema is an obstructive disease. Emphysema presents with dyspnea as alveolar walls are destructed, forming air-space enlargements known as blebs. Air trapping occurs as alveolar recoil is lost, resulting in greater difficulty exhaling. With enough overinflation of the lung, patients can develop a distended chest.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bce6d670",
+      "audio": ""
+    }
+  ]
+}

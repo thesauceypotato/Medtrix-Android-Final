@@ -1,0 +1,727 @@
+{
+  "meta": {
+    "id": "test45",
+    "title": "Hematology__White_Blood_Cells-Hodgkin_s_and_Non-Hodgkin_s_Lymphoma",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match the following lymphomas with their cell of origin. Lymphoma/leukaemia Cell of origin 1. Diffuse large B-cell lymphoma a. Memory B-cell 2. Mantle cell lymphoma b. Germinal/post germinal center B cell 3. Hairy cell lymphoma c. Helper T-cell 4. Mycosis fungoides d. Naive B cell",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-b, 2-a, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-b, 3-d, 4-c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-d, 2-a, 3-d, 4-c",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-b, 2-d, 3-a, 4-c",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1-b, 2-d, 3-a, 4-c",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:715px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Neoplasm </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Cell of origin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diffuse large B-cell lymphoma\u00a0<strong>(Statement 1)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Germinal/post-germinal center B cells</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most common NHL.</li>\n<li>Associated with BCL6 gene rearrangement</li>\n<li>If <span class=\"customMeta\" data-dictid=\"f8109755621692777184ae2847c580\">CLL</span> transforms into DLBCL, it is called Richter's Syndrome.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hairy cell leukemia\u00a0<strong>(Statement 3)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Memory B cells</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>More common in boys.</li>\n<li>BRAF V600E <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">Mutation</span> +</li>\n<li>It presents with massive <span class=\"customMeta\" data-dictid=\"b3eb52fe3b1692777199de8465eea8\">splenomegaly</span> affecting the red <span class=\"customMeta\" data-dictid=\"5b7b8d266716927771968316ee113b\">pulp</span> of the spleen.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mantle cell lymphoma\u00a0<strong>(Statement 2)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Naive B cell</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Translocation t(11:14).</li>\n<li>Associated with GIT polyps.</li>\n<li>Cyclin D1 and SOX11 +ve,</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mycosis Fungoides <strong>(Statement 4)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Helper T cells</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cutaneous T-cell NHL.</li>\n<li>presents with <span class=\"customMeta\" data-dictid=\"f0f3e105661692777187df507b1f26\">erythema</span> and pruritus.</li>\n<li>If it affects the blood vessels, it is known as Sezary syndrome.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e5118032"
+    },
+    {
+      "text": "A 45-year-old male presents with a three-year history of pruritic, erythematous plaques on his trunk and extremities. Physical examination reveals widespread erythematous patches and plaques with a \"cerebriform\" appearance. Peripheral smear findings reveal the presence of abnormal lymphocytes with convoluted nuclei and abundant cytoplasm. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mycosis fungoides",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Adult T-cell leukemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anaplastic large cell lymphoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hairy cell leukemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mycosis fungoides",
+      "question_images": [
+        "https://image.prepladder.com/content/un146u0K2KCP1sx2I9e01737648493.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ULsokzLKj50S8YdcugCM1737648595.png",
+        "https://image.prepladder.com/content/fa5s7FclCKRPWJzO4Zzs1737047568.png",
+        "https://image.prepladder.com/content/LCjhk81EJSWyxnKyhNHT1737648554.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:775px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\u00a0</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Anaplastic Large-Cell Lymphoma</strong></p>\n<p style=\"text-align:center\"><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Adult T-Cell Leukemia/Lymphoma</strong></p>\n<p style=\"text-align:center\"><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Mycosis Fungoides</strong></p>\n<p style=\"text-align:center\"><strong>(Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Genetic Alterations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>ALK gene <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> on <span class=\"customMeta\" data-dictid=\"7157c1f59916927771846116d74646\">chromosome</span> 2</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>HTLV-1</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Cutaneous T-Cell Lymphoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Age Group </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Children or young adults</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Adults</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Adults</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Cell Morphology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Nephron \" data-hash=\"\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Anaplastic_large-cell_lymphoma#/media/File:Anaplastic_large_cell_lymphoma_-_cropped_-_very_high_mag.jpg\" data-tags=\"\" height=\"2665\" src=\"https://image.prepladder.com/content/ULsokzLKj50S8YdcugCM1737648595.png\" width=\"4167\"/></p>\n<p>Large <span class=\"customMeta\" data-dictid=\"85e45aad91169277718175491e3e68\">anaplastic</span> cells with horseshoe-shaped <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> and voluminous <span class=\"customMeta\" data-dictid=\"728bb228361692777185b98c34534b\">cytoplasm</span> (<strong>Hallmark cells/Doughnut cells</strong>)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"K. Rasul, Z. A. Barwari\" data-hash=\"\" data-license=\"NA\" data-source=\"https://www.semanticscholar.org/paper/Adult-T-cell-leukemia-lymphoma.-Rasul-Barwari/3b7a41011c9b8518464596f35675ecd9dc9f5665/figure/2\" data-tags=\"\" height=\"2884\" src=\"https://image.prepladder.com/content/fa5s7FclCKRPWJzO4Zzs1737047568.png\" width=\"4167\"/></p>\n\t\t\t\u00a0\n\n\t\t\t<p>Multilobated <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> <strong>(Cloverleaf or Flower cells)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"NA\" data-hash=\"\" data-license=\"CC BY SA\" data-source=\"https://wiki.clinicalflow.com/mycosis-fungoidess%C3%A9zary-syndrome-mfss\" data-tags=\"\" height=\"3054\" src=\"https://image.prepladder.com/content/LCjhk81EJSWyxnKyhNHT1737648554.png\" width=\"4167\"/></p>\n\t\t\t\u00a0\n\n\t\t\t<p>Neoplastic T cells with <span class=\"customMeta\" data-dictid=\"19b43840a41692777184d27ec15616\">cerebriform</span> <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> (<strong>Sezary cells</strong>)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Common Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Soft tissue involvement (mimicking metastatic carcinoma)</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Skin lesions</li>\n<li>Generalised lymphadenopathy</li>\n<li>Hepatosplenomegaly</li>\n<li>Hypercalcemia</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Cutaneous lesions(erythematous patches and plaques with a \"cerebriform\" appearance)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Prognosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Good</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Poor</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Median survival of roughly 10 years.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1a2f117b"
+    },
+    {
+      "text": "A 55-year-old male presents with persistent fatigue, splenomegaly, and pancytopenia. Peripheral blood smear shows leukocytosis with mature lymphocytes displaying hairy projections. Flow cytometry confirms the presence of CD11c and CD25 positive cells. Which of the following is the most specific biomarker commonly useful in the diagnosis of condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CD 20",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Annexin A5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Annexin A1",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Apolipoprotein A1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Annexin A1",
+      "question_images": [
+        "https://image.prepladder.com/content/xLxtQkLx3HE3DJZoP6oU1737046592.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a6235404"
+    },
+    {
+      "text": "A 45-year-old male has been complaining of persistent fatigue, recurrent infections, and easy bruising over the past few months. On physical examination, he has a noticeable abdominal mass. A peripheral smear shows the presence of atypical lymphoid cells with cytoplasmic projections, as shown in the image below. Which of the following statements is not true regarding the patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Associated with the BRAF V600E mutation.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Massive splenomegaly is a common clinical feature.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The pathogenesis involves the proliferation of immature myeloid cells",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Typically present with fatigue, infections, and pancytopenia.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The pathogenesis involves the proliferation of immature myeloid cells",
+      "question_images": [
+        "https://image.prepladder.com/content/N5Q3na2klNe3FFEPfo1N1737046585.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/fqxIyy8qhoFi9UW042Py1737046673.png",
+        "https://image.prepladder.com/content/9W9nS2EhFebJhChXgMtV1737046713.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Mutations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>BRAF V600E\u00a0<strong>(Option A ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Pathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Mutation of BRAF V600E gene \u2192 <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">Activation</span> of the BRAF protein \u2192 MAPK/ERK signalling <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> \u2192 Uncontrolled <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">proliferation</span> and survival of <span class=\"customMeta\" data-dictid=\"0472620c171692777192c655af9c57\">mature</span> B-cells (Hairy cells).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Clinical Presentation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Presents with fatigue, <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">recurrent</span> infections, easy bruising, (e.g., early satiety, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> discomfort), pancytopenia\u00a0<strong>(Option D ruled out)\u00a0</strong>and symptoms related to <span class=\"customMeta\" data-dictid=\"b3eb52fe3b1692777199de8465eea8\">splenomegaly</span> <strong>(Option B ruled out)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Peripheral Blood Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Hairy cells with round, oblong, or <span class=\"customMeta\" data-dictid=\"77adee7b1016927771972574741517\">reniform</span> <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> and pale blue cytoplasm.</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Paulo Henrique Orlandi Mourao \" data-hash=\"\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Hairy_cell_leukemia#/media/File:Hairy_cell_leukemia_smear_2009-08-20.JPG\" data-tags=\"\" height=\"3190\" src=\"https://image.prepladder.com/content/fqxIyy8qhoFi9UW042Py1737046673.png\" width=\"4167\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Bone <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">Marrow</span> <span class=\"customMeta\" data-dictid=\"754ab07a2e1692777183ed178c883d\">Biopsy</span> Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Hypocellular or fibrotic <span class=\"customMeta\" data-dictid=\"c8a8c935a41692777191610f6aacb4\">marrow</span> with \"hairy cells\".</li>\n<li>Fried egg appearance.</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Mark ong\" data-hash=\"\" data-license=\"CC BY SA 4.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Bone_marrow_infiltration_by_hairy_cell_leukaemia.jpg\" data-tags=\"\" height=\"3175\" src=\"https://image.prepladder.com/content/9W9nS2EhFebJhChXgMtV1737046713.png\" width=\"4167\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li>Flow cytometry</li>\n<li>Immunophenotyping</li>\n<li>Genetic testing for BRAF V600E mutation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Rituximab - BRAF inhibitors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Prognosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Excellent</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "015ab8e4"
+    },
+    {
+      "text": "Match each lymphoma or leukaemia type with its corresponding histopathological finding. Lymphoma/Leukemia Type Histopathological Finding 1.Follicular Lymphoma A) 2. Burkitt's Lymphoma B) 3. Diffuse Large B-Cell Lymphoma (DLBCL) C) 4. Hairy Cell Leukemia D)",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-C, 2-B, 3-A, 4-D",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-B, 2-A, 3-D, 4-C",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-D, 2-C, 3-B, 4-A",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-A, 2-D, 3-C, 4-B",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-C, 2-B, 3-A, 4-D",
+      "question_images": [
+        "https://image.prepladder.com/content/3oJgGcblGsIiJ5CCocyI1737046351.png",
+        "https://image.prepladder.com/content/b8tUXqBHDQdRxO9PZ77K1737046103.png",
+        "https://image.prepladder.com/content/s7b59XrouPHh1Acj1loQ1737046236.png",
+        "https://image.prepladder.com/content/VbZUrdMgPnX8CCDEJBUO1737046445.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/2N7oyyIuYqegx3SEA2RB1737046245.png",
+        "https://image.prepladder.com/content/nVO3T5ePWeLdwWCPt2DJ1737046149.png",
+        "https://image.prepladder.com/content/jaim8YL3xecFZe0g1ekI1737046337.png",
+        "https://image.prepladder.com/content/fl6jO46katDr2K36QUjd1737046428.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Lymphoma/Leukemia Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Histopathological Finding</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>HPE image</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #0d0d0d; vertical-align:top\">\n<p><strong>1. Follicular lymphoma\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #0d0d0d; vertical-align:top\">\n<p>Cleaved lymphocytes.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #0d0d0d; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Nephron \" data-hash=\"\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Follicular_lymphoma#/media/File:Follicular_lymphoma_--_low_mag.jpg\" data-tags=\"\" height=\"400\" src=\"https://image.prepladder.com/content/2N7oyyIuYqegx3SEA2RB1737046245.png\" width=\"594\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2. Burkitt\u2019s Lymphoma\u00a0</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\"Starry sky\" appearance with interspersed macrophages.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"CoRus13 \" data-hash=\"\" data-license=\"CC BY SA 4.0\" data-source=\"https://en.wikipedia.org/wiki/Burkitt_lymphoma#/media/File:Burkitt's_lymphoma_in_a_kidney_biopsy,_very_high_mag.jpg\" data-tags=\"\" height=\"400\" src=\"https://image.prepladder.com/content/nVO3T5ePWeLdwWCPt2DJ1737046149.png\" width=\"490\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>3. DLBCL</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Large <span class=\"customMeta\" data-dictid=\"32599f889a169277719169e3483e62\">lymphoid</span> cells with <span class=\"customMeta\" data-dictid=\"4b0fee14c816927772016e67cf3a13\">vesicular</span> <span class=\"customMeta\" data-dictid=\"e6b47028191692777193eb698e43b6\">nuclei</span> and prominent nucleoli.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Nephron \" data-hash=\"\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Diffuse_large_B-cell_lymphoma#/media/File:Diffuse_large_B_cell_lymphoma_-_cytology_low_mag.jpg\" data-tags=\"\" height=\"400\" src=\"https://image.prepladder.com/content/jaim8YL3xecFZe0g1ekI1737046337.png\" width=\"592\"/></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>4. Hairy cell leukemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cells with fine hair-like projections.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Paulo Henrique Orlandi Mourao \" data-hash=\"\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Hairy_cell_leukemia#/media/File:Hairy_cell_leukemia_smear_2009-08-20.JPG\" data-tags=\"\" height=\"400\" src=\"https://image.prepladder.com/content/fl6jO46katDr2K36QUjd1737046428.png\" width=\"523\"/></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/2JFvkp4X1pzSI7dT00pe1747819296.mp3",
+      "video": "",
+      "uid": "a0bbb3f7"
+    },
+    {
+      "text": "Which of the following statements correctly differentiates between Primary Effusion Lymphoma (PEL) and Immunodeficiency-associated Large B-cell Lymphoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PEL presents with lymphomatous masses in solid organs, while Immunodeficiency-associated Large B-cell Lymphoma presents as effusions.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "PEL is associated with EBV , whereas Immunodeficiency-associated Large B-cell Lymphoma is linked to HHV-8.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PEL presents as Effusions and is associated with HHV-8, whereas Immunodeficiency-associated Large B-cell Lymphoma is linked to EBV.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both are predominantly found in immunocompetent individuals without any viral association.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. PEL presents as Effusions and is associated with HHV-8, whereas Immunodeficiency-associated Large B-cell Lymphoma is linked to EBV.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:644px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Characteristic</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Primary <span class=\"customMeta\" data-dictid=\"73909075e71692777187f08d3c9b7e\">Effusion</span> <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">Lymphoma</span> (PEL)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:bottom\">\n<p style=\"text-align:center\"><strong>Immunodeficiency-associated Large B-cell Lymphoma</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Presentation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Malignant pleural or ascitic effusion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Solid or nodal tumours</strong>, or <span class=\"customMeta\" data-dictid=\"7fa42cc96416927771877d60e9fae2\">extranodal</span> involvement, often in <span class=\"customMeta\" data-dictid=\"a3cc9f976916927771895692a1a8a0\">immunocompromised</span> individuals.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Patient Demographics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Mostly in patients with advanced <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> infection or in older adults</p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p>Seen in patients with advanced <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> infection and recipients of organ or <span class=\"customMeta\" data-dictid=\"31f3475bb416927771894ea8f40643\">HSC</span> transplants.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Appearance of Tumor Cells</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li><strong>Anaplastic</strong> in appearance,</li>\n<li>Typically, <strong>do not express surface B- or T-cell markers</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li><strong>Neoplastic B cells</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>Viral Association With Pathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<ul>\n<li><strong>HHV-8 infection</strong> appears to have a causal role</li>\n<li>HIV</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #0d0d0d; border-left:1px solid #0d0d0d; border-right:1px solid #0d0d0d; border-top:1px solid #0d0d0d; vertical-align:middle\">\n<p><strong>EBV infection</strong> plays a critical <span class=\"customMeta\" data-dictid=\"aab99c76cb16927771946daf9e4dbf\">pathogenic</span> role</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a0fe6140"
+    },
+    {
+      "text": "A 14-year-old boy from Bihar presents with a low-grade fever, weight loss, and abdominal pain for the past 2 months. Investigation reveals a mass involving the ileocecal region, with histopathological examination showing a 'starry sky' appearance, immunohistochemistry positive for CD10, CD19, CD20, and BCL6, and FISH indicating a (8:14) translocation involving the MYC gene. This type of presentation is common in which condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Endemic Burkitt\u2019s lymphoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sporadic Burkitt\u2019s lymphoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "HIV-associated Burkitt\u2019s lymphoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sporadic Burkitt\u2019s lymphoma",
+      "question_images": [
+        "https://image.prepladder.com/content/3mTUj901WpERh9AdNWtW1737045892.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "50090328"
+    },
+    {
+      "text": "Match the following neoplasm with its appropriate genetic mutation. Neoplasia Genetic mutation 1. Mantle cell lymphoma A. BCL6 gene 2. Burkitt\u2019s lymphoma B. Cyclin D1 gene 3. Diffuse large B cell lymphoma C. BCL10 / MALT1 4. Marginal zone lymphoma D. MYC gene",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-B, 2-D, 3-A, 4-C",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-B, 2-A ,3-C ,4-D",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-A ,2-C ,3-D,4- B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-C ,2-D ,3-A ,4- B",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-B, 2-D, 3-A, 4-C",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:681px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>NEOPLASIA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>GENETIC MUTATION</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Other points</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Burkitt\u2019s <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> (Statement 2)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>t(8:14) <strong>c-MYC gene</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Associated with <span class=\"customMeta\" data-dictid=\"e4f6b2922d16927771865030175a86\">EBV</span> and HIV.</li>\n<li>3 types: Endemic, <span class=\"customMeta\" data-dictid=\"a325d0c14e16927771992fe8a96758\">Sporadic</span> and <span class=\"customMeta\" data-dictid=\"fa9d83d3d41692777189a8b393dd60\">HIV</span> associated.</li>\n</ul>\n<ul>\n<li>HPE shows \u2018starry sky\u2019 appearance</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>DLBCL (Statement 3)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>BCL6</strong> rearrangement</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most common NHL</li>\n<li>If <span class=\"customMeta\" data-dictid=\"f8109755621692777184ae2847c580\">CLL</span> transforms into DLBCL, it is called Richter's Syndrome.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Extranodal marginal zone <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> (Statement 4)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>t(11:18) - API2-MLT fusion</p>\n<p>t(1:14) - <strong>BCL10</strong>-<strong>IGH fusion</strong></p>\n<p>t(14:18) - <strong>MALT1-IGH fusion</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Associated with\n\t\t\t\t<ul>\n<li>H.pylori infection</li>\n<li>Sjogran's Syndrome</li>\n<li>Hashimoto's Disease.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mantle cell <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> (Statement 1)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>t(11:14) -<strong> Cyclin-D1</strong> IGH fusion</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Associated with GIT polyps</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "de70e264"
+    },
+    {
+      "text": "A 30-year-old man presents to the outpatient department with an axillary mass and complaints of low-grade fever, weight loss, and night sweats for the past 6 months. Histopathological examination (HPE) of a biopsy sample from the mass reveals diffuse follicular growth with centrocytes with cleaved nuclei and centroblasts. Immunohistochemistry shows BCL2 stain positive, CD19, CD20, and CD10 positive, and CD5 negative. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicular hyperplasia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mantle cell lymphoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Follicular lymphoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Burkitt\u2019s lymphoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Follicular lymphoma",
+      "question_images": [
+        "https://image.prepladder.com/content/YCZ4LRQzCjJwIHEQyXER1737045441.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Ty7e2K2qkiYfDqleJuoH1737045717.png",
+        "https://image.prepladder.com/content/mDPklt3OlCZ6heqNBcO01737045507.png",
+        "https://image.prepladder.com/content/nOLt95h8iwXcltY8gZOp1737045585.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Conditions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Surface IHC marker </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Follicular Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CD5 -ve</strong>, CD10+ve, CD19+ve, CD20+ve, BCL2+ve, BCL6+ve, Surface Ig+ve</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Follicular Hyperplasia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CD3+ve, CD10+ve, CD20+ve, BCL2 -ve, BCL6+ve</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mantle Cell Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cyclin D1+ve</strong>, CD19+ve, CD20+ve, Surface Ig (usually <span class=\"customMeta\" data-dictid=\"e4a6fd7fbb169277718986a699e800\">IgM</span> and IgD) +ve, <strong>CD5+ve</strong>, CD23 -ve</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Burkitt\u2019s Lymphoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IgM+ve, <strong>CD19+ve, CD20+ve</strong>, CD10+ve, <strong>BCL6+ve, BCL2 -ve</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d14d9f15"
+    },
+    {
+      "text": "An 8-year-old boy presents with a large mass over the mandible. On the HPE of the lesion, a \u2018starry sky pattern\u2019 is seen, similar to the image below. This condition is associated with which of the following genetic abnormalities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MYC gene",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "BCL2 gene",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cyclin-D1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "BCL6 gene",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. MYC gene",
+      "question_images": [
+        "https://image.prepladder.com/content/9gT8hlaTFCsuG35jSJ0C1737045056.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/6lFCMSd7TCldLk9ZWagZ1737045118.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ee8dc704"
+    },
+    {
+      "text": "A 30-year-old female presents with painless swelling of the neck, intermittent fever, night sweats and significant weight loss over the past three months. On examination, enlarged cervical and mediastinal lymph nodes are noted. A biopsy reveals the presence of characteristic cells, as shown in the image below. Which of the following about the described condition is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "More often localised to a single axial group of nodes",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Typically, it spreads in a contiguous manner.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mesenteric nodes and Waldeyer ring involvement are rare.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Extranodal presentation is common.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Extranodal presentation is common.",
+      "question_images": [
+        "https://image.prepladder.com/content/0sAil4HQlwA5mum26ewF1737648708.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/oNrZSnRzY6u07lq7oNkV1737023697.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:642px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Hodgkin <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">Lymphoma</span> (HL)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Non-Hodgkin <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">Lymphoma</span> (NHL)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Age of presentation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bimodal distribution peaks in young adults (15-35 years) and older adults (over 55).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More common in older adults but can occur at any age.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Localisation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More often localised to a single <span class=\"customMeta\" data-dictid=\"01591f7f591692777182ef8aa2360c\">axial</span> group of nodes (cervical, mediastinal, para-aortic) <strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>More frequent involvement of multiple <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> nodes</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pattern of Spread</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Orderly spread by contiguity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non <span class=\"customMeta\" data-dictid=\"2a2420d6bc1692777185ac0cb7e93d\">Contiguous</span> spread <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involvement of Mesenteric Nodes and Waldeyer Ring</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mesenteric nodes and Waldeyer ring are rarely involved. <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Waldeyer ring and mesenteric nodes are commonly involved.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extranodal Presentation</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extranodal presentation is rare.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Extranodal presentation is common. <strong>(Option D)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ftQOtKLSSaJO2XKxoRTi1747308775.mp3",
+      "video": "",
+      "uid": "709ef34e"
+    },
+    {
+      "text": "A 35-year-old woman came with complaints of chronic fatigue and a palpable nodular mass in her axilla. Further investigations reveal a B-cell neoplasm. Which of the following is the least likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicular lymphoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Marginal zone lymphoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hairy cell leukemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anaplastic large cell lymphoma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Anaplastic large cell lymphoma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>1. <span class=\"customMeta\" data-dictid=\"ae13cdc5c3169277719683e9f6bda5\">Precursor</span> B-cell neoplasm</p>\n<p>B-cell <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> lymphoblastic leukemia/lymphoma (B-ALL)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">Peripheral</span> B-cell neoplasm</p>\n<ul>\n<li>Chronic lymphocytic leukemia/small lymphocytic lymphoma</li>\n<li>B-cell prolymphocytic leukemia</li>\n<li>Lymphoplasmacytic lymphoma</li>\n<li>Splenic and nodal marginal zone lymphomas</li>\n<li>Extranodal marginal zone lymphoma</li>\n<li>Mantle cell lymphoma</li>\n<li>Follicular <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> <strong>(Option A)</strong></li>\n<li>Marginal zone <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> <strong>(Option B)</strong></li>\n<li>Hairy cell <span class=\"customMeta\" data-dictid=\"4521dbf4b91692777191a73002bf98\">leukemia</span> <strong>(Option C)</strong></li>\n<li>Plasmacytoma/plasma cell myeloma</li>\n<li>Diffuse large B-cell lymphoma</li>\n<li>Burkitt lymphoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. <span class=\"customMeta\" data-dictid=\"ae13cdc5c3169277719683e9f6bda5\">Precursor</span> T-cell neoplasm</p>\n<p>T-cell <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> lymphoblastic leukemia/lymphoma (T-ALL)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4. <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">Peripheral</span> T-cell and NK-cell neoplasms</p>\n<ul>\n<li>T-cell prolymphocytic leukemia</li>\n<li>Large <span class=\"customMeta\" data-dictid=\"4f63eb15be169277718848d4b4978b\">granular</span> lymphocytic leukemia</li>\n<li>Mycosis fungoides/S\u00e9zary syndrome</li>\n<li>Peripheral T-cell lymphoma, unspecified</li>\n<li>Anaplastic large-cell <span class=\"customMeta\" data-dictid=\"5a31d184f21692777191a2e457d646\">lymphoma</span> (Option D)</li>\n<li>Angioimmunoblastic T-cell lymphoma</li>\n<li>Enteropathy-associated T-cell lymphoma</li>\n<li>Panniculitis-like T-cell lymphoma</li>\n<li>Hepatosplenic \u03b3\u03b4 T-cell lymphoma</li>\n<li>Adult T-cell leukemia/lymphoma</li>\n<li>Extranodal NK/T-cell lymphoma</li>\n<li>NK-cell leukemia</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5. Hodgkin's lymphoma</p>\n<ul>\n<li>Classic subtypes\n\t\t\t\t<ul>\n<li>Nodular sclerosis</li>\n<li>Mixed cellularity</li>\n<li>Lymphocyte-rich</li>\n<li>Lymphocyte depletion</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Nodular <span class=\"customMeta\" data-dictid=\"c605d4126116927771916c2002638e\">lymphocyte</span> predominant</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "33efe424"
+    },
+    {
+      "text": "A 45-year-old male presents with painless swelling of multiple lymph nodes in his neck and groin. He denies experiencing fever, night sweats, or weight loss. Physical examination reveals bilateral cervical and inguinal lymphadenopathy. Based on the Ann Arbor classification, what is this patient's most likely stage of disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stage I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stage II",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stage III",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Stage IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stage III",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>STAGE</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>DISTRIBUTION OF DISEASE</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>I</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involvement of a single <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> region (I) or a single extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organ or site (IE).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>II</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involvement of two or more <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> regions on the same side of the <span class=\"customMeta\" data-dictid=\"5b42867b61169277718692205c2447\">diaphragm</span> alone (II) or localised involvement of an extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organ or site (IIE).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>III</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involvement of <span class=\"customMeta\" data-dictid=\"4df97a6cbf169277719172fd1af767\">lymph</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> regions on both sides of the <span class=\"customMeta\" data-dictid=\"5b42867b61169277718692205c2447\">diaphragm</span> without (III) or with (IIIE) localised involvement of an extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organ or site.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>IV</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diffuse involvement of one or more extra <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> organs or sites with or without <span class=\"customMeta\" data-dictid=\"4fb6bd90f016927771918d4a2993ed\">lymphatic</span> involvement.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "77f8ab38"
+    },
+    {
+      "text": "A 35-year-old male presents with painless enlargement of cervical lymph nodes, accompanied by fever, night sweats, and weight loss. Biopsy reveals large, atypical cells with prominent nucleoli and a mixed inflammatory background. Immunohistochemical staining shows these cells are negative for CD15 and CD30. Which marker is most likely to be positive in these cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CD20",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "CD3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CD15",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CD30",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. CD20",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "178a1fba"
+    },
+    {
+      "text": "A 65-year-old male with a history of HIV presents with fever, night sweats, and weight loss. A lymph node biopsy was done. Immunohistochemical staining shows these cells are CD15 and CD30 positive but CD20 negative. He was diagnosed with Lymphocyte-depleted Hodgkin's lymphoma. Which of the following features is characteristic of lymphocyte-depleted Hodgkin's lymphoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Presence of fibrous bands",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Abundance of reactive lymphocytes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "High number of Reed-Sternberg cells",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Predominance of nodular growth pattern",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. High number of Reed-Sternberg cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/h00Tedyw3TOUZdSPbile1737025218.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "ec87428a"
+    },
+    {
+      "text": "A 32-year-old male presents with painless lymphadenopathy in the cervical region. A biopsy reveals the presence of numerous small lymphocytes with scattered large mononuclear Hodgkin and Reed-Sternberg cells, which are CD20 positive and CD15/CD30 negative. Which subtype of Hodgkin's lymphoma is most consistent with these findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nodular sclerosis Hodgkin lymphoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mixed cellularity Hodgkin lymphoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lymphocyte-rich Hodgkin lymphoma",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte-depleted Hodgkin lymphoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Lymphocyte-rich Hodgkin lymphoma",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/XSXZD7qbrdEGfKGa8pxT1737024842.png",
+        "https://image.prepladder.com/content/w1jvn2BEm07XlC0H2gk31737024924.png",
+        "https://image.prepladder.com/content/1VbZKbE94VSXD6TsliB41737025003.png",
+        "https://image.prepladder.com/content/ibE4G5SmQYrMsbezkUoW1737025103.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "e2ed7e45"
+    },
+    {
+      "text": "A 35-year-old male presents with painless swelling of multiple lymph nodes, fever, night sweats, and weight loss. A biopsy of the affected lymph node reveals the presence of Reed-Sternberg cells. Which of the following options regarding Mixed cellularity type Hodgkin\u2019s Lymphoma is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is characterised by frequent mononuclear and diagnostic Reed-Sternberg (RS) cells.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "RS cells in this subtype typically express CD15 and CD30.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "More than 70% of cases are Epstein-Barr virus (EBV) positive.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is usually associated with a better prognosis than other subtypes of Hodgkin\u2019s lymphoma.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. It is usually associated with a better prognosis than other subtypes of Hodgkin\u2019s lymphoma.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "20f52256"
+    },
+    {
+      "text": "A 28-year-old female presents with painless swelling in her neck and shortness of breath. Imaging studies reveal a large mediastinal mass. A biopsy of the lymph node shows frequent lacunar cells and Reed-Sternberg cells. The RS cells are positive for CD15 and CD30 and usually negative for EBV. Which subtype of Hodgkin's lymphoma is most likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nodular Sclerosis Classical Hodgkin Lymphoma",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nodular Lymphocyte-Predominant Hodgkin Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Lymphocyte-Rich Classical Hodgkin Lymphoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lymphocyte-depleted classical Hodgkin Lymphoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Nodular Sclerosis Classical Hodgkin Lymphoma",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Tcg79kmXL4Hm2gLfu0mk1737024698.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b0582ff4"
+    },
+    {
+      "text": "Match the following Cells Histopathology A) Popcorn cells 1) B) Lacunar cells 2) C) Mononuclear cells 3) D) Reed-sternberg cell 4)",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-2, B-4, C-1, D-3",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "A-1, B-4, C-3, D-2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A-3, B-2, C-1, D-4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "A-4, B-1, C-2, D-3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. A-2, B-4, C-1, D-3",
+      "question_images": [
+        "https://image.prepladder.com/content/CWtUbBNxmyMEOLFcx36t1737024582.png",
+        "https://image.prepladder.com/content/wsisWsegHQ5VBbjPxDHx1737024367.png",
+        "https://image.prepladder.com/content/mYZYYbISu2cTp0blMVzd1737683573.png",
+        "https://image.prepladder.com/content/dc6qnTsqGkNhKgezoAeU1737024450.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/kITaJUHMyAzKWHmiGNK41737024082.png",
+        "https://image.prepladder.com/content/kGT5d0XNFXhwin6FrXxU1737023941.png",
+        "https://image.prepladder.com/content/wzT2tzRTvahk2JovHofD1737683759.png",
+        "https://image.prepladder.com/content/JQA532kx29EML11eENZj1737023998.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Histopathological variants of Hodgkin\u2019s Lymphoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mononuclear cells</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Emanuela Vaccher,Annunziata Gloghini,Caterina Volpi Antonino Carbone\" data-hash=\"\" data-license=\"CC BY 4.0\" data-source=\"https://www.researchgate.net/figure/Hodgkin-lymphoma-HL-in-individuals-infected-by-HIV-Hodgkin-and-Reed-Sternberg-HRS_fig3_363317499\" data-tags=\"\" height=\"1717\" src=\"https://image.prepladder.com/content/kITaJUHMyAzKWHmiGNK41737024082.png\" width=\"1999\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>\n<h4>Single <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> with a large, inclusion-like <span class=\"customMeta\" data-dictid=\"63f221342216927771932b69aa421b\">nucleolus</span> with abundant cytoplasm.</h4>\n</li>\n<li>\n<h4>Seen in Mixed <span class=\"customMeta\" data-dictid=\"aed7aaaa4516927771844cded86cdb\">Cellularity</span> Hodgkin Lymphoma</h4>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Popcorn cells</strong></p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Nephron \" data-hash=\"\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Nodular_lymphocyte_predominant_Hodgkin_lymphoma#/media/File:Popcorn_cell_in_nodular_lymphocyte_predominant_Hodgkin_lymphoma_-_very_high_mag_cropped.jpg\" data-tags=\"\" height=\"3076\" src=\"https://image.prepladder.com/content/kGT5d0XNFXhwin6FrXxU1737023941.png\" width=\"4167\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cells with multiple infolded nuclear membranes, small nucleoli, fine chromatin, and abundant pale cytoplasm.</li>\n<li>Seen in <span class=\"customMeta\" data-dictid=\"bfa856c77716927771939978c5afd0\">Nodular</span> <span class=\"customMeta\" data-dictid=\"c605d4126116927771916c2002638e\">lymphocyte</span> - Predominant Hodgkin lymphoma.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reed-sternberg cell</strong></p>\n<img alt=\"\" data-author=\"Unknown author\" data-hash=\"\" data-license=\"Public domain\" data-source=\"https://en.wikipedia.org/wiki/Reed%E2%80%93Sternberg_cell\" data-tags=\"\" height=\"2655\" src=\"https://image.prepladder.com/content/wzT2tzRTvahk2JovHofD1737683759.png\" width=\"4167\"/></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h4>It is characterised by two nuclear lobes, large inclusion-like nucleoli, and abundant <span class=\"customMeta\" data-dictid=\"728bb228361692777185b98c34534b\">cytoplasm</span> and is typically surrounded by lymphocytes, macrophages, and an eosinophil.</h4>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lacunar cells</strong></p>\n<p>\u00a0</p>\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"Mark ong\" data-hash=\"\" data-license=\"CC BY SA 4.0\" data-source=\"https://commons.wikimedia.org/wiki/File:CHL_lacunar_cell_x40.jpg\" data-tags=\"\" height=\"1999\" src=\"https://image.prepladder.com/content/JQA532kx29EML11eENZj1737023998.png\" width=\"1509\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>\n<h4>Typically found in the <span class=\"customMeta\" data-dictid=\"bfa856c77716927771939978c5afd0\">nodular</span> <span class=\"customMeta\" data-dictid=\"dae4dea0581692777198fdef9fa684\">sclerosis</span> subtype.</h4>\n</li>\n<li>\n<h4>Nuclei are more delicate, folded, or multilobate.</h4>\n</li>\n<li>\n<h4>Abundant pale <span class=\"customMeta\" data-dictid=\"728bb228361692777185b98c34534b\">cytoplasm</span> often gets disrupted during sectioning, creating an appearance where the <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> sits in an empty space (lacuna).</h4>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:612px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subtype</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reed-Sternberg Cell Variant</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nodular <span class=\"customMeta\" data-dictid=\"dae4dea0581692777198fdef9fa684\">Sclerosis</span> (NSHL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lacunar Cells</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mixed <span class=\"customMeta\" data-dictid=\"aed7aaaa4516927771844cded86cdb\">Cellularity</span> (MCHL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diagnostic <span class=\"customMeta\" data-dictid=\"c2400eeeb21692777197329dbd745b\">Reed-Sternberg Cells</span> and <span class=\"customMeta\" data-dictid=\"81ec3329d0169277719261f4b61d44\">Mononuclear</span> Variants</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymphocyte-Rich (LRHL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diagnostic <span class=\"customMeta\" data-dictid=\"c2400eeeb21692777197329dbd745b\">Reed-Sternberg Cells</span> and <span class=\"customMeta\" data-dictid=\"81ec3329d0169277719261f4b61d44\">Mononuclear</span> Variants</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymphocyte <span class=\"customMeta\" data-dictid=\"7061e0e0051692777186ba9c5f27df\">Depletion</span> (LDHL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diagnostic <span class=\"customMeta\" data-dictid=\"c2400eeeb21692777197329dbd745b\">Reed-Sternberg Cells</span> and Variants</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nodular Lymphocyte-Predominant (NLPHL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymphohistiocytic (L&H) Cells</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c71f524d"
+    },
+    {
+      "text": "In the WHO classification of Hodgkin lymphoma, which marker is typically expressed in classical Hodgkin lymphoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CD20",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CD15",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "CD45",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "BCL-6",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. CD15",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0f94ba04"
+    }
+  ]
+}

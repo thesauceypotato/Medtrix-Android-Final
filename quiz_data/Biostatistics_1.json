@@ -1,0 +1,1183 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Biostatistics",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "In a recent biostatistics workshop, Dr. Meena described a statistical distribution that represents possible outcomes from a series of data. She explains that this particular distribution is ideal for experiments or observations that yield data characterized by two mutually exclusive categories (e.g., success or failure, positive or negative). Which of the following distributions is Dr. Meena referring to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Binomial distribution",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bimodal distribution",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rectangular distribution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Poisson distribution",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Binomial distribution",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A. Binomial distribution</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Bimodal distribution \u2013 It is the arrangement of set of values which has two different observations having maximum frequencies . The data set has value of mode = 2.</li><li>\u2022 Option B. Bimodal distribution</li><li>\u2022 arrangement</li><li>\u2022 two different observations</li><li>\u2022 maximum frequencies</li><li>\u2022 data set</li><li>\u2022 mode = 2.</li><li>\u2022 Option C. Rectangular distribution \u2013 It is also called as Continuous uniform distribution . It is a probability distribution that has a constant probability .</li><li>\u2022 Option C. Rectangular distribution \u2013</li><li>\u2022 Continuous uniform</li><li>\u2022 distribution</li><li>\u2022 probability distribution</li><li>\u2022 constant probability</li><li>\u2022 Option D. Poisson\u2019s distribution \u2013 It is a discrete function which measures the probability of a given number of events that have occurred at a constant rate in a specified period . The events can only take specific values in each list of numbers. It can also be obtained as an approximation of a binomial distribution .</li><li>\u2022 Option D. Poisson\u2019s distribution</li><li>\u2022 discrete function</li><li>\u2022 measures</li><li>\u2022 given number of events</li><li>\u2022 constant rate</li><li>\u2022 specified period</li><li>\u2022 specific values</li><li>\u2022 list</li><li>\u2022 approximation</li><li>\u2022 binomial distribution</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The binomial distribution is used to model the probability of a certain number of successes (e.g., \"success\" or \"positive\") in a fixed number of independent experiments or trials , where each trial has only two possible outcomes . It is commonly used in situations involving binary or categorical data.</li><li>\u27a4 binomial distribution</li><li>\u27a4 probability</li><li>\u27a4 certain number</li><li>\u27a4 successes</li><li>\u27a4 fixed number</li><li>\u27a4 independent experiments or trials</li><li>\u27a4 two possible outcomes</li><li>\u27a4 binary or categorical data.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 52)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 52)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "af083fe7",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Mehta, a seasoned clinical researcher, is mentoring a group of medical students on their first research project. While discussing the findings, one student points out that their studies mean difference between two groups is 15 with a 95% confidence interval of 10 to 20. Another student, not very familiar with statistical concepts, asks for clarification about confidence intervals. Dr. Mehta decides to test the group's understanding and asks, \"Which of the following statements about confidence interval is incorrect?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Based on critical ratio when sample is large.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gives an indication of the likely magnitude of true value.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gives an indication of certainty of point estimate.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Becomes larger as sample size increases.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Becomes larger as sample size increases.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Becomes larger as sample size increases.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Based on critical ratio when sample is large: This is a correct statement. Confidence intervals are often based on the critical ratio , especially in large samples , using standard error to estimate the precision of the sample mean .</li><li>\u2022 Option A. Based on critical ratio when sample is large:</li><li>\u2022 correct</li><li>\u2022 Confidence intervals</li><li>\u2022 critical ratio</li><li>\u2022 large samples</li><li>\u2022 standard error</li><li>\u2022 estimate</li><li>\u2022 precision</li><li>\u2022 sample mean</li><li>\u2022 Option B. Gives an indication of the likely magnitude of the true value: This is correct . A confidence interval provides a range within which the true population parameter is likely to fall .</li><li>\u2022 Option B. Gives an indication of the likely magnitude of the true value:</li><li>\u2022 correct</li><li>\u2022 confidence interval</li><li>\u2022 range</li><li>\u2022 true population parameter</li><li>\u2022 fall</li><li>\u2022 Option C. Gives an indication of certainty of the point estimate: This is correct . A confidence interval indicates a range in which the true value is likely to lie with a certain level of confidence .</li><li>\u2022 Option C. Gives an indication of certainty of the point estimate:</li><li>\u2022 correct</li><li>\u2022 confidence interval</li><li>\u2022 true value</li><li>\u2022 lie</li><li>\u2022 certain level</li><li>\u2022 confidence</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Confidence Interval</li><li>\u27a4 Confidence Interval</li><li>\u27a4 A confidence interval gives an estimated range of values which is likely to include an unknown population parameter , the estimated range being calculated from a given set of sample data.</li><li>\u27a4 confidence interval</li><li>\u27a4 estimated</li><li>\u27a4 values</li><li>\u27a4 unknown population parameter</li><li>\u27a4 calculated</li><li>\u27a4 sample data.</li><li>\u27a4 Confidence Intervals (CI) = Mean \u00b1 Z (Standard error), where \u2018Z\u2019 is the Critical value for the given CI , and</li><li>\u27a4 Confidence Intervals (CI)</li><li>\u27a4 Mean \u00b1 Z (Standard error),</li><li>\u27a4 \u2018Z\u2019</li><li>\u27a4 CI</li><li>\u27a4 SE = SD/\u221an</li><li>\u27a4 SE = SD/\u221an</li><li>\u27a4 SD Standard deviation, n = Sample size</li><li>\u27a4 n = Sample size</li><li>\u27a4 Hence, As the sample size increases , the confidence interval decreases in size.</li><li>\u27a4 sample size increases</li><li>\u27a4 confidence interval decreases</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eede27a2",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Kapoor is analyzing data from a clinical study in which he's comparing the efficacy of two treatments for a rare disease. Given the small number of patients in his study, he's considering a statistical test which is an alternative to the standard Chi square test, especially when sample sizes are small. Which of the following tests is a variant of the Chi square test and might be more appropriate for Dr. Kapoor's analysis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Student t test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fisher\u2019s test",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Wilcoxon signed rank test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Paired t test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Fisher\u2019s test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Fisher\u2019s test</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Student t-test: This test is used for comparing the means of two groups, typically with continuous data, and is not a variant of the Chi-square test .</li><li>\u2022 Option A. Student t-test:</li><li>\u2022 comparing</li><li>\u2022 two groups,</li><li>\u2022 continuous data,</li><li>\u2022 not</li><li>\u2022 Chi-square test</li><li>\u2022 Option C. Wilcoxon signed-rank test: This is a non-parametric test used for comparing two related samples or repeated measurements on a single sample , not a variant of the Chi-square test.</li><li>\u2022 Option C. Wilcoxon signed-rank test:</li><li>\u2022 non-parametric test</li><li>\u2022 two related samples</li><li>\u2022 repeated measurements</li><li>\u2022 single sample</li><li>\u2022 not</li><li>\u2022 Chi-square test.</li><li>\u2022 Option D. Paired t-test: Similar to the Student t-test, this is used for comparing the means of two related groups , not a direct alternative to the Chi-square test.</li><li>\u2022 Option D. Paired t-test:</li><li>\u2022 Similar</li><li>\u2022 Student t-test,</li><li>\u2022 two related groups</li><li>\u2022 not</li><li>\u2022 direct alternative</li><li>\u2022 Chi-square test.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Chi-square test - Comparing percentage, proportions & fractions in two or more different group of individuals</li><li>\u27a4 Chi-square test</li><li>\u27a4 percentage, proportions & fractions</li><li>\u27a4 two</li><li>\u27a4 more different group</li><li>\u27a4 Fischer\u2019s test : Is a variant of Chi-square test when sample size is < 30. In a 2 x 2 contingency table of the expected value in any cell is less than 5, Fisher\u2019s exact test is done.</li><li>\u27a4 Fischer\u2019s test</li><li>\u27a4 variant</li><li>\u27a4 Chi-square test</li><li>\u27a4 sample size is < 30.</li><li>\u27a4 2 x 2</li><li>\u27a4 contingency table</li><li>\u27a4 expected value</li><li>\u27a4 less than 5,</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 97)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 97)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "105f35bb",
+      "audio": ""
+    },
+    {
+      "text": "During a session on statistical analysis in sports, a cricket analyst introduces a chart that illustrates the accumulation of runs scored across distinct segments of overs during a cricket match. This graphical representation is intended to depict the scoring dynamics as the game progresses. Which type of chart is being exemplified here to demonstrate the incremental scoring pattern over sequential overs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scatter diagram",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Line diagram",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cumulative frequency diagram",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pie diagram",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cumulative frequency diagram",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039005.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/07/08/image-20230708141628-1.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-105329.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Cumulative frequency diagram</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Data presentation:</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4672463b",
+      "audio": ""
+    },
+    {
+      "text": "In statistical analysis, various methods and tools are employed to detect outliers within a dataset. However, one of the following options is not typically used for identifying outliers. Which of these is not commonly used to detect outliers in a data series?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pierce Test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dixon's Q-test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Grubbs test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Shapiro wilk test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Shapiro wilk test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Shapiro wilk test</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Dixon's Q test: Dixon's Q test, or simply the Q test , is used for identification and rejection of outliers. This assumes normal distribution and this test should be used sparingly and never more than once in a data set .</li><li>\u2022 Option B.</li><li>\u2022 Dixon's Q test:</li><li>\u2022 Q test</li><li>\u2022 identification</li><li>\u2022 rejection</li><li>\u2022 normal distribution</li><li>\u2022 test</li><li>\u2022 sparingly</li><li>\u2022 never more</li><li>\u2022 once</li><li>\u2022 data set</li><li>\u2022 Option A. Pierce Test: Peirce's criterion is a rigorous method based on probability theory that can be used to eliminate data \u201coutliers \u201d or spurious data in a rational way.</li><li>\u2022 Option A.</li><li>\u2022 Pierce Test:</li><li>\u2022 rigorous method</li><li>\u2022 probability theory</li><li>\u2022 eliminate data \u201coutliers</li><li>\u2022 spurious data</li><li>\u2022 rational way.</li><li>\u2022 Option C. Grubbs' test: Grubbs' test is specifically designed to test for outliers in a dataset .</li><li>\u2022 Option C.</li><li>\u2022 Grubbs' test:</li><li>\u2022 specifically designed</li><li>\u2022 test</li><li>\u2022 dataset</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Statistical Tests for Identification of Outliers are \u2013</li><li>\u27a4 Statistical Tests for Identification of Outliers are \u2013</li><li>\u27a4 Dixon Test Grubbs Test Pearson Test Walsh Test</li><li>\u27a4 Dixon Test</li><li>\u27a4 Grubbs Test</li><li>\u27a4 Pearson Test</li><li>\u27a4 Walsh Test</li><li>\u27a4 It can also be identified by using graphs such as Histogram, Box and Whisker plot, Scatter diagram.</li><li>\u27a4 identified</li><li>\u27a4 graphs</li><li>\u27a4 Histogram, Box</li><li>\u27a4 Whisker plot, Scatter diagram.</li><li>\u27a4 Ref : Essentials of Biostatistics - Indranil Saha- 2 nd edition (page 37)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics - Indranil Saha- 2 nd edition (page 37)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "322346d1",
+      "audio": ""
+    },
+    {
+      "text": "Examine the distribution curve provided. Based on the relative positions of the mean, median, and mode along the x-axis, what can be inferred about the skewness of this distribution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positively skewed.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negatively skewed.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Non-linear skewed",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Linear skewed",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Negatively skewed.",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/333.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039010.jpg",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-110332.png"
+      ],
+      "explanation": "<p><strong>Ans. B. Negatively skewed</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Central tendency in various distributions -</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 46)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 46)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3c4638cb",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Malhotra is examining the relationship between two categorical variables: stages of a disease (early, middle, advanced, terminal) and treatment outcomes (improved, stable, worsened, expired). He collects data and presents them in a 4x4 contingency table. He decides to use the Chi square test to determine any association. While applying the Chi square test to this table, what would be the degree of freedom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "9",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "16",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 9",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-122937.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. 9</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Degree of freedom ( df ) = (row \u2013 1) x (column \u2013 1)</li><li>\u2022 Degree of freedom</li><li>\u2022 (row \u2013 1) x (column \u2013 1)</li><li>\u2022 = (4-1) x (4-1) = 3 x 3 = 9.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Degree of freedom - Is the no. of observations in a dataset that can freely vary once the parameters have been estimated.</li><li>\u27a4 Degree of freedom -</li><li>\u27a4 no. of observations</li><li>\u27a4 dataset</li><li>\u27a4 freely vary</li><li>\u27a4 parameters</li><li>\u27a4 estimated.</li><li>\u27a4 Calculation of degree of freedom -</li><li>\u27a4 Calculation of degree of freedom -</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 96)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 96)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ec7f9a80",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Patel, an epidemiologist, is organizing a workshop to train new public health researchers on sampling techniques for community health studies. During the session, he highlights various probability sampling methods and their applications. Which of the following sampling techniques mentioned by a participant is NOT an example of a probability sampling method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Stratified random sampling.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quota sampling",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Systematic random sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Quota sampling",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-111711.jpg"
+      ],
+      "explanation": "<p><strong>Ans. C. Quota sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Cluster sampling: Cluster sampling is a probability sampling method where the population is divided into clusters , and a random sample of clusters is selected for inclusion in the study .</li><li>\u2022 Option A.</li><li>\u2022 Cluster sampling:</li><li>\u2022 probability sampling method</li><li>\u2022 divided</li><li>\u2022 clusters</li><li>\u2022 random sample</li><li>\u2022 clusters</li><li>\u2022 inclusion</li><li>\u2022 study</li><li>\u2022 Option B. Stratified random sampling: Stratified random sampling is a probability sampling technique where the population is divided into strata (subgroups) based on certain characteristics, and then random samples are taken from each stratum.</li><li>\u2022 Option B.</li><li>\u2022 Stratified random sampling:</li><li>\u2022 probability sampling technique</li><li>\u2022 divided</li><li>\u2022 strata (subgroups)</li><li>\u2022 random samples</li><li>\u2022 stratum.</li><li>\u2022 Option D. Systematic random sampling : Systematic random sampling is a probability sampling method where researchers select every nth individual from a list of the population . It involves random selection and is used when a complete list of the population is available .</li><li>\u2022 Option D.</li><li>\u2022 Systematic random sampling</li><li>\u2022 probability sampling method</li><li>\u2022 researchers select</li><li>\u2022 list</li><li>\u2022 population</li><li>\u2022 random selection</li><li>\u2022 complete list</li><li>\u2022 population</li><li>\u2022 available</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Types of Sampling :</li><li>\u27a4 Types of Sampling</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5af5a5cd",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Sumit, a young researcher, is examining the relationship between the daily intake of a certain nutrient (Variable 1) and an improvement in cognitive functions (Variable 2) among elderly individuals. He collected data from 100 participants over a month and plotted the results on a scatter plot. Based on his observations, what type of relationship does this scatter plot most likely suggest between Variable 1 and Variable 2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Negative correlation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "No correlation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Moderately positive correlation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. No correlation",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039014.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_GfHXyPX.png"
+      ],
+      "explanation": "<p><strong>Ans. C. No correlation</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 In no correlation the points are at random or haphazard not maintaining any pattern . No linear relationship exists between the two variables.</li><li>\u2022 no correlation</li><li>\u2022 random</li><li>\u2022 haphazard not</li><li>\u2022 pattern</li><li>\u2022 No linear relationship</li><li>\u2022 between</li><li>\u2022 two variables.</li><li>\u2022 Scatter Plot: Used to determine the relationship (if any) between two variables . The nature of the pattern can suggest different types of relationships :</li><li>\u2022 Scatter Plot:</li><li>\u2022 determine</li><li>\u2022 relationship</li><li>\u2022 two variables</li><li>\u2022 pattern</li><li>\u2022 different types</li><li>\u2022 relationships</li><li>\u2022 Positive Linear Relationship: As Variable 1 increases , Variable 2 also increases. Negative Linear Relationship: As Variable 1 increases , Variable 2 decreases . No Relationship: There is no discernible pattern ; the points seem randomly scattered. Non-linear Relationship: The data points form a curve rather than a straight line.</li><li>\u2022 Positive Linear Relationship: As Variable 1 increases , Variable 2 also increases.</li><li>\u2022 Positive Linear Relationship: As Variable 1 increases , Variable 2 also increases.</li><li>\u2022 Positive Linear Relationship:</li><li>\u2022 Variable 1 increases</li><li>\u2022 Variable 2</li><li>\u2022 increases.</li><li>\u2022 Negative Linear Relationship: As Variable 1 increases , Variable 2 decreases .</li><li>\u2022 Negative Linear Relationship: As Variable 1 increases , Variable 2 decreases .</li><li>\u2022 Negative Linear Relationship:</li><li>\u2022 Variable 1 increases</li><li>\u2022 Variable 2 decreases</li><li>\u2022 No Relationship: There is no discernible pattern ; the points seem randomly scattered.</li><li>\u2022 No Relationship: There is no discernible pattern ; the points seem randomly scattered.</li><li>\u2022 No Relationship:</li><li>\u2022 no discernible pattern</li><li>\u2022 randomly scattered.</li><li>\u2022 Non-linear Relationship: The data points form a curve rather than a straight line.</li><li>\u2022 Non-linear Relationship: The data points form a curve rather than a straight line.</li><li>\u2022 Non-linear Relationship:</li><li>\u2022 data points</li><li>\u2022 curve</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Dot-plots : Compare 2 or 3 parameters simultaneously on a two or three dimensional scatter-plot (each event is represented as a single point on a scatter - plot. Intensity of 2 or 3 different channels are represented along the various axes . Events with similar intensities will cluster together in the same region on the scatterplot.)</li><li>\u27a4 Dot-plots</li><li>\u27a4 Compare 2 or 3 parameters</li><li>\u27a4 two</li><li>\u27a4 three dimensional scatter-plot</li><li>\u27a4 single point</li><li>\u27a4 scatter</li><li>\u27a4 plot.</li><li>\u27a4 Intensity</li><li>\u27a4 2</li><li>\u27a4 3 different channels</li><li>\u27a4 various axes</li><li>\u27a4 Events</li><li>\u27a4 similar intensities</li><li>\u27a4 cluster together</li><li>\u27a4 same region</li><li>\u27a4 scatterplot.)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 125)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 125)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "021b8147",
+      "audio": ""
+    },
+    {
+      "text": "A team of researchers is examining the outcomes of several studies on the effectiveness of a new antiviral medication. They compile their findings into a forest plot to visually summarize the collective odds ratios and confidence intervals of these studies. At their team meeting, Dr. Lira, a junior researcher, notices a blue-colored diamond at the bottom of the plot and inquires about its significance. As her mentor, you need to explain the interpretation of this diamond in the context of meta-analysis. Based on the forest plot provided, what does the blue-colored diamond at the bottom of the plot represent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odds ratio of individual studies",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Confidence interval",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Overall measure of effect",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "I2 statistic",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Overall measure of effect",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/666-1-1.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Overall measure of effect</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Odds ratio of individual studies: Each square on the plot represents the odds ratio of individual studies , not the diamond.</li><li>\u2022 Option A. Odds ratio of individual studies:</li><li>\u2022 plot represents</li><li>\u2022 odds ratio</li><li>\u2022 individual studies</li><li>\u2022 not</li><li>\u2022 Option B. Confidence interval of the largest study: The horizontal lines through the squares represent the confidence intervals of individual studies, not the diamond.</li><li>\u2022 Option B. Confidence interval of the largest study:</li><li>\u2022 horizontal lines</li><li>\u2022 squares</li><li>\u2022 confidence intervals</li><li>\u2022 not</li><li>\u2022 Option D. 12 statistic for heterogeneity: The 12 statistic is not depicted by a diamond; it is a numerical value that indicates the percentage of variation across studies that is due to heterogeneity rather than chance.</li><li>\u2022 Option D. 12 statistic for heterogeneity:</li><li>\u2022 not</li><li>\u2022 numerical value</li><li>\u2022 percentage of variation</li><li>\u2022 heterogeneity</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Forest Plot/ Blobbogram - A graphical display of estimated results from a number of scientific studies addressing the same question , along with the overall results .</li><li>\u27a4 Forest Plot/ Blobbogram -</li><li>\u27a4 estimated</li><li>\u27a4 number</li><li>\u27a4 scientific studies</li><li>\u27a4 same question</li><li>\u27a4 overall results</li><li>\u27a4 Odds ratio of individual studies represented as squares . Confidence interval presented as horizontal lines . Overall measure of effect is plotted as diamond .</li><li>\u27a4 Odds ratio of individual studies represented as squares .</li><li>\u27a4 Odds ratio of individual studies represented as squares .</li><li>\u27a4 Odds ratio</li><li>\u27a4 squares</li><li>\u27a4 Confidence interval presented as horizontal lines .</li><li>\u27a4 Confidence interval presented as horizontal lines .</li><li>\u27a4 Confidence interval</li><li>\u27a4 horizontal lines</li><li>\u27a4 Overall measure of effect is plotted as diamond .</li><li>\u27a4 Overall measure of effect is plotted as diamond .</li><li>\u27a4 Overall measure</li><li>\u27a4 diamond</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ba85d6f3",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Isha, a sociologist at the University of Mumbai, is interested in studying the relationship between people's place of residence and their job preferences. She collects data from a diverse sample across Maharashtra and categorizes their residences as urban, semi-urban, and rural. Further, she classifies their jobs as either government or private. To analyze her data, she wants to choose a test that would best determine the association between these variables?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Students t test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ANOVA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paired t test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi square test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Chi square test",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Chi square test</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Chi square test - This is a non-parametric test of significance, and is used to test the significance of association between 2 or more qualitative characteristics; proportions in 2 or more groups . It is used for Non-normal (Non-Gaussian) distributions .</li><li>\u2022 Chi square test</li><li>\u2022 non-parametric test</li><li>\u2022 between 2</li><li>\u2022 more qualitative</li><li>\u2022 proportions</li><li>\u2022 2</li><li>\u2022 more groups</li><li>\u2022 Non-normal</li><li>\u2022 distributions</li><li>\u2022 Applications of Chi-square test:</li><li>\u2022 Applications</li><li>\u2022 Chi-square test:</li><li>\u2022 Test of proportions Test of association Test of goodness of fit</li><li>\u2022 Test of proportions</li><li>\u2022 Test of proportions</li><li>\u2022 Test of association</li><li>\u2022 Test of association</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Essential requirements for calculation of Chi-square test:</li><li>\u2022 Essential</li><li>\u2022 calculation</li><li>\u2022 Chi-square test:</li><li>\u2022 Random sample Qualitative data Lowest expected frequency not < 5.</li><li>\u2022 Random sample</li><li>\u2022 Random sample</li><li>\u2022 Qualitative data</li><li>\u2022 Qualitative data</li><li>\u2022 Lowest expected frequency not < 5.</li><li>\u2022 Lowest expected frequency not < 5.</li><li>\u2022 Educational objective:</li><li>\u2022 Educational objective:</li><li>\u2022 Chi square test is used for comparing categorical variables . Comparing percentage, proportions & fractions in two or more different group of individuals.</li><li>\u2022 Chi square test</li><li>\u2022 comparing categorical variables</li><li>\u2022 percentage, proportions</li><li>\u2022 fractions</li><li>\u2022 two</li><li>\u2022 more different</li><li>\u2022 individuals.</li><li>\u2022 Fischer\u2019s test : Is a variant of Chi-square test when sample size is < 30</li><li>\u2022 Fischer\u2019s test</li><li>\u2022 Chi-square test</li><li>\u2022 < 30</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 105)</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 105)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7341995a",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Sunita, a biostatistician, is giving a lecture on probability distributions. She describes the normal distribution as a bell-shaped curve characterized by specific properties. However, one of the characteristics she mentions is not true for a normal distribution. Which of the following is NOT a characteristic of a normal distribution curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continuous",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bilaterally symmetrical",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bell-shaped curve",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bimodal",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Bimodal",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/screenshot-2023-08-11-1921039009.jpg"
+      ],
+      "explanation": "<p><strong>Ans. D. Bimodal</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Continuous: A normal distribution is indeed a continuous distribution , meaning that it is defined for all real numbers in a certain interval.</li><li>\u2022 Option A.</li><li>\u2022 Continuous:</li><li>\u2022 continuous distribution</li><li>\u2022 real numbers</li><li>\u2022 certain interval.</li><li>\u2022 Option B. Bilaterally symmetrical: A normal distribution is symmetrical about the mean, with the left and right sides mirroring each other.</li><li>\u2022 Option B.</li><li>\u2022 Bilaterally symmetrical:</li><li>\u2022 symmetrical</li><li>\u2022 left and right sides</li><li>\u2022 Option C. Bell-shaped curve: A normal distribution typically has the shape of a bell curve , with the highest frequency in the middle tapering off to either side.</li><li>\u2022 Option C.</li><li>\u2022 Bell-shaped curve:</li><li>\u2022 bell curve</li><li>\u2022 highest frequency</li><li>\u2022 middle tapering</li><li>\u2022 Normal Distribution curve is also called Gaussian curve or Standard distribution .</li><li>\u2022 Normal Distribution curve</li><li>\u2022 Gaussian curve or Standard distribution</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Characteristics of Normal curve:</li><li>\u27a4 Characteristics of Normal curve:</li><li>\u27a4 Continuous Bilaterally symmetrical Smooth and cocked hat shaped or bell-shaped curve. Unimoda l Mean, Median and Mode coincide. It has Mean = 0, SD = 1 and Variance = 1</li><li>\u27a4 Continuous</li><li>\u27a4 Continuous</li><li>\u27a4 Bilaterally symmetrical</li><li>\u27a4 Bilaterally symmetrical</li><li>\u27a4 Smooth and cocked hat shaped or bell-shaped curve.</li><li>\u27a4 bell-shaped curve.</li><li>\u27a4 Unimoda l</li><li>\u27a4 Unimoda</li><li>\u27a4 Mean, Median and Mode coincide.</li><li>\u27a4 It has Mean = 0, SD = 1 and Variance = 1</li><li>\u27a4 Ref: Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 45)</li><li>\u27a4 Ref: Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 45)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a4413196",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Arvind, a biostatistician, is analyzing a dataset related to a new cardiac drug trial. He is particularly interested in determining how individual patient outcomes deviate from the average result. He uses a specific statistical measure that allows him to express individual data points in terms of their distance from the mean, measured as multiples of the standard deviation. By doing so, he can identify and interpret both typical and atypical responses to the drug within the context of the entire dataset. What is this measure that Dr. Arvind is using to determine the distance of a value from the mean value in units of standard deviation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Z score",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "P value",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Confidence interval",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D score",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Z score",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_OLKxgQg.png"
+      ],
+      "explanation": "<p><strong>Ans. A. Z score</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Z score is also known as critical ratio/ relative deviate/ normal deviate/ standard normal variety . It is the number of standard deviations that a value in a normally distributed population lies away from the mean i.e., distance of a value from mean value of the curve in units of standard deviation .</li><li>\u2022 Z score</li><li>\u2022 critical ratio/ relative deviate/ normal deviate/ standard</li><li>\u2022 normal variety</li><li>\u2022 number</li><li>\u2022 standard deviations</li><li>\u2022 distributed population</li><li>\u2022 mean</li><li>\u2022 mean value</li><li>\u2022 units</li><li>\u2022 standard deviation</li><li>\u2022 The standard score indicates how many standard deviations an observation is above or below the mean. Z scores are frequently used in assessing how far a child is in his relative growth to a standard Z score = 2: Any measurement of at least 2SD away is considered too far away to be normal.</li><li>\u2022 The standard score indicates how many standard deviations an observation is above or below the mean.</li><li>\u2022 standard</li><li>\u2022 standard deviations</li><li>\u2022 above</li><li>\u2022 below</li><li>\u2022 mean.</li><li>\u2022 Z scores are frequently used in assessing how far a child is in his relative growth to a standard</li><li>\u2022 Z scores</li><li>\u2022 child</li><li>\u2022 his relative</li><li>\u2022 growth</li><li>\u2022 standard</li><li>\u2022 Z score = 2: Any measurement of at least 2SD away is considered too far away to be normal.</li><li>\u2022 Z score = 2:</li><li>\u2022 2SD</li><li>\u2022 too far</li><li>\u2022 normal.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 A Z score is a statistical measure that describes a value's relationship to the mean of a group of values . It is measured in terms of standard deviations from the mean . If a Z score is 0 , it indicates that the data point's score is identical to the mean score. A Z score can be positive or negative, indicating whether the data point is above or below the mean , and by how many standard deviations.</li><li>\u27a4 Z score</li><li>\u27a4 value's</li><li>\u27a4 mean</li><li>\u27a4 group of values</li><li>\u27a4 measured</li><li>\u27a4 standard deviations</li><li>\u27a4 mean</li><li>\u27a4 Z</li><li>\u27a4 0</li><li>\u27a4 data point's score</li><li>\u27a4 identical</li><li>\u27a4 Z score</li><li>\u27a4 positive</li><li>\u27a4 negative,</li><li>\u27a4 data</li><li>\u27a4 above</li><li>\u27a4 below</li><li>\u27a4 mean</li><li>\u27a4 many standard deviations.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 47)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 47)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c4864054",
+      "audio": ""
+    },
+    {
+      "text": "During a research team meeting at a premier health institution, Dr. Ramanujan is illustrating the statistical methods used to determine variability within the collected data. He lists several statistical measures, emphasizing their utility in understanding the spread and consistency of data points around a central value. While most of the measures he mentions are standard indicators of dispersion, one of them stands out as not typically employed for this purpose. Which of the following measures, as presented by Dr. Ramanujan, is NOT primarily used to describe dispersion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard deviation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Coefficient of variation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Variance",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Geometric mean",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Geometric mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Geometric mean</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Standard deviation: This measure quantifies the average distance between each data point and the mean , providing information about data dispersion .</li><li>\u2022 Option A.</li><li>\u2022 Standard deviation:</li><li>\u2022 average</li><li>\u2022 data point</li><li>\u2022 mean</li><li>\u2022 data dispersion</li><li>\u2022 Option B. Coefficient of variation: This measure expresses the standard deviation as a percentage of the mean , helping to assess the relative variability in different datasets.</li><li>\u2022 Option</li><li>\u2022 B.</li><li>\u2022 Coefficient of variation:</li><li>\u2022 standard deviation</li><li>\u2022 percentage</li><li>\u2022 mean</li><li>\u2022 relative variability</li><li>\u2022 different datasets.</li><li>\u2022 Option C. Variance: Variance measures the average squared difference between each data point and the mean , providing information about data spread .</li><li>\u2022 Option</li><li>\u2022 C.</li><li>\u2022 Variance:</li><li>\u2022 squared difference between each data point</li><li>\u2022 the mean</li><li>\u2022 data spread</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Measures of dispersion:</li><li>\u27a4 Measures of dispersion:</li><li>\u27a4 Range Interquartile range Mean deviation Standard deviation Coefficient of variation Variance</li><li>\u27a4 Range</li><li>\u27a4 Interquartile range</li><li>\u27a4 Mean deviation</li><li>\u27a4 Standard deviation</li><li>\u27a4 Coefficient of variation</li><li>\u27a4 Variance</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 49)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 49)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a1665573",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ravi is planning a study on dietary habits among teenagers in a suburban town. While discussing with his research team, they decide to use a sampling method that selects participants not based on any chance or random mechanism. They list down various non-probability sampling techniques but inadvertently include one method that is based on probability sampling. Which of the following is a probability sampling method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Convenience sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Snowball sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quota sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cluster sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Cluster sampling",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/screenshot-2024-08-13-110835.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Cluster sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Convenience sampling : Convenience sampling is a non-probability sampling method where researchers select participants based on their ease of access or availability . It does not involve random selection, making it a non-probability sampling technique.</li><li>\u2022 Option A. Convenience sampling</li><li>\u2022 non-probability sampling method</li><li>\u2022 participants</li><li>\u2022 ease</li><li>\u2022 access</li><li>\u2022 availability</li><li>\u2022 not</li><li>\u2022 random</li><li>\u2022 non-probability sampling technique.</li><li>\u2022 Option B. Snowball sampling: Snowball sampling is a non-probability sampling technique where initial participants are chosen, and then additional participants are recruited through referrals from the initial participants ( Ex: drug users or commercial sex workers ). It relies on social networks and is not based on random selection.</li><li>\u2022 Option B. Snowball sampling:</li><li>\u2022 non-probability</li><li>\u2022 initial participants</li><li>\u2022 chosen,</li><li>\u2022 additional participants</li><li>\u2022 recruited</li><li>\u2022 referrals</li><li>\u2022 initial participants</li><li>\u2022 Ex: drug users</li><li>\u2022 commercial sex workers</li><li>\u2022 relies</li><li>\u2022 not</li><li>\u2022 random selection.</li><li>\u2022 Option C. Quota sampling: Quota sampling is a non-probability sampling method where researchers divide the population into subgroups (quotas) based on certain characteristics and then select participants from each quota. It is not a random selection process and falls under non-probability sampling .</li><li>\u2022 Option C. Quota sampling:</li><li>\u2022 non-probability</li><li>\u2022 divide</li><li>\u2022 subgroups (quotas)</li><li>\u2022 certain characteristics</li><li>\u2022 select participants</li><li>\u2022 not</li><li>\u2022 random selection</li><li>\u2022 falls</li><li>\u2022 non-probability sampling</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 67)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2d1ab76a",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Aarav is analyzing data from a recent survey in a metropolitan city. The survey assessed both the dietary habits (vegetarian vs. non-vegetarian) and the prevalence of a specific metabolic disorder. He wishes to use Chi square test for analysis. Here, the Chi square test is most directly used to measure the degree of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Causal relationship between exposure and effect",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Association between two variables",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Correlation between two variables",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Agreement between two variables",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Association between two variables",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Association between two variables</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Chi-square test - A \u2018 non-parametric test\u2019 of significance, which is used to \u2018test significance of association between 2 or more qualitative variables. It is used to compare proportions in 2 or more groups . Applications of Chi-square test -</li><li>\u2022 Chi-square test</li><li>\u2022 non-parametric test\u2019</li><li>\u2022 \u2018test significance</li><li>\u2022 between 2</li><li>\u2022 more qualitative variables.</li><li>\u2022 proportions</li><li>\u2022 2 or more groups</li><li>\u2022 Applications</li><li>\u2022 Chi-square test</li><li>\u2022 Test of proportions Test of association Test of goodness of fit</li><li>\u2022 Test of proportions</li><li>\u2022 Test of proportions</li><li>\u2022 Test of association</li><li>\u2022 Test of association</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Test of goodness of fit</li><li>\u2022 Essential requirements for calculation of Chi-square test:</li><li>\u2022 Essential requirements</li><li>\u2022 calculation</li><li>\u2022 Chi-square test:</li><li>\u2022 Random sample Qualitative data Lowest expected frequency not < 5</li><li>\u2022 Random sample</li><li>\u2022 Random sample</li><li>\u2022 Qualitative data</li><li>\u2022 Qualitative data</li><li>\u2022 Lowest expected frequency not < 5</li><li>\u2022 Lowest expected frequency not < 5</li><li>\u2022 Fischer\u2019s test is a variant of Chi-square test when sample size is < 30</li><li>\u2022 Fischer\u2019s test</li><li>\u2022 variant</li><li>\u2022 Chi-square test</li><li>\u2022 sample size</li><li>\u2022 < 30</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The Chi-square test is most directly used to measure the association between two variables . This test is particularly useful for categorical data and is used to assess whether the distribution of sample categorical data matches an expected distribution or not.</li><li>\u27a4 Chi-square test</li><li>\u27a4 directly</li><li>\u27a4 between</li><li>\u27a4 two variables</li><li>\u27a4 test</li><li>\u27a4 useful</li><li>\u27a4 categorical data</li><li>\u27a4 used</li><li>\u27a4 distribution</li><li>\u27a4 sample categorical data</li><li>\u27a4 matches</li><li>\u27a4 distribution</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 95)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 95)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cb26555c",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ira, a biostatistician, is reviewing a set of data from a recent study investigating the relationship between two variables. She notices that the data does not follow a normal distribution. She wants to compute a correlation coefficient that is appropriate for non-normally distributed data. Which of the following correlation coefficients should Dr. Ira use for this data?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pearson\u2019s correlation coefficient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Spearman\u2019s correlation coefficient",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Contingency coefficient",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Eta coefficient",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Spearman\u2019s correlation coefficient",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/11/20/1.jpg"
+      ],
+      "explanation": "<p><strong>Ans. B. Spearman\u2019s correlation coefficient</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Spearman's rank correlation coefficient is a non-parametric measure of correlation , based on the ranks of the data rather than the actual data values . It is appropriate for data that is not normally distributed or has a non-linear relationship.</li><li>\u2022 Spearman's rank</li><li>\u2022 coefficient</li><li>\u2022 non-parametric</li><li>\u2022 correlation</li><li>\u2022 ranks</li><li>\u2022 data</li><li>\u2022 actual data values</li><li>\u2022 data</li><li>\u2022 not</li><li>\u2022 non-linear relationship.</li><li>\u2022 Correlation</li><li>\u2022 Correlation</li><li>\u2022 It is a relationship between 2 quantitative or continuous variables and this is represented by Scatter diagram . Correlation coefficient (r) - Measures the degree or strength of the relationship in a correlation . It lies between \u20131 to +1 (\u20131 < r < +1) Strength of correlation</li><li>\u2022 It is a relationship between 2 quantitative or continuous variables and this is represented by Scatter diagram .</li><li>\u2022 relationship between 2 quantitative</li><li>\u2022 continuous variables</li><li>\u2022 Scatter diagram</li><li>\u2022 Correlation coefficient (r) - Measures the degree or strength of the relationship in a correlation . It lies between \u20131 to +1 (\u20131 < r < +1)</li><li>\u2022 Correlation coefficient (r)</li><li>\u2022 degree</li><li>\u2022 strength</li><li>\u2022 relationship</li><li>\u2022 correlation</li><li>\u2022 lies</li><li>\u2022 \u20131 to +1</li><li>\u2022 Strength of correlation</li><li>\u2022 Weak positive correlation: 0 < r < 0.3 Moderate positive correlation: 0.4 < r < 0.6 Strong positive correlation: r > 0.7</li><li>\u2022 Pearson's, Spearman's and Kendall's correlation coefficients are the most commonly used measures of correlation , with the latter two usually suggested for non-normally distributed data .</li><li>\u2022 Pearson's, Spearman's</li><li>\u2022 Kendall's correlation coefficients</li><li>\u2022 measures</li><li>\u2022 correlation</li><li>\u2022 latter two</li><li>\u2022 suggested</li><li>\u2022 non-normally distributed data</li><li>\u2022 Educational objective:</li><li>\u2022 Educational objective:</li><li>\u2022 Correlation coefficients -</li><li>\u2022 Correlation coefficients -</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 125)</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 125)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bec65d01",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ray is analyzing the results of a clinical trial, evaluating the efficacy of a new medication. He wants to apply a statistical test to determine if the medication significantly impacted the outcome variable. One of his colleagues suggests using a parametric test. Dr. Ray recalls some properties of parametric tests. Which of the following statements about parametric tests of significance is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is done for normally distributed data.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Data belonging to nominal or ordinal scale may be used.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "One-way ANOVA is a parametric test.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Data belonging to interval or ratio scale can be used.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Data belonging to nominal or ordinal scale may be used.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Data belonging to nominal or ordinal scale may be used.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. It is done for normally distributed data: This is true. Parametric tests usually require the assumption of normal distribution.</li><li>\u2022 Option A. It is done for normally distributed data:</li><li>\u2022 true.</li><li>\u2022 assumption</li><li>\u2022 normal distribution.</li><li>\u2022 Option C. One-way ANOVA is a parametric test: This is also true . One-way ANOVA is used to compare means across more than two groups and is a parametric test.</li><li>\u2022 Option C. One-way ANOVA is a parametric test:</li><li>\u2022 true</li><li>\u2022 One-way ANOVA</li><li>\u2022 used</li><li>\u2022 means</li><li>\u2022 more</li><li>\u2022 two groups</li><li>\u2022 parametric test.</li><li>\u2022 Option D. Data belonging to interval or ratio scale can be used: This is correct. Parametric tests are most appropriate for data on interval or ratio scales.</li><li>\u2022 Option D. Data belonging to interval or ratio scale can be used:</li><li>\u2022 correct.</li><li>\u2022 Parametric tests</li><li>\u2022 data</li><li>\u2022 interval or ratio scales.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Parametric test of significance:</li><li>\u27a4 Parametric test</li><li>\u27a4 For continuous (normally distributed data) Data belonging to interval or ratio scale . Generally, normality assumption required. More powerful.</li><li>\u27a4 For continuous (normally distributed data)</li><li>\u27a4 continuous</li><li>\u27a4 Data belonging to interval or ratio scale .</li><li>\u27a4 Data</li><li>\u27a4 interval or ratio scale</li><li>\u27a4 Generally, normality assumption required.</li><li>\u27a4 normality assumption</li><li>\u27a4 More powerful.</li><li>\u27a4 powerful.</li><li>\u27a4 Parametric tests are based on assumptions about the distribution and nature of the data . One of the assumptions is that the data should be on an interval or ratio scale. Non-parametric tests are used for ordinal or nominal scale data.</li><li>\u27a4 Parametric tests</li><li>\u27a4 distribution</li><li>\u27a4 nature of</li><li>\u27a4 data</li><li>\u27a4 assumptions</li><li>\u27a4 an interval</li><li>\u27a4 ratio scale.</li><li>\u27a4 Non-parametric tests</li><li>\u27a4 ordinal</li><li>\u27a4 nominal scale data.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 102)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 102)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "09254bef",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Roy, a researcher, is analyzing two sets of data, A and B, from a recent study. Set A has a mean of 50 and a standard deviation of 5, while Set B has a mean of 200 and a standard deviation of 40. He wants to compare the relative variability of the two sets of data to determine which one is more spread out in relation to its mean. Which of the following formulas should Dr. Roy use to obtain a standardized measure of dispersion that can be used to compare the variability of the two data sets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(SD x 100) / Mean",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "(Mean x 100) / SD",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "(Mean x SD) / 100",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "(SD +Mean) / 100",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. (SD x 100) / Mean",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. A. (SD x 100) / Mean</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Coefficient of variation is the ratio of standard deviation of series to the arithmetic mean of series. It is unit-less . It is calculated using the formula.</li><li>\u2022 Coefficient of variation</li><li>\u2022 standard deviation</li><li>\u2022 arithmetic mean</li><li>\u2022 unit-less</li><li>\u2022 calculated</li><li>\u2022 formula.</li><li>\u2022 Coefficient of variation = (SD x 100) / Mean .</li><li>\u2022 (SD x 100) / Mean</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Coefficient of Variation (COV) is a measure used to compare relative variability (a unit-free measure to compare dispersion of one variable with another ). COV is SD expressed as percentage of mean.</li><li>\u27a4 Coefficient of Variation (COV)</li><li>\u27a4 relative variability</li><li>\u27a4 unit-free measure</li><li>\u27a4 dispersion</li><li>\u27a4 one variable</li><li>\u27a4 another</li><li>\u27a4 COV</li><li>\u27a4 SD expressed</li><li>\u27a4 percentage</li><li>\u27a4 mean.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 51)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 51)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e512297f",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Varun, a public health researcher, is conducting a study on nutritional practices in a densely populated urban area. To ensure that his sample is representative yet manageable, he decides to select one household randomly and then pick every 7th household in a sequence from a list. By doing so, he believes he can achieve a balanced view without going through the exhaustive process of surveying every household. Which of the following best describes the sampling method Dr. Varun is using?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stratified random sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Systematic random sampling",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Systematic random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Systematic Random sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Cluster sampling: Cluster sampling involves dividing the population into clusters and randomly selecting entire clusters for inclusion in the study.</li><li>\u2022 Option A.</li><li>\u2022 Cluster sampling:</li><li>\u2022 dividing</li><li>\u2022 population</li><li>\u2022 clusters</li><li>\u2022 randomly</li><li>\u2022 clusters</li><li>\u2022 inclusion</li><li>\u2022 Option B. Simple random sampling: Simple random sampling is a method where each individual or item in the population has an equal chance of being selected independently and randomly.</li><li>\u2022 Option B.</li><li>\u2022 Simple random sampling:</li><li>\u2022 each individual or item</li><li>\u2022 equal chance</li><li>\u2022 selected independently</li><li>\u2022 randomly.</li><li>\u2022 Option C. Stratified random sampling: Stratified random sampling divides the population into strata ( subgroups ) based on certain characteristics and then selects random samples from each stratum.</li><li>\u2022 Option C.</li><li>\u2022 Stratified random sampling:</li><li>\u2022 divides</li><li>\u2022 population</li><li>\u2022 subgroups</li><li>\u2022 certain characteristics</li><li>\u2022 selects random samples</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The key feature of systematic random sampling involves selecting a sample at fixed intervals after an initial random selection . This method ensures a representative and manageable sample size for research , particularly in studies involving large populations, like in public health research.</li><li>\u27a4 systematic random sampling</li><li>\u27a4 fixed intervals</li><li>\u27a4 initial random selection</li><li>\u27a4 method</li><li>\u27a4 representative</li><li>\u27a4 sample size</li><li>\u27a4 research</li><li>\u27a4 large populations,</li><li>\u27a4 public health research.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 69)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 69)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "def274de",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Alisha, a seasoned biostatistician, is supervising a group of researchers conducting a clinical trial on a new antihypertensive drug. The team is keen on reducing the possibility of a Type II error or beta error. In a team meeting, Dr. Alisha quizzes the group to test their understanding about reducing the chances of committing a Type II error. She asks, \"Which of the following methods will not help in reducing the risk of a Type II error?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreasing the sample size",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Set less demanding Type I error.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reduce variability of measurements (increased accuracy)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Use a one tailed test (directional alternate hypotheses)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Decreasing the sample size",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-120623.jpg"
+      ],
+      "explanation": "<p><strong>Ans. A. Decreasing the sample size.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Setting a less demanding Type I error: Setting a higher threshold for Type I error (alpha) can sometimes help reduce the Type II error , as it allows for more flexibility in rejecting the null hypothesis.</li><li>\u2022 Option B. Setting a less demanding Type I error:</li><li>\u2022 higher threshold</li><li>\u2022 Type I error (alpha)</li><li>\u2022 reduce</li><li>\u2022 Type II error</li><li>\u2022 more flexibility</li><li>\u2022 rejecting</li><li>\u2022 null hypothesis.</li><li>\u2022 Option C. Reducing variability of measurements (increased accuracy): Increased accuracy and reduced variability in measurements can enhance the study's power , thus decreasing the chance of a Type II error.</li><li>\u2022 Option C. Reducing variability of measurements (increased accuracy):</li><li>\u2022 Increased accuracy</li><li>\u2022 reduced variability</li><li>\u2022 can enhance</li><li>\u2022 study's power</li><li>\u2022 decreasing</li><li>\u2022 Type II error.</li><li>\u2022 Option D. Using a one-tailed test (directional alternate hypotheses): One-tailed tests , which focus on detecting an effect in a specific direction , can be more powerful than two-tailed tests under certain conditions, thereby potentially reducing Type II error.</li><li>\u2022 Option D. Using a one-tailed test (directional alternate hypotheses):</li><li>\u2022 One-tailed</li><li>\u2022 tests</li><li>\u2022 detecting</li><li>\u2022 specific direction</li><li>\u2022 powerful</li><li>\u2022 two-tailed tests</li><li>\u2022 reducing Type II error.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Type II error or beta error can be reduced by the following ways.</li><li>\u27a4 Type II error</li><li>\u27a4 beta error</li><li>\u27a4 reduced</li><li>\u27a4 Increase the sample size . Set less demanding Type I error. Reduce variability of measurements ( increased accuracy ) Use a one tailed test ( directional alternate hypotheses )</li><li>\u27a4 Increase the sample size .</li><li>\u27a4 Increase the sample size .</li><li>\u27a4 Increase</li><li>\u27a4 sample size</li><li>\u27a4 Set less demanding Type I error.</li><li>\u27a4 Set less demanding Type I error.</li><li>\u27a4 less</li><li>\u27a4 Type I error.</li><li>\u27a4 Reduce variability of measurements ( increased accuracy )</li><li>\u27a4 Reduce variability of measurements ( increased accuracy )</li><li>\u27a4 Reduce</li><li>\u27a4 measurements</li><li>\u27a4 increased accuracy</li><li>\u27a4 Use a one tailed test ( directional alternate hypotheses )</li><li>\u27a4 Use a one tailed test ( directional alternate hypotheses )</li><li>\u27a4 one tailed test</li><li>\u27a4 directional alternate hypotheses</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 89)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 89)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a4e72b43",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ahmed is conducting a study comparing the mean blood pressure of two independent groups: one on a new antihypertensive drug and another on a placebo. He collects data from both groups and plans to analyze the difference in means between the two. He considers using the student's t-test but recalls some characteristics associated with it. Which of the following statements regarding the student's t-test is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standard error of mean is estimated.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Standard deviation is used for calculation.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Student\u2019s t test table is required for calculation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Three groups are compared.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Three groups are compared.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Three groups are compared.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Standard error of mean is estimated: This is true . The Student's t-test involves estimating the standard error of the mean to understand the variability of the sample mean from the population mean.</li><li>\u2022 Option A. Standard error of mean is estimated:</li><li>\u2022 true</li><li>\u2022 standard error</li><li>\u2022 variability</li><li>\u2022 sample</li><li>\u2022 mean</li><li>\u2022 population mean.</li><li>\u2022 Option B. Standard deviation is used for calculation: This is also true. The calculation of the t-test involves using the standard deviation of the sample data.</li><li>\u2022 Option B. Standard deviation is used for calculation:</li><li>\u2022 true.</li><li>\u2022 t-test</li><li>\u2022 standard deviation</li><li>\u2022 sample data.</li><li>\u2022 Option C. Student\u2019s t-test table is required for calculation: This is correct . The t-test involves comparing the calculated t-statistic to values in the Student's t-test table to determine statistical significance .</li><li>\u2022 Option C. Student\u2019s t-test table is required for calculation:</li><li>\u2022 correct</li><li>\u2022 t-test</li><li>\u2022 calculated t-statistic</li><li>\u2022 values</li><li>\u2022 Student's t-test</li><li>\u2022 statistical significance</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Means of two groups are compared in a student\u2019s t test . ANOVA is used for comparison of three groups.</li><li>\u27a4 Means</li><li>\u27a4 two groups</li><li>\u27a4 student\u2019s t test</li><li>\u27a4 ANOVA</li><li>\u27a4 comparison</li><li>\u27a4 three groups.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 118)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 118)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fc411020",
+      "audio": ""
+    },
+    {
+      "text": "In the field of statistics, Pearson's correlation coefficient is a widely used measure to assess the strength and direction of a linear relationship between two variables. It's a key concept in many areas of research, including psychology, economics, and the natural sciences. Understanding the range of values that Pearson's correlation coefficient can take is crucial for correctly interpreting its significance in statistical analyses. Given this context, Pearson's correlation coefficient typically lies between which of the following ranges?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero to -1.0",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "- 1.0 to + 1.0",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Zero to + 1.0",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "+2.0 to -2.0",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. - 1.0 to + 1.0",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/01/24/image.png"
+      ],
+      "explanation": "<p><strong>Ans. B. \u2013 1.0 to + 1.0</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 PEARSON CORRELATION COEFFICIENT (r) - Is used in ungrouped series , when associated variables are normally distributed.</li><li>\u2022 PEARSON CORRELATION COEFFICIENT (r)</li><li>\u2022 ungrouped series</li><li>\u2022 variables</li><li>\u2022 normally</li><li>\u2022 A value of r = 0 indicates that there is no association between the two variables A value 0 < r < +1 indicates a positive association; that is, as the value of one variable increases , so does the value of the other variable . A value \u2013 1 < r < 0 indicates a negative association; that is, as the value of one variable increases , the value of the other variable decreases .</li><li>\u2022 A value of r = 0 indicates that there is no association between the two variables</li><li>\u2022 r = 0</li><li>\u2022 no</li><li>\u2022 two variables</li><li>\u2022 A value 0 < r < +1 indicates a positive association; that is, as the value of one variable increases , so does the value of the other variable .</li><li>\u2022 0 < r < +1</li><li>\u2022 positive</li><li>\u2022 value</li><li>\u2022 one variable increases</li><li>\u2022 value</li><li>\u2022 other variable</li><li>\u2022 A value \u2013 1 < r < 0 indicates a negative association; that is, as the value of one variable increases , the value of the other variable decreases .</li><li>\u2022 \u2013 1 < r < 0</li><li>\u2022 negative</li><li>\u2022 one</li><li>\u2022 variable increases</li><li>\u2022 other variable decreases</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 The range and meaning of Pearson's correlation coefficient values helps in determining the strength and direction of relationships in research data, which is crucial for making informed decisions and conclusions in various fields of study.</li><li>\u27a4 range</li><li>\u27a4 meaning</li><li>\u27a4 strength</li><li>\u27a4 direction</li><li>\u27a4 Strength of correlation :</li><li>\u27a4 Strength of correlation</li><li>\u27a4 Weak positive correlation : 0 < r < 0.3 Moderate positive correlation: 0.4 < r < 0.6 Strong positive correlation : r > 0.7</li><li>\u27a4 Weak positive</li><li>\u27a4 : 0 < r < 0.3 Moderate positive</li><li>\u27a4 0.4 < r < 0.6 Strong positive</li><li>\u27a4 : r > 0.7</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 130)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 130)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "adc23ff3",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Aparna, a researcher in Mumbai, is conducting a study on the relationship between daily exercise duration (independent variable) and reduction in systolic blood pressure (dependent variable) in patients with mild hypertension. She wants to quantify the expected reduction in systolic blood pressure for every additional minute of exercise. After completing her statistical analysis, she identified a specific measure that indicates the change in the dependent variable with a one-unit change in the independent variable. Which of the following best describes the measure Dr. Aparna identified?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Correlation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Association",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Agreement",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Regression",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Regression",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-125200.jpg"
+      ],
+      "explanation": "<p><strong>Ans. D. Regression</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Correlation: While correlation measures the strength and direction of a relationship between two quantitative or continuous variables . Correlation coefficient (r): Lies between \u2013 1 to +1 ( measures the relationship between 2 variables ).</li><li>\u2022 Option A. Correlation:</li><li>\u2022 measures</li><li>\u2022 strength</li><li>\u2022 direction</li><li>\u2022 two quantitative</li><li>\u2022 continuous variables</li><li>\u2022 Correlation coefficient</li><li>\u2022 1 to +1</li><li>\u2022 measures</li><li>\u2022 2 variables</li><li>\u2022 Option B. Association: Association is a broader term that indicates a simultaneous existence of two variables but does not quantify the nature of the relationship in terms of unit changes .</li><li>\u2022 Option B. Association:</li><li>\u2022 broader term</li><li>\u2022 simultaneous existence</li><li>\u2022 two variables</li><li>\u2022 not</li><li>\u2022 nature</li><li>\u2022 unit changes</li><li>\u2022 Option C. Agreement: Agreement typically refers to the concordance between two measures or ratings , and it is not the correct measure for quantifying change in regression analysis.</li><li>\u2022 Option C. Agreement:</li><li>\u2022 concordance between two measures</li><li>\u2022 ratings</li><li>\u2022 not</li><li>\u2022 correct</li><li>\u2022 quantifying</li><li>\u2022 regression analysis.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Regression is the measure of change of one dependent variable with one unit change in independent variable . It is used to predict how independent variables affect a dependent variable . Regression provides structure of the relationship between 2 quantitative variables</li><li>\u27a4 Regression</li><li>\u27a4 measure</li><li>\u27a4 one dependent variable</li><li>\u27a4 one unit</li><li>\u27a4 independent variable</li><li>\u27a4 used</li><li>\u27a4 independent variables</li><li>\u27a4 dependent variable</li><li>\u27a4 Regression provides structure of the relationship between 2 quantitative variables</li><li>\u27a4 Regression Coefficient (b): Measure of change of one dependent variable (y) with change in independent variable (x) or variables (x1, x2, x3\u2026\u2026)</li><li>\u27a4 Regression Coefficient (b):</li><li>\u27a4 Measure</li><li>\u27a4 one dependent variable (y)</li><li>\u27a4 independent variable (x)</li><li>\u27a4 variables (x1, x2, x3\u2026\u2026)</li><li>\u27a4 Types of regression - (Equation)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 133)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 133)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b7c1b580",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Priyanka is a resident doctor at PGIMER, Chandigarh. As part of her thesis, she is conducting a systematic review on the efficacy of a particular intervention for diabetes management. She's attending a workshop on research methodology where the instructor introduces the concept of funnel plots. Curious about this graphical representation, she decides to include one in her research presentation. During her presentation, Professor Dr. Suresh asks, \"Dr. Priyanka, can you explain what the funnel plot in your systematic review measures?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "I 2 statistic",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Homogeneity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Publication bias",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Regression analysis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Publication bias",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/888.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. C. Publication bias</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 A funnel plot shows the relation between a study\u2019s effect size and its precision . It is a scatter plot of the treatment effects estimated from individual studies (horizontal axis) against sample size (vertical axis). It helps to identify publication bias.</li><li>\u2022 funnel plot</li><li>\u2022 between</li><li>\u2022 study\u2019s effect size</li><li>\u2022 precision</li><li>\u2022 scatter plot</li><li>\u2022 treatment effects</li><li>\u2022 individual studies</li><li>\u2022 sample size</li><li>\u2022 identify publication bias.</li><li>\u2022 It is used primarily as a visual aid for detecting bias or systematic heterogeneity.</li><li>\u2022 visual aid</li><li>\u2022 bias</li><li>\u2022 systematic heterogeneity.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Forest plot is used to describe the distribution of your effect sizes . Funnel plot is used to check the existence of publication bias</li><li>\u27a4 Forest plot is used to describe the distribution of your effect sizes .</li><li>\u27a4 Forest plot is used to describe the distribution of your effect sizes .</li><li>\u27a4 Forest plot</li><li>\u27a4 distribution</li><li>\u27a4 effect sizes</li><li>\u27a4 Funnel plot is used to check the existence of publication bias</li><li>\u27a4 Funnel plot is used to check the existence of publication bias</li><li>\u27a4 Funnel plot</li><li>\u27a4 publication bias</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 166)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b734f594",
+      "audio": ""
+    },
+    {
+      "text": "The following is an example of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple bar",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multiple bar",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Component bar",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Horizontal bar",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Component bar",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/222.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/08/13/picture1.png"
+      ],
+      "explanation": "<p><strong>Ans. C. Component bar</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation</li><li>\u2022 A component bar diagram is also called a stacked bar diagram . Here particular length of each bar represents the number of frequencies associated with each category.</li><li>\u2022 component bar diagram</li><li>\u2022 stacked bar diagram</li><li>\u2022 length</li><li>\u2022 each</li><li>\u2022 number</li><li>\u2022 frequencies</li><li>\u2022 each category.</li><li>\u2022 Synonym - Sub-divided bar chart</li><li>\u2022 Sub-divided bar chart</li><li>\u2022 Types of Bar Graph - (included Other Options)</li><li>\u2022 Bar Graph</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Bar chart</li><li>\u27a4 Bar chart</li><li>\u27a4 Is used for qualitative data representation . A visual tool that uses bars to compare data among categories . Bar graph may run horizontally or vertically. Length of each bar is proportional to the magnitude to be represented.</li><li>\u27a4 Is used for qualitative data representation .</li><li>\u27a4 qualitative data representation</li><li>\u27a4 A visual tool that uses bars to compare data among categories .</li><li>\u27a4 visual tool</li><li>\u27a4 uses</li><li>\u27a4 compare data</li><li>\u27a4 categories</li><li>\u27a4 Bar graph may run horizontally or vertically.</li><li>\u27a4 Bar graph</li><li>\u27a4 horizontally</li><li>\u27a4 vertically.</li><li>\u27a4 Length of each bar is proportional to the magnitude to be represented.</li><li>\u27a4 Length</li><li>\u27a4 proportional</li><li>\u27a4 magnitude</li><li>\u27a4 represented.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 8)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 8)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2c84b149",
+      "audio": ""
+    },
+    {
+      "text": "In the box plot provided below, there are several features that represent different statistical measures. While box plots are useful for displaying the distribution of data based on quartiles, there is a common misconception about one of the elements shown in the plot. Which of the following statements is incorrect concerning the box plot shown? \u200b\u200b\u200b\u200b",
+      "options": [
+        {
+          "label": "A",
+          "text": "Box plot is representation of quartiles.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The lower hinge corresponds to 25 th percentile.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The upper hinge corresponds to 75 th percentile.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mean is the 50 th percentile.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Mean is the 50 th percentile.",
+      "question_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/08/22/444.jpg"
+      ],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_2xc09p1.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_QaGgfxh.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Mean is the 50thpercentile.</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 3 options</li><li>\u2022 correct</li><li>\u2022 Option A. Box plot is the representation of quartiles . Side of boxes represent quartiles 1st and 3rd, line inside the box is 2nd quartile (median)</li><li>\u2022 Option</li><li>\u2022 A. Box plot is the representation of quartiles</li><li>\u2022 Option B. The lower hinge corresponds to 25 th percentile.</li><li>\u2022 Option</li><li>\u2022 B.</li><li>\u2022 The lower hinge corresponds to 25 th percentile.</li><li>\u2022 Option C. The upper hinge corresponds to 75 th percentile.</li><li>\u2022 Option</li><li>\u2022 C. The upper hinge corresponds to 75 th percentile.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Box and whisker plot</li><li>\u27a4 Box</li><li>\u27a4 whisker plot</li><li>\u27a4 A convenient way of graphically depicting groups of numerical data through their quartiles . Line in Box: 2nd Quartile (Median). Whiskers end : Minimum & Maximum Values. Edges of box: Ist and 3rd Quartile.</li><li>\u27a4 A convenient way of graphically depicting groups of numerical data through their quartiles .</li><li>\u27a4 convenient</li><li>\u27a4 graphically depicting groups</li><li>\u27a4 numerical data</li><li>\u27a4 quartiles</li><li>\u27a4 Line in Box: 2nd Quartile (Median).</li><li>\u27a4 Line</li><li>\u27a4 2nd Quartile (Median).</li><li>\u27a4 Whiskers end : Minimum & Maximum Values.</li><li>\u27a4 Whiskers end</li><li>\u27a4 Minimum</li><li>\u27a4 & Maximum Values.</li><li>\u27a4 Edges of box: Ist and 3rd Quartile.</li><li>\u27a4 Edges</li><li>\u27a4 Ist</li><li>\u27a4 3rd Quartile.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 15)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "35780193",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Varma, a professor in biostatistics, is discussing various statistical measures during a class. He highlights several measures that describe the central location or typical value of a dataset. However, among the list he provides, one of the measures does not belong to the category of central tendency. Which of the following is NOT a measure of central tendency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geometric mean",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Arithmetic mean",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Median",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Variance",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Variance",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Variance</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Variance is a statistical measurement of the spread between numbers in a data set.</li><li>\u2022 Variance</li><li>\u2022 statistical</li><li>\u2022 spread between numbers</li><li>\u2022 data set.</li><li>\u2022 It is calculated as: Variance = (Standard deviation) 2</li><li>\u2022 Variance = (Standard deviation) 2</li><li>\u2022 Central Tendency</li><li>\u2022 Central Tendency</li><li>\u2022 Distribution of Central Tendency :</li><li>\u2022 Distribution</li><li>\u2022 Central Tendency</li><li>\u2022 Normal (Gaussian) distribution \u25baMean = Median = Mode (coincide) Right (Positive) skew distribution \u25ba Mean > Median > Mode Left (Negative) skew distribution \u25ba Mean < Median < Mode</li><li>\u2022 Normal (Gaussian) distribution \u25baMean = Median = Mode (coincide)</li><li>\u2022 Right (Positive) skew distribution \u25ba Mean > Median > Mode</li><li>\u2022 Left (Negative) skew distribution \u25ba Mean < Median < Mode</li><li>\u2022 In a bimodal series, Mode = 3 Median \u2013 2 mean</li><li>\u2022 bimodal series, Mode = 3 Median \u2013 2 mean</li><li>\u2022 In distribution with extreme values (Outliers):</li><li>\u2022 Most affected measure of central tendency: Mean Least affected measure of central tendency : Mode Most preferable measure of central tendency: Median.</li><li>\u2022 Most affected measure of central tendency: Mean</li><li>\u2022 Most</li><li>\u2022 central tendency: Mean</li><li>\u2022 Least affected measure of central tendency : Mode</li><li>\u2022 Least</li><li>\u2022 central tendency</li><li>\u2022 Mode</li><li>\u2022 Most preferable measure of central tendency: Median.</li><li>\u2022 Most preferable</li><li>\u2022 Median.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Measures of central tendency are Mean, Median, Mode and Geometric mean.</li><li>\u27a4 central tendency</li><li>\u27a4 Mean, Median, Mode</li><li>\u27a4 Geometric mean.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 36)</li><li>\u27a4 Ref :</li><li>\u27a4 Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 36)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ea19a61f",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Ramesh is a biostatistician teaching his medical students about the normal distribution curve. He discusses a scenario where a drug's effect on lowering blood pressure is measured in a large population. The results form a bell-shaped curve, with most patients experiencing a moderate decrease in blood pressure. However, he emphasizes the importance of understanding outliers and asks his students about the percentage of patients who experience either a very large or very minimal decrease (essentially the tails of the distribution). Specifically, he wants to know the proportion of patients who fall either below z = -2 or above z = +2 in this standard normal distribution. Which of the following is the closest to that percentage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "95.5%",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "47.2%",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "4.6%",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "68.3%",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 4.6%",
+      "question_images": [],
+      "explanation_images": [
+        "https://lh6.googleusercontent.com/2E6Q3766Pij2WiS3gOAZblurFztc8yWfhycss41LtmTw14c53dBgo_WZ_vAErUYUnwwoldafD31UtpFufAss5fNdJrH9UmPJyMBlFkTKVIkK-Lt9AVnH2D_C8irEd-hewJYtKlO9zan6mpGAcKlxaDA"
+      ],
+      "explanation": "<p><strong>Ans. C. 4.6%</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 In a normally distributed population about 95.4% lies within 2 critical ratios of the mean . The percentage of cases failing outside \u00b1 2 is 100-95.4 = 4.6%</li><li>\u2022 normally distributed population</li><li>\u2022 95.4% lies</li><li>\u2022 2 critical ratios</li><li>\u2022 mean</li><li>\u2022 cases failing outside</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Normal Distribution</li><li>\u27a4 Normal Distribution</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 58)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 58)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a0db531b",
+      "audio": ""
+    },
+    {
+      "text": "While overseeing a large-scale health survey, Dr. Rajan, Director of Health Services, emphasized the significance of accounting for variability introduced by specific sampling designs. While discussing this with his team, he referred to a term which measures the efficiency of a complex sampling strategy in comparison to a benchmark strategy. This term describes the ratio of the actual variance under the used strategy to the variance of a specific fundamental sampling approach, when considering an equal number of elements. What is this term Dr. Rajan referred to, which relates the variance of the chosen sampling method to the variance of which of the following basic methods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cluster sampling",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Simple random sampling",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Stratified random sampling",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Systematic random sampling",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Simple random sampling",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. Simple Random sampling</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Cluster sampling: Cluster sampling is a sampling method where the population is divided into clusters , and a random sample of clusters is selected for inclusion in the study. Each selected cluster is then surveyed in its entirety. The design effect (DEFF) can be calculated for cluster sampling to assess the efficiency compared to simple random sampling.</li><li>\u2022 Option A.</li><li>\u2022 Cluster sampling:</li><li>\u2022 sampling method</li><li>\u2022 divided</li><li>\u2022 clusters</li><li>\u2022 random sample</li><li>\u2022 selected</li><li>\u2022 inclusion</li><li>\u2022 Each selected cluster</li><li>\u2022 surveyed</li><li>\u2022 entirety.</li><li>\u2022 design effect</li><li>\u2022 cluster sampling</li><li>\u2022 efficiency</li><li>\u2022 compared</li><li>\u2022 simple random sampling.</li><li>\u2022 Option C. Stratified random sampling: Stratified random sampling is a sampling technique where the population is divided into strata (subgroups) based on certain characteristics, and then random samples are taken from each stratum. The design effect (DEFF) can also be calculated for stratified random sampling to evaluate its efficiency compared to simple random sampling.</li><li>\u2022 Option C.</li><li>\u2022 Stratified random sampling:</li><li>\u2022 technique</li><li>\u2022 population</li><li>\u2022 divided into strata</li><li>\u2022 random samples</li><li>\u2022 taken</li><li>\u2022 each stratum.</li><li>\u2022 design effect (DEFF)</li><li>\u2022 calculated</li><li>\u2022 stratified random sampling</li><li>\u2022 its efficiency</li><li>\u2022 simple random sampling.</li><li>\u2022 Option D. Systematic random sampling: Systematic random sampling is a method where researchers select every nth individual from a list of the population. It involves random selection and is used when a complete list of the population is available . The design effect (DEFF) can be applied to systematic random sampling as well to measure its efficiency relative to simple random sampling.</li><li>\u2022 Option D.</li><li>\u2022 Systematic random sampling:</li><li>\u2022 method</li><li>\u2022 researchers</li><li>\u2022 nth individual</li><li>\u2022 list</li><li>\u2022 random selection</li><li>\u2022 complete list</li><li>\u2022 population</li><li>\u2022 available</li><li>\u2022 design effect (DEFF)</li><li>\u2022 systematic</li><li>\u2022 random sampling</li><li>\u2022 efficiency relative</li><li>\u2022 simple random</li><li>\u2022 sampling.</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Design effect is defined as the ratio of the actual variance of the sample to the variance of simple random sample of the same number of elements.</li><li>\u27a4 Design effect</li><li>\u27a4 ratio</li><li>\u27a4 actual variance</li><li>\u27a4 sample</li><li>\u27a4 variance</li><li>\u27a4 simple random sample</li><li>\u27a4 same number</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 74)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 74)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f89869e0",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Aarav, a seasoned epidemiologist, is attending a conference on advanced diagnostic techniques. During a breakout session on statistical evaluation of diagnostic tests, a discussion arises about the application of Bayes\u2019 theorem in refining the probability of disease presence based on test results. A fellow epidemiologist mentions that while Bayes\u2019 theorem uses various parameters, there's one common diagnostic metric it doesn't explicitly employ. Which of the following parameters is NOT directly used in Bayes\u2019 theorem to measure disease probability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Test sensitivity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Test specificity",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Pre-test probability of disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Predictive value of test",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Predictive value of test",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_qqjP3YF.png",
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2023/10/16/image_rgCIa6F.png"
+      ],
+      "explanation": "<p><strong>Ans. D. Predictive value of test</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 The predictive value of a test, which includes both positive predictive value and negative predictive value , is actually a result calculated from Bayes\u2019 theorem using the other parameters , rather than a direct input into the theorem itself.</li><li>\u2022 predictive value</li><li>\u2022 both positive predictive value</li><li>\u2022 negative predictive value</li><li>\u2022 result calculated</li><li>\u2022 Bayes\u2019 theorem</li><li>\u2022 other parameters</li><li>\u2022 Other Options</li><li>\u2022 Other Options</li><li>\u2022 Bayes\u2019 theorem provides a simple mathematical way to calculate the post-test probability of the disease from three parameters- test sensitivity (the probability of a positive test in a patient with the disease) ( Option A ), test specificity (the probability of a negative test in a patient without the disease) ( Option B ) and pre-test probability of disease (the probability of the disease before considering the test result ) ( Option C ).</li><li>\u2022 Bayes\u2019 theorem</li><li>\u2022 simple mathematical</li><li>\u2022 post-test probability</li><li>\u2022 three parameters-</li><li>\u2022 test sensitivity</li><li>\u2022 positive test</li><li>\u2022 Option A</li><li>\u2022 test specificity</li><li>\u2022 negative test</li><li>\u2022 without</li><li>\u2022 Option B</li><li>\u2022 pre-test</li><li>\u2022 probability</li><li>\u2022 disease before</li><li>\u2022 test result</li><li>\u2022 Option C</li><li>\u2022 Educational objective:</li><li>\u2022 Educational objective:</li><li>\u2022 Baye\u2019s Theorem : Gives relationship between PPV of a screening test and Sensitivity, Specificity & Prevalence of disease in a population</li><li>\u2022 Baye\u2019s Theorem</li><li>\u2022 PPV</li><li>\u2022 screening test</li><li>\u2022 Sensitivity, Specificity</li><li>\u2022 Prevalence</li><li>\u2022 Actual Baye\u2019s Theorem : Gives relationship between Post-test probability of a disease in a population ( PTP = PPV ) and Sensitivity, Specificity & Pre-test probability o f a disease in a population ( pTP = Prevalence )</li><li>\u2022 Actual Baye\u2019s Theorem</li><li>\u2022 Post-test probability</li><li>\u2022 PTP = PPV</li><li>\u2022 Sensitivity, Specificity</li><li>\u2022 Pre-test</li><li>\u2022 probability o</li><li>\u2022 pTP = Prevalence</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 83)</li><li>\u2022 Ref</li><li>\u2022 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 83)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "119ef6be",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Kavya, a budding researcher, is going through the results of her recent clinical trial investigating a novel drug's efficacy for hypertension. She decides to compare her findings with the placebo group. Her senior, Dr. Varun, warns her about the potential pitfalls of statistical analyses and the importance of interpreting the p-value correctly. Specifically, he mentions a mistake that researchers might inadvertently make, leading to a claim of significant results when there are none. Which of the following best describes the error where a researcher rejects the null hypothesis when it is, in fact, true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type I error",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Type II error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Power",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Specificity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Type I error",
+      "question_images": [],
+      "explanation_images": [
+        "https://cerebellum-web-static.s3.amazonaws.com/media/public/images/2024/02/26/screenshot-2024-02-26-115427.jpg"
+      ],
+      "explanation": "<p><strong>Ans. A. Type I error</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option B. Type II error: This happens when the null hypothesis is not rejected when it is false , leading to a failure in identifying an effect that actually exists.</li><li>\u2022 Option B. Type II error:</li><li>\u2022 null hypothesis</li><li>\u2022 not rejected</li><li>\u2022 false</li><li>\u2022 failure</li><li>\u2022 identifying</li><li>\u2022 actually exists.</li><li>\u2022 Option C. Power: The power of a test refers to the probability that it will correctly reject a false null hypothesis (i.e., detect an effect when there is one).</li><li>\u2022 Option C. Power:</li><li>\u2022 probability</li><li>\u2022 correctly reject</li><li>\u2022 false null hypothesis</li><li>\u2022 Power of a test : 1 \u2013 b</li><li>\u2022 Power</li><li>\u2022 : 1 \u2013 b</li><li>\u2022 The probability of rejecting a Null hypothesis when a predetermined clinically significant difference is indeed present. Power can be increased by increasing the no. of subjects in a trial.</li><li>\u2022 The probability of rejecting a Null hypothesis when a predetermined clinically significant difference is indeed present.</li><li>\u2022 rejecting</li><li>\u2022 Null hypothesis</li><li>\u2022 predetermined</li><li>\u2022 significant difference</li><li>\u2022 present.</li><li>\u2022 Power can be increased by increasing the no. of subjects in a trial.</li><li>\u2022 Power</li><li>\u2022 increased</li><li>\u2022 increasing</li><li>\u2022 no.</li><li>\u2022 subjects</li><li>\u2022 trial.</li><li>\u2022 Option D. Specificity: In the context of diagnostic testing , specificity refers to the ability of a test to correctly identify those without the disease ( true negatives ).</li><li>\u2022 Option D. Specificity:</li><li>\u2022 diagnostic testing</li><li>\u2022 specificity</li><li>\u2022 test</li><li>\u2022 correctly identify</li><li>\u2022 without</li><li>\u2022 disease</li><li>\u2022 true negatives</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 Null hypothesis true (in reality) but rejected (based on our study results ) lead to Type I error. Null hypothesis false ( in reality ) but accepted (based on our study results) lead to Type II error.</li><li>\u27a4 Null hypothesis true (in reality) but rejected (based on our study results ) lead to Type I error.</li><li>\u27a4 Null hypothesis</li><li>\u27a4 true (in reality)</li><li>\u27a4 rejected</li><li>\u27a4 our study results</li><li>\u27a4 Type I error.</li><li>\u27a4 Null hypothesis false ( in reality ) but accepted (based on our study results) lead to Type II error.</li><li>\u27a4 Null hypothesis false</li><li>\u27a4 in reality</li><li>\u27a4 accepted (based on our study results)</li><li>\u27a4 Type II error.</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 88)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "14c4478f",
+      "audio": ""
+    },
+    {
+      "text": "A medical student named Arjun is presenting his research findings on the effects of a new dietary supplement on cholesterol levels to his peers. One of his colleagues, Priya, inquires about the variability of the estimated mean cholesterol level reduction due to the dietary supplement from sample to sample. Arjun realizes he's discussing a specific statistical measure that quantifies this variability. Which of the following best describes the measure that Arjun is referring to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conceptual error",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Observer error",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Instrumental error",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sampling error",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Sampling error",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. D. Sampling error</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Conceptual Error: This refers to errors due to a misunderstanding or misapplication of statistical concepts, not relevant to the variability in sample estimates.</li><li>\u2022 Option A. Conceptual Error:</li><li>\u2022 Option B. Observer Error: This involves variability in measurements due to differences in the person making the observations, not directly relevant to Priya's question.</li><li>\u2022 Option B. Observer Error:</li><li>\u2022 Option C. Instrumental Error: Refers to inaccuracies in measurements due to faults or limitations in the instruments used, not to the variability between samples.</li><li>\u2022 Option C. Instrumental Error:</li></ul>\n<p><strong>Educational Objective:</strong></p><ul><li>\u27a4 Educational Objective:</li><li>\u27a4 SAMPLING ERRORS/ Random errors \u2013 Is \u2018divergence due to chance alone\u2019 of an observation on a sample from true population value, leading to \u2018lack of precision\u2019 in measurement. Random error \u2018cannot be completely eliminated\u2019</li><li>\u27a4 Best way of reducing sampling errors (increasing precision): Increase the sample size in the study</li><li>\u27a4 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 85)</li><li>\u27a4 Ref</li><li>\u27a4 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 85)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7977179f",
+      "audio": ""
+    },
+    {
+      "text": "Dr. Aman is a cardiology fellow at AIIMS, New Delhi. He is conducting a study to assess the impact of three different dietary interventions (A, B, & C) on blood pressure. After a few months of closely monitoring his participants, he calculates the mean blood pressure for each group and notices that the means are different. During a departmental meeting, he presents his findings and contemplates the next steps for his analysis. In your opinion, which test should be choose ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Students t test",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ANOVA",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Paired t test",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chi square test",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. ANOVA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Ans. B. ANOVA</strong></p>\n<p><strong>Explanation:</strong></p><ul><li>\u2022 Explanation:</li><li>\u2022 Option A. Student's t-test: This test is used for comparing the means between two groups, not three.</li><li>\u2022 Option A. Student's t-test:</li><li>\u2022 Option C. Paired t-test: This test is used for comparing means from the same group at two different times or under two different conditions, not suitable for three independent groups.</li><li>\u2022 Option C. Paired t-test:</li><li>\u2022 Option D. Chi-square test: This test is used for categorical data to assess the relationship between two categorical variables or to compare the observed frequency with the expected frequency, not for comparing means.</li><li>\u2022 Option D. Chi-square test:</li><li>\u2022 Educational objective:</li><li>\u2022 Educational objective:</li><li>\u2022 ANOVA test (F-test/F-ratio): Parametric test used to compare means (+ SD) in more than two different group of individuals</li><li>\u2022 Ref : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 112)</li><li>\u2022 Ref</li><li>\u2022 : Essentials of Biostatistics- Indranil Saha- 2 nd edition (page 112)</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4c3f6ddc",
+      "audio": ""
+    }
+  ]
+}

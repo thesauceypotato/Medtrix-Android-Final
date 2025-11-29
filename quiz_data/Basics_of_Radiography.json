@@ -1,0 +1,751 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Basics of Radiography",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match the following: Choose the correct option from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a.3, b.4, c.2, d.1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a.4, b.1, c.2, d.3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "a.2, b.3, c.1, d.4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a.1, b.2, c.4, d.3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. a.4, b.1, c.2, d.3",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1715602539914-radiology1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>a.4, b.1, c.2, d.3 COLUMN - A COLUMN - B A. Cathode 1. Tungsten And Thorium B. Anode 2. Copper C. Target window 3. Thinning of glass D. Target 4. Tungsten Electrons from the cathode collide with the anode material, usually t ungsten, molybdenum or copper , and accelerate other electrons, ions and nuclei within the anode material.</p>\n<p><strong>Highyeild:</strong></p><p>The cathode is part of an x-ray tube and serves to expel the electrons from the circuit and focus them in a beam on the focal spot of the anode. It is a controlled source of electrons for the generation of x-ray beams. The electrons are produced by heating the filament (Joule heating effect) i.e. a coil of wire made from tungsten, placed within a cup-shaped structure, a highly polished nickel focusing cup, providing electrostatic focusing of the beam on the anode.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Conventional x-ray t ube consists of a glass envelope that has been evacuated to high vacuum. At one end is a cathode (negative electrode) and at the other an anode (positive electrode), both hermetically sealed in the tube. The cathode is a tungsten filament that when heated emits electrons, a phenomenon known as thermionic emission . The anode consists of a thick copper rod at the end of which is placed a small piece of tungsten target. When a high voltage is applied between the anode and the cathode, the electrons emitted from the filament are accelerated toward the anode and achieve high velocities before striking the target. The x-rays are produced by the sudden deflection or acceleration of the electron caused by the attractive force of the tungsten nucleus. The x-ray beam emerges through a thin glass window in the tube envelope. In some tubes, thin beryllium windows are used to reduce inherent filtration of the x-ray beam.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1c444991",
+      "audio": ""
+    },
+    {
+      "text": "A patient with complaints of cough and fever since one week is referred to you for a chest X-ray. Which of the following must be used to reduce scatter radiation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Collimator only",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Grids only",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both of the above",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Both of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Collimator are beam restricting devices which restricts the path of x ray beam and reduce scatter radiation Grids are made of lead, placed between patient and film . They prevent scattered radiation from reaching the film.</p>\n<p><strong>Highyeild:</strong></p><p>A collimator is a device which narrows a beam of particles or waves. To narrow can mean either to cause the directions of motion to become more aligned in a specific direction (i.e., make collimated light or parallel rays), or to cause the spatial cross section of the beam to become smaller ( beam limiting device ).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A:  Collimator only: A collimator limits the X-ray beam to a specific area, reducing the volume of tissue irradiated and thus the scatter. However, it does not selectively block scattered X-rays like grids do, making it insufficient on its own to reduce scatter radiation. Option B: Grids only: While grids, specifically anti-scatter grids, are used to reduce scatter radiation by selectively blocking scattered X-rays, relying solely on grids without considering other factors like collimation and patient positioning can lead to inefficient use of X-rays and potentially unnecessary radiation exposure. Option D: None of the above: This option is incorrect because both collimators and grids are used to reduce scatter radiation in chest X-rays. Collimators limit the X-ray beam to a specific area, reducing the volume of tissue irradiated and thus the scatter. Grids, specifically anti-scatter grids, are used to selectively block scattered X-rays, enhancing image contrast by reducing the background fog caused by scatter.</p>\n<p><strong>Extraedge:</strong></p><p>Types virtual grid: no actual grid is used; latest innovation for scatter reduction by digitally reconstructing a radiograph focused grids (most grids): strips are slightly angled so that they focus in space so must be used at specified focal distances parallel grid: used for short fields or long distances moving grids (also known as Potter-Bucky or reciprocating grids): eliminates the fine grid lines that may appear on the image when focused or parallel grids are used; cannot be used for portable films</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4d34db2c",
+      "audio": ""
+    },
+    {
+      "text": "True regarding following image. a. It is a cone, a beam restricting device b. It reduces scatter radiation:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A is correct, b is wrong",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A is wrong, b is correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Both a and b are correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Both a and b are wrong",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Both a and b are correct",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689056798557-QTDR002003IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Both a and b are correct The image shown is a cone. These are beam restricting devices which restricts the path of xray beam and reduce scatter radiation.</p>\n<p><strong>Highyeild:</strong></p><p>Cones: circular metal tubes that attach to the attach to the x-ray tube, limiting the x-ray beam to a predetermined size and shape. Cones can be either a flared cone with the upper portion be smaller than the lower or a straight cone which is the same size all the way through.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - OPTION A: Cone is a  beam restricting device. OPTION B: Cone  reduce scatter radiation.</p>\n<p><strong>Extraedge:</strong></p><p>Beam restrictor They are made of lead shutters, which completely absorb the photons, and thus reduce the patient dose as well as focus the radiation accordingly to the area of interest.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b4dd1666",
+      "audio": ""
+    },
+    {
+      "text": "See the following image and answer the following Statement: This is a grid which Blocks scattered radiation from reaching the film Reason: Grids are made of parallel stripes of lead:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statement and reason are correct. Reason explains statement",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Both statement and reason are wrong",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Statement is correct, reason is wrong",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Both statement and reason are correct. Reason doesn't explain statement.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Both statement and reason are correct. Reason explains statement",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689056798618-QTDR002004IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Both statement and reason are correct. Reason explains statement Grids are made of parallel stripes of lead, placed between patient and film. They prevent scattered radiation from reaching the film.</p>\n<p><strong>Highyeild:</strong></p><p>Grids are placed between the patient and the x-ray film to reduce the scattered radiation reaching the detector (produced mainly by the Compton effect) and thus improve image contrast.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Both statement and reason are correct and Reason explains statemen t thus other options are incorrect.</p>\n<p><strong>Extraedge:</strong></p><p>Types Virtual grid: no actual grid is used; latest innovation for scatter reduction by digitally reconstructing a radiograph focused grids (most grids): strips are slightly angled so that they focus in space so must be used at specified focal distances parallel grid : used for short fields or long distances moving grids (also known as Potter-Bucky or reciprocating grids): eliminates the fine grid lines that may appear on the image when focused or parallel grids are used; cannot be used for portable films</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "56f741c6",
+      "audio": ""
+    },
+    {
+      "text": "A patient with the history of cough and fever suspected pneumonia is referred to you for a chest xray. What should be the ideal distance at which the film has to be kept from the xray tube?",
+      "options": [
+        {
+          "label": "A",
+          "text": "180cms",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "100cms",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "108cms",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "110cms",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 180cms",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>180cms here the question indirectly mean FFD i.e film focus distance which has to be 180cms for chest X-ray to prevent magnification of cardia. For all the other radiographs the FFD must be 100cms.</p>\n<p><strong>Highyeild:</strong></p><p>Focal-film distance (FFD) is the distance between the center of the anode of the x-ray tube (the focal spot) and the film (top of cassette) . Also known as, Source-image distance (SID) which this measurement effects magnification, distortion, and x-ray beam intensity.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B. 100cms - Skull Xray Option C. 108cms- Cervical spine Option D. 110cms-Abdomen</p>\n<p><strong>Extraedge:</strong></p><p>Increasing the X-ray focus to film distance (FFD) has been advocated as an effective method to reduce the patients' radiation dose. The aim of this study was to investigate the efficacy of this technique in patients' dose and image quality in pediatric chest X-ray.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "da844100",
+      "audio": ""
+    },
+    {
+      "text": "A pediatric patient was sent for chest xray. In order to reduce the field size to the required size, beam restricting device was used. Which of the following is a beam restricting device which helps to reduce scatter radiation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aperture diaphragm",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cones and cylinders",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Collimator",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Aperture diaphragm , Cones and cylinders , Collimators. All these are beam restricting devices which restricts the path of x ray beam and reduce scatter radiation.</p>\n<p><strong>Highyeild:</strong></p><p>A diagnostic x-ray beam-limiting device is a device such as a collimator, a cone, or an aperture intended to restrict the dimensions of a diagnostic x-ray field by limiting the size of the primary x-ray beam.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. Aperture diaphragm: This device is used to focus the X-ray beam onto a specific area of interest, thereby reducing the scatter radiation by limiting the area of exposure. Option B. Cones and cylinders: These devices are used to shape the X-ray beam, focusing it on the area of interest and reducing scatter radiation. Option C. Collimator: A collimator is a device that focuses the X-ray beam onto a smaller area, reducing the scatter radiation by limiting the field of view.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e7f02d34",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are true with respect to below image except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Target: Molybdenum",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Target window: Beryllium",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Filter: Molybdenum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High energy low amperage",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. High energy low amperage",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689056798680-QTDR002007IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>High energy low amperage The image shown is a mammography x-ray tube. Mammography uses low energy and h igh amperage x-ray tubes.</p>\n<p><strong>Highyeild:</strong></p><p>On a film mammogram , low density tissues, such as fat, appear translucent (i.e. darker shades of gray approaching the black background)., whereas areas of dense tissue, such as connective and glandular tissue or tumors, appear whiter on a gray background. In a standard mammogram, both a top and a side view are taken of each breast, although extra views may be taken if the physician is concerned about a suspicious area of the breast</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A, B and C are correct as the mammography tube has molybdenum target , beryllium target window and molybdenum filter.</p>\n<p><strong>Extraedge:</strong></p><p>Digital Breast Tomosynthesis, also known as 3D mammography, is an FDA-approved method for breast cancer screening in which x-rays of the breast are taken at different angles to generate thin cross-sections. The 3D representation of the breast is similar to the 3d images created by standard CT technology. Tomosynthesis differs from CT technology in that significantly fewer x-ray beams are projected through the breast than with CT and the x-ray exposure to the rest of the chest is dramatically reduced. Hence, the radiation dose delivered to the breast by tomosynthesis is similar to that delivered 2D mammography. While tomosynthesis uses very low-dose x-rays , it is currently most often used in addition to 2D mammography, making the total radiation dose higher than standard mammography.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "803592e1",
+      "audio": ""
+    },
+    {
+      "text": "Identify the following image and choose the correct option:",
+      "options": [
+        {
+          "label": "A",
+          "text": "X-ray cassette contain film",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Filter made of lead",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Collimator which is a beam restricting device",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Grid which prevents scatter radiation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. X-ray cassette contain film",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689056798942-QTDR002008IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>X-ray cassette contain film The image shown is the X-ray cassette. It contains film which is coated with silver halide and luminiscent screens.</p>\n<p><strong>Highyeild:</strong></p><p>A radiographic film cassette is a rectangle or square plastic or metallic container used to hold x-ray films (exposed or unexposed) and intensifying screens in close and uniform contact with one another.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B. Filter - made of lead Option C. Collimator - which is a beam restricting device Option D. Grid - which prevents scatter radiation</p>\n<p><strong>Extraedge:</strong></p><p>Cassettes are rigid holders used in conventional and computed radiography (CR) for the screen film system and imaging plate respectively. The back side of the cassette has rubber or felt for adequate contact between the screen film system or with the imaging plate. The front of the cassette is made of a low atomic number material (e.g. plastic or carbon) to enable ease in passage of x-rays and the back is made of a high atomic number material (e.g. lead) to reduce backscatter.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "815875ae",
+      "audio": ""
+    },
+    {
+      "text": "Match the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a.3, b.4, c.2, d.1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "a.4, b.1, c.2, d.3",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "a.2, b.3, c.1, d.4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "a.1, b.2, c.4, d.3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. a.4, b.1, c.2, d.3",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1715679369132-9IMAGE2024-05-14150530.jpg"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>a.4, b.1, c.2, d.3 Filters are made of aluminium and placed between X-ray tube and patient. They block the lower energy radiations which increases the patient radiation dose but doesn't contribute to image formation. Grids are made of parallel stripes of lead, placed between patient and film. They prevent scattered radiation from reaching the film. Screes are made up of calcium tungstate or rare earth metals Films are coated with silver halide crystals</p>\n<p><strong>Highyeild:</strong></p><p>Radiographic grids They are made of parallel strips of high attenuating material such as lead with an interspace filled with l ow attenuating material such as carbon fiber or organic spacer. The strips can be oriented either linear or crossed in their longitudinal axis</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A ,C and D are matching incorrect</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "27999353",
+      "audio": ""
+    },
+    {
+      "text": "A 45year old female patient came with complaints of palpable breast lesion since 2months. A thorough clinical examination was done and following investigation was performed. Identify the following investigation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "MR mammography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sono mammography",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mammography",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mammography",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689056798978-QTDR002010IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mammography The image shown above is the radiography of bilateral breast parenchyma \u2013mammography . Age above 30yrs with complaints of lump in breast the next investigation to be done is mammography.</p>\n<p><strong>Highyeild:</strong></p><p>Types of Mammography Methods Three of the most common types of mammogram methods are film-screen, digital, and 3D digital mammograms.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Sono mammography is ultrasound of the breast parenchyma. Following image shows the labelled image of mammography.The image shows two views, MLO medio lateral oblique view and CC cranio caudal view.</p>\n<p><strong>Extraedge:</strong></p><p>Digital Breast Tomosynthesis, also known as 3D mammography, is an FDA-approved method for breast cancer screening in which x-rays of the breast are taken at different angles to generate thin cross-sections.  The 3D representation of the breast is similar to the 3d images created by standard CT technology. Tomosynthesis differs from CT technology in that significantly fewer x-ray beams are projected through the breast than with CT and the x-ray exposure to the rest of the chest is dramatically reduced. Hence, the radiation dose delivered to the breast by tomosynthesis is similar to that delivered 2D mammography. While tomosynthesis uses very low-dose x-rays, it is currently most often used in addition to 2D mammography, making the total radiation dose higher than standard mammography.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0f62a263",
+      "audio": ""
+    },
+    {
+      "text": "Identify the following investigation and type of film used for the same",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mammography, single coated film",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chest X-ray, single coated film",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mammography, double coated film",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chest x-ray, double coated film",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mammography, single coated film",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1689056799001-QTDR002011IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mammography, single coated film This is a Mammography image, it uses single coated films.</p>\n<p><strong>Highyeild:</strong></p><p>Mammography is the process of using low-energy X-rays to examine the human breast for diagnosis and screening. The goal of mammography is the early detection of breast cancer, typically through detection of characteristic masses or microcalcifications.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Other investigations which use single coated films are CT, MRI and digital films. Conventional radiography and dental radiography uses double coated films.</p>\n<p><strong>Extraedge:</strong></p><p>2 types of mammograms In general, there are two main types of mammograms: Digital mammography in 2D. Digital mammography in 3D (digital breast tomosynthesis).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "47cad868",
+      "audio": ""
+    },
+    {
+      "text": "Amount of blackening is determined by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "KVP",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "MAS",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Amount of X-rays",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Frequency or wavelength of X-rays",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. MAS",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>MAS Factors in X-rays Exposure factors: KVP \u2013 Kilo Volt Peak Determines beam penetration MAS \u2013 Mili Ampere Seconds Determines film blackening Contrast factors: Influenced by KVP Body related factors: Obese patients require higher KVP</p>\n<p><strong>Highyeild:</strong></p><p>In radiography, the exposure factors of major concern are the kilovoltage and milli-amperes. The voltage and current provide the power to the X-ray tube to generate the X rays , which penetrate the part of a body to be examined, and forms the image.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: KVP (Kilovoltage peak): KVP primarily affects the penetration of X-rays. Higher KVP produces X-rays with higher energy, allowing them to penetrate deeper through tissues. While indirectly related, KVP itself doesn't directly control the quantity of X-rays reaching the film and therefore the blackening . Option C: Amount of X-rays: This is technically accurate, but MAS (Milliampere-seconds) is a more specific and measurable way to control the amount of X-rays. MAS directly relates to the total electrical current (milliamperes) and exposure time (seconds), determining the quantity of X-rays produced. Option D: Frequency or wavelength of X-rays: X-ray machines typically operate within a specific range of frequencies and wavelengths for medical imaging. While the energy of X-rays can affect image contrast, these properties are not adjustable factors during an X-ray examination. They determine the type of interaction with tissues (absorption or penetration) but not the overall quantity reaching the film.</p>\n<p><strong>Extraedge:</strong></p><p>When the film density is kept constant, the higher the kVp, the lower the resolution and image contrast percentage; also, the higher the mAs , the higher the resolution and image contrast percentage.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "306f1abf",
+      "audio": ""
+    },
+    {
+      "text": "A 35 year old women came with complain of not able to conceive since 5 years. To assess pelvic pathology, Which is Gold standard:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transvaginalsonography",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Laparoscopy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hysteroscopy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Magnetic resonance imaging",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Laparoscopy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Laparoscopy Radiological assessment of pelvic pathology in infertility Laparoscopy: Identifies tubal patency and pelvic pathology- Gold standard for pelvic pathology</p>\n<p><strong>Highyeild:</strong></p><p>Laparoscopy is a type of surgical procedure that allows a surgeon to access the inside of the abdomen (tummy) and pelvis without having to make large incisions in the skin. This procedure is also known as keyhole surgery or minimally invasive surgery. Types of laparoscopy : Fertiloscope: New type of laparoscopy modified for transvaginal use - Recently found better than laparoscopy Hysteroscopy: Identifies intracavitary lesions Salpingoscopy: Trans fimbrial approach to visualize from ampullary isthmic junction till fimbriae Falloposcopy: Trans-cervical approach to visualize from tubal ostium till fimbriae - Shows lesions of endosalpinx Hydro laparoscopy: Trans-vaginal approach to see Pouch of Douglas</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A: Transvaginal sonography: While transvaginal ultrasound (TVS) is a great non-invasive tool for initial evaluation and can identify some pelvic pathologies, it may not be definitive for all conditions. It's excellent for ovarian cyst diagnosis, but for a more comprehensive assessment, laparoscopy offers a direct visualization. Option C: Hysteroscopy: Hysteroscopy is a good option for evaluating the inside of the uterus, but it wouldn't necessarily visualize other pelvic organs or potential issues like endometriosis. Option D: Magnetic resonance imaging (MRI): MRI can provide detailed images, but it's often more expensive and less readily available compared to laparoscopy. Additionally, while MRI can be helpful in some cases, it may not be as definitive for diagnosing certain pelvic pathologies as a direct visualization through laparoscopy.</p>\n<p><strong>Extraedge:</strong></p><p>Laparoscopic surgery, also called minimally invasive procedure , bandaid surgery, or keyhole surgery, is a modern surgical technique. There are a number of advantages to the patient with laparoscopic surgery versus an exploratory laparotomy. These include reduced pain due to smaller incisions, r educed hemorrhaging, and shorter recovery time. The key element is the use of a laparoscope , a long fiber optic cable system that allows viewing of the affected area by snaking the cable from a more distant, but more easily accessible location.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c096ac92",
+      "audio": ""
+    },
+    {
+      "text": "A 24 year old male undergone gastrograffin enema under fluoroscopy. The resident doctor who is performing the procedure is wearing lead apron . What is the thickness of lead in protective apron?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.2 mm",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "0.3 mm",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "0.5 mm",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "0.8 mm",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 0.5 mm",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>0.5 mm Radiation protective apparel is available in 0.25-1.0 mm lead-equivalent thickness In most areas, regulations require that a thickness of at leas t 0.5 mm lead-equivalent be used, which attenuatesmore than 90% of scattered X-rays that strike it Different designs are available , including aprons with frontcoverage only, aprons that wrap around the body, and two- piece garments with vest and kilt</p>\n<p><strong>Highyeild:</strong></p><p>Lead aprons are the primary radiation protective garments used by personnel during fluoroscopy. The radiation protection provided by a lead apron is approximately the same as 0.25- to 1-mm thick lead. An apron with 0.5-mm thickness can attenuate approximately 90% or more of the scatter radiation</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - An apron with 0.5-mm thickness can attenuate approximately 90% or more of the scatter radiation</p>\n<p><strong>Extraedge:</strong></p><p>Lead aprons are used in medical facilities to protect workers and patients from unnecessary x-ray radiation exposure from diagnostic radiology procedures . A lead (or lead equivalent) apron is a protective garment which is designed to shield the body from harmful radiation, usually in the context of medical imaging</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1a981554",
+      "audio": ""
+    },
+    {
+      "text": "A 35 year old x-ray technician developed cancer following exposure to radiation since 5 years. Which screen can be used for x-ray exposure prevention?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lead",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Tungsten",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Manganese",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Titanium",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Lead",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Lead Lead shielding refers to the use of lead as a form of radiation protection to shield people or objects from radiation, so as to reduce the effective dose Lead can effectively attenuate certain kinds of radiation because of its high density and high atomic number; principally, it is effective at stopping Gamma rays and X-rays Lead is used for shielding in X-ray machines, nuclear power plants, labs, military equipment</p>\n<p><strong>Highyeild:</strong></p><p>Lead aprons are the primary radiation protective garments used by personnel during fluoroscopy. The radiation protection provided by a lead apron is approximately the same as 0.25- to 1-mm thick lead. An apron with 0.5-mm thickness can attenuate approximately 90% or more of the scatter radiation</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B. Tungsten Option C. Manganese Option D. Titanium OPTION B,C,D are not used for protection Personal shielding includes lead aprons , thyroid shields, and lead gloves Shielding devices are also available for laboratory equipment, including lead castles, structures composed of lead bricks, and lead pigs, thick containers for storing arid transporting radioactive samples</p>\n<p><strong>Extraedge:</strong></p><p>Lead can effectively attenuate certain kinds of radiation because of its high density and high atomic number; principally, it is effective at stopping gamma rays and x-rays</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8155d9e3",
+      "audio": ""
+    },
+    {
+      "text": "Photosensitive material used in X-ray film is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silver chloride",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Silver bromide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Silver nitrate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Gold chloride",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Silver bromide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Silver bromide Standard X-ray film is photographic film, coated on both sides of a polyester film base, c alled 'double emulsion film A variation'-Single emulsion film ; is coated on one side only (Typical application is mammography, where maximum possible image sharpness is required) Photosensitive material is ' Silver halide ; suspended in the form of small crystals in a gelatin solution; Silver halideconsists of approximately 90-99% of Silver bromide and 1-10% Silver iodide</p>\n<p><strong>Highyeild:</strong></p><p>Silver bromide is used in photography because silver bromide is photosensitive. It decomposes and is converted into metallic silver grains when light is incident on it.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. Silver chloride Option C. Silver nitrate Option D. Gold chloride OPTION A,C,D are not used Standard X-ray film</p>\n<p><strong>Extraedge:</strong></p><p>Silver bromide is water insoluble salt known for its unusual sensitivity to light and this property has allowed silver halides to become the basis of modern photographic materials . In the presence of light decomposition of silver bromide gives silver which turns grey on exposure to light.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "83b15f57",
+      "audio": ""
+    },
+    {
+      "text": "One Gray equals:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.01 rad",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1 rad",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "100 rad",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "10000 rad",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 100 rad",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>100 rad Radiation Units Rad: Product of absorbed dose and modifying factors (potential danger to health) Gray (Gy): Unit of absorbed dose (1 Gray = 100 rad)</p>\n<p><strong>Highyeild:</strong></p><p>Roentgen: Unit of exposure/radiation absorbed Coulomb per kg: New unit for exposure/radiation absorbed Rem: Unit of equivalent dose Sievert (Sv): New unit of equivalent dose (1 Sv = 100 rem) Rad: Product of absorbed dose and modifying factors (potential danger to health) Gray (Gy): Unit of absorbed dose (1 Gray = 100 rad)</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - One Gray equals: : 100 rad Option A. 0.01 rad Option B. 1 rad Option D. 10000 rad OPTION A,B,D are incorrect</p>\n<p><strong>Extraedge:</strong></p><p>International System of Units (SI) Unit and Common Unit Terminology SI Units* Common Units Radioactivity becquerel (Bq) curie (Ci) Absorbed Dose gray (Gy) rad Dose Equivalent sievert (Sv) rem Exposure coulomb/kilogram (C/kg) roentgen \u00ae</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7db57a45",
+      "audio": ""
+    },
+    {
+      "text": "Safe light in radiographic dark room is ideally should be of following color:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Red",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Yellow",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Purple",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Blue",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Red",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Red Safelight Undeveloped X-ray films remain light sensitive until processed through the photographic fixer solution, though limited low-intensity illumination is permissible to allow movement and efficient handling in the darkroom</p>\n<p><strong>Highyeild:</strong></p><p>A s afelight typically consists of an ordinary 15 W frosted light bulb that shines through a filter, the color of which is compatible with the film being used Most commonly used films for chemiluminescence and autoradiography are blue-green sensitive, so the recommended setup is Red filter</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B. Yellow Option C. Purple Option D. Blue OPTION B,C,D are not used ideally</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "de3b7927",
+      "audio": ""
+    },
+    {
+      "text": "X-rays are produced when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electron beam strike the nucleus of the atom",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Electron beam strikes the anode",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Electron beam reacts with the electromagnetic held",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Electron beam strikes the cathode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Electron beam strikes the anode",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Electron beam strikes the anode X-rays are produced by energy conversion when a fast moving stream of electrons is suddenly decelerated in the target anode of an X-ray tube</p>\n<p><strong>Highyeild:</strong></p><p>The generation of X-rays occurs when electrons are accelerated under a potential difference and turned into electromagnetic radiation. An X-ray tube, with its respective components placed in a vacuum, and a generator, make up the basic components of X-ray production.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option A. Electron beam strike the nucleus of the atom Option C. Electron beam reacts with the electromagnetic held Option D. Electron beam strikes the cathode X rays are not generated by Electron beam strike the nucleus of the atom, Electron beam reacts with the electromagnetic held,. Electron beam strikes the cathode</p>\n<p><strong>Extraedge:</strong></p><p>X-rays are produced due to sudden deceleration of fast-moving electrons when they collide and interact with the target anode. In this process of deceleration, more than 99% of the electron energy is converted into heat and less than 1% of energy is converted into x-rays.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b9f1c8c2",
+      "audio": ""
+    },
+    {
+      "text": "A 6 year old came after RTA following which X-ray was done and some findings came which are typical of earliest radiological manifestation of childhood leukemia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Radiolucent transverse metaphyseal band",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Diffuse demineralization of bones",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Osteoblastic lesions in skull",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Parenchymal pulmonary lesions on chest films",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Radiolucent transverse metaphyseal band",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Radiolucent transverse metaphyseal band In childhood leukemia, radiographically detectable skeletal involvement is extremely common as a result of the infiltration.</p>\n<p><strong>Highyeild:</strong></p><p>Earliest radiographic sign of disease is usually transverse radiolucent bands at the metaphyseal ends of the long bones Most characteristic sign is presence of metaphyseal translucencies (90%)</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option B. Diffuse demineralization of bones Option C. Osteoblastic lesions in skull Option D. Parenchymal pulmonary lesions on chest films OPTION B,C,D are not  typical of earliest radiological manifestation of childhood leukemia</p>\n<p><strong>Extraedge:</strong></p><p>Radiolucent, fine, transverse metaphyseal bands. They represent the most common finding suggestive of preschool children leukemia. In patients under 2 years of age , their specificity decreases, and may be found in other chronic diseases that also alter osteogenesis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "22e17b81",
+      "audio": ""
+    },
+    {
+      "text": "Crescent sign' on IVU is positive in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyelonephritis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hydronephrosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Polycystic kidney",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Hydronephrosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hydronephrosis Intravenous urogram/pyelogram (IVU/IVP) in Hydronephrosis: Earliest change: Dilatation of renal pelvis 'Crescent/foot-pad sign 'Rim sign' (Severe Hydronephrosis)</p>\n<p><strong>Highyeild:</strong></p><p>Hydronephrosis is a condition of the urinary tract where one or both kidneys swell. This happens because urine does not fully empty from the body. Symptoms may include sudden or intense pain in the back or side, vomiting, painful urination, blood in the urine, weakness and fever due to a urinary tract infection</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Crescent sign' on IVU is not seen in Option A. Pyelonephritis Option C. Polycystic kidney Option D. Renal cell carcinoma</p>\n<p><strong>Extraedge:</strong></p><p>Contraindications of IVU Known allergy to iodine is an absolute contraindication. Nausea and vomiting are common side effects that are generally self-limiting. Allergic reactions include urticaria, hypotension and bronchospasm. Contrast medium-induced renal failure is a rare, idiosyncratic reaction.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "beaa4ae2",
+      "audio": ""
+    },
+    {
+      "text": "The 'String of beads' or sausage appearance of the renal artery is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fibromuscular hyperplasia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Subadventitial fibroplasia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fibromuscular dyspalsia with aneurysms",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Outer coat fibroplasia with aneurysms",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Fibromuscular dyspalsia with aneurysms",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Fibromuscular dyspalsia with aneurysms Fibromuscular dyspalsia or Medial fibroplasia, the most common, having the classic aneurysmal \"string of beads\" appearance Angiographically, this typically gives a string-of-beads appearance to the renal artery Appearance is caused by alternating areas of narrowing due to thickened segments</p>\n<p><strong>Highyeild:</strong></p><p>Fibromuscular renal artery stenosis is a narrowing of the arteries that lead to the kidneys, also known as the renal arteries, and occurs as part of the condition known as fibromuscular dysplasia (FMD).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - 'The 'String of beads' or sausage appearance of the renal artery is not seen in Option A. Fibromuscular  hyperplasia Option B. Subadventitial fibroplasia Option D. Outer coat fibroplasia with aneurysms</p>\n<p><strong>Extraedge:</strong></p><p>Fibromuscular dysplasia (FMD) is an idiopathic, non-inflammatory, non-atherosclerotic, vascular disease affecting young females. FMD commonly affects renal and carotid arteries. It traditionally presents as renovascular hypertension but can also manifest as stroke in young adults.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8494c56e",
+      "audio": ""
+    }
+  ]
+}

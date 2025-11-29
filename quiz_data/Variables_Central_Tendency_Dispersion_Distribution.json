@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "id": "test31",
+    "title": "Variables_Central_Tendency_Dispersion_Distribution",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which measure of dispersion is considered the most comprehensive and widely used in statistical analysis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Range",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Standard deviation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mean deviation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Variance",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Standard deviation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:607px\">\n<tbody>\n<tr>\n<td style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Measures of dispersion</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Calculation </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Standard deviation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures the variation or <span class=\"customMeta\" data-dictid=\"aff8304142169277718661b3b8980a\">dispersion</span> of a set of values around the mean.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u03c3 = \u221a(\u2211(x\u2212 x\u0304)<sup>2 </sup>/n)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Range</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The difference between the highest and lowest values in a dataset.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Range = Maximum value - Minimum value</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mean deviation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures the average absolute <span class=\"customMeta\" data-dictid=\"fa328dbc09169277718631e23a772f\">deviation</span> of data points from the mean.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mean <span class=\"customMeta\" data-dictid=\"fa328dbc09169277718631e23a772f\">deviation</span> = \u2211 X - x\u0304 / n</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Variance</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures the average of the squared differences from the mean.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Variance = \u03c3<sup>2</sup></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/wpfS79DQT9X72xvBu01C1741593368.mp3",
+      "video": "",
+      "uid": "82565fb6"
+    },
+    {
+      "text": "In a survey, 100 individuals were randomly sampled to estimate the mean age of a population. The sample mean age was 35, with a standard deviation of 5 years. What is the standard error of the mean (SE of mean) for this survey?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 years",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "0.05 years",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "5 years",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "0.25 years",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 0.5 years",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:497px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Standard error of the mean = standard <span class=\"customMeta\" data-dictid=\"fa328dbc09169277718631e23a772f\">deviation</span> / </strong><strong>\u221a</strong><strong> </strong><strong>sample size</strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:700px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Standard error of the mean </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Standard error of proportion</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Quantifies the <span class=\"customMeta\" data-dictid=\"128186f064169277720116e786798a\">variability</span> of sample means around the true population mean<strong>.</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Measures how much sample proportions vary around the population proportion</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SE mean = \u03c3/\u221aN</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SE proportion = \u221a(pq/N)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/CjKepVE27B75XUDETA8d1741594263.mp3",
+      "video": "",
+      "uid": "7c106fab"
+    },
+    {
+      "text": "In the right-sided skewed distribution graph given below, what is the correct order of the measures of central tendency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean < median < mode",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mean > median > mode",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mean = median > mode",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mean = median = mode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mean > median > mode",
+      "question_images": [
+        "https://image.prepladder.com/notes/nnu8YIZ1zjLPfFxe0Uj51734024601.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/bjLhH3jqnIfkpGdmDf0n1734024654.png",
+        "https://image.prepladder.com/notes/vnxRcR7DRMzbvfiO650l1734024684.png",
+        "https://image.prepladder.com/notes/hUQEMxjHR3SnqPjV1Aq01734024716.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ImH0LbuVFJDfbV9vkaUK1741596011.mp3",
+      "video": "",
+      "uid": "b0b7fe1b"
+    },
+    {
+      "text": "Which of the following is an example of a qualitative variable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood Pressure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heart Rate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blood group",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cholesterol Level",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Blood group",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Qualitative Variable</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Quantitative Variable</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Describe categories or qualities.</li>\n<li>It cannot be measured or compared.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Describes numerical quantities.</li>\n<li>It can be measured or compared.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Data type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Non-numeric</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Numeric</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subtypes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nominal, Ordinal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Discrete, Continuous</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Gender</li>\n<li>Eye Color</li>\n<li>Type of Car</li>\n<li><strong>Blood group </strong></li>\n<li>Race</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Height (cm)</li>\n<li>Weight (kg)</li>\n<li>Age (years)</li>\n<li><strong>Blood Pressure (mm Hg)</strong></li>\n<li><strong>Heart Rate (bpm)</strong></li>\n<li>Body Temperature (\u00b0C)</li>\n<li><strong>Cholesterol Level (mg/dl)</strong></li>\n<li>Blood <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">Glucose</span> Level (mg/dl)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/U0Swla9LTxFBm5QRSQkh1746564594.mp3",
+      "video": "",
+      "uid": "0edfe815"
+    },
+    {
+      "text": "A patient who presented yesterday with occasional chest pain on & off for quite a while was found to have a blood pressure of 160/100 mmHg. An ambulatory blood pressure monitoring has been set up and the readings today are 130/90, 158/98, 140/80, 160/90, 150/100 and 138/88 mmHg. What is his mean blood pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "139/85mmHg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "146/91mmHg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "150/89mmHg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "154/95 mmHg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 146/91mmHg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/gzG7BhgxdT6wItl8RCrI1744660757.mp3",
+      "video": "",
+      "uid": "802b3391"
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "meta": {
+    "id": "test27",
+    "title": "NADH Shuttles & ETC",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the component of the respiratory chain reacts directly with molecular oxygen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyt b",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CoQ",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cyt c",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cyt aa3",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Cyt aa3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cyt aa3 Present in complex IV of ETC It directly transfers its electrons to oxygen leading to the formation of water</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Cyt b Part of complex III of ETC Transfer electron from reduced CoQ to Cyt c 1 Option B: CoQ Also known as ubiquinone It is a lipid-soluble carrier and can freely move in the membrane Can accept and transfer one electron (QH) or two electrons (QH 2 ) Transfer electron from both complex I and complex II to Cyt b Option C: Cyt c It is a soluble protein present in intermembrane space. Accepts electron from Complex III (cyt c 1 ) transfer to Complex IV The sequence of transfer of electron in ETC is: NADH or FADH 2 \u2192 CoQ \u2192 cyt b \u2192 cyt c 1 \u2192 cyt c \u2192 cyt aa 3 \u2192 O 2</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9052a0ac",
+      "audio": ""
+    },
+    {
+      "text": "ETC complexes are formed of protein, enzymes, and a number of metal ions as well as vitamin-derived cofactors. Which of the following vitamin is a component of ETC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin B12",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Riboflavin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nicotinic acid",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thiamine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Riboflavin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Riboflavin In ETC, Complex I ( FMN, Fe-S ) & Complex II ( FAD, Fe-S ) are involved, which contains FAD, FMN FAD and FMN are active form of vitamin B 2 (riboflavin) Therefore Riboflavin (Vitamin B 2 ) is a component of ETC. Option C: Nicotinic acid There are two different questions asked on this, So, BE CAREFUL: Vitamin, which is component of ETC , is Riboflavin as it is present in complex I & II, in the form of FMN & FAD respectively (Figure below). NAD or NADH (made of Nicotinic acid) is not a component of ETC complexes . NADH is just a substrate for ETC complex I (Figure below) So, one can interpret that Vitamins that are used in ETC are both B 2 & B 3 as FADH 2 or NADH can be the starting materials for ETC</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A and D: Vitamin B 12 and Thiamine These two vitamins are not present in any of the components of ETC Thiamine is a coenzyme for PDH of link reaction and IDH and \u03b1-KG DH complexes of TCA.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c71d2985",
+      "audio": ""
+    },
+    {
+      "text": "Oxidative phosphorylation involves the generation of ATP by electron flow in ETC. The mechanism involved is called Chemiosmosis coupling with oxidative phosphorylation which can be best defined by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Formation of ATP at substrate level",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "ATP formation by transport of O2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "ATP generation by pumping of neutron",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ATP generation by pumping of proton",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. ATP generation by pumping of proton",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>ATP generation by pumping of proton Chemi-Osmotic coupling of oxidative phosphorylation means ATP is formed when protons that were pumped out during electron transfer are pumped back from intermembrane space back to Mitochondrial Matrix via the F0-F1 complex (see fig). The mechanical energy imparted by this proton pumping is captured in the high-energy P bond of ATP.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Formation of ATP at substrate level Substrate-level phosphorylation involves a simple coupling of one exergonic reaction to other endergonic reaction with a negative \u0394G. It occurs in glycolysis and TCA. It is the only source of energy in RBCs Option B: ATP formation by transport of O 2 O 2 is transported in the blood to all tissues and cells by binding to hemoglobin in RBCs It is released by a compound 2,3 BisPG produced in RBCs by RL shunt RL shunt produces zero net ATP Option C: ATP generation by pumping of neutron There is no pumping of the neutron in any of the pathways. So, it is not involved in any energy production. Generation of ATP from ADP in ETC happens when protons are pumped from intermembrane space through the F0-F1 protein present in IMM due to the electrochemical gradient generated across the membrane by electron transfer through ETC.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f3183dca",
+      "audio": ""
+    },
+    {
+      "text": "Rotenone is an odorless, colorless, crystalline isoflavone used as a broad-spectrum insecticide, piscicide, and pesticide. It occurs naturally in the seeds and stems of several plants, such as the jicama vine plant, and the roots of several members of Fabaceae. Investigators worked on the mechanism of action of Rotenone on the ETC during ATP synthesis. Rotenone act on which step of the mitochondrial respiratory chain:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complex I to Co-enzyme Q",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Coenzyme Q to Complex III",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Complex II to Coenzyme Q",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cytochrome C to Complex IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Complex I to Co-enzyme Q",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Complex I to Co-enzyme Q Rotenone works by interfering with the electron transport chain within complex I in mitochondria. It inhibits the transfer of electrons from iron-sulfur centers in complex I to ubiquinone. This interferes with NADH during the creation of usable cellular energy (ATP). Complex I is unable to pass off its electron to CoQ, creating a backup of electrons within the mitochondrial matrix. Other inhibitors of complex I are amobarbital and piercedin A.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option B:  Coenzyme Q to Complex III No inhibitors are reported for CoQ Option C:  Complex II to Coenzyme Q The inhibitors of Complex III are: Malonate (3C) Carboxin (Fungicide) TTFA (Trienoyl Tri Fluoro Acetone) Option D: Cyt c to Complex IV No inhibitors are reported for cyt c</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "dafbee4c",
+      "audio": ""
+    },
+    {
+      "text": "Shuttles are required for the transport of NADH generated in the cytoplasm to mitochondria to participate in ETC. If NADH uses a malate shuttle, how many ATPs will be produced?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1.5",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2.5",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 2.5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2.5 In Malate shuttle NADH is transported from the cytoplasm to mitochondria. The electrons in the NADH are used to reduce oxaloacetate to Malate by enzyme cytoplasmic MDH. The malate formed is transferred to mitochondria where it is oxidized back to OAA by mitochondrial MDH and electrons are transferred to NAD to form NADH. This NADH enters ETC to give 5 ATPs</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Other Options: Option B: 1.5 ATP In Glycerol-3-P shuttle NADH in cytoplasm reaches mitochondria as FADH 2 So, in mitochondria instead of NADH, FADH 2 enters ETC making only 1.5 ATP Options A and C: 1 and 2 1 and 2 ATP are not formed in any of the shuttles</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b19a3b30",
+      "audio": ""
+    },
+    {
+      "text": "The major requirement of cellular energy is met by ATP produced through oxidative phosphorylation which requires the flow of electrons through ETC to oxygen. Which one of the following is a key component of oxidative phosphorylation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using NADH and FAD(H2) to accept electrons as substrates are oxidized.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A source of electrons, which is usually oxygen in most tissues",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "An ATP synthase to synthesize ATP",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "An ATP synthetase to synthesize ATP",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. An ATP synthase to synthesize ATP",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>An ATP synthase to synthesize ATP The structure of ATP synthase allows the energy of protons moving inside the matrix to be used for ATP synthesis. If protons enter the mitochondria in any way other than through ATP synthase, no ATP can be generated (partial uncoupling). Hence ATP synthase is the most essential component for ATP synthesis.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Using NADH and FAD(H2) to accept electrons as substrates are oxidized. NAD + and FAD are electron acceptors and not NADH and FADH 2 . NAD always accepts two electrons as H - ion whereas FAD can accept either one or two electrons. Option B: A source of electrons, which is usually oxygen in most tissues Oxygen has a highest reduction potential among all the electron acceptors in the ETC So, Oxygen is the terminal electron acceptor and is not an electron donor. Option D: An ATP synthetase to synthesize ATP A synthetase is an enzyme that uses high-energy phosphate bonds (usually from ATP) to catalyze its reaction. But, ATP synthase creates high-energy phosphate bonds and does not use them.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8fed7fe1",
+      "audio": ""
+    },
+    {
+      "text": "The inner mitochondrial membrane contains a protein that is a transporter of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxaloacetate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Acetyl CoA",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "NADH",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ATP",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. ATP",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>ATP ADP-ATP translocase Present in the inner mitochondrial membrane. helps in the transfer of ATP and ADP molecules across the IMM. It transfers ATP out from the mitochondrial matrix into intermembrane space and on the other hand, it transfers ADP from Intermembrane space into the mitochondria matrix. It uses Flip-Flop Mechanism . Atractyloside inhibits ADP-ATP Translocase.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Oxaloacetate OAA formed in the cytoplasm cannot enter the mitochondrial matrix as there is no transporter protein present for it in IMM OAA required for mitochondrial pathways such as TCA are produced in mitochondria by pyruvate carboxylase. Malate also gives rise to OAA by the enzyme mitochondrial MDH Option B: Acetyl CoA There are no transporter proteins for acetyl CoA in IMM. It is produced from pyruvate by PDH reaction and from FA by beta-oxidation inside the mitochondrial matrix Option C: NADH There are no transporter proteins for NAD or NADH in IMM. NADH formed in the cytoplasm from glycolysis are transported into mitochondria via shuttles.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c86ca0c4",
+      "audio": ""
+    },
+    {
+      "text": "A young person of age 32 years while working in the agriculture field and spraying 2,4-Dinitrophenol on the crop, accidentally inhaled DNP. The patient was taken to the hospital with symptoms of nausea, vomiting, headache, and giddiness. Emergency symptomatic treatment was started after obtaining a history from the relatives. The probable diagnosis was DNP acute toxicity. True about 2, 4- Dinitrophenol is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prevents ATP synthesis and electron transport chain",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Prevents ATP synthesis and the electron transport chain is increased",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Blocks electron transport chain but ATP synthesis is normal",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Blocks ATP synthesis but the electron transport chain is normal",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Prevents ATP synthesis and the electron transport chain is increased",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Prevents ATP synthesis and the electron transport chain is increased Here the best answer is that Dinitrophenol prevents ATP synthesis and the electron transport chain ( ETC ) is increased . Dinitrophenol is an uncoupler. Uncoupler means electron flow (oxidation) is occurring but phosphorylation is not occurring. This will lead to reduced ATP formation as phosphorylation is not occurring. It will stimulate electron transport in order to produce more ATPs.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Options A and C: Prevents ATP synthesis and electron transport chain, Blocks electron transport chain but ATP synthesis is normal Uncouplers act as ionophores which provides alternate pathways for the movement of H+ other than ATP synthase. Hence, they dissipate H+ electrochemical gradient as heat and prevent ATP synthesis. They do not bind any ETC complex, so electron transport is not affected. Option D: Blocks ATP synthesis but the electron transport chain is normal They block ATP synthesis but ETC is also increased to meet the ATP requirements. So ETC is not normal.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fe300ea1",
+      "audio": ""
+    },
+    {
+      "text": "See the image and tell which complexes are involved when FADH2 enters ETC:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complex I, II, III, IV",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Complex II, III",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Complex II, III, IV",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Complex I, III, IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Complex II, III, IV",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1724935506926-photos-1724916501912-QTDB009009IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Complex II, III, IV When NADH enters ETC, then the complexes involved are complex I, III, and IV. But if FADH 2 enters ETC , then the complexes involved are complex II, III, and IV .</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Other Options: Option A: Complex I, II, III, IV No electron carrier uses all the protein complexes of ETC for the transfer of their electrons. Option B: Complex II, III Complex II and III in part are used for FADH2 but complete transfer also involves complex IV as explained above. Option D: Complex I, III, IV When NADH enters ETC, then the complexes involved are complex I, III, and IV. Complex I is known as NADH dehydrogenase and transfers electron from NADH to CoQ.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8f29357f",
+      "audio": ""
+    },
+    {
+      "text": "The shuttle used for the transport of NADH, produced in the cytoplasm into mitochondria for ETC, will decide how quickly and what number of ATPs will be produced from these NADH. Keeping that in mind we can say that Glycerol-P-shuttle is preferred in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liver and Heart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Brain and Heart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Brain and Skeletal muscle",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Liver and Skeletal muscle",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Brain and Skeletal muscle",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Brain and Skeletal muscle Glycerol-P-shuttle is a shorter shuttle (see att. Mantra) and provides lesser but a quick source of ATPs as compared to the Malate shuttle. So, it is present in the brain & skeletal muscles , where energy is needed quickly in case of an emergency.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A : Liver and Heart Malate shuttle is a longer shuttle (see att. mantra) due to a greater number of intermediates. But it produces more energy per glucose. So, this shuttle is employed more in the liver and cardiac muscles as these organs require a continuous supply of energy . Option B and D: Discussed already in the option A and C</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2699f298",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following about the electron transport chain are CORRECT? a. It is located in the inner mitochondrion membrane b. Cytochrome C accepts electrons from complex II c. Complex I is called NADH dehydrogenase d. Coenzyme Q accepts electrons from complex I and complex II Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If only a is correct",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "If a and d are correct",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "If a, c and, d are correct",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "If all four (a, b, c, & d) are correct",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. If a, c and, d are correct",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>If a, c and, d are correct It is located in the inner mitochondrion membrane The major components of ETC are located in IMM. There are four fixed protein complexes (Complex I-IV) embedded in the membrane. There are two soluble electron carriers CoQ and Cyt c The CoQ moves freely in the membrane Cyt c is present in the intermembrane space Complex I is called NADH dehydrogenase Complex I has FMN and Fe-S centers with NADH dehydrogenase enzyme activity. It takes electrons from NADH (get oxidized) and transfers them to ubiquinone (gets reduced), hence is called NADH-Q oxidoreductase. Coenzyme Q accepts electrons from complex I and complex II Ubiquinone or Q is a movable electron carrier and accepts electrons from both complex I (NADH) and complex II (FADH 2 ) It can accept either one or two electrons at a time. Cytochrome C accepts electrons from complex II Cytochrome c accepts electrons from complex III and not from complex II It transfers electrons to complex IV.</p>\n<p><strong>Highyeild:</strong></p><p>NADH ((Complex I) or FADH 2 (Complex II) \u2192 CoQ \u2192  cyt bc 1 (Complex III) \u2192 cyt c \u2192 cyt aa 3 (Complex IV)  \u2192 O 2</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "528f31b1",
+      "audio": ""
+    },
+    {
+      "text": "Arrange the components of ETC used in sequence when ETC starts from FADH2: A. ATP synthase B. Cytochrome c Reductase C. Succinate dehydrogenase D. Cytochrome c oxidase Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A \u2192 D\u2192 B\u2192 C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "C \u2192 B\u2192 D\u2192 A",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C \u2192 D\u2192 A\u2192B",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D \u2192 B\u2192 A\u2192 C",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. C \u2192 B\u2192 D\u2192 A",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>C \u2192 B\u2192 D\u2192 A Succinate Dehydrogenase: part of complex II and oxidizes succinate to fumarate Cyt c reductase: Part of complex III and oxidizes CoQ and reduces cyt c Cyt c oxidase: Part of complex IV and oxidizes Cyt c and reduces O 2 . ATP synthase: aka complex V and causes phosphorylation of ADP to ATP by using electrochemical energy of H + gradient across IMM. FADH 2 \u2192 Succinate Dehydrogenase \u2192 Cyt c reductase \u2192 Cyt c oxidase \u2192 ATP synthase</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4b433334",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is a physiological uncoupler of oxidative phosphorylation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2,4-dinitrophenol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cyanide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thermogenin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Aspirin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Thermogenin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Thermogenin Uncoupler: Thermogenin Uncoupler means electron flow (oxidation) is occurring but phosphorylation is not occurring. This will lead to reduced ATP formation as phosphorylation is not occurring. Thermogenin, a protein present in brown fat, is a natural/physiological uncoupler of ETC. It is responsible for non-shivering thermogenesis by the release of heat in ETC (see fig).</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Options A and D: 2,4-dinitrophenol and Aspirin These two are man-made drugs that also act as an uncoupler Aspirin in high doses can act as an uncoupler 2,4-Dinitrophenol was used as weight control but is currently banned. Option B: Cyanide Cyanide is an inhibitor of complex IV (cyt aa3) so, it inhibits both oxidation and phosphorylation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "00b3aab3",
+      "audio": ""
+    },
+    {
+      "text": "Electron flow in the ETC is governed by the difference in the reduction potential of its components. Which of the following set of components has minimum redox potential?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NADP+/NADPH",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CoQ/CoQH2",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "FAD/FADH2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "NAD+/NADH",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. NAD+/NADH",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>NAD+/NADH Redox potential tells about the tendency of a substance to gain electrons and get reduced. In ETC: NAD + /NADH has minimum redox potential (can lose electrons readily) Oxygen has maximum redox potential (can accept electrons very fast) As you go down in ETC, redox potential increases i.e. Complex I < Complex II < Coenzyme Q < Complex III.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A, B and C: NADP + /NADPH, CoQ/CoQH 2, FAD/FADH 2 These compounds lie between NADH and O 2 in terms of their reduction potential (see fig below) A flowchart showing redox pairs with increasing redox potential. Redox Pair consists of two components- one is oxidized and the other is reduced during electron transfer</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "94ab535a",
+      "audio": ""
+    },
+    {
+      "text": "MELAS inhibit all ETC Complexes EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "II",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. II",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>II MELAS (mitochondrial encephalopathy, lactic acidosis, and stroke) occurs due to a mutation in the mitochondrial genome affecting the enzymes and protein encoded by mtDNA. 13 genes of mtDNA encode the following subunits of ETC: seven for complex I, one for complex III, three for complex IV, and two for complex V (ATP synthase). Complex II and the remaining subunits of ETC are encoded in nuclear DNA So, MELAS inhibits complex I, III & IV of ETC but does not affect complex II. ETC is affected, the brain is affected and due to anaerobic metabolism, lactic acidosis occurs. MELAS is also Involved in Alzheimer\u2019s d isease and diabetes mellitus .</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Options A, C, and D: mtDNA genes encoding components of complex I III and IV can be mutated in MELAS syndrome. So, these complexes are affected.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "15f36da2",
+      "audio": ""
+    },
+    {
+      "text": "A child of a farming family has accidentally ingested a pest control agent containing cyanide as one of the major components. He was immediately rushed to a hospital by her parents. The TCA compound which will get depleted first is which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aconitase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "NAD",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Citrate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acetyl CoA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. NAD",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>NAD Cyanide inhibits complex IV of ETC. Cyanide is probably the most potent inhibitor of ETC. It exerts its effect by binding to Fe 3+ of cytochrome oxidase (Complex IV) and blocking its function. As ETC is involved in the oxidation of the majority of cellular NADH to regenerate NAD. So, if ETC is inhibited, NADH accumulates. If NADH accumulates, it means NAD is So, TCA is affected because each TCA cycle requires 3 NAD (for Isocitrate Dehydrogenase, alpha-ketoglutarate dehydrogenase, and Malate Dehydrogenase).</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Aconitase Aconitase is a TCA cycle enzyme that catalyzes the isomerization of citrate to isocitrate without using any NADH. Fluoroacetate and fluorocitrate are competitive inhibitors of aconitase. Option C: Citrate Citrate is formed by condensation of acetyl CoA and OAA in the first step of TCA by the enzyme citrate synthase. It does not require any product of ETC. So, its production will not be affected. Option D: Acetyl CoA Acetyl CoA is starting material for the TCA cycle and is produced from pyruvate by dehydrogenation reaction also using NAD as an electron acceptor. However, acetyl CoA can also be produced from other substrates such as amino acid catabolism and fatty acid oxidation. So, its production will not be affected much.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5b7623ec",
+      "audio": ""
+    },
+    {
+      "text": "ETC consists of a series of protein complexes embedded in the inner mitochondrial membrane. Which of the following is the only non-protein member of ETC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytochrome c",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "CoQ",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Complex V",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Complex II",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. CoQ",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>CoQ ETC has: five protein complexes- Complex I to V two mobile electron carriers \u2013 CoQ (ubiquinone) and Cyt c All complexes and cytochrome c are proteins except CoQ Coenzyme Q not a protein hydrophobic, lipophilic compound made up of isoprene units present within the inner mitochondrial membrane. anti-oxidant</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option A: Cyt c It is a heme protein present in the intermembrane space. Cytochrome c is the only member of ETC, not lying in IMM The cytochromes are proteins with characteristic strong absorption of visible light, due to their iron-containing heme prosthetic groups Option C: Complex V aka ATP synthase is a multi-subunit enzyme There are two functional domains called F0-F1. Option D: Complex II aka succinate dehydrogenase and converts succinate to fumarate The only enzyme present in TCA and ETC CoQ is a lipid-soluble mobile carrier of ETC that can move freely in the lipid of the inner mitochondrial membrane. It transfers electrons from NADH and FADH2 to cyt bc 1 .  All other ETC complexes contain protein complexes and enzymes.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f103176f",
+      "audio": ""
+    },
+    {
+      "text": "If aerobic glycolysis uses a malate shuttle, how many net ATPs are produced from glycolysis/glucose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 ATP",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5 ATP",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "7 ATP",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "3 ATP",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 7 ATP",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>7 ATP When the malate shuttle is used for NADH transport, NADH is produced inside the mitochondria give rise to 2.5 ATP via ETC. So the Net ATP yield, in that case, would be 7 ATP 5 ATP The inner mitochondrial membrane is impermeable to NADH. Therefore, the NADH produced in the cytosol cannot directly enter the mitochondria. It enters mitochondria indirectly with the help of shuttles e.g. glycerol phosphate and malate shuttles. In the Glycerol phosphate shuttle, NADH gives rise to FADH2 inside the mitochondrial matrix so 1.5 ATP are formed per NADH. So, net ATP yield is = 5 ATP (see figure below)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ccb0db41",
+      "audio": ""
+    },
+    {
+      "text": "In an incident, 3 workers were killed and two suffered a serious injury, including long-term brain damage at a mushroom growing factory. Workers operated on the valve to a pipe in the factor that became clogged. Workers took a long time to repair the valve in the narrow space without proper ventilation. Investigator concluded the presence of hydrogen sulfide gas that workers inhaled while working in the narrow space that lead to sulfide poisoning. Select the incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2S inhibits the activity of cytochrome oxidase C enzyme in ETC",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increased reduction of O2 by protons into the water in ETC",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Inhibit Fe-Cu site in cytochrome oxidase C enzyme",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Increased reduction of O2 by protons into the water in ETC",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Increased reduction of O2 by protons into the water in ETC Hydrogen sulfide is a highly toxic gas that can produce extremely rapid CNS and respiratory depression. It is also an irritant affecting the skin and mucous membranes. There is no proven antidote for hydrogen sulfide poisoning. Hydrogen sulfide (H2S) is responsible for many incidents of occupational toxic exposure, Hydrogen sulfide (H2S) is an important brain, lung, and nose toxicant. Inhibition of cytochrome oxidase C is the primary biochemical effect associated with lethal H2S exposure. Injury due to H2S exposure occurs primarily by inhalation. Once absorbed, the compound is distributed in the blood and taken up by the brain, liver, kidney, pancreas, and small intestines. Sulfur compounds are severely irritating to the respiratory tract, leading to rhinorrhea, sneezing, sore throat, wheezing, shortness of breath, chest tightness, hemoptysis, and a feeling of suffocation. Sulfur compounds can cause leucopenia and neutropenia as well as cardiac injury with the elevation of troponin I and creatine kinase. The mechanism of H2S toxicity is related to the inhibition of oxidative phosphorylation, which causes a decrease in the available cellular energy.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option: A. H2S inhibits the activity of cytochrome oxidase C enzyme in ETC Option: C. The hydrogen sulfide gas Inhibit Fe-Cu site in cytochrome oxidase C enzyme</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f97e4122",
+      "audio": ""
+    },
+    {
+      "text": "Oligomycins are macrolides created by Streptomyces that can be poisonous to other organisms. Investigator studied the possible mode of action of oligomycin molecule on the experimental rats. Investigators reported the death of rats administered with oligomycin. He found ATP synthesis in rats was inhibited. Select the incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibits ATP synthase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Activating proton channel, F0 subunit",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reduce electron flow through the electron transport chain",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Has no action on the F1 subunit of the proton channel",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Activating proton channel, F0 subunit",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Activating proton channel, F0 subunit Oligomycin A inhibits the activity of the proton channel, F0 subunit in ETC. Oligomycin A is an inhibitor of ATP synthase. In oxidative phosphorylation research, it is used to prevent state 3 (phosphorylating) respiration. Oligomycin A inhibits ATP synthase by blocking its proton channel (F0 subunit), which is necessary for oxidative phosphorylation of ADP to ATP (energy production). The inhibition of ATP synthesis by oligomycin A will significantly reduce electron flow through the electron transport chain; however, electron flow is not stopped completely due to a process known as proton leak or mitochondrial uncoupling. This process is due to the facilitated diffusion of protons into the mitochondrial matrix through an uncoupling protein such as thermogenin, or UCP1.</p>\n<p><strong>Random:</strong></p><p>Explaination for incorrect options:- Option: Oligomycins inhibits ATP synthase Option: Oligomycins reduce electron flow through the electron transport chain Option: F0 blockers are oligomycin and venturicidin. F1 blocker is aurovertin</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d1462c0b",
+      "audio": ""
+    }
+  ]
+}

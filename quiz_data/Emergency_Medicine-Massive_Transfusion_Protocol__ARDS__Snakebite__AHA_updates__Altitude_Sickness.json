@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "id": "test12",
+    "title": "Emergency_Medicine-Massive_Transfusion_Protocol__ARDS__Snakebite__AHA_updates__Altitude_Sickness",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 65-year-old male is in cardiac arrest due to refractory ventricular fibrillation after three unsuccessful defibrillation attempts. The resuscitation team decides to use double external defibrillation. What is the correct placement for the first defibrillator, and how should the second be positioned?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A) Left sternal border and left axilla; close to the first.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B) Right sternal border and cardiac apex; antero-posterior position.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "C) Both pads on the same side; on the abdomen for the second.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "D) Anteriorly on the chest; also anterior for the second with no specific placement.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B) Right sternal border and cardiac apex; antero-posterior position.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8dfec115"
+    },
+    {
+      "text": "A 35-year-old male mountaineer plans a rapid ascent to an altitude of 4500 meters for a climbing expedition. He has a history of experiencing symptoms like fatigue, non-productive cough, and difficulty breathing during previous high-altitude trips. Based on the scenario, which of the following strategies should the mountaineer implement to effectively prevent symptoms, and what is the main treatment he should consider if symptoms develop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maintain an average altitude gain exceeding 300 m per day, and begin immediate treatment with acetazolamide.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ascend rapidly without acclimatization, and use supplemental oxygen if symptoms develop.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ascend slowly with a maximum altitude gain of 300 m per day, and prioritize descent of 1000 meters if symptoms occur.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Use alcohol to relax during the ascent, and rely solely on portable hyperbaric chambers if symptoms arise.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ascend slowly with a maximum altitude gain of 300 m per day, and prioritize descent of 1000 meters if symptoms occur.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>High altitude <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prevention</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Slow ascent is the most effective method of prevention, even for <span class=\"customMeta\" data-dictid=\"55691242bb1692777199360f64cb67\">susceptible</span> individuals.</li>\n<li>Graded ascent and adequate time for acclimatization.</li>\n<li>Low sleeping altitudes.</li>\n<li>Avoidance of alcohol and sleeping pills.</li>\n<li>Avoidance of vigorous exercise, especially during the first days at altitude.</li>\n<li>Nifedipine, a <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> channel blocker, can prevent <span class=\"customMeta\" data-dictid=\"95f872b7231692777188a3bf72e2bc\">HAPE</span> in individuals with a history of the condition. The recommended <span class=\"customMeta\" data-dictid=\"b5bd69c9791692777186a40f45ffb6\">dosage</span> is 60 mg daily of a slow-release formulation, starting during ascent and continuing until the third or fourth day after arrival at the final altitude or after <span class=\"customMeta\" data-dictid=\"0cf8ac70611692777186b133d027f6\">descending</span> below 3000 m.</li>\n<li>Preliminary data suggest glucocorticoids may prevent <span class=\"customMeta\" data-dictid=\"95f872b7231692777188a3bf72e2bc\">HAPE</span> when taken one day prior to ascent and continued during ascent at high altitude.</li>\n<li>Susceptible individuals should maintain an average altitude gain not exceeding 300 m per day above 2500 m.</li>\n<li>If progressive <span class=\"customMeta\" data-dictid=\"4ceeb0cef2169277718080f29afe8d\">acclimatization</span> is not possible, <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> with <span class=\"customMeta\" data-dictid=\"7c0ddaeead1692777193d6ef9ffbf0\">nifedipine</span> or <span class=\"customMeta\" data-dictid=\"b17474135a1692777200c9c1d78997\">tadalafil</span> is recommended for long stays at high altitude, and <span class=\"customMeta\" data-dictid=\"1b969bdd951692777186a2a131511d\">dexamethasone</span> for short stays of less than 5 days.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The mainstay of treatment is to descend 1000 meters or until symptoms resolve.</li>\n<li>Minimize exertion during <span class=\"customMeta\" data-dictid=\"e9449b4d7a16927771867eb16e2878\">descent</span> to reduce <span class=\"customMeta\" data-dictid=\"9f81027f0116927771892823259e5d\">hypoxemia</span> and worsening condition.</li>\n<li>Oxygen therapy may help alleviate symptoms if <span class=\"customMeta\" data-dictid=\"e9449b4d7a16927771867eb16e2878\">descent</span> is delayed or difficult.</li>\n<li>Main treatment remains descent, regardless of oxygen availability.</li>\n<li>Supplemental oxygen via high-flow <span class=\"customMeta\" data-dictid=\"31c5d0e75f16927771938d8e2daa4c\">nasal</span> <span class=\"customMeta\" data-dictid=\"7611186da51692777183be9dcf4063\">cannula</span> and facemask should be titrated to SpO2 greater than 90%.</li>\n<li>Portable <span class=\"customMeta\" data-dictid=\"1b1cc7f2861692777189c9bd7d9b81\">hyperbaric</span> chambers can be used if <span class=\"customMeta\" data-dictid=\"e9449b4d7a16927771867eb16e2878\">descent</span> is not possible but require constant care.</li>\n<li>Hyperbaric chambers may be challenging for individuals with nausea, vomiting, claustrophobia, or altered mental status from AMS/HACE.</li>\n<li>There is a risk of symptom <span class=\"customMeta\" data-dictid=\"1d849ebc9b1692777197d4af1fa8d2\">recurrence</span> after exiting the <span class=\"customMeta\" data-dictid=\"1b1cc7f2861692777189c9bd7d9b81\">hyperbaric</span> chamber.</li>\n<li>Nifedipine can improve symptoms as an <span class=\"customMeta\" data-dictid=\"e405fcd2f2169277718034536f004a\">adjunct</span> therapy by reducing <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> vasoconstriction.</li>\n<li>Nifedipine should not be the sole therapy if <span class=\"customMeta\" data-dictid=\"e9449b4d7a16927771867eb16e2878\">descent</span> or oxygen is an option.</li>\n<li>Phosphodiesterase inhibitors may help decrease <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> and <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> pressure through <span class=\"customMeta\" data-dictid=\"7aa9f8d34616927772018c11493bbc\">vasodilation</span> if <span class=\"customMeta\" data-dictid=\"7c0ddaeead1692777193d6ef9ffbf0\">nifedipine</span> is unavailable.</li>\n<li>There is no clinically proven role for acetazolamide, \u03b2-agonists, or diuretics in the treatment of HAPE.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5e1e2c37"
+    },
+    {
+      "text": "A 28-year-old male skier is found unresponsive in the snow with a core body temperature of 27\u00b0C (81\u00b0F). He exhibits severe hypothermia and requires immediate medical attention. Which of the following is NOT a treatment approach for managing his hypothermia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A) Administer warm intravenous fluids at 40-42\u00b0C.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B) Utilize ECMO (extracorporeal membrane oxygenation) to provide rewarming and circulatory support.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "C) Use passive external rewarming by layering him with wet clothing.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "D) Perform active internal rewarming using warm saline lavage of body cavities.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. C) Use passive external rewarming by layering him with wet clothing.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "da7a9169"
+    },
+    {
+      "text": "A 40-year-old male fisherman is rescued after being exposed to cold water for several hours. Upon examination, his core body temperature is 29\u00b0C (84\u00b0F). He shows signs of lethargy, dilated pupils, and a slow heart rate. Which of the following statements about his condition is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild hypothermia typically presents with symptoms like shivering and increased muscle tone.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "In moderate hypothermia shivering generally stops as the body temperature approaches 30\u00b0C.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Severe hypothermia can lead to unresponsiveness and increased risk of cardiac dysrhythmias.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Osborn waves are typically absent in hypothermic patients with temperatures below 28\u00b0C.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Osborn waves are typically absent in hypothermic patients with temperatures below 28\u00b0C.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/T85hCzwWhwqijzk2QXzT1744278031.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:652px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypothermia</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hypothermia is defined as a drop in core <span class=\"customMeta\" data-dictid=\"4a7581c8b01692777183819f38c633\">body temperature</span> below 35\u00b0C, resulting in the failure to maintain <span class=\"customMeta\" data-dictid=\"50796581771692777189251fbe5ef1\">homeostasis</span> and affecting all organ systems.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Primary Hypothermia</strong>: Caused by environmental cold exposure, such as cold air or water. Common in cold <span class=\"customMeta\" data-dictid=\"64f5c141d51692777188eb378afc37\">geographic</span> areas but can also occur in mild climates.</li>\n<li><strong>Secondary Hypothermia</strong>: Results from conditions that impair heat production or increase heat loss (e.g., trauma, burns, drug overdoses, <span class=\"customMeta\" data-dictid=\"d8216cf7571692777187baa94b8612\">endocrine</span> disorders, CNS injury, or drug effects).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mild Hypothermia</strong> (32-35\u00b0C / 90-95\u00b0F)</p>\n<p><strong>(Option A) </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Symptoms: Hunger, nausea, fatigue, shivering, pale/dry skin, increased muscle tone, blood pressure, heart rate, and respiration.</li>\n<li>Neurologic symptoms: Cognitive decline, memory impairment, ataxia, dysarthria.</li>\n<li>Shivering may stop if energy stores are depleted (e.g., malnutrition).</li>\n<li>Cold-induced <span class=\"customMeta\" data-dictid=\"09562877f516927771865e4cf1fd7e\">diuresis</span> due to <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> vasoconstriction.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate Hypothermia</strong> (28-32\u00b0C / 82-90\u00b0F)</p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cognitive decline, lethargy, CNS depression (hyporeflexia, dilated pupils).</li>\n<li>Shivering stops at 30-32\u00b0C.</li>\n<li>Paradoxical undressing may occur.</li>\n<li>Increased risk of atrial fibrillation, hypotension, bradycardia, bradypnea.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severe Hypothermia</strong> (<28\u00b0C / <82\u00b0F)</p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Unresponsiveness, further decline in cerebral blood flow, hypotension, bradycardia, and <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> output.</li>\n<li>Risk of atrial, junctional dysrhythmias.</li>\n<li>Pulmonary congestion, oliguria, and areflexia.</li>\n<li>Potential for <span class=\"customMeta\" data-dictid=\"1b798ee2c21692777183440eb9102c\">cardiorespiratory</span> failure and death.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ECG Findings</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Atrial Fibrillation</strong>: Most common <span class=\"customMeta\" data-dictid=\"5280ec6ae91692777182aa6322ae68\">arrhythmia</span> in <span class=\"customMeta\" data-dictid=\"8697d3db6716927771892e1805ab8f\">hypothermic</span> patients.</li>\n<li><strong>Bradycardia</strong>: Seen in moderate to severe hypothermia, increasing the risk of <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> arrhythmias.</li>\n<li><strong>QT Interval Prolongation</strong>: Due to slowed impulse <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> through <span class=\"customMeta\" data-dictid=\"a995a613a016927771969d4395dc80\">potassium</span> channels.</li>\n<li><strong>Osborn (J) Waves</strong>: Elevated J point, visible on ECG in the precordial leads, with wave height proportional to the degree of hypothermia.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "cf6d8a25"
+    },
+    {
+      "text": "A 30-year-old male hiker ascends rapidly from sea level to an altitude of 4500 meters over 24 hours. Two days after his arrival, he begins to experience increasing fatigue, a non-productive cough, and difficulty breathing during physical activity. His oxygen saturation is 60% on examination, and he exhibits tachypnea and cyanosis. Based on the scenario, which factors do not contribute to the patient's clinical features?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low hypoxic ventilatory response (HVR)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Use of sleep medications during ascent",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Recent heavy physical exertion prior to ascent",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Extended acclimatization period before ascent",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Extended acclimatization period before ascent",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>High altitude <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>About</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HAPE is a severe, high-altitude illness, potentially fatal.</li>\n<li>It is noncardiogenic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> caused by hypoxia.</li>\n<li>It occurs above 2500 meters, and can start as low as 2000 meters.</li>\n<li>Risk factors: low hypoxic <span class=\"customMeta\" data-dictid=\"f14b6fe4d3169277720152885b1b38\">ventilatory</span> response (HVR), rapid ascent, male sex, sleep medications, high salt intake, cold temperatures, and heavy exertion.</li>\n<li>Pre-existing conditions (e.g., <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> hypertension) increase risk.</li>\n<li>Faster ascent correlates with higher incidence.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathophysiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HAPE results from the <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> vasculature's response to hypoxia.</li>\n<li>Hypoxic <span class=\"customMeta\" data-dictid=\"f14b6fe4d3169277720152885b1b38\">ventilatory</span> response (HVR) varies among individuals and has a genetic component.</li>\n<li>High altitude adaptations include changes in resting ventilation, HVR, oxygen saturation, and <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">hemoglobin</span> concentration.</li>\n<li>Rapid ascent to altitude causes immediate increases in <span class=\"customMeta\" data-dictid=\"48780228371692777192344586b3b3\">minute ventilation</span> and <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> alkalosis.</li>\n<li>Shifts in the oxygen-dissociation curve occur, initially increasing oxygen affinity, followed by a decrease as 2,3-DPG levels rise.</li>\n<li>Blunted HVR (due to genetic factors or sedatives) leads to exaggerated hypoxemic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"3f0b42b17016927772014c586d44b7\">vasoconstriction</span> (HPV).</li>\n<li>HPV increases <span class=\"customMeta\" data-dictid=\"33dfead74b1692777195931780bd9e\">perfusion</span> to affected alveoli, raising <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> pressures and permeability, leading to non-uniform <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema.</li>\n<li>This <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> further impedes <span class=\"customMeta\" data-dictid=\"d27c5d96b416927771941e7efc4010\">oxygen transport</span> and exacerbates <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> hypertension.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HAPE typically manifests 2 to 5 days after arriving at high altitude.</li>\n<li>Initial symptoms include non-productive cough, decreased exercise tolerance, chest pain, and exertional dyspnea.</li>\n<li>Progression can lead to <span class=\"customMeta\" data-dictid=\"c92aa64edb16927771867805a38cc6\">dyspnea</span> at rest, productive <span class=\"customMeta\" data-dictid=\"8f02e74e821692777185a0c005c508\">cough</span> with pink frothy sputum, rales, and cyanosis.</li>\n<li>Patients may exhibit <span class=\"customMeta\" data-dictid=\"28f03e93ee1692777200dd8ea97b29\">tachypnea</span> and tachycardia.</li>\n<li>SpO2 levels are often significantly lower than expected for altitude, with values typically ranging from 40% to 70%.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "fbd3e168"
+    },
+    {
+      "text": "A 34-year-old woman, 36 weeks pregnant, is brought to the emergency department after collapsing at home. Upon arrival, she is unresponsive and in cardiac arrest. CPR is initiated immediately. The team begins advanced cardiac life support for pregnancy. Which of the following is the most appropriate next step to optimize maternal and fetal outcomes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delay chest compressions to position the patient for cesarean section.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Place the patient in a left lateral decubitus position and perform left uterine displacement.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Administer 2 mg epinephrine IV every 5 minutes.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Delay defibrillation to avoid harm to the fetus.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Place the patient in a left lateral decubitus position and perform left uterine displacement.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:619px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Mnemonic</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Causes of <span class=\"customMeta\" data-dictid=\"a191a950d7169277719148e72a75e2\">maternal</span> <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> arrest</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Anesthetic Complications (Aspiration, High neuraxial block, <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">Respiratory</span> depression)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Accidents/ Trauma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>B</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Bleeding (Uterine atony, <span class=\"customMeta\" data-dictid=\"5276da31d11692777195f0e82f5e1d\">Placenta</span> accreta, Abruption, <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">Uterine</span> rupture)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>C</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Cardiovascular Causes (MI, Cardiomyopathy, <span class=\"customMeta\" data-dictid=\"416dd1004a169277720177d9a6adc5\">Valve</span> disease, <span class=\"customMeta\" data-dictid=\"488a4efe7d16927771840c9e29f164\">Congenital</span> heart disease)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>D</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Drug-Related Issues (Oxytocin, Opioids, Illicit drugs, Anaphylaxis)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>E</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Embolic Causes (Amniotic fluid, Pulmonary, <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">Venous</span> air embolism)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>F</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Fever (Sepsis, Infection)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>G</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>General Issues - H\u2019s and T\u2019s (causes of <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> arrest)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>H</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Hypertension (Preeclampsia, Eclampsia, HELLP syndrome)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6e49eb9d"
+    },
+    {
+      "text": "A 62-year-old man was found unconscious at home and resuscitated after a cardiac arrest. He achieved Return of Spontaneous Circulation (ROSC) and was admitted to the ICU. By Day 3 (49-72 hours post-ROSC), the patient has been rewarmed, and sedation is being weaned off. Which of the following is an appropriate neuro-prognostic assessment to perform at this stage if the clinical condition allows it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perform a routine EEG to assess for seizure activity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Perform somatosensory evoked potentials (SSEP)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Initiate Targeted Temperature Management (TTM)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Perform a neurological exam with a focus on pupillary and motor responses",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Perform somatosensory evoked potentials (SSEP)",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/9EaJADW4fZvHhAUvmZBC1744278002.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1b1de143"
+    },
+    {
+      "text": "A 55-year-old man experiences a sudden cardiac arrest while jogging in a park. A bystander witnesses the collapse. According to the Adult OHCA Chain of Survival, what is the correct sequence of actions performed by the emergency responders in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Early recognition and Prevention \u2192 Activation of Emergency Response \u2192 Defibrillation \u2192 High-Quality CPR \u2192 Recovery\u2192 Post-Cardiac Arrest Care",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Activation of Emergency Response \u2192 High-Quality CPR \u2192 Defibrillation \u2192 Advanced Resuscitation \u2192 Post-Cardiac Arrest Care \u2192 Recovery",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "High-Quality CPR \u2192 Activation of Emergency Response \u2192 Advanced Resuscitation \u2192 Defibrillation \u2192 Post-Cardiac Arrest Care \u2192 Recovery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "High-Quality CPR \u2192 Activation of Emergency Response \u2192 Defibrillation \u2192 Advanced Resuscitation \u2192 Post-Cardiac Arrest Care \u2192 Recovery",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Activation of Emergency Response \u2192 High-Quality CPR \u2192 Defibrillation \u2192 Advanced Resuscitation \u2192 Post-Cardiac Arrest Care \u2192 Recovery",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/CWT7N3KnWYCA0sKE5yDb1744278054.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "50b8208f"
+    },
+    {
+      "text": "A 4-year-old child is found unresponsive at home. The parents initiate CPR, and the child is transported to the emergency department. Upon arrival, the medical team begins CPR and attaches a monitor/defibrillator. The rhythm check shows asystole. What is the next step in managing this child according to the Pediatric Cardiac Arrest Algorithm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deliver a shock immediately",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer Amiodarone IV/IO",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Administer Epinephrine and continue CPR",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Administer Lidocaine IV/IO",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Administer Epinephrine and continue CPR",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "fa16c6d0"
+    },
+    {
+      "text": "Which of the following statements about massive transfusion management are correct? A) PRBC should be administered first to address hypoxia and acidosis. B) Blood components should be transfused in a 1:1:1 ratio of PRBC: FFP: PRP, beginning with PRBC. C) Blood products should be warmed during transfusion to prevent hypothermia-induced coagulopathy. D) Platelets should be administered first to prevent coagulopathy. E) Components are stored at different temperatures: PRBC at 4\u00b0C, FFP at -30\u00b0C (thawed before use), and platelets at room temperature (20-24\u00b0C).",
+      "options": [
+        {
+          "label": "A",
+          "text": "A, B, and C only",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A, B, C, and E only",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "B, C, and D only",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "B,C D, and E only",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. A, B, C, and E only",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1fe37ea5"
+    },
+    {
+      "text": "A 35-year-old farmer is brought to the emergency department 2 hours after being bitten by a snake on his left ankle. He presents with severe swelling of the left leg, gingival bleeding, and incoagulable blood on the 20-minute whole blood clotting time test. You decide to administer polyvalent antivenom serum (ASV). Twenty minutes after starting the ASV infusion, the patient develops urticaria, cough, and abdominal pain. His blood pressure drops to 85/50 mmHg. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discontinue ASV infusion permanently",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Continue ASV infusion and administer corticosteroids",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Stop ASV infusion temporarily and treat with epinephrine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Administer heparin to counteract coagulopathy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Stop ASV infusion temporarily and treat with epinephrine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:647px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Complication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Timing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Early (Anaphylactic) Reaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>10-180 minutes after starting ASV</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Itching, urticaria</p>\n<p>- Nausea, vomiting</p>\n<p>- Cough, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> colic</p>\n<p>- Fever, tachycardia</p>\n<p>- Hypotension</p>\n<p>- Bronchospasm</p>\n<p>- Angioedema</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>1. Stop ASV <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">infusion</span> immediately</p>\n<p>2. Administer <span class=\"customMeta\" data-dictid=\"76baf6616a169277718738f8790ab9\">epinephrine</span> (adrenaline) IM or SC</p>\n<p>3. Give antihistamines and corticosteroids</p>\n<p>4. Treat shock if present</p>\n<p>5. Resume ASV at a slower rate after symptoms subside</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Pyrogenic Reaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>1-2 hours after treatment</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Fever</p>\n<p>- Rigors</p>\n<p>- Hypotension</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"509310d4411692777199f2ffdb7769\">Symptomatic</span> treatment</p>\n<p>- Antipyretics</p>\n<p>- IV fluids if needed</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Late (Serum Sickness) Reaction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>5-24 days (mean 7 days) after ASV</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Fever</p>\n<p>- Itching</p>\n<p>- Urticaria</p>\n<p>- Arthralgia</p>\n<p>- Lymphadenopathy</p>\n<p>- Proteinuria</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Antihistamines</p>\n<p>- Corticosteroids (e.g., prednisolone) for 5-7 days</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4f08f863"
+    },
+    {
+      "text": "A 28-year-old farmer is brought to the emergency department 30 minutes after being bitten by a snake on his right leg. He presents with severe pain and swelling at the bite site, and examination reveals two puncture wounds. His blood pressure is 90/60 mmHg, and he has gingival bleeding. The 20-minute whole blood clotting time test shows that the blood is incoagulable. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer 50 ml of polyvalent antivenom",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer 150-200 ml of polyvalent antivenom",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Apply a tight tourniquet above the bite site",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Administer heparin to manage coagulopathy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Administer 150-200 ml of polyvalent antivenom",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:674px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Details</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Indications/Notes</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>First Aid</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>-Do not allow the victim to walk (Carry)</p>\n<p>-Avoid tourniquets, except in specific cases(No)</p>\n<p>- Reassure patient</p>\n<p>- <span class=\"customMeta\" data-dictid=\"87bf05a56616927771893b9550e8ad\">Immobilize</span> bitten limb</p>\n<p>- Transport to the hospital quickly</p>\n<p>- Tell the doctor about any <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Tourniquets only for severe elapid/sea snake bites with >0.5h but <2-3h transport time</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Evaluation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- Check for signs of envenomation</p>\n<p>- Monitor vital signs</p>\n<p>- Perform 20-minute <span class=\"customMeta\" data-dictid=\"60d609888b169277720258496ef45a\">whole blood</span> <span class=\"customMeta\" data-dictid=\"58c17961c71692777184ab55a9c4df\">clotting</span> time</p>\n<p>- Check <span class=\"customMeta\" data-dictid=\"42f1e4deb8169277718412c0681a54\">coagulation</span> profile, CPK, <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> function</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Incoagulable blood indicates <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> <span class=\"customMeta\" data-dictid=\"3e641db3d416927771871043236d4b\">envenomation</span> by Viperidae</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Antivenom Therapy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- <strong>Mild: </strong>50 ml</p>\n<p>- <strong>Moderate: </strong>50-100 ml</p>\n<p>- <strong>Severe:</strong> 150-200 ml</p>\n<p>Effective against the 4 most important <span class=\"customMeta\" data-dictid=\"6ab7a16d751692777201645703100e\">venomous</span> snakes in India, namely, Cobra, Common Krait, Russell's <span class=\"customMeta\" data-dictid=\"efbb05601b1692777202641ca3e610\">viper</span> and saw-scaled viper.</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Indications:</strong></p>\n<p>- Haemostatic abnormalities</p>\n<p>- Neurotoxicity</p>\n<p>- <span class=\"customMeta\" data-dictid=\"e2b5f013011692777183ea1b11ed9c\">Cardiovascular</span> dysfunction</p>\n<p>- Impaired consciousness</p>\n<p>- Rhabdomyolysis</p>\n<p>- Extensive local swelling</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Antivenom Administration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"e63a499e5716927771860681cef17d\">Dilute</span> in 5 ml/kg body weight of <span class=\"customMeta\" data-dictid=\"28f696d61216927771904dbe51b33b\">isotonic</span> saline/5% Dextrose</p>\n<p>- Infuse over 1-2 hours</p>\n<p>- Monitor for <span class=\"customMeta\" data-dictid=\"2c7e1ce33316927771892ce1da8276\">hypersensitivity</span> reactions</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Repeat if severe signs persist after 1-2 hours or if <span class=\"customMeta\" data-dictid=\"254d99e23d1692777184c9e13d0b18\">coagulability</span> is not restored within 6 hours</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Supportive Care</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"64dfe4fca51692777200a7ffbc44bb\">Tetanus</span> prophylaxis</p>\n<p>- Antibiotics (if severe local reaction)</p>\n<p>- Manage <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> paralysis</p>\n<p>- Fresh frozen plasma/cryoprecipitates for severe bleeding</p>\n</td>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p>Avoid heparin, corticosteroids, and EDTA.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2100c422"
+    },
+    {
+      "text": "A 32-year-old farmer is brought to the emergency department after being bitten by a snake while working in his field in rural India. He presents with severe local pain, swelling, and gum bleeding. Within 2 hours, he develops diplopia, dysphagia, and progressive weakness in his limbs. Laboratory tests show prolonged prothrombin time and decreased fibrinogen levels. Which of the following snakes is most likely responsible for this envenomation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cobra",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Russell's viper",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Saw-scaled viper",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Krait",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Russell's viper",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/namPT4weS8gxCQKcOC4U1744276617.png",
+        "https://image.prepladder.com/notes/gtYy5jkrJWT65YarQMq91744276648.png",
+        "https://image.prepladder.com/notes/L5DhRtNZb5mMnqz59A2x1744276894.png",
+        "https://image.prepladder.com/notes/wC2hFdI5IwgoDAWZM7kX1744276922.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:1000px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Cobra </strong></p>\n<p style=\"text-align:center\"><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Krait </strong></p>\n<p style=\"text-align:center\"><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Russell's <span class=\"customMeta\" data-dictid=\"efbb05601b1692777202641ca3e610\">Viper</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Saw-scaled <span class=\"customMeta\" data-dictid=\"efbb05601b1692777202641ca3e610\">Viper</span> </strong></p>\n<p style=\"text-align:center\"><strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\"><strong>Image</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Cobra\" data-author=\"Hari Prasad\" data-hash=\"8410\" data-license=\"CC BY SA 2.0\" data-source=\"https://commons.wikimedia.org/wiki/File:King-Cobra.jpg\" data-tags=\"April2025\" height=\"161\" src=\"https://image.prepladder.com/notes/namPT4weS8gxCQKcOC4U1744276617.png\" width=\"160\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Krait\" data-author=\"Sp.herp\" data-hash=\"8411\" data-license=\"CC BY SA 3.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Bungarus_lividus,_Lesser_Black_Krait_at_Jalpaiguri,_India.jpg\" data-tags=\"April2025\" height=\"158\" src=\"https://image.prepladder.com/notes/gtYy5jkrJWT65YarQMq91744276648.png\" width=\"214\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Russel's Viper\" data-author='\" AChawla \"' data-hash=\"8414\" data-license=\"CC BY SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Russell%27s_viper\" data-tags=\"April2025\" height=\"155\" src=\"https://image.prepladder.com/notes/L5DhRtNZb5mMnqz59A2x1744276894.png\" width=\"172\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n<td style=\"border-color:#000000; border-style:solid; border-width:1px; text-align:center; vertical-align:top\">\n<figure class=\"caption_element\"><img alt=\"Saw Scaled Viper\" data-author=\"Ashahar alias Krishna Khan\" data-hash=\"8416\" data-license=\"CC BY-SA 4.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Saw-scaled_viper_Echis_carinatus_by_Krishna_Khan_Amravati.jpg\" data-tags=\"April2025\" height=\"99\" src=\"https://image.prepladder.com/notes/wC2hFdI5IwgoDAWZM7kX1744276922.png\" width=\"171\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Venom Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neurotoxic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neurotoxic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemotoxic and Neurotoxic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hemotoxic</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Local Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mild to moderate pain and swelling</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Minimal local symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe pain, swelling, and tender lymphadenopathy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe pain and swelling</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Neurological Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- Ptosis</p>\n<p>- <span class=\"customMeta\" data-dictid=\"72fa9105b916927771945aef35e8ed\">Paralysis</span> of jaw/tongue</p>\n<p>- Pooling of secretions</p>\n<p>- <span class=\"customMeta\" data-dictid=\"5b09a1161b169277719460978e4cc1\">Paradoxical</span> respiration</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- Ptosis</p>\n<p>- <span class=\"customMeta\" data-dictid=\"72fa9105b916927771945aef35e8ed\">Paralysis</span> of jaw/tongue</p>\n<p>- Pooling of secretions</p>\n<p>- <span class=\"customMeta\" data-dictid=\"5b09a1161b169277719460978e4cc1\">Paradoxical</span> respiration</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- Diplopia</p>\n<p>- Dysphagia</p>\n<p>- Dysarthria/ dysphonia</p>\n<p>- <span class=\"customMeta\" data-dictid=\"0cf8ac70611692777186b133d027f6\">Descending</span> paralysis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Generally not present</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Bleeding Manifestations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"09980563461692777188b0de904031\">Gum</span> bleeding</p>\n<p>- Epistaxis</p>\n<p>- Hematuria</p>\n<p>- Retro-peritoneal bleeding</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"09980563461692777188b0de904031\">Gum</span> bleeding</p>\n<p>- Epistaxis</p>\n<p>- Hematuria</p>\n<p>- Can persist for weeks</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Renal Complications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> <span class=\"customMeta\" data-dictid=\"98d387b7bd1692777201278b27be72\">tubular</span> necrosis</p>\n<p>- <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> failure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Possible, but less common</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Coagulation Profile</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Usually normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Usually normal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- Prolonged PT/INR</p>\n<p>- Decreased fibrinogen</p>\n<p>- Thrombocytopenia</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- Prolonged PT/INR</p>\n<p>- Decreased fibrinogen</p>\n<p>- Thrombocytopenia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>20 WBCT Test</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal (solid clot)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal (solid clot)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Abnormal (rapid <span class=\"customMeta\" data-dictid=\"5e0b40993316927771844dbf382689\">clot</span> degradation)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Abnormal (rapid <span class=\"customMeta\" data-dictid=\"5e0b40993316927771844dbf382689\">clot</span> degradation)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Onset of Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rapid onset of neurological symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Often delayed onset, may occur during sleep</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rapid onset of local and <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rapid onset of local symptoms</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b9652137"
+    },
+    {
+      "text": "A 60-year-old woman is admitted to the ICU with sepsis secondary to a urinary tract infection. After 48 hours, she develops acute hypoxemic respiratory failure. Her chest X-ray shows bilateral infiltrates, and her PaO2/FiO2 ratio is 180 mmHg on PEEP of 8 cm H2O. An echocardiogram shows normal cardiac function. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Initiate high-frequency oscillatory ventilation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start inhaled nitric oxide therapy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Begin low tidal volume ventilation with 6 mL/kg predicted body weight",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Administer high-dose corticosteroids",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Begin low tidal volume ventilation with 6 mL/kg predicted body weight",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:608px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Diagnosis (Berlin Definition)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Timing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p>Within 1 week of known clinical <span class=\"customMeta\" data-dictid=\"c0eabf6972169277719023f6f2ca31\">insult</span> or new/worsening <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> symptoms</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Chest Imaging</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p>Bilateral opacities not fully explained by effusions, collapse, or nodules</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Origin of Edema</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p>Respiratory failure not fully explained by <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> failure or fluid overload</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Oxygenation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li><strong>Mild (Grade A):</strong> 200 mmHg < PaO2/FiO2 \u2264 300 mmHg (with <span class=\"customMeta\" data-dictid=\"9abcb9edc11692777195dac40cd470\">PEEP</span> or <span class=\"customMeta\" data-dictid=\"ae6c057fde1692777185b85f0eca18\">CPAP</span> \u2265 5 cm H2O)</li>\n<li><strong>Moderate (Grade B):</strong> 100 mmHg < PaO2/FiO2 \u2264 200 mmHg</li>\n<li><strong>Severe (Grade C & D): </strong>PaO2/FiO2 \u2264 100 mmHg</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Management Recommendations</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Grade A (Mild)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li>Low <span class=\"customMeta\" data-dictid=\"9de1765e531692777200d737a38c98\">tidal</span> volume <span class=\"customMeta\" data-dictid=\"a58f1f33f81692777201ad5e0d60ca\">ventilation</span> (4\u20138 ml/kg predicted body weight) and lower inspiratory pressures (plateau pressure\u2009<\u200930 cm H2O)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Grade B (Moderate)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li>Minimized <span class=\"customMeta\" data-dictid=\"7a4ced7da71692777195938424f299\">plateau</span> and driving pressures</li>\n<li>High <span class=\"customMeta\" data-dictid=\"9abcb9edc11692777195dac40cd470\">PEEP</span> (35\u201350 cmH2O for 20\u201340 s)</li>\n<li>Prone positioning</li>\n<li>Recruitment maneuvers</li>\n<li>ECMO in selected patients</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Grade C (Severe)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li>Neuromuscular <span class=\"customMeta\" data-dictid=\"70d039f1401692777183bb2f23a21a\">blockade</span> in early ARDS</li>\n<li>Conservative fluid management</li>\n<li>Inhaled vasodilators as rescue therapy</li>\n<li>Avoid routine use of <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> catheter</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Grade D (Severe)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li>Avoid high-frequency oscillatory ventilation</li>\n<li>Avoid \u03b22-agonists for improving outcomes</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8df8bdc8"
+    },
+    {
+      "text": "A 45-year-old man is admitted to the ICU with severe pneumonia. He develops worsening respiratory symptoms and bilateral infiltrates on chest X-ray within 5 days. Which of the following best describes the pathophysiological mechanism occurring in the alveoli during the early phase of this patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased surfactant production",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Thickening of the alveolar basement membrane",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of protein-rich edema fluid",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fibrosis of the alveolar walls",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Accumulation of protein-rich edema fluid",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:900px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Category</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Details</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Direct Lung Injury Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li>Pneumonia</li>\n<li>Aspiration of <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> contents</li>\n<li>Pulmonary contusion</li>\n<li>Near-drowning</li>\n<li>Toxic <span class=\"customMeta\" data-dictid=\"0b1500fcd816927771900b59d16bde\">inhalation</span> injury</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<p><strong>Indirect Lung Injury Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li>Sepsis</li>\n<li>Severe trauma</li>\n<li>Multiple bone fractures</li>\n<li>Pancreatitis</li>\n<li>Burns</li>\n<li>Multiple transfusions</li>\n<li>Drug overdose</li>\n<li>Cardiopulmonary bypass</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\"><strong>Pathophysiology</strong></td>\n<td style=\"border-bottom:1px solid #030712; border-left:1px solid #030712; border-right:1px solid #030712; border-top:1px solid #030712; vertical-align:top\">\n<ul>\n<li><strong>Exudative Phase (0-7 days):</strong></li>\n</ul>\n<p>- Injury to alveolar <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> endothelial cells and <span class=\"customMeta\" data-dictid=\"946a9a6be11692777201eb269e8327\">type I</span> pneumocytes</p>\n<p>- Increased <span class=\"customMeta\" data-dictid=\"89e3252d5b16927771833fb9b432ae\">capillary</span> permeability</p>\n<p>- Accumulation of protein-rich <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> fluid in <span class=\"customMeta\" data-dictid=\"0dd428c12116927771819285c8849c\">alveoli</span> and interstitium</p>\n<p>- Formation of <span class=\"customMeta\" data-dictid=\"a2ce88e8a0169277718988f5bc31b8\">hyaline</span> membranes</p>\n<p>- <span class=\"customMeta\" data-dictid=\"000d23188716927771936c5f2fe74e\">Neutrophil</span> <span class=\"customMeta\" data-dictid=\"669bdcb3111692777190e018ae930e\">infiltration</span> and activation</p>\n<p>- Release of pro-inflammatory cytokines (e.g., TNF-\u03b1, IL-1, IL-8)</p>\n<p>- Impaired gas exchange and <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> lung compliance</p>\n<ul>\n<li><strong>Proliferative Phase (7-21 days):</strong></li>\n</ul>\n<p>- <span class=\"customMeta\" data-dictid=\"8eedb6cec61692777196a6a3b93d3f\">Proliferation</span> of <span class=\"customMeta\" data-dictid=\"bd04ba63bc1692777201f54e0ee060\">type II</span> pneumocytes</p>\n<p>- Resolution of alveolar edema</p>\n<p>- Early fibroproliferation</p>\n<ul>\n<li><strong>Fibrotic Phase (>21 days):</strong></li>\n</ul>\n<p>- <span class=\"customMeta\" data-dictid=\"d215f4a56c16927771842f34a24156\">Collagen</span> deposition and <span class=\"customMeta\" data-dictid=\"21e2d5a70616927772021fcdec0ca9\">fibrosis</span> in some patients</p>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Acute <span class=\" custommeta\"=\"\" data-dictid=\"cfad80a0f716927771979aae100f95\"/>Respiratory <span class=\"customMeta\" data-dictid=\"afafb9026e1692777186e3dd168fa8\">Distress</span> Syndrome\" data-author=\"\"Swati Haldar Snehal Jadhav Vandana Gulati David J Beale Acharya Balkrishna Anurag Varshney Enzo Palombo Avinash Karpe Rohan Mahendra Shah \"\" data-hash=\"8405\" data-license=\"CC BY 4.0\" data-source=\"https://www.researchgate.net/figure/Figur-e-4-T-he-micr-obiome-imm-une-pr-oteins-cellular-inter-action-in-the-lungs-Cr_fig2_373601839\" data-tags=\"April2025\" height=\"502\" src=\"https://image.prepladder.com/notes/EN1m96XJNqg4rEE8VAaZ1744275953.png\" width=\"647\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c868e9e8"
+    },
+    {
+      "text": "A 68-year-old male presents to the emergency department with fever, tachypnea, and altered mental status. Laboratory results show: WBC: 14,000/\u03bcL Serum lactate: 1.8 mmol/L Creatinine: 1.8 mg/dL (baseline 0.9 mg/dL) Chest X-ray reveals a right lower lobe infiltrate. The patient requires 5 L/min of oxygen to maintain SpO2 > 90%. According to the Sepsis-3 criteria, which of the following is the most accurate diagnosis for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systemic Inflammatory Response Syndrome (SIRS)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sepsis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Severe sepsis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Septic shock",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Sepsis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "312c744b"
+    },
+    {
+      "text": "A 35-year-old male trauma patient is undergoing a massive transfusion protocol (MTP) following a severe motor vehicle accident. Two hours into the MTP, he developed acute respiratory distress. A chest X-ray reveals bilateral infiltrates. His blood pressure is within normal limits, and BNP (Brain Natriuretic Peptide) levels are not elevated. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transfusion-associated circulatory overload (TACO)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Transfusion-related acute lung injury (TRALI)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Acute respiratory distress syndrome (ARDS)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cardiogenic pulmonary edema",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Transfusion-related acute lung injury (TRALI)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:900px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TRALI (Transfusion-Related <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> Lung Injury)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TACO (Transfusion-Associated <span class=\"customMeta\" data-dictid=\"f3739d892c1692777184b2e134615c\">Circulatory</span> Overload)</strong><strong> (Option A)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acute non-cardiogenic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> following blood transfusion.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acute <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> due to <strong>volume overload</strong> from blood transfusion.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Onset</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Usually<strong> within 6 hours</strong> of transfusion.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can occur during or up to 12 hours post-transfusion.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathophysiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Immune-mediated injury to <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> capillaries leads to fluid leakage into alveoli.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Volume <span class=\"customMeta\" data-dictid=\"9d02a99d051692777194aa3375023b\">overload</span> causes increased <span class=\"customMeta\" data-dictid=\"20b745c46c1692777189374f036950\">hydrostatic</span> pressure in the <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> circulation.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sudden onset of dyspnea, hypoxemia, fever, hypotension.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dyspnea, orthopnea, rapid weight gain, <strong>hypertension</strong>.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Physical Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Crackles, tachypnea, no signs of fluid <span class=\"customMeta\" data-dictid=\"9d02a99d051692777194aa3375023b\">overload</span> (e.g., <span class=\"customMeta\" data-dictid=\"af7ff6c5fd1692777190f88c20b21b\">jugular</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> distension).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Crackles, tachypnea, signs of fluid <span class=\"customMeta\" data-dictid=\"9d02a99d051692777194aa3375023b\">overload</span> (e.g., elevated JVP, <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> edema).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Chest <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> Findings</strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u00a0</p>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Bilateral <span class=\" custommeta\"=\"\" data-dictid=\"89275101301692777186567d1912a0\"/>diffuse <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> infiltrates\" data-author=\"Glick Y\" data-hash=\"8403\" data-license=\"NA\" data-source=\"https://radiopaedia.org/cases/transfusion-related-acute-lung-injury-trali\" data-tags=\"April2025\" height=\"297\" src=\"https://image.prepladder.com/notes/DUQdUbLnFfwyS2cHNBnG1744275407.png\" width=\"238\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n<p><strong>Bilateral <span class=\"customMeta\" data-dictid=\"89275101301692777186567d1912a0\">diffuse</span> <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> infiltrates (non-cardiogenic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema).</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">Cardiomegaly, <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema, pleural effusions (cardiogenic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema).</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:150px\">\n<p><strong>Blood Pressure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:267px\">\n<p>Hypotensive or normal.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:295px\">\n<p>Hypertensive.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:150px\">\n<p><strong>Laboratory Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:267px\">\n<p>Neutrophilia, leukocytosis, and <strong>anti-HLA antibodies in donor blood</strong> (in some cases).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:295px\">\n<p><strong>Elevated BNP</strong> (brain <span class=\"customMeta\" data-dictid=\"bd16654d3e169277719371077d7a8c\">natriuretic</span> peptide), no specific markers for TACO.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:150px\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:267px\">\n<p>Supportive care (oxygen, <span class=\"customMeta\" data-dictid=\"b45075a0e1169277719252465ca5ba\">mechanical ventilation</span> if necessary), no diuretics.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:295px\">\n<p>Diuretics (e.g., furosemide), oxygen, stopping or slowing the transfusion.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:150px\">\n<p><strong>Prevention</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:267px\">\n<p>Use of leukocyte-reduced or HLA-matched blood products.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:295px\">\n<p>Slow <span class=\"customMeta\" data-dictid=\"cbb73554631692777200444a9ea263\">transfusion</span> rate, avoid <span class=\"customMeta\" data-dictid=\"7a1ae24f701692777187a7f60bbd9f\">excess</span> volume, and monitor for fluid overload.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0aafef1a"
+    },
+    {
+      "text": "A 35-year-old female presents with severe postpartum hemorrhage. Her vitals are: BP- 70/40 mmHg, HR- 135/min, RR- 28/min, Blood loss- Approximately 2L, ABC score- 3 Massive Transfusion Protocol is initiated. After round 1 of transfusion (4 units PRBC + 2 units FFP), the patient continues to bleed. Which of the following is the most appropriate next step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer Factor VIIa immediately",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Give 4 units PRBC, 4 units FFP, and 1 unit SDP in Round 2",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Only give additional PRBC to correct anemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Start cryoprecipitate without checking fibrinogen levels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Give 4 units PRBC, 4 units FFP, and 1 unit SDP in Round 2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "6f04a722"
+    }
+  ]
+}

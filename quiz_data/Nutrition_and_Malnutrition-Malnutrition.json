@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "id": "test33",
+    "title": "Nutrition_and_Malnutrition-Malnutrition",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 2 y/o from a low-income community presents with poor growth. The child\u2019s height for age is below -2 SDS on WHO standards, but weight-for-height is normal. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Severe Acute Malnutrition (SAM) B",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Moderate Stunting",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Moderate Wasting",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Severe Underweight",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Moderate Stunting",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:662px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>WHO <span class=\"customMeta\" data-dictid=\"dda6ab11271692777184264b752d39\">Classification</span> of Malnutrition</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderately underweight</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weight-for-age is between -2 and -3 SDS.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severely underweight</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weight-for-age is < -3 SDS.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderately wasted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weight-for-length/height is between -2 and -3 SDS.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severely wasted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Weight-for-length/height is < -3 SDS.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> Malnutrition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Weight-for-length/height or BMI-for-age is between -2 and -3 SDS.</li>\n<li>Mid-upper arm <span class=\"customMeta\" data-dictid=\"0e190b1ed716927771848781259060\">circumference</span> (MUAC) is between 11.5 cm and 12.5 cm.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severe <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">Acute</span> Malnutrition:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Weight-for-length/height or BMI-for-age is less than -3SDS.</li>\n<li>MUAC is less than 11.5 cm.</li>\n<li>The presence of <span class=\"customMeta\" data-dictid=\"625feb7e3a1692777183aa9d923cfd\">bilateral</span> <span class=\"customMeta\" data-dictid=\"a8c53e6875169277719588cd709854\">pitting</span> oedema.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderately Stunted (Moderate Chronic Malnutrition)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Length/height-for-age is between -2 and -3 SDS.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severely Stunted (Severe Chronic Malnutrition)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Length/height-for-age is < -3 SDS.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/hlfYoI488XwmcRrLu1051743079883.mp3",
+      "video": "",
+      "uid": "61dae8cc"
+    },
+    {
+      "text": "A 2 year old malnourished child is assessed using mid-upper arm circumference (MUAC), and the measurement is 10 cm. What does this indicate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moderate Stunting",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Severe Wasting",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chronic Malnutrition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Obesity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Severe Wasting",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cPiJnqBVNWOXhHpEKZla1743079981.mp3",
+      "video": "",
+      "uid": "61a28eff"
+    },
+    {
+      "text": "A 2 y/o child from a rural area presents to the clinic with severe wasting, prominent ribcage, and a \"baggy pants\" appearance due to loose skin on the buttocks. Despite the child's emaciated state, they remain mentally alert. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kwashiorkor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Marasmus",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mild Malnutrition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Obesity",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Marasmus",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/TgmV4ddVpooGNrPEvLD71739398386.png",
+        "https://image.prepladder.com/content/4BY1W1nGt48LCa5Hjcfz1739398399.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3><strong>Kwashiorkor </strong><strong>(Option A ruled out)</strong></h3>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<h3><strong>Marasmus </strong><strong>(Option B)</strong></h3>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pitting Edema:</strong> Characterized by swelling, often starting in the legs and feet, leaving a persistent <span class=\"customMeta\" data-dictid=\"cdb5523e491692777190f8bc3775ff\">indentation</span> when pressed.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severe Wasting:</strong> The child appears extremely thin, with prominent bones and little body fat.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Sugar Baby Appearance:</strong> The child may look deceptively healthy due to oedema, despite being malnourished.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Monkey Facies:</strong> A sunken appearance of the cheeks due to loss of fat, giving an aged look.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Muscle Wasting:</strong> Despite the swollen appearance, muscle loss is present, leading to weakness and hypotonia.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Baggy Pants Appearance:</strong> Loose, sagging skin around the <span class=\"customMeta\" data-dictid=\"a0af4564cf1692777183e503d226f6\">buttocks</span> caused by significant muscle and fat loss.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mental and Neurological Symptoms:</strong> The child is apathetic, irritable, and may have <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> difficulties.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alertness: </strong>Children with <span class=\"customMeta\" data-dictid=\"122de6274d169277719141ab2c8004\">marasmus</span> remain mentally alert.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hair Changes:</strong> Hair may lose colour, become thin, and show <span class=\"customMeta\" data-dictid=\"1b5a7ceea716927771815e7283e571\">alternating</span> bands of colour (\"flag sign\").</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Absence of Edema:</strong> Unlike kwashiorkor, <span class=\"customMeta\" data-dictid=\"122de6274d169277719141ab2c8004\">marasmus</span> does not involve <span class=\"customMeta\" data-dictid=\"e3d212ebd316927771996e0c472d4a\">swelling</span> or oedema.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Skin Changes:</strong> Includes hyperpigmentation, peeling skin (\"flaky paint\" appearance), and colour changes, particularly in the buttocks, perineum, and thighs.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypoglycemia Risk:</strong> The liver's <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> capacity to produce <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> increases the risk of low blood sugar.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gastrointestinal Issues:</strong> Anorexia, vomiting, and <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> distension. <strong>Anaemia is</strong> present due to nutritional deficiencies.</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypothermia Risk:</strong> The child may struggle to maintain <span class=\"customMeta\" data-dictid=\"4a7581c8b01692777183819f38c633\">body temperature</span> due to energy depletion.</p>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"331\" src=\"https://image.prepladder.com/content/TgmV4ddVpooGNrPEvLD71739398386.png\" width=\"196\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"331\" src=\"https://image.prepladder.com/content/4BY1W1nGt48LCa5Hjcfz1739398399.png\" width=\"223\"/></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>WELLCOME <span class=\"customMeta\" data-dictid=\"dda6ab11271692777184264b752d39\">CLASSIFICATION</span> (Protein <span class=\"customMeta\" data-dictid=\"5f526a682c16927771831cac5b3711\">Calorie</span> Malnutrition)</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Weight (% of standard)</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Edema</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Present</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Absent</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>60-80</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kwashiorkor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Undernourished</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><60</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Marasmic Kwashiorkor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Marasmus</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/185ZCZ7fy6NhBYAhalbQ1743080186.mp3",
+      "video": "",
+      "uid": "400d4e82"
+    },
+    {
+      "text": "A 14-month-old child is brought to the clinic with concerns about poor growth. The child is significantly underweight, and O/E, the mid-upper arm circumference (MUAC) measures 11 cm. There is also noticeable swelling in both feet. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mild Acute Malnutrition",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Severe Acute Malnutrition",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Moderate Acute Malnutrition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chronic Malnutrition",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Severe Acute Malnutrition",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/yVA9N28NMhLmeg4xZAue1739398597.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/OKQpnEGbKpfh161A9yu71743080302.mp3",
+      "video": "",
+      "uid": "8808ccf6"
+    },
+    {
+      "text": "A 2 y/o child is diagnosed with severe acute malnutrition (SAM) and is admitted to the hospital. On admission, the child is found to have hypoglycemia and starts showing signs of hypothermia. Which of the following is the most likely complication of SAM that the child is experiencing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refeeding Syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Electrolyte Imbalance",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dehydration",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metabolic Disturbances",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Metabolic Disturbances",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/H1H4ZmkdBGtvU362rp4I1739398692.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/JxY9A60C6VDok0wvlo9D1743124865.mp3",
+      "video": "",
+      "uid": "bd5eca5d"
+    },
+    {
+      "text": "A 10-month-old with SAM was treated with F75 and transitioned to F100 and RUTF after the oedema resolved and appetite returned. The child has gained 6 grams/kg/day. Which of the following is NOT an appropriate discharge criterion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The child has shown consistent weight gain of more than 5 grams/kg/day for at least 3 consecutive days.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The child's oedema has resolved.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The child has been switched from F75 to F100.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "The child has received all necessary vaccinations.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. The child has been switched from F75 to F100.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SAM- Nutritional Rehabilitation Phase and Discharge</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Nutritional Rehabilitation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Entry to Rehabilitation Phase:</strong></p>\n<ul>\n<li>Indicated by <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> or minimal oedema and a return of appetite.</li>\n</ul>\n<p><strong>Transition Process:</strong></p>\n<ul>\n<li><strong>Duration:</strong> Over 3 days to prevent <span class=\"customMeta\" data-dictid=\"acd4d513d216927771971a62ca95db\">refeeding</span> syndrome.</li>\n<li><strong>Method:</strong> Replace F75 with an equal volume of F100 for 2 days.</li>\n<li><strong>Gradual Increase:</strong> Increase feed volume by 10 mL at each <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> until some feed remains uneaten (around 200 mL/kg/day).</li>\n</ul>\n<p><strong>Post-Transition Feeding:</strong></p>\n<ul>\n<li><strong>Feeds:</strong> Provide unlimited amounts of high-energy, high-protein milk formula like F100 (100 <span class=\"customMeta\" data-dictid=\"bf7703756016927771905a4e6a2823\">kcal</span> and 3 g protein per 100 mL), ready-to-use <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> food (RUTF), or modified family foods with similar energy and protein content. <strong>(Option C)</strong></li>\n<li><strong>Calories and Protein:</strong> Offer 150-220 kcal/kg/day and 4-6 g protein/kg/day.</li>\n<li><strong>Supplements:</strong> Continue potassium, magnesium, and micronutrients. Add iron at 3 mg/kg/day.</li>\n<li><strong>Breastfeeding:</strong> Encourage continued <span class=\"customMeta\" data-dictid=\"5af45ba59c16927771837f3aa7b6d9\">breastfeeding</span> if applicable.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RUTF</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Standard ready-to-use <span class=\"customMeta\" data-dictid=\"8dfaeedbf91692777200561b2b1d2f\">therapeutic</span> food (RUTF) usually contains milk powder, sugar, peanut butter, vegetable oil, vitamins, and minerals.</li>\n<li>It has a long shelf life and low moisture content- preventing the growth of pathogens.</li>\n</ul>\n<p><strong>When using RUTF:</strong></p>\n<ul>\n<li>Begin with small, frequent meals of RUTF, aiming for 8 meals per day initially and then reducing to 5\u20136 meals per day. If the child cannot consume the full RUTF portion at each meal, supplement with F-75 to complete the meal until they can eat the full amount of RUTF.</li>\n<li>If the child is unable to consume at least half of the recommended RUTF amount within 12 hours, discontinue RUTF and provide F-75 instead. Reintroduce RUTF after 1\u20132 days and continue this approach until the child can consume sufficient RUTF.</li>\n<li>If the child is still breastfeeding, offer breast milk before each RUTF feeding.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Discharge criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>All medical issues, including oedema, are resolved for 2 weeks <strong>(Option B)</strong><strong> </strong></li>\n<li>They have completed <span class=\"customMeta\" data-dictid=\"f4eacdbe7b1692777194d7caa2017d\">parenteral</span> <span class=\"customMeta\" data-dictid=\"ff6b4f4d491692777181a02bad075e\">antibiotic</span> treatment and the infant is clinically stable and alert.</li>\n<li>The infant is either <span class=\"customMeta\" data-dictid=\"5af45ba59c16927771837f3aa7b6d9\">breastfeeding</span> effectively or <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> well.</li>\n<li>The weight gain is satisfactory, such as being above the <span class=\"customMeta\" data-dictid=\"979385c98a1692777192fb1721a16e\">median</span> of WHO growth <span class=\"customMeta\" data-dictid=\"12c4510e191692777201c23ec126a3\">velocity</span> standards or gaining more than 5g/kg/day for at least 3 consecutive days. <strong>(Option A)</strong></li>\n<li>Before discharge, check and provide any missing vaccinations and routine interventions as needed. Ensure that mothers or caregivers are connected with appropriate community follow-up and support. <strong>(Option D)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/99Y7SuVMDaEUHJJ601Wn1743125005.mp3",
+      "video": "",
+      "uid": "0add94c9"
+    },
+    {
+      "text": "Which of the following is a target of POSHAN Abhiyaan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase the average weight of children by 5 kg per year.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Achieve a 2% annual reduction in under-nutrition.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Eliminate all forms of malnutrition by 2022.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Provide free school meals to all children.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Achieve a 2% annual reduction in under-nutrition.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/Jbw00ll9YgMYZSUG3jZt1739398894.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/WEvhYIHW7zs3juFoRyb51743125139.mp3",
+      "video": "",
+      "uid": "37e38e78"
+    },
+    {
+      "text": "Which of the following features correctly describes the conditions depicted in images 1 and 2? a) Severe wasting b) Flaky paint dermatitis c) Baggy pants d) Skin and bone appearance e) Nutritional anaemia f) Sugar baby g) Flag sign h) Monkey facies",
+      "options": [
+        {
+          "label": "A",
+          "text": "1- a,d,e,f; 2- b,c,g,h",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1- b,d,g,h; 2- a,c,e,f",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1- a,b,c,e; 2- d,f,g,h",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1- a,c,d,h; 2- b,e,f,g",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1- a,c,d,h; 2- b,e,f,g",
+      "question_images": [
+        "https://image.prepladder.com/content/uWSjKZgfoUHqmSP68aVf1739398937.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/ospMECsO76OOHYTq3Trr1739399127.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>MARASMUS</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>KWASHIORKOR</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Severe <span class=\"customMeta\" data-dictid=\"9971eacaaf1692777202d2ece15a2a\">wasting</span> of fat and muscle.</li>\n<li>Often due to <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"31f866588e1692777199c7b7cd3cc0\">starvation</span> or illness secondary to poor nutritional status.</li>\n<li>Severe <span class=\"customMeta\" data-dictid=\"122de6274d169277719141ab2c8004\">marasmus</span> is a <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> of <strong>severe <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"cbd2d1fd521692777191d00c1a4ede\">malnutrition</span> (SAM).</strong></li>\n<li><strong>Skin-and-bones </strong>appearance.</li>\n<li><strong>Monkey facies</strong> due to the loss of <span class=\"customMeta\" data-dictid=\"d72626dd5c1692777183f1c92b2deb\">buccal</span> fat pads.</li>\n<li>Baggy pants appearance- due to <span class=\"customMeta\" data-dictid=\"a90325236016927771917309c2e917\">loose skin</span> hanging from the buttocks.</li>\n<li>Loss of <strong>axillary fat pad</strong>.</li>\n<li>Despite the severe wasting, affected children may appear <strong>alert</strong>.</li>\n<li>No<strong> oedema</strong>.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pitting oedema</strong> present.</li>\n<li><strong>\u201cWell-fed\u201d / \u201cSugar baby\u201d </strong>appearance of the child d/t oedema.</li>\n<li><strong>Oedema </strong>can be mild to severe, representing<strong> 5-20% of body weight</strong>.</li>\n<li>Muscle <span class=\"customMeta\" data-dictid=\"9971eacaaf1692777202d2ece15a2a\">wasting</span> is present.</li>\n<li>Flaky pain <span class=\"customMeta\" data-dictid=\"fedc53b3161692777186553c8f8d7d\">dermatitis</span> present (peeling skin).</li>\n<li>Mucous <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> lesions- <strong>smooth tongue, cheilosis</strong>, <span class=\"customMeta\" data-dictid=\"777420204116927771812106969c5e\">angular</span> stomatitis.</li>\n<li><strong>Flag sign</strong> in hair- <span class=\"customMeta\" data-dictid=\"1b5a7ceea716927771815e7283e571\">alternating</span> <span class=\"customMeta\" data-dictid=\"85dafbf32f1692777195b9d9f035d8\">pigmented</span> bands. Hair is sparse.</li>\n<li>Unhappiness, apathy, <strong>irritability</strong>, and <span class=\"customMeta\" data-dictid=\"11a5eea407169277720251b8446fa7\">feeding</span> difficulties.</li>\n<li>Anorexia, vomiting, <span class=\"customMeta\" data-dictid=\"1665a40f1016927771801899eaed5d\">abdominal</span> distension, and diarrhoea.</li>\n<li><strong>Nutritional anaemia</strong> is typically present.</li>\n<li>Cardiovascular issues include cold, pale extremities, prolonged <span class=\"customMeta\" data-dictid=\"337d16dac5169277718474b97f6e4a\">circulation</span> time, bradycardia, and hypotension.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/b51QG9uGsjlRZ0c4o3vH1743125313.mp3",
+      "video": "",
+      "uid": "2449ba5b"
+    },
+    {
+      "text": "Based on the image provided, which of the following statements is TRUE?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measure from the acromion to the olecranon and mark the midpoint.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "MUAC assesses the nutritional status of children aged three months to five years.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "In Shakir\u2019s tape, the Yellow zone indicates 11.5 to 13.5 cm.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "In Shakir\u2019s tape, the Green zone indicates >11.5 cm.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Measure from the acromion to the olecranon and mark the midpoint.",
+      "question_images": [
+        "https://image.prepladder.com/content/vG8kShORJFPcNJO1W1SR1739399175.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MID UPPER ARM <span class=\"customMeta\" data-dictid=\"0e190b1ed716927771848781259060\">CIRCUMFERENCE</span> (MUAC)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>MUAC is a vital measurement used primarily to assess the nutritional status of children aged 6 months to 5 years. <strong>(Option B)</strong></li>\n<li>Quick and effective screening tool.</li>\n<li>In infants under 6 months old, the Mid-Upper Arm <span class=\"customMeta\" data-dictid=\"0e190b1ed716927771848781259060\">Circumference</span> (MUAC) is not utilized as a measurement criterion. (G88)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Procedure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ensure the child is standing straight with their left arm free of clothing. The arm should be bent at a right angle.</li>\n<li>Measure the distance between the tip of the shoulder (acromion) and the tip of the elbow (olecranon). Mark the midpoint on the upper arm. <strong>(Option A)</strong></li>\n<li>The child's arm should hang relaxed by their side, with the palm <span class=\"customMeta\" data-dictid=\"c4e40f33721692777202dd7486f4f4\">facing</span> the thigh.</li>\n<li>Use a MUAC tape to wrap around the marked midpoint of the arm. The tape should be snug but not tight enough to <span class=\"customMeta\" data-dictid=\"b6b1ecba7c16927771953ee3dc08ea\">pinch</span> the skin.</li>\n<li>Record the measurement at the <span class=\"customMeta\" data-dictid=\"116e588c7b1692777202c7f3040428\">zero</span> mark of the tape.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Shakir\u2019s Tape</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Shakir's tape is a specific type of MUAC measuring tape designed for use in assessing malnutrition.</p>\n<p>It is typically three colour-coded to facilitate easy interpretation of nutritional status. The tape is marked with different zones that correspond to various levels of malnutrition:</p>\n<ul>\n<li><strong>Red Zone:</strong> Indicates severe <span class=\"customMeta\" data-dictid=\"cbd2d1fd521692777191d00c1a4ede\">malnutrition</span> (MUAC <strong>< 11.5 cm</strong>).</li>\n<li><strong>Yellow Zone: </strong>Indicates moderate <span class=\"customMeta\" data-dictid=\"cbd2d1fd521692777191d00c1a4ede\">malnutrition</span> (MUAC between <strong>11.5 cm and 12.5 cm</strong>). <strong>(Option C)</strong></li>\n<li><strong>Green Zone: </strong>Indicates healthy nutritional status (MUAC <strong>> 12.5 cm</strong>) <strong>(Option D)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\u00a0\n\t\t\t<p><strong>SHAKIR\u2019S TAPE</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/TTkQRY0kZ2NoVKFKk9c91743125470.mp3",
+      "video": "",
+      "uid": "b3ce4e4a"
+    },
+    {
+      "text": "A 4-month-old infant presents with a 5-week history of scaly lesions on the face, trunk, and limbs as given in the image, along with irritability, dehydration, and generalized oedema. Laboratory tests reveal hypoalbuminemia and hypokalemia. Based on these findings, what is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marasmus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Flaky paint dermatosis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Flag sign",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acrodermatitis Enteropathica",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Flaky paint dermatosis",
+      "question_images": [
+        "https://image.prepladder.com/content/jJY8r1TojxBaAZ12GpEx1739399309.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/dc5NVlnlJNfDZJ7gLYhS1739399352.png",
+        "https://image.prepladder.com/content/CBLJ1KEzwlkvGlqslHBD1739399369.png",
+        "https://image.prepladder.com/content/PpFWWuds6tfGtctaJdit1739399389.png",
+        "https://image.prepladder.com/content/ii4c0Nrq4HVJFVnOd6JI1739399411.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/s3nxqOaFxEj4qYt58x311743125606.mp3",
+      "video": "",
+      "uid": "5d1ea0fc"
+    },
+    {
+      "text": "A 2 y/o child is brought to the clinic for evaluation due to concerns about poor growth and changes in hair appearance. The child\u2019s hair is sparse, and dull, and shows alternating light and dark bands. Which of the following is NOT a characteristic hair sign in a severely malnourished child?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dyspigmentation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sparse hair",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tightening of natural curls",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Flag sign",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tightening of natural curls",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/xL16c4BDuII8SgntGrTO1739399494.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/YgzAwnuvGhBzbwOKqGkh1743125723.mp3",
+      "video": "",
+      "uid": "2db520b6"
+    },
+    {
+      "text": "A 5 y/o male presents with fatigue, glossitis, and tingling in his hands and feet. On examination, the physician notices swollen gums and pinpoint haemorrhages on his legs. All of the following are features of Vitamin B deficiency EXCEPT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No options available",
+          "correct": false
+        }
+      ],
+      "correct_answer": "Unknown",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/IcaBZmiEE3FaMJ5Q9bv51739399624.png",
+        "https://image.prepladder.com/content/spp2WpikB5AN1Ir6YZhF1739399627.png",
+        "https://image.prepladder.com/content/5qhGmjG5lZFgPnYaOMqN1739399663.png",
+        "https://image.prepladder.com/content/p1dW39DEQjW08puGKUFK1739399675.png",
+        "https://image.prepladder.com/notes/B0fjUuioSeAEL8OWJbbI1741765507.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chelitis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Glossitis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"115\" src=\"https://image.prepladder.com/content/5qhGmjG5lZFgPnYaOMqN1739399663.png\" width=\"201\"/></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"178\" src=\"https://image.prepladder.com/content/p1dW39DEQjW08puGKUFK1739399675.png\" width=\"160\"/></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/LiSHTF6sQRW9ecEAHLdX1743125852.mp3",
+      "video": "",
+      "uid": "457ac8ed"
+    }
+  ]
+}

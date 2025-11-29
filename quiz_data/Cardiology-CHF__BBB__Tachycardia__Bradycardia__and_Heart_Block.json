@@ -1,0 +1,653 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "Cardiology-CHF__BBB__Tachycardia__Bradycardia__and_Heart_Block",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following statements is false on the first-degree atrioventricular (AV) block?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delayed conduction through the AV node",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "PR interval > 0.50 seconds",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Can be physiological",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Consistent PR interval",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. PR interval > 0.50 seconds",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:718px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>First-degree <span class=\"customMeta\" data-dictid=\"d77b211e3a1692777182121ece27fc\">atrioventricular</span> (AV) block</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Definition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Delayed <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> through the AV node, <strong>(Option A ruled out) </strong>resulting in a prolonged PR interval (> 0.20 seconds but < 0.50 seconds) <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Symptoms</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rarely symptomatic; often found incidentally on ECG.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Causes</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Physiological (e.g., in athletes with high <span class=\"customMeta\" data-dictid=\"5fb29f3cd516927772017bd29c2581\">vagal</span> tone) <strong>(Option C)</strong></li>\n<li>May indicate underlying heart disease.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>ECG Findings</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Prolonged (> 0.20 seconds but < 0.50 seconds) but consistent PR interval <strong>(Option D)</strong></p>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"First-degree <span class=\" custommeta\"=\"\" data-dictid=\"d77b211e3a1692777182121ece27fc\"/>atrioventricular (AV) block\" data-author=\"James Heilman, MD - Own work\" data-hash=\"8788\" data-license=\"CC BY-SA 4.0\" data-source=\"https://en.wikipedia.org/wiki/First-degree_atrioventricular_block#/media/File:FirstAVBlock.jpg\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/LKhGPaW6RCSJUE2H3jBQ1744304072.png\" />\n\t\t\t<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Management</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No treatment required in most cases</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "63981491"
+    },
+    {
+      "text": "A 65-year-old man with no history of myocardial infarction presents with syncope and is found to have a 2:1 AV block on his ECG. His QRS complex is widened. Which of the following is the most likely mechanism behind his AV block, and how would atropine administration affect his condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The block is most likely in the AV node, and atropine will improve AV conduction.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "The block is most likely in the His-Purkinje system, and atropine will improve AV conduction.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The block is most likely in the AV node, and atropine may increase the degree of AV block.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "The block is most likely in the His-Purkinje system, and atropine may increase the degree of AV block.",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. The block is most likely in the His-Purkinje system, and atropine may increase the degree of AV block.",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/MRLZtA6CSGk1CR59E3jy1744305056.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9bfe5a92"
+    },
+    {
+      "text": "Which among the following are included in the criteria for Metabolic syndrome 1) Waist circumference > 102 cm in men 2) Waist circumference > 88cm in women 3) HDL < 50 mg/dL in men 4) BP >128/88 mm hg 5) Fasting plasma glucose > 100 mg/dL 6) LDL > 200 mg/dL",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,2,3,4,5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1,4,5,6",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1,2,5",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "2,4,5,6",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1,2,5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:378px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1) Waist circumference</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>> 102 cm in Men</li>\n<li>> 88 cmin Women</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>2) <span class=\"customMeta\" data-dictid=\"5ceb81d29516927771884c732da32e\">HDL</span> levels</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>< 40 mg/dL in Men</li>\n<li>< 50 mg/dL in Women</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>3) <span class=\"customMeta\" data-dictid=\"482f0bd5841692777200af07c2766c\">Triglyceride</span> levels</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>> 150 mg/dL</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>4) BP (Blood Pressure)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>> 130/85 mmHg</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>5) <span class=\"customMeta\" data-dictid=\"67f123756d16927772026c46b8d27e\">Fasting</span> <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> glucose</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>> 100 mg/dL</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9ec5242f"
+    },
+    {
+      "text": "All of the following are first-line drugs used in the treatment of chronic heart failure, except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Telmisartan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Carvedilol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Spironolactone",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Furosemide",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Furosemide",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:733px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>First-line drugs used in the treatment of Chronic <span class=\"customMeta\" data-dictid=\"d120a30dab1692777184bdcc21c20d\">CHF</span> (mortality-reducing)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ARBs/ACE-inhibitors/ARNI</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Either of these can be started as<strong> initial therapy.</strong></li>\n<li>ACE-inhibitors: Captopril, Enalapril</li>\n<li>ARBs: Telmisartan, Olmesartan <strong>(Option A ruled out)</strong></li>\n<li>ARNI: <strong>ARB+Neprilysin <span class=\"customMeta\" data-dictid=\"b5fb56a28b1692777190396ae8b625\">inhibitor</span> - Valsartan-Sacubitril (most preferred 1st line drug)</strong></li>\n<li>ADR of ACE-i: <strong>Cough, angioedema</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Beta-blockers</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Cardioselective (2nd gen): <strong>Metoprolol, Bisoprolol</strong></li>\n<li>3rd gen: <strong>Carvedilol</strong> (both \u03b1- & \u03b2- <span class=\"customMeta\" data-dictid=\"9dc12b322016927771830dff673eeb\">blocking</span> action) - Best <span class=\"customMeta\" data-dictid=\"806eb8418c16927771822855b56695\">beta</span> <span class=\"customMeta\" data-dictid=\"adecdf9cb2169277718363b8a0e491\">blocker</span> for <span class=\"customMeta\" data-dictid=\"1a5e87d16716927771888f364bce89\">heart failure</span> <strong>(Option B ruled out)</strong></li>\n<li>ADR: Bradycardia, Hypotension</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>SGLT-2 Inhibitors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Dapagliflozin, Empagliflozin</li>\n<li>ADR: <strong>UTI, Forunier gangrene, <span class=\"customMeta\" data-dictid=\"dafe10db1216927771874c034ff821\">Euglycemic</span> DKA</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aldosterone antagonists</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Spironolactone </strong> <strong>(Option C ruled out)</strong></li>\n<li>ADR: <strong>Gynaecomastia</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4d3811a2"
+    },
+    {
+      "text": "A patient presents with sudden onset breathlessness. On arrival his vitals were, PR- 130 bpm, BP- 180/90 mmHg and spO2- 82% in room air. X-ray done is as shown below. Airway was secured after which his saturation improved. What is the most appropriate next step in managing this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reassure and monitor vitals of this patient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer IV Furosemide",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Give Valsartan-Sacubitril immediately",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Administer IV Digoxin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Administer IV Furosemide",
+      "question_images": [
+        "https://image.prepladder.com/notes/Eewl05JgwN5dloupeVW41744304892.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/Eewl05JgwN5dloupeVW41744304892.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>First line drugs used in chronic Heart failure: (mortality-reducing drugs)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>ARBs/ACE-Inhibitors</li>\n<li>Beta blockers (2nd gen- cardioselective)</li>\n<li>SGLT-2 inhibitors (Dapagliflozin, Empagliflozin)</li>\n<li>Anti-aldosterone (Spironolactone)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acute cases with <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> edema:</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Oxygen: Secure <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> and supplement O2</li>\n<li><strong>Loop diuretics: IV <span class=\"customMeta\" data-dictid=\"b1527c07251692777203d317fb2eb0\">Furosemide</span> 20-80 mg</strong>, reduces <span class=\"customMeta\" data-dictid=\"628ed9c26316927771964889249b3b\">preload</span> and <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> congestion</li>\n<li>IV Morphine: if patient is in severe pain/distress, can cause <span class=\"customMeta\" data-dictid=\"cfad80a0f716927771979aae100f95\">respiratory</span> depression</li>\n<li>IV <span class=\"customMeta\" data-dictid=\"7cfca041201692777193da668f40be\">Nitroglycerin</span> infusion: reduce afterload</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acute <span class=\"customMeta\" data-dictid=\"da8747dcd51692777185e1ed0554cc\">decompensated</span> with <span class=\"customMeta\" data-dictid=\"25ec593008169277718360336a849a\">cardiogenic</span> shock: (low BP)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Vasopressors: Norepinephrine, Dobutamine, Dopamine</li>\n<li>Inodilators: <span class=\"customMeta\" data-dictid=\"6ff4c068c31692777192101ca63477\">Milrinone</span> & Amrinone</li>\n<li>Levosimendan: Ca2+ channel sensitizer</li>\n<li>Omecamtiv mecarbil: Direct <span class=\"customMeta\" data-dictid=\"99c8e09d6f1692777193d7716ab6eb\">myosin</span> activator</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Non-pharmacological treatment:</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Implantable <span class=\"customMeta\" data-dictid=\"6aa1aed5811692777183058f0e3934\">cardioverter</span> defibrillators (ICD)</li>\n<li>Coronary revascularisation: in <span class=\"customMeta\" data-dictid=\"bc8bc758371692777185eff2ccabb7\">Coronary</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> disease patients</li>\n<li>Ventricular assist devices</li>\n<li>Cardiac transplantation</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a4643160"
+    },
+    {
+      "text": "A patient, known case of Coronary artery disease presented with fatigue. Echocardiography done showed reduced ejection fraction. What could be the most likely electrolyte disturbance seen in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyponatremia and Hypokalemia",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hypernatremia and Hyperkalemia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyponatremia and Hyperkalemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hypernatremia and Hypokalemia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hyponatremia and Hypokalemia",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:715px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serum</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Elevated BNP/N-terminal pro-BNP levels</strong> (BNP- Brain <span class=\"customMeta\" data-dictid=\"bd16654d3e169277719371077d7a8c\">Natriuretic</span> Peptide)</li>\n<li><strong>Hyponatremia</strong> (Water <span class=\"customMeta\" data-dictid=\"b668aed705169277719744b6db8f8e\">retention</span> - dilutional hypoNa+)</li>\n<li><strong>Hypokalemia</strong> (RAAS activation)</li>\n<li><strong>Hyperaldosteronism</strong></li>\n<li>Renal function tests: Urea, <span class=\"customMeta\" data-dictid=\"2ead0fd0301692777185187bd72768\">Creatinine</span> (Renal failure can occur as a complication)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Radiological findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Earliest: </strong>Prominent upper <span class=\"customMeta\" data-dictid=\"d7dd6ae43c1692777191cf75c0bd58\">lobe</span> <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> veins (Antral sign/ Reverse-Mustache sign)</li>\n<li>Batwing-shaped opacities - <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> edema</li>\n<li>Costophrenic angle blunting</li>\n<li>Kerley B lines: <span class=\"customMeta\" data-dictid=\"6f4a4d02ec169277718995b05c1d26\">Horizontal</span> lines in <span class=\"customMeta\" data-dictid=\"03b5b4a6ef1692777185c8ff0d80d2\">costophrenic</span> angle perpendicular to the pleural surface.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Echocardio- graphy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Reduced <span class=\"customMeta\" data-dictid=\"3b69bda4d21692777187109c85a27e\">ejection</span> fraction: seen in <span class=\"customMeta\" data-dictid=\"cf69f5256416927771991c21f264ae\">systolic</span> <span class=\"customMeta\" data-dictid=\"3662597407169277718640a12868f5\">dysfunction</span> (HFrEF)</li>\n<li>Normal to mildly <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> EF: seen in diastolic <span class=\"customMeta\" data-dictid=\"3662597407169277718640a12868f5\">dysfunction</span> (HFpEF)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cardiac MRI</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Preferred <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> <span class=\"customMeta\" data-dictid=\"2333eb40ca16927771925442e26719\">modality</span> to <span class=\"customMeta\" data-dictid=\"c9001edbf216927771860f3475b44c\">differentiate</span> <span class=\"customMeta\" data-dictid=\"cf69f5256416927771991c21f264ae\">systolic</span> and diastolic dysfunction.</li>\n<li>Used for prognosis.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:706px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Investigations for <span class=\"customMeta\" data-dictid=\"b0eb48bbf6169277718568c051e6ad\">congestive heart failure</span> </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serum</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>BNP/N-terminal <strong>pro-BNP levels</strong> <strong>\u2191</strong></li>\n<li>Serum <strong>Na</strong>+, <strong>K</strong>+ \u2193</li>\n<li><strong>Hyperaldosteronism</strong></li>\n<li>Renal function tests: <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> failure can occur as a complication</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Radiological findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Earliest<strong>: Antral</strong> sign/ <strong>Reverse</strong>-<strong>Mustache</strong> sign</li>\n<li><strong>Batwing</strong> shaped opacities</li>\n<li><strong>Costophrenic</strong> angle <strong>blunting</strong></li>\n<li><strong>Kerley B lines</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Echocardio- graphy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Reduced <span class=\"customMeta\" data-dictid=\"3b69bda4d21692777187109c85a27e\">ejection</span> fraction</strong>: seen in <strong>systolic</strong> dysfunction</li>\n<li><strong>Normal to mildly <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> EF</strong>: seen in <strong>diastolic</strong> dysfunction</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cardiac MRI</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Differentiate <strong>systolic</strong> and <strong>diastolic</strong> dysfunction.</li>\n<li>Used for <strong>prognosis</strong>.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "06524ff6"
+    },
+    {
+      "text": "A 50 year old male gives a history of fatigue and dyspnoea upon lying down for 1 week. On examination, his vitals were: HR-130 bpm, BP-150/90 mmHg, S3+ on auscultation. Chest X-ray is as shown in the image below. Which among the following in this patient is not part of the major criterion according to Framingham\u2019s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dyspnoea upon lying down",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "X-ray finding",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HR-130 bpm",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "S3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. HR-130 bpm",
+      "question_images": [
+        "https://image.prepladder.com/notes/p4oHn1rIIefqmoyl05kW1744304723.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/p4oHn1rIIefqmoyl05kW1744304723.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:571px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Major criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Minor criteria</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Acute <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> (crepitations/rales)</li>\n<li>Cardiomegaly <strong>(Option B)</strong></li>\n<li>PND/Orthopnoea <strong>(Option A)</strong></li>\n<li>Elevated JVP, Abdominojugular reflex</li>\n<li>S3 <span class=\"customMeta\" data-dictid=\"91e41050fc1692777188741342606b\">gallop</span> rhythm + <strong>(Option D)</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Ankle <span class=\"customMeta\" data-dictid=\"18b452e75916927771864c9ad533e1\">edema</span> (pitting <span class=\"customMeta\" data-dictid=\"e272cdded916927771951d2337037d\">pedal</span> edema)</li>\n<li>Dyspnoea on exertion</li>\n<li>Tender hepatomegaly</li>\n<li>Nocturnal cough</li>\n<li>Pleural effusion</li>\n<li>Tachycardia (HR>120 bpm) <strong>(Option C)</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:582px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Only risk factors - Hypertension, DM, Atherosclerosis, Obesity, etc. present</li>\n<li>NO structural damage</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage B</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Structural heart disease is present (e.g., LVH, <span class=\"customMeta\" data-dictid=\"d9e29ece3c1692777186ce4d23d81b\">dysmotility</span> on ECHO, etc.)</li>\n<li>NO signs/symptoms seen</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage C</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most common clinical stage</li>\n<li>Signs/symptoms seen pertaining to CHF</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Stage D</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>No response to any medical therapy - known as <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">Refractory</span> heart failure</li>\n<li>Only treatment is <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">Cardiac</span> transplant</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "a3237d7c"
+    },
+    {
+      "text": "A 68-year-old male is presenting with sudden loss of consciousness and collapse. He had pallor during the attack. ECG is given below. What is the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Third-degree atrioventricular block",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Myocardial infarction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mobitz I block",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mobitz II block",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Third-degree atrioventricular block",
+      "question_images": [
+        "https://image.prepladder.com/notes/GRUoKAVoiKV5tut5DxJd1744304538.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/cTQE3zwyRQEeHl0nuNrk1744304611.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:707px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Third-degree <span class=\"customMeta\" data-dictid=\"d77b211e3a1692777182121ece27fc\">atrioventricular</span> block</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Complete failure of <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> between <span class=\"customMeta\" data-dictid=\"422ada68fd16927771820019d5de1e\">atria</span> and ventricles, resulting in independent beating (AV dissociation).</p>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"3rd degree heart block\" data-author=\"Npatchett\" data-hash=\"8796\" data-license=\"CC BY-SA 4.0\" data-source=\"https://commons.wikimedia.org/wiki/File:Heart_block.png\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/cTQE3zwyRQEeHl0nuNrk1744304611.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ventricular Activity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Maintained by an <span class=\"customMeta\" data-dictid=\"eec51ab3a9169277718763577df122\">escape rhythm</span> from:</p>\n<p>- The <span class=\"customMeta\" data-dictid=\"93722e23b31692777182e48d478f12\">AV node</span> or <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> of His (narrow QRS complexes).</p>\n<p>- <span class=\"customMeta\" data-dictid=\"5ff25303a01692777186731f6a4f5c\">Distal</span> Purkinje tissues (broad QRS complexes).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- <span class=\"customMeta\" data-dictid=\"c64e3a661b1692777197afc2ff7bca\">Recurrent</span> <span class=\"customMeta\" data-dictid=\"9f04fb3f2f1692777199272e3daf84\">syncope</span> or 'Stokes\u2013Adams' attacks- sudden loss of consciousness and collapse.</p>\n<p>- Brief anoxic seizure.</p>\n<p>- <span class=\"customMeta\" data-dictid=\"dd5d862f051692777194647422e1c9\">Pallor</span> and a death-like appearance during the attack; characteristic <span class=\"customMeta\" data-dictid=\"919f290c4f1692777203469825e662\">flush</span> upon recovery.</p>\n<p>- Rapid recovery distinguishes it from epilepsy.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>- Depends on clinical circumstances.</p>\n<p>- <span class=\"customMeta\" data-dictid=\"a6cf2c3dc51692777200ef7fb22f69\">Transient</span> <span class=\"customMeta\" data-dictid=\"78a0565f7316927771827e4aca866c\">AV block</span> in <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"49c4ef5b9d1692777190c0277f8344\">inferior</span> myocardial infarction- no treatment if the patient remains stable.</p>\n<p>- <span class=\"customMeta\" data-dictid=\"509310d4411692777199f2ffdb7769\">Symptomatic</span> third-degree AV block- <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> <span class=\"customMeta\" data-dictid=\"90b10f842b1692777182e4a9268284\">atropine</span> or <span class=\"customMeta\" data-dictid=\"27b78a96071692777190f4dfb93430\">intravenous</span> <span class=\"customMeta\" data-dictid=\"5d2bbf156c16927771902312f06293\">isoprenaline</span> to maintain <span class=\"customMeta\" data-dictid=\"337d16dac5169277718474b97f6e4a\">circulation</span> until temporary <span class=\"customMeta\" data-dictid=\"ceb4fc4ada1692777194e3daffa3e9\">pacing</span> is inserted.</p>\n<p>- Permanent pacemaker.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "04742acc"
+    },
+    {
+      "text": "Identify the type of heart block from the ECG given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": "First-degree atrioventricular block",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mobitz type I block",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mobitz type II block",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Third-degree atrioventricular block",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Mobitz type I block",
+      "question_images": [
+        "https://image.prepladder.com/notes/OqojHzeloZl5x0mthUCs1744304281.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/OqojHzeloZl5x0mthUCs1744304281.png",
+        "https://image.prepladder.com/notes/W5CwCbjWckAJYJlPh3JG1744304408.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:626px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Second-degree heart block</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\">Dropped beats occur because some impulses from the <span class=\"customMeta\" data-dictid=\"422ada68fd16927771820019d5de1e\">atria</span> fail to be transmitted to the ventricles.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mobitz <span class=\"customMeta\" data-dictid=\"946a9a6be11692777201eb269e8327\">Type I</span> (<strong>Wenckebach</strong>) <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mobitz Type II<strong> (Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Progressive lengthening of PR intervals until a <span class=\"customMeta\" data-dictid=\"6c53004b121692777186c3d7797ee0\">dropped beat</span> occurs.</li>\n<li>Cycle repeats itself.</li>\n</ul>\n<figure class=\"caption_element\"><img alt=\"Mobitz type I\" data-author=\"Npatchett\" data-hash=\"8792\" data-license=\"CC BY-SA 4.0\" data-source=\"https://en.wikipedia.org/wiki/Second-degree_atrioventricular_block#/media/File:Second_degree_heart_block.png\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/OqojHzeloZl5x0mthUCs1744304281.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>PR interval remains constant.</li>\n<li>Some P waves are not conducted.</li>\n</ul>\n<figure class=\"caption_element\"><img alt=\"Mobitz type II\" data-author=\"Npatchett\" data-hash=\"8793\" data-license=\"CC BY-SA 4.0\" data-source=\"https://en.wikipedia.org/wiki/Second-degree_atrioventricular_block#/media/File:Second_degree_heart_block.png\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/W5CwCbjWckAJYJlPh3JG1744304408.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Often physiological; can occur in young athletes.</li>\n<li>May not cause symptoms.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Caused by His\u2013Purkinje system disease.</li>\n<li>Higher risk of asystole.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Typically does not require treatment.</li>\n<li>Monitor for changes; consider underlying heart disease.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>May require treatment if symptomatic.</li>\n<li>Consider temporary pacing.</li>\n<li>Monitor closely due to the risk of progression.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5814cee9"
+    },
+    {
+      "text": "A 68-year-old patient with a history of chronic obstructive pulmonary disease (COPD) presents with palpitations and shortness of breath. The ECG is given below and has an irregular rhythm with at least three distinct P-wave morphologies. The heart rate is 120 beats per minute. What is the most likely diagnosis based on the ECG findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrial Fibrillation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Multifocal Atrial Tachycardia",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Atrial Flutter",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sinus Tachycardia",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Multifocal Atrial Tachycardia",
+      "question_images": [
+        "https://image.prepladder.com/notes/7dzx1upzIF4NxENH5fFZ1744300376.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/7dzx1upzIF4NxENH5fFZ1744300376.png",
+        "https://image.prepladder.com/notes/p5bwSQNF9j4opdY6og4v1744300524.png",
+        "https://image.prepladder.com/notes/3Ac7ovqmXozSoww0aMri1744300620.png",
+        "https://image.prepladder.com/notes/dnJbESwprU6Wu9yx6Pod1744300744.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:665px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Multifocal <span class=\"customMeta\" data-dictid=\"a135b2b5b01692777182c1145ad335\">atrial tachycardia</span> (MAT)</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ECG Characteristics</strong></p>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>At least <strong>three distinct P-wave </strong>morphologies</li>\n</ul>\n<ul>\n<li>Atrial rates typically between<strong> 100-150 bpm</strong>.</li>\n</ul>\n<ul>\n<li>Clear <strong>isoelectric</strong> <strong>intervals</strong> between P waves (unlike atrial fibrillation)</li>\n</ul>\n<ul>\n<li>Atrial rate slower than atrial fibrillation</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Caused by <span class=\"customMeta\" data-dictid=\"728faaed2f1692777182aa9163a46a\">automaticity</span> from multiple atrial foci, with multiple areas in the <span class=\"customMeta\" data-dictid=\"422ada68fd16927771820019d5de1e\">atria</span> spontaneously generating electrical impulses.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Common Causes</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Chronic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> disease</li>\n<li>Acute illness</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4c68571e"
+    },
+    {
+      "text": "Which of the following statements on transvenous pacing is wrong?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central venous access is needed",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intracardiac lead placement is done",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Permanent method of pacing",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Not suitable for emergencies",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Permanent method of pacing",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/xsBVOKI8tl9zPPgZihhX1745563789.png",
+        "https://image.prepladder.com/notes/mKDQW1BBQvnn4B0vkpYq1744303958.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:728px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Aspect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Transcutaneous Pacing</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Transvenous Pacing</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Purpose</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Temporary, fast <span class=\"customMeta\" data-dictid=\"a4f93a26c11692777190f1659fa7c9\">initiation</span> for <span class=\"customMeta\" data-dictid=\"509310d4411692777199f2ffdb7769\">symptomatic</span> bradyarrhythmias or <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> arrest.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Longer-term temporary <span class=\"customMeta\" data-dictid=\"ceb4fc4ada1692777194e3daffa3e9\">pacing</span> for evaluation of permanent <span class=\"customMeta\" data-dictid=\"e70797a893169277719467eb262506\">pacemaker</span> need. <strong>(Option C) </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Initiation Time</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fastest method, used in emergencies (e.g., bradycardia, asystole).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Requires more time due to the need for central <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> access. <strong>(Option A and Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Electrode Placement</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anterior pad: <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> <span class=\"customMeta\" data-dictid=\"2d7ea2751316927771816ceb31afee\">apex</span> or lead V3 position.</p>\n<p>Posterior pad: <span class=\"customMeta\" data-dictid=\"49c4ef5b9d1692777190c0277f8344\">inferior</span> to <span class=\"customMeta\" data-dictid=\"153f2ea4be16927771981ce5d9171f\">scapula</span> or between <span class=\"customMeta\" data-dictid=\"153f2ea4be16927771981ce5d9171f\">scapula</span> and spine.</p>\n<p style=\"text-align:center\"><img alt=\"Transcutaneous Pacing\" data-author=\"\" data-hash=\"11253\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"195\" src=\"https://image.prepladder.com/notes/xsBVOKI8tl9zPPgZihhX1745563789.png\" width=\"195\"/></p>\n<br/>\n\t\t\t\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intracardiac lead placement through a central <span class=\"customMeta\" data-dictid=\"75ddd4cc7016927772012e0acd424d\">vein</span> (e.g., femoral, subclavian). <strong>(Option B ruled out)</strong></p>\n\t\t\t\u00a0\n\n\t\t\t<p style=\"text-align:center\"><img alt=\"Transverse pacing\" data-author=\"\" data-hash=\"8786\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"195\" src=\"https://image.prepladder.com/notes/mKDQW1BBQvnn4B0vkpYq1744303958.png\" width=\"195\"/></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dc8fbc69"
+    },
+    {
+      "text": "A 72-year-old male presents with dizziness. His heart rate is 38 bpm, blood pressure 80/50 mmHg, and ECG confirms sinus bradycardia. What is the medication to be used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IV atropine 0.5 mg every 3-5 minutes",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "IV atropine 2 mg every 5-10 minutes",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IV atropine 5 mg every 2 minutes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IV atropine 3 mg every 10 minutes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. IV atropine 0.5 mg every 3-5 minutes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Sinus <span class=\"customMeta\" data-dictid=\"c933e533971692777183b764d960d0\">bradycardia</span> </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Sinus <span class=\"customMeta\" data-dictid=\"c933e533971692777183b764d960d0\">bradycardia</span> is a <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> rhythm with normal <span class=\"customMeta\" data-dictid=\"b0046463171692777198e0beea83e7\">sinus</span> <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> but a <strong>rate < 60 bpm.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnostic Criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>ECG showing <span class=\"customMeta\" data-dictid=\"b0046463171692777198e0beea83e7\">sinus</span> rhythm at a rate lower than 60 bpm.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Common Etiologies</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Normal in athletes</li>\n<li>Medications (beta-blockers, <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> channel blockers, digoxin)</li>\n<li>Hypothyroidism, hypothermia</li>\n<li>Sick <span class=\"customMeta\" data-dictid=\"b0046463171692777198e0beea83e7\">sinus</span> syndrome, myocardial infarction</li>\n<li>Vagal <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> (e.g., <span class=\"customMeta\" data-dictid=\"8b7ff268db16927772018672ed7531\">vasovagal</span> syncope)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Asymptomatic (in many patients)</li>\n<li>Fatigue</li>\n<li><strong>Dizziness</strong> or lightheadedness</li>\n<li>Exercise intolerance</li>\n<li>Syncope or presyncope</li>\n<li>Cognitive slowing</li>\n<li>Worsening <span class=\"customMeta\" data-dictid=\"030cd51b341692777181d15302c8d4\">angina</span> or <span class=\"customMeta\" data-dictid=\"1a5e87d16716927771888f364bce89\">heart failure</span> symptoms</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Evaluation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Assess <span class=\"customMeta\" data-dictid=\"cdf4a197dd16927771881a652c8328\">hemodynamic</span> stability</li>\n<li>ECG to confirm <span class=\"customMeta\" data-dictid=\"b0046463171692777198e0beea83e7\">sinus</span> rhythm</li>\n<li>Review medication list for <span class=\"customMeta\" data-dictid=\"23a27ffd991692777183b72a8abd5e\">bradycardic</span> agents</li>\n<li>Evaluate for comorbidities (e.g., hypothyroidism, myocardial infarction)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Management</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>If Hemodynamically Unstable:</strong>\n<ul>\n<li>IV <span class=\"customMeta\" data-dictid=\"90b10f842b1692777182e4a9268284\">atropine</span> 0.5 mg every 3-5 minutes (max 3 mg) <strong>(Option A)</strong></li>\n<li>If there is no improvement, consider a temporary pacemaker</li>\n</ul>\n</li>\n<li><strong>If Stable:</strong>\n<ul>\n<li>Treat underlying causes</li>\n<li>Withdraw bradycardia-inducing medications</li>\n<li>Evaluate for permanent pacemaker</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dfa1e419"
+    },
+    {
+      "text": "A 68-year-old man with a history of hypertension and coronary artery disease presents to the emergency department with worsening shortness of breath over the past 3 days. His blood pressure is 160/90 mmHg, and he has bilateral pitting edema in his lower extremities. Lung auscultation reveals crackles at the bases. His chest X-ray shows cardiomegaly and pulmonary congestion. Which of the following is the most likely underlying mechanism contributing to his symptoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased cardiac output",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreased preload",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Left ventricular systolic dysfunction",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Left ventricular systolic dysfunction",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:689px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Clinical Features of Left-Sided vs. Right-Sided <span class=\"customMeta\" data-dictid=\"b0eb48bbf6169277718568c051e6ad\">Congestive Heart Failure</span> (CHF)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Left-Sided Heart Failure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Right-Sided Heart Failure</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Causes</strong>:</p>\n<ul>\n<li>Ischemic heart disease (myocardial infarction).</li>\n<li>Hypertension</li>\n<li>Dilated cardiomyopathy.</li>\n<li>Aortic or <span class=\"customMeta\" data-dictid=\"d93de7238d16927771922b27cb6086\">mitral</span> <span class=\"customMeta\" data-dictid=\"416dd1004a169277720177d9a6adc5\">valve</span> disease.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Causes</strong>:</p>\n<ul>\n<li>Left-sided <span class=\"customMeta\" data-dictid=\"1a5e87d16716927771888f364bce89\">heart failure</span> (<strong>most common cause</strong>).</li>\n<li>Chronic lung diseases (COPD, <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> hypertension).</li>\n<li>Pulmonary embolism.</li>\n<li>Right <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> infarction.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In left-sided heart failure, the left <span class=\"customMeta\" data-dictid=\"707de303e516927772011cb80f4028\">ventricle</span> cannot effectively pump blood to the body, leading to a backup of blood into the lungs.</p>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>Clinical features:</strong></p>\n<p>This primarily results in <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> symptoms.</p>\n<ul>\n<li>Dyspnea</li>\n<li>Exertional dyspnea).</li>\n<li>Orthopnea</li>\n<li>Paroxysmal <span class=\"customMeta\" data-dictid=\"d51601f2c41692777193ddfa55d163\">nocturnal</span> dyspnea</li>\n</ul>\n<p>\u00a0</p>\n<p><strong>Pulmonary Congestion:</strong></p>\n<ul>\n<li>Crackles (rales) heard on <span class=\"customMeta\" data-dictid=\"b2f0dbabe516927771821b0ec5ba85\">auscultation</span> due to fluid in the alveoli.</li>\n<li>Cough</li>\n<li>Wheezing (cardiac asthma).</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Fatigue and Weakness</li>\n<li>Decreased Exercise Tolerance</li>\n<li>Limited physical activity due to breathlessness and fatigue.</li>\n<li>S3 Gallop</li>\n</ul>\n<p>\u00a0</p>\n<ul>\n<li><strong>Cool Extremities: </strong>Reduced <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> output may cause poor <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> circulation, leading to cold, pale skin.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In right-sided heart failure, the right <span class=\"customMeta\" data-dictid=\"707de303e516927772011cb80f4028\">ventricle</span> fails to pump blood effectively into the <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> circulation, leading to <strong>systemic <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">venous</span> congestion. </strong>It is often secondary to left-sided <span class=\"customMeta\" data-dictid=\"1a5e87d16716927771888f364bce89\">heart failure</span> or conditions affecting the lungs <strong>(cor pulmonale).</strong></p>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>Clinical Features:</strong></p>\n<ul>\n<li>Peripheral Edema</li>\n<li>Jugular <span class=\"customMeta\" data-dictid=\"96e7e3fecc16927772018cb9f8c8cd\">Venous</span> Distension (JVD)</li>\n</ul>\n<ul>\n<li>Hepatomegaly</li>\n<li>B/L <span class=\"customMeta\" data-dictid=\"a8c53e6875169277719588cd709854\">pitting</span> <span class=\"customMeta\" data-dictid=\"e272cdded916927771951d2337037d\">pedal</span> edema</li>\n<li><strong>Kussmaul sign: </strong>JVP <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> on inspiration</li>\n<li>Ascites</li>\n<li>Nocturia</li>\n<li>Weight Gain</li>\n<li>Anorexia and Nausea</li>\n</ul>\n<p>\u00a0</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f60ad19a"
+    },
+    {
+      "text": "A 58-year-old man presents to the emergency department with complaints of palpitations and dizziness over the past week. He denies any chest pain or syncope. What is the most likely diagnosis based on the ECG findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brugada Syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ventricular Tachycardia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Left Bundle Branch Block (LBBB)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Right Bundle Branch Block (RBBB)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Right Bundle Branch Block (RBBB)",
+      "question_images": [
+        "https://image.prepladder.com/notes/iZyoahGXmTwLZZGXcdZC1744303156.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/iZyoahGXmTwLZZGXcdZC1744303156.png",
+        "https://image.prepladder.com/notes/w2y0wJqJ14t1QjfVPm4u1744303569.png",
+        "https://image.prepladder.com/notes/P3QqIinhn55Ng6M6jQkr1744303569.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Right <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> branch block (RBBB) is an electrocardiogram finding that occurs when the <span class=\"customMeta\" data-dictid=\"e6a317ff3c16927771956fee0e76ed\">physiologic</span> electrical <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> system of the heart, specifically in the His-Purkinje system, is altered or <span class=\"customMeta\" data-dictid=\"fb9eb5785916927771900fcb6718d4\">interrupted</span> resulting in a widened QRS and electrocardiographic <span class=\"customMeta\" data-dictid=\"1f7e7543bc16927772015cdb525c2b\">vector</span> changes</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Etiopathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Structural Heart Disease:</strong></p>\n<ul>\n<li>Coronary <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> Disease (CAD)</li>\n<li>Heart Failure</li>\n<li><strong>Valvular Heart Disease: </strong>Aortic <span class=\"customMeta\" data-dictid=\"0c9567c6cb16927771996c6bc2b21e\">stenosis</span> or regurgitation, <span class=\"customMeta\" data-dictid=\"d93de7238d16927771922b27cb6086\">mitral</span> stenosis, or regurgitation, leading to <span class=\"customMeta\" data-dictid=\"72421e3a581692777197a98d00066c\">right heart</span> strain and RBBB.</li>\n<li><strong>Cardiomyopathies</strong>: Dilated or hypertrophic cardiomyopathy.</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>Pulmonary Causes:</strong></p>\n<ul>\n<li><strong>Pulmonary <span class=\"customMeta\" data-dictid=\"1c07a1135f1692777187f547678386\">Embolism</span> (PE)</strong>: Large <span class=\"customMeta\" data-dictid=\"586c1eff6e16927771872ba5871abe\">emboli</span> can cause <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> <span class=\"customMeta\" data-dictid=\"72421e3a581692777197a98d00066c\">right heart</span> strain, leading to RBBB.</li>\n<li><strong>Chronic Obstructive <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> Disease (COPD)</strong></li>\n<li>Pulmonary Hypertension</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>Infiltrative Diseases:</strong></p>\n<ul>\n<li>Amyloidosis</li>\n<li>Sarcoidosis</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<ul>\n<li>Due to the <span class=\"customMeta\" data-dictid=\"9e99effc421692777181b02606e021\">anatomy</span> of the right <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> branch, damage typically occurs at 3 different locations.</li>\n<li>The <strong>proximal right <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> </strong>nearest the <span class=\"customMeta\" data-dictid=\"3e75ada4451692777187fae136230b\">endocardium</span> is the <strong>most common location </strong>to be affected.</li>\n<li>The <span class=\"customMeta\" data-dictid=\"5ff25303a01692777186731f6a4f5c\">distal</span> right <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> is typically only injured when the <span class=\"customMeta\" data-dictid=\"58d1d9af0116927771929c2171ed44\">moderator band</span> is transected during surgery.</li>\n<li>The <span class=\"customMeta\" data-dictid=\"16b76d1d1c1692777200240efcb0e2\">terminal</span> right <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> is injured during <span class=\"customMeta\" data-dictid=\"746ae92f051692777201e4a67b69cc\">ventriculotomy</span> or <span class=\"customMeta\" data-dictid=\"db577159c61692777200b35a8851db\">transatrial</span> resectio</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Often <span class=\"customMeta\" data-dictid=\"d1a9a79f701692777182066af09044\">asymptomatic</span> and found incidentally.</li>\n<li>In some cases, patients may experience palpitations, dizziness, or lightheadedness.</li>\n<li>When associated with other <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> <span class=\"customMeta\" data-dictid=\"54e0888a6616927771945a99208287\">pathology</span> (heart failure, ischemia), it may indicate an underlying issue.</li>\n<li>Wide split S2 heart sound heard.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The characteristic <span class=\"customMeta\" data-dictid=\"40ebcbf95e169277718613d7c2d999\">ECG</span> findings for right <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> branch block are as follows:</p>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"RBBB\" data-author=\"Steven Fruitsmaak - Own work\" data-hash=\"8776\" data-license=\"CC BY-SA 3.0\" data-source=\"https://en.wikipedia.org/wiki/Right_bundle_branch_block#/media/File:RBBB_with_first_degree_AV_block.jpg\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/iZyoahGXmTwLZZGXcdZC1744303156.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n<ul>\n<li>QRS duration is greater than or equal to 120 milliseconds.</li>\n<li>In lead V1 and V2, there is an RSR` in leads V1 and V2.</li>\n<li>In Leads 1 and V6, the S wave is of greater duration than the R wave, or the S wave is greater than 40 milliseconds.</li>\n<li>In Leads V5 and V6, there is a normal R wave peak time.</li>\n<li>In Lead V1, the R wave peak time is greater than 50 milliseconds.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Differential Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Brugada syndrome</strong></li>\n<li><strong>Ventricular tachycardia</strong></li>\n<li><strong>Incomplete left <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> branch block</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>No <span class=\"customMeta\" data-dictid=\"a4a589776216927771991b881f95b1\">specific treatment</span> is required for <span class=\"customMeta\" data-dictid=\"d1a9a79f701692777182066af09044\">asymptomatic</span> isolated RBBB.</li>\n<li>Management focuses on treating underlying conditions (if present).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:727px\">\n<thead>\n<tr>\n<th colspan=\"2\" scope=\"col\" style=\"vertical-align:top\">\n<p><strong>ECG difference between <span class=\"customMeta\" data-dictid=\"0a89512f961692777191c1515a8adc\">LBBB</span> and RBBB</strong></p>\n</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>LBBB</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RBBB</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>WiLLiaM - </strong>W pattern in V1 and M pattern in V6</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MaRRoW - </strong>M pattern in V1 and W pattern in V6</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"LBBB\" data-author=\"\" data-hash=\"8781\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/w2y0wJqJ14t1QjfVPm4u1744303569.png\"/></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RBBB\" data-author=\"\" data-hash=\"8782\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/P3QqIinhn55Ng6M6jQkr1744303569.png\"/></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "0c2b3d56"
+    },
+    {
+      "text": "A 70-year-old male with a history of chronic hypertension and known Left Bundle Branch Block (LBBB) presents to the emergency department with acute chest pain radiating to the left arm. His ECG shows a wide QRS complex due to LBBB. You are concerned about a possible myocardial infarction (MI), and consider using the Sgarbossa criteria. Which of the following findings would be consistent with a positive Sgarbossa criterion for acute myocardial infarction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Concordant ST elevation \u2265 1 mm in leads with a positive QRS complex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Discordant ST elevation \u2265 1 mm in leads with a negative QRS complex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Concordant ST elevation \u2265 1 mm in any anterior lead (V1-V3)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Discordant ST depression \u2265 1 mm in any lead",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Concordant ST elevation \u2265 1 mm in leads with a positive QRS complex",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/JpBz9juVKyrqq7B9URWS1744302950.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:759px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Sgarbossa criteria</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Used to diagnose <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> myocardial <span class=\"customMeta\" data-dictid=\"77aed446d2169277719007f42bf052\">infarction</span> (AMI) in the presence of a Left <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">Bundle</span> Branch Block (LBBB) or ventricular-paced rhythm, where typical <span class=\"customMeta\" data-dictid=\"40ebcbf95e169277718613d7c2d999\">ECG</span> changes of MI may be obscured by the <span class=\"customMeta\" data-dictid=\"458e050fdc16927771809854c9fd53\">abnormal</span> <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> pattern.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>1. <span class=\"customMeta\" data-dictid=\"cde8da74a516927771848febc986b1\">Concordant</span> ST <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> \u2265 1 mm in any lead with a positive QRS complex (QRS and <span class=\"customMeta\" data-dictid=\"6b3384701916927771998cea03ba94\">ST segment</span> in the same direction).</strong></p>\n<ul>\n<li>Score: 5 points</li>\n<li>This finding is highly specific for <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> MI.</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>2. <span class=\"customMeta\" data-dictid=\"cde8da74a516927771848febc986b1\">Concordant</span> ST depression \u2265 1 mm in leads V1, V2, or V3 (with a negative QRS complex).</strong></p>\n<ul>\n<li>Score: 3 points</li>\n<li>ST depression in these leads suggests <span class=\"customMeta\" data-dictid=\"a5c6cb079d16927771967e62ffee72\">posterior</span> infarction.</li>\n</ul>\n\t\t\t\u00a0\n\n\t\t\t<p><strong>3. <span class=\"customMeta\" data-dictid=\"98d754de081692777186fc8119cb0c\">Discordant</span> ST <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> (ST <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> \u2265 5 mm) in leads with a negative QRS complex (QRS and <span class=\"customMeta\" data-dictid=\"6b3384701916927771998cea03ba94\">ST segment</span> in opposite directions).</strong></p>\n<ul>\n<li>Score: 2 points</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"sgarbossa critiera\" data-author=\"\" data-hash=\"8773\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/JpBz9juVKyrqq7B9URWS1744302950.png\"/></p>\n<br/>\n\t\t\t\u00a0</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Modified Sgarbossa Criteria</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A <span class=\"customMeta\" data-dictid=\"e480da93a016927771925dd2d9c43a\">modification</span> to the original criteria uses a ST/S ratio in <span class=\"customMeta\" data-dictid=\"98d754de081692777186fc8119cb0c\">discordant</span> leads.</li>\n<li>ST <span class=\"customMeta\" data-dictid=\"a1f256489a16927771870ddd296574\">elevation</span> must be \u2265 25% of the depth of the preceding S wave in leads with a negative QRS complex (instead of \u2265 5 mm).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Interpretation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>A total score of \u2265 3 points is considered suggestive of <span class=\"customMeta\" data-dictid=\"4cdc8161f71692777180df58cafa93\">acute</span> MI in the setting of LBBB.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5a6d2330"
+    },
+    {
+      "text": "A 65-year-old male presents with complaints of occasional chest discomfort and shortness of breath on exertion.His medical history includes hypertension and diabetes. What is the most likely diagnosis based on the ECG findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left Ventricular Hypertrophy (LVH)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Premature Ventricular Contractions (PVCs)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Right Bundle Branch Block (RBBB)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Left Bundle Branch Block (LBBB)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Left Bundle Branch Block (LBBB)",
+      "question_images": [
+        "https://image.prepladder.com/notes/OwGkXUGL2FZqGWjZlZVe1744302587.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/OwGkXUGL2FZqGWjZlZVe1744302587.png",
+        "https://image.prepladder.com/notes/PaciprAiwg4XuCpjpOHA1744302823.png",
+        "https://image.prepladder.com/notes/ahI8AaIhcFoizovokTAY1744302823.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Left <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> branch block (LBBB) is an <span class=\"customMeta\" data-dictid=\"390a9178d716927771907c0c9d72c5\">intraventricular</span> <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> <span class=\"customMeta\" data-dictid=\"e7ed1a964716927771801ab913204a\">abnormality</span> usually caused by ischemic or mechanical factors affecting the <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> <span class=\"customMeta\" data-dictid=\"63bda90e3516927771848cbb473f04\">conduction</span> system's left <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">bundle</span> branch.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Etiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Structural heart disease:</strong> <span class=\"customMeta\" data-dictid=\"bc8bc758371692777185eff2ccabb7\">Coronary</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> disease (CAD), hypertension, cardiomyopathies such as dilated, left <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> noncompaction, stress, and hypertrophic cardiomyopathies, and <span class=\"customMeta\" data-dictid=\"59a120854e16927771820318aebd4a\">aortic valve</span> diseases like <span class=\"customMeta\" data-dictid=\"b0c55e5f1916927771820b0864074e\">aortic stenosis</span> and regurgitation</li>\n<li><strong>Degenerative changes:</strong> Age-related fibrosis, Lev disease, and Len\u00e8gre disease</li>\n<li><strong>Infiltrative conditions:</strong> <span class=\"customMeta\" data-dictid=\"1bea5cbf1d16927771988b19241f4c\">sarcoidosis</span> or amyloidosis</li>\n<li><strong>Inflammatory cardiomyopathies: </strong>Infectious <span class=\"customMeta\" data-dictid=\"b37b57210716927771933ee216a834\">myocarditis</span> or <span class=\"customMeta\" data-dictid=\"96ab11a06a16927771823151c8e471\">autoimmune</span> disease</li>\n<li>Hyperkalemia</li>\n<li>Antiarrhythmic medications</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Electrical Dyssynchrony:</strong> With LBBB, the right <span class=\"customMeta\" data-dictid=\"707de303e516927772011cb80f4028\">ventricle</span> is activated first, followed by a right-to-left septal transmission and <span class=\"customMeta\" data-dictid=\"ba6b77f29316927771807350f86ce2\">activation</span> of the left <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> <span class=\"customMeta\" data-dictid=\"3e75ada4451692777187fae136230b\">endocardium</span> at the level of the <span class=\"customMeta\" data-dictid=\"75b57d54f21692777192dc01883ad1\">mid</span> septum.</li>\n<li><strong>Mechanical Dyssynchrony: </strong>In LBBB, the <span class=\"customMeta\" data-dictid=\"d783117d991692777198108af42c05\">septum</span> is activated before <span class=\"customMeta\" data-dictid=\"59a120854e16927771820318aebd4a\">aortic valve</span> opening (isovolumetric contraction), stretching the <span class=\"customMeta\" data-dictid=\"a5c6cb079d16927771967e62ffee72\">posterior</span> and <span class=\"customMeta\" data-dictid=\"fc380e21321692777191739bd99191\">lateral</span> walls</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>LBBB may be silent, especially in its early stages, or present with <span class=\"customMeta\" data-dictid=\"70d4f989c31692777193372189cfbb\">nonspecific</span> symptoms, such as fatigue, dyspnea, and palpitations.</li>\n<li>Symptoms due to underlying heart disease can include chest pain, dyspnea, fatigue, palpitations, syncope, or presyncope.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ECG findings</strong></p>\n<ul>\n<li>QRS duration greater than or equal to 120 ms.</li>\n<li>Broad <strong>notched or slurred R wave </strong>in leads I, aVL, V5, and V6 or, occasionally, an <strong>RS pattern </strong>in leads V5 and V6.</li>\n<li>Absence of Q wave in <strong>leads I, V5, and V6 </strong>(with the possible exception of aVL).</li>\n<li>R wave peak time greater than 60 ms in leads V5 and V6.</li>\n<li>ST-T waves change opposite to the QRS direction.</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"LBBB\" data-author=\"\" data-hash=\"8770\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/PaciprAiwg4XuCpjpOHA1744302823.png\"/></p>\n<ul>\n<li>Echocardiography</li>\n<li>Stress Imaging</li>\n<li>Electrophysiological studies</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Differential Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Incomplete Left <span class=\"customMeta\" data-dictid=\"0b0057954d1692777183cde3b4afbf\">Bundle</span> Branch Block</li>\n<li>Ventricular Paced Rhythm</li>\n<li>Left <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">Ventricular</span> Hypertrophy</li>\n<li>Premature <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">Ventricular</span> Contractions</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Asymptomatic Patients:</strong> No <span class=\"customMeta\" data-dictid=\"a4a589776216927771991b881f95b1\">specific treatment</span> is required if <span class=\"customMeta\" data-dictid=\"0a89512f961692777191c1515a8adc\">LBBB</span> is discovered incidentally and the patient has no symptoms or associated conditions (coronary <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> disease, heart failure).</li>\n</ul>\n<ul>\n<li><strong>Symptomatic Patients:</strong> If <span class=\"customMeta\" data-dictid=\"0a89512f961692777191c1515a8adc\">LBBB</span> is associated with <span class=\"customMeta\" data-dictid=\"bc8bc758371692777185eff2ccabb7\">coronary</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> disease, hypertension, or heart failure, these conditions should be managed according to standard treatment guidelines.</li>\n</ul>\n<ul>\n<li><strong>Cardiac <span class=\"customMeta\" data-dictid=\"175cb514a61692777197f78c0b1edf\">Resynchronization</span> Therapy (CRT): </strong>Indicated in patients with <span class=\"customMeta\" data-dictid=\"1a5e87d16716927771888f364bce89\">heart failure</span> and <span class=\"customMeta\" data-dictid=\"10c83adb331692777197f775bec1aa\">reduced</span> <span class=\"customMeta\" data-dictid=\"3b69bda4d21692777187109c85a27e\">ejection</span> fraction (HFrEF).</li>\n<li><strong>Immediate <span class=\"customMeta\" data-dictid=\"910e53d9bf1692777197e57fd0c1b6\">reperfusion</span> therapy: </strong>Indicated in patients with <span class=\"customMeta\" data-dictid=\"8329065e421692777181cfd6ac06f5\">AMI</span> and LBBB.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "39cad87f"
+    },
+    {
+      "text": "What is the heart rate if there are 5 large boxes between R waves on an ECG?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60 beats per minute",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "75 beats per minute",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "100 beats per minute",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "50 beats per minute",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 60 beats per minute",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/TR0tPKX2dVYNfpSYEUqY1744301068.png",
+        "https://image.prepladder.com/notes/vuoLf0OBPR1tb4Fv53Aw1744301577.png",
+        "https://image.prepladder.com/notes/fYhEgecBCMfERK5TTQDI1744301577.png",
+        "https://image.prepladder.com/notes/6RQhsVXrxa9yVOtw4Uvv1744301578.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>P wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents atrial <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> on the ECG. As atrial <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> is initiated by the SA <span class=\"customMeta\" data-dictid=\"b10ce4acbf169277719323ffd12306\">node</span> located in the right atrium, the right <span class=\"customMeta\" data-dictid=\"a8d33da8541692777182ec6983d9a2\">atrium</span> gets depolarized first, followed by left atrial depolarization.</li>\n<li>Its duration is three small squares wide and 2.5 small squares high.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>PR Interval</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents the time from the beginning of atrial <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> to the start of <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> and includes the delay at the AV node.</li>\n<li>The average interval is 3 to 5 small squares (120 to 200 ms).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>QRS complex</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> as current passes down the AV node.</li>\n<li>A standard QRS complex has a duration of less than three small squares (under 120 ms, usually 60 to 100 ms).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Septal Q-Wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Represents the <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> of the <span class=\"customMeta\" data-dictid=\"769fa5be3616927771906f8ae8b053\">interventricular</span> septum.</li>\n<li>Its <span class=\"customMeta\" data-dictid=\"4c75de951316927771819cdfdbdd6a\">amplitude</span> is not bigger than 0.1 mV,</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>R-Wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It is the tallest wave of the QRS complex, representing the electrical stimulus as it passes down the ventricles during depolarization.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>S-Wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents the final <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> of the Purkinje fibers.</li>\n<li>It is any downward <span class=\"customMeta\" data-dictid=\"0d8576d139169277718594452670bd\">deflection</span> after R-wave.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T-Wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> repolarization.</li>\n<li>The suggested criteria for the typical T wave include the size of one-eighth or less than two-thirds of the size of the R wave and a height of less than 10 mm.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ST-Segment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It depicts the end of <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> and the beginning of <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> repolarization.</li>\n<li>The average duration of the <span class=\"customMeta\" data-dictid=\"6b3384701916927771998cea03ba94\">ST segment</span> is less than 2 to 3 small squares (80-120 ms).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>QT-Interval</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>It represents the start of <span class=\"customMeta\" data-dictid=\"dbaf58dd301692777186f2a8d7b3a0\">depolarization</span> to the end of the <span class=\"customMeta\" data-dictid=\"40451a27bd1692777197d6c276d0bc\">repolarization</span> of ventricles.</li>\n<li>Generally, the normal QT interval is less than 400 to 440 milliseconds (ms), or 0.4 to 0.44 seconds.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>U-Wave</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Small wave that follows the T wave.</li>\n<li>It represents the delayed <span class=\"customMeta\" data-dictid=\"40451a27bd1692777197d6c276d0bc\">repolarization</span> of the <span class=\"customMeta\" data-dictid=\"62b9af909d1692777194cd004f10f4\">papillary</span> muscles or Purkinje fibers.</li>\n<li>It is commonly associated with hypokalemia.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f5e95bc5"
+    },
+    {
+      "text": "A 65-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents to the ER with palpitations and shortness of breath. His ECG shows an irregular rhythm with at least three distinct P-wave morphologies and a heart rate of 120 beats per minute. Which of the following is the most appropriate initial management approach for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrical cardioversion",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intravenous beta-blockers",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Correcting underlying metabolic abnormalities and treating the underlying lung disease",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Long-term use of amiodarone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Correcting underlying metabolic abnormalities and treating the underlying lung disease",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/7dzx1upzIF4NxENH5fFZ1744300376.png"
+      ],
+      "explanation": "<table align=\"center\" cellspacing=\"0\" style=\"border-collapse:collapse; width:665px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Multifocal atrial tachycardia</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>ECG Characteristics</strong></p>\n</td>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>At least three distinct P-wave morphologies</li>\n</ul>\n<ul>\n<li>Atrial rates typically between 100-150 bpm.</li>\n</ul>\n<ul>\n<li>Clear <span class=\"customMeta\" data-dictid=\"95f7d4c24d16927771904b4278640d\">isoelectric</span> intervals between P waves (unlike atrial fibrillation)</li>\n</ul>\n<ul>\n<li>Atrial rate slower than atrial fibrillation</li>\n</ul>\n<div style=\"text-align:center\">\n<figure class=\"caption_element\" style=\"display:inline-block\"><img alt=\"Atrial Tachycardia\" data-author=\"Jer5150\" data-hash=\"8720\" data-license=\"CC BY-SA 3.0 \" data-source=\"https://commons.wikimedia.org/wiki/File:Multifocal_atrial_tachycardia_-_MAT.png\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/7dzx1upzIF4NxENH5fFZ1744300376.png\"/>\n<figcaption>{{caption_text}}</figcaption>\n</figure>\n</div>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Caused by <span class=\"customMeta\" data-dictid=\"728faaed2f1692777182aa9163a46a\">automaticity</span> from multiple atrial foci, with multiple areas in the <span class=\"customMeta\" data-dictid=\"422ada68fd16927771820019d5de1e\">atria</span> spontaneously generating electrical impulses.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Common Causes</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Chronic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> disease</li>\n<li>Acute illness</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment Approaches</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Treat underlying disease</strong>: Most important step.</li>\n<li><strong>Correct <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> abnormalities</strong>: Address <span class=\"customMeta\" data-dictid=\"2e0552462e16927771871413861fb7\">electrolyte</span> imbalances.</li>\n<li><strong>Calcium channel blockers</strong>: <strong>Verapamil </strong>or <strong>diltiazem </strong>to slow atrial and <span class=\"customMeta\" data-dictid=\"fc8cac43cc16927772015049bb5ab8\">ventricular</span> rate.</li>\n<li><strong>Amiodarone</strong>: Can be effective but <strong>avoided long-term </strong>due to potential toxicities (e.g., <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> fibrosis). <strong>(Option D ruled out)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thromboembolism Risk</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not as well-defined or high as in <span class=\"customMeta\" data-dictid=\"e6a04221a41692777182825f0f08da\">atrial fibrillation</span> or flutter.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9cb5188c"
+    }
+  ]
+}

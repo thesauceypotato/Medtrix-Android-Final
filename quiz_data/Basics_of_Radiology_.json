@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "Basics_of_Radiology_",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 45-year-old patient is scheduled for an MRI of the brain to assess potential lesions. Which of the following best describes the fundamental principle of MRI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaluate changes in magnetic field strength around tissues",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Alignment and relaxation of hydrogen nuclei",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Detection of thermal radiation emitted by tissues.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Measurement of varying ionizing radiation absorption.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Alignment and relaxation of hydrogen nuclei",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GtpUCR2tlebHX3lBluQF1745761280.mp3",
+      "video": "",
+      "uid": "9b023c2f"
+    },
+    {
+      "text": "Match the following: 1) a) FLAIR 2) b) Diffusion-weighted MRI 3) c) T1-Weighted MRI 4) d) T2-Weighted MRI",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-a, 2-b, 3-c, 4-d",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-b, 2-c, 3-d, 4-a",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-d, 2-a, 3-b, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-c, 2-d, 3-a, 4-b",
+      "question_images": [
+        "https://image.prepladder.com/notes/5hssM2XlIhNM7jPTCVRe1743786652.png",
+        "https://image.prepladder.com/notes/bKZABmBFsCLHa2G3FiR71743786686.png",
+        "https://image.prepladder.com/notes/0f2nrwTopswwJ7YLQFLj1743786723.png",
+        "https://image.prepladder.com/notes/QzgOLuMs5sj8vLYsb7ly1743786764.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/DoR8yxmM9Dbe0Cv2MGao1743786817.png",
+        "https://image.prepladder.com/notes/MKUHnBoSmGYlw9qCly1H1743786869.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:695px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tissue</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T1-Weighted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>T2-Weighted</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>FLAIR</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>CSF</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>White matter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark gray</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark gray</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cortex</strong></p>\n<p><strong>(Gray matter)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gray</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light gray</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light gray</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fat</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Light</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inflammation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Dark</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bright</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Bm7PJ7sMyu8IpWk2TmyH1745851116.mp3",
+      "video": "",
+      "uid": "f780df56"
+    },
+    {
+      "text": "A 25-year-old male who recently joined the radiology department was instructed to wear the device shown in the image. Which of the following statements about this device is incorrect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assess the amount of radiation exposure",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Comprise of thermoluminescent phosphors",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Should be sent for dose monitoring every 3 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is worn over the lead apron",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. It is worn over the lead apron",
+      "question_images": [
+        "https://image.prepladder.com/notes/R8hUsNnKKI1sdoq6d6Sy1743783977.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/svWGPpQFpjIQGMPaJfqb1743784018.png",
+        "https://image.prepladder.com/notes/R8hUsNnKKI1sdoq6d6Sy1743783977.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:691px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>TLD (Thermoluminescent Dosimeter) Badge</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purpose </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is worn by individuals in radiation-exposed environments, such as medical <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> or nuclear facilities, to track their radiation dose and ensure it stays within safe limits.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Worn<strong> beneath </strong>the lead apron (as lead apron cuts off some radiation)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Duration </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>According to the <span class=\"customMeta\" data-dictid=\"d07ff57c3f1692777182594c5f75ba\">Atomic Energy</span> Regulatory Board (AERB) of India, TLD badges are generally replaced and analyzed <strong>every 3 months</strong> to assess <span class=\"customMeta\" data-dictid=\"fa914a0d95169277718542753b513d\">cumulative</span> radiation exposure. <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Composition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Thermoluminescent phosphor crystals</strong>: <strong>(Option B)</strong></p>\n<ul>\n<li>Calcium <span class=\"customMeta\" data-dictid=\"535af9a2181692777199309af44d24\">sulfate</span> dysprosium</li>\n<li>Lithium fluoride</li>\n<li>Lithium borate</li>\n<li>Berrylium oxide</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><strong>Principle </strong></td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\"><img alt=\"RA026\" data-author=\"\" data-hash=\"7540\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" src=\"https://image.prepladder.com/notes/svWGPpQFpjIQGMPaJfqb1743784018.png\"/></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/17n9UlLYtEyM3ZBIvaeX1748959854.mp3",
+      "video": "",
+      "uid": "fdfdf402"
+    },
+    {
+      "text": "A 28-year-old woman arrives at the emergency department with acute abdominal pain. The attending physician is considering an abdominal X-ray. What does the \"10-day rule\" advise regarding X-ray exposure for women of childbearing age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A gap of at least 10 days between two successive X-rays.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Avoid non-urgent X-rays within 10 days post-menstruation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Perform X-rays during the first 10 days of the menstrual cycle.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "X-rays should be avoided 10 days before menstruation.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Perform X-rays during the first 10 days of the menstrual cycle.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/lDTRMKZfjTwcYo29G7sW1745893414.mp3",
+      "video": "",
+      "uid": "fb9e3184"
+    },
+    {
+      "text": "A 35-year-old pregnant woman is being assessed for suspected appendicitis. An abdominal ultrasound shows inflammation but in limited detail. What is the best contrast agent to enhance USG?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Barium sulfate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iodinated contrast agents",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Saline solution",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sulfur Hexafluoride microbubbles",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Sulfur Hexafluoride microbubbles",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:665px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Contrast agents for USG</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Examples</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Sonovue</strong> (sulfur hexafluoride)</li>\n<li><strong>Lumason</strong> (sulfur hexafluoride)</li>\n<li><strong>Definity</strong> (perflutren)</li>\n<li><strong>Sonozoid</strong> (perflubutane)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Preferred route</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intravenous</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Eliminated by</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lungs</strong> <strong>(hence safe in <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">Renal</span> conditions)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Liver lesions</li>\n<li>Micturating cystosonography</li>\n<li>Renal lesions</li>\n<li>Obstruction in Crohn's disease</li>\n<li>Evaluation of Aortic <span class=\"customMeta\" data-dictid=\"f2c92eaffe16927771819978aa5666\">aneurysm</span> repair</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Adverse Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It is the safest contrast media and rarely causes mild <span class=\"customMeta\" data-dictid=\"245b6a0cc91692777181d63c66b3a3\">anaphylactoid</span> reactions.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/w89DSU4QQH9fnHD1S7Qt1746125231.mp3",
+      "video": "",
+      "uid": "252b5357"
+    },
+    {
+      "text": "Arrange the following in their decreasing order of penetration power 1) Neutrons 2) Alpha (\u03b1) rays 3) Beta (\u03b2) rays 4) Gamma (\u03b3) rays",
+      "options": [
+        {
+          "label": "A",
+          "text": "1>2>3>4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1>4>3>2",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "4>3>2>1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "2>3>4>1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 1>4>3>2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alpha (\u03b1) rays: </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Particles emitted by the <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> through \u03b1 decay, containing 2 protons and 2 neutrons.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Beta (\u03b2) rays:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Particles emitted by the <span class=\"customMeta\" data-dictid=\"ff628904401692777193c8a9f9159e\">nucleus</span> through \u03b2 decay, either electrons/positrons</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gamma (\u03b3) rays:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Photons emitted by the nucleus.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ionizing power: </strong>(damaging capacity of <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> energy transfer - LET)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Alpha (\u03b1) > <span class=\"customMeta\" data-dictid=\"806eb8418c16927771822855b56695\">Beta</span> (\u03b2) > <span class=\"customMeta\" data-dictid=\"6fda63a90c1692777202563d33a81b\">X-Rays</span> > <span class=\"customMeta\" data-dictid=\"49be0416121692777188dc8944b7bc\">Gamma</span> (\u03b3) rays</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Penetration power:</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neutrons > <span class=\"customMeta\" data-dictid=\"49be0416121692777188dc8944b7bc\">Gamma</span> (\u03b3)rays >Beta (\u03b2)rays >Alpha (\u03b1)rays</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mTgT1jO1d5lEfX77dt831748954732.mp3",
+      "video": "",
+      "uid": "c2466a6d"
+    },
+    {
+      "text": "Which among the following statements is true regarding the machine shown below",
+      "options": [
+        {
+          "label": "A",
+          "text": "Produced by sudden deceleration of moving electrons",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Anode is primarily made up of Lead (Pb)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "The majority of heat dissipation is by convection",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Electron beam travels from anode to the cathode",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Produced by sudden deceleration of moving electrons",
+      "question_images": [
+        "https://image.prepladder.com/notes/2pYAB0erRNrLOnuALpeW1743577193.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/2pYAB0erRNrLOnuALpeW1743577193.png",
+        "https://image.prepladder.com/notes/BnwTIkD29SHht5TA6EA91743577295.png",
+        "https://image.prepladder.com/notes/bgw9XpwsAJTlqhuaKvMR1743577370.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Introduction</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Discovered by <strong>W.C. <span class=\"customMeta\" data-dictid=\"7b9ed7cc8f16927771973e5430a32f\">Roentgen</span> on 8 November 1895</strong> (International Day of Radiology).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Production</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>By <strong>sudden <span class=\"customMeta\" data-dictid=\"7be129d4bb1692777185fa5706fe88\">deceleration</span> of fast-moving <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam</strong><strong> (Option A)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Working principle</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>The <span class=\"customMeta\" data-dictid=\"98f339c57716927771836df0bff47a\">Cathode</span> (filament) is an <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> source that produces the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam and the <span class=\"customMeta\" data-dictid=\"a7fbef62b91692777181bfe2d1b741\">Anode</span> is a <span class=\"customMeta\" data-dictid=\"40067257821692777201a208cbed9c\">tungsten</span> target for the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam.</li>\n<li>The <strong>electron beam travels from the <span class=\"customMeta\" data-dictid=\"98f339c57716927771836df0bff47a\">cathode</span> (negatively charged) to the <span class=\"customMeta\" data-dictid=\"a7fbef62b91692777181bfe2d1b741\">anode</span> (positively charged)</strong> <strong>(Option D)</strong></li>\n<li>Thermionic emission occurs at the Cathode.</li>\n<li>Blocking of the <span class=\"customMeta\" data-dictid=\"d416281a201692777187899c00aed8\">electron</span> beam is done at the Anode, where <strong>99% of heat dissipation is by Radiation </strong><strong>(Option C)</strong> and the remaining 1% escapes through the window onto a film called X-rays.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"4\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Components</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>The Cathode</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of <strong>Tungsten (atomic no.- 74) & Thorium</strong>.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>The Anode</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of<strong> <span class=\"customMeta\" data-dictid=\"40067257821692777201a208cbed9c\">Tungsten</span> & Rhenium</strong> <strong>(Option B)</strong>.</li>\n<li>Rotatory anodes are preferred (to avoid <span class=\"customMeta\" data-dictid=\"da6db7b0e21692777203c4075458d3\">focal</span> points), now <span class=\"customMeta\" data-dictid=\"9cf5375557169277719946c3651430\">stationary</span> anodes are only used in Portable <span class=\"customMeta\" data-dictid=\"fd0c8ab494169277720227102dc79a\">X-ray</span> machines.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Glass envelope</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of Lead (Pb).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Focusing cup</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Made up of Nickel.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4dbae47f"
+    },
+    {
+      "text": "Which of the following statements is false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C-arm is a mobile X-ray machine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fluoroscopy shows continuous X-ray images in a monitor",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "In fluoroscopy, only movement of a body part can be visualized",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Fluoroscopy can be used in catheter insertion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. In fluoroscopy, only movement of a body part can be visualized",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/UXclYHWfzfwmaMiJQgls1743578077.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "dcd07ffb"
+    },
+    {
+      "text": "A 45-year-old man presents with sudden headache, confusion, and decreased consciousness following recent cranial surgery. CT image is given below. What is the black area seen in the CT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Air",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Pus",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Highly vascularised areas",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Air",
+      "question_images": [
+        "https://image.prepladder.com/notes/AY68USr9aRjGopMrOvGJ1743578424.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/DFAeKEYdtydtK9lhsFRD1743578514.png",
+        "https://image.prepladder.com/notes/xcJHtzjKcpuFmK11rXHc1743578646.png"
+      ],
+      "explanation": "<table>\n<thead>\n<tr>\n<th><strong>X-ray Appearance</strong></th>\n<th><strong>Cause</strong></th>\n<th><strong>Examples</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Black</strong></td>\n<td>X-rays <strong>pass through less dense tissues</strong> and reach the <span class=\"customMeta\" data-dictid=\"1028b4ebb31692777183bcb9e95ee0\">cassette</span> with <strong>more energy</strong></td>\n<td><strong>Air or gas</strong>, e.g., lungs, <span class=\"customMeta\" data-dictid=\"37863e7aec169277718310f33c6a11\">bowel</span> gas</td>\n</tr>\n<tr>\n<td><strong>White</strong></td>\n<td>X-rays are <strong>mostly absorbed by very dense tissues</strong>, so little reaches the cassette</td>\n<td><strong>Bone</strong>, <strong>metal</strong>, <strong>calcified areas</strong></td>\n</tr>\n<tr>\n<td><strong>Gray</strong></td>\n<td>X-rays pass through <strong>intermediate-density tissues</strong></td>\n<td><strong>Soft tissues</strong>, <strong>muscles</strong>, <strong>fat</strong>, <strong>organs</strong></td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "07d6c8a7"
+    },
+    {
+      "text": "A 65-year-old male patient presents with a 6-month history of progressive shortness of breath and a dry cough. He is a former smoker, having quit 10 years ago, and has no significant past medical history. On examination, he has clubbing of the fingers and fine crackles on lung auscultation. Pulmonary function tests reveal a restrictive pattern with reduced lung volumes and a decreased diffusion capacity.Which imaging modality is most appropriate for confirming the diagnosis of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contrast-Enhanced Computed Tomography (CECT) of the chest",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "High-Resolution CT (HRCT) of the chest",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "MRI of the chest",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chest X-ray",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. High-Resolution CT (HRCT) of the chest",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/iLs5dybxhZSSjzRWK4ks1743579098.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specialized <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> technique that provides highly detailed cross-sectional images of the body's internal structures, primarily the lungs</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Thin Collimation: </strong>Uses thin slices (usually 1 mm or less) to improve image resolution.</li>\n<li><strong>High <span class=\"customMeta\" data-dictid=\"6495ef882b169277719896942b51c3\">Spatial</span> Resolution: </strong>Optimized <span class=\"customMeta\" data-dictid=\"c497b556951692777198b599e4ba86\">scanning</span> protocols to enhance the detail of structures.</li>\n<li><strong>Breath-Holding: </strong>Images are often obtained during full inspiration to reduce motion artifacts.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Pulmonary Assessment:</strong> Primarily used to evaluate lung diseases, especially <span class=\"customMeta\" data-dictid=\"f46ba26d111692777190def3b1d80a\">interstitial</span> lung diseases (e.g., <span class=\"customMeta\" data-dictid=\"4acddc3cf5169277718996440e2e14\">Idiopathic</span> <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">Pulmonary</span> Fibrosis, sarcoidosis).</li>\n<li><strong>Tumor Evaluation:</strong> Assessing lung nodules and tumors. (For Pancoast tumor <span class=\"customMeta\" data-dictid=\"7ce7bcb2f316927771938e0bea7f4d\">MRI</span> is preferred)</li>\n<li><strong>Infectious Diseases</strong>: Identifying lung infections (pneumonia, tuberculosis).</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Key <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">Imaging</span> Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Reticular Patterns: </strong>Suggestive of <span class=\"customMeta\" data-dictid=\"21e2d5a70616927772021fcdec0ca9\">fibrosis</span> and <span class=\"customMeta\" data-dictid=\"f46ba26d111692777190def3b1d80a\">interstitial</span> lung disease.</li>\n<li><strong>Ground-Glass Opacities: </strong>Indicate <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> or partial consolidation.</li>\n<li><strong>Nodules and Masses: </strong>Detailed <span class=\"customMeta\" data-dictid=\"33ba8d60fb16927772029d1067e602\">visualization</span> of <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> nodules.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Advantages</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>High Sensitivity and Specificity:</strong> Superior ability to detect and characterize lung pathologies compared to standard CT or X-rays.</li>\n<li><strong>Detailed Assessment:</strong> Provides detailed <span class=\"customMeta\" data-dictid=\"116f86834a1692777181a914379270\">anatomical</span> information, aiding in accurate diagnosis and treatment planning.</li>\n<li><strong>3D Reconstruction: </strong>Data can be processed to create 3D images for better <span class=\"customMeta\" data-dictid=\"116f86834a1692777181a914379270\">anatomical</span> visualization.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Limitations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Radiation Exposure: </strong>Increased radiation dose compared to conventional radiography.</li>\n<li><strong>Cost</strong>: Generally more expensive than standard <span class=\"customMeta\" data-dictid=\"fe3220767716927771892419444041\">imaging</span> modalities.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "b914d30a"
+    },
+    {
+      "text": "What is the primary reason for applying ultrasound gel during an ultrasound examination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance image contrast",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To act as a lubricant for easier probe movement",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "To eliminate air pockets between the probe and skin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "To cool down the transducer while in constant use",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. To eliminate air pockets between the probe and skin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:613px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ultrasound Gel</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purpose of Gel</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Eliminates air pockets between <span class=\"customMeta\" data-dictid=\"175eb86b5f16927771964d5ced6bf3\">probe</span> and skin</strong><strong> </strong>for <strong>effective </strong>sound transmission. <strong>(Option C)</strong></li>\n<li>Serves as a medium for sound and lubricant.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Preferred Gel</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hydrogel </strong>is preferred over Lipogel for easier cleaning.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ingredients</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Distilled water, carbomer, <span class=\"customMeta\" data-dictid=\"7f4fb60ca816927771876ae5f619eb\">ethylenediaminetetraacetic acid</span> (EDTA), <span class=\"customMeta\" data-dictid=\"e2c0074e9c1692777196b2028a4274\">propylene</span> glycol, glycerin, trolamine, and occasionally contains blue colorant.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Infection Control</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\">Cover <span class=\"customMeta\" data-dictid=\"f3d6ae0bcd16927772005689a33dba\">transducer</span> and skin with plastic for patients with open wounds or skin issues.</p>\n<p style=\"text-align: center;\">\u2193</p>\n<p style=\"text-align: center;\">Apply <span class=\"customMeta\" data-dictid=\"b0bdc3a1d416927771884d50c944ec\">gel</span> on both sides of the plastic.</p>\n<p style=\"text-align: center;\">\u2193</p>\n<p style=\"text-align: center;\">Clean <span class=\"customMeta\" data-dictid=\"f3d6ae0bcd16927772005689a33dba\">transducer</span> after each use</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5cd4f106"
+    },
+    {
+      "text": "Match each type of ultrasound probe with its primary use. Probe Primary Use 1) a) Vascular, high-resolution imaging 2) b) Cardiac, endocavitary, neonatal brain 3) c) Abdominal, OBS/GYN",
+      "options": [
+        {
+          "label": "A",
+          "text": "1b,2a,3c",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1a,2b,3c",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1c,2a,3b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1a,2c,3b",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1b,2a,3c",
+      "question_images": [
+        "https://image.prepladder.com/notes/E5qlFpcNi12VXMJvgsE11743781739.png",
+        "https://image.prepladder.com/notes/SaJvI15Z4L8MFUVIPar71743781761.png",
+        "https://image.prepladder.com/notes/E1XgRcn87TDbJ5J8y7xe1743781792.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/SaJvI15Z4L8MFUVIPar71743781761.png",
+        "https://image.prepladder.com/notes/E1XgRcn87TDbJ5J8y7xe1743781792.png",
+        "https://image.prepladder.com/notes/E5qlFpcNi12VXMJvgsE11743781739.png"
+      ],
+      "explanation": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"text-align:center\"><strong>Types of <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">Ultrasound</span> Transducers/ Probes</strong></td>\n</tr>\n<tr>\n<td><strong>Linear</strong></td>\n<td>\n<ul>\n<li>Shape: Rectangular/parallelogram image</li>\n<li>Use:<strong> Vascular, high-resolution imaging</strong></li>\n</ul>\n<img alt=\"RA918\" data-author=\"\" data-hash=\"7525\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"734\" src=\"https://image.prepladder.com/notes/SaJvI15Z4L8MFUVIPar71743781761.png\" width=\"400\"/></td>\n</tr>\n<tr>\n<td>\n<p><strong>Convex</strong></p>\n</td>\n<td>\n<ul>\n<li>Shape: Sector image, curved top</li>\n<li>Use: <strong>Abdominal, OBS/ GYN</strong></li>\n</ul>\n<img alt=\"RA919\" data-author=\"\" data-hash=\"7526\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"627\" src=\"https://image.prepladder.com/notes/E1XgRcn87TDbJ5J8y7xe1743781792.png\" width=\"400\"/></td>\n</tr>\n<tr>\n<td><strong>Phased Array</strong></td>\n<td>\n<ul>\n<li>Shape: Sector image, pointed top</li>\n<li>Use: <strong>Cardiac (fits between ribs), endocavitary (like endovaginal), <span class=\"customMeta\" data-dictid=\"77493a5b781692777193df12530299\">neonatal</span> brain</strong></li>\n</ul>\n<img alt=\"RA917\" data-author=\"\" data-hash=\"7524\" data-license=\"\" data-source=\"\" data-tags=\"April2025\" height=\"740\" src=\"https://image.prepladder.com/notes/E5qlFpcNi12VXMJvgsE11743781739.png\" width=\"400\"/></td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:152px\">\n<p><strong>Vector/ Trapezoidal</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top; width:430px\">\n<ul>\n<li>Shape: Trapezoidal image</li>\n<li>Use: <strong>Abdominal, cardiac, Doppler</strong></li>\n<li>Features: <span class=\"customMeta\" data-dictid=\"b3c8df9e991692777189929b113142\">Hybrid</span> of <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> & phased</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:198px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ultrasound Transducers/ Probes</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Uses piezoelectric crystals to convert electrical \u2194 sound energy</li>\n<li>Frequency choice: Depth dependent\n\t\t\t\t<ul>\n<li>Lower (3.5 MHz) = deeper tissues</li>\n<li>Higher (5+ MHz) = superficial/pediatric</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Key Principles\n\t\t\t\t<ul>\n<li>Frequency \u221d 1/crystal thickness</li>\n<li>Higher frequency = less <span class=\"customMeta\" data-dictid=\"31dd0b58bb1692777195e6016ecd51\">penetration</span> but better resolution</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1692a560"
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "id": "test15",
+    "title": "Pharmacology_Image_Based_Question",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 55-year-old patient presents to the dermatology OPD with findings as shown in the image below. Which of the following drugs can result in this adverse effect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pergolide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Memantine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Amantadine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Trihexyphenidyl",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Amantadine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/1(797).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "932f0bf8",
+      "audio": ""
+    },
+    {
+      "text": "A 17-year-old boy presents with painless hematuria. He has a history of travel to Kenya. Urine microscopy revealed the finding shown below. What is the drug of choice in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Albendazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mebendazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Triclabendazole",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Praziquantel",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/2(702).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b73ba6b6",
+      "audio": ""
+    },
+    {
+      "text": "A diabetic patient presents with periorbital swelling as shown below. She complains of significant visual impairment and a fungal etiology is suspected. What is the most appropriate drug for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Itraconazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Liposomal amphotericin B",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ketoconazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Broad spectrum antibiotics",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Liposomal amphotericin B",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/3(623).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2bd7fa29",
+      "audio": ""
+    },
+    {
+      "text": "What is the first-line treatment for a patient presenting with the finding shown below?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DEC",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pyrantel pamoate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mebendazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ivermectin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Ivermectin",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/4(569).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "bd4c362f",
+      "audio": ""
+    },
+    {
+      "text": "A 32-year-old man presents with fever with chills and seizures. On examination, his blood pressure was 70/50 mm of Hg and labored breathing was present. Routine blood investigations revealed Hb of 4.8 g/dl. ABG was done and the pH was 7.21. Findings in peripheral blood smear are shown below. Which of the following is the drug of choice in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chloroquine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Quinine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Artesunate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Artemether",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Artesunate",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/5(550).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "097eb854",
+      "audio": ""
+    },
+    {
+      "text": "Patient who is on anti-glaucoma therapy presents with corneal findings as shown in the image below. This finding is most commonly observed with which of the following drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Timolol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Apraclonidine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Netarsudil",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Brimonidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Netarsudil",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/6(437).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e18f6e86",
+      "audio": ""
+    },
+    {
+      "text": "A 55-year-old female patient presented with a complaint of lower backache. The MRI of her lumbosacral spine is given below. Her bone mineral density is measured, and her T-score is -2.8. She is given oral drugs, but she develops esophagitis. Which of the following intravenous treatment plans would be useful in this scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teriparatide 20 \u00b5g annually",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Teriparatide 20 \u00b5g monthly",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Zoledronate 5 mg monthly",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Zoledronate 5 mg annually",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Zoledronate 5 mg annually",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/7(394).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1641c7bf",
+      "audio": ""
+    },
+    {
+      "text": "Patient presented with palpitations and light-headedness. His ECG is shown below. Which of the following drugs is least likely to cause this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quinidine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Disopyramide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Procainamide",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Lidocaine",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Lidocaine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/8(372).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cdba600f",
+      "audio": ""
+    },
+    {
+      "text": "A young man working at a dairy farm presents with fever and abdominal pain. Examination of his stool samples revealed the finding shown in the image. Which of the following benzimidazoles is indicated in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Albendazole",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mebendazole",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thiabendazole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Triclabendazole",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Triclabendazole",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/9(334).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ba2790db",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with sudden onset fever with chills and malaise. On examination splenomegaly was present. Bone marrow picture is shown in the image. Which of the following drugs is not used in the treatment of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paromomycin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Liposomal amphotericin B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hydroxychloroquine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Miltefosine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hydroxychloroquine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/10(302).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c542ff09",
+      "audio": ""
+    },
+    {
+      "text": "A 53-year-old male patient presents with the following lesion on his right leg which has been present for the last 7 days. He is on medication for hypertension and diabetes for the past 10 years. He is a known epileptic on treatment and also frequently takes painkillers for osteoarthritis of both knees. The patient gives a history of similar lesions on the same site over the past few years which resolve spontaneously after 7-10 days. Which of the following is the most likely cause?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ibuprofen",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sodium Valproate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Captopril",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Metformin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ibuprofen",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/11(258).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "204c235c",
+      "audio": ""
+    },
+    {
+      "text": "A 2-year-old girl was brought to the hospital by her mother with complaints of abdominal pain and diarrhea. Examination revealed a palpable abdominal mass. Investigations showed elevated levels of urinary homovanillic acid and vanillyl mandelic acid. The lesion could not be completely resected during surgery and histopathology findings are shown in the image. Which of the following is a monoclonal antibody approved for use in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alirocumab",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Alemtuzumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dinutuximab",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Denosumab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Dinutuximab",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/12(248).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6ae62ce4",
+      "audio": ""
+    },
+    {
+      "text": "A boy presents with pallor and lymphadenopathy, the X-ray of his skull is given below. Which of the following drug is used as a first line management of the suspected diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cyclosporine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vinblastine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Vincristine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Vinblastine",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/13(212).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5cdae024",
+      "audio": ""
+    },
+    {
+      "text": "You are an intern posted in the medicine ward and you notice the given dermatological finding in a patient with abdominal distension. Which of the following hormones is implicated in this finding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Testosterone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Estrogen",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hepatotoxins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "FSH",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Estrogen",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/14(196).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6878b8c6",
+      "audio": ""
+    },
+    {
+      "text": "The MRI of a patient who presented with new-onset seizures is shown below. What is the drug of choice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Praziquantel",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Albendazole",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Levamisole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pentamidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Albendazole",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/15(209).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c41cbde8",
+      "audio": ""
+    },
+    {
+      "text": "A 67-year-old man presented with fatigue and weight loss. On examination, pallor and splenomegaly were noted. Peripheral blood smear examination findings are shown in the image. Which of the following BCR-ABL tyrosine kinase inhibitors is not a first-line agent for this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Imatinib",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Dasatinib",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nilotinib",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bosutinib",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Bosutinib",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/16(179).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b8c3089c",
+      "audio": ""
+    },
+    {
+      "text": "A patient with deep vein thrombosis was started on a new drug. After 2 days, he presented with the given finding. Which of the following drugs is implicated in causing the above condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Warfarin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Heparin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dabigatran",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rivaroxaban",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Warfarin",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/17(145).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5abe9b5f",
+      "audio": ""
+    },
+    {
+      "text": "An infant is born with a birth defect as shown in the image below. It is the most common teratogenic effect of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenytoin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Topiramate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sodium valproate",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Phenobarbital",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Sodium valproate",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/18(142).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5c39d169",
+      "audio": ""
+    },
+    {
+      "text": "A 25-year-old sexually active male presents to the clinic with complaints of purulent urethral discharge and burning sensation during urination for the past 3 days. He denies systemic symptoms such as fever but admits to multiple unprotected sexual encounters. A Gram stain of the urethral discharge shown in the image below.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Azithromycin 1 g orally single dose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ceftriaxone 500 mg intramuscularly single dose",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ciprofloxacin 500 mg orally single dose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Doxycycline 100 mg orally twice daily for 7 days",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ceftriaxone 500 mg intramuscularly single dose",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/19(135).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7cfe0c87",
+      "audio": ""
+    },
+    {
+      "text": "A 12-year-old boy with a history of epilepsy presents to the clinic with complaints of swollen, enlarged gums that bleed occasionally during brushing. On examination, his gums appear thickened, fibrotic, and inflamed, as shown in the image below. The patient\u2019s mother reports that he has been on long-term medication to control his seizures but denies any other significant medical history. Which of the following drugs is most likely responsible for the patient\u2019s condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phenytoin",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nifedipine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cyclosporin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Retigabine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Phenytoin",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/20(140).png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "930eda6f",
+      "audio": ""
+    }
+  ]
+}

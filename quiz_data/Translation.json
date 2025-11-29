@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "id": "test26",
+    "title": "Translation",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A codon consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Four individual nucleotides",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Two complementary base pairs",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "One molecule of amino acyl t-RNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Three consecutive nucleotides unit",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Three consecutive nucleotides unit",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/75315941704711388/75315941704711388.m3u8",
+      "uid": "b59a93ce",
+      "audio": ""
+    },
+    {
+      "text": "If constitutive sequence of 4 nucleotides codes for 1 amino acid, how many amino acids can be theoretically formed",
+      "options": [
+        {
+          "label": "A",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "16",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "64",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "256",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 256",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 B) 16 \u2013 This option likely assumes that a two-nucleotide sequence determines the amino acid (4\u00b2 = 16). However, the problem states that a four-nucleotide sequence codes for an amino acid, so this calculation underestimates the possible combinations.</li><li>\u2022 C) 64 \u2013 This number comes from the standard genetic code, where triplets of nucleotides (codons) code for amino acids (4 \u00b3 = 64). However, in this case, the question specifies a four-nucleotide sequence per amino acid, leading to a total of 4 4 = 256 possible amino acids instead of 64.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/38761101704711400/38761101704711400.m3u8",
+      "uid": "737ee2f5",
+      "audio": ""
+    },
+    {
+      "text": "True about wobble hypothesis",
+      "options": [
+        {
+          "label": "A",
+          "text": "tRNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5\u2019 end of anti-codon",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "3\u2019 end of anti-codon",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "mRNA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 5\u2019 end of anti-codon",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/59707051704711414/59707051704711414.m3u8",
+      "uid": "61776a61",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are true for genetic code except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Universal",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Degenerate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Non overlapping",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Punctuation",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Punctuation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/15510811704711428/15510811704711428.m3u8",
+      "uid": "0e0a0a2c",
+      "audio": ""
+    },
+    {
+      "text": "There are 20 amino acids three codons, in spite of number of amino acids formed is 64 leading to that an amino acid represented by more than one codon is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mutation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Frame shift",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Transcription",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Degeneracy",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Degeneracy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/2603501704711444/2603501704711444.m3u8",
+      "uid": "2b7627e9",
+      "audio": ""
+    },
+    {
+      "text": "Cellular component of protein synthesis is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ribosome",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mitochondria",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Rough endoplasmic reticulum",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Smooth endoplasmic reticulum",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ribosome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/5511571704711554/5511571704711554.m3u8",
+      "uid": "117af28a",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following enzymes participate in protein synthesis",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peptidase",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Peptidyl transferase",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "DNA helicase",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "DNA ligase",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Peptidyl transferase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/62316591704711572/62316591704711572.m3u8",
+      "uid": "e8101a81",
+      "audio": ""
+    },
+    {
+      "text": "Following is false for eukaryotic protein synthesis",
+      "options": [
+        {
+          "label": "A",
+          "text": "mRNA read from 5\u2019 to 3\u2019",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "eIF -2 shifts between GDP to GTP",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Capping helps in attachment of mRNA to 40S ribosome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "N-formyl methionine is the first tRNA to come into action",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. N-formyl methionine is the first tRNA to come into action",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Option B: eIF-2 shifts between GDP to GTP \u2013 This is correct and therefore not false. Eukaryotic initiation factor-2 (eIF-2) is a critical protein in translation initiation. It forms a ternary complex with GTP and initiator Met-tRNA I , facilitating its binding to the 40S ribosomal subunit. After delivering the tRNA, eIF-2 hydrolyzes GTP to GDP, becoming inactive. For another round of translation initiation, eIF-2 must be reactivated by guanine nucleotide exchange factor (eIF-2B), which replaces GDP with GTP.</li><li>\u2022 Option C: Capping helps in attachment of mRNA to 40S ribosome \u2013 This is correct and therefore not false. The 5' cap (7-methylguanosine cap) on eukaryotic mRNA is essential for ribosomal recognition and translation initiation. The cap-binding complex (CBC) and eIF-4E help recruit the 40S ribosomal subunit to the mRNA, ensuring proper initiation of translation. This process stabilizes mRNA and enhances translation efficiency in eukaryotic cells.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/22931651704711588/22931651704711588.m3u8",
+      "uid": "3e28d4da",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following statement is true ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Identification of 5\u2019 cap of mRNA by IF 4E is the rate limiting step",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "EF-2 shuttles between ADP and ATP",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Eukaryotic ribosomes are smaller than prokaryotes",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "N-formyl methionine is the precursor of eukaryotic polypeptide synthesis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Identification of 5\u2019 cap of mRNA by IF 4E is the rate limiting step",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Option C: Eukaryotic ribosomes are smaller than prokaryotic ribosomes \u2013 This is incorrect because eukaryotic ribosomes (80S) are larger than prokaryotic ribosomes (70S). Eukaryotic ribosomes consist of a 60S large subunit and a 40S small subunit, while prokaryotic ribosomes consist of 50S and 30S subunits. The increased size of eukaryotic ribosomes reflects their higher complexity and additional regulatory factors involved in translation.</li><li>\u2022 Option D: N-formyl methionine is the precursor of eukaryotic polypeptide synthesis \u2013 This is incorrect because eukaryotic translation begins with methionine (Met), not N-formyl methionine (fMet). fMet is used only in prokaryotic translation, where it serves as the first amino acid in newly synthesized proteins. In eukaryotes, the initiator tRNA (Met-tRNA IMET ) delivers methionine to the ribosome without any formylation, distinguishing eukaryotic translation from prokaryotic translation.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/1835101704711605/1835101704711605.m3u8",
+      "uid": "08366b62",
+      "audio": ""
+    },
+    {
+      "text": "All of the following are true for amino acyl tRNA synthetase except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Implement genetic code",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Editing function",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Is accepting tRNA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Attachment of amino group to 5\u2019 end of tRNA",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Attachment of amino group to 5\u2019 end of tRNA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/17726421704711625/17726421704711625.m3u8",
+      "uid": "7242b9fd",
+      "audio": ""
+    },
+    {
+      "text": "Aminoacyl tRNA is required for all except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methionine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lysine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hydroxyproline",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cysteine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hydroxyproline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/70650091704711646/70650091704711646.m3u8",
+      "uid": "9c545e00",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is an example of post translational modification",
+      "options": [
+        {
+          "label": "A",
+          "text": "N-Glycosylation of proteins",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "7-methyl guanosine capping",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Poly A tail addition",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "\u03b3-carboxylation of glutamate residues",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. \u03b3-carboxylation of glutamate residues",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 Option B: 7-methyl guanosine capping \u2013 This is incorrect because 7-methyl guanosine capping is a post-transcriptional modification, not post-translational. It occurs on the 5' end of the nascent mRNA molecule shortly after transcription to protect the mRNA from degradation and aid in ribosomal recognition during translation.</li><li>\u2022 Option C: Poly A tail addition \u2013 This is incorrect because poly-A tail addition is a post-transcriptional modification as well. It involves the addition of a string of adenine nucleotides to the 3' end of the mRNA molecule, which is important for mRNA stability, transport, and translation initiation. It occurs after transcription but is not related to translation.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "https://d2enu63wt1sf3u.cloudfront.net/dqb_vod/56996251704711661/56996251704711661.m3u8",
+      "uid": "d074a949",
+      "audio": ""
+    }
+  ]
+}

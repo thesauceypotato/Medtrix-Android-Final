@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "id": "test10",
+    "title": "Medicine-NephroRheumat_MIQ_Series",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Non-Oliguric presentation of AKI is seen in",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pre-Renal AKI",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glomerulonephritis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tubulo-Interstitial disorders",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Obstructive uropathy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Tubulo-Interstitial disorders",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9e66722d",
+      "audio": ""
+    },
+    {
+      "text": "Anasarca in Nephrotic syndrome is due to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypoalbuminemia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anti-Thrombin III deficiency",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Protein S & C deficiency",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sodium and H2O retention",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Sodium and H2O retention",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f881993c",
+      "audio": ""
+    },
+    {
+      "text": "Which diagnostic test is most useful in differentiating between prerenal and intrinsic renal causes of AKI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum creatinine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Urinalysis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Fractional excretion of sodium (FENa)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Blood urea nitrogen (BUN)",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Fractional excretion of sodium (FENa)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Explanation:</strong></p>\n<ul><li>\u2022 A FENa < 1% suggests prerenal AKI, while a FENa > 2% suggests intrinsic renal causes such as ATN.</li></ul>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1fa0cc66",
+      "audio": ""
+    },
+    {
+      "text": "Following are indications for emergency dialysis EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Encephalopathy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Refractory Pulmonary edema",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Coagulopathy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Uremic frost",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Uremic frost",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8f1d9d0e",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following genetic mutations is most commonly associated with Alport Syndrome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "COL1A1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "COL4A5",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "COL3A1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "COL2A1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. COL4A5",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5b5cbf78",
+      "audio": ""
+    },
+    {
+      "text": "What is the recommended screening test for early detection of Diabetic Nephropathy in patients with diabetes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serum creatinine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Urine dipstick test",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Spot urine albumin-to-creatinine ratio (UACR)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "24-hour urine collection",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Spot urine albumin-to-creatinine ratio (UACR)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9290e0f2",
+      "audio": ""
+    },
+    {
+      "text": "A 40-year-old female with nephritic range proteinuria is found to have low serum complement levels. Which of the following can be the likely etiology? 1. Systemic lupus erythematosus 2. Post-Streptococcal glomerulonephritis 3. Infective endocarditis 4. IgA nephropathy Select the correct answer using the code given below:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 2 only",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "3 and 4 only",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 2 and 3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 and 4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1, 2 and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f6c3faa4",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following are features of autosomal dominant polycystic kidney disease? 1. Cyst may also occur in liver, pancreas membrane. and arachnoid 2. Most common defect is Polycystin 1 gene defect on Chromosome 16. 3. Clinical manifestations are renal and extrarenal. 4. Mildest type is Polycystin 2 defect on Chromosome 4 Select the correct answer using the code given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2 and 3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1, 2 and 4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1, 3 and 4",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1, 2, 3 and 4",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1, 2, 3 and 4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8fdbc1c2",
+      "audio": ""
+    },
+    {
+      "text": "Following statements about Liddle\u2019s syndrome are False EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an Autosomal Recessive defect of ENaC",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hypotension is a common finding in majority",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Elevated Serum Aldosterone levels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Amiloride is the treatment of choice",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Amiloride is the treatment of choice",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0461a766",
+      "audio": ""
+    },
+    {
+      "text": "A young boy presented with paralytic ileus. BP-80/60mm of Hg. Laboratory tests reveals Hypokalemia, Hypomagnesemia with Elevated Plasma HCO3 and Elevated Serum Renin levels. The probable diagnosis is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Barrter\u2019s syndrome",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gitelman\u2019s syndrome",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Gordon\u2019s syndrome",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Liddle\u2019s syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Gitelman\u2019s syndrome",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5b91391d",
+      "audio": ""
+    },
+    {
+      "text": "A patient of SLE is on maintenance therapy with Hydroxychloroquine. Following test/s are indicated to monitor the ADR of the treatment",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fundoscopy and ECG",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "ECG and Chest Xray",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chest Xray and Spirometry",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spirometry and Fundoscopy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Fundoscopy and ECG",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "75945e61",
+      "audio": ""
+    },
+    {
+      "text": "Anifrolumab is approved for the management of moderate to severe SLE. It is a biological agent \u2013monoclonal antibody against the following",
+      "options": [
+        {
+          "label": "A",
+          "text": "TNF-alpha",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "IL-1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "IL-6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Interferon Type 1 receptor",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Interferon Type 1 receptor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "43993dfa",
+      "audio": ""
+    },
+    {
+      "text": "Which autoantibody is most commonly associated with diffuse cutaneous Systemic Sclerosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anti-centromere antibody",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anti-Scl-70 (anti-topoisomerase I) antibody",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Anti-Ro/SSA antibody",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anti-La/SSB antibody",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Anti-Scl-70 (anti-topoisomerase I) antibody",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3e1c5b13",
+      "audio": ""
+    },
+    {
+      "text": "Following are secondary causes of Sicca syndrome EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "SLE",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SSc",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "MCTD",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HIV",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. HIV",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2a10bb91",
+      "audio": ""
+    },
+    {
+      "text": "Following inflammatory arthritis maybe associated with Anterior uveitis EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rheumatoid Arthritis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ankylosing spondylitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Psoaritic arthritis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Reactive arthritis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Rheumatoid Arthritis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0f4beb78",
+      "audio": ""
+    },
+    {
+      "text": "A 24 year old female presented with inflammatory polyarthritis. Laboratory reveals both RA factor and Anti-CCP antibody positive. ESR is 70. What is true statement about the diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DIP involvement is Early and common",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sacroiliac joint involvement in late cases is typical",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HCQ is the most potent DMARD for treatment",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Anti-TNF alpha agents are preferred for cases of DMARD failure",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Anti-TNF alpha agents are preferred for cases of DMARD failure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7e53107b",
+      "audio": ""
+    },
+    {
+      "text": "Which vasculitis syndrome is most commonly associated with asthma and eosinophilia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Microscopic polyangiitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Churg-Strauss syndrome (Eosinophilic Granulomatosis with Polyangiitis)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Takayasu arteritis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Churg-Strauss syndrome (Eosinophilic Granulomatosis with Polyangiitis)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "880c69d1",
+      "audio": ""
+    },
+    {
+      "text": "Which autoantibody is commonly associated with Microscopic Polyangiitis (MPA)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anti-dsDNA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Anti-PR3 (Proteinase-3)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Anti-MPO (Myeloperoxidase)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Anti-Ro/SSA",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Anti-MPO (Myeloperoxidase)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e284a934",
+      "audio": ""
+    },
+    {
+      "text": "The following feature/s are true statements regarding Spondyloarthropathies 1. RA factor negative 2. HLA-B27 association is common 3. First line of treatment is DMARDS 4. Arthritis precedes extra-articular symptoms in majority",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,2,3",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1,3,4",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "2,3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1,2",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 1,2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d9a1255",
+      "audio": ""
+    },
+    {
+      "text": "Match the following Clinical features with palliative treatment options in SSc.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-B, 2-C, 3- D, 4-A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "1-C, 2-D, 3-A, 4-B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-D, 2-C, 3-B, 4- A",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "1-A, 2-C, 3- B, 4-D",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 1-D, 2-C, 3-B, 4- A",
+      "question_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/16(261).png"
+      ],
+      "explanation_images": [
+        "https://d2enu63wt1sf3u.cloudfront.net/ckfinder/files/17(222).png"
+      ],
+      "explanation": "<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "45009f5d",
+      "audio": ""
+    }
+  ]
+}

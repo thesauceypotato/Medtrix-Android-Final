@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "id": "test1",
+    "title": "APGAR & Primitive Reflexes",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "What is the daily feed requirement for a 1.4 kg baby who is hemodynamically stable on day 1?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60ml/kg/day",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "80ml/kg",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "100ml/kg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "150ml/kg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 80ml/kg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>80ml/kg Very low birth weight(VLBW) infants ( < 1500 g) need about 80 mL/kg fluids on the first day of life It needs to increase by 10-15 mL/kg/day to a maximum of 160 mL/kg/ day by the end of the first week.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "4e06085d",
+      "audio": ""
+    },
+    {
+      "text": "What will be the initial choice of feeding method for a stable 32 weeks preterm baby?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nasogastric (NG) feeds",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oral paladai feeding",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Direct breastfeeding",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "IV fluids",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Oral paladai feeding",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Oral paladai feeding Breastfeeding requires effective sucking, swallowing and proper coordination between sucking/swallowing and breathing These complex skills mature with increasing gestation. A robust sucking pattern is not present until 32- 34 weeks gestation. Coordination between sucking, swallowing and breathing does not mature until 34 weeks of gestation and it fully matures by 37 to 38 weeks of gestation. The choice of initial feeding method At different gestational ages are < 28 weeks - IV fluids 28- 31 weeks- NG/OG feeds 32-34 weeks - oral feeds by spoon or palladia > 34 weeks - Direct breastfeeding</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0c63bebc",
+      "audio": ""
+    },
+    {
+      "text": "The coordination between sucking, swallowing and breathing fully matures by what gestational age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "32 weeks",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "34 weeks",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "36 weeks",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "38 weeks",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 34 weeks",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>34 weeks A robust sucking pattern is not present until 32- 34 weeks gestation. Coordination between sucking, swallowing and breathing does not mature until 34 weeks of gestation and it fully matures by 37 to 38 weeks of gestation.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8a6e3588",
+      "audio": ""
+    },
+    {
+      "text": "What is the amount of milk that can be initiated as trophic feeds in a stable preterm baby?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15ml/kg/day",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "5ml/kg/day",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "10ml/kg/day",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "20m/kg/day",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 10ml/kg/day",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>10ml/kg/day Trophic feeds are amounts of feed approx 10ml/kg/day to initiate maturity of the gut mucosa.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5c13b716",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is not a component of the APGAR score?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heart rate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Respiratory rate",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Grimace",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tone",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Respiratory rate",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Respiratory rate Respiration is a component of the Appearance, Pulse, Grimace, Activity, and Respiration(APGAR) score, not respiratory rate. Appearance, Pulse, Grimace, Activity, and Respiration (APGAR) scores are being Appearance Pulse rate ( heart rate) Grimace Activity (tone) Respiration</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c17498d7",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following primitive reflexes is not present at birth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moro\u2019s reflex",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Asymmetric tonic neck reflex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Parachute reflex",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Grasp reflex",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Parachute reflex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Parachute reflex Parachute reflex develops 6-9 months after birth and persists till death. Moro's, Asymmetric tonic neck reflex (ATNR) , and grasp reflex are present at birth.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7c8d2cca",
+      "audio": ""
+    },
+    {
+      "text": "A normal Moro response consists of all of the following except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Symmetric extension and abduction of the upper limb",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Flexion of the upper limb",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Audible cry",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Flexion of lower limb",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Flexion of lower limb",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Flexion of lower limb The Moro reflex is an infantile reflex that develops between 28-32 weeks of gestation and disappears between 3-6 months of age. It is a response to a sudden loss of support and involves three distinct c omponents: Symmetric extension and abduction of the fingers and upper extremities followed by Flexion of the upper extremities. An audible cry.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "909e1be8",
+      "audio": ""
+    },
+    {
+      "text": "An intern is newly posted to the labour room. As the resident in charge, you train her on basic neonatal resuscitation. Which of the following is true about the APGAR scoring system ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Commonly performed at 2 minutes and at 5 minutes after birth.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "APGAR score is not useful in deciding initial resuscitation at birth",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Each of the 5 things in APGAR is scored from 1 to 3 and the maximum score is 15.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Extended APGAR scores must be obtained every 10 minutes up to 20 minutes if 5 minutes APGAR score is less than 7.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. APGAR score is not useful in deciding initial resuscitation at birth",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>APGAR score is not useful in deciding initial resuscitation at birth APGAR scoring is performed at 1 minute and 5 minutes after birth. However, resuscitation must be initiated before a 1-minute score is assigned. Hence</p>\n<p><strong>Highyeild:</strong></p><p>APGAR score is not used to guide the resuscitation, but sequential scores are used to monitor how well the baby is responding to resuscitative efforts.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. APGAR score is done at 1 minute and 5 minutes after birth Option: C. Each Appearance, Pulse, Grimace, Activity, and Respiration is scored on a scale of 0 to 2 and hence the maximum score is 10. Option: D. If 5 minutes APGAR score is less than 7, extended APGAR scores must be obtained every 5 minutes up to 20 minutes. APGAR Evaluation of newborn infants SIGN 0 1 2 Heart rate Absent Below 100 Over 100 Respiratory effort Absent Slow, irregular Good, crying Muscle tone Limp Some flexion Active motion Reflex* No response Grimace Cough or sneeze Color Blue, Pale Body pink, Extremities blue Completely pink 7 to 10 is normal 4 to 6 is moderately depressed 0 to 3 needs immediate resuscitation</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e4ba2e32",
+      "audio": ""
+    },
+    {
+      "text": "While posted in the labour room, you were asked to assess a just-born neonate. The baby has a heart rate of 80 beats per minute, weak cry, active body movements, grimaces and looks completely pink. What APGAR score would you assign?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "7",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 7",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>7 APGAR Evaluation of newborn infants SIGN 0 1 2 Heart rate Absent Below 100 Over 100 Respiratory effort Absent Slow, irregular Good, crying Muscle tone Limp Some flexion Active motion Reflex* No response Grimace Cough or sneeze Color Blue, Pale Body pink, Extremities blue Completely pink 7 to 10 is normal 4 to 6 is moderately depressed 0 to 3 needs immediate resuscitation In this question, baby has: Heart rate < 100 bpm: 1; Weak cry: 1; Active body movements: 2; Grimace reflex: 1; Colour completely pink: 2. Therefore, total score= 7. Option A & C. APGAR score of < 7 is not good and needs active intervention. Option B & D. APGAR score of 7 to 10 is normal. But a score of 10 is very unusual as at birth baby has peripheral cyanosis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f9b6755b",
+      "audio": ""
+    },
+    {
+      "text": "An outside-delivered newborn baby is brought to the triage labour room. On initial assessment, the baby has a weak cry, a heart rate of 90 beats per minute, only some flexion movements, blue extremities, and coughs when nostrils are irritated with a catheter. The respiratory efforts of this baby are slow and irregular. What APGAR score would you assign?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "8",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "6",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 6",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>6 APGAR Evaluation of newborn infants SIGN 0 1 2 Heart rate Absent Below 100 Over 100 Respiratory effort Absent Slow, irregular Good, crying Muscle tone Limp Some flexion Active motion Reflex* No response Grimace Cough or sneeze Color Blue, Pale Body pink, Extremities blue Completely pink 7 to 10 is normal 4 to 6 is moderately depressed 0 to 3 needs immediate resuscitation In this question, baby has: Heart rate < 100 bpm: 1; Weak cry: 1; Active body movements: 2; Grimace reflex: 1; Colour completely pink: 2. Therefore, total score= 7. Option: A & C. APGAR score of < 7 is not good and needs active intervention. Option: B & D. APGAR score of 7 to 10 is normal. But a score of 10 is very unusual as at birth baby has peripheral cyanosis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2cf962b4",
+      "audio": ""
+    },
+    {
+      "text": "During your rounds in the postnatal ward, you assess the neurological development of the baby by eliciting primitive reflexes. Which of the following is not a primitive reflex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rooting reflex",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Moro reflex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Galant reflex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hoffmann\u2019s reflex",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Hoffmann\u2019s reflex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hoffmann\u2019s reflex Primitive reflexes are CNS reflexes present in healthy neonates which disappear within the first year of life.</p>\n<p><strong>Highyeild:</strong></p><p>Hoffmann\u2019s reflex is not a primitive reflex and it involves loosely holding the middle finger and flicking the fingernail downward, allowing the middle finger to flick upward reflexively. A positive response is seen when there is flexion and adduction of the thumb on the same hand.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Rooting reflex: When the cheek of the baby is stroked, the head moves towards the same side as if seeking the nipple. It disappears in 4 months. Option: B. Moro reflex: When the head of the baby is suddenly dropped about the trunk, the response consists of the opening of the hands and extension and abduction of the upper extremities followed by anterior flexion of the upper extremities followed by an audible cry. It disappears in 3-6 months Option: C. Galant reflex: When the infant is suspended in a face-down position, stroking along one side of the spine causes lateral flexion of the lower body towards the stimulated side.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d73a0f6b",
+      "audio": ""
+    },
+    {
+      "text": "As a resident doctor, you are asked to examine the neurological status of the babies in the NICU. While eliciting Moro's reflex on a neonate, you observe that the baby showed the first part of the reflex but did not show the second part. Based on this finding, what would be the gestational age of the neonate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "28-32 weeks",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "32-36 weeks",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Term gestation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "< 28 weeks",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 32-36 weeks",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1690957683049-QTDK014014IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>32-36 weeks Moro\u2019s reflex is a primitive reflex . When the head of the baby is suddenly dropped about the trunk, the response consists of the opening of the hands and extension and abduction of the upper extremities followed by anterior flexion of the upper extremities followed by an audible cry. It disappears in 3-6 months. The hand opening is present by 28 weeks, extension and abduction by 32 weeks, and anterior flexion by 37 weeks.</p>\n<p><strong>Highyeild:</strong></p><p>The question hints that the baby is in NICU which might be due to its prematurity. As the baby showed extension and abduction of the upper extremities but did not show anterior flexion, the baby\u2019s gestational age would be between 32 and 37 weeks.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. In this case, the baby would have been able to open his hands not associated with abduction and extension of the upper extremity. Option: C. By term gestation, the baby would be able to show complete Moro\u2019s reflex . Option: D. Moro\u2019s reflex would be completely absent in this case.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "082272d9",
+      "audio": ""
+    },
+    {
+      "text": "While performing the Moro reflex in a neonate, you observe the following: What is your interpretation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Premature neonate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Normal response",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Brachial plexus injury",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Hypoxic encephalopathy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Brachial plexus injury",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1682883243257-QTDK014015IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Brachial plexus injury The image shows asymmetrical Moro\u2019s reflex which is also known as the startle reflex.</p>\n<p><strong>Highyeild:</strong></p><p>Notice that the right upper limb did not abduct and extend. The causes of asymmetric Moro\u2019s reflex are brachial plexus injury or collar bone fracture on the same side.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. In a premature neonate, Moro\u2019s reflex would either be absent or incompletely present depending on the gestational age but it would never be asymmetrical. The hand opening is present by 28 weeks , extension and abduction by 32 weeks , and anterior flexion by 37 weeks. Option: B . Asymmetrical Moro\u2019s reflex can never be a normal response Option: D. In the case of Hypoxic Ischaemic Encephalopathy, Moro\u2019s reflex will show a long latent period and no asymmetry. The long latency interval of Moro response could be a valuable clinical sign to screen for neurological impairment in HIE.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1545f0eb",
+      "audio": ""
+    },
+    {
+      "text": "While assessing the neurological status of neonates in post-natal wards, a paediatrician elicits the following reflex. Which of the following is true about this reflex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normally this reflex is not followed by a cry.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It disappears by 5-6 months of age",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The hand opening is present by 24 weeks of gestation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Asymmetry in this reflex is seen in hypoxic ischaemic encephalopathy.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It disappears by 5-6 months of age",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/questionImage-1725358336211-photos-1725270865102-QTDK014016IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>It disappears by 5-6 months of age As it is a primitive reflex, it disappears in 3-6 months.</p>\n<p><strong>Highyeild:</strong></p><p>All primitive reflexes disappear by 1 year of age due to inhibition by the frontal lobe . Therefore, frontal lobe lesions in adults can cause these primitive reflexes to come back.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. The image shows Moro\u2019s reflex or Startle reflex. When the head of the baby is suddenly dropped in relation to the trunk, the response consists of the opening of the hands and extension and abduction of the upper extremities followed by anterior flexion of the upper extremities followed by an audible cry. Option: C. The hand opening is present by 28 weeks , extension and abduction by 32 weeks, and anterior flexion by 37 weeks. Option: D. Asymmetrical Moro\u2019s reflex is seen in brachial plexus injury. In HIE, a long latent period is seen in Moro\u2019s reflex.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "49cbaf4a",
+      "audio": ""
+    },
+    {
+      "text": "As part of the neurological examination of neonates in the NICU, the following reflex was elicited by the pediatric professor. Which of the following is true about this reflex?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Image shows Galant reflex",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "This reflex is present at 28 weeks of gestation",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "This reflex diminishes by 2 months",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. This reflex is present at 28 weeks of gestation",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1682883244273-QTDK014017IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>This reflex is present at 28 weeks of gestation The image shown here is of a palmar grasp. It is present at 28 weeks and is strong by 32 weeks.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Galant reflex: When the infant is suspended in a face-down position, stroking along one side of the spine causes lateral flexion of the lower body towards the stimulated side. Option: C. This reflex diminishes by 4 months because this is the age when the baby develops voluntary grasping.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ad69d07b",
+      "audio": ""
+    },
+    {
+      "text": "A primigravida woman in active labour is brought to the hospital. On examination, you find that the fetal heart rate is non-reassuring, probably due to the prolonged second stage of labour. The consultant decided to perform forceps delivery. The Baby was delivered successfully. However, you are concerned about damaging the brachial plexus in the baby. Which of the following can help in confirming the suspicion ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Startle reflex",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Galant reflex",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Plantar reflex",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rooting reflex",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Startle reflex",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Startle reflex Forceps delivery can cause brachial plexus injury in the newborn. Among the given options, Moro\u2019s reflex also known as the Startle reflex can help in the diagnosis of brachial plexus injury. In brachial plexus palsy, asymmetric Moro\u2019s reflex is seen.</p>\n<p><strong>Highyeild:</strong></p><p>Asymmetric tonic neck reflex might also help in the diagnosis of the same as this reflex involves the extension of ipsilateral arms with flexion of contralateral arms .</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Galant reflex: When the infant is suspended in a face-down position, stroking along one side of the spine causes lateral flexion of the lower body towards the stimulated side. Option: C. Plantar reflex. Plantar stimulation shows dorsiflexion of the great toe and fanning of other toes. (Similar to Babinski sign in adults due to UMN lesion). Option: D. Rooting reflex. When the cheek of the baby is stroked, the head moves towards the same side.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ee0e4422",
+      "audio": ""
+    }
+  ]
+}

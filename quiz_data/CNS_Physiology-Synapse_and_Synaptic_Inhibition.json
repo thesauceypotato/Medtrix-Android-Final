@@ -1,0 +1,720 @@
+{
+  "meta": {
+    "id": "test9",
+    "title": "CNS_Physiology-Synapse_and_Synaptic_Inhibition",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following best describes the mechanism of action of glutamate at its receptors in the central nervous system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It inhibits metabotropic receptors, activating a G-protein, thus increasing cAMP levels.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It stimulates NMDA receptors, resulting in an influx of calcium ions.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "It inhibits AMPA receptors, preventing sodium influx.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It stimulates kainate receptors, thus decreasing chloride ion permeability.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. It stimulates NMDA receptors, resulting in an influx of calcium ions.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:671px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subtype </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Features </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Functions </strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ionotropic receptors </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>AMPA</strong></p>\n<p>(Alpha-amino-3-hydroxy-5-methylisoxazole-4-propionate)</p>\n<p><strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Influx of Na+ and efflux of K+.</li>\n<li>It has a low <span class=\"customMeta\" data-dictid=\"1c7103a9b516927771955682b6aaa4\">permeability</span> for Ca2+.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Produces fast <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> <span class=\"customMeta\" data-dictid=\"978bd0e89f1692777196add72e1254\">postsynaptic</span> potential.</p>\n<br/>\n\t\t\t\u00a0</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Kainate <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> </strong></p>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Influx of Na+ and Ca2+</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Aids in <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> neurotransmission</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>NMDA receptor</strong></p>\n<p><strong>(N-methyl-D-aspartate)</strong></p>\n<p><strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Allows large influx of Ca2+ and Na+</p>\n<p><strong>Unique Features:</strong></p>\n<ul>\n<li>Glycine Binding: Essential for <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> response to glutamate.</li>\n<li>Mg\u00b2\u207a Block: At normal <span class=\"customMeta\" data-dictid=\"34cd707428169277719272942b7905\">membrane</span> potentials, the channel is blocked by <span class=\"customMeta\" data-dictid=\"ba366417791692777187229d34e597\">extracellular</span> Mg\u00b2\u207a. This block is removed during depolarisation by adjacent AMPA and kainate receptors.</li>\n<li>EPSP: Slower than AMPA/kainate receptors-induced EPSP.</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Involved in <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> plasticity, memory, and learning and can cause <span class=\"customMeta\" data-dictid=\"661cebc9c7169277718734a38fa71b\">excitotoxicity</span> in excess.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Metabotropic receptors </strong></p>\n<p><strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Presynaptic</strong> (mGluR2-4,6-8):</p>\n<p>Involved in limiting <span class=\"customMeta\" data-dictid=\"ada5fcf7e416927771886ff24152ff\">glutamate</span> release.</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activation leads to changes in second messengers:</p>\n<ul>\n<li>IP3 and DAG: Increased <span class=\"customMeta\" data-dictid=\"a621be29da16927771901bc91014d1\">intracellular</span> levels.</li>\n<li>cAMP: Decreased <span class=\"customMeta\" data-dictid=\"a621be29da16927771901bc91014d1\">intracellular</span> levels.</li>\n</ul>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Modulate <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> <span class=\"customMeta\" data-dictid=\"7884953ee5169277719574e0b5dc23\">plasticity</span> and <span class=\"customMeta\" data-dictid=\"66748a30e91692777193358c35b2b0\">neurotransmission</span> indirectly through second messengers.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Postsynaptic</strong> (mGluR1,5):</p>\n<p>Involved in <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> plasticity.</p>\n</td>\n</tr>\n</tbody>\n\n<table cellspacing=\"0\" style=\"border-collapse:collapse\">\n<tbody>\n<tr>\n<td style=\"vertical-align:top\">\n<ul>\n<li>Ionotropic receptors</li>\n<li>AMPA receptor</li>\n<li>Kainate receptor</li>\n<li>NMDA receptor</li>\n</ul>\n</td>\n<td style=\"vertical-align:top\">\n<ul>\n<li>Metabotropic receptors\n\t\t\t\t<ul>\n<li>Presynaptic - (mGluR2-4,6-8)</li>\n<li>Postsynaptic - (mGluR1,5)</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/wtRofQlxNd5AfhtQwyZT1745666754.mp3",
+      "video": "",
+      "uid": "3286d3d7"
+    },
+    {
+      "text": "As illustrated below, in examining the effects of presynaptic inhibition and facilitation on action potentials, Ca\u00b2\u207a currents, and EPSPs (excitatory postsynaptic potential) ,which statement regarding the dashed line recordings is false? (solid lines for controls; dashed lines for inhibition/facilitation)",
+      "options": [
+        {
+          "label": "A",
+          "text": "It can be produced by opening of voltage gated K+ channel",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Produced due to enhanced Ca2+ entry in the presynaptic neuron.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The effect is produced by GABA",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Produced due to increases Cl\u2212 conductance",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Produced due to enhanced Ca2+ entry in the presynaptic neuron.",
+      "question_images": [
+        "https://image.prepladder.com/content/WBDKAUbnRiT9AVlrzgpu1736068917.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/V4SvuKVoejW6W9sQqAKu1736068963.png",
+        "https://image.prepladder.com/content/NJScYLjI33Vk8jGRBagt1736069036.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/27FWardAprbBZTnuBAW01745670897.mp3",
+      "video": "",
+      "uid": "69d8576b"
+    },
+    {
+      "text": "Feedforward Inhibition is seen in",
+      "options": [
+        {
+          "label": "A",
+          "text": "Renshaw cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cerebellum",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Basal Ganglia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hippocampus",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cerebellum",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/W4Ls1uq14IOPxagZ5Lhv1736321778.png",
+        "https://image.prepladder.com/content/Ytkn60BynJWnSCSK8u3O1736068794.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feedback Inhibition</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feedforward Inhibition</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition where the output of a process inhibits its own production.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Inhibition where an <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> directly inhibits another <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> in response to input.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism</strong><strong> </strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"60b935ac461692777187dd721f3464\">end product</span> of a <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> inhibits an <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> involved in the pathway.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>An <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> activates an <span class=\"customMeta\" data-dictid=\"1b6bd49bf11692777190214aa47f99\">inhibitory</span> <span class=\"customMeta\" data-dictid=\"17d10546871692777193f302d45980\">neuron</span> and then inhibits a <span class=\"customMeta\" data-dictid=\"f5467ab59316927771863c852a23a6\">downstream</span> neuron.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Function</strong><strong> </strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It helps maintain <span class=\"customMeta\" data-dictid=\"50796581771692777189251fbe5ef1\">homeostasis</span> by regulating the production of substances.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Anticipates and prevents excessive <span class=\"customMeta\" data-dictid=\"8265e091151692777187f264d73f3b\">excitation</span> in <span class=\"customMeta\" data-dictid=\"b00388be25169277719369b3ab059f\">neural</span> circuits.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Example</strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>The <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">inhibition</span> of an <span class=\"customMeta\" data-dictid=\"0f160e4e42169277718771b715516a\">enzyme</span> in a <span class=\"customMeta\" data-dictid=\"d92cbff33316927771927b4de10a5b\">metabolic</span> <span class=\"customMeta\" data-dictid=\"3aa5abc2fa169277719488e088076d\">pathway</span> by its <span class=\"customMeta\" data-dictid=\"60b935ac461692777187dd721f3464\">end product</span> (e.g., <span class=\"customMeta\" data-dictid=\"5abb3a7e7f1692777182a8f4c42522\">ATP</span> inhibiting phosphofructokinase).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>In the cerebellum, <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> inputs <span class=\"customMeta\" data-dictid=\"6b3de87b7c16927771901326efbcd2\">inhibit</span> output neurons to prevent overexcitation.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ZRK8391NRBa3bJkEj2kz1745600984.mp3",
+      "video": "",
+      "uid": "00f5edd3"
+    },
+    {
+      "text": "In presynaptic inhibition, which neurotransmitter is most commonly responsible for inhibiting synaptic transmission at the presynaptic terminal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glutamate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Serotonin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "GABA",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Glycine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. GABA",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Indirect <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">Inhibition</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Direct <span class=\"customMeta\" data-dictid=\"f03ca2d2a716927771901227bc175a\">Inhibition</span> </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Site of action</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Presynaptic </strong>terminal</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Postsynaptic </strong>neuron</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary mechanism</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduces <span class=\"customMeta\" data-dictid=\"e28fd027b416927771932bc23ba0a5\">neurotransmitter</span> release.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Hyperpolarises or shunts <span class=\"customMeta\" data-dictid=\"978bd0e89f1692777196add72e1254\">postsynaptic</span> neurons..</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Main neurotransmitter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA (primarily)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA, <span class=\"customMeta\" data-dictid=\"6df8c5de5016927771881dc6865f2e\">Glycine</span> <strong>(Option D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Receptor types involved</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mainly GABA-B receptors</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA-A, <span class=\"customMeta\" data-dictid=\"6df8c5de5016927771881dc6865f2e\">Glycine</span> receptors</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Spatial effect</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It can affect multiple synapses from the same axon</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Localized to specific synapses</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Onset and duration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Can be longer-lasting</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Usually, rapid onset and offset</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/KYzEZVA1v7tbVgF8hjng1745670592.mp3",
+      "video": "",
+      "uid": "256f4044"
+    },
+    {
+      "text": "A 28-year-old woman has fluctuating muscle weakness that worsens throughout the day. Tests show a decremental response to repetitive nerve stimulation, improvement with edrophonium, and antibodies against neuromuscular junction proteins. What is the primary pathophysiological mechanism in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased acetylcholine release from motor nerve terminals",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Reduced functional acetylcholine receptors on the postsynaptic membrane",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Antibodies blocking voltage-gated calcium channels on presynaptic terminals",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "It is a presynaptic syndrome",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Reduced functional acetylcholine receptors on the postsynaptic membrane",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:664px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Myasthenia Gravis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lambert-Eaton Myasthenic Syndrome (LEMS)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Primary <span class=\"customMeta\" data-dictid=\"06e07ce7821692777182e8ffd9676f\">autoantibody</span> target</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acetylcholine receptors</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Voltage-gated <span class=\"customMeta\" data-dictid=\"54de8b79a91692777183e608bc0dd4\">calcium</span> channels <strong>(Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathophysiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced <strong>postsynaptic </strong>acetylcholine receptors<strong> (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decreased <strong>presynaptic </strong>acetylcholine release <strong>(Options\u00a0A and D)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fatigue pattern</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Worsens with activity</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Improves with brief exercise.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Reflexes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal or mildly reduced</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced or absent may improve after exercise.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Repetitive nerve stimulation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Decremental response.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Incremental response.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Response to edrophonium</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Improves symptoms.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Little to no improvement.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/C5oZxexHHmbBNd0khZ5N1745670298.mp3",
+      "video": "",
+      "uid": "3d19d696"
+    },
+    {
+      "text": "Which of the following is the correct sequence of events at the neuromuscular junction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ca2+ influx \u2192 ACh release \u2192 End-plate potential \u2192 Muscle contraction",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "ACh release \u2192 Ca2+ influx \u2192 End-plate potential \u2192 Muscle contraction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "End-plate potential \u2192 Ca2+ influx \u2192 ACh release \u2192 Muscle contraction",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "ACh release \u2192 End-plate potential \u2192 Ca2+ influx \u2192 Muscle contraction",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ca2+ influx \u2192 ACh release \u2192 End-plate potential \u2192 Muscle contraction",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/7BI25iNl9nndOeNmUiEy1736068214.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ksWxsiiqSVukvTbn4dJW1745669920.mp3",
+      "video": "",
+      "uid": "e60d2fd2"
+    },
+    {
+      "text": "Slow Type inhibitory postsynaptic potential (IPSP) is generated by?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opening of K+ channels",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Closing of K+ channels",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Opening of Cl- channels",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Opening of Na+ channels",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Opening of K+ channels",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:649px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>IPSP Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Channel </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Region</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Slow <span class=\"customMeta\" data-dictid=\"8aeddf7d291692777190baca5b7dfc\">IPSP</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Opening of K+ Channel <strong>(Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autonomic ganglia, smooth muscles, <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> muscles.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fast IPSP</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Entry of Cl- Channel <strong>(Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>All parts of the CNS.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/3nbKS4Mj2KBrGqEnqbqR1745669423.mp3",
+      "video": "",
+      "uid": "105437bf"
+    },
+    {
+      "text": "What is the primary effect of an inhibitory postsynaptic potential (IPSP) on a neuron's excitability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases the rate of Neurotransmitter release",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decreases membrane potential, closer to firing threshold",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increases membrane potential, farther from firing threshold",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "No effect on membrane potential",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Increases membrane potential, farther from firing threshold",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/PeZnuyYZZkk3aH26bLPr1745669073.mp3",
+      "video": "",
+      "uid": "3d6a0571"
+    },
+    {
+      "text": "A 65-year-old male patient presents with neurological symptoms following a Cerebrovascular accident. Imaging confirms ischemic damage in the brain. Elevated levels of glutamate are found in the extracellular of the brain. Which of the following statements about glutamate-induced cytotoxicity is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cleared primarily by K+dependent systems in neurons",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Causes neuronal death by excessive Na+ influx",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cytotoxicity due to excessive Ca2+ influx",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Elevated Na+ stimulates astrocytes to remove glutamate",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Cytotoxicity due to excessive Ca2+ influx",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/slofkbD9Kcmh69I5P91u1745668718.mp3",
+      "video": "",
+      "uid": "7bbaff03"
+    },
+    {
+      "text": "During the generation of excitatory postsynaptic potential (EPSP), which of the following movements of ions occur at the postsynaptic membrane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Efflux of sodium ions",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Influx of calcium ions",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Influx of potassium ions",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Influx of chloride ions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Influx of calcium ions",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/I1Ac4lCBeypltG1M6Fro1745667409.mp3",
+      "video": "",
+      "uid": "48e6a17b"
+    },
+    {
+      "text": "Which subtype of GABA receptors mediate fast inhibitory postsynaptic potentials through the entry of Cl- into neurons? GABA-A GABA-B GABA-C",
+      "options": [
+        {
+          "label": "A",
+          "text": "Receptor 1 and 2",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Receptor 2 and 3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Receptor 1 and 3",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Receptor 1 and 3",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:660px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Receptor subtype </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Subunit </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Distribution </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mechanism </strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inotropic receptor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA- <strong>A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pentamers of various combinations: 6 \u03b1, 4 \u03b2, 4 \u03b3, 1 \u03b4, 1 \u03b5</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CNS</p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Activation allows <strong>Cl\u2013 entry</strong> into neurons, mediating fast <span class=\"customMeta\" data-dictid=\"1b6bd49bf11692777190214aa47f99\">inhibitory</span> <span class=\"customMeta\" data-dictid=\"978bd0e89f1692777196add72e1254\">postsynaptic</span> potentials (IPSP)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA- <strong>C</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pentamers of three \u03c1 subunits in various combinations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Almost exclusively in the retina.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>G-protein coupled <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>GABA- <strong>B</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No specific subunit composition</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CNS</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Linked via <strong>G-proteins</strong>: Gi inhibits <span class=\"customMeta\" data-dictid=\"7112e9ca411692777180a7c10a13a6\">adenylyl</span> <span class=\"customMeta\" data-dictid=\"b638747a661692777185a6182d6e5f\">cyclase</span> to open the K+ channel, Go inhibits or delays Ca2+ influx.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/XEZHgQXF1fI4iVTTqLwX1745667147.mp3",
+      "video": "",
+      "uid": "f13cf82e"
+    },
+    {
+      "text": "A 63-year-old male presents with a neurodegenerative condition involving impaired glutamate regulation. Which type of glial cell is primarily involved in glutamate regulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schwann cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Astrocytes",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ependymal cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Oligodendrocytes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Astrocytes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:580px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Oligodendrocytes (Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Form <span class=\"customMeta\" data-dictid=\"47fec911a316927771933b7607bdf0\">myelin</span> <span class=\"customMeta\" data-dictid=\"44e9c0bbec169277719829907370ee\">sheath</span> in <span class=\"customMeta\" data-dictid=\"e1a4a12fb416927771841c46faf6fb\">CNS</span> neurons.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Astrocytes (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Support and protect neurons, provide nutrition, and control levels of glutamate.</li>\n<li>It is of 2 types:\n\t\t\t\t<ul>\n<li>Fibrous astrocytes (found in white matter)</li>\n<li>Protoplasmic astrocytes (found in grey matter)</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Schwann cells (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Form <span class=\"customMeta\" data-dictid=\"47fec911a316927771933b7607bdf0\">myelin</span> <span class=\"customMeta\" data-dictid=\"44e9c0bbec169277719829907370ee\">sheath</span> in <span class=\"customMeta\" data-dictid=\"20af36db471692777196475a7cff98\">PNS</span> neurons.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NA9DOD7CNjEBLxfcSh2r1745600861.mp3",
+      "video": "",
+      "uid": "ce22c3b0"
+    },
+    {
+      "text": "Match the following neurotransmitters with their site of production in CNS. A. Acetylcholine (ACh) 1. Raphe nuclei B. Norepinephrine (NE) 2. Nucleus basalis of Meynert C. Dopamine 3. Locus ceruleus D. Serotonin 4. Substantia nigra",
+      "options": [
+        {
+          "label": "A",
+          "text": "A-4, B-3, C-2, D-1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "A-3, B-2, C-4, D-1",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "A-2, B-3, C-4, D-1",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "A-4, B-2, C-3, D-1",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. A-2, B-3, C-4, D-1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitters</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Source</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Acetylcholine (ACh)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Nucleus <span class=\"customMeta\" data-dictid=\"849623f7a71692777182fb29760194\">basalis</span> of Meynert</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Associated with Muscle contraction, Memory and <span class=\"customMeta\" data-dictid=\"7bdd34850816927771973c86f95b79\">REM</span> sleep</li>\n<li>NT* for Sweat glands</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Norepinephrine (NE)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Locus ceruleus</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Regulates <span class=\"customMeta\" data-dictid=\"882ef330fb16927772022093f7518f\">wakefulness</span> and alertness.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Dopamine</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Substantia nigra</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Destruction causes Parkinson\u2019s disease.</li>\n<li>NT* of reward and addiction.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Serotonin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Raphe nuclei</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Regulation of mood, sleep, and appetite.</li>\n<li>The highest concentration is in Platelets, <span class=\"customMeta\" data-dictid=\"6c13e383a01692777187ae85e093b6\">enterochromaffin</span> cells, and myenteric plexus.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/feoklxyD3yrLVilFv2W71745666161.mp3",
+      "video": "",
+      "uid": "9b2f8133"
+    },
+    {
+      "text": "Which neurotransmitter is primarily responsible for inhibiting motor neuron activity at the level of the spinal cord to regulate muscle tone and reflexes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GABA",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Glutamate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Glycine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Acetylcholine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Glycine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qfREmedNizIxipU9EgiA1745665875.mp3",
+      "video": "",
+      "uid": "0d66c5cf"
+    },
+    {
+      "text": "25-year-old patient with generalized anxiety disorder presents with persistent insomnia. Which neurotransmitter is targeted to promote relaxation and reduce excitability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glutamate and aspartate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Gamma-aminobutyric acid (GABA)",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Dopamine and serotonin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Endorphins and substance P",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Gamma-aminobutyric acid (GABA)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Excitatory</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Inhibitory</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Glutamate (Major <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">excitatory</span> NT)</li>\n<li>Aspartate (Less common)</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>GABA (Brain)</li>\n<li>Glycine (Spinal cord)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Produces <span class=\"customMeta\" data-dictid=\"082e153b9316927771872bec02a55d\">Excitatory</span> Post <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">Synaptic</span> Potential (EPSP)</p>\n<ul>\n<li>Fast EPSP: Due to Na or Ca Influx</li>\n<li>Slow EPSP: Due to K+ channel closure</li>\n</ul>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Produces <span class=\"customMeta\" data-dictid=\"1b6bd49bf11692777190214aa47f99\">Inhibitory</span> Post <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">Synaptic</span> Potential (IPSP)</p>\n<ul>\n<li>Fast IPSP: Due to Cl-Entry</li>\n<li>Slow IPSP: Due to K+ channel opening</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class 1</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Choline & <span class=\"customMeta\" data-dictid=\"6ade0969281692777180216b0c3d76\">Acetyl</span> CoA: </strong>Acetylcholine (ACh)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class 2</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Biogenic Amines: </strong>Norepinephrine, Dopamine, Serotonin, Histamine</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class 3</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Amino Acid Neurotransmitters: </strong>Glutamate, GABA, Aspartate, Glycine</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Class 4</strong></p>\n</td>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Purines and Gases: </strong>ATP, NO, CO</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Peptide Neurotransmitters: </strong>Substance P, <span class=\"customMeta\" data-dictid=\"25e4129fb91692777193bdac183218\">Neuropeptide</span> Y</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/nEW7TlK4PjbJZgm5d3K61745665569.mp3",
+      "video": "",
+      "uid": "6c77eeb9"
+    },
+    {
+      "text": "A 40-year-old patient presents with severe muscle stiffness and spasms, including trismus and rigidity, after stepping on a rusty nail two weeks ago. Which toxin is responsible for these symptoms by interfering with neurotransmitter release at the neuromuscular junction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Botulinum toxin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tetanus toxin",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Strychnine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Curare",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Tetanus toxin",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/AZywORYD5wvv9WfcDIBk1736066407.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/zQUb47jH7Quu9yPuijOl1745664926.mp3",
+      "video": "",
+      "uid": "2a789541"
+    },
+    {
+      "text": "Which protein, essential for regulating neurotransmitter release at the neuromuscular junction, prevents the premature fusion of synaptic vesicles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Synaptobrevin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "SNAP-25",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Syntaxin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Complexin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Complexin",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/DMyqLA6iqAx4rseGimTt1736066265.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Lho9hUx6BNncsutE4W5h1745660783.mp3",
+      "video": "",
+      "uid": "320af772"
+    },
+    {
+      "text": "Which of the following types of vesicle at the synaptic terminal contain glutamate neurotransmitter ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small clear vesicles",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Large dense-core vesicles",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Small dense-core vesicles",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Endosomes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Small clear vesicles",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:501px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types of vesicles</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitters </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Small clear vesicles</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Acetylcholine, GABA, glutamate</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Small dense core vesicles (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Catecholamines(eg:dopamine,epinephrine and norepinephrine)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Large dense core vesicles (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neuropeptides</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/XD7glmGjgVEDCDhOHmQc1745660401.mp3",
+      "video": "",
+      "uid": "c3aa6d58"
+    },
+    {
+      "text": "A researcher studying the precision of synaptic connections between neurons focuses on how specific neurons target each other for communication. Which of the following concepts refers to the precise targeting of synaptic connections to ensure accurate neuronal communication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Synaptic specificity",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Active zones",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Synaptobrevin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Postsynaptic density",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Synaptic specificity",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/y3EMmKTVEJekMUVMOYYu1736066027.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/HCcTEMbqeuO46R057Xmq1745660130.mp3",
+      "video": "",
+      "uid": "0d7402d7"
+    },
+    {
+      "text": "A researcher studying synaptic transmission observes that communication at a particular synapse is both rapid and bidirectional. What is the most likely synapse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chemical synapse",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Axo Axonal synapse",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Axodendritic synapse",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Electrical synapses",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Electrical synapses",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/CnmZ7z1iws2OEaDC373U1736065874.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aspects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Electrical <span class=\"customMeta\" data-dictid=\"12a0ce16121692777199554dcff349\">synapse</span> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chemical <span class=\"customMeta\" data-dictid=\"12a0ce16121692777199554dcff349\">synapse</span> (</strong><strong>Option A</strong><strong>)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Occurrence</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Rare</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Most common</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Width of <span class=\"customMeta\" data-dictid=\"5c4592475a1692777199991c761d11\">synaptic</span> cleft</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Narrow</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Wide</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neurotransmitters</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Absent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Present</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gap junctions</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Present</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Absent</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Synaptic transmission</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>No time delay</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Time delay is present</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Transmission direction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bidirectional</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Unidirectional</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Component</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pre-synaptic and Post-synaptic membranes (connected by gap junctions)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pre-synaptic <span class=\"customMeta\" data-dictid=\"7aa38569251692777184021705e8de\">cleft</span> and post-synaptic cleft</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Types</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>-</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3 types:</p>\n<ul>\n<li>Axodendritic <strong>(Option C)</strong></li>\n<li>Axoaxonal <strong>(Option B)</strong></li>\n<li>Axosomatic</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/em826uxdEwvgA14gav9b1745658946.mp3",
+      "video": "",
+      "uid": "9383937b"
+    },
+    {
+      "text": "A 52-year-old male patient complains of visual disturbances and difficulty walking. On detailed examination, the patient is diagnosed with multiple sclerosis that occurs due to demyelination of neurons. Which of the following cells is involved in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microglia",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oligodendrocytes",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Schwann cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Astrocytes",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Oligodendrocytes",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Peripheral nervous system</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Central nervous system</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cells involved in Myelination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>One Schwann cell for one neuron.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>One <span class=\"customMeta\" data-dictid=\"853eda0c8b16927771945a8590a405\">Oligodendrocyte</span> for multiple neurons.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Demyelinating disease</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Localised disease (e.g., Guillain-Barr\u00e9 Syndrome)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diffuse disease (e.g., Multiple Sclerosis)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Covering of <span class=\"customMeta\" data-dictid=\"e2488001c816927772014412348125\">unmyelinated</span> neuron</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Surrounded by the Schwann cell process.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Bare (no <span class=\"customMeta\" data-dictid=\"47fec911a316927771933b7607bdf0\">myelin</span> sheath)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/k1rSXmDHwml3gh2OeYzD1745658164.mp3",
+      "video": "",
+      "uid": "1d90ee96"
+    }
+  ]
+}

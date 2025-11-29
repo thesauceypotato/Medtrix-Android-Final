@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "id": "test124",
+    "title": "Pulmonary Hypertension",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following best defines pulmonary hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean pulmonary artery pressure [PAP] >16 mmHg or an estimated systolic PAP >36 mmHg",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mean pulmonary artery pressure [PAP] >16 mmHg or an estimated systolic PAP >26 mmHg",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mean pulmonary artery pressure [PAP] >22 mmHg or an estimated systolic PAP >36 mmHg",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mean pulmonary artery pressure [PAP] >22 mmHg or an estimated systolic PAP >26 mmHg",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Mean pulmonary artery pressure [PAP] >22 mmHg or an estimated systolic PAP >36 mmHg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mean pulmonary artery pressure [PAP] >22 mmHg or an estimated systolic PAP >36 mmHg Pulmonary hypertension (PH) is a spectrum of diseases involving the pulmonary vasculature and defined as an elevation in pulmonary arterial pressures (mean pulmonary artery pressure [PAP] >22 mmHg or an estimated systolic PAP >36 mmHg). Symptoms of dyspnea, chest pain, and syncope characterize it.</p>\n<p><strong>Extraedge:</strong></p><p>If left untreated, the disease carries a high mortality rate, with the most common cause being decompensated right heart failure.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6713faf3",
+      "audio": ""
+    },
+    {
+      "text": "Which is the most common cause of death in untreated pulmonary hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebro-vascular accident",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Decompensated right heart failure",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Liver failure",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Acute renal failure",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Decompensated right heart failure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decompensated right heart failure Pulmonary hypertension (PH) is a spectrum of diseases involving the pulmonary vasculature. It is defined as an elevation in pulmonary arterial pressures (mean pulmonary artery pressure [PAP] >22 mmHg or an estimated and systolic PAP >36 mmHg).</p>\n<p><strong>Highyeild:</strong></p><p>Pulmonary hypertension (PH) is a spectrum of diseases involving the pulmonary vasculature and defined as an elevation in pulmonary arterial pressures (mean pulmonary artery pressure [PAP] >22 mmHg or an estimated and systolic PAP >36 mmHg). It is characterized by symptoms of dyspnea, chest pain, and syncope If left untreated, the disease carries a high mortality rate, with the most common cause of death being decompensated right heart failure.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Less common. Option: C. Less common. Option: D. Less common.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "724a7088",
+      "audio": ""
+    },
+    {
+      "text": "A 25-year-old female presents with dyspnea, chest pain, and syncope. Which is the most important initial screening test in pulmonary hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An echocardiogram with bubble study",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Invasive hemodynamic monitoring",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "HRCT",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chest radiograph",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. An echocardiogram with bubble study",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>An echocardiogram with bubble study An echocardiogram with bubble study is the most critical initial screening test. Echocardiography is also essential for determining specific causes . All forms of PH may demonstrate a hypertrophic and dilated right ventricle with elevated estimated pulmonary artery systolic pressure.</p>\n<p><strong>Highyeild:</strong></p><p>Signs of PH that may be evident on chest radiographs include enlargement of the central pulmonary arteries, \u201cvascular pruning,\u201d and cardiomegaly.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. Gold standard for diagnosis and assessment of disease severity. Option: C. Classic findings of PH on CT include those found on chest radiographs. Option: D. Signs of PH that may be evident on chest radiographs include enlargement of the central pulmonary arteries, \u201cvascular pruning,\u201d and cardiomegaly.</p>\n<p><strong>Extraedge:</strong></p><p>Signs of PH that may be evident on chest radiographs include enlargement of the central pulmonary arteries, \u201cvascular pruning,\u201d and cardiomegaly.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6083a459",
+      "audio": ""
+    },
+    {
+      "text": "The gold standard for diagnosing and assessing disease severity in pulmonary hypertension is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An echocardiogram with bubble study",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Invasive hemodynamic monitoring",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "CT angiograms",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ventilation-perfusion (V/Q) scanning",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Invasive hemodynamic monitoring",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Invasive hemodynamic monitoring An echocardiogram is a screening test, whereas invasive hemodynamic monitoring is the gold standard for diagnosing and assessing disease severity . With a normal echocardiogram, there may still be some concern for PH; this is particularly true if there is unexplained dyspnea or hypoxemia.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. An echocardiogram is a screening test Option: C. The role of CT angiograms in diagnosing chronic thromboembolic pulmonary hypertension (CTEPH) remains controversial, even with the advent of spiral CT. Option: D. Ventilation-perfusion (V/Q) scanning has been used for screening because of its high sensitivity and role in qualifying patients for surgical intervention</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0395725c",
+      "audio": ""
+    },
+    {
+      "text": "A patient with pulmonary hypertension shows mPAP 28 mmHg, PCWP 12 mmHg, and PVR 4 Wood units. Which of the following best describes the type?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pre-capillary PH or PAH",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Post-capillary PH- Passive",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Post-capillary PH- Reactive",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Needs more investigation to classify",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Pre-capillary PH or PAH",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Pre-capillary PH or PAH The definition of pre-capillary PH or PAH requires An increased mean PAP (mPAP >25 mmHg); A pulmonary capillary wedge pressure (PCWP), left atrial pressure or left ventricular end-diastolic pressure (LVEDP) \u226415 mmHg; and PVR >3 Wood units.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B. PCWP being \u226515 mmHg and transpulmonary gradient <12 mmHg. Chance: C. PCWP being \u226515 mmHg and transpulmonary gradient >12 mmHg. Opportunity: D. Sufficient for classification.</p>\n<p><strong>Extraedge:</strong></p><p>Post-capillary PH is differentiated from pre-capillary PH by the PCWP being \u226515 mmHg ; this is further determined into passive, based on a transpulmonary gradient <12 mmHg, or reactive, based on a transpulmonary angle>12 mmHg, and an increased PVR.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "6f8f4406",
+      "audio": ""
+    },
+    {
+      "text": "A 28-year female is diagnosed with Post capillary pulmonary hypertension (Reactive). Which is true about the condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mPAP >25 mmHg; PCWP\u226415 mmHg; PVR >3 Wood units",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "mPAP >25 mmHg; PCWP\u226415 mmHg; PVR <3 Wood units",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "mPAP >25 mmHg; PCWP\u226515 mmHg; PVR transpulmonary gradient <12 mmHg",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "mPAP >25 mmHg; PCWP\u226515 mmHg; transpulmonary gradient >12 mmHg",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. mPAP >25 mmHg; PCWP\u226515 mmHg; transpulmonary gradient >12 mmHg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>mPAP >25 mmHg; PCWP\u226515 mmHg; transpulmonary gradient >12 mmHg The definition of precapillary PH or PAH requires An increased mean PAP (mPAP >25 mmHg); A pulmonary capillary wedge pressure (PCWP), left atrial pressure or left ventricular end-diastolic pressure (LVEDP) \u226415 mmHg; and PVR >3 Wood units.</p>\n<p><strong>Highyeild:</strong></p><p>Post-capillary PH is differentiated from precapillary PH by the PCWP being \u226515 mmHg; this is further determined into passive, based on a transpulmonary gradient <12 mmHg, or reactive, based on a transpulmonary gradient >12 mmHg and an increased PVR.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. Pre-capillary. Option: B. PVR >3 Wood units. Vote: C . Post capillary PH- passive.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d212657",
+      "audio": ""
+    },
+    {
+      "text": "Vasodilator testing is performed with inhalational NO in a patient with suspected pulmonary hypertension. Which of the following describes a positive pulmonary vasodilator response?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in mPAP by \u226510 mmHg to an absolute level \u226540 mmHg without a decrease in CO",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Increase in mPAP by \u226510 mmHg to an absolute level \u226440 mmHg without a decrease in CO",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Decrease in mPAP by \u226510 mmHg to an absolute level of \u226440 mmHg with a decrease in CO",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Decrease in mPAP by \u226510 mmHg to an absolute level of \u226440 mmHg without a decrease in CO",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Decrease in mPAP by \u226510 mmHg to an absolute level of \u226440 mmHg without a decrease in CO",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Decrease in mPAP by \u226510 mmHg to an absolute level of \u226440 mmHg without a decrease in CO Vasodilators with a short duration of action, such as inhaled nitric oxide (NO), or inhaled epoprostenol, are preferred for vasodilator testing . A decrease in mPAP by \u226510 mmHg to a whole level \u226440 mmHg without a decrease in CO is defined as a positive pulmonary vasodilator response. Respondents are considered for long-term treatment with calcium channel blockers (CCB).</p>\n<p><strong>Highyeild:</strong></p><p>Less than 15% of patients are deemed vasoreactivity during testing, and even fewer exhibit long-term responsiveness to CCB. An acute vasodilator-induced reduction in PVR and mPAP predicts better long-term survival even among those patients not treated with CCB.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A, B. Decrease mPAP by \u226510 mmHg to a whole level of \u226440 mmHg. Option: C. Without a decrease in CO.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "86c16a96",
+      "audio": ""
+    },
+    {
+      "text": "Pulmonary hypertension due to left heart systolic dysfunction is classified as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "WHO Group I",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "WHO Group II",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "WHO Group III",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "WHO Group IV",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. WHO Group II",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>WHO Group II The current classification system, last revised in 2013 during the Fifth World Symposium on Pulmonary Hypertension, recognizes five categories of PH, including. PAH PH due to left heart disease PH due to chronic lung disease PH associated with chronic thromboembolic and A group of miscellaneous diseases that only rarely cause PH.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A.PAH. Option: C. PH due to chronic lung disease. Option: D. PH associated with chronic thromboembolic.</p>\n<p><strong>Extraedge:</strong></p><p>WHO Group II PH includes patients with left heart systolic dysfunction, aortic and mitral valve disease, and heart failure with preserved ejection fraction (HFpEF).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ea6a0db2",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is the hallmark of Group II pulmonary hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elevated left atrial pressure",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Elevated transpulmonary gradient",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Elevated PVR",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "HF with reduced EF",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Elevated left atrial pressure",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Elevated left atrial pressure The hallmark of Group II PH is elevated left atrial pressure with resulting pulmonary venous hypertension. In general, the transpulmonary gradient and PVR remain normal. This is further differentiated into passive, based on a transpulmonary gradient < 12 mmHg, or reactive, based on a transpulmonary gradient >12 mmHg and an increased PVR.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: B, C. In general, the transpulmonary gradient and PVR remain normal. Option: D. heart failure with preserved ejection fraction (HFpEF).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "73f6592b",
+      "audio": ""
+    },
+    {
+      "text": "A patient is prescribed sildenafil for pulmonary hypertension. Which of the following is true about its mode of action?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Activate adenylyl cyclase increases cAMP",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Activate guanylyl cyclase increases cGMP",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phosphodiesterase-5 (PDE5) inhibitors increase cAMP",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phosphodiesterase-5 (PDE5) inhibitors increase cGMP",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Phosphodiesterase-5 (PDE5) inhibitors increase cGMP",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Phosphodiesterase-5 (PDE5) inhibitors increase cGMP Phosphodiesterase-5 (PDE5) inhibitors (e.g., sildenafil) increase cyclic guanosine monophosphate (cGMP) levels and activate cGMP-dependent signalling pathways that also mediate vasodilation and platelet inhibition. The addition of a phosphodiesterase-5 (PDE5) inhibitor, therefore, augments the pulmonary hemodynamic and functional capacity benefits of prostanoid in PAH.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A, B. Phosphodiesterase-5 (PDE5) inhibitors. Option: C. cGMP NOT cAMP.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b16e2bfc",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is NOT an endothelin receptor antagonist used in pulmonary hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bosentan",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ambrisentan",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Macitentan",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Telmisartan",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Telmisartan",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Telmisartan It is ARB. ERAs target ET-1, a potent endogenous vasoconstrictor and vascular smooth muscle mitogen that is elevated in PAH patients. Endothelin levels are increased coincident with increased PVR and mean PAP and decreased CO and 6MWD</p>\n<p><strong>Highyeild:</strong></p><p>Bosentan Oral Endothelin receptor antagonist Ambrisentan Oral Endothelin receptor antagonist Macitentan Oral Endothelin receptor antagonist</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A, B, C: Oral, Endothelin receptor antagonist used in pulmonary hypertension.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "2c6dd454",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drug can be given by inhalation route in pulmonary hypertension?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epoprostenol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Iloprost",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Selexipag",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bosentan",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Iloprost",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Iloprost Prostacyclin (PGI2) activates cyclic adenosine monophosphate (cAMP)-dependent pathways that mediate vasodilation. PGI2 also has an antiproliferative effect on vascular smooth muscle and inhibits platelet aggregation</p>\n<p><strong>Highyeild:</strong></p><p>GENERIC NAME ROUTE OF ADMINISTRATION DRUG CLASS Epoprostenol IV Prostacyclin derivative Iloprost Inhaled Prostacyclin derivative Treprostinil IV or SC Prostacyclin derivative Treprostinil Inhaled Prostacyclin derivative Treprostinil Oral Prostacyclin derivative Selexipeg Oral Selective IP receptor agonist Bosentan Oral Selective IP receptor agonist Ambrisentan Oral Selective IP receptor agonist Macitentan Oral Selective IP receptor agonist Sildenafil OralPDE5 inhibitor PDE5 inhibitor Tadalafil Oral PDE5 inhibitor Riociguat Oral Soluble guanylyl cyclase stimulator</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. IV route. Option: C. Oral route. Option: D. Oral route.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "eaf5dbe8",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is FALSE about WHO Group I PH, PAH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A relatively rare cause of PH",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary arterial precapillary remodelling",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "PCWP or LVEDP of \u226515 mmHg",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "PVR > 240 dyne-s/cm5",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. PCWP or LVEDP of \u226515 mmHg",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>PCWP or LVEDP of \u226515 mmHg 5 mmHg PCWP or LVEDP of \u226415 mmHg. PAH is defined as a sustained elevation in resting mean pulmonary arterial pressure (mPAP) \u226525 mmHg, PVR > 240 dyne-s/cm5, and PCWP or LVEDP of \u226415 mmHg based on an RHC. With a normal PCWP and an elevated mPAP, these diseases demonstrate an increased transpulmonary gradient (mPAP\u2013 PCWP) and increased PVR.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Option: A. WHO Group I PH, PAH, is a relatively rare cause of PH. Option: B. PAH includes a group of diseases that result in pulmonary arterial precapillary remodelling marked by intimal fibrosis, increased medial thickness, pulmonary arteriolar occlusion, and classic plexiform lesions. Option: D. PVR > 240 dyne-s/cm5.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "352f185a",
+      "audio": ""
+    },
+    {
+      "text": "Precapillary Pulmonary hypertension is caused by all except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mitral stenosis",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary vasculitis",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Primary pulmonary hypertension",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thromboembolism",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Mitral stenosis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Mitral stenosis Features Precapillary Passive (Post-capillary Pathophysiology An abnormality that leads to elevated pulmonary artery pressure is located before the pulmonary artery or arterioles Abnormalities that lead to elevated pulmonary artery pressure are located beyond the pulmonary arteries. These are caused by diseases that lead to increased pulmonary venous pressure that in turn produces a secondary elevation in pulmonary arterial pressure. Left Atrial (LA) Pressure (PCWP) Normal \u2191 Pulmonary Artery - Left Atrium Pressure Gradient > 12mm <12mmHg Causes 1. Primary PAH 2. CHD with PAH 3. Pulmonary embolism 4. Schistosomiasis 5. Collagen vascular disease 6. Sickle hemoglobinopathies 7. Portal hypertension 8. Pulmonary vasculitis 1. Mitral valve disease 2. Left ventricular failure 3. Obstruction of major pulmonary veins 4. Left atrial myxoma 5. Congenital pulmonary vein stenosis</p>\n<p><strong>Highyeild:</strong></p><p>table,tr,th,td {border:1px solid black;} Features Precapillary Passive (Post-capillary Pathophysiology An abnormality that leads to elevated pulmonary artery pressure is located before the pulmonary artery or arterioles Abnormalities that lead to elevated pulmonary artery pressure are located beyond the pulmonary arteries. These are caused by diseases that lead to increased pulmonary venous pressure that in turn produces a secondary elevation in pulmonary arterial pressure. Left Atrial (LA) Pressure (PCWP) Normal \u2191 Pulmonary Artery - Left Atrium Pressure Gradient > 12mm <12mmHg Causes 1. Primary PAH 2. CHD with PAH 3. Pulmonary embolism 4. Schistosomiasis 5. Collagen vascular disease 6. Sickle hemoglobinopathies 7. Portal hypertension 8. Pulmonary vasculitis 1. Mitral valve disease 2. Left ventricular failure 3. Obstruction of major pulmonary veins 4. Left atrial myxoma 5. Congenital pulmonary vein stenosis</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "02fc7e15",
+      "audio": ""
+    },
+    {
+      "text": "Murmur seen in cor pulmonale/ pulmonary heart disease is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MR",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "AR",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "TR",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "MS",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. TR",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>TR Cor Pulmonale Cor pulmonale is right ventricle enlargement with or without failure secondary to the lung parenchyma, pleura or chest wall disease. Cor pulmonale is right ventricle enlargement with or without failure secondary to the lung parenchyma, pleura or chest wall disease.</p>\n<p><strong>Highyeild:</strong></p><p>Types of Cor pulmonale:- Acute Cor pulmonale: The most common cause is a sudden massive pulmonary embolism Chronic Cor pulmonale: The most common cause is COPD Note: Chronic Cor pulmonale is associated with the prominence of upper lobe veins. Clinical features:- Symptoms include dyspnea, fatigue, or syncope. Signs: cyanosis, tachycardia; raised JVP with prominent v wave; RV heave; loud P2 Pansystolic murmur (tricuspid regurgitation); early diastolic Graham Steel murmur, hepatomegaly and edema.</p>\n<p><strong>Extraedge:</strong></p><p>Causes of cor pulmonale:- Lung disease COPD (M/C cause) Bronchiectasis Pulmonary fibrosis Pulmonary vascular disease Pulmonary emboli Pulmonary vasculitis Primary pulmonary hypertension Thoracic cage abnormality Kyphosis Scoliosis Thoracoplasty Neuromuscular disease Myasthenia gravis Poliomyelitis Motor neuron disease Hypoventilation Sleep apnea</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "1dbc1297",
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "Bone_Tumor",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Match column A (cell type) with column B (tumor) according to the Lichtenstein Classification of bone tumors. Column A Column B 1. Bone a. Giant cell tumor 2. Cartilage b. Eosinophilic granuloma 3. Bone marrow c. Exostosis 4. Uncertain d. Osteoid osteoma",
+      "options": [
+        {
+          "label": "A",
+          "text": "1-d, 2-c, 3-b, 4-a",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1-b, 2-c, 3-a, 4-d",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1-c, 2-d, 3-a, 4-b",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1-a, 2-d, 3-b, 4-c",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1-d, 2-c, 3-b, 4-a",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:495px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cell Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Benign</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Malignant</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bone</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Osteoid osteoma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Osteosarcoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cartilage</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Chondroma or Enchondroma</p>\n<p>Osteochondroma or exostosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Chondrosarcoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Fibrous Tissue</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Fibroma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Fibrosarcoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bone Marrow</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Eosinophilic <span class=\"customMeta\" data-dictid=\"2334b7498b1692777188fa8b2eee36\">granuloma</span> <strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ewing's sarcoma</p>\n<p>Multiple myeloma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Vascular</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Haemangioma</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Angiosarcoma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Uncertain</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Giant cell tumor<strong> </strong></p>\n<p>(osteoclastoma)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Malignant giant cell tumor</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/W7wvGDTHRhYs3r0ciwx41742117069.mp3",
+      "video": "",
+      "uid": "d50c8205"
+    },
+    {
+      "text": "A 14-year-old male presents with a painless, hard mass near his proximal humerus. Imaging reveals a bony protuberance with a well-defined cortex that flares into the lesion. Which of the following radiographic features is most indicative of osteochondroma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sclerotic margins with central lucency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cortical flaring into the lesion",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Irregular spiculated margins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Joint erosion adjacent to the lesion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cortical flaring into the lesion",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/gf6Buro5AW6reRheRKvD1738354500.png",
+        "https://image.prepladder.com/content/u799A96QtsIH3XF6bkE71738354549.png",
+        "https://image.prepladder.com/content/taVwix4iyGQplAYhoLea1738354785.png",
+        "https://image.prepladder.com/notes/y8e49oPNYdpPsfNJyNMd1743680718.png",
+        "https://image.prepladder.com/content/IcwL84WZBYkBWyssrdtP1738354607.png",
+        "https://image.prepladder.com/content/omzWaV3y2cYykRGK56tk1738354406.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:625px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk of <span class=\"customMeta\" data-dictid=\"f8aaf091221692777191f73e810e94\">Malignant</span> Transformation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Solitary Osteochondroma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low risk (~1%). Difficult to determine exact incidence.</p>\n<p><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"791\" src=\"https://image.prepladder.com/content/u799A96QtsIH3XF6bkE71738354549.png\" width=\"500\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>~1%</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Multiple Osteochondromas (MO)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Higher risk (~4%). Autosomal dominant disorder with EXT1 or EXT2 gene mutations in 90% of cases.</p>\n<p><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"319\" src=\"https://image.prepladder.com/content/taVwix4iyGQplAYhoLea1738354785.png\" width=\"500\"/></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>~4%</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Wsh7MPk9xFp4TmadQp6T1743850291.mp3",
+      "video": "",
+      "uid": "43bc0648"
+    },
+    {
+      "text": "A 17-year-old boy presents to orthopedics OPD with mild fever and intermittent thigh pain for the past several months, particularly at night. There is no history of fever and weight loss. On physical exam, there is swelling and tenderness over the distal femur. An X-ray image is shown below. Which of the following best explains the radiological finding in osteosarcoma that is marked with an arrow in the above image?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It represents aggressive periostitis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "It represents tumor calcification within the bone",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "It is a result of the tumor breaking through the periosteum, lifting it off the bone",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "It indicates early metastasis to the nearby soft tissue",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. It is a result of the tumor breaking through the periosteum, lifting it off the bone",
+      "question_images": [
+        "https://image.prepladder.com/content/DGHnpU6xwqfD7k1qd7Ny1738357677.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/QWkUfbc5GtRcMQWDol7O1744251725.png",
+        "https://image.prepladder.com/content/NVjIR1TPuV22Xw2goee11738357845.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/2WHu0LKVw2o9pZUU9PgG1743955885.mp3",
+      "video": "",
+      "uid": "19c4f5bb"
+    },
+    {
+      "text": "A 25-year-old male has pain and progressive swelling around the proximal part of the left hand for the last 3 months. The X-ray is shown below. A biopsy reveals small, round cells forming pseudo-rosettes. Which of the following is not correct regarding the diagnosis of this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a highly malignant tumor of bone, commonly involving diaphysis.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bone-to-bone metastasis is not common.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The tumor is highly radio-sensitive but prone to recurrence.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Males are more likely to be affected than females.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Bone-to-bone metastasis is not common.",
+      "question_images": [
+        "https://image.prepladder.com/content/8SFOK1rfpyCX6GEuIGm01738358337.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/To9k371YsemCbPn24Vn91738358401.png"
+      ],
+      "explanation": "<p><strong>References:</strong></p>\n<ul><li>\u21b3 Reference:</li></u\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/jskjWcjuDU3nGzDX6Bzj1743956315.mp3",
+      "video": "",
+      "uid": "540b267b"
+    },
+    {
+      "text": "A 20-year-old woman presents with a one-year history of progressively worsening thigh pain, initially accompanied by intermittent fevers and malaise. Recently, her pain has intensified to the point of bedridden status. She develops acute confusion and altered consciousness, with laboratory tests revealing severe hypercalcemia and elevated alkaline phosphatase. An X-ray is shown below. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Osteosarcoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ewing's sarcoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Multiple myeloma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Osteoclastoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ewing's sarcoma",
+      "question_images": [
+        "https://image.prepladder.com/content/eGeKDNOSjxLYsQ0qYVKQ1738358840.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/D388DFZMsBMHQ4gMv1sW1738358857.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Ewing's Sarcoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Multiple <span class=\"customMeta\" data-dictid=\"aa6a0dfcb61692777193561ed10fac\">Myeloma</span> (Plasmacytoma)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Age Group Affected</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>4\u201325 years</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>40\u201360 years</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Sex Distribution</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>More common in males</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Equally affects males and females</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Primary Site</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Long bones (femur, tibia, fibula, humerus)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Bone (typically spine, skull, pelvis, ribs)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Diaphysis of long bones</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Various bones, often vertebrae</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Symptoms</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Intermittent pain, worse at night, fever</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Severe back pain, weakness, weight loss</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Physical Examination</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Fixed tumor, red skin, dilated veins</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Local tenderness, possible <span class=\"customMeta\" data-dictid=\"c0c247b89916927771948bc5e6d39c\">pathological</span> fractures</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Radiographic Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Lytic, sclerotic, or mixed lesions; <span class=\"customMeta\" data-dictid=\"58c03304521692777195a054ce95e4\">periosteal</span> onion peel appearance; <strong>moth-eaten destruction</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Diffuse osteoporosis, <span class=\"customMeta\" data-dictid=\"d54da38aaa1692777191560f60c0f9\">lytic</span> lesions;<strong> <span class=\"customMeta\" data-dictid=\"896c5b0b3616927771836c801b78c2\">biconcave</span> vertebrae; <span class=\"customMeta\" data-dictid=\"7134f7f8681692777196fa644c43bf\">punched-out</span> lesions</strong> in skull and pelvis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Histological Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Sheets of small, uniform cells resembling lymphocytes; <strong>pseudo-rosettes </strong>may be present</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Round cells with eccentrically placed nuclei; sparse <span class=\"customMeta\" data-dictid=\"77399c6ee0169277718492fb8fd58f\">chromatin</span> arranged in a<strong> \u201cspokes of wheel\u201d pattern;</strong> <span class=\"customMeta\" data-dictid=\"2da8fc47cf169277719576cea1851f\">perinuclear</span> <span class=\"customMeta\" data-dictid=\"95af91681416927771887742113c38\">halo</span> typically not seen</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Prognosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Poor 5-year survival rate</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Variable, but generally better than Ewing's</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Common Complications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Metastasis to lungs and other organs</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Pathological fractures, neurological symptoms</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/F1Kp1g1TNF6ieM078AIH1743957046.mp3",
+      "video": "",
+      "uid": "1543aa0d"
+    },
+    {
+      "text": "All of the following are correctly matched bone tumors except? 1. Most common bone tumors Secondaries 2. Most common primary benign bone tumor Osteoblastoma 3. Most common primary malignant bone tumor Osteogenic sarcoma. 4. Most Common bone tumor in elderly Multiple myeloma.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:523px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>1. Most common bone tumors</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Secondaries from:</p>\n<ul>\n<li>Prostrate</li>\n<li>Breast</li>\n<li>Kidney</li>\n<li>Thyroid</li>\n<li>Lung</li>\n</ul>\n<p><strong>Pb KTL (Lead Kettle)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>2. Most common primary <span class=\"customMeta\" data-dictid=\"1bbae82f1f16927771824f797639fa\">benign</span> bone tumor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Osteochondroma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>3. Most common primary <span class=\"customMeta\" data-dictid=\"f8aaf091221692777191f73e810e94\">malignant</span> bone tumor</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Osteogenic sarcoma.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>4. Most Common bone tumor in elderly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Multiple myeloma.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Also Called</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Exostosis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Type</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Most <strong>common primary <span class=\"customMeta\" data-dictid=\"1bbae82f1f16927771824f797639fa\">benign</span> bone tumor</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Structure</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>An offshoot from <span class=\"customMeta\" data-dictid=\"b2a22f1dff169277719977c0a8ee4a\">spongy</span> bone tissue with a <span class=\"customMeta\" data-dictid=\"a2a990a23c1692777183c6b47c7819\">cartilaginous</span> cap</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Cause</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Due to unwanted activity of the <span class=\"customMeta\" data-dictid=\"dc12e433981692777183c04d16248d\">cambium</span> layer of the periosteum</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Most Common Age</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Growth period (teenagers, during growth spurts)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Gender Preponderance</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Male</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Most Common Site</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Lower end of the femur</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>2nd Common Site</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Upper end of the tibia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Location</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Around the knee joint; commonly around the <span class=\"customMeta\" data-dictid=\"8ccb80bd4d169277719296d80e2193\">metaphysis</span> of long bones and <span class=\"customMeta\" data-dictid=\"48528974ed1692777185cd29753db5\">crest</span> of ilium</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/mgcI3MwkgLyAJiVvzrMl1743957275.mp3",
+      "video": "",
+      "uid": "83f6bf91"
+    },
+    {
+      "text": "A 70-year-old man comes to the clinic for a routine check-up. During the visit, he shared his family history of bone tumors, mentioning that several relatives have passed away from various types of bone cancers. Concerned about his own risk, he asks the doctor which type of bone malignancy he should be most vigilant about.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Osteochondroma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Osteoclastoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ewing's Sarcoma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Multiple Myeloma",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Multiple Myeloma",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/QeoVdeQ5Pkugsa8SjW5B1743957496.mp3",
+      "video": "",
+      "uid": "eaa1adae"
+    },
+    {
+      "text": "Which of the following is the cause of the indicated arrow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scurvy",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Osteosarcoma",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Syphilis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [
+        "https://image.prepladder.com/content/QbbO031wgj9FknhFS0W21738359611.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Vascular</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Haemophilia and other <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> disorders</li>\n<li>Myeloid <span class=\"customMeta\" data-dictid=\"cb4dfcbab11692777192d282b3be7a\">metaplasia</span> (thrombocytopenia)</li>\n<li>Erythroblastic anemias</li>\n<li>Leukaemias</li>\n<li>Varicose veins</li>\n<li>Hypertrophic <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> osteoarthropathy</li>\n<li>Pachydermoperiostosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Physiologic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Prematurity</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Dysplastic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Melorheostosis</li>\n<li>Engelmann's disease</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Traumatic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Local <span class=\"customMeta\" data-dictid=\"98c8f7f96f1692777199295afb1d35\">subperiosteal</span> trauma</li>\n<li>Fractures (including march fractures)</li>\n<li>Unrecognized skeletal trauma (Caffey's syndrome)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Hypo/Hypervitaminosis</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Rickets</li>\n<li><strong>Scurvy</strong></li>\n<li>Hypervitaminosis A</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Infective</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>Acute osteomyelitis</strong> (staphylococcal, streptococcal, pneumococcal)</li>\n<li>Brodie's abscess</li>\n<li>Tuberculosis</li>\n<li><strong>Syphilis</strong><strong> </strong>(congenital and acquired)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Neoplastic</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Primary:\n\t\t\t\t<ul>\n<li>Benign :meningioma, angioma, <span class=\"customMeta\" data-dictid=\"74fb39c2cd1692777194eae8b91386\">osteoid</span> osteoma</li>\n<li>Malignant: <strong>osteogenic <span class=\"customMeta\" data-dictid=\"82068425041692777198fe3064c370\">sarcoma</span> </strong><strong>(only this is called Codman's triangle)</strong>, fibrosarcoma, Ewing's sarcoma</li>\n</ul>\n</li>\n<li>Secondary: metastatic bony deposits</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Endocrine</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Thyroid acropachy</li>\n<li>Hyperparathyroidism</li>\n<li>Secondary <span class=\"customMeta\" data-dictid=\"a21c150dc716927771893624a49628\">hyperparathyroidism</span> in <span class=\"customMeta\" data-dictid=\"b9356afdba16927771979d068c6587\">renal</span> osteodystrophy</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Primary Joint Lesions</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Ankylosing spondylitis</li>\n<li>Juvenile chronic <span class=\"customMeta\" data-dictid=\"6f74c7bfe0169277718240005b59d1\">arthritis</span> (Still's disease)</li>\n<li>Reiter's syndrome</li>\n<li>Rheumatoid arthritis</li>\n<li>Osteoarthritis (femoral neck only)</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Congenital</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Tuberous sclerosis</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Miscellaneous</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Infantile <span class=\"customMeta\" data-dictid=\"721937292f1692777185048f04ce29\">cortical</span> hyperostosis</li>\n<li>Histiocytosis</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/cW5x7KhK9noZCRGymobo1743957575.mp3",
+      "video": "",
+      "uid": "4e534d4f"
+    }
+  ]
+}

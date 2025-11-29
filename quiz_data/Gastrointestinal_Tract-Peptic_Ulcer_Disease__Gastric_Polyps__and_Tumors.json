@@ -1,0 +1,693 @@
+{
+  "meta": {
+    "id": "test27",
+    "title": "Gastrointestinal_Tract-Peptic_Ulcer_Disease__Gastric_Polyps__and_Tumors",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "A 45 y/o male presents with recurrent episodes of abdominal pain and persistent heartburn. Upper gastrointestinal endoscopy reveals multiple duodenal ulcers. Lab investigations show elevated serum gastrin levels (> 1000 pg/ml). Which features are most likely associated with the patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Presence of gastrin-secreting tumors in the stomach",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Presence of erosive esophagitis and hiatal hernia",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hyperplasia of parietal cells within the stomach",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Association with MEN2 gene mutation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hyperplasia of parietal cells within the stomach",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c8ccfce5"
+    },
+    {
+      "text": "A 60-year-old man presents with vague abdominal discomfort and early satiety. Imaging reveals a large mass in the gastric fundus. He undergoes surgical resection of the mass, and histopathology confirms a gastrointestinal stromal tumor (GIST). Which of the following factors is a favorable prognostic indicator of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tumor size > 10 cm",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Epithelioid cell type",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Gastric location",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Intestinal location",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Gastric location",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:633px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Good prognosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Bad prognosis</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Tumor size</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 5cm</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>>10cm (Option A)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mitotic rate</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 5 per HPF</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>>10 per HPF</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Gastric</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Intestinal (Jejunum, Ileum, Rectum) (Option D)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cell type</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Spindle cell type</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Epithelioid cell type (Option B)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mutations</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Wild type <span class=\"customMeta\" data-dictid=\"6ff3e96d7d169277718868611768fe\">GIST</span> (Lack mutations in KIT, PDGFR)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Specific PDGFRA mutations, such as the D842V <span class=\"customMeta\" data-dictid=\"7a67bdf6f81692777193cfd480f228\">mutation</span> in <span class=\"customMeta\" data-dictid=\"91d131bb0f16927771873b0a2976b3\">exon</span> 18</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Responds to Tyrosine <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> inhibitors.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Resistant to Tyrosine <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> inhibitors.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "8bf8dd2a"
+    },
+    {
+      "text": "Which of the following markers will help confirm the diagnosis of GIST in C-kit negative cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CD34",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "DOG1",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "S-100",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "CD117",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. DOG1",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "7141044d"
+    },
+    {
+      "text": "Which of the following is the most common mutation found in GIST (Gastrointestinal Stromal Tumor)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "KIT mutation",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "PDGFRA mutation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "SDH mutation",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "BRAF mutation",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. KIT mutation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "781b1158"
+    },
+    {
+      "text": "A 55-year-old man with intermittent abdominal pain, nausea, and early satiety has a palpable epigastric mass. Imaging shows a well-defined, heterogeneously enhancing stomach mass, and endoscopic biopsy reveals CD117-positive spindle cells. What is the likely origin of this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cajal cells",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Paneth cells",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "G cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cajal cells",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/RrExWWJtB6fGV3jAYtq91737513726.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:NaN\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Cells of origin</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cajal cells</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mutations</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most common- c-KIT/CD117</li>\n<li>Others:\n\t\t\t\t<ul>\n<li>PDGFR- beta</li>\n<li><strong>S</strong>uccinate <span class=\"customMeta\" data-dictid=\"0d1ed86c771692777185d6b762efd5\">dehydrogenase</span> (SDH)- <strong>S</strong>mall baby( <span class=\"customMeta\" data-dictid=\"318e52e4751692777195acbcdf4551\">Pediatric</span> GIST)</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mechanism</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>c-KIT mutation- Increase in <strong>tyrosinase <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">kinase</span> activity</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Treatment</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Surgery</li>\n<li><strong>Tyrosine <span class=\"customMeta\" data-dictid=\"9863da498e1692777190e1c6515b48\">Kinase</span> inhibitors- Imatinib</strong></li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c0a3867b"
+    },
+    {
+      "text": "A 55-year-old male presents with episodes of flushing, sweating, and colicky abdominal pain. Upper gastrointestinal endoscopy reveals a yellow-tan intramural mass in the stomach. Biopsy revealed sheets of uniform cells with scant granular cytoplasm. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carcinoid tumor",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Gastric outlet obstruction",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic pyloric stenosis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Crohn's disease",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Carcinoid tumor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "9f79c745"
+    },
+    {
+      "text": "A 48-year-old female presents with recurrent abdominal pain, bloating, and early satiety for the past few months. Endoscopic biopsy revealed lympho-epithelial lesions with infiltration of small lymphoid cells. Which of the following statements is true regarding this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dense neutrophilic infiltrate",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Reactive-appearing T-cell follicles seen",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Plasmacytic differentiation seen",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Presents as discrete small nodules in the GI tract",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Plasmacytic differentiation seen",
+      "question_images": [
+        "https://image.prepladder.com/notes/94mghKzWOsPvvShL7CMn1736949740.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/aKe3bIerkUrBIMWnN7Tg1740664840.mp3",
+      "video": "",
+      "uid": "e8d01359"
+    },
+    {
+      "text": "A 45-year-old female has a history of intermittent epigastric discomfort, nausea, and early satiety. Upper endoscopy reveals gastric wall thickening with a leather bottle appearance. Biopsy of the lesion shows signet ring cells infiltrating the gastric mucosa. What is the most likely diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intestinal-type gastric adenocarcinoma",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Diffuse-type gastric adenocarcinoma",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Peptic ulcer disease",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Gastric lymphoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Diffuse-type gastric adenocarcinoma",
+      "question_images": [
+        "https://image.prepladder.com/notes/4gEublZ9porxMWHRxfOU1736948610.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/content/zmfIkdlzLJ9pjL9D7Trb1740725704.png",
+        "https://image.prepladder.com/content/OlP0qZMeJ0sW85I9I9CF1740725723.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:642px\">\n<tbody>\n<tr>\n<td>\n<p><strong>Features</strong></p>\n</td>\n<td>\n<p><strong>Intestinal type <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">Gastric</span> <span class=\"customMeta\" data-dictid=\"362992dbb11692777180f9017fc04d\">adenocarcinoma</span> (Option A)</strong></p>\n</td>\n<td>\n<p><strong>Diffuse-type <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> <span class=\"customMeta\" data-dictid=\"362992dbb11692777180f9017fc04d\">adenocarcinoma</span> (Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Predominantly in the <span class=\"customMeta\" data-dictid=\"96976bc5fc1692777181dc8403015a\">antrum</span> or pyloric region</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Diffuse involvement of <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> body and fundus</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>H. pylori infection, high <span class=\"customMeta\" data-dictid=\"6cdcd39cf2169277719068e247e38d\">intake</span> of smoked/pickled foods, smoking, chronic gastritis, old\u00a0age</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>CDH1 gene mutation, younger age</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Appearance on endoscopy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ulcerative, <span class=\"customMeta\" data-dictid=\"a3c898fa9e1692777196b39e3bf93c\">polypoid</span> masses (localised growth)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Thickening of <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> wall (due to <span class=\"customMeta\" data-dictid=\"89275101301692777186567d1912a0\">diffuse</span> infiltration).</p>\n<p>Linitis plastica (leather bottle appearance)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Histology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Well-differentiated <span class=\"customMeta\" data-dictid=\"c2f9d01ba91692777188d264244b6a\">glandular</span> structures with intestinal metaplasia.</p>\n<p><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"175\" src=\"https://image.prepladder.com/content/zmfIkdlzLJ9pjL9D7Trb1740725704.png\" width=\"200\"/></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Signet ring cells and <span class=\"customMeta\" data-dictid=\"669bdcb3111692777190e018ae930e\">infiltration</span> of poorly <span class=\"customMeta\" data-dictid=\"cc3903876f1692777184d07cde04a3\">cohesive</span> cells into the <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> mucosa.</p>\n<p><img alt=\"\" data-author=\"\" data-hash=\"\" data-license=\"\" data-source=\"\" data-tags=\"\" height=\"157\" src=\"https://image.prepladder.com/content/OlP0qZMeJ0sW85I9I9CF1740725723.png\" width=\"250\"/></p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Prognosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Better</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Poorer</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/tT2kkoet8tipHkeI5Akc1740665380.mp3",
+      "video": "",
+      "uid": "91b730f3"
+    },
+    {
+      "text": "A 60-year-old male presents with a history of epigastric pain, unintentional weight loss, and early satiety over the past few months. An upper GI endoscopy revealed a nodular mass on the gastric wall, and a biopsy revealed well-differentiated glandular structures with intestinal metaplasia. Which of the following is least likely associated with this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helicobacter pylori (H. pylori) infection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "APC gene mutation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "CDH1 gene mutation",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "High intake of smoked or pickled foods",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. CDH1 gene mutation",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1aca535c"
+    },
+    {
+      "text": "Which of the following is NOT a recognised risk factor for gastric adenocarcinoma?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alcohol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hot beverages",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blood group O",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "H. pylori",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Blood group O",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "c0f3e62b"
+    },
+    {
+      "text": "Which cells are primarily responsible for secreting neutral mucin that forms a protective layer in the stomach?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parietal cells",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chief cells",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Foveolar cells",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Enterochromaffin cells",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Foveolar cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cells</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Functions</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Parietal cells<strong> (Option A)</strong></li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Secrete <span class=\"customMeta\" data-dictid=\"c6cd3307e0169277718936624365e5\">hydrochloric acid</span> (HCl) and <span class=\"customMeta\" data-dictid=\"a6795c876e169277719057a1099465\">intrinsic</span> factor.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Chief cells<strong> (Option B)</strong></li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Secrete <span class=\"customMeta\" data-dictid=\"ba6a4968271692777195adb7c5c8f0\">pepsinogen</span> (Inactive <span class=\"customMeta\" data-dictid=\"ae13cdc5c3169277719683e9f6bda5\">precursor</span> of the pepsin).</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Foveolar cells</li>\n</ol>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Secrete neutral <span class=\"customMeta\" data-dictid=\"7d30ef9aee16927771936bdac2c1ff\">mucin</span> and <span class=\"customMeta\" data-dictid=\"a1b06f401f1692777203a53393ba98\">form</span> a protective layer over the stomach lining.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ol>\n<li>Enterochromaffin cells</li>\n</ol>\n<p><strong>(Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Release of <span class=\"customMeta\" data-dictid=\"06eba971ce169277719884f8c62937\">serotonin</span> and <span class=\"customMeta\" data-dictid=\"b5d4ddbfe71692777189a12acd5502\">histamine</span> to regulate <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> functions.</p>\n</td>\n</tr>\n</tbody>\n\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f337812d"
+    },
+    {
+      "text": "A 45-year-old patient presents with persistent abdominal discomfort, nausea, weight loss, and occasional diarrhoea. He was recently diagnosed with a viral infection. The following gross image of the gastric mucosa is observed upon upper gastrointestinal endoscopy. Which of the following is correct regarding the patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Associated with excessive secretion of TNF-\u03b1.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Histopathologically, villous atrophy is observed.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Increases the risk of gastric carcinoma.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "More common in females and can cause protein-losing enteropathy.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Increases the risk of gastric carcinoma.",
+      "question_images": [
+        "https://image.prepladder.com/notes/XyLojUEH3YAOGltCIWxy1743429870.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/9wJxB5jmLJRHZJgEhDN21736947848.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "91389211"
+    },
+    {
+      "text": "A 58-year-old female presents with recurrent epigastric discomfort and intermittent nausea. Histopathological examination of gastric biopsy samples reveals irregular, cystically dilated, and elongated foveolar glands. She also has a history of untreated H. pylori infection. What type of lesions is most likely to be associated with these findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperplastic polyps",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Gastric adenomas",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory fibroid polyps",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Juvenile polyps",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Hyperplastic polyps",
+      "question_images": [
+        "https://image.prepladder.com/notes/JnKjN0dzooB3xp0daGNX1743429475.png"
+      ],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/pYqfLbUYi3BXs8rG0XoP1736939250.jpg",
+        "https://image.prepladder.com/content/rlUibgUgiezwpXZCo4lf1740725482.png",
+        "https://image.prepladder.com/notes/pALH4dDmkJtPBOfoyMa91736939731.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/hNAODuXYtLomT1CyqN8Q1740664820.mp3",
+      "video": "",
+      "uid": "a816d5da"
+    },
+    {
+      "text": "A 60-year-old man on long-term proton pump inhibitor therapy for acid reflux undergoes an upper gastrointestinal endoscopy for recurrent epigastric discomfort. The endoscopy reveals smooth-surfaced lesions in the gastric body and fundus. Which statement about these findings is likely correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "PPIs decrease gastrin secretion, reducing the risk of fundic gland polyps",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fundic gland polyps are commonly associated with H. pylori infection.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Composed of cystically dilated glands lined by parietal, chief, and foveolar cells.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Sporadic fundic gland polyps carry a significant risk of neoplasia.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Composed of cystically dilated glands lined by parietal, chief, and foveolar cells.",
+      "question_images": [
+        "https://image.prepladder.com/notes/J6QeHg6B9T1OTp8JGD0g1743429123.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/sMDtEQ60jIvsEDhhkNO21747670190.mp3",
+      "video": "",
+      "uid": "70a33232"
+    },
+    {
+      "text": "Which type of gastritis is associated with a distinctive endoscopic appearance characterised by thickened folds, small nodules, and central aphthous ulceration affecting the entire stomach?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eosinophilic gastritis",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lymphocytic gastritis",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Granulomatous gastritis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chemical gastritis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Lymphocytic gastritis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2fa52ce2"
+    },
+    {
+      "text": "A 45-year-old female presents with chronic epigastric pain, nausea, and occasional vomiting. Upper gastrointestinal endoscopy reveals diffuse mucosal atrophy. Biopsy confirms chronic gastritis. Which of the following is a characteristic feature of Chronic Gastritis Type A?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Predominantly affects the antrum of the stomach",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of parietal cells",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Associated with H. pylori infection",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased risk of gastric carcinoma",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Autoimmune destruction of parietal cells",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:720px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Characteristic</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chronic <span class=\"customMeta\" data-dictid=\"7861e10657169277718815c2f42a75\">Gastritis</span> Type A</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Chronic <span class=\"customMeta\" data-dictid=\"7861e10657169277718815c2f42a75\">Gastritis</span> Type B</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong><strong> </strong><strong> </strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Fundus and body of the stomach</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Antrum and pyloric region of the stomach (Option A)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Aetiology</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoimmune</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>H. pylori infection or <span class=\"customMeta\" data-dictid=\"b924074dfe16927771933b6d50eaac\">NSAID</span> use</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathophysiology</strong><strong> </strong><strong> </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoimmune destruction of <span class=\"customMeta\" data-dictid=\"51df38de3d1692777194ced4c4bab5\">parietal</span> cells (Option B)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>H. pylori-induced <span class=\"customMeta\" data-dictid=\"e747a47db616927771908bff4b8931\">inflammation</span> of <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> <span class=\"customMeta\" data-dictid=\"31ae8f4dc51692777193069d92be37\">mucosa</span> (Option C)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Autoantibodies</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoantibodies against <span class=\"customMeta\" data-dictid=\"51df38de3d1692777194ced4c4bab5\">parietal</span> cells and Antibodies against <span class=\"customMeta\" data-dictid=\"a6795c876e169277719057a1099465\">intrinsic</span> factors (\u2193Vit B12 absorption).</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Not autoimmune; may have H. pylori antibodies.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Intrinsic factor</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Reduced due to <span class=\"customMeta\" data-dictid=\"51df38de3d1692777194ced4c4bab5\">parietal</span> cell destruction.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>It may be normal unless <span class=\"customMeta\" data-dictid=\"e627149ccc169277718241f723cc82\">atrophic gastritis</span> is present.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Gastric acid production</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Autoantibodies against <span class=\"customMeta\" data-dictid=\"51df38de3d1692777194ced4c4bab5\">parietal</span> cells lead to decreased/absent HCl <span class=\"customMeta\" data-dictid=\"9b0ae3750916927771986c15d4ff4d\">secretion</span> and \u2191gastrin synthesis.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Normal to increased acid <span class=\"customMeta\" data-dictid=\"9b0ae3750916927771986c15d4ff4d\">secretion</span> due to H. pylori.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Histological findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Lymphocytic and <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> cell infiltrate.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Neutrophilic infiltrate, <span class=\"customMeta\" data-dictid=\"32599f889a169277719169e3483e62\">lymphoid</span> follicles.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Complications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Pernicious anaemia, <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> carcinoid, adenocarcinoma.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Peptic ulcers, <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> adenocarcinoma, MALToma.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Risk of <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> carcinoma</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Low</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased, especially with H. pylori infection (Option D)</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "2270e432"
+    },
+    {
+      "text": "A 55-year-old patient presents with recurrent epigastric pain and signs of gastrointestinal bleeding. An upper endoscopy reveals gastric ulcers, and a biopsy is performed for further evaluation. Which stain is best for identifying the causative organism in this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Warthin Starry silver stain",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Wright stain",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Modified Giemsa stain",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Gram stain",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Modified Giemsa stain",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/ARaQBGq70dTnTCbgVWst1736935252.png",
+        "https://image.prepladder.com/notes/3WsOgoODAp1aLXWSlqzi1736935369.jpg"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4551d1bc"
+    },
+    {
+      "text": "Which of the following is NOT a protective factor against Peptic Ulcer Disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mucus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Bicarbonate",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "COX-1",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pepsin",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Pepsin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:490px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Protective factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Damaging factors</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Mucus <strong>(Option A)</strong></li>\n<li>Bicarbonate <strong>(Option B)</strong></li>\n<li>COX 1<strong> (Option C)</strong></li>\n</ul>\n</td>\n<td rowspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>HCl</li>\n<li>Pepsin</li>\n<li>H.pylori</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "1c3d03bc"
+    },
+    {
+      "text": "A 45-year-old man experiences recurrent upper abdominal pain worsened after meals, unresponsive to over-the-counter antacids. Which of the following is NOT typically a risk factor for the patient\u2019s presentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helicobacter pylori infection",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cocaine use",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cigarette smoking",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Obesity",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Obesity",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "f095c995"
+    },
+    {
+      "text": "A 55-year-old female with traumatic brain injury undergoes emergency craniotomy and is now intubated in the neurosurgical ICU. She suddenly develops hematemesis despite stabilisation. What is the most likely cause of the patient's bleeding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Curling ulcer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cushing ulcer",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Gastric antral vascular ectasia (GAVE)",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dieulafoy lesions",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cushing ulcer",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p>Correct Answer:B)\u00a0</p>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:703px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Feature</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Cushing's Ulcers</strong> (Option B)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Curling Ulcers</strong> (Option A)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Location</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Usually found in the stomach (cardia), oesophagus, or duodenum</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Typically occur in the <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> duodenum</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Associated condition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Elevated <span class=\"customMeta\" data-dictid=\"cd42e0ddad1692777190d18c595ec5\">intracranial</span> pressure (e.g., head trauma, <span class=\"customMeta\" data-dictid=\"cd42e0ddad1692777190d18c595ec5\">intracranial</span> haemorrhage)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Severe burns (involving >30% of body surface area) or trauma</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Pathogenesis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Increased <span class=\"customMeta\" data-dictid=\"5fb29f3cd516927772017bd29c2581\">vagal</span> activity stimulates <span class=\"customMeta\" data-dictid=\"12347b15191692777188bc86d226e1\">gastric</span> acid secretion, leading to <span class=\"customMeta\" data-dictid=\"7b4370a0b01692777201a5bc0739c2\">ulcer</span> formation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Result from decreased mucosal <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> due to <span class=\"customMeta\" data-dictid=\"8f2e7fd96116927771995b451b5c90\">systemic</span> <span class=\"customMeta\" data-dictid=\"9402185d4b1692777189cb62891ff1\">hypotension</span> or stress-induced vasoconstriction</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Ulcer characteristics</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Deep ulcers; increased risk of perforation.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Superficial ulcers.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "5cd3fd96"
+    }
+  ]
+}

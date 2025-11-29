@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "id": "test8",
+    "title": "Paediatric_Endocrinology",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "Which of the following clinical features is most likely associated with severe Diabetic Ketoacidosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venous pH between 7.25 and 7.35, alert patient",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Venous CO2 between 16 and 20 mEq/L, patient with mild fatigue",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Venous pH less than 7.15, patient with Kussmaul respirations and depressed sensorium",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Venous CO2 between 10 and 15 mEq/L, patient who is sleepy but arousable",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Venous pH less than 7.15, patient with Kussmaul respirations and depressed sensorium",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:617px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severity</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous pH</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Venous CO2 (mEq/L)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Presentation</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Mild DKA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>7.25 - 7.35</p>\n<p><strong>(Option A ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>16 - 20</p>\n<p><strong>(Option B ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Alert, possible fatigue.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Moderate DKA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>7.15 - 7.25</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>10 - 15</p>\n<p><strong>(Option D ruled out)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kussmaul respirations, sleepy but arousable.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Severe DKA</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 7.15</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>< 10</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Kussmaul or depressed respirations, sleepy to coma, severe <span class=\"customMeta\" data-dictid=\"113313e2e01692777189a8535b4b04\">hypernatremia</span> (Na+ > 150 mEq/L).</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/NvQSsq6oSh9lYBi5K7xu1743040584.mp3",
+      "video": "",
+      "uid": "7c0768da"
+    },
+    {
+      "text": "A 6-year-old boy is brought to the clinic due to concerns about his short stature. His height is below the 1st percentile for age, and his growth velocity has been consistently below the 25th percentile for the past two years. He was born at term with normal birth weight and length. Physical examination reveals proportionate short stature without dysmorphic features. Laboratory tests show low IGF-1 levels and two provocative growth hormone stimulation tests reveal peak GH levels of 3 ng/mL and 4 ng/mL. Which of the following is the most appropriate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Observe and reassess in 6 months as normal growth might occur on its own",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Start recombinant human growth hormone therapy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Perform genetic testing for PROP1 mutations",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Initiate monotherapy with gonadotropin-releasing hormone agonist to delay epiphyseal fusion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Start recombinant human growth hormone therapy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:608px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Definition</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Insufficient production or <span class=\"customMeta\" data-dictid=\"9b0ae3750916927771986c15d4ff4d\">secretion</span> of growth hormone (GH) without deficiencies in other <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> hormones</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #808080; border-left:1px solid #808080; border-right:1px solid #808080; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #808080; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Height below <strong>1st <span class=\"customMeta\" data-dictid=\"8b22fa5ed1169277719587132297ce\">percentile</span> or >2 SD below mid-parental height</strong></li>\n<li>Growth velocity<strong> below 25th percentile</strong></li>\n<li>Delayed bone age</li>\n<li>High-pitched voice</li>\n<li>Normal birth weight and length</li>\n<li><strong>Proportionate short stature-</strong> Upper segment (US): Lower segment (LS) ratio normal</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #808080; vertical-align:top\">\n<p><strong>Biochemical Findings</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Low IGF-1 levels</li>\n<li>Peak GH levels <10 ng/mL on two <span class=\"customMeta\" data-dictid=\"7c0ffbec4f1692777196fdd5849d71\">provocative</span> tests <strong>(on GH <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> test)</strong></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Measurements of IGF-1 and IGF-binding protein levels</li>\n<li><strong>GH <span class=\"customMeta\" data-dictid=\"7f3792072b1692777199fd8e2c4f59\">stimulation</span> test </strong>\n<ul>\n<li>Done using arginine/clonidine/insulin</li>\n<li>Peak GH level <10 ng/ml \u2192 GH deficiency</li>\n</ul>\n</li>\n<li>Bone age < Chronological age</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Recombinant human growth hormone (rhGH)</li>\n<li>Initial dose: 0.16-0.24 mg/kg/week</li>\n<li>Administered subcutaneously once daily</li>\n<li>GH therapy should be continued until near-final height is achieved.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/KudyKcVA5MmRIyYHRcn31743036350.mp3",
+      "video": "",
+      "uid": "e47c11f0"
+    },
+    {
+      "text": "A 12-year-old boy is brought to the endocrinology clinic due to rapid growth over the past year. He has grown 12 cm in the last 12 months and is now 175 cm tall (>97th percentile). Physical examination reveals coarse facial features, large hands and feet, and a deep voice. Laboratory tests show elevated IGF-1 and IGFBP-3 levels. An oral glucose tolerance test fails to suppress GH levels below 5 ng/mL. An MRI of the brain revealed no significant findings. What is the most appropriate initial treatment for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trans-sphenoidal surgery",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Pegvisomant",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Octreotide",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cabergoline",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Octreotide",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/notes/4sZcVrxZGcBRte1xkwDg1742214353.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:608px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Features</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Rapid <span class=\"customMeta\" data-dictid=\"d02067c4b51692777191b8eec8b062\">linear</span> growth</li>\n<li>Tall stature</li>\n<li>Coarse <span class=\"customMeta\" data-dictid=\"9fdd7489051692777202cffe3f24cc\">facial</span> features</li>\n<li>Enlarged hands and feet</li>\n<li>Deep voice</li>\n<li>Possible headaches or visual disturbances</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Diagnosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Elevated IGF-1 and IGFBP-3 levels</li>\n<li>Failure to suppress GH on oral <span class=\"customMeta\" data-dictid=\"af3ae60c0c16927771889b84ca41c0\">glucose</span> tolerance test (>5 ng/mL in adolescents)</li>\n<li>MRI showing <span class=\"customMeta\" data-dictid=\"b775f0c475169277719593c573f6ff\">pituitary</span> adenoma</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Treatment Options</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Trans-sphenoidal surgery (first-line for well-circumscribed adenomas) <strong>(Option A)</strong></li>\n<li>Radiation therapy (if surgery fails or is contraindicated)</li>\n<li>Medical therapy:\n\t\t\t\t<ul>\n<li><strong>1st line- </strong>Somatostatin analogs (octreotide, lanreotide)</li>\n<li><strong>Refractory cases-</strong> GH <span class=\"customMeta\" data-dictid=\"9e4959f6f316927771978bb152d440\">receptor</span> <span class=\"customMeta\" data-dictid=\"2e432a4f3c1692777181e8e244ca0e\">antagonist</span> (pegvisomant) <strong>(Option B)</strong></li>\n<li><strong>Adjuvant-</strong> <span class=\"customMeta\" data-dictid=\"9194a239ed1692777186bfe41c0e87\">Dopamine</span> agonists (cabergoline, bromocriptine) <strong>(Option D)</strong></li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Gt1d23CaQMc50P6oXx9A1743036740.mp3",
+      "video": "",
+      "uid": "ab829bc5"
+    },
+    {
+      "text": "Which of the following is not typically a finding in the shown condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor feeding",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Constipation",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hypertonia",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Jaundice",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hypertonia",
+      "question_images": [
+        "https://image.prepladder.com/notes/L4c34cR9xIijEZZTyz3s1742214634.png"
+      ],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/ofiG21Z6F1P5Jlvjh2Qd1743037366.mp3",
+      "video": "",
+      "uid": "4a966c44"
+    }
+  ]
+}

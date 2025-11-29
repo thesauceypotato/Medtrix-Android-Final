@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "id": "test2",
+    "title": "PSM - AIIMS MAY 2018",
+    "category": "AIIMS PYQ"
+  },
+  "questions": [
+    {
+      "text": "Sample size of samples A, Band C are 500, 800 and 1000 respectively. Which sample has the highest margin of error?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sample A",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sample B",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Sample C",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "None of the above",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Sample A",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1694673914186-QTDCPYQ183IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Sample A I n the above question, Sample A with the least sample size (i.e., 500) has the highest margin of error, while sample C with the greatest sample size (i.e., 1000) has the least margin of error.</p>\n<p><strong>Highyeild:</strong></p><p>Sampling Errors: If we take repeated samples from the same population, the results obtained from one sample will differ to some extent from the results of another sample. This type of variation of a statistic from one sample to another is called sampling error. It occurs because data were gathered from a sample rather than from the entire population. Presuming that the sampling procedure favoured all the individuals\u2019 in the population equally to come to the sample, the factors that influence the sampling error are: \u2013  Size of the sample and \u2013  Natural variability of the individual readings. As the size of the sample increases, sampling error will decrease. Standard Error (SE): SE is a measure of variability of sample statistic from the population parameter. Standard Error (SE) of the Mean: If \u201cn\u201d number of samples of the same size are taken from the same population randomly and repeatedly, each sample will have its own sample mean which would vary to an extent from each other and from the population mean. The sample means would be normally distributed around the population mean (\u00b5) and the mean of the sample means practically is the same as the population mean (\u00b5). Thus standard deviation of the sample means is a measure of the \u201cSampling Error\u201d or \u201cmeasure of chance variation\u201d SE of mean is the Standard deviation of the sample means. Standard Error of the mean is calculated by the formula, \u2013  SE of mean = Standard deviation (SD)/\u221aSample size \u2013  SE of mean = SD/\u221an From the formula, it could be inferred that greater the standard deviation, greater will be the standard error. Similarly, smaller the sample size greater will be the standard error. SE can be minimized by reducing SD and by taking a large sample.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "16b2193c",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is an absolute contraindication for usage of Copper- T?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fibroid uterus",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Unmotivated person",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Menorrhagia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Previous ectopic pregnancy",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Previous ectopic pregnancy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Previous ectopic pregnancy</p>\n<p><strong>Highyeild:</strong></p><p>Contraindications for Intra-Uterine Contraceptive Devices (IUDs): Absolute contraindication Relative contraindication \u2022  Suspected pregnancy \u2022  Pelvic inflammatory disease \u2022  Vaginal bleeding of undiagnosed etiology \u2022  Cancer of the cervix, uterus or adnexa and other pelvic tumors \u2022  Previous ectopic pregnancy \u2022  Anemia \u2022  Menorrhagia \u2022  History of PID since last pregnancy \u2022  Purulent cervical discharge \u2022  Congenital malformations of uterine cavity \u2022  Uterine fibroids \u2022  Unmotivated person</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d1e3f0df",
+      "audio": ""
+    },
+    {
+      "text": "A patient from a north-eastern state was diagnosed to have p\" falciparum malaria. What is the most appropriate treatment for this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Artesunate + Chloroquine + Primaquine",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Artemether + Sulfadoxine + Pyrimethamine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Artemether + Lumefantrine + Primaquine",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chloroquine + Primaquine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Artemether + Lumefantrine + Primaquine",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Artemether + Lumefantrine + Primaquine</p>\n<p><strong>Highyeild:</strong></p><p>Treatment of uncomplicated P. falciparum malaria: Artemisinin Combination Therapy (ACT) - In all Indian states except North-eastern states: (ACT= AS + SP). Day 1: Artesunate (4 mg/kg) + [Sulfadoxine (25 mg/kg) + Pyrimethamine (1.25 mg/kg)] Day 2: Artesunate (4 mg/kg) + Primaquine (0.75 mg/kg) Day 3: Artesunate (4 mg/kg) In North-eastern states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura): (ACT= AL) Due to the recent reports of resistance to Sulfadoxine and Pyrimethamine in North-eastern states for falciparum malaria, the presently recommended ACT is fixed dose combination (FDC) of Artemether\u2013Lumefantrine (AL) as per age-specific and weight-based dose schedule. Day 1: Artemether-Lumefantrine (AL) twice daily Day 2: Artemether-Lumefantrine (AL) twice daily + Primaquine (0.75 mg/kg) Day 3: Artemether-Lumefantrine (AL) twice daily Age group Weight band Total dose of AL Artemether/ Lumefantrine Schedule of FDC of AL for 3 days No. of tablets in a pack Color code of the pack >5 months 5\u201314 kg 20 mg/120 mg 1 BD 6 Yellow >3 to <9 years 15\u201324kg 40 mg/240 mg 2 BD 12 Green >9 to <14 25\u201334 kg 60 mg/360 mg 3 BD 18 Red >14 years >34 kg 80 mg/480 mg 4 BD 24 White (1 FDC of AL = Artemether 20 mg + Lumefantrine 120 mg)</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and D are false.</p>\n<p><strong>Extraedge:</strong></p><p>Contraindications: ACT is contraindicated in first trimester of pregnancy and for children weighing <5 kg. Primaquine is contraindicated in pregnant women, infants and known G6PD deficient individuals.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "46fea97b",
+      "audio": ""
+    },
+    {
+      "text": "All of the following can be analyzed with chi-Square test except?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sex and stage of cancer",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Heart rate/min and age",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Benign or malignant, and type of surgery",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Age group and cancer stage",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Heart rate/min and age",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Heart rate/min and age In the given question, all options except heart rate/minute and age are of qualitative variables (nominal or ordinal).</p>\n<p><strong>Highyeild:</strong></p><p>Qualitative variables are usually presented in frequencies or count. Chi square test is used to compare any difference or association between two qualitative variables. Heart rate/minute and age are quantitative variables where chi square test cannot be applied.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "f0ba65c4",
+      "audio": ""
+    },
+    {
+      "text": "How many infants should be registered with a health worker working in sub center?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "50",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "200",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "110",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 100",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>100</p>\n<p><strong>Highyeild:</strong></p><p>One Health Sub center in India caters 5000 populations in plain areas whereas in difficult and hilly areas it caters 3000 As per SRS data September 2017, birth rate in India is 20.4/1000 population and infant mortality rate (IMR) is 34/1000 live birth. Estimated no. of infants in a health Sub center covering 5000 populations can be calculated as follows: No. of live birth = Birth rate \u00d7 Population/1000 = 20.4 \u00d7 5000/1000 = 102 Infant mortality for Sub center = No. of live birth \u00d7 IMR/1000 = 102 \u00d7 34/1000 = 3.5 (for calculation purpose we assume it 4) Therefore, total number of infants = 102 \u2013 4 = 98</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options B, C and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "c0a27772",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following nerve can be biopsied for diagnosis of leprosy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Axillary nerve",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ulnar cutaneous nerve",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Saphenous nerve",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sciatic nerve",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Ulnar cutaneous nerve",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ulnar cutaneous nerve</p>\n<p><strong>Highyeild:</strong></p><p>Nerve Biopsy in Leprosy: When clinical and bacteriological examinations do not yield a diagnosis, histopathological examination of the affected nerves may be necessary in leprosy. It allows a more accurate classification of the disease. It also gives information about the bacterial content of the skin. The peripheral nerves most commonly affected in leprosy are: \u2013  Ulnar, Lateral Popliteal and Posterior Tibial nerve. \u2013  Other nerves, which may be affected are - Facial, Trigeminal, Median and Radial. Pure neuritic leprosy: (Indian Classification of Leprosy) \u2013  According to Indian studies, pure neuritic leprosy constitutes about 4\u201318% of leprosy patients. It is reportedly higher in South India comprising up to 18% of new cases. \u2013  Pure neuritic leprosy is more common in men and is most common in the 15\u201330 age group. \u2013  Cases show pure nerve involvement but do not have any skin lesions and they are bacteriologically AFB negative. \u2013  In pure neuritic leprosy, in general, upper limb nerves are more commonly involved, of which ulnar nerve is the most common. \u2013  In the lower limb, lateral popliteal nerve is the most common nerve involved, followed by the posterior tibial and sural nerves. \u2013  However, any nerve trunk or cutaneous nerve can be involved by pure neuritic leprosy, e.g., supraorbital, great auricular, dorsal cutaneous branches of radial, ulnar and superficial peroneal (musculocutaneous) nerve. \u2013  Selective involvement of the facial nerve branches are also reported. \u2013  Mononeuritis is the most common presentation of pure neuritic leprosy. Clinical presentation of pure neuritic leprosy: \u2013  When to suspect: In endemic countries such as India, the presence of \u201cmononeuritis\u201d or \u201cmononeuritis multiplex\u201d, along with tender enlarged nerves should always raise a suspicion of the diagnosis. Clinical diagnosis: \u2013        Thickened peripheral nerve trunk, tenderness and sensory impairment associated with absence of skin lesions and negative skin smears for acid fast bacilli.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, C and D are false.</p>\n<p><strong>Extraedge:</strong></p><p>The common nerves and sites where nerve biopsy is performed are: Superficial sensory radial nerve branch at the wrist. Ulnar cutaneous nerve near the ulnar border of base of the hand and sural nerve near the ankle.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "a9802739",
+      "audio": ""
+    },
+    {
+      "text": "Under National Health Mission which committee makes plan for village health?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Panchayat Health Committee (PHC)",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Village Health Planning and Management Committee (VHPMC)",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Village Health Sanitation and Nutrition Committee (VHSNC)",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Rogi Kalyan Samiti",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Village Health Sanitation and Nutrition Committee (VHSNC)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Village Health Sanitation and Nutrition Committee (VHSNC)</p>\n<p><strong>Highyeild:</strong></p><p>VHSNC: The VHSNC is a sub-committee or a standing committee of the Gram Panchayat. The VHSNC acts as a platform for convergence between different departments and committees at village level. The VHSNCs shall be supported to develop village health plans to ensure convergent action on social determinants of health, ensure access to health services, especially of the more marginalized sections in the village, and support the organization of the Village. Health and Nutrition Day. The VHSNC will also monitor the services provided by the Anganwadi Worker, the ASHA, and the Sub center. Rogi Kalyan Samiti (RKS): Also known as patient welfare committee or hospital management society. This is a registered society whose members act as trustees to manage the affairs of the hospital and is responsible for upkeep of the facilities and ensure provision of better facilities to the patients in the hospital. (in PHCs, CHCs and DHs).</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and D are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ec09ed04",
+      "audio": ""
+    },
+    {
+      "text": "What is the estimated number of infants under a health worker of a Sub center area in a year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "100",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "150",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "200",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 150",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>150</p>\n<p><strong>Highyeild:</strong></p><p>Calculation of the annual target population and monthly target for immunization: Since infants are the target population for immunization, calculating the number of new-born\u2019s expected in a year gives the annual target population for a program in an area. Annual target population = (total population) \u00d7 (% infants in population or expected birth rate) The percentage of infants in the population, or the expected birth rate, should be obtained from local data. If a specific local percentage is not available, the suggestion here is to use 3% as an estimate for session planning. Divide the annual target population by 12 to get the monthly newborn/infant target: Monthly target population = (annual target population)/12 Use of the most precise and area specific percentage (available or measured), for calculating the number of infants is preferred.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p><strong>Extraedge:</strong></p><p>Estimation of number of Infants in a Sub center area: The population norms for a Sub center in plains, as per the IPHS is 5000. Estimated no. of Infants (Y) in a Sub center area (If CBR data is unavailable): Y = 3% of the annual Population of the Sub center area Y = 3 \u00d7 5000 = 150 100 Expected no. of Infants (Y) born in a year in a Sub center area (If CBR data is available): Example: when CBR = 15/1000 population Y = Crude Birth Rate \u00d7 Population of the Sub center area 1000 Y = 15 \u00d7 5000 = 75 1000</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "7f3672cc",
+      "audio": ""
+    },
+    {
+      "text": "As per the National Immunization Schedule, which of the following vaccines are indicated at the first visit for immunization of a 13 months old child who was previously unimmunized?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BCG, OPV 1st dose, Pentavalent 1st dose, Rota virus 1st dose, fIPV 1st dose, PCV 1st dose and measles 1st dose",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "OPV 1st dose, Pentavalent 1st dose, flPV 1st dose and measles 1st dose",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "BCG, OPV 1st dose, DPT 1st dose and measles 1st dose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "DPT 1st dose, OPV 1st dose, and Measles 1st dose",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. DPT 1st dose, OPV 1st dose, and Measles 1st dose",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>DPT 1st dose, OPV 1st dose, and Measles 1st dose</p>\n<p><strong>Highyeild:</strong></p><p>Age limits for different vaccines in NIS: According to National Immunization Schedule some vaccines have an upper age limit for administration. These vaccines should not be administered once that age limit is crossed. Vaccine Maximum age limit for vaccination BCG Till 1 year of age Hep-B - \u201cBirth\u201d dose Within 24 hours OPV - \u201c0\u201d dose Within 15 days OPV Till 5 year of age Measles or MR Till 5 year of age DPT Till 7 year of age JE (in endemic areas) Till 15 year of age Criteria for Pentavalent, IPV, PCV and Rotavirus vaccines in NIS: If at least 1 dose of these vaccines is given before 1 year of age, then the remaining doses can be administered and schedule must be completed irrespective of the age of child. If the first dose is not administered before 1 year of age, then these vaccines cannot be administered to the child under UIP. Therefore, vaccines that are indicated for a 13 months old child who was previously unimmunized are - OPV 1st dose; DPT: 1st dose; and Measles/MR: 1st dose.</p>\n<p><strong>Random:</strong></p><p>Explanation for incorrect options: - Options A, B and C are false.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "214637d3",
+      "audio": ""
+    }
+  ]
+}

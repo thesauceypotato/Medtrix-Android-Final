@@ -1,0 +1,739 @@
+{
+  "meta": {
+    "id": "test7",
+    "title": "Pharmacology - INI CET JULY 2021",
+    "category": "Subject Wise / Mixed"
+  },
+  "questions": [
+    {
+      "text": "If the elimination constant rate of a drug is 0.05/hr, what is the half-life of this drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 hr",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6.5 hr",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "13.8 hr",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "7.5 hr",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. 13.8 hr",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>13.8 hr The half-life of a drug is the time taken for the plasma concentration of a drug to reduce to half its original value. The actual half-life of a drug varies from person to person, because it depends on a number of different patient- and drug-specific variables. These affect how well a particular drug is distributed around a person\u2019s body (volume of distribution), or how fast a person excretes that drug (drug clearance). For example, the IV drug gentamicin, which is cleared through the kidneys, has a half-life of 2-3 hours in a young person with no kidney disease, but over 24 hours in somebody with severe kidney disease. Half-life elimination is graphically represented with elimination curves that track the amount of a drug in the body over time, typically with time on the independent axis and drug plasma concentration on the dependent axis, as shown in Figure below. Total drug exposure over time is represented in these graphs as the integral area under the curve (AUC). Elimination curves are useful for determining if a drug indeed follows first-order kinetics, in which case the curve should follow a logarithmic decay according to the integrated rate law of first-order reactions (Equation 1). After solving the differential equation, one can obtain the half-life equation that is commonly tested on and used in clinical practice (Equation 2). From this equation, one can quickly determine the half-life of a drug, given its predetermined rate constant k. Equation 1: ln[Ao]/[A]=kt Equation 2: t-half= 0.693/k Equation 3: t-half= 0.693*Vd/CL, where Vd is the volume of distribution and CL is clearance Here, by putting the values in equation 2, t 1/2 = 0.693/0.05=13.8 hr.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "fae5c57e",
+      "audio": ""
+    },
+    {
+      "text": "A patient who is on phenytoin for seizure disorder was prescribed sucralfate 4 times a day for peptic ulcer. What should be the minimum duration between consumption of two drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "120 mins",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "60 mins",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "30 mins",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "90 mins",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 120 mins",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>120 mins Sucralfate is a complex aluminium hydroxide salt of a sulphated disaccharide used in the treatment of peptic ulceration. It binds with proteins in the ulcer base to form a chemical barrier to further erosion. It acts in an acidic environment with pH<4 and thus possibly inhibits the absorption of drugs like phenytoin, cimetidine, ketoconazole, etc. Thus, a gap of at least 2 hrs should be maintained between these drugs. NOTE: Sucralfate should NOT be combined with Al containing antacids (Magnesium aluminum silicate) since Magnesium aluminum silicate reacts with acid in the stomach to increase the pH. Also, since sucralfate produces viscous gel like product and leads to constipation, it could l/t bezoar formation or Aluminium overload (in renal failure patients).</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "086ea54f",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drug is the only medication useful in preventing disability progression in a patient with primary progressive multiple sclerosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ocrelizumab",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Natalizumab",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Siponimod",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Rituximab",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Ocrelizumab",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ocrelizumab Ocrelizumab is a humanized anti-CD20 monoclonal antibody which was recently approved forthe treatment of adults with relapsing multiple sclerosis (RMS) or primary progressive multiple sclerosis (PPMS). It is a novel high-efficacy disease-modifying therapy for RMS that is more effective than interferon \u03b2-1a and also a valuable new treatment option for delaying progression in early PPMS. It offers a convenient once every 6 months treatment regimen, with no need for routine monitoring. Mitoxantrone can also be used; however it is less preferred due to risk of cardiotoxicity.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "ed1e0cb2",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following cephalosporins can increase the effect of warfarin resulting in raised INR and increased risk of bleeding?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cefoperazone",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Cefixime",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ceftobiprole",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ceftazidime.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Cefoperazone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cefoperazone Cephalosporins containing an N-methylthiotetrazole (NMTT) side chain are mainly the second-generation (cefamandole, cefbuperazone, cefmetazole, cefminox, cefotetan) and third-generation cephalosporins (cefmenoxime, cefoperazone, moxalactam). NMTT-cephalosporins [side chains of N-methylthiotetrazole (latamoxef, cefmenoxime, cefoperazone, cefotetan, cefamandole)] or methyl-thiadiazol-cephalosporins (cefazolin)  are known to cause hemostatic abnormalities, such as bleeding, prothrombin time (PT) prolongation, and hypoprothrombinemia, due to the chemical structure of the NMTT, which interferes with vitamin K metabolism. This is because these drugs inhibit Vit. K epoxide reductase in liver, which acts as a major enzyme for Vit. K dependent carboxylation; essential for the functioning of coagulation actors.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b67cf047",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following anti-epileptic drug is used in treatment of neuropathic pain? Gabapentin Lamotrigine Carbamazepine Pregabalin Select the correct answer from the given below code:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,3,4",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "1,2,3",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "1,2",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "1,3",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. 1,3,4",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>1,3,4 First-line agents include tricyclic antidepressants, duloxetine, pregabalin and controlled-release oxycodone. Other medications include carbamazepine, gabapentin, lamotrigine and tramadol. Carbamazepine \u2191 refractory period of voltage-gated Na + channels Likely binds to the inactivated state, inhibiting action potential generation First-line for trigeminal neuralgia Also used for bipolar disorders Lamotrigine Blocks voltage-gated Na + channels and glutamate receptors Safe in pregnancy compared to other AEDs. Gabapentin Inhibit voltage-gated Ca 2+ channel via \u03b12\u03b4 subunit Structurally similar to GABA Also used for peripheral neuropathy/neuropathic pain Pregabalin Subtly reduces the synaptic release of several neurotransmitters, apparently by binding to alpha2-delta subunits, and possibly accounting for its actions in vivo to reduce neuronal excitability and seizures.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "3d4aebf7",
+      "audio": ""
+    },
+    {
+      "text": "Dose of carbetocin for post-partum hemorrhage is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "150mcg im over 2min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "100mcg iv over 1min",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "200 mcg iv over 1min",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "50mcg iv over 2min",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 100mcg iv over 1min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>100mcg iv over 1min Several different uterotonic drugs have been used for PPH include ergometrine, misoprostol, carbetocin, oxytocin, and the combinations of misoprostol plus oxytocin and ergometrine plus oxytocin. Oxytocin (10IU, IV/IM) is the most widely used uterotonic drug: 1 st line At low doses, it produces rhythmic uterine contractions that are indistinguishable in frequency, force and duration from those observed during spontaneous labour, but at higher dosages, it causes sustained uterine contractions Oxytocin has a favourable side\u2010effect profile Ergometrine and methylergometrine (200 \u03bcg, IM/IV) are ergot alkaloids that increase the uterine muscle tone by causing sustained uterine contractions. However, ergometrine and methylergometrine are vasoconstrictive and increase the risk of hypertension postpartum, unstable in heat with an unpredictable bioavailability, which precludes oral use. Misoprostol (400 or 600 \u03bcg, PO) is a prostaglandin E1 analogue, which is licensed for the prevention and treatment of gastric ulcers. It is well known for its off\u2010label use as a uterotonic agent. Oral and sublingual routes have the advantage of rapid onset of action, while the vaginal and rectal routes result in prolonged activity and greater bioavailability Carbetocin (100 \u03bcg IM/IV) is a newer long\u2010acting synthetic analogue of oxytocin with agonist properties. After intravenous injection, it produces sustained uterine contractions within two minutes, lasting for approximately six minutes followed by rhythmic contractions for 60 minutes Carbetocin is heat stable and the side\u2010effect profile appears to be similar to oxytocin Oxytocin and ergometrine FDC (5 IU, 500 \u03bcg, IM)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "e4575d0b",
+      "audio": ""
+    },
+    {
+      "text": "Which dose of dopamine act preferably on \u03b21 receptors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 2mcg/kg/min",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "2 to 10 mcg/kg/min",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "10-20 mcg/kg/min",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "More than 20 mcg/kg/min",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. 2 to 10 mcg/kg/min",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>2 to 10 mcg/kg/min Dopamine is a peripheral vasostimulant used to treat low blood pressure, low heart rate, and cardiac arrest. Low infusion rates (0.5 to 2 micrograms/kg per minute) act on the visceral vasculature to produce vasodilation, including the kidneys, resulting in increased urinary flow. It is beneficial to manage hypotension, low cardiac output, and inadequate organ perfusion (often indicated by low urine production). Intermediate infusion rates (from 2 to 10 micrograms/kg/min) stimulate myocardial contractility and increase electrical conductivity in the heart leading to increased cardiac output. Higher doses cause vasoconstriction and increased blood pressure via the adrenergic receptors alpha-1, beta-1, and beta-2, potentially leading to poor peripheral circulation. DA receptors are further classified either as D1-class (D1 and D5) or D2-class (D2, D3, D4). Activation of the D1 receptors on smooth muscle, the proximal renal tubule, and cortical collecting duct increase diuresis. D2 receptors are located pre-synaptically on the renal nerves and within the glomeruli and adrenal cortex. The activation of these nerves results in decreased renal sodium and water excretion. Apomorphine is a DA receptor agonist and may have similar activation on these DA receptors. Adrenergic receptors also bind DA increasing arterial smooth muscle contraction and cardiac sinoatrial node conductivity, which explains its cardiac therapeutic benefits.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "9f4ec2d6",
+      "audio": ""
+    },
+    {
+      "text": "Mechanism of action of Remdesivir is inhibition of?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RNA dependent RNA polymerase",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "DNA dependent RNA polymerase",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Viral protease enzyme",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cell wall synthesis",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. RNA dependent RNA polymerase",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>RNA dependent RNA polymerase Coronaviruses use an RdRp enzyme to carry out replication and transcription of their RNA genome1. The RdRp consists of three non-structural protein (nsp) subunits, the catalytic subunit nsp12 and the accessory subunits nsp8 and nsp7. The active form of remdesivir acts as a nucleoside analog and inhibits the RNA-dependent RNA polymerase (RdRp) of coronaviruses including SARS-CoV-2. Remdesivir is incorporated by the RdRp into the growing RNA product and allows for addition of three more nucleotides before RNA synthesis stalls.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "5ccce479",
+      "audio": ""
+    },
+    {
+      "text": "A patient presents with bleeding and hemarthrosis after he was prescribed some medication 1 week back. Which of the following drugs could have possibly caused this condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ceftriaxone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cefoperazone",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ceftazidime",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cefixime",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Cefoperazone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Cefoperazone NMTT-cephalosporins [side chains of N-methylthiotetrazole (latamoxef, cefmenoxime, cefoperazone, cefotetan, cefamandole)] or methyl-thiadiazole-cephalosporins (cefazolin)  are known to cause hemostatic abnormalities, such as bleeding, prothrombin time (PT) prolongation, and hypoprothrombinemia, due to the chemical structure of the NMTT, which interferes with vitamin K metabolism. This is because these drugs inhibit Vit. K epoxide reductase in liver, which acts as a major enzyme for Vit. K dependent carboxylation; essential for the functioning of coagulation actors.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "47fa82f4",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is novel antidepressant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lurasidone",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Asenapine",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Blonanserin",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vilazodone",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Vilazodone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Vilazodone The selective serotonin reuptake inhibitor (SSRI) and 5-HT1A receptor partial agonist Vilazodone is a novel antidepressant, currently approved for the treatment of major depressive disorder (MDD) in adults, is also effective in relieving anxiety symptoms in patients with generalized anxiety disorder. Lurasidone is an antipsychotic medication used to treat schizophrenia and bipolar disorder. In bipolar disorder, it may be used together with a mood stabilizer such as lithium or valproate. Asenapine is a sublingual psychotropic agent. The exact mechanism of action is unknown . However, it has been suggested that the efficacy of asenapine in schizophrenia is mediated through a combination of antagonist activity at D2 and 5-HT2A receptors. Blonanserin is an atypical antipsychotic used for the treatment of schizophrenia in adult patients who have failed to respond to the first line treatment.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "efcc56a8",
+      "audio": ""
+    },
+    {
+      "text": "In 14 month old patient with Hib pneumonia, the resident doctor was planning to give ampicillin but shifted to ceftriazone. Why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cotrimoxazole DOC but patient allergic to sulfa drugs",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hib modifies protein binding sites hence resistance to ampicillin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hib produces B lactamase hence resistance to ampicillin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone better IV drug than ampicillin",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Hib produces B lactamase hence resistance to ampicillin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Hib produces B lactamase hence resistance to ampicillin Intrinsic efflux resistance mechanisms in Hemophilus influenza type B limit the activity of the macrolides, azalides, and ketolides. \u03b2-Lactamase production is highly prevalent worldwide and is associated with resistance to ampicillin and amoxicillin. Strains with alterations in penicillin binding proteins, particularly PBP3 (\u03b2-lactamase negative ampicillin resistant and \u03b2-lactamase positive amoxicillin-clavulanate resistant), are increasing in prevalence, with increasing resistance to ampicillin, amoxicillin, amoxicillin-clavulanate, and many cephalosporins, limiting the efficacy of expanded-spectrum cephalosporins against meningitis and of many oral cephalosporins against other diseases. Most strains remain susceptible to the carbapenems, which are not affected by penicillin binding protein changes, and the quinolones. influenzae type b is a common bacterial cause of childhood pneumonia and bacteremia between 6 months and 5 years of age. High-dose amoxicillin (90 mg/kg of body weight/day), either alone or with the addition of clavulanic acid, is the first-line drug of choice for empirical treatment of outpatients with childhood pneumonia. Recommended empirical therapy for inpatients includes ceftriaxone or cefotaxime to provide coverage for non-penicillin-susceptible Streptococcus pneumoniae and \u03b2-lactamase-positive influenzae .</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "35733bef",
+      "audio": ""
+    },
+    {
+      "text": "A patient of chronic liver cirrhosis presents with ascites. Which of the following is the best diuretic to be used in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Furosemide",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chlorothiazide",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Triamterene",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Eplerenone",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Eplerenone",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Eplerenone Eplerenone and spironolactone are equally effective in management of ascites due to liver cirrhosis but side effect profile of eplerenone scores over Spironolactone. Cirrhosis and HF are disorders with a common pathophysiology of decreased effective arterial blood volume with resultant stimulation of the renin-angiotensin-aldosterone system (RAAS), sympathetic nervous system, and arginine vasopressin causing increased sodium and water retention. This arterial underfilling is caused by splanchnic vasodilatation in cirrhosis and decreased cardiac output in HF. In cirrhotic patients with refractory ascites, the standard of first-line care is mineralocorticoid antagonist (eg, spironolactone in doses up to 400 mg/day)</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b83ab452",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following is centrally acting opioid antitussive agent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ambroxol",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Levorphanol",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Diphenoxylate",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Levopropoxyphene",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Levopropoxyphene",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Levopropoxyphene Antitussives are used for effective symptomatic relief of dry or non-productive cough. First generation anti-histamines like chlorpheniramine and centrally acting opioid derivatives like codeine are often used alone or in combination in the management of nonspecific cough. Sedation caused by these is valuable, particularly if the cough is disturbing the sleep. Other centrally acting antitussives include chlophedianol, levopropoxyphene, and noscapine in the nonnarcotic group and hydrocodone, hydromorphone, methadone, and morphine in the narcotic group. ALSO NOTE:</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "788c9155",
+      "audio": ""
+    },
+    {
+      "text": "Which of the following drugs improves bioavailability and prolongs duration of action of saquinavir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin C",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Remdesivir",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ritonavir",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Cimetidine",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Ritonavir",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Ritonavir Saquinavir is a peptide-like substrate analogue that binds to the protease active site and inhibits the activity of the enzyme HIV protease; which is required for the proteolytic cleavage of viral polyprotein precursors into individual functional proteins found in infectious HIV. While its efficacy was initially limited by exceptionally poor oral bioavailability (approximately 4%), its current indications require the co-administration of ritonavir - a potent enzyme inhibitor - that increases the bioavailability and subsequent serum concentrations of saquinavir, thus dramatically improving antiviral activity. Ritonavir is recommended as an agent to boost other protease inhibitors. This is because ritonavir blocks the CYP3A4 pathway in the liver, which is involved in the metabolising of other protease inhibitors . This leads to higher blood concentrations of these drugs and their slower clearance from the body.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "324f48d9",
+      "audio": ""
+    },
+    {
+      "text": "What is mechanism of action of cyclosporine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mTOR inhibitor",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Calcineurine inhibitor",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "IL-2 receptor antagonist.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "TNF-alpha inhibitor.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Calcineurine inhibitor",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Calcineurine inhibitor Cyclosporine is an immunosuppressive agent used to treat organ rejection post-transplant. It also has use in certain other autoimmune diseases, treatment of organ rejection in kidney, liver, and heart allogeneic transplants, rheumatoid arthritis when the condition has not adequately responded to methotrexate. Also, it is a second-line agent for ALS and graft vs. host disease. The mechanism of action of cyclosporine is as a calcineurin inhibitor, a cytochrome P450 3A4 inhibitor, and a P-glycoprotein inhibitor. Cyclosporin A (CsA) inhibits the synthesis of interleukins (IL), including IL-2, which is essential for the self-activation of T lymphocytes (LT) and their differentiation. Cyclosporine is effective due to specific and reversible inhibition of immunocompetent lymphocytes in the G0 and G1-phase of the cell cycle. The T-helper cell is the primary target, although it may also suppress T-suppressor cells. The LT-B-lymphocyte (LB) co-operation is essential for activation of LB; the latter also gets inhibited. In addition, research has demonstrated that CsA had an inhibiting effect on CD4+ CD25+ Tregs, which might block the host immune tolerance potentiality.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "93694861",
+      "audio": ""
+    },
+    {
+      "text": "Category A/B/C/D/X of drugs is based on?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Safety in pregnancy",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Dose adjustment in renal failure",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "over the counter use of drug",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Therapeutic index and safety",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Safety in pregnancy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Safety in pregnancy FDA Classification of Drug Safety During Pregnancy Category A Controlled studies in women fail to demonstrate a risk to the fetus in the first trimester (and there is no evidence of risk in later trimesters), and the possibility of fetal harm appears remote. Category B Either animal reproduction studies have not demonstrated a fetal risk but there are no controlled studies in pregnant women, or animal reproduction studies have shown an adverse effect (other than a decrease in fertility) that was not confirmed in controlled studies in women in the first trimester (and there is no evidence of risk in later trimesters). Category C Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women, or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus. Category D There is positive evidence of human fetal risk, but the benefits from use in pregnant women may be acceptable despite the risk (e.g., if the drug is needed in a life-threatening situation or for a serious disease in which safer drugs cannot be used or are ineffective). Category X Studies in animals or human beings have demonstrated fetal abnormalities or there is evidence of fetal risk based on human experience, and the risk of the use of the drug in pregnant women clearly outweighs any possible benefit. The drug is contraindicated in women who are or may become pregnant. FDA = U.S. Food and Drug Administration. Notable drug regulatory schedules: Schedule G : Most of these drugs are hormonal preparations. The drug label must display the text \"Caution: It is dangerous to take this preparation except under medical supervision\" Examples of substances under this schedule: Testolactone, Hydroxyurea, Carbutamide, Primidone etc. Schedule H : The drug label must display the texts \"Rx\" and \"Schedule H drug. Warning : \"Not to be sold by Retail without the prescription of a Registered Medical Practitioner\" It can only be supplied to licensed parties. It cannot be sold without a prescription and only the amount specified in the prescription should be sold. The time and date of prescription must be noted. Examples: androgenic, anabolic, oestrogenic and progestational substances; Alprazolam (Xanax), Hepatitis B vaccine, Ibuprofen, Vasopressin etc. If a Schedule H drug also comes under the purview of Narcotic Drugs and Psychotropic Substances Act, 1985, it must carry the texts \"NRx\" and \"Schedule H drug. Warning: To be sold by retail on the prescription of a Registered Medical Practitioner only.\" on the label prominently. Schedule X : All the regulations of Schedule H apply. The retailer must keep a copy of the prescription for two years. The drugs must be kept under lock and key. Examples: Secobarbital, Glutethimide etc Schedule J : Contains a list of various diseases and conditions that cannot be treated under any drug currently in market. No drug may legally claim to treat these diseases.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "b2286cf7",
+      "audio": ""
+    },
+    {
+      "text": "Definition of resistant hypertension is usage of 3 or more drugs, one which should be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diuretics",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Alpha blockers",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Reserpine",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alpha methyl dopa",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Diuretics",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Diuretics</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "247c508e",
+      "audio": ""
+    },
+    {
+      "text": "Most effective cessation agent when used as monotherapy for smoking cessation is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varenicline",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Nicotine gum",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nicotine patch",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sustained release Bupropion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Varenicline",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Varenicline Varenicline is the most effective cessation agent when used as monotherapy for smoking cessation. Varenicline is a nicotinic receptor partial agonist drug for smoking cessation that relieves symptoms of craving and withdrawal. The use of varenicline can more than double the chances of long-term quitting It was found to be more effective than bupropion, more effective than NRT monotherapy and similar in effect to combination NRT. There are two options for quitting with varenicline, both equally effective but chosen by preference: \u2013 Fixed option, which involves the person who smokes setting a date to stop smoking \u2013 varenicline should start one to two weeks before this date Flexible approach, when the person who smokes begins varenicline dosing, then quits smoking between days 8 and 35 of treatment.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "8e9585e1",
+      "audio": ""
+    },
+    {
+      "text": "Anionic and slightly acidic drugs usually bind to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Globulin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ceruloplasmin",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Albumin",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Alpha acid glycoprotein",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Albumin",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Albumin Anionic and slightly acidic drugs usually bind to Albumin. Albumin is the major drug-binding protein in the serum, although other proteins, such as \u03b1 1 acid glycoprotein, lipoproteins, and globulins, are also capable of binding drugs. On their surfaces, an albumin molecule is rich in clusters of charged residues (Lys and Arg) which attracts acidic probes, while \u03b1 1 acid glycoprotein has glycosyl groups that mainly attract base probes and influence their binding affinities (Fernandes et al., 2015). Thus, base drugs may have high affinities for \u03b1 1 acid glycoprotein (Asp and Glu residues), and most probably low affinities for albumin (Lys and Arg). Conversely, acidic drugs may have higher affinities to albumin than to \u03b1 1 acid glycoprotein.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "0f801742",
+      "audio": ""
+    },
+    {
+      "text": "The following table gives the data of AUC of drug A alone and AUC of drug A when combined with drug B. p value is <0.01. Which of the following statement regarding these drugs is most correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drug B increases the systemic metabolism of Drug A",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Drug B decreases the first pass metabolism of drug A",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Drug B decreases the intestinal absorption of drug A",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Drug B increases the renal clearance of Drug A",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Drug B decreases the first pass metabolism of drug A",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1692796156221-QTDJPYQ351IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Drug B decreases the first pass metabolism of drug A The area under the plasma drug concentration-time curve (AUC) reflects the actual body exposure to drug after administration of a dose of the drug and is expressed in mg*h/L. This area under the curve is dependent on the rate of elimination of the drug from the body and the dose administered. The total amount of drug eliminated by the body may be assessed by adding up or integrating the amounts eliminated in each time interval, from time zero (time of the administration of the drug) to infinite time. This total amount corresponds to the fraction of the dose administered that reaches the systemic circulation. The AUC is directly proportional to the dose when the drug follows linear kinetics. The AUC is inversely proportional to the clearance of the drug. That is, the higher the clearance, the less time the drug spends in the systemic circulation and the faster the decline in the plasma drug concentration. Therefore, in such situations, the body exposure to the drug and the area under the concentration-time curve are smaller. In the given scenario, since AUC increases when both drugs are given together, it implies that the bioavailability of drug A is increased when given in combination with drug B compared to when given alone. This can only be possible if 1 st pass metabolism decreases or intestinal absorption increases for drug A. Also, since given p value is <0.01, it can be implied that the null hypothesis is true and the above statement stands significant.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "d9d3c94e",
+      "audio": ""
+    },
+    {
+      "text": "What is the prenatal dose of dexamethasone given for lung maturation in premature infants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 mg 2 doses 12 hours apart",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "6 mg 4 doses 24 hours apart",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "12 mg 2 doses 24 hours apart",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "6 mg 4 doses 12 hours apart",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. 6 mg 4 doses 12 hours apart",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>6 mg 4 doses 12 hours apart Steroids are recommended for all women in preterm labour before 32 weeks with or without membrane ruptures in whom there is no evidence of chorioamnionitis. According to ACOG, single dose steroid injection is recommended between 24 to 32 weeks. There is no Concensus regarding treatment between 32-34 weeks. Corticosteroid therapy is not recommended before 24 weeks. Advantage: Steroids reduce the rate of respiratory distress syndrome, intraventricular hemorrhage and Necrotising enterocolitis in the newborn. The effect of treatment is maximal between 24 hours of the first dose and until 7 days. Earlier it was recommended to give repeated doses weekly till the patient delivers but this practice is associated with significant fetal and neonatal side effects like cerebral palsy and should be abandoned. Betamethasone is the steroid of choice as it also prevents periventricular leukomalacia although dexamethasone can also be used. Dose: Betamethasone: 2 doses of 12 mg, 24 hours apart, Dexamethasone: 4 doses of 6 mg, 12 hours apart</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "30a00d9d",
+      "audio": ""
+    },
+    {
+      "text": "A 65 yrs old man comes to OPD with history of fall. He is hypertensive with history of atrial fibrillation and is presently on captopril, atenolol, aspirin and amiodarone. He presents with the following finding as shown in the image. What is the most probable diagnosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Captopril toxicity",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lupus pernio",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Silver toxicity",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Drug induced skin lesion",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Drug induced skin lesion",
+      "question_images": [
+        "https://dbmi-data.s3.ap-south-1.amazonaws.com/photos-1692796156227-QTDJPYQ353IMG1.JPG"
+      ],
+      "explanation_images": [],
+      "explanation": "<p><strong>Solution:</strong></p><p>Drug induced skin lesion Given is a case of Amiodarone induced skin lesion. Amiodarone\u2010induced blue\u2010gray skin pigmentation is most often reported to occur following long\u2010term treatment in elderly patients with a predominance of male patients. Amiodarone is known to cause cutaneous and systemic side effects. The most common cutaneous side effect is photosensitivity. The typical feature of the blue\u2010gray skin syndrome is the strictly facial skin pigmentation. It is speculated that ultraviolet light induces amiodarone and its metabolites to attach to the blood vessel walls and the perivascular tissue. This is associated with local vasodilatation and increased diffusion of amiodarone and its metabolites, resulting in chronic tissue accumulation. Therefore, only sun exposed regions are affected The presence of amiodarone deposits in the skin, with or without lipofuscin, is able to induce the blue-gray hyperpigmentation . This pigmentation could be explained by the Tyndall effect, in which dermal pigment, whether melanin, iron, or other pigment, is perceived as blue, gray, or blue-gray. The disappearance of amiodarone-related skin discoloration may occur within months or years. However, in some cases, hyperpigmentation might be permanent despite the cessation of treatment with amiodarone. Apart from the cessation of treatment, avoiding exposure to sunlight and using a sunscreen cream against both ultraviolet-A (UV-A) and UV-B radiation is recommended.</p>\n<p></p>",
+      "bot": "@dams_new_robot",
+      "video": "",
+      "uid": "cd06ea49",
+      "audio": ""
+    }
+  ]
+}

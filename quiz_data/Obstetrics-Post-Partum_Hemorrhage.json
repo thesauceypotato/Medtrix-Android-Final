@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "id": "test64",
+    "title": "Obstetrics-Post-Partum_Hemorrhage",
+    "category": "Prepladder / RR"
+  },
+  "questions": [
+    {
+      "text": "A patient experiencing postpartum hemorrhage (PPH) is undergoing resuscitation due to active bleeding. Laboratory tests have shown a critically low fibrinogen level. What is the recommended target fibrinogen level for patients with active bleeding during postpartum hemorrhage?",
+      "options": [
+        {
+          "label": "A",
+          "text": ">200 mg/dL",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": ">150 mg/dL",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": ">100 mg/dL",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": ">250 mg/dL",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. >200 mg/dL",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Laboratory Evaluation </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Routine Laboratory Tests</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Tests:</strong></p>\n<ul>\n<li>Complete <span class=\"customMeta\" data-dictid=\"57525e6f6416927771835d0fb0bee5\">blood count</span> (including <span class=\"customMeta\" data-dictid=\"e7032bae7f1692777195d693722e54\">platelet</span> count),</li>\n<li>Type and <span class=\"customMeta\" data-dictid=\"23e8a5c9a016927771856a5be163a7\">crossmatch</span> for multiple units of red blood cells,</li>\n<li>Coagulation studies (fibrinogen concentration, <span class=\"customMeta\" data-dictid=\"94b02f097916927771962072dbeeac\">prothrombin</span> time, activated partial <span class=\"customMeta\" data-dictid=\"9b51982d06169277720063c9420fbb\">thromboplastin</span> time).</li>\n</ul>\n<p><strong>Note:</strong> <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">Hemoglobin</span> levels drop by ~1 g/dL for every 500 mL of blood loss.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Fibrinogen Measurement</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Fibrinogen levels drop earlier than other <span class=\"customMeta\" data-dictid=\"42f1e4deb8169277718412c0681a54\">coagulation</span> factors and are a sensitive indicator of ongoing blood loss.</li>\n<li><strong>Normal Range:</strong>\n<ul>\n<li>350-650 mg/dL in pregnancy.</li>\n<li>Levels below 200 mg/dL are associated with severe PPH and higher morbidity/mortality.</li>\n</ul>\n</li>\n<li><strong>Target:</strong> Recommended to maintain <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">fibrinogen</span> levels >200 mg/dL, ideally >300 mg/dL in active bleeding.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Viscoelastic Testing:</strong></p>\n<p style=\"text-align:center\"><strong>TEG/ROTEM\u00a0</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Thromboelastography (TEG) and rotational thromboelastometry (ROTEM).</p>\n<ul>\n<li><strong>Function:</strong> Assess global blood <span class=\"customMeta\" data-dictid=\"4cb859ed5d16927771884925c4eef7\">hemostasis</span> by measuring <span class=\"customMeta\" data-dictid=\"5e0b40993316927771844dbf382689\">clot</span> development, stabilization, and dissolution.</li>\n<li><strong>Usage:</strong> Effective for guiding <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> and <span class=\"customMeta\" data-dictid=\"42f1e4deb8169277718412c0681a54\">coagulation</span> product therapy.</li>\n<li><strong>ROTEM Findings:</strong>\n<ul>\n<li>FIBTEM A10 (Amplitude at 10 minutes) \u226417 mm is suggestive of low <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">fibrinogen</span> levels.</li>\n<li>Fibrin-based <span class=\"customMeta\" data-dictid=\"5e0b40993316927771844dbf382689\">clot</span> strength (FIBTEM) is an early indicator of <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> severity. FIBTEM A5 <10 mm may indicate severe PPH.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Syx3mc1lP3TlsWTZuqqA1746177373.mp3",
+      "video": "",
+      "uid": "8e2bd552"
+    },
+    {
+      "text": "A 28 y/o woman, G2P2, presents to the emergency on postpartum day 10 with complaints of vaginal bleeding. She reports with fever, chills, and feels lightheaded and weak. O/E, the uterus is larger than expected for her postpartum state, and there is moderate vaginal bleeding. Her hemoglobin level is 7.8 g/dL. All of the following can cause postpartum hemorrhage (PPH) in this patient, EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retained placental fragments",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Uterine atony",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Endometritis",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Uterine artery pseudoaneurysm",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Uterine atony",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:536px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Secondary <span class=\"customMeta\" data-dictid=\"3d885759d516927771966b84bfa470\">Postpartum</span> Hemorrhage</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Retained <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">Placental</span> Fragments and Membranes (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Most common cause</li>\n<li>They can prevent proper <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> <span class=\"customMeta\" data-dictid=\"2a4713707c1692777190062b13e806\">involution</span> and healing, leading to significant bleeding.</li>\n<li>Rarely, retained products undergo <span class=\"customMeta\" data-dictid=\"5e84a7987c16927771931012aced83\">necrosis</span> and <span class=\"customMeta\" data-dictid=\"18c2380be716927772020c9b2863de\">fibrin</span> deposition, forming a <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> <span class=\"customMeta\" data-dictid=\"b5c135c2311692777196832953e406\">polyp</span> that can cause severe hemorrhage.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Infection</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Tissue <span class=\"customMeta\" data-dictid=\"903370f259169277718385f6060dd7\">breakdown</span> and delayed healing</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Endometritis (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Inflammation of the <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> lining and delayed healing.</li>\n<li>Symptoms typically include fever, <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> tenderness, and foul-smelling lochia.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Subinvolution of <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">Placental</span> Site</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Uterus's failure to return to its normal size after delivery.</li>\n<li>When the <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> site heals slowly, it can increase the risk of secondary bleeding</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Uterine <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> <span class=\"customMeta\" data-dictid=\"95231b27fc169277719604c4b64d68\">Pseudoaneurysm</span> (Option D) </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>A severe but rare cause of secondary PPH.</li>\n<li>It occurs when a <span class=\"customMeta\" data-dictid=\"95231b27fc169277719604c4b64d68\">pseudoaneurysm</span> forms in the <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> artery, leading to delayed hemorrhage.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/AZVETyEJothK1SO4X8Jw1745420649.mp3",
+      "video": "",
+      "uid": "bd77119a"
+    },
+    {
+      "text": "All of the following are recommended during postpartum hemorrhage (PPH) blood loss management EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maintaining haemoglobin levels >8 g/dL",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Keeping platelet count > 50 \u00d7 10 9 /L",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ensuring APTT <1.5 times the normal range",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Routine use of recombinant activated factor VII (rFVIIa)",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Routine use of recombinant activated factor VII (rFVIIa)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/k9CI0TDbFfG9qdMvbXre1748420283.mp3",
+      "video": "",
+      "uid": "cb27973e"
+    },
+    {
+      "text": "A 36 y/o woman, G3P2, delivered via C-section 4 hours ago and is now experiencing severe PPH unresponsive to uterine massage and uterotonics. Her vital signs show tachycardia and hypotension. The medical team opts for surgical intervention to avoid a hysterectomy. What is the principle behind performing bilateral internal iliac artery ligation to control her PPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To apply direct pressure on the bleeding site",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "To reduce distal blood flow and convert arterial pressure to venous-like pressure",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "To increase uterine contractility and reduce bleeding",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "To promote rapid healing of uterine tissues",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. To reduce distal blood flow and convert arterial pressure to venous-like pressure",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/5US6JSqDA0MYxjU3MYLt1726644166.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "bafde7f7"
+    },
+    {
+      "text": "A 32 y/o woman, G3P2, delivered a healthy baby via vaginal delivery and is now experiencing heavy atonic PPH unresponsive to uterine massage and uterotonic agents, and her vitals show an HR of 110 bpm and BP of 90/60 mmHg. Bimanual uterine tamponade is initiated, 2 Units of blood is on its way. Which surgical option is most appropriate to control this patient's PPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uterine artery ligation",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "B-Lynch compression sutures",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hysterectomy",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Selective arterial embolization",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. B-Lynch compression sutures",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/hyU4jpDAOq3OrJZFc8mJ1726643967.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:576px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Uterine Devascularization</strong></p>\n<ul>\n<li>Progressive <span class=\"customMeta\" data-dictid=\"dcfb6667ee1692777191f00c3df2df\">ligation</span> of more <span class=\"customMeta\" data-dictid=\"bdbac654081692777196f9aab116f0\">proximal</span> arteries to control <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> bleeding.</li>\n<li>May require a <span class=\"customMeta\" data-dictid=\"633cf90e4016927771891fa018663e\">hysterectomy</span> if unsuccessful.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bilateral <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">Uterine</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> <span class=\"customMeta\" data-dictid=\"dcfb6667ee1692777191f00c3df2df\">Ligation</span> (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ligation of the <span class=\"customMeta\" data-dictid=\"62f0d7c8491692777182ab7cc82edb\">ascending</span> branch of each <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> at the <span class=\"customMeta\" data-dictid=\"fc380e21321692777191739bd99191\">lateral</span> border of the uterus.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Ovarian and <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">Uterine</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> <span class=\"customMeta\" data-dictid=\"7fb96d08421692777181e532c3c653\">Anastomosis</span> Ligation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ligation of the <span class=\"customMeta\" data-dictid=\"7fb96d08421692777181e532c3c653\">anastomosis</span> between ovarian and <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> arteries on each side.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Bilateral Internal <span class=\"customMeta\" data-dictid=\"837bfc230c16927771892ece07f94b\">Iliac</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> Ligation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Ligation of the <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">anterior</span> division of the internal <span class=\"customMeta\" data-dictid=\"837bfc230c16927771892ece07f94b\">iliac</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">artery</span> on one or both sides to reduce <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> to the uterus.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Uterine <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">Compression</span> Sutures</strong></p>\n<p>Techniques involving sutures to <span class=\"customMeta\" data-dictid=\"c6486470671692777184e25019e1f0\">compress</span> the <span class=\"customMeta\" data-dictid=\"0c847ca20416927772011b3397c2fd\">uterus</span> and control bleeding.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>B-Lynch <span class=\"customMeta\" data-dictid=\"90dcd6e02316927771990a5c253ff7\">Suture</span> (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Envelops and compresses the uterus; most common technique.</li>\n<li>Effective for <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> atony, simple to learn, safe</li>\n<li>May increase risk of Asherman syndrome.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Hayman Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Uses two to four vertical <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> sutures without hysterotomy.</li>\n<li>Suitable after <span class=\"customMeta\" data-dictid=\"9a1e50b8221692777201b95b66c9de\">vaginal</span> birth.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Pereira Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Involves <span class=\"customMeta\" data-dictid=\"a6260fa86416927772008d36bd7e5f\">transverse</span> and <span class=\"customMeta\" data-dictid=\"7ba18aa5e616927771918a45051a40\">longitudinal</span> sutures around the <span class=\"customMeta\" data-dictid=\"0c847ca20416927772011b3397c2fd\">uterus</span> without entering the <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> cavity.</li>\n<li>Requires care to avoid damaging blood vessels, ureters, and <span class=\"customMeta\" data-dictid=\"efc83dab2c1692777202b5d1d06c4f\">fallopian</span> tubes; manual <span class=\"customMeta\" data-dictid=\"56af81fad316927771843d2b4b1e4f\">compression</span> before tying sutures.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Cho Technique</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Utilizes multiple squares or rectangles for <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> compression.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Uterine <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> Embolization (Option D)</strong></p>\n<p>Minimally <span class=\"customMeta\" data-dictid=\"1c5272ad3d1692777190e71409d07a\">invasive</span> procedure using <span class=\"customMeta\" data-dictid=\"a8eaf87aaa1692777190add0bad040\">interventional radiology</span> to block <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> by injecting <span class=\"customMeta\" data-dictid=\"acd7af7f74169277718736b038fb02\">embolic</span> material.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Hysterectomy (Option C)</strong></p>\n<p>It is a last resort for PPH, it may be necessary in cases where other measures have failed or when there are compelling reasons to remove the uterus. In emergency situations, a <span class=\"customMeta\" data-dictid=\"457e639de21692777199eaaef481ed\">subtotal</span> hysterectomy, where the <span class=\"customMeta\" data-dictid=\"4ac19545431692777184956c031e64\">cervix</span> is left intact, is typically performed.</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/GDntJVZR0aNJ4B8AFIR71748419564.mp3",
+      "video": "",
+      "uid": "048c44e2"
+    },
+    {
+      "text": "A 32-y/o woman presents with severe PPH following a difficult delivery. Despite initial management with uterotonic agents, bleeding persists. She is stabilized and prepared for further intervention. Which of the following interventions is considered first-line surgical management for this patient's condition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intrauterine packing with gauze strips",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Intrauterine balloon tamponade",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Uterine artery embolization",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Immediate referral for emergency hysterectomy",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Intrauterine balloon tamponade",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/kjOyXHWcmh3ZPSTs6oed1726643810.png"
+      ],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Intrauterine Hemorrhage-Control Devices</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Intrauterine hemorrhage-control devices</strong> are typically used for <strong>uterine atony</strong> unresponsive to medications and massage, often as a step before more <span class=\"customMeta\" data-dictid=\"1c5272ad3d1692777190e71409d07a\">invasive</span> surgery.</p>\n<p><strong>Contraindications:</strong></p>\n<ul>\n<li><strong>Allergy </strong>to any device component or <span class=\"customMeta\" data-dictid=\"80273d93491692777194321d2f821b\">packing</span> material.</li>\n<li><strong>Retained Products:</strong> Should not replace <span class=\"customMeta\" data-dictid=\"0705e4cf081692777187f4d2b512aa\">evacuation</span> of retained pregnancy tissue.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Intrauterine <span class=\"customMeta\" data-dictid=\"f6c884e91916927771829b26c9369a\">Balloon Tamponade</span> (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Types:</strong> Multiple balloon catheters used for <span class=\"customMeta\" data-dictid=\"1d5d2712dc169277719050154d38a1\">intrauterine</span> tamponade.</p>\n<p>Examples:</p>\n<ul>\n<li>Sengstaken tube</li>\n<li>Bakri, BT-cath, ebb complete</li>\n<li>Foley's <span class=\"customMeta\" data-dictid=\"e5d34563e91692777183da2015189e\">catheter</span> (can hold up to 100 ml of fluids)</li>\n<li>Condoms</li>\n</ul>\n<p><strong>Mechanism:</strong> <span class=\"customMeta\" data-dictid=\"20b745c46c1692777189374f036950\">Hydrostatic</span> pressure applied inward to outward against <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> wall to reduce <span class=\"customMeta\" data-dictid=\"82cc227a1c169277718387905b50c6\">blood flow</span> and facilitate clotting.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Vacuum-Induced Tamponade</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Mechanism:</strong> Applies low-level <span class=\"customMeta\" data-dictid=\"1d5d2712dc169277719050154d38a1\">intrauterine</span> vacuum (70-90 mmHg) to evacuate blood and clot, facilitating <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> contractions.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Intrauterine <span class=\"customMeta\" data-dictid=\"80273d93491692777194321d2f821b\">Packing</span> (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Plain Gauze/Laparotomy Sponges:</strong> Traditional <span class=\"customMeta\" data-dictid=\"80273d93491692777194321d2f821b\">packing</span> method; Replaced by <span class=\"customMeta\" data-dictid=\"f6c884e91916927771829b26c9369a\">balloon tamponade</span> due to its effectiveness.</p>\n<p><strong>Hemostatic Gauze:</strong> <span class=\"customMeta\" data-dictid=\"793a8f498b169277718854584fe210\">Gauze</span> with additional <span class=\"customMeta\" data-dictid=\"7414bd02f216927771889b3e159ef4\">hemostatic</span> mechanisms</p>\n<p><strong>Compressed Mini-Sponges:</strong> Novel device.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table cellspacing=\"0\" style=\"border-collapse:collapse; width:615px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Uterine or <span class=\"customMeta\" data-dictid=\"b3df9929201692777189f8ca429cf1\">Hypogastric</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> Embolization</strong><strong> (Option C)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Candidates</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Suitable for patients with persistent, slow, excessive bleeding.</li>\n<li>Hemodynamically stable and unresponsive to less <span class=\"customMeta\" data-dictid=\"1c5272ad3d1692777190e71409d07a\">invasive</span> treatments.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Procedure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Performed by an interventional <span class=\"customMeta\" data-dictid=\"526ede3fee169277720184378acc5e\">vascular</span> specialist using <span class=\"customMeta\" data-dictid=\"552e9ef8811692777186997018b858\">diagnostic</span> angiography.</li>\n<li><strong>Gelfoam</strong> is the preferred embolizing agent (temporary occlusion: 2-6 weeks).</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/uuJnYJFq0WEo7Zwds6To1748418803.mp3",
+      "video": "",
+      "uid": "7da577f1"
+    },
+    {
+      "text": "Which of the following medications is correctly matched with its mechanism of action and recommended dosage for managing postpartum hemorrhage (PPH)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carboprost - Derivative of prostaglandin F2\u03b1 - 250 \u03bcg IM, repeat every 15-90 mins (up to 8 doses)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Misoprostol - Antifibrinolytic agent - 1 g IV administration",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tranexamic Acid - Synthetic prostaglandin E1 analogue - 800 mcg sublingually as a single dose",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Carboprost - Synthetic prostaglandin E1 analogue - 600 to 1,000 mcg rectally as a single dose",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Carboprost - Derivative of prostaglandin F2\u03b1 - 250 \u03bcg IM, repeat every 15-90 mins (up to 8 doses)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:692px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Medication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Mechanism of Action</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Dosage </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Efficacy and Side Effects</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Carboprost</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Derivative of <span class=\"customMeta\" data-dictid=\"42815e46071692777196c90c46f78b\">prostaglandin</span> F2\u03b1</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>250 \u03bcg IM, repeat every 15-90 mins (up to 8 doses)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Effective -88% success rate</li>\n<li><strong>Side effects:</strong> diarrhea, hypertension, vomiting, fever, flushing, tachycardia</li>\n<li><strong>Contraindications:</strong> asthma, <span class=\"customMeta\" data-dictid=\"10e2dee19e1692777196673db90c23\">pulmonary</span> hypertension, suspected <span class=\"customMeta\" data-dictid=\"2c0fb943ce16927771815ddeb9824d\">amniotic</span> fluid embolism, and certain renal, liver, and <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> conditions.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Misoprostol</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Synthetic <span class=\"customMeta\" data-dictid=\"42815e46071692777196c90c46f78b\">prostaglandin</span> E1 analogue</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Oral:</strong> 600 to 1,000 <span class=\"customMeta\" data-dictid=\"321808298216927771927f9e8e7f8f\">mcg</span> as a single dose</li>\n<li><strong>Rectal:</strong> 600 to 1,000 <span class=\"customMeta\" data-dictid=\"321808298216927771927f9e8e7f8f\">mcg</span> as a single dose.</li>\n<li><strong>Sublingual: </strong>800 <span class=\"customMeta\" data-dictid=\"321808298216927771927f9e8e7f8f\">mcg</span> as a single dose</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Limited benefit over <span class=\"customMeta\" data-dictid=\"7e1c459d2b1692777194da47cd13b3\">oxytocin</span> or ergonovine</li>\n<li><strong>Side effects:</strong>\u00a0Tachysystole, <span class=\"customMeta\" data-dictid=\"19a40edc9816927771924fd7dd0efa\">meconium</span> passage, and possibly <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> rupture.</li>\n<li>Contraindicated in women with previous <span class=\"customMeta\" data-dictid=\"3c6bfcae8c1692777184ceb5d2efc3\">cesarean</span> birth</li>\n<li>Contraindicated in confirmed or suspected <span class=\"customMeta\" data-dictid=\"0decefe0901692777186f7f3f89b2a\">ectopic</span> or molar pregnancy</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Tranexamic Acid</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Antifibrinolytic agent</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>1 g (10 mL of 100 mg/mL solution) intravenously over 10 to 20 minutes</li>\n<li><strong>Infusion Rate: </strong>Should not exceed 1 mL/minute to avoid hypotension</li>\n<li><strong>Repeat Dose:</strong> If <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> continues after 30 minutes, a second 1 g dose can be given</li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Reduces mortality</li>\n<li>Low rates of severe PPH, blood transfusion, and <span class=\"customMeta\" data-dictid=\"def1dae579169277719548a99ad18e\">peripartum</span> hysterectomy.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Szf0GaZv2aB5iR6DHq9C1748418615.mp3",
+      "video": "",
+      "uid": "b785f27a"
+    },
+    {
+      "text": "A 29-year-old woman, G2P1, is currently in labor with suspected twin pregnancy. She has just delivered the first baby, and the medical team is considering administering methylergometrine to manage the third stage of labor. Which of the following is the most appropriate action regarding the use of methylergometrine in this patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administer immediately after the delivery of the first baby to prevent postpartum hemorrhage.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer only after the delivery of the second baby to avoid compromising the remaining fetus.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Avoid administration completely due to the risk of uterine tetanic contractions affecting the second baby.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Administer before the delivery of the first baby to ensure active management of the third stage of labor.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Avoid administration completely due to the risk of uterine tetanic contractions affecting the second baby.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Methylergometrine</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Mode of Action</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Directly acts on the myometrium, causing strong and frequent <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> contractions, leading to <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> spasms.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Administration</strong></p>\n</td>\n<td rowspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Oral Dose:</strong></p>\n<ul>\n<li>0.2 mg taken 3 to 4 times daily during the puerperium.</li>\n<li><strong>Duration: </strong>Up to 7 days (maximum).</li>\n</ul>\n<p><strong>IM/IV Dose:</strong></p>\n<ul>\n<li>0.2 mg administered after delivery of the <span class=\"customMeta\" data-dictid=\"1ba6a9cfe11692777181950edd7a6d\">anterior</span> shoulder, placenta, or during puerperium.</li>\n<li>Repeat every 2 to 4 hours if necessary.</li>\n<li>IV is reserved for life-threatening situations.</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Uses</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>Prophylactic: </strong>Active management of the <span class=\"customMeta\" data-dictid=\"77cb11f00c16927772002c4c486850\">third stage of labor</span> to prevent excessive <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> post-delivery.</li>\n<li><strong>Therapeutic:</strong> To control atonic <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> after delivery, abortion, or expulsion of a <span class=\"customMeta\" data-dictid=\"7c7412c552169277718978073c8c85\">hydatidiform</span> mole.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Side Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Nausea, vomiting</li>\n<li>Vasoconstriction causing hypertension, myocardial infarction, stroke, bronchospasm</li>\n<li>Possible <span class=\"customMeta\" data-dictid=\"741c89cb18169277718889cfaafa53\">gangrene</span> of toes with repeated use</li>\n<li>Interference with lactation</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Contraindications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Suspected <span class=\"customMeta\" data-dictid=\"2b58d586401692777193700e4a5ea5\">multiple pregnancy</span> after the delivery of the first baby</li>\n<li>Organic <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> diseases (risk of <span class=\"customMeta\" data-dictid=\"72421e3a581692777197a98d00066c\">right heart</span> <span class=\"customMeta\" data-dictid=\"9d02a99d051692777194aa3375023b\">overload</span> and failure)</li>\n<li>Severe pre-eclampsia/eclampsia (risk of <span class=\"customMeta\" data-dictid=\"45372f6c361692777189ff3209e642\">hypertension</span> or eclampsia)</li>\n<li>Rh-negative mother (increased risk of fetomaternal microtransfusion)</li>\n<li>Heart disease</li>\n<li>Severe <span class=\"customMeta\" data-dictid=\"dd2daa0c6216927771893c9cab82d9\">hypertensive</span> disorders (risk of <span class=\"customMeta\" data-dictid=\"45372f6c361692777189ff3209e642\">hypertension</span> or <span class=\"customMeta\" data-dictid=\"e1fb96fd2416927771830dfed40e14\">cardiac</span> failure)</li>\n<li>Presence of sepsis</li>\n<li>During labor <span class=\"customMeta\" data-dictid=\"f447020b9616927771904d1c923d80\">induction</span> or the first and second stages of labor</li>\n<li>Vascular disease</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/qKmuAP2WTTzkfbSKryyt1748418413.mp3",
+      "video": "",
+      "uid": "b2041582"
+    },
+    {
+      "text": "A 30-year-old woman is receiving oxytocin infusion to manage postpartum hemorrhage. After a prolonged administration of high doses, she begins to exhibit symptoms of confusion, headache, and nausea. Laboratory tests reveal hyponatremia. What is the most likely mechanism behind this patient's hyponatremia associated with high-dose oxytocin administration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased renal excretion of sodium",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oxytocin acts as an antidiuretic hormone (ADH), causing water retention",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Direct renal toxicity leading to hyponatremia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Increased sodium loss through excessive sweating due to flushing",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Oxytocin acts as an antidiuretic hormone (ADH), causing water retention",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:616px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Oxytocin <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">Infusion</span> Initiation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Oxytocin is given before or after <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> separation to reduce <span class=\"customMeta\" data-dictid=\"3d885759d516927771966b84bfa470\">postpartum</span> <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> and <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> risk.</li>\n<li>Infusion rates can be increased if <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> exceeds normal levels.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Administration</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>Intramuscular:</strong> 10 units (including directly into the myometrium).</li>\n<li><strong>Intravenous:</strong>\n<ul>\n<li>10 to 30 units in 500 mL <span class=\"customMeta\" data-dictid=\"ab6984f43316927771937ff19f3807\">normal saline</span> or 20 to 60 units in 1 L normal saline, with a <span class=\"customMeta\" data-dictid=\"8d138d554c16927771835be732558c\">bolus</span> over 10 to 15 minutes, followed by maintenance <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">infusion</span> at a lower rate.</li>\n<li><strong>Maximum infusion: </strong>40 units/hour.</li>\n<li>Higher doses (e.g., up to 80 units in 500 mL over 30 minutes) are avoided to minimize fluid overload.</li>\n</ul>\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Side Effects</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>Common:</strong> Flushing due to <span class=\"customMeta\" data-dictid=\"255674f3271692777195c172d86daf\">peripheral</span> vasodilation.</li>\n<li><strong>Serious:</strong> Rapid IV administration of high doses can cause hypotension, tachycardia, chest pain, <span class=\"customMeta\" data-dictid=\"e2b5f013011692777183ea1b11ed9c\">cardiovascular</span> collapse, and rarely, water <span class=\"customMeta\" data-dictid=\"b668aed705169277719744b6db8f8e\">retention</span> leading to hyponatremia.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Carbetocin</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li><strong>Long-acting <span class=\"customMeta\" data-dictid=\"517ff2aa92169277718110c734526d\">analog</span> of oxytocin</strong>, used for preventing <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> <span class=\"customMeta\" data-dictid=\"d4d4e36d2416927771828288897bf3\">atony</span> and hemorrhage.</li>\n<li><strong>Administration:</strong> 100 <span class=\"customMeta\" data-dictid=\"321808298216927771927f9e8e7f8f\">mcg</span> IV slow <span class=\"customMeta\" data-dictid=\"3509997646169277719014053aa74d\">injection</span> (over one minute); lower doses may also be effective.</li>\n<li><strong>Advantages:</strong> Lower risk compared to high-dose oxytocin</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/oIZcLGt6wawvHSf0N9NZ1748418051.mp3",
+      "video": "",
+      "uid": "42c22137"
+    },
+    {
+      "text": "What is the most common cause of maternal mortality in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Postpartum hemorrhage (PPH)",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hypertension during pregnancy",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Infection during labor and puerperium",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Unsafe abortion",
+          "correct": false
+        }
+      ],
+      "correct_answer": "A. Postpartum hemorrhage (PPH)",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:527px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Causes of <span class=\"customMeta\" data-dictid=\"a191a950d7169277719148e72a75e2\">Maternal</span> Mortality</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Causes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Percentage (%)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hemorrhage:</strong></p>\n<ul>\n<li>Majorly- <strong>Postpartum hemorrhage</strong></li>\n<li>Other - Antepartum, retained placenta, <span class=\"customMeta\" data-dictid=\"0decefe0901692777186f7f3f89b2a\">ectopic</span> pregnancies <strong>(Option A)</strong></li>\n</ul>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>20-25</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Infection (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>15-20</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hypertension</strong> - Eclampsia, <span class=\"customMeta\" data-dictid=\"d80014dfb516927771962b4857d683\">Pre</span> <span class=\"customMeta\" data-dictid=\"a40b72bf2d1692777186cdae9f4e42\">eclampsia</span> <strong>(Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>12-15</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Unsafe Abortion (Option D)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>10-13</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Obstructed Labour</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>8</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Anemia</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>15-20</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Other <span class=\"customMeta\" data-dictid=\"2f73e160ba1692777190d65065c95b\">indirect</span> causes (<strong>Viral Hepatitis</strong>)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>5-10</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/EsEjBLtUulCQo5Mh7S0t1748414514.mp3",
+      "video": "",
+      "uid": "f0032fa1"
+    },
+    {
+      "text": "A 32 y/o G3P2 woman underwent a vaginal delivery of a healthy newborn. She begins to show signs of PPH with the following vital signs: pulse rate 130 bpm, blood pressure 90/60 mm Hg, respiratory rate 24 breaths/min, oxygen saturation 94% on room air. She is alert and oriented but appears pale. What is the most appropriate immediate next step in management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insert a Foley catheter to monitor urine output.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer 2 liters of crystalloids rapidly.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Prepare for urgent surgical intervention.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Start a continuous infusion of magnesium sulfate.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Administer 2 liters of crystalloids rapidly.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:664px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Management Strategy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Resuscitate with <span class=\"customMeta\" data-dictid=\"745d08a9151692777185b2d2527097\">Crystalloid</span> and Blood</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Crystalloid:</strong></p>\n<ul>\n<li>Typically, <span class=\"customMeta\" data-dictid=\"28f696d61216927771904dbe51b33b\">isotonic</span> crystalloids are infused to prevent <strong>hypotension</strong> and maintain <strong>urine output</strong> (>30 mL/hour).</li>\n<li>Infuse up to twice the lost volume or 3.5 L for significant blood loss.</li>\n<li>Monitor hematocrit, coagulation, core temperature, and electrolytes to avoid dilutional <span class=\"customMeta\" data-dictid=\"09376c06ef16927771848108fd8f70\">coagulopathy</span> and imbalances. Monitor <span class=\"customMeta\" data-dictid=\"0096f2a7631692777201eb9f21d5a7\">urine</span> output.</li>\n</ul>\n<p><strong>Blood Products:</strong></p>\n<ul>\n<li>Early blood product replacement is advised for heavy <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> to replace RBCs, platelets, and <span class=\"customMeta\" data-dictid=\"42f1e4deb8169277718412c0681a54\">coagulation</span> factors.</li>\n<li><strong>Aggressive transfusion: </strong>For unstable patients to minimize risks.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Fibrinogen Concentrate</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Heat-treated, lyophilized <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">fibrinogen</span> powder from pooled human plasma. Each 50 mL <span class=\"customMeta\" data-dictid=\"cd235a18081692777202343e31b264\">vial</span> contains ~1000 mg fibrinogen.</li>\n<li>Administered alone or with <strong>cryoprecipitate.</strong></li>\n<li><strong>Indications:</strong> Critically low <span class=\"customMeta\" data-dictid=\"a137b7092a16927772025412d4ef05\">fibrinogen</span> levels (<100 mg/dL) when FFP and <span class=\"customMeta\" data-dictid=\"a3dff375761692777185bc7afd561b\">cryoprecipitate</span> are unavailable.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Prothrombin Complex Concentrate (PCC)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Available in three-factor (II, IX, X) and four-factor (II, VII, IX, X) forms.</li>\n<li><strong>Indications:</strong> Urgent <span class=\"customMeta\" data-dictid=\"82343f61171692777197b4a08bc719\">reversal</span> of <span class=\"customMeta\" data-dictid=\"0f0b2969921692777180de24f0b0c0\">acquired</span> factor deficiencies due to <span class=\"customMeta\" data-dictid=\"71c2092f15169277720243eb1590b0\">vitamin K</span> antagonists.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Recombinant Factor VIIa (rFVIIa)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Off-label for severe <span class=\"customMeta\" data-dictid=\"3d885759d516927771966b84bfa470\">postpartum</span> <span class=\"customMeta\" data-dictid=\"4642acfc0c16927771880b34fa5174\">hemorrhage</span> (PPH).</li>\n<li><strong>Dosage:</strong> 16.7 to 120 mcg/kg, typically starting at 40-60 mcg/kg. Repeat if there is no response.</li>\n<li><strong>Advantages:</strong> Effective in <span class=\"customMeta\" data-dictid=\"3790c638ab16927771970a0a41d3ab\">refractory</span> bleeding; dose <span class=\"customMeta\" data-dictid=\"38938f6b8f16927772000e7292bb2e\">titration</span> possible.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Maintain Oxygenation</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Ensure <span class=\"customMeta\" data-dictid=\"b98c3a8ea216927771949889d9505f\">oxygen saturation</span> >95% with high-flow oxygen (10-15 L/min). Assess the <span class=\"customMeta\" data-dictid=\"3b9dd3166f1692777180b697887ccb\">airway</span> and <span class=\"customMeta\" data-dictid=\"ec62425aa9169277719050edbb4d55\">intubate</span> if necessary.</li>\n<li><strong>Advantages:</strong> Improves oxygen-carrying capacity.</li>\n<li><strong>Considerations:</strong> Low flow rates may lead to CO2 <span class=\"customMeta\" data-dictid=\"b668aed705169277719744b6db8f8e\">retention</span> and worsen conditions.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Avoid <span class=\"customMeta\" data-dictid=\"9723be730516927771896878ec012a\">Hypothermia</span> and Acidosis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Maintain <span class=\"customMeta\" data-dictid=\"dc8ad1487d16927771931108dd7c47\">normothermia</span> (temperature \u226535.5\u00b0C) and correct <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">acidosis</span> if needed.</li>\n<li><strong>Advantages:</strong> Prevents <span class=\"customMeta\" data-dictid=\"09376c06ef16927771848108fd8f70\">coagulopathy</span> and adverse outcomes.</li>\n<li><strong>Considerations:</strong> Use warming devices and correct pH if <7.1. <span class=\"customMeta\" data-dictid=\"6caf3a39f416927771807e122b9032\">Acidosis</span> <span class=\"customMeta\" data-dictid=\"92a52a7756169277718538d58fe1a9\">correction</span> can improve pH without bicarbonate.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Consider <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">Uterine</span> or <span class=\"customMeta\" data-dictid=\"b3df9929201692777189f8ca429cf1\">Hypogastric</span> <span class=\"customMeta\" data-dictid=\"a66cd3adaa1692777182e77cb23021\">Artery</span> Embolization</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Performed by an interventional specialist; options include <span class=\"customMeta\" data-dictid=\"21d04f6c811692777188fb898b2e23\">Gelfoam</span> (temporary occlusion) or N-butyl <span class=\"customMeta\" data-dictid=\"20b8709b3f16927771854c0f33e547\">cyanoacrylate</span> (permanent).</li>\n<li><strong>Indications:</strong> Persistent <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> in hemodynamically stable patients or those who fail less <span class=\"customMeta\" data-dictid=\"1c5272ad3d1692777190e71409d07a\">invasive</span> treatments.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/B7Ux95VlnJwE5g0LCdPK1747292154.mp3",
+      "video": "",
+      "uid": "61cd176f"
+    },
+    {
+      "text": "A 32y/o woman presents with heavy vaginal bleeding shortly after delivery. The placenta is retained despite oxytocin administration. Manual removal of the placenta is indicated. Which of the following statements regarding the procedure is most accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Procedure should be performed without analgesia to facilitate placental detachment",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Adequate analgesia is essential to minimize discomfort during the procedure.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "The aseptic technique is unnecessary due to the urgency of the situation.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Immediate traction on the umbilical cord to expedite placental expulsion.",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Adequate analgesia is essential to minimize discomfort during the procedure.",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Manual\u00a0Removal\u00a0of\u00a0Placenta</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Indication</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Heavy <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> persists with <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> retention.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Procedure</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Adequate <span class=\"customMeta\" data-dictid=\"66ccee483016927771810c2c295d74\">analgesia</span> </strong>and <span class=\"customMeta\" data-dictid=\"50ca3536ab16927771820138ef02f8\">aseptic</span> technique <strong>are essential. (Option A)</strong></li>\n<li>Insert fingertips between the <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> wall and placenta.</li>\n<li>Sweep forward to detach the <span class=\"customMeta\" data-dictid=\"5276da31d11692777195f0e82f5e1d\">placenta</span> from <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> attachment.</li>\n<li>Remove trailing membranes with ring <span class=\"customMeta\" data-dictid=\"c01b366a9c1692777203ef77069d2c\">forceps</span> or gauze-wrapped hands.</li>\n</ul>\n<p><strong>Alternative Method</strong>: Bierer <span class=\"customMeta\" data-dictid=\"c01b366a9c1692777203ef77069d2c\">forceps</span> guided by <span class=\"customMeta\" data-dictid=\"df077f2c3d16927772019f8223e58f\">ultrasound</span> for retained placenta.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Antibiotic prophylaxis</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Ampicillin or <span class=\"customMeta\" data-dictid=\"74e05b271916927771848ff58d86f9\">cefazolin</span> <span class=\"customMeta\" data-dictid=\"bc36e9b9381692777196b5f9a2f79c\">prophylaxis</span> post-procedure (WHO)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Difficulties</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Hour-glass contraction</strong> leads to difficulty in introducing the hand.</li>\n<li><strong>Morbid adherent placenta</strong> causes difficulty in reaching the plane of <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> separation, necessitating gentle removal in fragments using <span class=\"customMeta\" data-dictid=\"7c1d9800e2169277719426cf66bb68\">ovum</span> forceps.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Complications</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Hemorrhage due to incomplete removal</li>\n<li>Shock</li>\n<li>Uterine injury</li>\n<li>Infection</li>\n<li>Inversion (rare)</li>\n<li>Subinvolution</li>\n<li>Thrombophlebitis</li>\n<li>Embolism</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "21e842ee"
+    },
+    {
+      "text": "During the active management of the third stage of labor, which intervention is recommended to prevent postpartum hemorrhage primarily due to uterine atony?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediate IV administration of 20 units of undiluted oxytocin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Oxytocin 10 units IM with crowning",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Vigorous fundal massage combined with a uterotonic agent",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Controlled cord traction with immediate removal of the placenta",
+          "correct": false
+        }
+      ],
+      "correct_answer": "C. Vigorous fundal massage combined with a uterotonic agent",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/9BVwJzxtC5P1rnYLqk1H1748417366.mp3",
+      "video": "",
+      "uid": "75d8672b"
+    },
+    {
+      "text": "A 28 y/o G3P2 woman at 39 weeks with a h/o previous C-Section with spontaneous labor in the labor ward has just delivered a healthy baby girl via vaginal delivery. She has been diagnosed with severe anemia (Hb 8 g/dL). The obstetric team is concerned about the risk of PPH. What is the next best step in her management to prevent PPH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maintaining hemoglobin level > 10 g/dL",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Administer oxytocin 25 IU slow IV",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Localizing the placenta using USG/MRI",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Administration of oxytocin infusion for at least one hour after delivery",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Administration of oxytocin infusion for at least one hour after delivery",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:739px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Prevention\u00a0of\u00a0PPH</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Antenatal Measures</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align: center;\"><strong>Intranatal Measures</strong></p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"9\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li><strong>Maintain <span class=\"customMeta\" data-dictid=\"ad2073fe6716927771885f3c1ec652\">hemoglobin</span> > 10 g/dL (Option A)</strong></li>\n<li>Screen high-risk patients and deliver in well-equipped hospitals</li>\n<li>Conduct <span class=\"customMeta\" data-dictid=\"c90610b17d16927771836063dc6919\">blood grouping</span> for all women</li>\n<li><strong>Localize the placenta</strong> in women with previous <span class=\"customMeta\" data-dictid=\"3c6bfcae8c1692777184ceb5d2efc3\">cesarean</span> delivery <strong>using USG/MRI</strong> <strong>(Option C)</strong></li>\n<li>Plan delivery of women with morbidly <span class=\"customMeta\" data-dictid=\"fd311af37a16927771803ea35d268a\">adherent placenta</span> by a senior <span class=\"customMeta\" data-dictid=\"32fee4c0561692777194720769d24c\">obstetrician</span> with blood products ready</li>\n</ul>\n</td>\n<td rowspan=\"9\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<ul>\n<li>Active management of the third stage of labor</li>\n<li>Continue <span class=\"customMeta\" data-dictid=\"7e1c459d2b1692777194da47cd13b3\">oxytocin</span> <span class=\"customMeta\" data-dictid=\"3562d699c516927771909a426ea8ef\">infusion</span> for at least one hour after delivery in induced/augmented labor</li>\n<li><strong>Administer <span class=\"customMeta\" data-dictid=\"7e1c459d2b1692777194da47cd13b3\">oxytocin</span> 5 IU slow IV </strong>during <span class=\"customMeta\" data-dictid=\"3c6bfcae8c1692777184ceb5d2efc3\">cesarean</span> section <strong>(Option B)</strong></li>\n<li>Use Carbetocin (100 \u03bcg IV over 1 min.) to prevent PPH</li>\n<li>Check the <span class=\"customMeta\" data-dictid=\"f5b3db965d1692777201ae25f1b63e\">uterovaginal</span> <span class=\"customMeta\" data-dictid=\"371930068716927771839cba840631\">canal</span> for trauma after a difficult labor or <span class=\"customMeta\" data-dictid=\"e6f43ff48d1692777190f74dcd81d0\">instrumental</span> delivery</li>\n<li>Observe for two hours post-delivery to ensure <span class=\"customMeta\" data-dictid=\"0c847ca20416927772011b3397c2fd\">uterus</span> <span class=\"customMeta\" data-dictid=\"ca2289e348169277718516017eb2ba\">contraction</span> before transferring to the ward</li>\n<li>Prefer local or <span class=\"customMeta\" data-dictid=\"6de01005f61692777187a3003970c7\">epidural</span> <span class=\"customMeta\" data-dictid=\"e24b7bd55d16927771818aaa6ad0ed\">anesthesia</span> over general <span class=\"customMeta\" data-dictid=\"e24b7bd55d16927771818aaa6ad0ed\">anesthesia</span> in forceps, ventouse, or <span class=\"customMeta\" data-dictid=\"6946dd732d1692777183e8fbb62785\">breech</span> delivery</li>\n<li>Allow <span class=\"customMeta\" data-dictid=\"f71e485d131692777199151d1076d2\">spontaneous</span> <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> separation during <span class=\"customMeta\" data-dictid=\"3c6bfcae8c1692777184ceb5d2efc3\">cesarean</span> section to reduce blood loss</li>\n<li>Examine the <span class=\"customMeta\" data-dictid=\"5276da31d11692777195f0e82f5e1d\">placenta</span> and membranes routinely for completeness</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n<tr>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/v5k341aLoMnfGKoEKMtS1748417098.mp3",
+      "video": "",
+      "uid": "95d35542"
+    },
+    {
+      "text": "A 29 y/o woman gives birth via spontaneous vaginal delivery and experiences heavy bleeding. Her uterus remains soft and boggy despite massage and oxytocin. Which of the following is NOT a common cause of primary postpartum hemorrhage (PPH)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uterine Atony",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Retained Placental Fragments",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Genital Tract Trauma",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Endometritis",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Endometritis",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td colspan=\"3\" style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Causes of Primary PPH</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Cause</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Description</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p style=\"text-align:center\"><strong>Factors Increasing Risk </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Uterine Atony (Option A)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>The inability of the <span class=\"customMeta\" data-dictid=\"0c847ca20416927772011b3397c2fd\">uterus</span> to contract effectively after delivery leads to a <strong>soft</strong> and <strong>boggy uterus</strong> and <strong>continuous bleeding</strong> from the <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> site.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Grand multiparity</li>\n<li>Overdistension of the uterus: Multiple pregnancies, hydramnios, large baby Malnutrition, and anemia</li>\n<li>Antepartum hemorrhage: <span class=\"customMeta\" data-dictid=\"5276da31d11692777195f0e82f5e1d\">Placenta</span> previa and <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> abruption</li>\n<li>Prolonged labour</li>\n<li>Anesthesia</li>\n<li>Oxytocin use.</li>\n<li>Uterine malformations</li>\n<li>Other factors: Obesity, h/o PPH, advanced <span class=\"customMeta\" data-dictid=\"a191a950d7169277719148e72a75e2\">maternal</span> age (over 40 years), tocolytics and <span class=\"customMeta\" data-dictid=\"4d7ed0baae169277719199f6e9ab7b\">magnesium</span> sulfate</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Retained Tissue (Option B)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Prevents proper <span class=\"customMeta\" data-dictid=\"59ff8b38191692777201150e72ebc3\">uterine</span> contraction, causing<strong> primary PPH </strong>with continued <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> and incomplete contraction.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Although more commonly associated with secondary PPH, retained <span class=\"customMeta\" data-dictid=\"797686400a16927771956b27d401ff\">placental</span> fragments can also be a cause of primary PPH.</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Trauma to the <span class=\"customMeta\" data-dictid=\"0e919a208b16927771885d9c1f6662\">genital</span> <span class=\"customMeta\" data-dictid=\"1a1307223f16927772017a994bfc39\">tract</span> (Option C)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Cervical, vaginal, or <span class=\"customMeta\" data-dictid=\"befda305051692777195a95ee0695a\">perineal</span> <span class=\"customMeta\" data-dictid=\"1717bdb5d21692777200d45e31ceed\">tears</span> are a significant cause of <strong>primary PPH</strong>. This type of <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> occurs despite a well-contracted uterus.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Assisted deliveries</li>\n<li>Rapid labor</li>\n<li>Large babies</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align:center\"><strong>Thrombin (Coagulopathy)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p>Involves disorders of blood clotting, which are a <strong>less common cause of PPH.</strong> They can be <span class=\"customMeta\" data-dictid=\"0f0b2969921692777180de24f0b0c0\">acquired</span> or congenital.</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<ul>\n<li>Placental abruption</li>\n<li>Jaundice in pregnancy</li>\n<li>Thrombocytopenic purpura</li>\n<li>Severe pre-eclampsia</li>\n<li>HELLP syndrome</li>\n</ul>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/0Jotau7KmxvJrEQ7YbBf1748416723.mp3",
+      "video": "",
+      "uid": "f15e1ce6"
+    },
+    {
+      "text": "A 32 y/o woman delivers her first baby via spontaneous vaginal delivery. After placental delivery, she experiences significant vaginal bleeding, and her uterus remains soft and boggy despite active management of the third stage of labor. Which of the following is NOT recommended for managing uterine atony to prevent postpartum hemorrhage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administering prophylactic oxytocin",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Performing controlled cord traction to deliver the placenta",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Conducting uterine massage",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Early cord clamping",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. Early cord clamping",
+      "question_images": [],
+      "explanation_images": [
+        "https://image.prepladder.com/content/8vxLdTzwTCHzk0eZPVU21726642461.png"
+      ],
+      "explanation": "<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "d8b7bc1c"
+    },
+    {
+      "text": "A 30-year-old primigravida at 28 weeks gestation undergoes routine antenatal blood testing. Her hemoglobin is found to be 10.4 g/dL, with MCV 85 fL and WBC count of 11.2 \u00d7 10\u2079/L. She is asymptomatic. Which of the following best explains her laboratory findings?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pathological anemia due to folate deficiency",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Physiological anemia of pregnancy",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Iron-deficiency anemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Pancytopenia due to bone marrow suppression",
+          "correct": false
+        }
+      ],
+      "correct_answer": "B. Physiological anemia of pregnancy",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Parameter</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Change in Pregnancy</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clinical Notes</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Total Blood Volume</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 by ~40\u201350% (~1.5 L)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Plasma increase exceeds RBC mass \u2192 hemodilution</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Plasma Volume</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 more than RBC mass</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Begins in 1st trimester, peaks in 2nd</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>RBC Count</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 in 1st and 2nd trimester, slight \u2191 in 3rd</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Due to dilution; <span class=\"customMeta\" data-dictid=\"317dbdacdb16927771878c7860f69b\">erythropoiesis</span> increases in 3rd trimester</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hemoglobin (Hb)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 throughout pregnancy</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Avg: 1st <span class=\"customMeta\" data-dictid=\"2c20f0f1dd169277720029d29458d5\">trimester</span> ~11.6 g/dL, 2nd ~10.5 g/dL (nadir), 3rd ~11.0 g/dL</strong>; <span class=\"customMeta\" data-dictid=\"53bee2a41216927771814d7ec3a67f\">anemia</span> if <11, <10.5, <11 g/dL respectively (WHO)</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Hematocrit (Hct)</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 due to <span class=\"customMeta\" data-dictid=\"a0e40688fa169277719572bdb48c92\">plasma</span> expansion</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mirrors Hb changes</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>MCV</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Slight \u2191 (~4 fL)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Peaks at 30\u201335 weeks in iron-replete women</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>WBC Count</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 (median ~9.06 \u00d7 10\u2079/L)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Mainly neutrophils; <span class=\"customMeta\" data-dictid=\"6c2c85ae6b16927771950809419a59\">physiological</span> leukocytosis</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Neutrophils</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 significantly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Progressive rise through pregnancy</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Lymphocytes</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 slightly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Minor change</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Platelets</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 mildly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Often stays just above 100 \u00d7 10\u2079/L \u2192 gestational thrombocytopenia</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Fibrinogen</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 markedly</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Levels may reach 400\u2013600 mg/dL</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>Clotting Factors</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2191 (VII, VIII, X, XII, vWF, ristocetin)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Supports <span class=\"customMeta\" data-dictid=\"5e0b40993316927771844dbf382689\">clot</span> formation for delivery</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>aPTT</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2193 by ~4 seconds</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Due to increased factor VIII</p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p><strong>PT, TT</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>\u2194 (no significant change)</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:top\">\n<p>Remain within normal range</p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "",
+      "video": "",
+      "uid": "4c4a6d96"
+    },
+    {
+      "text": "Which of the following definitions best describes postpartum hemorrhage (PPH)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blood loss exceeding 500 mL following childbirth",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Any amount of bleeding from or into the genital tract after childbirth that negatively affects the patient's general condition",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cumulative blood loss of more than 1000 mL or any amount of blood loss with signs and symptoms of hypovolemia",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "correct_answer": "D. All of the above",
+      "question_images": [],
+      "explanation_images": [],
+      "explanation": "<table cellspacing=\"0\" style=\"border-collapse:collapse; width:624px\">\n<tbody>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\u00a0</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p style=\"text-align: center;\"><strong>Definition</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>WHO</strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Blood loss exceeding 500 mL following childbirth.</strong></p>\n<p>This <span class=\"customMeta\" data-dictid=\"ef5cb829b8169277719603304e73cb\">quantitative</span> measure is useful for statistical purposes but may not always reflect the clinical severity of the condition. <strong>(Option A) </strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Clinical Definition </strong></p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Any amount of <span class=\"customMeta\" data-dictid=\"41e858bf2816927771836d46c619b9\">bleeding</span> from or into the <span class=\"customMeta\" data-dictid=\"0e919a208b16927771885d9c1f6662\">genital</span> <span class=\"customMeta\" data-dictid=\"1a1307223f16927772017a994bfc39\">tract</span> after <span class=\"customMeta\" data-dictid=\"51b378d6031692777184a20aa31718\">childbirth</span> that negatively affects the patient's general condition.</strong></p>\n<p>This clinical definition of PPH emphasizes the impact of blood loss on the mother's health rather than the exact volume, highlighting the importance of assessing the patient's condition, including elevated pulse rate and drop in blood pressure. <strong>(Option B)</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>ACOG - </strong>The American College of Obstetricians and Gynecologists</p>\n</td>\n<td style=\"border-bottom:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; vertical-align:middle\">\n<p><strong>Cumulative blood loss of more than 1000 mL or any amount of blood loss with signs and symptoms of hypovolemia</strong></p>\n<p>This definition acknowledges that even smaller amounts of blood loss can be clinically significant if they cause hypovolemia. <strong>(Option C)</strong></p>\n</td>\n</tr>\n</tbody>\n\n\n<p style='font-size: 10px; color: #808080; font-style: italic;'></p>",
+      "bot": "@dams_new_robot",
+      "audio": "https://image.prepladder.com/content/Kqt3KaCfzF2oeA5sZAad1748414780.mp3",
+      "video": "",
+      "uid": "7106204a"
+    }
+  ]
+}
