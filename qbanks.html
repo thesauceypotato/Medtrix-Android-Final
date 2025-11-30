@@ -186,19 +186,27 @@
         .exp-section.show { display: block; }
         .exp-title { font-weight: 800; color: var(--accent); margin-bottom: 15px; font-family: 'Orbitron'; }
         
-        /* EXPLANATION CONTENT & TABLE FIXES */
+        /* --- FIXED EXPLANATION CONTENT & TABLE STYLES --- */
         .exp-content { 
-            font-size: 0.95rem; line-height: 1.7; opacity: 0.9; 
-            white-space: pre-wrap; overflow-wrap: break-word; word-break: break-word;
+            font-size: 0.95rem; 
+            line-height: 1.7; 
+            opacity: 0.9; 
+            /* Changed to normal to prevent layout expansion, word-wrap handles long text */
+            white-space: normal; 
+            overflow-wrap: break-word; 
+            word-wrap: break-word;
             width: 100%;
+            /* Fixes the page scrolling sideways issue */
+            max-width: 100%; 
+            overflow-x: hidden; 
         }
         
         /* SCROLLABLE TABLE FIX */
         .exp-content table { 
-            display: block; /* Turns table into block to allow scrolling */
+            display: block; /* Turns table into block to allow scrolling within itself */
             width: 100%;
-            overflow: auto; /* Enables both X and Y scrolling */
-            max-height: 500px; /* Limits height to keep it "within" area, adjustable */
+            overflow-x: auto; /* Enables horizontal scrolling specifically on the table */
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
             white-space: normal; 
             border-collapse: collapse; 
             margin: 20px 0;
@@ -211,8 +219,11 @@
             padding: 12px 15px; 
             border: 1px solid var(--glass-border); 
             text-align: left; 
-            min-width: 150px; /* Prevents columns from squishing, forcing scroll */
             vertical-align: top;
+            /* Min-width forces columns to be wide enough, triggering the scrollbar */
+            min-width: 140px; 
+            /* Max-width prevents single cells from becoming excessively huge */
+            max-width: 400px;
         }
 
         .exp-content th { 
