@@ -5,14 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>MEDTRIX | Pro Analytics</title>
     
-    <!-- Chart.js from CDN (Will handle failure gracefully below) -->
+    <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
     
     <style>
-        /* --- PREMIUM THEME --- */
+        /* --- PREMIUM THEME (Unchanged) --- */
         :root {
             --bg-body: #f0f4f8;
             --bg-gradient: radial-gradient(circle at top left, #e0f7fa, #f0f4f8);
@@ -58,11 +58,14 @@
             -webkit-text-fill-color: transparent; margin: 0;
         }
 
-        .back-btn { 
+        .header-btns { display: flex; gap: 10px; }
+
+        .btn-glass { 
             text-decoration: none; color: var(--text-main); font-weight: 600; 
             padding: 10px 20px; border-radius: 30px; background: var(--glass-bg); 
             box-shadow: var(--glass-shadow); border: 1px solid var(--glass-border);
             transition: 0.3s; display: flex; align-items: center; gap: 8px; font-size: 0.9rem;
+            cursor: pointer;
         }
 
         /* GRID */
@@ -150,8 +153,12 @@
 
 <div class="container">
     <header>
-        <a href="index.html" class="back-btn"><i class="fas fa-chevron-left"></i> Home</a>
         <h1>Analytics <span>v2.1</span></h1>
+        <div class="header-btns">
+            <!-- Manual Refresh Button Added -->
+            <button class="btn-glass" onclick="initDashboard()"><i class="fas fa-sync-alt"></i></button>
+            <a href="index.html" class="btn-glass"><i class="fas fa-chevron-left"></i> Home</a>
+        </div>
     </header>
 
     <div class="grid-layout">
@@ -179,7 +186,7 @@
             <i class="fas fa-crown" style="font-size:1.5rem; color:var(--warning);"></i>
         </div>
 
-        <!-- CLICKABLE MISTAKE CARD: Links to Revision -->
+        <!-- CLICKABLE MISTAKE CARD -->
         <div class="glass-card kpi-card kpi-clickable" onclick="location.href='revision.html'">
             <div>
                 <div class="kpi-val" id="mistakes-count">0</div>
@@ -196,7 +203,6 @@
                 <i class="fas fa-project-diagram" style="color:var(--accent);"></i> 
                 Subject Proficiency
             </div>
-            <!-- OFFLINE SAFEGUARD CONTAINER -->
             <div style="height: 350px; width: 100%;">
                 <canvas id="radarChart"></canvas>
                 <div class="offline-chart-msg" id="msg-radar">
@@ -237,7 +243,7 @@
 
 </div>
 
-<!-- UPGRADED REVIEW MODAL -->
+<!-- REVIEW MODAL -->
 <div id="reviewModal" class="modal">
     <div class="modal-content">
         <span onclick="document.getElementById('reviewModal').style.display='none'" style="float:right; cursor:pointer; font-size:1.5rem;">&times;</span>
@@ -252,13 +258,15 @@
     const isDark = localStorage.getItem('medtrix-theme') === 'dark';
     if(isDark) document.documentElement.setAttribute('data-theme', 'dark');
 
-    // --- CHART.JS CONFIGURATION (OFFLINE SAFEGUARD) ---
-    // If Chart is undefined (offline), charts won't render, preventing crash.
+    // --- CHART VARIABLES ---
     const CHART_AVAILABLE = (typeof Chart !== 'undefined');
     if(CHART_AVAILABLE && isDark) {
         Chart.defaults.color = '#a0aec0';
         Chart.defaults.borderColor = 'rgba(255,255,255,0.05)';
     }
+    
+    // Store instances to destroy them on update
+    let charts = { radar: null, donut: null, trend: null };
 
     // --- 19 SUBJECT MAP ---
     const SUBJECT_KEYS = {
@@ -274,12 +282,23 @@
 
     let coreData = [];
 
-    document.addEventListener("DOMContentLoaded", () => {
-        coreData = JSON.parse(localStorage.getItem('medtrix_analytics') || '[]');
-        updateDashboard();
+    // --- INITIALIZATION (UPDATED) ---
+    // We use 'pageshow' and 'visibilitychange' to detect when user comes BACK to this page
+    document.addEventListener("DOMContentLoaded", initDashboard);
+    window.addEventListener("pageshow", initDashboard);
+    document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === 'visible') initDashboard();
     });
 
-    function updateDashboard() {
+    function initDashboard() {
+        // Force reload from LocalStorage
+        const raw = localStorage.getItem('medtrix_analytics');
+        coreData = raw ? JSON.parse(raw) : [];
+        console.log("Analytics Loaded: ", coreData.length + " entries"); // Debugging
+        updateUI();
+    }
+
+    function updateUI() {
         // 1. BASIC STATS
         const total = coreData.length;
         const correct = coreData.filter(q => q.isCorrect).length;
@@ -317,17 +336,21 @@
         });
         if(bestAcc > -1) document.getElementById('strong-sub').innerText = bestSub;
 
-        // --- RENDER CHARTS (IF ONLINE) ---
+        // --- RENDER CHARTS ---
         if(CHART_AVAILABLE) {
             renderCharts(subStats, correct, total);
         } else {
-            // Show fallback messages
             document.querySelectorAll('canvas').forEach(c => c.style.display = 'none');
             document.querySelectorAll('.offline-chart-msg').forEach(m => m.style.display = 'flex');
         }
     }
 
     function renderCharts(subStats, correct, total) {
+        // DESTROY OLD INSTANCES TO PREVENT OVERLAP
+        if(charts.radar) charts.radar.destroy();
+        if(charts.donut) charts.donut.destroy();
+        if(charts.trend) charts.trend.destroy();
+
         // 4. RADAR
         const rLabels = Object.keys(subStats);
         const rData = rLabels.map(k => {
@@ -335,7 +358,7 @@
             return d.total > 0 ? Math.round((d.correct/d.total)*100) : 0;
         });
 
-        new Chart(document.getElementById('radarChart'), {
+        charts.radar = new Chart(document.getElementById('radarChart'), {
             type: 'radar',
             data: {
                 labels: rLabels,
@@ -359,7 +382,7 @@
         });
 
         // 5. DOUGHNUT
-        new Chart(document.getElementById('accuracyChart'), {
+        charts.donut = new Chart(document.getElementById('accuracyChart'), {
             type: 'doughnut',
             data: {
                 labels: ['Correct', 'Wrong'],
@@ -390,7 +413,7 @@
         grad.addColorStop(0, 'rgba(16, 185, 129, 0.4)');
         grad.addColorStop(1, 'rgba(16, 185, 129, 0.0)');
 
-        new Chart(ctxTrend, {
+        charts.trend = new Chart(ctxTrend, {
             type: 'line',
             data: {
                 labels: sortedDates,
@@ -408,7 +431,7 @@
         });
     }
 
-    // --- UPGRADED MODAL: CLICK TO REVEAL ---
+    // --- MODAL LOGIC ---
     function openReviewModal() {
         const container = document.getElementById('mistakes-container');
         container.innerHTML = "";
@@ -424,7 +447,6 @@
                     if(c) correctTxt = c.text;
                 }
                 
-                // Added onclick to toggle explanation
                 container.innerHTML += `
                     <div class="mistake-item" onclick="toggleExp('exp-${idx}')">
                         <div class="q-text">${m.text}</div>
