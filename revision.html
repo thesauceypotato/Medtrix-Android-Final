@@ -64,13 +64,13 @@
             flex: 1; display: flex; flex-direction: column;
             justify-content: center; align-items: center;
             perspective: 1000px; padding: 10px 20px; width: 100%; position: relative;
-            /* Ensure space for bottom controls */
             padding-bottom: 100px; 
         }
 
         .card {
-            width: 100%; max-width: 600px; 
-            height: 100%; max-height: 65vh; min-height: 300px;
+            width: 100%; max-width: 700px; /* Increased Max Width */
+            /* INCREASED HEIGHT FOR BETTER VISIBILITY */
+            height: 100%; max-height: 75vh; min-height: 350px;
             position: relative; transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             transform-style: preserve-3d; cursor: pointer;
         }
@@ -82,7 +82,6 @@
             background: var(--glass-bg); border: 1px solid var(--glass-border);
             box-shadow: var(--glass-shadow); backdrop-filter: blur(15px);
             display: flex; flex-direction: column; overflow: hidden;
-            /* Padding handled inside scroll content to avoid scrollbar overlap */
             padding: 0; 
         }
 
@@ -90,61 +89,45 @@
         .card-face.front { z-index: 2; align-items: center; justify-content: center; text-align: center; }
         
         .subject-tag {
-            position: absolute; top: 20px; left: 20px; z-index: 5;
-            background: var(--accent); color: white; padding: 4px 10px;
-            border-radius: 12px; font-size: 0.7rem; font-weight: bold;
+            position: absolute; top: 25px; left: 25px; z-index: 5;
+            background: var(--accent); color: white; padding: 6px 12px;
+            border-radius: 12px; font-size: 0.75rem; font-weight: bold;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
         }
         
+        /* FIXED TEXT OBSCURATION: PADDING */
         .q-text { 
-            font-size: 1.15rem; font-weight: 600; line-height: 1.5; 
+            font-size: 1.2rem; font-weight: 600; line-height: 1.6; 
             width: 100%; height: 100%; 
             display: flex; align-items: center; justify-content: center;
             overflow-y: auto; 
-            /* Padding ensures text isn't hidden by tag or hint */
-            padding: 50px 25px 40px 25px; 
+            /* Top padding clears the tag, Bottom padding clears the hint */
+            padding: 70px 30px 60px 30px; 
             white-space: pre-wrap;
         }
         
-        .tap-hint { position: absolute; bottom: 15px; font-size: 0.75rem; opacity: 0.5; animation: bounce 2s infinite; pointer-events: none; }
+        .tap-hint { position: absolute; bottom: 20px; font-size: 0.8rem; opacity: 0.6; animation: bounce 2s infinite; pointer-events: none; font-weight: bold; color: var(--accent); }
 
         /* BACK */
-        .card-face.back { transform: rotateY(180deg); align-items: flex-start; text-align: left; }
+        .card-face.back { transform: rotateY(180deg); align-items: center; justify-content: center; text-align: center; }
         
-        /* Scrollable content inside Back face - Handles X and Y axis */
         .scroll-content { 
-            overflow: auto; /* Allow scrolling in both directions */
-            width: 100%; height: 100%; padding: 25px; 
-            padding-bottom: 40px; 
-            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+            overflow: auto; width: 100%; height: 100%; padding: 40px 30px; 
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            -webkit-overflow-scrolling: touch;
         }
         
-        .ans-label { color: var(--success); font-weight: bold; font-family: 'Orbitron'; font-size: 0.8rem; margin-bottom: 5px; margin-top: 15px; display: block; }
-        .ans-label:first-child { margin-top: 0; }
+        .ans-label { color: var(--success); font-weight: 900; font-family: 'Orbitron'; font-size: 1rem; margin-bottom: 15px; letter-spacing: 1px; }
         
-        .ans-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 15px; border-bottom: 1px solid rgba(128,128,128,0.2); padding-bottom: 10px; white-space: pre-wrap; }
-        .exp-box { font-size: 0.95rem; line-height: 1.6; opacity: 0.9; white-space: pre-wrap; word-wrap: break-word; }
+        .ans-text { font-size: 1.4rem; font-weight: 700; color: var(--text-main); line-height: 1.4; white-space: pre-wrap; }
 
-        /* --- MEDIA & TABLE STYLES --- */
-        .media-img {
-            max-width: 100%; height: auto; border-radius: 8px; margin: 10px auto; 
-            display: block; border: 1px solid var(--glass-border); cursor: zoom-in;
-        }
-        .media-video {
-            width: 100%; border-radius: 8px; margin: 10px 0; aspect-ratio: 16/9; background: #000;
-        }
-        .media-audio { width: 100%; margin: 10px 0; }
+        /* MEDIA STYLES */
+        .media-img { max-width: 100%; height: auto; max-height: 50vh; border-radius: 8px; margin: 10px auto; display: block; border: 1px solid var(--glass-border); }
         
-        /* Table Fixes - Ensures scrolling inside card */
-        table { width: 100%; border-collapse: collapse; margin: 10px 0; display: block; overflow-x: auto; white-space: nowrap; }
-        th, td { border: 1px solid var(--glass-border); padding: 8px 12px; font-size: 0.85rem; }
-        th { background: rgba(0,0,0,0.05); color: var(--accent); }
-
-        /* CONTROLS (FIXED BOTTOM) */
+        /* CONTROLS */
         .controls {
             position: fixed; bottom: 0; left: 0; width: 100%; 
-            padding: 15px 20px;
-            padding-bottom: calc(15px + env(safe-area-inset-bottom));
+            padding: 15px 20px; padding-bottom: calc(15px + env(safe-area-inset-bottom));
             display: flex; justify-content: center; gap: 15px; z-index: 100;
             opacity: 0; pointer-events: none; transition: 0.3s;
             background: var(--glass-bg); border-top: 1px solid var(--glass-border);
@@ -153,42 +136,74 @@
         .controls.visible { opacity: 1; pointer-events: all; }
 
         .btn {
-            border: none; padding: 12px 0; width: 45%; max-width: 150px; border-radius: 12px;
-            font-size: 1rem; font-weight: bold; cursor: pointer;
+            border: none; padding: 15px 0; width: 45%; max-width: 180px; border-radius: 15px;
+            font-size: 1.1rem; font-weight: bold; cursor: pointer;
             display: flex; align-items: center; justify-content: center; gap: 8px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: transform 0.1s;
         }
         .btn:active { transform: scale(0.95); }
-        .btn-hard { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 1px solid var(--danger); }
+        .btn-hard { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 2px solid var(--danger); }
         .btn-easy { background: var(--success); color: white; }
 
-        /* SETUP SCREEN (Topic Selection) */
+        /* SETUP SCREEN */
         #setup-screen {
             position: fixed; inset: 0; background: var(--bg-body); z-index: 200;
             display: flex; flex-direction: column; align-items: center; padding: 20px;
             overflow-y: auto;
         }
-        .setup-container { width: 100%; max-width: 500px; display: flex; flex-direction: column; gap: 15px; }
+        .setup-header {
+            width: 100%; max-width: 600px; display: flex; align-items: center; justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .setup-back-btn {
+            background: var(--glass-bg); border: 1px solid var(--glass-border);
+            padding: 8px 15px; border-radius: 20px; cursor: pointer; font-weight: bold;
+            color: var(--text-main); display: flex; align-items: center; gap: 5px;
+        }
+        
+        .setup-container { width: 100%; max-width: 600px; display: flex; flex-direction: column; gap: 15px; }
         
         .mode-btn {
-            padding: 18px; background: var(--glass-bg); border: 1px solid var(--glass-border);
+            padding: 20px; background: var(--glass-bg); border: 1px solid var(--glass-border);
             border-radius: 16px; text-align: left; cursor: pointer;
             display: flex; align-items: center; gap: 15px;
             box-shadow: var(--glass-shadow); transition: 0.2s;
         }
-        .mode-btn:hover { border-color: var(--accent); transform: translateY(-2px); }
         
-        /* SEARCH BAR */
+        /* Stats Box */
+        .stats-box {
+            background: linear-gradient(135deg, var(--accent), #00d4ff);
+            color: white; padding: 15px; border-radius: 15px;
+            text-align: center; margin-bottom: 15px;
+            box-shadow: 0 5px 15px rgba(0, 123, 255, 0.3);
+            display: flex; justify-content: space-around; align-items: center;
+        }
+        .stat-num { font-size: 1.5rem; font-weight: 900; font-family: 'Orbitron'; }
+        .stat-label { font-size: 0.8rem; opacity: 0.9; }
+
         .search-box {
-            width: 100%; padding: 12px 15px; border-radius: 10px; border: 1px solid var(--glass-border);
-            background: rgba(255,255,255,0.5); font-size: 1rem; color: var(--text-main);
-            margin-bottom: 10px; display: none;
+            width: 100%; padding: 15px; border-radius: 12px; border: 1px solid var(--glass-border);
+            background: var(--glass-bg); font-size: 1rem; color: var(--text-main);
+            margin-bottom: 10px; display: none; box-shadow: var(--glass-shadow);
         }
 
-        #topic-list { display: none; width: 100%; max-height: 50vh; overflow-y: auto; background: var(--glass-bg); border-radius: 12px; }
-        .topic-item { padding: 12px; border-bottom: 1px solid rgba(0,0,0,0.05); cursor: pointer; display: flex; justify-content: space-between; }
-        .topic-item:last-child { border-bottom: none; }
-        .topic-item:hover { background: rgba(0,0,0,0.03); color: var(--accent); }
+        #topic-list { display: none; width: 100%; overflow-y: auto; padding-bottom: 50px; }
+        
+        /* TOPIC ITEMS */
+        .topic-item { 
+            padding: 15px; margin-bottom: 10px; border-radius: 12px;
+            background: var(--glass-bg); border: 1px solid var(--glass-border);
+            cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+        }
+        
+        /* COMPLETED DECK STYLE */
+        .topic-item.completed {
+            border-left: 5px solid var(--success);
+            background: rgba(16, 185, 129, 0.05);
+        }
+        .topic-item.completed .t-title { color: var(--success); font-weight: bold; }
+        .check-icon { display: none; color: var(--success); font-size: 1.2rem; }
+        .topic-item.completed .check-icon { display: block; }
 
         /* EMPTY STATE */
         #empty-state { text-align: center; display: none; margin-top: 10vh; }
@@ -202,14 +217,26 @@
 
     <!-- SETUP SCREEN -->
     <div id="setup-screen">
-        <h1 style="font-family:'Orbitron'; margin-bottom:20px; color:var(--accent); text-align:center;">FLASHCARD SETUP</h1>
+        <div class="setup-header">
+            <button class="setup-back-btn" onclick="goBack()"><i class="fas fa-arrow-left"></i> Home</button>
+            <h2 style="margin:0;">Setup</h2>
+        </div>
         
         <div class="setup-container">
+            <!-- New Stats Counter -->
+            <div class="stats-box" id="stats-display" style="display:none;">
+                <div>
+                    <div class="stat-num" id="stat-solved">0</div>
+                    <div class="stat-label">Decks Completed</div>
+                </div>
+                <i class="fas fa-trophy" style="font-size:2rem; opacity:0.8;"></i>
+            </div>
+
             <div class="mode-btn" onclick="startMistakesReview()">
                 <i class="fas fa-brain fa-2x" style="color:var(--accent);"></i>
                 <div>
                     <h3 style="margin-bottom:4px;">Mistakes Review</h3>
-                    <p style="font-size:0.8rem; opacity:0.7;">Revise incorrect answers from Analytics.</p>
+                    <p style="font-size:0.8rem; opacity:0.7;">Revise incorrect answers.</p>
                 </div>
             </div>
 
@@ -221,19 +248,14 @@
                 </div>
             </div>
             
-            <!-- SEARCH INPUT -->
-            <input type="text" id="topic-search" class="search-box" placeholder="Search topics (e.g. Surg, Anat)..." onkeyup="filterTopics()">
-            
-            <!-- LIST -->
+            <input type="text" id="topic-search" class="search-box" placeholder="Search topics..." onkeyup="filterTopics()">
             <div id="topic-list"></div>
-
-            <button onclick="goBack()" style="background:none; border:none; color:var(--text-main); margin-top:10px; text-decoration:underline; cursor:pointer;">Cancel & Exit</button>
         </div>
     </div>
 
     <!-- MAIN UI -->
     <header>
-        <a href="#" onclick="goBack()" class="back-icon"><i class="fas fa-arrow-left"></i></a>
+        <a href="#" onclick="showSetup()" class="back-icon"><i class="fas fa-arrow-left"></i></a>
         <h2 id="deck-title">Active Recall</h2>
         <div class="progress-container">
             <div class="progress-bar" id="progress-bar"></div>
@@ -249,15 +271,13 @@
             <div class="card-face front">
                 <div class="subject-tag" id="card-tag">Topic</div>
                 <div class="q-text" id="card-question">Loading...</div>
-                <div class="tap-hint">Tap to flip</div>
+                <div class="tap-hint">TAP TO FLIP</div>
             </div>
-            <!-- Back -->
+            <!-- Back (Correct Answer Only) -->
             <div class="card-face back">
                 <div class="scroll-content">
                     <div class="ans-label">CORRECT ANSWER</div>
                     <div class="ans-text" id="card-answer">...</div>
-                    <div class="ans-label">EXPLANATION</div>
-                    <div class="exp-box" id="card-exp">...</div>
                 </div>
             </div>
         </div>
@@ -266,8 +286,7 @@
         <div id="empty-state">
             <div class="trophy">🏆</div>
             <h2 style="color: var(--accent);">Deck Complete!</h2>
-            <p style="margin: 15px 0; opacity: 0.7;">Excellent work. Repetition is key.</p>
-            <button class="btn btn-easy" style="width: 200px; margin: 0 auto;" onclick="location.reload()">Review Another</button>
+            <button class="btn btn-easy" style="width: 200px; margin: 20px auto;" onclick="location.reload()">Review Another</button>
         </div>
     </div>
 
@@ -293,6 +312,11 @@
 
         // --- 1. SETUP LOGIC ---
         
+        function showSetup() {
+             document.getElementById('setup-screen').style.display = 'flex';
+             toggleTopicUI(true); // refresh stats
+        }
+
         function startMistakesReview() {
             const raw = JSON.parse(localStorage.getItem("medtrix_analytics") || "[]");
             deck = raw.filter(q => q.isCorrect === false).map(q => {
@@ -300,35 +324,33 @@
                 return {
                     id: q.uid, tag: "Mistake",
                     question: q.text,
-                    answer: correctOpt ? correctOpt.text : "See explanation",
-                    explanation: q.explanation || "No explanation."
+                    answer: correctOpt ? correctOpt.text : "See explanation in Analytics."
                 };
             });
             initDeck("Mistakes Review");
         }
 
-        async function toggleTopicUI() {
+        async function toggleTopicUI(refreshOnly = false) {
             const searchBox = document.getElementById('topic-search');
             const listDiv = document.getElementById('topic-list');
+            const statsBox = document.getElementById('stats-display');
             
-            if(listDiv.style.display === 'block') {
+            if(!refreshOnly && listDiv.style.display === 'block') {
                 listDiv.style.display = 'none';
                 searchBox.style.display = 'none';
+                statsBox.style.display = 'none';
                 return;
             }
 
             // Load and Show
             searchBox.style.display = 'block';
             listDiv.style.display = 'block';
-            listDiv.innerHTML = "<div style='padding:15px; text-align:center;'>Loading...</div>";
+            statsBox.style.display = 'flex'; // Show stats
+            
+            if(!refreshOnly) listDiv.innerHTML = "<div style='padding:15px; text-align:center;'>Loading...</div>";
 
             availableTopics = await MEDTRIX.data.getManifest();
-            
-            if(availableTopics.length === 0) {
-                listDiv.innerHTML = "<div style='padding:15px; color:var(--danger);'>No Q-Banks found.</div>";
-            } else {
-                renderTopicList(availableTopics);
-            }
+            renderTopicList(availableTopics);
         }
 
         function filterTopics() {
@@ -339,12 +361,28 @@
 
         function renderTopicList(list) {
             const div = document.getElementById('topic-list');
-            if(list.length === 0) { div.innerHTML = "<div style='padding:10px;'>No matches.</div>"; return; }
             
-            div.innerHTML = list.map(m => `
-                <div class="topic-item" onclick="loadTopicDeck('${m.file}', '${m.title}')">
-                    <span>${m.title}</span>
-                    <span style="font-size:0.8em; opacity:0.6; background:rgba(128,128,128,0.1); padding:2px 6px; border-radius:4px;">${m.count || '?'} Qs</span>
+            // Calculate Stats
+            let solvedCount = 0;
+            const fullList = list.map(m => {
+                const pos = parseInt(localStorage.getItem('pos_' + m.file) || '0');
+                const isDone = m.count && pos >= (m.count - 1);
+                if(isDone) solvedCount++;
+                return { ...m, isDone, qCount: m.count || '?' };
+            });
+
+            // Update Counter UI
+            document.getElementById('stat-solved').innerText = solvedCount;
+
+            if(list.length === 0) { div.innerHTML = "<div style='padding:10px; text-align:center;'>No matches.</div>"; return; }
+            
+            div.innerHTML = fullList.map(m => `
+                <div class="topic-item ${m.isDone ? 'completed' : ''}" onclick="loadTopicDeck('${m.file}', '${m.title}')">
+                    <div>
+                        <div class="t-title">${m.title}</div>
+                        <div style="font-size:0.8em; opacity:0.6;">${m.qCount} Cards</div>
+                    </div>
+                    <i class="fas fa-check-circle check-icon"></i>
                 </div>
             `).join('');
         }
@@ -358,8 +396,7 @@
                 return {
                     id: q.uid, tag: title.substring(0, 15),
                     question: q.text,
-                    answer: correctOpt ? correctOpt.text : "Answer not found",
-                    explanation: q.explanation || "No explanation."
+                    answer: correctOpt ? correctOpt.text : "Answer not found"
                 };
             });
             initDeck(title);
@@ -374,31 +411,15 @@
             updateUI();
         }
 
-        // --- 2. MEDIA PARSER (NEW) ---
+        // --- 2. MEDIA PARSER ---
         function parseMedia(text) {
             if(!text) return "";
-            
-            // 1. Direct Image Links (jpg, png, gif)
             text = text.replace(/(https?:\/\/\S+\.(?:png|jpg|jpeg|gif|webp))/gi, 
                 '<img src="$1" class="media-img" onclick="event.stopPropagation(); window.open(this.src)">');
-            
-            // 2. Audio Links (mp3, wav)
-            text = text.replace(/(https?:\/\/\S+\.(?:mp3|wav|ogg))/gi, 
-                '<audio controls src="$1" class="media-audio" onclick="event.stopPropagation()"></audio>');
-            
-            // 3. Video Links (mp4, webm)
-            text = text.replace(/(https?:\/\/\S+\.(?:mp4|webm))/gi, 
-                '<video controls src="$1" class="media-video" onclick="event.stopPropagation()"></video>');
-            
-            // 4. YouTube / Iframes
-            text = text.replace(/(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w\-]+)/g, 
-                '<iframe src="https://www.youtube.com/embed/$1" frameborder="0" allowfullscreen class="media-video" onclick="event.stopPropagation()"></iframe>');
-                
             return text;
         }
 
         // --- 3. CORE FLASHCARD LOGIC ---
-
         function updateUI() {
             if (currentIndex >= deck.length) {
                 document.getElementById('card').style.display = 'none';
@@ -409,11 +430,8 @@
 
             const cardData = deck[currentIndex];
             document.getElementById('card-tag').innerText = cardData.tag;
-            
-            // Parse media for question, answer and explanation
             document.getElementById('card-question').innerHTML = parseMedia(cardData.question);
             document.getElementById('card-answer').innerHTML = parseMedia(cardData.answer);
-            document.getElementById('card-exp').innerHTML = parseMedia(cardData.explanation);
 
             document.getElementById('current-idx').innerText = currentIndex + 1;
             document.getElementById('total-count').innerText = totalCards;
@@ -421,9 +439,7 @@
         }
 
         function flipCard() {
-            // Prevent flip if clicking on controls or links/videos
-            if(event.target.tagName === 'AUDIO' || event.target.tagName === 'VIDEO' || event.target.tagName === 'IFRAME') return;
-
+            if(event.target.tagName === 'IMG') return; // Don't flip on image click
             const card = document.getElementById('card');
             if(!isFlipped) {
                 card.classList.add('flipped');
@@ -444,9 +460,6 @@
             document.getElementById('controls').classList.remove('visible');
             isFlipped = false;
 
-            // Stop any playing media
-            document.querySelectorAll('video, audio').forEach(el => el.pause());
-
             setTimeout(() => {
                 if (easy) currentIndex++; 
                 else {
@@ -454,24 +467,12 @@
                     deck.push(item);
                 }
                 updateUI();
-            }, 600);
+            }, 500);
         }
 
         function goBack() {
             window.location.href = "index.html";
         }
-
-        // Swipe Logic
-        let touchStartX = 0;
-        document.getElementById('card').addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; }, {passive: true});
-        document.getElementById('card').addEventListener('touchend', e => {
-            if(!isFlipped) return;
-            const diff = e.changedTouches[0].screenX - touchStartX;
-            if (Math.abs(diff) > 60) {
-                if (diff > 0) handleCard(true); else handleCard(false);
-            }
-        });
-
     </script>
 </body>
 </html>
