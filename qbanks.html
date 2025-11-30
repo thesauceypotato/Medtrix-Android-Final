@@ -186,33 +186,37 @@
         .exp-section.show { display: block; }
         .exp-title { font-weight: 800; color: var(--accent); margin-bottom: 15px; font-family: 'Orbitron'; }
         
-        /* --- FIXED EXPLANATION CONTENT & TABLE STYLES --- */
+        /* --- EXPLANATION & TABLE FIXES (JS WRAPPER METHOD) --- */
         .exp-content { 
             font-size: 0.95rem; 
             line-height: 1.7; 
             opacity: 0.9; 
-            /* Changed to normal to prevent layout expansion, word-wrap handles long text */
             white-space: normal; 
             overflow-wrap: break-word; 
             word-wrap: break-word;
             width: 100%;
-            /* Fixes the page scrolling sideways issue */
             max-width: 100%; 
-            overflow-x: hidden; 
         }
-        
-        /* SCROLLABLE TABLE FIX */
-        .exp-content table { 
-            display: block; /* Turns table into block to allow scrolling within itself */
+
+        /* This is the "Iframe-like" container created by JS */
+        .table-scroll-wrapper {
+            display: block;
             width: 100%;
-            overflow-x: auto; /* Enables horizontal scrolling specifically on the table */
-            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-            white-space: normal; 
-            border-collapse: collapse; 
+            overflow-x: auto; /* Force horizontal scroll here */
+            -webkit-overflow-scrolling: touch;
             margin: 20px 0;
             border: 1px solid var(--glass-border);
-            border-radius: 8px;
-            background: rgba(0,0,0,0.01);
+            border-radius: 12px;
+            background: rgba(255,255,255,0.02);
+            padding-bottom: 5px; /* Space for scrollbar */
+        }
+
+        /* Standard Table Styles */
+        .exp-content table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            background: transparent;
+            /* No display: block here! */
         }
         
         .exp-content th, .exp-content td { 
@@ -220,20 +224,22 @@
             border: 1px solid var(--glass-border); 
             text-align: left; 
             vertical-align: top;
-            /* Min-width forces columns to be wide enough, triggering the scrollbar */
-            min-width: 140px; 
-            /* Max-width prevents single cells from becoming excessively huge */
-            max-width: 400px;
+            /* Force cells to be wide enough to trigger scroll */
+            min-width: 150px; 
+            max-width: 350px;
         }
 
         .exp-content th { 
-            background: var(--bg-body); /* Must be opaque for sticky to look right */
+            background: rgba(0,0,0,0.05);
             color: var(--accent); 
             font-weight: 700;
-            position: sticky; /* Keeps header visible while scrolling down */
-            top: 0;
-            z-index: 2;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        /* Ensure images inside explanation don't overflow */
+        .exp-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
         }
 
         .quiz-footer { 
@@ -310,7 +316,6 @@
 <div id="view-quiz">
     <div class="quiz-header">
         <button class="back-btn" onclick="closeQuiz()"><i class="fas fa-arrow-left"></i> Exit</button>
-        <!-- Timer Removed -->
         <div style="width: 10px;"></div>
     </div>
     
@@ -355,8 +360,6 @@
     let curIdx = 0;
     let currentFilename = "";
     
-    // Gestures Removed: No touchStart/End listeners
-
     document.addEventListener('DOMContentLoaded', async () => {
         if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js', {scope: './'});
         const loader = document.getElementById('global-loader');
@@ -466,12 +469,10 @@
         }
 
         document.getElementById('view-quiz').classList.add('active');
-        // Removed startTimer() call
         renderQuestion();
     }
 
     function closeQuiz() {
-        // Removed clearInterval(timerInterval)
         document.getElementById('view-quiz').classList.remove('active');
         document.querySelectorAll('video, audio').forEach(media => media.pause());
         updateStatuses(manifest);
@@ -517,7 +518,21 @@
         });
         expText = expText.replace(/(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w\-]+)/g, '<div class="media-wrapper"><iframe src="https://www.youtube.com/embed/$1" frameborder="0" allowfullscreen class="q-video"></iframe></div>');
         
-        document.getElementById('exp-text').innerHTML = expText;
+        const expContentEl = document.getElementById('exp-text');
+        expContentEl.innerHTML = expText;
+
+        // --- FIX: JAVASCRIPT TABLE WRAPPER ---
+        // This finds every table and wraps it in a scrolling container
+        // This acts like an "iframe" for the table
+        const tables = expContentEl.querySelectorAll('table');
+        tables.forEach(table => {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'table-scroll-wrapper';
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+        });
+        // -------------------------------------
+
         if(q.explanation_images) {
              let cls = 'image-gallery' + (q.explanation_images.length===1 ? ' single-img' : '');
              expMediaDiv.innerHTML = `<div class="${cls}">${q.explanation_images.map(src => `<img src="${src}" class="q-img" onclick="window.open(this.src,'_blank')">`).join('')}</div>`;
