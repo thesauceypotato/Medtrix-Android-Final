@@ -5,15 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>MEDTRIX | Q-Bank Pro</title>
     
-    <!-- 1. Key loads first -->
-    <script src="config.js"></script> 
-    <!-- 2. Engine loads second -->
-    <script src="medtrix_core.js"></script>
-
-    <!-- Libraries -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-     
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -54,8 +45,22 @@
             border-bottom: 1px solid var(--glass-border); display: flex; align-items: center; justify-content: space-between; 
             padding: 0 20px; z-index: 50; position: fixed; top: 0; width: 100%;
         }
-        .brand { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 1.2rem; color: var(--accent); text-decoration: none; display: flex; align-items: center; gap: 10px; }
-        .brand span { font-family: 'Poppins', sans-serif; font-weight: 400; font-size: 0.8rem; opacity: 0.7; }
+        
+        /* MODIFIED: Back Button Style */
+        .brand { 
+            font-family: 'Poppins', sans-serif; 
+            font-weight: 600; 
+            font-size: 1rem; 
+            color: var(--text-main); 
+            text-decoration: none; 
+            display: flex; 
+            align-items: center; 
+            gap: 10px;
+            padding: 8px 12px;
+            border-radius: 8px;
+            transition: 0.2s;
+        }
+        .brand:hover { background: rgba(0,0,0,0.05); }
 
         /* --- DASHBOARD VIEW --- */
         #view-dashboard { 
@@ -91,7 +96,7 @@
         .test-list { display: none; border-top: 1px solid var(--glass-border); background: rgba(0,0,0,0.02); }
         .category-group.open .test-list { display: block; }
         
-        /* TEST ITEM (UPDATED LAYOUT) */
+        /* TEST ITEM */
         .test-item { 
             padding: 12px 15px; border-bottom: 1px solid var(--glass-border); 
             display: flex; justify-content: space-between; align-items: center; 
@@ -103,7 +108,7 @@
         .test-title { font-weight: 500; display: block; margin-bottom: 2px; }
         .test-meta { font-size: 0.75rem; opacity: 0.7; display: flex; align-items: center; gap: 8px; }
         
-        /* NEW: ACTION BUTTONS */
+        /* ACTION BUTTONS */
         .test-actions { display: flex; align-items: center; gap: 8px; }
         
         .action-btn {
@@ -201,12 +206,17 @@
 
         @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
         @media (max-width: 600px) { .q-card { padding: 20px; } .opt-btn { padding: 15px; font-size: 0.95rem; } }
+        
+        /* Loading Skeleton for Speed Perception */
+        .skeleton { width: 100%; height: 60px; background: rgba(0,0,0,0.05); margin-bottom: 10px; border-radius: 12px; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% { opacity: 0.6; } 50% { opacity: 0.3; } 100% { opacity: 0.6; } }
     </style>
 </head>
 <body>
 
 <header>
-    <a href="index.html" class="brand"><i class="fas fa-dna"></i> MEDTRIX <span>Archive</span></a>
+    <!-- MODIFIED HEADER: BACK BUTTON -->
+    <a href="index.html" class="brand"><i class="fas fa-arrow-left"></i> Back</a>
 </header>
 
 <!-- DASHBOARD -->
@@ -215,7 +225,12 @@
         <i class="fas fa-search search-icon"></i>
         <input type="text" id="search" class="search-bar" placeholder="Search topics..." onkeyup="filterIndex()">
     </div>
-    <div id="index-container"></div>
+    <div id="index-container">
+        <!-- Loader to show while JS loads -->
+        <div class="skeleton"></div>
+        <div class="skeleton"></div>
+        <div class="skeleton"></div>
+    </div>
 </div>
 
 <!-- QUIZ OVERLAY -->
@@ -254,6 +269,16 @@
     </div>
 </div>
 
+<!-- SCRIPTS MOVED TO BOTTOM FOR PERFORMANCE -->
+<!-- 1. Key loads first -->
+<script src="config.js"></script> 
+<!-- 2. Engine loads second -->
+<script src="medtrix_core.js"></script>
+
+<!-- Libraries (Defer loading) -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+
 <script>
     // --- THEME ---
     if(localStorage.getItem('medtrix-theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
@@ -287,13 +312,12 @@
             return;
         }
         renderIndex(manifest);
-        updateStatuses(manifest); // Updates icons asynchronously
+        updateStatuses(manifest); // Updates icons asynchronously (now optimized)
     });
 
-    // --- RENDER LIST ---
+    // --- RENDER LIST (OPTIMIZED) ---
     function renderIndex(list) {
         const container = document.getElementById('index-container');
-        container.innerHTML = "";
         
         const groups = list.reduce((acc, item) => {
             const cat = item.category || "Uncategorized";
@@ -302,10 +326,10 @@
             return acc;
         }, {});
 
-        Object.keys(groups).sort().forEach((cat) => {
-            // Updated Item HTML with Download & Reset buttons
+        // Build HTML in memory (Single Paint)
+        const htmlBuffer = Object.keys(groups).sort().map((cat) => {
             const itemsHtml = groups[cat].map(t => {
-                const safeFile = t.file.replace(/['"]/g, ""); // sanitize for onclick
+                const safeFile = t.file.replace(/['"]/g, "");
                 return `
                 <div class="test-item">
                     <div class="test-info" onclick="openTest('${safeFile}')">
@@ -326,7 +350,7 @@
                 </div>`;
             }).join('');
 
-            container.innerHTML += `
+            return `
                 <div class="category-group">
                     <div class="group-header" onclick="this.parentElement.classList.toggle('open')">
                         <div><i class="fas fa-folder" style="color:var(--accent);margin-right:10px;"></i> ${cat}</div>
@@ -335,7 +359,9 @@
                     <div class="test-list">${itemsHtml}</div>
                 </div>
             `;
-        });
+        }).join('');
+
+        container.innerHTML = htmlBuffer;
     }
 
     // --- ASYNC STATUS CHECKER (SPEED OPTIMIZATION) ---
@@ -343,27 +369,35 @@
         // 1. Check Completions
         list.forEach(t => {
             const pos = parseInt(localStorage.getItem('pos_' + t.file) || '0');
-            // If user is at the last question (or past it), mark as done
             if(t.count && pos >= t.count - 1) {
                 const el = document.getElementById(`comp-${t.file}`);
                 if(el) el.classList.add('show');
             }
         });
 
-        // 2. Check Downloads (Cache API)
+        // 2. Check Downloads (PARALLEL EXECUTION)
         if('caches' in window) {
-            const cache = await caches.open('medtrix-core-v3'); // Must match SW cache name
-            for(let t of list) {
-                const url = `quiz_data/${t.file}`;
-                const match = await cache.match(url);
-                if(match) {
-                    const btn = document.getElementById(`dl-${t.file}`);
-                    if(btn) {
-                        btn.classList.add('downloaded');
-                        btn.innerHTML = '<i class="fas fa-check"></i>';
+            try {
+                const cache = await caches.open('medtrix-core-v3');
+                
+                // Check all files at once rather than 1-by-1
+                const checkPromises = list.map(async (t) => {
+                    const match = await cache.match(`quiz_data/${t.file}`);
+                    return match ? t.file : null;
+                });
+
+                const results = await Promise.all(checkPromises);
+                
+                results.forEach(file => {
+                    if(file) {
+                        const btn = document.getElementById(`dl-${file}`);
+                        if(btn) {
+                            btn.classList.add('downloaded');
+                            btn.innerHTML = '<i class="fas fa-check"></i>';
+                        }
                     }
-                }
-            }
+                });
+            } catch(e) { console.warn("Cache check error", e); }
         }
     }
 
