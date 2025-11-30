@@ -29,7 +29,7 @@
             --text-main: #f7fafc; --accent: #00e5ff;
         }
 
-        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Poppins', sans-serif; transition: background 0.4s ease, color 0.3s ease; }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Poppins', sans-serif; transition: background 0.3s ease, color 0.3s ease, transform 0.2s ease; }
 
         body {
             background: var(--bg-body); background-image: var(--bg-gradient);
@@ -68,8 +68,7 @@
         }
 
         .card {
-            width: 100%; max-width: 700px; /* Increased Max Width */
-            /* INCREASED HEIGHT FOR BETTER VISIBILITY */
+            width: 100%; max-width: 700px;
             height: 100%; max-height: 75vh; min-height: 350px;
             position: relative; transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             transform-style: preserve-3d; cursor: pointer;
@@ -85,30 +84,35 @@
             padding: 0; 
         }
 
-        /* FRONT */
-        .card-face.front { z-index: 2; align-items: center; justify-content: center; text-align: center; }
+        .card-face.front { z-index: 2; align-items: center; justify-content: flex-start; text-align: center; }
         
         .subject-tag {
-            position: absolute; top: 25px; left: 25px; z-index: 5;
+            position: absolute; top: 25px; left: 25px; z-index: 10;
             background: var(--accent); color: white; padding: 6px 12px;
             border-radius: 12px; font-size: 0.75rem; font-weight: bold;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
         }
         
-        /* FIXED TEXT OBSCURATION: PADDING */
+        /* --- FIXED: Text Obscuration Fix --- */
         .q-text { 
             font-size: 1.2rem; font-weight: 600; line-height: 1.6; 
             width: 100%; height: 100%; 
-            display: flex; align-items: center; justify-content: center;
+            
+            /* CRITICAL FIX: Changed from flex center to block */
+            display: block; 
+            
             overflow-y: auto; 
-            /* Top padding clears the tag, Bottom padding clears the hint */
-            padding: 70px 30px 60px 30px; 
+            
+            /* CRITICAL FIX: Increased top padding to 90px to clear the tag */
+            padding: 90px 25px 60px 25px; 
+            
             white-space: pre-wrap;
+            text-align: center;
+            -webkit-overflow-scrolling: touch;
         }
         
-        .tap-hint { position: absolute; bottom: 20px; font-size: 0.8rem; opacity: 0.6; animation: bounce 2s infinite; pointer-events: none; font-weight: bold; color: var(--accent); }
+        .tap-hint { position: absolute; bottom: 20px; width: 100%; text-align: center; font-size: 0.8rem; opacity: 0.6; animation: bounce 2s infinite; pointer-events: none; font-weight: bold; color: var(--accent); z-index: 10; }
 
-        /* BACK */
         .card-face.back { transform: rotateY(180deg); align-items: center; justify-content: center; text-align: center; }
         
         .scroll-content { 
@@ -118,10 +122,7 @@
         }
         
         .ans-label { color: var(--success); font-weight: 900; font-family: 'Orbitron'; font-size: 1rem; margin-bottom: 15px; letter-spacing: 1px; }
-        
         .ans-text { font-size: 1.4rem; font-weight: 700; color: var(--text-main); line-height: 1.4; white-space: pre-wrap; }
-
-        /* MEDIA STYLES */
         .media-img { max-width: 100%; height: auto; max-height: 50vh; border-radius: 8px; margin: 10px auto; display: block; border: 1px solid var(--glass-border); }
         
         /* CONTROLS */
@@ -145,22 +146,35 @@
         .btn-hard { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 2px solid var(--danger); }
         .btn-easy { background: var(--success); color: white; }
 
-        /* SETUP SCREEN */
+        /* --- SETUP SCREEN (CONTAINED) --- */
         #setup-screen {
             position: fixed; inset: 0; background: var(--bg-body); z-index: 200;
-            display: flex; flex-direction: column; align-items: center; padding: 20px;
-            overflow-y: auto;
-        }
-        .setup-header {
-            width: 100%; max-width: 600px; display: flex; align-items: center; justify-content: space-between;
-            margin-bottom: 20px;
-        }
-        .setup-back-btn {
-            background: var(--glass-bg); border: 1px solid var(--glass-border);
-            padding: 8px 15px; border-radius: 20px; cursor: pointer; font-weight: bold;
-            color: var(--text-main); display: flex; align-items: center; gap: 5px;
+            display: flex; flex-direction: column; 
+            height: 100dvh; overflow: hidden; /* Fixes endless scroll */
         }
         
+        .setup-header-bar {
+            padding: 15px 20px;
+            background: var(--glass-bg);
+            border-bottom: 1px solid var(--glass-border);
+            display: flex; align-items: center; justify-content: space-between;
+            flex-shrink: 0;
+        }
+        .setup-back-btn {
+            background: rgba(0,0,0,0.05); border: none;
+            padding: 8px 15px; border-radius: 20px; cursor: pointer; font-weight: bold;
+            color: var(--text-main); display: flex; align-items: center; gap: 5px;
+            transition: 0.2s;
+        }
+        .setup-back-btn:hover { background: var(--accent); color: white; }
+
+        /* Scrollable Area */
+        .setup-content-area {
+            flex: 1; overflow-y: auto; padding: 20px;
+            display: flex; flex-direction: column; align-items: center;
+            width: 100%;
+        }
+
         .setup-container { width: 100%; max-width: 600px; display: flex; flex-direction: column; gap: 15px; }
         
         .mode-btn {
@@ -169,15 +183,18 @@
             display: flex; align-items: center; gap: 15px;
             box-shadow: var(--glass-shadow); transition: 0.2s;
         }
-        
-        /* Stats Box */
+        .mode-btn:hover { transform: translateY(-3px); border-color: var(--accent); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+        .mode-btn:active { transform: scale(0.98); }
+
         .stats-box {
             background: linear-gradient(135deg, var(--accent), #00d4ff);
             color: white; padding: 15px; border-radius: 15px;
-            text-align: center; margin-bottom: 15px;
+            text-align: center; margin-bottom: 5px;
             box-shadow: 0 5px 15px rgba(0, 123, 255, 0.3);
             display: flex; justify-content: space-around; align-items: center;
+            transition: 0.3s;
         }
+        .stats-box:hover { transform: scale(1.02); }
         .stat-num { font-size: 1.5rem; font-weight: 900; font-family: 'Orbitron'; }
         .stat-label { font-size: 0.8rem; opacity: 0.9; }
 
@@ -187,25 +204,45 @@
             margin-bottom: 10px; display: none; box-shadow: var(--glass-shadow);
         }
 
-        #topic-list { display: none; width: 100%; overflow-y: auto; padding-bottom: 50px; }
+        /* --- SCROLLABLE LIST WITHIN CONTAINER --- */
+        #topic-list { 
+            display: none; width: 100%; 
+            padding-bottom: 40px; 
+        }
         
-        /* TOPIC ITEMS */
+        /* TOPIC ITEM (Animation & Revert) */
         .topic-item { 
             padding: 15px; margin-bottom: 10px; border-radius: 12px;
             background: var(--glass-bg); border: 1px solid var(--glass-border);
-            cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+            display: flex; justify-content: space-between; align-items: center;
+            transition: 0.2s; position: relative; overflow: hidden;
         }
-        
-        /* COMPLETED DECK STYLE */
+        .topic-item:hover { transform: translateX(5px); background: rgba(255,255,255,1); border-color: var(--accent); }
+        .topic-item:active { transform: scale(0.98); }
+
+        .t-info { flex: 1; cursor: pointer; }
+
+        /* Completed State */
         .topic-item.completed {
             border-left: 5px solid var(--success);
             background: rgba(16, 185, 129, 0.05);
         }
         .topic-item.completed .t-title { color: var(--success); font-weight: bold; }
-        .check-icon { display: none; color: var(--success); font-size: 1.2rem; }
-        .topic-item.completed .check-icon { display: block; }
+        
+        .comp-badge { 
+            display: none; background: var(--success); color: white; 
+            font-size: 0.7rem; padding: 2px 8px; border-radius: 10px; margin-left: 10px; 
+        }
+        .topic-item.completed .comp-badge { display: inline-block; }
 
-        /* EMPTY STATE */
+        /* Revert Button */
+        .revert-btn {
+            width: 35px; height: 35px; border-radius: 8px; border: 1px solid var(--glass-border);
+            background: transparent; color: var(--text-sub); display: flex; align-items: center; justify-content: center;
+            cursor: pointer; transition: 0.2s; margin-left: 10px;
+        }
+        .revert-btn:hover { background: rgba(239, 68, 68, 0.1); color: var(--danger); border-color: var(--danger); }
+
         #empty-state { text-align: center; display: none; margin-top: 10vh; }
         .trophy { font-size: 4rem; margin-bottom: 15px; animation: float 3s infinite ease-in-out; }
 
@@ -215,41 +252,44 @@
 </head>
 <body>
 
-    <!-- SETUP SCREEN -->
+    <!-- SETUP SCREEN (Fixed Container) -->
     <div id="setup-screen">
-        <div class="setup-header">
+        <div class="setup-header-bar">
             <button class="setup-back-btn" onclick="goBack()"><i class="fas fa-arrow-left"></i> Home</button>
-            <h2 style="margin:0;">Setup</h2>
+            <h2 style="margin:0; font-size:1rem;">FLASHCARD SETUP</h2>
+            <div style="width:70px;"></div> <!-- Spacer -->
         </div>
         
-        <div class="setup-container">
-            <!-- New Stats Counter -->
-            <div class="stats-box" id="stats-display" style="display:none;">
-                <div>
-                    <div class="stat-num" id="stat-solved">0</div>
-                    <div class="stat-label">Decks Completed</div>
+        <div class="setup-content-area">
+            <div class="setup-container">
+                <!-- Stats -->
+                <div class="stats-box" id="stats-display" style="display:none;">
+                    <div>
+                        <div class="stat-num" id="stat-solved">0</div>
+                        <div class="stat-label">Decks Completed</div>
+                    </div>
+                    <i class="fas fa-trophy" style="font-size:2rem; opacity:0.8;"></i>
                 </div>
-                <i class="fas fa-trophy" style="font-size:2rem; opacity:0.8;"></i>
-            </div>
 
-            <div class="mode-btn" onclick="startMistakesReview()">
-                <i class="fas fa-brain fa-2x" style="color:var(--accent);"></i>
-                <div>
-                    <h3 style="margin-bottom:4px;">Mistakes Review</h3>
-                    <p style="font-size:0.8rem; opacity:0.7;">Revise incorrect answers.</p>
+                <div class="mode-btn" onclick="startMistakesReview()">
+                    <i class="fas fa-brain fa-2x" style="color:var(--accent);"></i>
+                    <div>
+                        <h3 style="margin-bottom:4px;">Mistakes Review</h3>
+                        <p style="font-size:0.8rem; opacity:0.7;">Revise incorrect answers.</p>
+                    </div>
                 </div>
-            </div>
 
-            <div class="mode-btn" onclick="toggleTopicUI()">
-                <i class="fas fa-book-medical fa-2x" style="color:var(--success);"></i>
-                <div>
-                    <h3 style="margin-bottom:4px;">Topic Study</h3>
-                    <p style="font-size:0.8rem; opacity:0.7;">Select specific downloaded topics.</p>
+                <div class="mode-btn" onclick="toggleTopicUI()">
+                    <i class="fas fa-book-medical fa-2x" style="color:var(--success);"></i>
+                    <div>
+                        <h3 style="margin-bottom:4px;">Topic Study</h3>
+                        <p style="font-size:0.8rem; opacity:0.7;">Select specific downloaded topics.</p>
+                    </div>
                 </div>
+                
+                <input type="text" id="topic-search" class="search-box" placeholder="Search topics..." onkeyup="filterTopics()">
+                <div id="topic-list"></div>
             </div>
-            
-            <input type="text" id="topic-search" class="search-box" placeholder="Search topics..." onkeyup="filterTopics()">
-            <div id="topic-list"></div>
         </div>
     </div>
 
@@ -362,7 +402,6 @@
         function renderTopicList(list) {
             const div = document.getElementById('topic-list');
             
-            // Calculate Stats
             let solvedCount = 0;
             const fullList = list.map(m => {
                 const pos = parseInt(localStorage.getItem('pos_' + m.file) || '0');
@@ -371,20 +410,34 @@
                 return { ...m, isDone, qCount: m.count || '?' };
             });
 
-            // Update Counter UI
             document.getElementById('stat-solved').innerText = solvedCount;
 
             if(list.length === 0) { div.innerHTML = "<div style='padding:10px; text-align:center;'>No matches.</div>"; return; }
             
+            // ESCAPE FUNCTION for Apostrophes
+            const escapeStr = (str) => str.replace(/['"]/g, "\\$&");
+
             div.innerHTML = fullList.map(m => `
-                <div class="topic-item ${m.isDone ? 'completed' : ''}" onclick="loadTopicDeck('${m.file}', '${m.title}')">
-                    <div>
-                        <div class="t-title">${m.title}</div>
+                <div class="topic-item ${m.isDone ? 'completed' : ''}">
+                    <div class="t-info" onclick="loadTopicDeck('${escapeStr(m.file)}', '${escapeStr(m.title)}')">
+                        <div class="t-title">
+                            ${m.title} <span class="comp-badge">Completed</span>
+                        </div>
                         <div style="font-size:0.8em; opacity:0.6;">${m.qCount} Cards</div>
                     </div>
-                    <i class="fas fa-check-circle check-icon"></i>
+                    <button class="revert-btn" onclick="resetDeck('${escapeStr(m.file)}')" title="Restart Deck">
+                        <i class="fas fa-redo"></i>
+                    </button>
                 </div>
             `).join('');
+        }
+
+        // RESET FUNCTION
+        function resetDeck(filename) {
+            if(confirm("Restart this deck from the beginning?")) {
+                localStorage.removeItem('pos_' + filename);
+                toggleTopicUI(true); // Refresh list
+            }
         }
 
         async function loadTopicDeck(filename, title) {
@@ -439,7 +492,7 @@
         }
 
         function flipCard() {
-            if(event.target.tagName === 'IMG') return; // Don't flip on image click
+            if(event.target.tagName === 'IMG') return; 
             const card = document.getElementById('card');
             if(!isFlipped) {
                 card.classList.add('flipped');
