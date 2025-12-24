@@ -9,16 +9,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
-        /* Reuse Theme from Index */
+        /* --- RESTORED ORIGINAL THEME --- */
         :root {
             --bg: #f3f4f6; --bg-gradient: radial-gradient(circle at 0% 0%, #e0f2fe, #f3f4f6);
             --glass: rgba(255, 255, 255, 0.85); --border: 1px solid rgba(255, 255, 255, 0.9);
-            --text: #1f2937; --danger: #ef4444; --accent: #2563eb; --success: #10b981;
+            --text: #1f2937; --danger: #ef4444; --accent: #2563eb;
         }
         [data-theme="dark"] {
             --bg: #0f172a; --bg-gradient: radial-gradient(circle at 50% 0%, #1e293b, #0f172a);
             --glass: rgba(30, 41, 59, 0.75); --border: 1px solid rgba(255, 255, 255, 0.08);
-            --text: #f1f5f9; --accent: #00e5ff;
+            --text: #f1f5f9;
         }
 
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -46,22 +46,33 @@
         .btn-danger { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 1px solid var(--danger); }
         .btn-danger:active { background: var(--danger); color: white; }
         
+        /* New Buttons for AI that match your theme */
         .btn-primary { background: var(--accent); color: white; width: 100%; margin-top: 10px; }
         .btn-test { background: transparent; border: 1px solid var(--accent); color: var(--accent); margin-top: 10px; width: 100%; }
 
         .storage-bar { height: 6px; width: 100%; background: rgba(128,128,128,0.2); border-radius: 3px; margin-top: 5px; overflow: hidden; }
         .storage-fill { height: 100%; background: var(--accent); width: 0%; transition: width 1s; }
 
-        /* INPUT STYLES */
+        /* --- NEW STYLES FOR INPUTS (Matching your Glass theme) --- */
         .input-group { margin-bottom: 15px; }
         .input-label { display: block; font-size: 0.85rem; opacity: 0.8; margin-bottom: 5px; }
-        .styled-input, .styled-select {
-            width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(128,128,128,0.3);
-            background: rgba(128,128,128,0.05); color: var(--text); font-family: inherit; font-size: 0.95rem;
-        }
-        .styled-input:focus { outline: none; border-color: var(--accent); }
         
-        #custom-url-group { display: none; } /* Hidden by default */
+        .styled-input, .styled-select {
+            width: 100%; padding: 12px; border-radius: 8px;
+            border: 1px solid rgba(128,128,128,0.3);
+            background: rgba(255,255,255,0.5); /* Semi-transparent to match glass */
+            color: var(--text); 
+            font-family: inherit; font-size: 0.95rem;
+        }
+        /* Dark mode adjustment for inputs */
+        [data-theme="dark"] .styled-input, 
+        [data-theme="dark"] .styled-select { 
+            background: rgba(0,0,0,0.2); 
+        }
+
+        .styled-input:focus, .styled-select:focus { outline: none; border-color: var(--accent); }
+        
+        #custom-url-group { display: none; }
     </style>
 </head>
 <body>
@@ -72,7 +83,7 @@
             <h1>Settings</h1>
         </div>
 
-        <!-- 1. AI CONFIGURATION (NEW) -->
+        <!-- 1. AI CONFIGURATION (New Feature, Original Look) -->
         <div class="section">
             <h2><i class="fas fa-robot"></i> AI Configuration</h2>
             
@@ -91,7 +102,6 @@
 
             <div class="input-group">
                 <label class="input-label">Model Name</label>
-                <!-- Default is set in JS -->
                 <input type="text" id="ai-model" class="styled-input" placeholder="e.g. gemini-2.5-flash-lite">
             </div>
 
@@ -104,26 +114,28 @@
             <button class="btn btn-test" onclick="testAiConnection()">Test Connection</button>
         </div>
 
-        <!-- 2. DATA MANAGEMENT -->
+        <!-- 2. DATA MANAGEMENT (Original) -->
         <div class="section">
             <h2>Data Management</h2>
+            
             <div class="row">
                 <div>
                     <b>Factory Reset</b>
-                    <p style="font-size:0.8rem; opacity:0.7;">Deletes all history & keys.</p>
+                    <p style="font-size:0.8rem; opacity:0.7;">Deletes all history, bookmarks & scores.</p>
                 </div>
                 <button class="btn btn-danger" onclick="hardReset()">RESET</button>
             </div>
+
             <div class="row">
                 <div>
                     <b>Clear Offline Cache</b>
-                    <p style="font-size:0.8rem; opacity:0.7;">Deletes downloaded files.</p>
+                    <p style="font-size:0.8rem; opacity:0.7;">Deletes downloaded files/updates.</p>
                 </div>
                 <button class="btn btn-danger" onclick="clearCache()">CLEAR</button>
             </div>
         </div>
 
-        <!-- 3. STORAGE -->
+        <!-- 3. STORAGE (Original) -->
         <div class="section">
             <h2>Offline Storage</h2>
             <div style="margin-bottom:10px;">
@@ -132,7 +144,7 @@
             <div class="storage-bar"><div class="storage-fill" id="s-fill"></div></div>
         </div>
 
-        <!-- 4. INFO -->
+        <!-- 4. ABOUT (Original) -->
         <div class="section">
             <h2>System Info</h2>
             <div class="row">
@@ -148,12 +160,10 @@
 
     <script>
         // --- AI SETTINGS LOGIC ---
-        
-        // Load settings on startup
         const savedConfig = JSON.parse(localStorage.getItem(MEDTRIX.config.aiKey)) || {
             provider: 'google',
             key: '',
-            model: 'gemini-2.5-flash-lite', // Preset requested model
+            model: 'gemini-2.5-flash-lite', 
             url: ''
         };
 
@@ -163,7 +173,7 @@
         document.getElementById('ai-model').value = savedConfig.model;
         document.getElementById('ai-url').value = savedConfig.url;
         
-        toggleAiFields(); // Set initial visibility
+        toggleAiFields(); 
 
         function toggleAiFields() {
             const provider = document.getElementById('ai-provider').value;
@@ -175,7 +185,7 @@
                 if(!modelInput.value) modelInput.value = 'gemini-2.5-flash-lite';
             } else {
                 urlGroup.style.display = 'block';
-                if(modelInput.value.includes('gemini')) modelInput.value = 'gpt-3.5-turbo'; // Reset to generic default if switching
+                if(modelInput.value.includes('gemini')) modelInput.value = 'gpt-3.5-turbo';
             }
         }
 
@@ -188,22 +198,19 @@
             };
 
             if(!config.key) { alert("Please enter an API Key."); return; }
-            
             localStorage.setItem(MEDTRIX.config.aiKey, JSON.stringify(config));
             MEDTRIX.ui.toast("AI Configuration Saved!");
         }
 
         async function testAiConnection() {
-            // Save first ensuring we test the latest inputs
             saveAiSettings();
-            
             const btn = document.querySelector('.btn-test');
             const originalText = btn.innerText;
             btn.innerText = "Testing...";
             
             const response = await MEDTRIX.ai.ask("Say 'Connection Successful'", "System Test");
             
-            if(response.includes("Error")) {
+            if(response.includes("Error") || response.includes("unavailable")) {
                 alert("Connection Failed:\n" + response);
             } else {
                 alert("SUCCESS! AI Responded:\n" + response);
@@ -211,8 +218,7 @@
             btn.innerText = originalText;
         }
 
-        // --- EXISTING UTILS ---
-        
+        // --- ORIGINAL UTILS ---
         async function checkStorage() {
             if ('storage' in navigator && 'estimate' in navigator.storage) {
                 const {usage, quota} = await navigator.storage.estimate();
@@ -227,12 +233,14 @@
         document.getElementById('mode-status').innerText = navigator.onLine ? "Online" : "Offline";
 
         async function clearCache() {
-            if(!confirm("Clear downloaded cache files?")) return;
+            if(!confirm("Clear downloaded cache files? Pages will reload from internet.")) return;
             if('caches' in window) {
                 const keys = await caches.keys();
                 await Promise.all(keys.map(key => caches.delete(key)));
                 alert("Cache Cleared.");
                 location.reload();
+            } else {
+                alert("Caching not supported in this environment.");
             }
         }
     </script>
