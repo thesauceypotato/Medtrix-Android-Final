@@ -39,12 +39,7 @@
 
         /* --- LAYOUT --- */
         .wrapper { display: flex; height: 100%; width: 100%; overflow: hidden; }
-        
-        /* MAIN CONTENT */
-        .main-content { 
-            flex: 1; display: flex; flex-direction: column; 
-            position: relative; min-width: 0; height: 100%;
-        }
+        .main-content { flex: 1; display: flex; flex-direction: column; position: relative; min-width: 0; height: 100%; }
 
         /* --- TOP BAR --- */
         .top-bar {
@@ -64,19 +59,27 @@
         }
 
         /* --- QUESTION AREA --- */
-        .q-container { 
-            flex: 1; overflow-y: auto; padding: 20px; 
-            width: 100%; max-width: 900px; margin: 0 auto;
-            padding-bottom: 20px; 
-        }
-        
+        .q-container { flex: 1; overflow-y: auto; padding: 20px; width: 100%; max-width: 900px; margin: 0 auto; padding-bottom: 20px; }
         .q-box { 
             background: var(--glass-bg); padding: 30px; border-radius: 16px; 
-            border: var(--glass-border); box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            border: var(--glass-border); box-shadow: 0 4px 20px rgba(0,0,0,0.1); 
+            position: relative; /* Essential for flag positioning */
         }
         
+        /* FLAG BUTTON (Added back) */
+        .flag-btn {
+            position: absolute; top: 25px; right: 25px;
+            font-size: 1.2rem; color: rgba(128,128,128,0.4);
+            cursor: pointer; transition: 0.2s; z-index: 10;
+        }
+        .flag-btn:hover { color: var(--danger); transform: scale(1.1); }
+        .flag-btn.flagged { color: var(--danger); }
+
         .q-tag { font-size: 0.7rem; text-transform: uppercase; background: var(--accent); color: #fff; font-weight:bold; padding: 3px 8px; border-radius: 4px; margin-bottom: 15px; display: inline-block; letter-spacing: 1px; }
-        .q-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 25px; line-height: 1.6; }
+        
+        /* Updated q-text to handle images better */
+        .q-text { font-size: 1.1rem; font-weight: 600; margin-bottom: 25px; line-height: 1.6; padding-right: 30px; }
+        .q-text img { max-width: 100%; height: auto; border-radius: 8px; margin-top: 10px; border: 1px solid rgba(128,128,128,0.2); }
 
         /* OPTIONS */
         .opt { 
@@ -99,108 +102,39 @@
             padding-bottom: env(safe-area-inset-bottom); 
             box-shadow: 0 -5px 20px rgba(0,0,0,0.1);
         }
-        .nav-btn { 
-            padding: 10px 25px; border-radius: 12px; border: none; 
-            cursor: pointer; font-weight: bold; font-size: 0.9rem; 
-            min-width: 100px; height: 45px; transition: 0.2s;
-        }
+        .nav-btn { padding: 10px 25px; border-radius: 12px; border: none; cursor: pointer; font-weight: bold; font-size: 0.9rem; min-width: 100px; height: 45px; transition: 0.2s; }
         .nav-btn:active { transform: scale(0.95); }
         .btn-prev { background: transparent; border: 2px solid var(--text-main); color: var(--text-main); }
-        .btn-mark { 
-            min-width: 50px; width: 50px; font-size: 1.2rem; padding: 0; 
-            background: transparent; border: 2px solid var(--marked); color: var(--marked); 
-            display: flex; align-items: center; justify-content: center;
-        }
+        .btn-mark { min-width: 50px; width: 50px; font-size: 1.2rem; padding: 0; background: transparent; border: 2px solid var(--marked); color: var(--marked); display: flex; align-items: center; justify-content: center; }
         .btn-next { background: var(--accent); color: white; border: none; box-shadow: var(--neon-glow); }
         .btn-finish { background: var(--success); color: white; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4); }
 
-        /* --- SIDEBAR PALETTE --- */
-        .sidebar {
-            width: 300px; background: var(--glass-bg); border-left: var(--glass-border);
-            display: flex; flex-direction: column; z-index: 50;
-            flex-shrink: 0; height: 100%;
-        }
-        
+        /* --- SIDEBAR --- */
+        .sidebar { width: 300px; background: var(--glass-bg); border-left: var(--glass-border); display: flex; flex-direction: column; z-index: 50; flex-shrink: 0; height: 100%; }
         .palette-header { padding: 15px; border-bottom: var(--glass-border); font-weight: bold; font-size: 0.9rem; text-align: center; background: rgba(0,0,0,0.02); }
-        
-        .palette-grid {
-            flex: 1; overflow-y: auto; padding: 10px; 
-            display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; align-content: start;
-        }
-        
-        .p-btn {
-            aspect-ratio: 1; display: flex; align-items: center; justify-content: center;
-            background: rgba(128,128,128,0.1); border-radius: 8px; font-size: 0.8rem; 
-            cursor: pointer; color: var(--text-main); border: 1px solid transparent; transition: 0.2s;
-        }
+        .palette-grid { flex: 1; overflow-y: auto; padding: 10px; display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; align-content: start; }
+        .p-btn { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; background: rgba(128,128,128,0.1); border-radius: 8px; font-size: 0.8rem; cursor: pointer; color: var(--text-main); border: 1px solid transparent; transition: 0.2s; }
         .p-btn.active { border-color: var(--accent); color: var(--accent); font-weight: bold; background: transparent; transform: scale(1.1); }
         .p-btn.answered { background: var(--success); color: white; }
         .p-btn.marked { background: var(--marked); color: white; }
 
-        /* --- EXPLANATION --- */
+        /* --- EXPLANATION & AI --- */
         .exp-box { margin-top: 20px; padding: 15px; border-top: 1px solid rgba(128,128,128,0.2); display: none; animation: fadeIn 0.3s; }
         .ai-btn { float: right; background: linear-gradient(45deg, #007bff, #00c6ff); border: none; color: white; padding: 4px 10px; border-radius: 12px; font-size: 0.7rem; cursor: pointer; }
+        .exp-frame { width: 100%; height: 400px; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; background: rgba(128,128,128,0.02); margin-top: 10px; }
         .ai-res { margin-top: 10px; padding: 10px; background: rgba(0,0,0,0.05); border-radius: 8px; font-size: 0.9rem; display: none; }
-        
-        /* NEW IFRAME STYLING */
-        .exp-frame {
-            width: 100%;
-            height: 400px; /* Fixed height for scrolling */
-            border: 1px solid rgba(128,128,128,0.2);
-            border-radius: 8px;
-            background: rgba(128,128,128,0.02);
-            margin-top: 10px;
-        }
 
-        /* --- NEW START SCREEN & WHEEL --- */
-        #start-screen { 
-            position: fixed; inset: 0; background: var(--bg-body); z-index: 200; 
-            display: flex; flex-direction: column; align-items: center; justify-content: center; 
-            padding: 20px; text-align: center; 
-        }
-        
-        /* New Back Button */
-        .stylish-back-btn {
-            position: absolute; top: 20px; left: 20px;
-            background: rgba(255,255,255,0.05); border: 1px solid var(--accent);
-            color: var(--accent); padding: 10px 20px; border-radius: 30px;
-            text-decoration: none; font-family: 'Orbitron'; font-size: 0.9rem;
-            display: flex; align-items: center; gap: 8px; transition: 0.3s;
-            box-shadow: var(--neon-glow);
-        }
+        /* --- START SCREEN --- */
+        #start-screen { position: fixed; inset: 0; background: var(--bg-body); z-index: 200; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; text-align: center; }
+        .stylish-back-btn { position: absolute; top: 20px; left: 20px; background: rgba(255,255,255,0.05); border: 1px solid var(--accent); color: var(--accent); padding: 10px 20px; border-radius: 30px; text-decoration: none; font-family: 'Orbitron'; font-size: 0.9rem; display: flex; align-items: center; gap: 8px; transition: 0.3s; box-shadow: var(--neon-glow); }
         .stylish-back-btn:hover { background: var(--accent); color: white; }
-
-        .wheel-container {
-            width: 250px; height: 250px; border-radius: 50%;
-            border: 8px solid var(--glass-border);
-            position: relative; margin: 30px auto;
-            background: conic-gradient(from 0deg, var(--accent) 0%, transparent 100%);
-            border-top-color: var(--accent);
-            box-shadow: 0 0 30px var(--accent);
-            display: none; /* Hidden until spin */
-            align-items: center; justify-content: center;
-        }
-        .wheel-inner {
-            width: 200px; height: 200px; background: var(--bg-body);
-            border-radius: 50%; display: flex; align-items: center; justify-content: center;
-            flex-direction: column; z-index: 2;
-        }
-
-        .big-btn { 
-            padding: 18px 50px; font-size: 1.2rem; background: var(--accent); color: white; 
-            border: none; border-radius: 16px; cursor: pointer; font-weight: 900; 
-            min-width: 220px; font-family: 'Orbitron'; letter-spacing: 2px;
-            box-shadow: var(--neon-glow); transition: 0.3s;
-        }
+        .wheel-container { width: 250px; height: 250px; border-radius: 50%; border: 8px solid var(--glass-border); position: relative; margin: 30px auto; background: conic-gradient(from 0deg, var(--accent) 0%, transparent 100%); border-top-color: var(--accent); box-shadow: 0 0 30px var(--accent); display: none; align-items: center; justify-content: center; }
+        .wheel-inner { width: 200px; height: 200px; background: var(--bg-body); border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-direction: column; z-index: 2; }
+        .big-btn { padding: 18px 50px; font-size: 1.2rem; background: var(--accent); color: white; border: none; border-radius: 16px; cursor: pointer; font-weight: 900; min-width: 220px; font-family: 'Orbitron'; letter-spacing: 2px; box-shadow: var(--neon-glow); transition: 0.3s; }
         .big-btn:hover { transform: translateY(-5px); box-shadow: 0 10px 30px rgba(0, 229, 255, 0.5); }
 
-        /* --- MOBILE --- */
         @media (max-width: 900px) {
-            .sidebar { 
-                position: fixed; top: 0; right: 0; bottom: 0; width: 260px; 
-                transform: translateX(100%); transition: transform 0.3s ease; 
-                box-shadow: -5px 0 20px rgba(0,0,0,0.5);
-            }
+            .sidebar { position: fixed; top: 0; right: 0; bottom: 0; width: 260px; transform: translateX(100%); transition: transform 0.3s ease; box-shadow: -5px 0 20px rgba(0,0,0,0.5); }
             .sidebar.open { transform: translateX(0); }
             .menu-btn { display: block; }
             .q-box { padding: 20px; border-radius: 0; border: none; border-bottom: var(--glass-border); }
@@ -219,15 +153,12 @@
 </head>
 <body>
 
-    <!-- START SCREEN (UPDATED) -->
+    <!-- START SCREEN -->
     <div id="start-screen">
-        <!-- New Back Button -->
         <a href="index.html" class="stylish-back-btn"><i class="fas fa-chevron-left"></i> EXIT</a>
-        
         <h1 style="font-family:'Orbitron'; font-size:2.5rem; color:var(--accent); text-shadow: var(--neon-glow);">GRAND MOCK</h1>
         <p style="opacity:0.8; margin-bottom:30px; font-size: 1.1rem;">200 Questions • 180 Minutes • Standard Pattern</p>
         
-        <!-- Spinning Wheel (Hidden initially) -->
         <div class="wheel-container" id="wheel">
             <div class="wheel-inner">
                 <div style="font-size:0.8rem; opacity:0.7;">GENERATING</div>
@@ -241,39 +172,40 @@
 
     <!-- EXAM UI -->
     <div class="wrapper" id="exam-interface" style="display:none;">
-        
         <div class="main-content">
             <!-- Header -->
             <div class="top-bar">
                 <span id="progress" style="font-weight:bold; font-family:'Orbitron';">Q 1</span>
                 <div style="display:flex; align-items:center; gap:10px;">
                     <div class="timer" id="timer">03:00:00</div>
-                    <button class="btn-submit-top" onclick="submitExam(true)">FINISH</button>
+                    <!-- Submit button without forcing true allows confirmation dialog -->
+                    <button class="btn-submit-top" onclick="submitExam()">FINISH</button>
                 </div>
                 <i class="fas fa-bars menu-btn" onclick="toggleSidebar()"></i>
             </div>
 
-            <!-- Question -->
+            <!-- Question Area -->
             <div class="q-container">
                 <div class="q-box">
+                    <!-- Flag Button Re-added -->
+                    <i class="fas fa-flag flag-btn" id="flag-q-btn" onclick="flagCurrentQuestion()" title="Report Error (Block Question)"></i>
+                    
                     <div class="q-tag" id="subject-tag">Subject</div>
                     <div class="q-text" id="q-text">Loading...</div>
                     <div id="q-options"></div>
                     
-                    <!-- Explanation (MODIFIED: Now uses iframe) -->
+                    <!-- Explanation -->
                     <div id="exp-box" class="exp-box">
                         <div style="font-weight:bold; color:var(--accent); margin-bottom:5px;">
                             EXPLANATION <button class="ai-btn" onclick="askAI()">✨ AI Tutor</button>
                         </div>
-                        <!-- Replaced div with iframe -->
                         <iframe id="exp-frame" class="exp-frame"></iframe>
-                        
                         <div id="ai-result" class="ai-res"></div>
                     </div>
                 </div>
             </div>
 
-            <!-- Footer Navigation -->
+            <!-- Footer -->
             <div class="bottom-nav">
                 <button class="nav-btn btn-prev" onclick="nav(-1)">Previous</button>
                 <button class="nav-btn btn-mark" onclick="markQ()" id="mark-btn"><i class="far fa-bookmark"></i></button>
@@ -281,7 +213,7 @@
             </div>
         </div>
 
-        <!-- Right Sidebar -->
+        <!-- Sidebar -->
         <div class="sidebar" id="sidebar">
             <div class="palette-header">QUESTION MAP</div>
             <div class="palette-grid" id="palette"></div>
@@ -301,23 +233,20 @@
     </div>
 
 <script>
-    // THEME
     let isDark = false;
     if(localStorage.getItem('medtrix-theme') === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
         isDark = true;
     }
 
-    // CONFIG: 180 Minutes (3 Hours)
     const EXAM_DURATION_MIN = 180;
     const SUBJECT_MAP = { "Medicine":35, "Surgery":35, "OBG":30, "PSM":25, "Pathology":25, "Pharmacology":20, "Microbiology":20, "Anatomy":15, "Physiology":15, "Biochemistry":15, "Pediatrics":15, "Ophthalmology":10, "ENT":10, "Forensic":10, "Orthopedics":10, "Dermatology":5, "Psychiatry":5, "Radiology":5, "Anesthesia":5 };
 
     let questions = [], idx = 0, answers = {}, marks = new Set();
     let timer, timeLeft = EXAM_DURATION_MIN * 60, isReview = false;
+    let flaggedQuestions = new Set(JSON.parse(localStorage.getItem('medtrix_flagged_qs') || '[]'));
 
-    // --- SEQUENCE CONTROLLER ---
     function startSequence() {
-        // 1. Hide Button, Show Wheel
         document.getElementById('start-btn').style.display = 'none';
         const wheel = document.getElementById('wheel');
         const loadText = document.getElementById('loading-text');
@@ -326,17 +255,12 @@
         wheel.style.animation = 'spin 2s linear infinite';
         loadText.style.opacity = '1';
 
-        // 2. Trigger Logic in Background
         initMockData().then(success => {
             if(success) {
-                // 3. Fake delay for visual effect (Total 3 seconds)
                 setTimeout(() => {
-                    wheel.style.animation = 'spin 0.5s linear infinite'; // Speed up
+                    wheel.style.animation = 'spin 0.5s linear infinite';
                     loadText.innerText = "Finalizing Question Set...";
-                    
-                    setTimeout(() => {
-                        startUI(); // 4. Launch
-                    }, 1500);
+                    setTimeout(() => startUI(), 1500);
                 }, 2000);
             }
         });
@@ -364,7 +288,8 @@
                     for(let f of targetFiles.slice(0, 3)) {
                         let qData = await MEDTRIX.data.getQuiz(f);
                         if(qData && qData.questions) {
-                            let qs = qData.questions.sort(() => 0.5 - Math.random()).slice(0, Math.ceil(count/2));
+                            let qs = qData.questions.filter(q => !flaggedQuestions.has(q.text));
+                            qs = qs.sort(() => 0.5 - Math.random()).slice(0, Math.ceil(count/2));
                             qs.forEach(q => q._subject = subj);
                             pool.push(...qs);
                         }
@@ -374,9 +299,8 @@
 
             questions = pool.sort(() => 0.5 - Math.random()).slice(0, 200);
             
-            // Fallback if data is scarce (prevent crash)
             if(questions.length === 0) {
-                alert("No question data found. Download Q-Banks first.");
+                alert("No question data found (or all filtered). Download Q-Banks first.");
                 location.href = "index.html";
                 return false;
             }
@@ -400,7 +324,15 @@
         const q = questions[idx];
         document.getElementById('progress').innerText = `Q ${idx+1} / ${questions.length}`;
         document.getElementById('subject-tag').innerText = q._subject || "General";
-        document.getElementById('q-text').innerHTML = q.text;
+        
+        // --- 1. IMAGE SUPPORT IN QUESTION ---
+        // Using marked to parse markdown images or html in question text
+        document.getElementById('q-text').innerHTML = marked.parse(q.text);
+
+        // Flag Visual State
+        const flagBtn = document.getElementById('flag-q-btn');
+        if(flaggedQuestions.has(q.text)) flagBtn.classList.add('flagged');
+        else flagBtn.classList.remove('flagged');
 
         const optsDiv = document.getElementById('q-options');
         optsDiv.innerHTML = q.options.map((o, i) => {
@@ -417,13 +349,10 @@
         if(isReview) {
             document.getElementById('exp-box').style.display = 'block';
             
-            // --- IFRAME LOGIC ---
+            // --- 2. MULTIMEDIA SUPPORT IN EXPLANATION IFRAME ---
             const frame = document.getElementById('exp-frame');
             const doc = frame.contentDocument || frame.contentWindow.document;
-            
-            // Define colors based on theme
             const txtColor = isDark ? "#e0e0e0" : "#1a202c";
-            const bgColor = isDark ? "transparent" : "transparent"; // Let iframe transparent bg show body
             const linkColor = isDark ? "#00e5ff" : "#007bff";
             const borderColor = isDark ? "#333" : "#ccc";
 
@@ -434,41 +363,38 @@
                     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
                     <style>
                         body { 
-                            font-family: 'Poppins', sans-serif; 
-                            color: ${txtColor}; 
-                            margin: 0; padding: 10px;
-                            font-size: 0.95rem;
-                            line-height: 1.6;
+                            font-family: 'Poppins', sans-serif; color: ${txtColor}; 
+                            margin: 0; padding: 10px; font-size: 0.95rem; line-height: 1.6;
                         }
-                        img { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; border: 1px solid ${borderColor}; }
+                        /* Styles for Images, Video, Audio */
+                        img, video { max-width: 100%; height: auto; border-radius: 8px; margin: 10px 0; border: 1px solid ${borderColor}; display:block; }
+                        audio { width: 100%; margin: 10px 0; }
+                        
                         table { width: 100%; border-collapse: collapse; margin: 15px 0; display: block; overflow-x: auto; }
                         th, td { border: 1px solid ${borderColor}; padding: 8px; text-align: left; }
                         th { background: rgba(128,128,128,0.1); }
                         a { color: ${linkColor}; }
-                        /* Custom scrollbar for webkit */
                         ::-webkit-scrollbar { width: 6px; height: 6px; }
                         ::-webkit-scrollbar-thumb { background: rgba(128,128,128,0.4); border-radius: 3px; }
                     </style>
                 </head>
                 <body>
-                    ${q.explanation || "No explanation provided."}
+                    ${marked.parse(q.explanation || "No explanation provided.")}
                 </body>
                 </html>
             `);
             doc.close();
-            // --------------------
 
             document.getElementById('ai-result').style.display = 'none';
         } else {
             document.getElementById('exp-box').style.display = 'none';
         }
 
-        // Button States
         const nextBtn = document.getElementById('next-btn');
         if(idx === questions.length - 1 && !isReview) {
             nextBtn.innerText = "Finish";
             nextBtn.className = "nav-btn btn-finish";
-            nextBtn.onclick = submitExam; 
+            nextBtn.onclick = () => submitExam(); // Use wrapper to allow confirm
         } else {
             nextBtn.innerText = "Next";
             nextBtn.className = "nav-btn btn-next";
@@ -484,6 +410,20 @@
         mkBtn.style.background = marks.has(idx) ? "var(--marked)" : "transparent";
         mkBtn.style.color = marks.has(idx) ? "white" : "var(--marked)";
         mkBtn.innerHTML = marks.has(idx) ? '<i class="fas fa-bookmark"></i>' : '<i class="far fa-bookmark"></i>';
+    }
+
+    function flagCurrentQuestion() {
+        const q = questions[idx];
+        if(flaggedQuestions.has(q.text)) {
+            alert("This question is already flagged.");
+            return;
+        }
+
+        if(confirm("Flag this question as erroneous?\n\nIt will NOT appear in future Mock Tests.")) {
+            flaggedQuestions.add(q.text);
+            localStorage.setItem('medtrix_flagged_qs', JSON.stringify(Array.from(flaggedQuestions)));
+            document.getElementById('flag-q-btn').classList.add('flagged');
+        }
     }
 
     function select(i) {
@@ -526,12 +466,11 @@
         const timeStr = `${h}:${m<10?'0':''}${m}:${s<10?'0':''}${s}`;
         document.getElementById('timer').innerText = timeStr;
         
-        // Color warning
         if(timeLeft < 300) document.getElementById('timer').style.color = 'var(--danger)';
-
         if(timeLeft <= 0) submitExam(true);
     }
 
+    // 3. UPDATED SUBMIT LOGIC (Allows Confirmation)
     function submitExam(force = false) {
         if(!force && !confirm("Submit Exam?")) return;
         
@@ -570,8 +509,9 @@
         const q = questions[idx];
         const box = document.getElementById('ai-result');
         box.style.display = 'block';
-        box.innerHTML = 'Thinking...';
-        const ans = await MEDTRIX.ai.ask("Explain this", `Q: ${q.text}\nExp: ${q.explanation}`);
+        box.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Medical Tutor is analyzing...';
+        const prompt = "You are a highly experienced medical professor. Explain clearly why the correct answer is right and why the other options are wrong. Keep it concise but high-yield for exams like NEET PG.";
+        const ans = await MEDTRIX.ai.ask(prompt, `Q: ${q.text}\nExplanation Reference: ${q.explanation}`);
         box.innerHTML = marked.parse(ans);
     }
 </script>
