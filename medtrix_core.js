@@ -1,13 +1,13 @@
 /**
- * MEDTRIX CORE ENGINE v3.8 (Emergency Fix)
+ * MEDTRIX CORE ENGINE v3.9 (Fusion: Stable Data + New AI)
  */
 
 const MEDTRIX = {
     config: {
-        version: '3.8',
+        version: '3.9',
         themeKey: 'medtrix-theme',
         dbKey: 'medtrix_analytics',
-        aiKey: 'medtrix_ai_config' 
+        aiKey: 'medtrix_ai_config' // Added for AI settings
     },
 
     data: {
@@ -22,64 +22,41 @@ const MEDTRIX = {
                 let rawList = await res.json();
                 this._manifestCache = rawList;
                 return rawList;
-            } catch (e) { 
-                console.error("Manifest Error:", e); 
-                return []; 
-            }
+            } catch (e) { console.error(e); return []; }
         },
 
+        // --- RESTORED ORIGINAL V3.4 DATA LOADER (Proven Stable) ---
         getQuiz: async function(filename) {
-            // 1. Return Cache if available
+            // Try Memory Cache first
             if (this._fileCache[filename]) return this._fileCache[filename];
             
             try {
-                // 2. Fetch File
+                // Fetch
                 const res = await fetch(`./quiz_data/${filename}`);
-                if(!res.ok) throw new Error("File not found");
                 const data = await res.json();
                 
-                // 3. SAFE Normalization (Prevents Crashing)
-                if(data.questions && Array.isArray(data.questions)) {
+                // Original Data Normalization Logic
+                if(data.questions) {
                     data.questions = data.questions.map(q => {
-                        try {
-                            // Fix Question Text
-                            if(!q.text) {
-                                if(q.question && typeof q.question === 'object') {
-                                    q.text = q.question.text || JSON.stringify(q.question);
-                                } else {
-                                    q.text = q.question || "Error: Question Text Missing";
-                                }
-                            }
+                        // Handle Question Text
+                        if(typeof q.question === 'object') q.text = q.question.text || JSON.stringify(q.question);
+                        else q.text = q.question || q.text;
 
-                            // Fix Options (Force Array)
-                            if(!q.options) q.options = [];
-                            if(!Array.isArray(q.options) && typeof q.options === 'object') {
-                                q.options = Object.values(q.options);
-                            }
-                            
-                            // Normalize Option Structure
+                        // Handle Options
+                        if(q.options) {
+                            if(!Array.isArray(q.options)) q.options = Object.values(q.options);
                             q.options = q.options.map(opt => {
-                                if(typeof opt === 'object' && opt !== null) {
-                                    return { text: opt.text || opt.value || "Option", correct: opt.correct || false };
-                                }
-                                return { text: String(opt), correct: false };
+                                if(typeof opt === 'object') return { text: opt.text || opt.value, correct: opt.correct || false };
+                                return { text: opt, correct: false };
                             });
-
-                            return q;
-                        } catch(err) {
-                            console.warn("Skipping broken question:", err);
-                            return { text: "Error loading question", options: [] };
                         }
+                        return q;
                     });
-                } else {
-                    // If file has no questions, return empty
-                    data.questions = [];
                 }
-
                 this._fileCache[filename] = data;
                 return data;
             } catch (e) { 
-                console.error("Quiz Load Error:", e);
+                console.error("Error loading " + filename, e);
                 return null; 
             }
         },
@@ -113,22 +90,17 @@ const MEDTRIX = {
 
     db: {
         saveResult: function(qData, isCorrect, filename) {
-            try {
-                let history = JSON.parse(localStorage.getItem(MEDTRIX.config.dbKey) || '[]');
-                // Prevent duplicate error entries
-                if(!qData || !qData.uid) qData = { uid: Date.now(), text: "Unknown", options: [] };
-                
-                history = history.filter(h => h.uid !== qData.uid);
-                history.push({
-                    uid: qData.uid, text: qData.text, explanation: qData.explanation,
-                    timestamp: Date.now(), isCorrect: isCorrect, source: filename, options: qData.options
-                });
-                localStorage.setItem(MEDTRIX.config.dbKey, JSON.stringify(history));
-            } catch(e) {}
+            let history = JSON.parse(localStorage.getItem(MEDTRIX.config.dbKey) || '[]');
+            history = history.filter(h => h.uid !== qData.uid);
+            history.push({
+                uid: qData.uid, text: qData.text, explanation: qData.explanation,
+                timestamp: Date.now(), isCorrect: isCorrect, source: filename, options: qData.options
+            });
+            try { localStorage.setItem(MEDTRIX.config.dbKey, JSON.stringify(history)); } catch(e) {}
         }
     },
 
-    // --- AI ENGINE (Safe & Robust) ---
+    // --- NEW AI MODULE (User Side Key) ---
     ai: {
         defaults: { provider: 'google', key: '', model: 'gemini-2.0-flash', url: '' },
 
@@ -146,20 +118,20 @@ const MEDTRIX = {
             const apiKey = cfg.key ? cfg.key.trim() : "";
             
             if (!apiKey || apiKey.length < 5) {
-                return "⚠️ API Key Missing. Go to Settings to configure AI.";
+                return "⚠️ API Key Missing. Please go to Settings to configure AI.";
             }
 
             try {
                 let responseText = "";
                 
-                // GOOGLE
+                // GOOGLE GEMINI
                 if (cfg.provider === 'google') {
                     const modelName = (cfg.model || 'gemini-2.0-flash').trim();
                     const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${apiKey}`;
                     
                     const res = await fetch(endpoint, {
                         method: "POST", headers: { "Content-Type": "application/json" },
-                        body: JSON.stringify({ contents: [{ parts: [{ text: prompt + "\n\nContext: " + context.substring(0,2000) }] }] })
+                        body: JSON.stringify({ contents: [{ parts: [{ text: prompt + "\n\nContext: " + context.substring(0,1500) }] }] })
                     });
                     
                     const data = await res.json();
@@ -189,16 +161,14 @@ const MEDTRIX = {
                     responseText = data.choices[0].message.content;
                 }
                 return responseText;
-            } catch (e) { return `Connection Failed: ${e.message}`; }
+            } catch (e) { return `Connection Error: ${e.message}`; }
         }
     },
 
     ui: {
         initTheme: function() {
-            try {
-                const theme = localStorage.getItem(MEDTRIX.config.themeKey) || 'light';
-                document.documentElement.setAttribute('data-theme', theme);
-            } catch(e) {}
+            const theme = localStorage.getItem(MEDTRIX.config.themeKey) || 'light';
+            document.documentElement.setAttribute('data-theme', theme);
         },
         toast: function(msg) {
             let t = document.createElement('div');
@@ -210,11 +180,11 @@ const MEDTRIX = {
     }
 };
 
-// Initialize
 MEDTRIX.ui.initTheme();
 
+// --- GLOBAL FACTORY RESET ---
 async function hardReset() {
-    if(confirm("⚠️ FACTORY RESET\n\nDelete all data?\nAre you sure?")) {
+    if(confirm("⚠️ FACTORY RESET\n\nThis will delete ALL data including API Keys and Scores.\nAre you sure?")) {
         localStorage.clear();
         if ('caches' in window) {
             const keys = await caches.keys();
@@ -224,7 +194,7 @@ async function hardReset() {
             const regs = await navigator.serviceWorker.getRegistrations();
             for(let r of regs) await r.unregister();
         }
-        alert("Reset Complete.");
+        alert("System Reset Complete.");
         location.href = "index.html";
     }
 }
