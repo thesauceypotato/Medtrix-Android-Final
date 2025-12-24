@@ -1,10 +1,10 @@
 /**
- * MEDTRIX CORE ENGINE v3.6 (AI Stability Edition)
+ * MEDTRIX CORE ENGINE v3.8 (Emergency Fix)
  */
 
 const MEDTRIX = {
     config: {
-        version: '3.6',
+        version: '3.8',
         themeKey: 'medtrix-theme',
         dbKey: 'medtrix_analytics',
         aiKey: 'medtrix_ai_config' 
@@ -22,34 +22,66 @@ const MEDTRIX = {
                 let rawList = await res.json();
                 this._manifestCache = rawList;
                 return rawList;
-            } catch (e) { console.error(e); return []; }
+            } catch (e) { 
+                console.error("Manifest Error:", e); 
+                return []; 
+            }
         },
 
         getQuiz: async function(filename) {
+            // 1. Return Cache if available
             if (this._fileCache[filename]) return this._fileCache[filename];
+            
             try {
+                // 2. Fetch File
                 const res = await fetch(`./quiz_data/${filename}`);
+                if(!res.ok) throw new Error("File not found");
                 const data = await res.json();
                 
-                // Normalization Logic
-                if(data.questions) {
+                // 3. SAFE Normalization (Prevents Crashing)
+                if(data.questions && Array.isArray(data.questions)) {
                     data.questions = data.questions.map(q => {
-                        if(typeof q.question === 'object') q.text = q.question.text || JSON.stringify(q.question);
-                        else q.text = q.question || q.text;
+                        try {
+                            // Fix Question Text
+                            if(!q.text) {
+                                if(q.question && typeof q.question === 'object') {
+                                    q.text = q.question.text || JSON.stringify(q.question);
+                                } else {
+                                    q.text = q.question || "Error: Question Text Missing";
+                                }
+                            }
 
-                        if(q.options) {
-                            if(!Array.isArray(q.options)) q.options = Object.values(q.options);
+                            // Fix Options (Force Array)
+                            if(!q.options) q.options = [];
+                            if(!Array.isArray(q.options) && typeof q.options === 'object') {
+                                q.options = Object.values(q.options);
+                            }
+                            
+                            // Normalize Option Structure
                             q.options = q.options.map(opt => {
-                                if(typeof opt === 'object') return { text: opt.text || opt.value, correct: opt.correct || false };
-                                return { text: opt, correct: false };
+                                if(typeof opt === 'object' && opt !== null) {
+                                    return { text: opt.text || opt.value || "Option", correct: opt.correct || false };
+                                }
+                                return { text: String(opt), correct: false };
                             });
+
+                            return q;
+                        } catch(err) {
+                            console.warn("Skipping broken question:", err);
+                            return { text: "Error loading question", options: [] };
                         }
-                        return q;
                     });
+                } else {
+                    // If file has no questions, return empty
+                    data.questions = [];
                 }
+
                 this._fileCache[filename] = data;
                 return data;
-            } catch (e) { return null; }
+            } catch (e) { 
+                console.error("Quiz Load Error:", e);
+                return null; 
+            }
         },
 
         formatTitle: function(rawName) {
@@ -81,59 +113,64 @@ const MEDTRIX = {
 
     db: {
         saveResult: function(qData, isCorrect, filename) {
-            let history = JSON.parse(localStorage.getItem(MEDTRIX.config.dbKey) || '[]');
-            history = history.filter(h => h.uid !== qData.uid);
-            history.push({
-                uid: qData.uid, text: qData.text, explanation: qData.explanation,
-                timestamp: Date.now(), isCorrect: isCorrect, source: filename, options: qData.options
-            });
-            try { localStorage.setItem(MEDTRIX.config.dbKey, JSON.stringify(history)); } catch(e) {}
+            try {
+                let history = JSON.parse(localStorage.getItem(MEDTRIX.config.dbKey) || '[]');
+                // Prevent duplicate error entries
+                if(!qData || !qData.uid) qData = { uid: Date.now(), text: "Unknown", options: [] };
+                
+                history = history.filter(h => h.uid !== qData.uid);
+                history.push({
+                    uid: qData.uid, text: qData.text, explanation: qData.explanation,
+                    timestamp: Date.now(), isCorrect: isCorrect, source: filename, options: qData.options
+                });
+                localStorage.setItem(MEDTRIX.config.dbKey, JSON.stringify(history));
+            } catch(e) {}
         }
     },
 
-    // --- AI ENGINE (UPDATED v3.6) ---
+    // --- AI ENGINE (Safe & Robust) ---
     ai: {
         defaults: { provider: 'google', key: '', model: 'gemini-2.0-flash', url: '' },
 
         getConfig: function() {
-            return JSON.parse(localStorage.getItem(MEDTRIX.config.aiKey)) || this.defaults;
+            try {
+                const saved = JSON.parse(localStorage.getItem(MEDTRIX.config.aiKey)) || {};
+                return { ...this.defaults, ...saved };
+            } catch(e) { return this.defaults; }
         },
 
         ask: async function(prompt, context) {
             if(!navigator.onLine) return "AI is unavailable offline.";
             
-            // 1. LOAD CONFIG
             const cfg = this.getConfig();
             const apiKey = cfg.key ? cfg.key.trim() : "";
             
-            // 2. SAFETY CHECK (Prevents the 'Unregistered Caller' error)
-            if (!apiKey || apiKey.length < 10) {
-                return "⚠️ API Key Missing. Please go to Settings and paste your Google Gemini API Key.";
+            if (!apiKey || apiKey.length < 5) {
+                return "⚠️ API Key Missing. Go to Settings to configure AI.";
             }
 
             try {
                 let responseText = "";
-
-                // GOOGLE GEMINI
+                
+                // GOOGLE
                 if (cfg.provider === 'google') {
-                    const modelName = cfg.model || 'gemini-2.0-flash';
+                    const modelName = (cfg.model || 'gemini-2.0-flash').trim();
                     const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${apiKey}`;
                     
                     const res = await fetch(endpoint, {
                         method: "POST", headers: { "Content-Type": "application/json" },
-                        body: JSON.stringify({ contents: [{ parts: [{ text: prompt + "\n\nContext: " + context.substring(0,1500) }] }] })
+                        body: JSON.stringify({ contents: [{ parts: [{ text: prompt + "\n\nContext: " + context.substring(0,2000) }] }] })
                     });
                     
                     const data = await res.json();
                     if (data.error) throw new Error(data.error.message);
-                    responseText = data.candidates[0].content.parts[0].text;
+                    responseText = data.candidates?.[0]?.content?.parts?.[0]?.text || "No response.";
                 } 
-                
                 // OPENAI / OTHERS
                 else {
                     const baseUrl = cfg.url || 'https://api.openai.com/v1';
                     const finalUrl = baseUrl.endsWith('/') ? `${baseUrl}chat/completions` : `${baseUrl}/chat/completions`;
-                    const modelName = cfg.model || 'gpt-3.5-turbo';
+                    const modelName = (cfg.model || 'gpt-3.5-turbo').trim();
 
                     const res = await fetch(finalUrl, {
                         method: "POST",
@@ -148,23 +185,20 @@ const MEDTRIX = {
                     });
 
                     const data = await res.json();
-                    if (data.error) throw new Error(data.error.message || JSON.stringify(data.error));
+                    if (data.error) throw new Error(data.error.message);
                     responseText = data.choices[0].message.content;
                 }
-
                 return responseText;
-
-            } catch (e) { 
-                console.error(e);
-                return `AI Connection Error: ${e.message}`; 
-            }
+            } catch (e) { return `Connection Failed: ${e.message}`; }
         }
     },
 
     ui: {
         initTheme: function() {
-            const theme = localStorage.getItem(MEDTRIX.config.themeKey) || 'light';
-            document.documentElement.setAttribute('data-theme', theme);
+            try {
+                const theme = localStorage.getItem(MEDTRIX.config.themeKey) || 'light';
+                document.documentElement.setAttribute('data-theme', theme);
+            } catch(e) {}
         },
         toast: function(msg) {
             let t = document.createElement('div');
@@ -176,10 +210,11 @@ const MEDTRIX = {
     }
 };
 
+// Initialize
 MEDTRIX.ui.initTheme();
 
 async function hardReset() {
-    if(confirm("⚠️ FACTORY RESET\n\nThis will delete ALL data including API Keys.\nAre you sure?")) {
+    if(confirm("⚠️ FACTORY RESET\n\nDelete all data?\nAre you sure?")) {
         localStorage.clear();
         if ('caches' in window) {
             const keys = await caches.keys();
@@ -189,7 +224,7 @@ async function hardReset() {
             const regs = await navigator.serviceWorker.getRegistrations();
             for(let r of regs) await r.unregister();
         }
-        alert("System Reset Complete.");
+        alert("Reset Complete.");
         location.href = "index.html";
     }
 }
