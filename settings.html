@@ -13,18 +13,18 @@
         :root {
             --bg: #f3f4f6; --bg-gradient: radial-gradient(circle at 0% 0%, #e0f2fe, #f3f4f6);
             --glass: rgba(255, 255, 255, 0.85); --border: 1px solid rgba(255, 255, 255, 0.9);
-            --text: #1f2937; --danger: #ef4444; --accent: #2563eb;
+            --text: #1f2937; --danger: #ef4444; --accent: #2563eb; --success: #10b981;
         }
         [data-theme="dark"] {
             --bg: #0f172a; --bg-gradient: radial-gradient(circle at 50% 0%, #1e293b, #0f172a);
             --glass: rgba(30, 41, 59, 0.75); --border: 1px solid rgba(255, 255, 255, 0.08);
-            --text: #f1f5f9;
+            --text: #f1f5f9; --accent: #00e5ff;
         }
 
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: 'Poppins', sans-serif; background: var(--bg); background-image: var(--bg-gradient); color: var(--text); min-height: 100vh; padding: 20px; }
 
-        .container { max-width: 600px; margin: 40px auto; }
+        .container { max-width: 600px; margin: 40px auto; padding-bottom: 50px; }
         
         .header { display: flex; align-items: center; margin-bottom: 30px; }
         .back-btn { font-size: 1.5rem; color: var(--text); text-decoration: none; margin-right: 20px; }
@@ -46,10 +46,22 @@
         .btn-danger { background: rgba(239, 68, 68, 0.1); color: var(--danger); border: 1px solid var(--danger); }
         .btn-danger:active { background: var(--danger); color: white; }
         
-        .btn-action { background: var(--accent); color: white; }
+        .btn-primary { background: var(--accent); color: white; width: 100%; margin-top: 10px; }
+        .btn-test { background: transparent; border: 1px solid var(--accent); color: var(--accent); margin-top: 10px; width: 100%; }
 
         .storage-bar { height: 6px; width: 100%; background: rgba(128,128,128,0.2); border-radius: 3px; margin-top: 5px; overflow: hidden; }
         .storage-fill { height: 100%; background: var(--accent); width: 0%; transition: width 1s; }
+
+        /* INPUT STYLES */
+        .input-group { margin-bottom: 15px; }
+        .input-label { display: block; font-size: 0.85rem; opacity: 0.8; margin-bottom: 5px; }
+        .styled-input, .styled-select {
+            width: 100%; padding: 12px; border-radius: 8px; border: 1px solid rgba(128,128,128,0.3);
+            background: rgba(128,128,128,0.05); color: var(--text); font-family: inherit; font-size: 0.95rem;
+        }
+        .styled-input:focus { outline: none; border-color: var(--accent); }
+        
+        #custom-url-group { display: none; } /* Hidden by default */
     </style>
 </head>
 <body>
@@ -60,28 +72,58 @@
             <h1>Settings</h1>
         </div>
 
-        <!-- 1. DATA MANAGEMENT -->
+        <!-- 1. AI CONFIGURATION (NEW) -->
+        <div class="section">
+            <h2><i class="fas fa-robot"></i> AI Configuration</h2>
+            
+            <div class="input-group">
+                <label class="input-label">Provider</label>
+                <select id="ai-provider" class="styled-select" onchange="toggleAiFields()">
+                    <option value="google">Google Gemini (Recommended)</option>
+                    <option value="openai">OpenAI Compatible (Groq/DeepSeek/etc)</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label class="input-label">API Key</label>
+                <input type="password" id="ai-key" class="styled-input" placeholder="Paste API Key here...">
+            </div>
+
+            <div class="input-group">
+                <label class="input-label">Model Name</label>
+                <!-- Default is set in JS -->
+                <input type="text" id="ai-model" class="styled-input" placeholder="e.g. gemini-2.5-flash-lite">
+            </div>
+
+            <div class="input-group" id="custom-url-group">
+                <label class="input-label">Base URL (For generic providers)</label>
+                <input type="text" id="ai-url" class="styled-input" placeholder="e.g. https://api.groq.com/openai/v1">
+            </div>
+
+            <button class="btn btn-primary" onclick="saveAiSettings()">SAVE CONFIGURATION</button>
+            <button class="btn btn-test" onclick="testAiConnection()">Test Connection</button>
+        </div>
+
+        <!-- 2. DATA MANAGEMENT -->
         <div class="section">
             <h2>Data Management</h2>
-            
             <div class="row">
                 <div>
                     <b>Factory Reset</b>
-                    <p style="font-size:0.8rem; opacity:0.7;">Deletes all history, bookmarks & scores.</p>
+                    <p style="font-size:0.8rem; opacity:0.7;">Deletes all history & keys.</p>
                 </div>
                 <button class="btn btn-danger" onclick="hardReset()">RESET</button>
             </div>
-
             <div class="row">
                 <div>
                     <b>Clear Offline Cache</b>
-                    <p style="font-size:0.8rem; opacity:0.7;">Deletes downloaded files/updates.</p>
+                    <p style="font-size:0.8rem; opacity:0.7;">Deletes downloaded files.</p>
                 </div>
                 <button class="btn btn-danger" onclick="clearCache()">CLEAR</button>
             </div>
         </div>
 
-        <!-- 2. STORAGE -->
+        <!-- 3. STORAGE -->
         <div class="section">
             <h2>Offline Storage</h2>
             <div style="margin-bottom:10px;">
@@ -90,12 +132,12 @@
             <div class="storage-bar"><div class="storage-fill" id="s-fill"></div></div>
         </div>
 
-        <!-- 3. ABOUT -->
+        <!-- 4. INFO -->
         <div class="section">
             <h2>System Info</h2>
             <div class="row">
                 <span>Version</span>
-                <span>3.3 (Stable)</span>
+                <span>3.5 (AI Edition)</span>
             </div>
             <div class="row">
                 <span>Mode</span>
@@ -105,7 +147,72 @@
     </div>
 
     <script>
-        // Init Storage Stats
+        // --- AI SETTINGS LOGIC ---
+        
+        // Load settings on startup
+        const savedConfig = JSON.parse(localStorage.getItem(MEDTRIX.config.aiKey)) || {
+            provider: 'google',
+            key: '',
+            model: 'gemini-2.5-flash-lite', // Preset requested model
+            url: ''
+        };
+
+        // Populate Fields
+        document.getElementById('ai-provider').value = savedConfig.provider;
+        document.getElementById('ai-key').value = savedConfig.key;
+        document.getElementById('ai-model').value = savedConfig.model;
+        document.getElementById('ai-url').value = savedConfig.url;
+        
+        toggleAiFields(); // Set initial visibility
+
+        function toggleAiFields() {
+            const provider = document.getElementById('ai-provider').value;
+            const urlGroup = document.getElementById('custom-url-group');
+            const modelInput = document.getElementById('ai-model');
+
+            if (provider === 'google') {
+                urlGroup.style.display = 'none';
+                if(!modelInput.value) modelInput.value = 'gemini-2.5-flash-lite';
+            } else {
+                urlGroup.style.display = 'block';
+                if(modelInput.value.includes('gemini')) modelInput.value = 'gpt-3.5-turbo'; // Reset to generic default if switching
+            }
+        }
+
+        function saveAiSettings() {
+            const config = {
+                provider: document.getElementById('ai-provider').value,
+                key: document.getElementById('ai-key').value.trim(),
+                model: document.getElementById('ai-model').value.trim(),
+                url: document.getElementById('ai-url').value.trim()
+            };
+
+            if(!config.key) { alert("Please enter an API Key."); return; }
+            
+            localStorage.setItem(MEDTRIX.config.aiKey, JSON.stringify(config));
+            MEDTRIX.ui.toast("AI Configuration Saved!");
+        }
+
+        async function testAiConnection() {
+            // Save first ensuring we test the latest inputs
+            saveAiSettings();
+            
+            const btn = document.querySelector('.btn-test');
+            const originalText = btn.innerText;
+            btn.innerText = "Testing...";
+            
+            const response = await MEDTRIX.ai.ask("Say 'Connection Successful'", "System Test");
+            
+            if(response.includes("Error")) {
+                alert("Connection Failed:\n" + response);
+            } else {
+                alert("SUCCESS! AI Responded:\n" + response);
+            }
+            btn.innerText = originalText;
+        }
+
+        // --- EXISTING UTILS ---
+        
         async function checkStorage() {
             if ('storage' in navigator && 'estimate' in navigator.storage) {
                 const {usage, quota} = await navigator.storage.estimate();
@@ -117,19 +224,15 @@
         }
         checkStorage();
 
-        // Check Online Status
         document.getElementById('mode-status').innerText = navigator.onLine ? "Online" : "Offline";
 
-        // Advanced Clear Cache
         async function clearCache() {
-            if(!confirm("Clear downloaded cache files? Pages will reload from internet.")) return;
+            if(!confirm("Clear downloaded cache files?")) return;
             if('caches' in window) {
                 const keys = await caches.keys();
                 await Promise.all(keys.map(key => caches.delete(key)));
                 alert("Cache Cleared.");
                 location.reload();
-            } else {
-                alert("Caching not supported in this environment.");
             }
         }
     </script>
